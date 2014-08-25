@@ -11,6 +11,10 @@ perl parser2.pl Doc/Test/Render_Me.txt > Doc/Test/Output.html
 
 With your browser, view that output file:  {YourRoot}/Doc/Test/Output.html.  
 
+To render different docs, edit Render_Me.txt - putting the doc in the format:
+
+=[Path/Name_of_Doc]
+
 This parser is totally rudimentary and has a few known bugs.  But it let's us write legal forms in their source format and start on the job of making a form book for everyone. 
 
 
