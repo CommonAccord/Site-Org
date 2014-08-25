@@ -1,0 +1,22 @@
+Model.Root=<ol><li>{doc1.Model.Root}</li><li>{doc2.Model.Root}</li><li>{doc3.Model.Root}</li><li>{doc4.Model.Root}</li><li>{doc5.Model.Root}</li><li>{doc6.Model.Root}</li><li>{doc7.Model.Root}</li><li>{doc8.Model.Root}</li><li>{doc9.Model.Root}</li><li>{doc10.Model.Root}</li><li>{doc12.Model.Root}</li></ol>
+
+doc1.=[Deal/AGT_NDA_MIT_Outbound_Demo_3.txt]
+
+doc2.=[Deal/YC_SAFE_AGT_Demo_MFN_1.txt]
+
+doc3.=[Deal/AGT_NDA_MIT_Mutual_Demo_1.txt]
+
+doc4.=[Deal/AGT_NDA_MIT_Inbound_Demo_2.txt]
+
+doc5.=[Deal/Class_Action_Settlement_Demo_1.txt]
+doc6.=[Deal/YC_SAFE_AGT_Demo_Cap_NoDiscount_1.txt]
+
+doc7.=[Form/AGT/Research/Form_MIT_Edu_OSP_USA.txt]
+
+doc8.=[Deal/AGT_Demo_Web_TermsOfUse.txt]
+
+doc9.=[Deal/AGT_Demo_SponsoredResearch.txt]
+doc10.=[Deal/AGT_MasterServices_Demo_1.txt]doc11.=[Deal/500_Startups_KISS_Note_Demo_1_Debt.txt]
+
+doc12.=[Deal/500_Startups_KISS_Note_Demo_2_Equity.txt]
+doc13.=[Deal/AGT_Demo_SponsoredResearch.txt]
