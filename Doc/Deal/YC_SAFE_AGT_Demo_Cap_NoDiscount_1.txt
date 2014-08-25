@@ -1,0 +1,21 @@
+=[Form/AGT/Startup/YC/SAFE/Delta_YC_SAFE_Cap_NoDiscount.txt]
+
+=[Form/AGT/Startup/YC/SAFE/Form_YC_SAFE_Investment.txt]
+
+=[Deal/Demo_Relationship_Acme_Quake.txt]
+
+P1.Handle=Company
+
+P2.Handle=Investor
+
+State.Of=the State of California
+
+Prologue.Recital=&nbsp;
+
+AGT.Effective.YMD=August 22, 2014
+
+Purchase_Amount.$=$50,000
+
+Payment.YMD=December 11, 2013
+
+SAFE.Valuation_Cap.$=$2,000,000

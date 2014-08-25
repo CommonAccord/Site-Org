@@ -1,0 +1,37 @@
+MIT:
+
+<b>MIT</b>=&nbsp
+
+Handle=MIT
+
+ID.Name.Full=Massachusetts Institute of Technology
+
+Corp=MIT Corporation
+
+ID.Addr.1=77 Massachusetts Avenue
+
+ID.Addr.2=Cambridge, Massachusetts 02139-4307
+
+ID.Addr.Type=official
+
+ID.Entity=corporation
+
+<b>MIT OSP</b>=-
+
+OSP={ID.Name.Full} Office of Sponsored Research
+
+TLO=MIT Technology Licensing Office
+
+<b>MIT TLO</b>=-
+
+ID.SignBy=By: <u>{xSignature}</u><br/>Name: {TLO.Dir.ID.Name.Full}<br/>Its: {TLO.Dir.Title}
+
+TLO.Dir.ID.Name.Full=Lita Nelson
+
+TLO.Dir.Title=Director
+
+Contact1.ID.N/A={TLO.Dir.ID.N,T}<br/>{TLO.ID.Addr.N/1/2}
+
+TLO.=[ID_MIT_Edu_TechLicensingOffice.txt]
+
+=[Class/ID.txt]

@@ -1,0 +1,15 @@
+ID.N,E,A={ID.Name.Full}, {ID.Entity.a} whose {ID.Addr.Type} address is {ID.Addr.1,2}
+
+Notice.Block={ID.Addr.N/1/2}
+
+ID.Addr.1,2={ID.Addr.1}, {ID.Addr.2}
+
+ID.Addr.N/1/2={ID.Name.Full}<br/>{ID.Addr.1/2}
+
+ID.Addr.1/2={ID.Addr.1}<br/>{ID.Addr.2}
+
+ID.Entity.a=a {ID.Entity}
+
+Sign.Block=<table border="0" cellpadding="1" cellspacing="1" style="width:300px"><tr><td><strong>{ID.Name.Full}</strong></td></tr><tr><td>(&ldquo;{Handle}&rdquo;)</td></tr><tr><td>{ID.SignBy}</td></tr><tr><td>Date: {Sign.YMD}</td></tr><tr><td>{ID.Addr.1/2}</td></tr></table>
+
+EOF

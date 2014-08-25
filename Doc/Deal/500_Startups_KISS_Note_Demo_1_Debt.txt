@@ -1,0 +1,33 @@
+=[/Form/AGT/Startup/500/Delta_KISS_Debt.txt]
+
+=[/Form/AGT/Startup/500/Form_KISS_Base.txt]
+
+Co.=[Person/ID_Quake_Inc.txt]
+
+Investor.=[Person/ID_Acme_Inc.txt]
+
+Co.Handle=Company
+
+Investor.Handle=Investor
+
+Co.Sign.YMD=August 22, 2014
+
+Co.xSignature=<b>x C Kendall</b>
+
+Investor.Sign.YMD=August 23, 2014
+
+Investor.xSignature=<b>x A Ang</b>
+
+Share.Discount.%=<b>eight percent (8%)</b>
+
+Interest.(%)=<b>four percent (4%)</b>
+
+Maturity.Date.Months=<b>18</b>
+
+NextEquity.Financing.$=<b>$1,000,000</b>
+
+Valuation.Cap.$=<b>$25,000,000</b>
+
+MajorInvestor.Threshold.$=<b>50,000</b>
+
+Series.X=<b>B</b>

@@ -1,0 +1,42 @@
+ID.Name.Full=Acme Inc.
+
+Handle=Acme
+
+www.com=<b>www.acme.com</b>
+
+App=<b>AcMapp</b>
+
+Network=<b>AcMoney</b>.txt
+
+System=<b>AcMagora</b>
+
+takedown@we.com=<b>takedown@acme.com</b>
+
+info@we.com=<b>info@acme.com</b>
+
+ID.Entity=<b>Delaware corporation</b>
+
+ID.Addr.Type=<b>principal</b>
+
+ID.Addr.1=<b>233 Main Street</b>
+
+ID.Addr.2=<b>Redwood City, CA  94063</b>
+
+ID.SignBy=By: <u>{xSignature}</u><br/>Name: {President.ID.Name.Full}<br/>Its: {President.Title}
+
+President.ID.Name.Full=<b>Andrea Ang</b>
+
+President.Title=<b>President</b>
+
+DA.ID.Name.Full=<b>Abigail Altima</b>
+
+DA.ID.Addr.1,2=<b>111 Water Street, Portland ME 00001</b>
+
+DA.ID.Phone=<b>207.555.5550</b>
+
+DA.ID.Fax=<b>207.555.5551</b>
+
+DA.ID.Email={takedown@we.com}
+
+=[Class/ID.txt]
+

@@ -1,0 +1,11 @@
+=[Form/AGT/Web/ToU/Library.txt]
+
+We.=[Person/ID_Acme_Inc.txt]
+
+We.Handle=<b>Acme</b>
+
+Laws.Of=the State of Maine
+
+Court.County,State=Cumberland County, Maine
+
+END
