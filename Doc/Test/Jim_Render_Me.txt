@@ -1,6 +1,6 @@
-[Test/Refactored_Form_MIT_TLO_Mutual.txt]
+=[Test/Refactored_Form_MIT_TLO_Mutual.txt]
 
-=[Form/AGT/Base/Refactored/Form_MIT_TLO_Mutual.txt]
+[Form/AGT/Base/Refactored/Form_MIT_TLO_Mutual.txt]
 
 [Form/AGT/Base/Library_AGT_Secs.txt]
 
