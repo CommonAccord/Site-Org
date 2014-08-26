@@ -4,19 +4,19 @@
 
 Prologue.Heading={Co.ID.Name.Full}<br>INVESTORS&rsquo; RIGHTS AGREEMENT
 
-Prologue.ThisAgreement=This Investors&rsquo; Rights Agreement (this &ldquo;<strong>Agreement</strong>&rdquo;) is made as of {Agt.Effective.YMD} by and among {Co.ID.Name.Full}, a Delaware corporation (the &ldquo;<strong>Company</strong>&rdquo;) and the persons and entities (each, an &ldquo;<strong>Investor</strong>&rdquo; and collectively, the &ldquo;<strong>Investors</strong>&rdquo;) listed on <u>Exhibit&nbsp;A</u> hereto.&nbsp; Unless otherwise defined herein, capitalized terms used in this Agreement have the meanings ascribed to them in <strong>Section 1</strong>.
+Prologue.ThisAgreement=This Investors&rsquo; Rights Agreement (this &ldquo;<strong>Agreement</strong>&rdquo;) is made as of {AGT.Effective.YMD} by and among {Co.ID.Name.Full}, a Delaware corporation (the &ldquo;<strong>Company</strong>&rdquo;) and the persons and entities (each, an &ldquo;<strong>Investor</strong>&rdquo; and collectively, the &ldquo;<strong>Investors</strong>&rdquo;) listed on <u>Exhibit&nbsp;A</u> hereto.&nbsp; Unless otherwise defined herein, capitalized terms used in this Agreement have the meanings ascribed to them in <strong>Section 1</strong>.
 
 <strong>Prologue.Recital=WHEREAS</strong>: The Investors are parties to the Series&nbsp;AA Preferred Stock Purchase Agreement of even date herewith, among the Company and the Investors listed on the Schedule of Investors thereto (the &ldquo;<strong>Purchase Agreement</strong>&rdquo;), and it is a condition to the closing of the sale of the Series AA Preferred Stock (the &ldquo;<strong>Shares</strong>&rdquo;) that the Investors and the Company execute and deliver this Agreement.
 
 <strong>Prologue.NowTherefore=NOW, THEREFORE</strong>: In consideration of the mutual promises and covenants set forth herein, and other consideration, the receipt and adequacy of which is hereby acknowledged, the parties hereto agree as follows:
 
-AGT._Secs=<ol><li>{1._Sec}</li><li>{2._Sec}</li><li>{3._Sec}</li><li>{4._Sec}</li><li>{5._Sec}</li></ol>
+AGT._Secs={1._Sec}</li><li>{2._Sec}</li><li>{3._Sec}</li><li>{4._Sec}</li><li>{5._Sec}
 
 1._Sec=<u>Right of First Refusal</u> <br> {1.1._Sec}
 
 1.1._Sec=The Company hereby grants to each Investor who owns at least {Cap.AA.Ro1R.Threshold.#} Shares or shares of the Company&rsquo;s Common Stock issued upon conversion of the Shares (the &ldquo;<strong>Conversion Stock</strong>&rdquo;) (as presently constituted and subject to subsequent adjustments for stock splits, stock dividends, reverse stock splits and the like) (the &ldquo;<strong>Significant</strong> <strong>Holders</strong>&rdquo;), the right of first refusal to purchase its pro rata share of New Securities (as defined in this Section&nbsp;{1.1(a)}) which the Company may, from time to time, propose to sell and issue after the date of this Agreement.&nbsp; A Significant Holder&rsquo;s pro rata share, for purposes of this right of first refusal, is equal to the ratio of (a) the number of shares of Common Stock owned by such Significant Holder immediately prior to the issuance of New Securities (assuming full conversion of the Shares and exercise of all outstanding convertible securities, rights, options and warrants, directly or indirectly, into Common Stock held by said Significant Holder) to (b) the total number of shares of Common Stock outstanding immediately prior to the issuance of New Securities (assuming full conversion of the Shares and exercise of all outstanding convertible securities, rights, options and warrants, directly or indirectly, held by all of the Significant Holders).<ol><li>{1.1.1._Sec}</li><li>{1.1.2._Sec}</li><li>{1.1.3._Sec}</li><li>{1.1.4._Sec}</li></ol>
 
-1.1.1._Sec=&ldquo;<strong>New Securities</strong>&rdquo; shall mean any capital stock (including Common Stock and/or Preferred Stock) of the Company whether now authorized or not, and rights, convertible securities, options or warrants to purchase such capital stock, and securities of any type whatsoever that are, or may become, exercisable or convertible into capital stock; <u>provided</u> that the term &ldquo;<strong>New Securities</strong>&rdquo; does not include:<ol><li>{1.1.1.1._Sec};</li><li>{1.1.1.2._Sec};</li><li>{1.1.1.3._Sec};</li><li>{1.1.1.4._Sec};</li><li>{1.1.1.5._Sec};</li><li>{1.1.1.6._Sec};</li><li>{1.1.1.7._Sec};</li><li>{1.1.1.8._Sec};</li><li>{1.1.1.9._Sec};</li><li>{1.1.1.10._Sec}; and</li><li>{1.1.1.11._Sec}.</li></ol>
+1.1.1._Sec=&ldquo;<strong>New Securities</strong>&rdquo; shall mean any capital stock (including Common Stock and/or Preferred Stock) of the Company whether now authorized or not, and rights, convertible securities, options or warrants to purchase such capital stock, and securities of any type whatsoever that are, or may become, exercisable or convertible into capital stock; <u>provided</u> that the term &ldquo;<strong>New Securities</strong>&rdquo; does not include:<ol type="a"><li>{1.1.1.1._Sec};</li><li>{1.1.1.2._Sec};</li><li>{1.1.1.3._Sec};</li><li>{1.1.1.4._Sec};</li><li>{1.1.1.5._Sec};</li><li>{1.1.1.6._Sec};</li><li>{1.1.1.7._Sec};</li><li>{1.1.1.8._Sec};</li><li>{1.1.1.9._Sec};</li><li>{1.1.1.10._Sec}; and</li><li>{1.1.1.11._Sec}.</li></ol>
 
 1.1.1.1._Sec=the Shares and the Conversion Stock
 
@@ -145,3 +145,5 @@ Transfer.Legend=THE SHARES REPRESENTED BY THIS CERTIFICATE ARE SUBJECT TO RESTRI
 5.12._Sec=<u>Conflict</u>.&nbsp; In the event of any conflict between the terms of this Agreement and the Company&rsquo;s Certificate of Incorporation or its Bylaws, the terms of the Company&rsquo;s Certificate of Incorporation or its Bylaws, as the case may be, will control.
 
 Sign.Block={Co.ID.Sign.Block} {Inv.1.ID.Sign.Block}
+
+3.1=3.1
