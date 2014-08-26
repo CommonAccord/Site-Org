@@ -1,6 +1,6 @@
 INDEX.Conf.Except._Sec=<u>Exceptions to Confidentiality</u>. Conf.Except.Intro._Cl:<br>{Conf.Except.Intro._Cl}:<ol><li>{Conf.Except.Authorize._cl};</li><li>{Conf.Except.Release._cl};</li><li>{Conf.Except.Finds._cl};</li><li>{Conf.Except.Has._cl};</li><li>{Conf.Except.Makes._cl};</li><li>{Conf.Except.Compelled._cl};</li><li>{Conf.Except.Old._cl};</li><li>{Conf.Except.Public.Becomes._cl};</li><li>{Conf.Except.Public.Is._cl};</li><li>{Conf.Except.Public.Is;Becomes._cl}; and</li><li>{Conf.Except.Residual._cl}.</li></ol>
 
-Conf.Except.Intro._Cl={RP.The.'s} duty and obligation of confidentiality shall not extend to information that
+Conf.Except.Intro._Cl={RP.The's} duty and obligation of confidentiality shall not extend to information that
 <b>Acts of Disclosing Party</b>=First person verbs.
 Conf.Except.Authorize._cl=is used or disclosed by {RP.the} pursuant to authorization by {DP.the} made expressly and in writing
 Conf.Except.Release._cl=<b>Conf.Except.Release._cl</b> Select: <ol><li><b>Conf.Except.Release.Once._cl</b>:  {Conf.Except.Release.Once._cl}</li><li><b>Conf.Except.Release.Widely._cl</b>:  {Conf.Except.Release.Widely._cl}</li></ol>
@@ -8,7 +8,7 @@ Conf.Except.Release._cl=<b>Conf.Except.Release._cl</b> Select: <ol><li><b>Conf.E
 Conf.Except.Release.Once._cl=is disclosed by {DP.the} to a third party without obligation of confidentiality
 Conf.Except.Release.Widely._cl=is no longer protected by {DP.the} as confidential as demonstrated by release to third parties without obligation of confidentiality
 <b>Acts of Receiving Party</b>=Third person verbs.
-Conf.Except.Has._cl=was in {RP.the}’s possession before receipt from {DP.the}
+Conf.Except.Has._cl=was in {RP.the}&rsquo;s possession before receipt from {DP.the}
 Conf.Except.Has._cl.Cond.NotPriorImpart={Conf.Except.Has._cl} {Conf.Except.Has.Cond.NotPriorImpart._cl}
 Conf.Except.Has.Cond.NotPriorImpart._cl=other than through prior disclosure by {DP.the}
 Conf.Except.Makes._cl=is independently developed by {RP.the} without reference to the Confidential Information of {DP.the}

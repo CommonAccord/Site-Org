@@ -28,6 +28,21 @@ This Agreement=This Agreement
 
 this Agreement=this Agreement
 
+DP.The=The Disclosing Party
+
+DP.the=the Disclosing Party
+
+RP.The=The Receiving Party
+
+RP.the=the Receiving Party
+
+RP.A=A Receiving Party
+
+RP.a=a Receiving Party 
+
+RP.The's=The Disclosing Party&rsquo;s
+
+
 www=<a href="https://github.com/CommonAccord/Alpha/blob/master/Doc/
 
 /www=">Source</a>

@@ -1,5 +1,7 @@
 From http://web.mit.edu/tlo/www/misc/forms.html.
 
+=[Form/AGT/Base/Library_Phrases.txt]
+
 <b>Parameters</b>=These fit the agreement to Mutual (as opposed to InBound or OutBound).
 
 Prologue.Heading={AGT.Title}
@@ -210,10 +212,6 @@ P2.Defined={P2.Handle}
 
 P1.Defined={P1.Handle}
 
-DP.The=The Disclosing Party
-
-DP.the=the Disclosing Party
-
 DP.Neither=Neither party
 
 DP.NeitherMakes={DP.Neither} makes
@@ -223,14 +221,6 @@ DP.Each=Each party
 DP.each=each party
 
 DP.Defined=one party (&ldquo;Disclosing Party&rdquo;)
-
-RP.The=The Receiving Party
-
-RP.the=the Receiving Party
-
-RP.A=A Receiving Party
-
-RP.a=a Receiving Party 
 
 <b>Unneeded inconsistency</b="the other party" vs "the other"
 
