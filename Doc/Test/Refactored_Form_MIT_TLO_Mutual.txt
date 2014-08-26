@@ -2,12 +2,11 @@
 
 =[Form/AGT/Base/Library_AGT_Conf_Except_cl.txt]
 
+Conf.Except._Sec={MIT.Conf.Except._Secbb}
 
-Conf._sec={Conf.Defined._Sen} {CC.Students._Sen}
+MIT.Conf.Except._Secbb=<b>{MIT.Conf.Except._Sec}</b>
 
-Limit._Sec=<u>Limitations and Disclaimers</u><ol><li>{Use._Sec}</li><li><b>{Conf.Except._Sec}</b></li><li>{Compelled._Sec}</li><li>{Disclaim.Warranty._Sec}</li><li>{CREATE._Sec}</li><li>{Disclaim.Agency._Sec}</li></ol>
-
-Conf.Except._Sec=<u>Exceptions to Confidentiality</u>.<br>{Conf.Except.Intro._Cl}:<ol><li>{Conf.Except.Finds._cl};</li><li>{Conf.Except.Has._cl};</li><li>{Conf.Except.Makes._cl}; and</li><li>{Conf.Except.Public.Is;Becomes._cl}.</li></ol>
+MIT.Conf.Except._Sec=<u>Exceptions to Confidentiality</u>.<br>{Conf.Except.Intro._Cl}:<ol><li>{Conf.Except.Finds._cl};</li><li>{Conf.Except.Has._cl};</li><li>{Conf.Except.Makes._cl}; and</li><li>{Conf.Except.Public.Is;Becomes._cl}.</li></ol>
 
 
 

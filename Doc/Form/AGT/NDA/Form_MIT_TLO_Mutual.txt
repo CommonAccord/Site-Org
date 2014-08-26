@@ -36,7 +36,7 @@ P2.Contact.Block=For {P2.Handle}:<br>{P2.Contact1.Identity.Full}<br>{P2.Contact2
 
 Prologue.NowTherefore=In consideration of {Therefore.Roles}, the parties hereby agree as follows:
 
-AGT._Secs=<ol><li>{Conf._Sec}</li><li>{Use._Sec}</li><li>{Care._Sec}</li><li>{Compelled._Sec}</li><li>{Disclaim.Warranty._Sec}</li><li>{Term._Sec}</li><li>{Remedy.Conf.Return._Sec}</li><li>{Notice._Sec}</li><li>{Misc._Sec}</li></ol>
+AGT._Secs={Conf._Sec}</li><li>{Use._Sec}</li><li>{Care._Sec}</li><li>{Compelled._Sec}</li><li>{Disclaim.Warranty._Sec}</li><li>{Term._Sec}</li><li>{Remedy.Conf.Return._Sec}</li><li>{Notice._Sec}</li><li>{Misc._Sec}
 
 Conf._Sec=<u>{Conf.Title}</u>. &nbsp;{Conf._sec}
 
@@ -44,15 +44,15 @@ Conf._Sec.Xnum=1
 
 Conf.Title=Confidential Information
 
-Conf._sec={Conf.Defined._Sen}  {Conf.Except._Sen}  {CC.Students._Sen}
+Conf._sec={Conf.Defined._Cl} that {Conf.Impart.List}.&nbsp;  {Conf.Except._Sen}&nbsp;  {CC.Students._Sen}
 
-Conf.Defined._Sen=When used in this Agreement, the term &ldquo;Confidential Information&rdquo; means confidential and proprietary information disclosed by {Conf.Roles} that {Conf.Impart.List}.
+Conf.Defined._Cl=When used in this Agreement, the term &ldquo;Confidential Information&rdquo; means confidential and proprietary information disclosed by {Conf.Roles}
 
 Conf.Impart.List=(i) {Conf.Impart.Marked}, (ii) {Conf.Impart.SubjectMatter}; or (iii) {Conf.Impart.LiveConfirmed}
 
 Conf.Impart.Marked=prior to disclosure, is marked with a legend indicating its confidential status
 
-Conf.Impart.SubjectMatter=is disclosed by {P1.Handle} and is or relates to unpublished research, invention disclosures, or unpublished patent applications
+Conf.Impart.SubjectMatter=is disclosed by {P1.Handle} and is or relates to unpublished research, invention disclosures{q} or unpublished patent applications
 
 Conf.Impart.LiveConfirmed=is disclosed orally or visually, if {DP.the} identifies such information as confidential at the time of disclosure and, within 30 days of such disclosure, delivers to {RP.the}&rsquo;s primary contact for receipt of Confidential Information a notice summarizing the confidential information disclosed
 
@@ -116,7 +116,7 @@ Disclaim.Warranty._Sec=<u>{Disclaim.Warranty.Title}</u>. &nbsp;{Disclaim.Warrant
 
 Disclaim.Warranty.Title=No Warranty
 
-Disclaim.Warranty._sec=All Confidential Information is provided &ldquo;as is.&rdquo;  {DP.NeitherMakes} any warranties, expressed or implied, regarding its Confidential Information&rsquo;s accuracy, completeness, suitability or performance.
+Disclaim.Warranty._sec=All Confidential Information is provided &ldquo;as is.&rdquo;  {DP.NeitherMakes} any warranties, expressed or implied, regarding its Confidential Information&rsquo;s accuracy, completeness, suitability{q} or performance.
 
 Term._Sec=<u>{Term.Title}</u>. &nbsp;{Term._sec}
 
@@ -126,7 +126,7 @@ Term._sec=The term of this Agreement shall commence on the Effective Date and te
 
 Conf.Protect.Period={Conf.Protect.Period.Years} following receipt of the information
 
-Term.Stop.List=(a) {Term.Stop.Done}, (b) {Term.Stop.TimeCertain} or (c) {Term.Stop.Notice}
+Term.Stop.List=(a) {Term.Stop.Done}, (b) {Term.Stop.TimeCertain}{q} or (c) {Term.Stop.Notice}
 
 Term.Stop.Done=conclusion of the Purpose
 
@@ -144,7 +144,11 @@ Notice._Sec=<u>{Notice.Title}</u>. &nbsp;{Notice._sec}
 
 Notice.Title=Notices
 
-Notice._sec=Any notices to be given under this Agreement, other than those contemplated by Section {Conf._Sec.Xnum}, shall be in writing and addressed to the parties as shown below. &nbsp;Notices shall be delivered by certified or registered first class mail (air mail if not domestic) or by commercial courier service and shall be deemed to have been given or made as of the date received.<table><tr><td>For {P1.Handle}:</td><td>For {P2.Handle}:</td></tr><tr><td>{P1.Notice.Block}</td><td>{P2.Notice.Block}</td></tr></table>
+Notice._sec=Any notices to be given under this Agreement{Notice.Except._clqq} shall be in writing and addressed to the parties as shown below. &nbsp;Notices shall be delivered by certified or registered first class mail (air mail if not domestic) or by commercial courier service and shall be deemed to have been given or made as of the date received.<table><tr><td>For {P1.Handle}:</td><td>For {P2.Handle}:</td></tr><tr><td>{P1.Notice.Block}</td><td>{P2.Notice.Block}</td></tr></table>
+
+Notice.Except._clqq=, {Notice.Except._cl},
+
+Notice.Except._cl=other than those contemplated by Section {Conf._Sec.Xnum}
 
 Misc._Sec=<u>{Misc.Title}</u>. &nbsp;<ol><li>{Export._Sec}</li><li>{CREATE._Sec}</li><li>{Disclaim.Agency._Sec}</li><li>{Misc.Entire._Sec}</li><li>{Misc.Assign._Sec}</li><li>{Misc.Sever._Sec}</li><li>{Misc.Waive._Sec}</li><li>{Misc.Law._Sec}</li><li>{Misc.Counterpart._Sec}</li></ol>
 
@@ -166,7 +170,7 @@ Disclaim.Agency._Sec=<u>{Disclaim.Agency.Title}</u>. &nbsp;{Disclaim.Agency._sec
 
 Disclaim.Agency.Title=No Agency or Future Commitment
 
-Disclaim.Agency._sec=The parties do not intend that any agency, partnership, joint venture, or exclusive relationship is created between the parties by this Agreement, and each party is free to pursue relationships and opportunities with others similar to those contemplated by this Agreement. Nothing in this Agreement shall be construed as obligating the parties to enter into any subsequent agreement or relationship.
+Disclaim.Agency._sec=The parties do not intend that any agency, partnership, joint venture{q} or exclusive relationship is created between the parties by this Agreement, and each party is free to pursue relationships and opportunities with others similar to those contemplated by this Agreement. Nothing in this Agreement shall be construed as obligating the parties to enter into any subsequent agreement or relationship.
 
 Misc.Entire._Sec=<u>{Misc.Entire.Title}</u>. &nbsp;{Misc.Entire._sec}
 

@@ -40,7 +40,7 @@ RP.A=A Receiving Party
 
 RP.a=a Receiving Party 
 
-RP.The's=The Disclosing Party&rsquo;s
+RP.The's=The Receiving Party&rsquo;s
 
 
 www=<a href="https://github.com/CommonAccord/Alpha/blob/master/Doc/
