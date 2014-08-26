@@ -8,4 +8,3 @@ Laws.Of=the State of Maine
 
 Court.County,State=Cumberland County, Maine
 
-END
