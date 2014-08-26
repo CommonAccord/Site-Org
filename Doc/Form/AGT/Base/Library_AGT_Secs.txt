@@ -4,7 +4,7 @@
 
 =[Form/AGT/Base/Library_Phrases.txt]
 
-Doc.Meta=({www}Form/AGT/Base/Library_AGT_Secs{/www})
+Doc.Meta=({www}Form/AGT/Base/Library_AGT_Secs.txt{/www})
 
 AGT._Secs={Master.AGT._Secs}
 
