@@ -1,6 +1,6 @@
 Model.Root={Doc.Body}
 
-Doc.Body={Doc.Meta}{AGT.Doc.Body}
+Doc.Body={AGT.Doc.Body}
 
 AGT.Doc.Body={AGT.Prologue}<ol><li>{AGT._Secs}</li></ol>{AGT.Sign}<br>{AGT.Attach}
 

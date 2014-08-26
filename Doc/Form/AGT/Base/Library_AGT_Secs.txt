@@ -1,0 +1,16 @@
+=[Form/AGT/Base/Library_AGT_Misc.txt]
+
+=[Form/AGT/Base/AGT_Frame.txt]
+
+=[Form/AGT/Base/Library_Phrases.txt]
+
+Doc.Meta=({www}Form/AGT/Base/Library_AGT_Secs{/www})
+
+AGT._Secs={Master.AGT._Secs}
+
+Master.AGT._Secs={Deal._Secs}</li><li>{Back.AGT._Secs}
+
+Back.AGT._Secs={Term._Sec}</li><li>{Rep._Sec}</li><li>{Cond._Sec}</li><li>{Cov._Sec}</li><li>{Limit._Sec}</li><li>{Remedy._Sec}</li><li>{Dispute._Sec}</li><li>{Misc._Sec}</li><li>{Def._Sec}
+
+Dispute._Sec=<u>Disputes</u><ol><li>{Dispute.Law._Sec}</li><li>{Dispute.Forum._Sec}</li><li>{Dispute.JuryWaiver._Sec}</li><li>{Dispute.Consent._Sec}</li><li>{Dispute.Injunct._Sec}</li><li>{Dispute.AttyFee._Sec}</li></ol>
+

@@ -1,4 +1,6 @@
-=[Form/AGT/Startup/YC/SeriesAA/Form_YC_AA_InvestorsRightsAgreement.txt]
+=[Form/AGT/Base/Library_AGT_Secs.txt]
+
+[Form/AGT/Startup/YC/SeriesAA/Form_YC_AA_InvestorsRightsAgreement.txt]
 
 [Form/AGT/Startup/YC/SeriesAA/Form_YC_AA_CertificateOfIncorporation.txt]
 
