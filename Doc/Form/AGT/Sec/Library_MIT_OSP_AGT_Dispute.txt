@@ -1,0 +1,26 @@
+Dispute._Sec=<u>Disputes</u><ol><li>{Dispute.Law._Sec}</li><li>{Dispute.Notice._Sec}</li><li>{Dispute.Mediate._Sec}</li><li>{Dispute.Forum._Sec}</li><li>{Dispute.JuryWaiver._Sec}</li><li>{Dispute.Consent._Sec}</li><li>{Dispute.Injunct._Sec}</li><li>{Dispute.AttyFee._Sec}</li></ol>
+
+MIT OSP provisions:
+
+Dispute.Law._Sec=<u>Governing Law</u>.<br>The validity and interpretation of {this Agreement} and the legal relationship of the Parties to it shall be governed by the laws of {Laws.Of} and the applicable U.S. Federal law.
+
+Dispute.Mediate._Sec=<u>Mediation</u>.<br>If a dispute arises between the Parties, either Party may notify the other of its desire to mediate the dispute and the dispute shall be mediated. <ol><li>{Dispute.Mediate._List}</li></ol>
+
+Dispute.Mediate._List={Dispute.Mediate.Appoint._Sec}</li><li>{Dispute.Mediate.NonBinding._Sec}</li><li>{Dispute.Mediate.AttyFee._Sec}</li><li>{Dispute.Mediate.Failure._Sec}
+
+Dispute.Mediate.Appoint._Sec=<u>Mediator</u>.<br>The mediation shall be conducted by a single mediator. The Party requesting mediation shall designate two (2) or more nominees for mediator in its notice. &nbsp; The other Party may accept one of the nominees or may designate its own nominees by notice addressed to {Arb.Institute._cl} and copied to the requesting Party.&nbsp; If within, thirty (30) days following the request for mediation, the Parties have not selected a mutually acceptable mediator, a mediator shall be appointed by {Arb.Appoint.Default._cl}.
+
+Arb.Institute._cl=the American Arbitration Association (AAA)
+
+Arb.Appoint.Default._cl=the AAA according to the Commercial Mediation Rules
+
+Dispute.Mediate.NonBinding._Sec=<u>Non-Binding</u>.<br>The mediator shall attempt to facilitate a negotiated settlement of the dispute, but shall have no authority to impose any settlement terms on the Parties.
+
+Dispute.Mediate.AttyFee._Sec=<u>Expenses of Mediation</u>.&nbsp; The expenses of the mediation shall be borne equally by the Parties, but each Party shall be responsible for its own counsel fees and expenses.
+
+Dispute.Mediate.Failure._Sec=<u>Failed Mediation</u>.<br>If the dispute is not resolved by mediation within forty-five (45) days after commencement of mediation, each Party shall be entitled to pursue any right or other legal remedy the Party may otherwise have.
+
+Dispute.Injunct._Sec=<u>Right to Seek Equitable Relief</u>.<br>Notwithstanding the provisions of this Section, a Party may bring suit in a court of competent jurisdiction for equitable relief from the other Party&rsquo;s alleged breach of its confidentiality obligations without first mediating the issue.
+
+
+

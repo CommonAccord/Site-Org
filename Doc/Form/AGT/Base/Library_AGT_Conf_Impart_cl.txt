@@ -1,0 +1,28 @@
+Conf.Impart.List=(i) {Conf.Impart.Marked}, (ii) {Conf.Impart.SubjectMatter}; or (iii) {Conf.Impart.LiveConfirmed}
+
+
+INDEX.Conf.Impart._Sec=<u>Notice of Confidentiality</u>.&nbsp; {Conf.Impart.Intro._Cl}:<ol><li>{Conf.Impart.Marked._cl};</li><li>{Conf.Impart.SubjectMatter.ResearchAndPatent._cl};</li><li>{Conf.Impart.Live.DeclaredAndConfirmed._cl};</li><li>{Conf.Impart.Live.Declared._cl};</li><li>{Conf.Impart.Live.Premises._cl};</li><li>{Conf.Impart.Live.Meeting._cl Conf.Impart.Objects._cl};</li><li>{Conf.Impart.Login._cl}; or</li><li>{Conf.Impart.Obvious._cl}.</li></ol>
+
+Conf.Impart.Intro._Cl={RP.The} is bound only with respect to information that
+
+FROM MIT TLO:
+
+Conf.Impart.Marked._cl=prior to disclosure, is marked with a legend indicating its confidential status
+
+Conf.Impart.SubjectMatter.ResearchAndPatent._cl=is disclosed by {P1.Handle} and is or relates to unpublished research, invention disclosures{q} or unpublished patent applications
+
+Conf.Impart.Live.DeclaredAndConfirmed._cl=is disclosed orally or visually, if {DP.the} identifies such information as confidential at the time of disclosure and, within 30 days of such disclosure, delivers to {RP.the}&rsquo;s primary contact for receipt of Confidential Information a notice summarizing the confidential information disclosed
+
+OTHER:
+
+Conf.Impart.Live.Declared._cl=is identified as confidential at the time of disclosure
+
+Conf.Impart.Live.Premises._cl=is learned by discussion or observation during a visit to the premises of the Disclosing Party
+
+Conf.Impart.Live.Meeting._cl=is learned by discussion or observation during a face-to-face meeting of the parties
+
+Conf.Impart.Objects._cl=is learned from objects received by {RP.the} from {DP.the}
+
+Conf.Impart.Login._cl=is learned by accessing a database of {DP.the}
+
+Conf.Impart.Obvious._cl=is, by its nature or context, obviously confidential

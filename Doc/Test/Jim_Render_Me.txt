@@ -1,8 +1,28 @@
-=[Test/Refactored_Form_MIT_TLO_Mutual.txt]
+=[Form/AGT/Sec/Library_MIT_OSP_AGT_Dispute.txt]
+
+Model.Root={Dispute._Sec}
+
+[Test/Refactored_Form_MIT_TLO_Mutual.txt]
 
 [Form/AGT/Base/Refactored/Form_MIT_TLO_Mutual.txt]
 
 [Form/AGT/NDA/Form_MIT_TLO_Mutual.txt]
+
+
+=[Deal/Demo_Relationship_MIT_Quake.txt]
+
+P2.Handle=Company
+
+AGT.Effective.YMD=August 23, 2014
+
+Prologue.Recital={_delete_}
+
+State.Of=the Commonwealth of Massachusetts
+
+AGT.Attach=&nbsp;
+
+Deal.#=Contract 2014-01-234l2
+
 
 [Form/AGT/Base/Library_AGT_Secs.txt]
 

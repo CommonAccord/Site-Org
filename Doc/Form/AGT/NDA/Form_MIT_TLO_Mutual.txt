@@ -1,5 +1,7 @@
 From http://web.mit.edu/tlo/www/misc/forms.html.
 
+=[Form/AGT/Base/AGT_Frame.txt]
+
 =[Form/AGT/Base/Library_Phrases.txt]
 
 <b>Parameters</b>=These fit the agreement to Mutual (as opposed to InBound or OutBound).
@@ -24,7 +26,14 @@ Export.Consent._cl=the written consent of {RP.theOther}. &nbsp;In the case of {P
 
 <b>Text</b>=
 
-Prologue.ThisAgreement=This Agreement is made effective as of {AGT.Effective.YMD} (the &ldquo;Effective Date&rdquo;) between {P2.ID.N,E,A} (&ldquo;{P2.Defined}&rdquo;), and {P1.ID.N,E,A} ("{P1.Defined}&rdquo;), in anticipation of {Purpose.Roles} for the purpose of evaluating technology licensing opportunities {relating to} {Deal.#} (the &ldquo;Purpose&rdquo;).
+Prologue.ThisAgreement={MIT.Prologue.ThisAgreement._Sen}
+
+MIT.Prologue.ThisAgreement._Sen={MIT.Prologue.ThisAgreement._Cl}, in anticipation of {Purpose._cl}.
+
+
+MIT.Prologue.ThisAgreement._Cl=This Agreement is made effective as of {AGT.Effective.YMD} (the &ldquo;Effective Date&rdquo;) between {P2.ID.N,E,A} (&ldquo;{P2.Defined}&rdquo;), and {P1.ID.N,E,A} ("{P1.Defined}&rdquo;)
+
+Purpose._cl={Purpose.Roles} for the purpose of evaluating technology licensing opportunities {relating to} {Deal.#} (the &ldquo;Purpose&rdquo;)
 
 Prologue.Recital={Contact._Sen}
 
@@ -76,7 +85,11 @@ Use._Sec=<u>{Use.Title}</u>. &nbsp;{Use._sec}
 
 Use.Title=Limitations on Use
 
-Use._sec={RP.The} shall use {DP.the}&rsquo;s Confidential Information solely for the Purpose. &nbsp;Disclosure by {DP.the} of its Confidential Information does not constitute a grant to {RP.the} of any right or license to {DP.the}&rsquo;s Confidential Information, except as set forth herein.
+Use._sec={Conf.Use._Sen}&nbsp; {Limit.NoLicense._Sen}
+
+Conf.Use._Sen={RP.The} shall use {DP.the}&rsquo;s Confidential Information solely for the Purpose.
+
+Limit.NoLicense._Sen=Disclosure by {DP.the} of its Confidential Information does not constitute a grant to {RP.the} of any right or license to {DP.the}&rsquo;s Confidential Information, except as set forth herein.
 
 Care._Sec=<u>{Care.Title}</u>. &nbsp;{Care._sec}
 
@@ -241,5 +254,3 @@ party=party
 Agt.Attachment={_delete_}
 
 relating to=relating to
-
-=[Form/AGT/Base/AGT_Frame.txt]
