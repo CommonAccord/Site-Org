@@ -1,4 +1,7 @@
-=[Form/AGT/Acquisition/ABA_MSPA/Library_MSPA_AGT.txt]
+=[Deal/500_Startups_KISS_Note_Demo_1_Debt.txt]
+_delete_=&nbsp;
+
+[Form/AGT/Acquisition/ABA_MSPA/Library_MSPA_AGT.txt]
 
 [Form/AGT/Acquisition/ABA_MSPA/Library_MSPA_AGT_BuyerCond.txt]
 

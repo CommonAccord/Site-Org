@@ -1,53 +1,3 @@
-<b>Parameters for Debt/Equity</br>=We’re putting the materials for both alternatives here.  They are selected (for dept or equity) in the Delta pages.
-
-Debt.NowTherefore.1=FOR VALUE RECEIVED, {Co.ID.Name.Full}, a Delaware corporation (the &ldquo;Company&rdquo;), hereby promises to pay to the order of {Investor.ID.N,E,A} (the &ldquo;Investor&rdquo;), the principal sum of the Purchase Price, together with interest thereon from the Date of Issuance.  Interest shall accrue at the Interest Rate.  Unless earlier converted into Conversion Shares pursuant to Section 2, the principal and accrued interest shall be due and payable by the Company on demand by the Majority in Interest at any time after the Maturity Date.
-
-Equity.NowTherefore.1=For the Purchase Price, the receipt and sufficiency of which is hereby acknowledged, this KISS is issued on the Date of Issuance by {Co.ID.Name.Full}, a Delaware corporation (the &ldquo;Company&rdquo;), to {Investor.ID.N,E,A} (the &ldquo;Investor&rdquo;)
-
-Debt.1.1.d.Equals=all accrued and unpaid interest due on this KISS plus two times (2X) the Purchase Price.
-
-Equity.1.1.d.Equals=two times (2X) the Purchase Price.
-
-Debt.1.1.j.tx=&ldquo;Interest Rate&rdquo; shall mean a rate of {Interest.(%)} per annum, compounded annually.
-
-Equity.1.1.j.tx={_delete_}
-
-Debt.2.1.Numerator=the Purchase Price and unpaid accrued interest on this KISS
-
-Equity.2.1.Numerator=the Purchase Price
-
-Debt.2.1.CashPayInterest=Notwithstanding the foregoing, accrued interest on this KISS may be paid in cash at the option of the Company.
-
-Equity.2.1.CashPayInterest={_delete_}
-
-Debt.2.2.Option2={_delete_}
-
-Equity.2.2.Option2=the Investor shall be paid the Corporate Transaction Payment, prior and in preference to any distribution of any of the cash or other assets of the Company to holders of the Company's capital stock by reason of their ownership of such stock
-
-Debt.5.3.CreditPayment=accrued interest due and payable and any remainder applied to principal or} the Corporate Transaction Payment, as applicable.  Prepayment of principal, together with accrued interest, may not be made without the prior written consent of the Investor.
-
-Equity.5.3.CreditPayment=the Corporate Transaction Payment
-
-Debt.5.1.a-c=(a) conversion of this KISS, (b) a Corporate Transaction or (c) payment in full of all outstanding principal and accrued interest in accordance with this KISS
-
-Equity.5.1.a-c=(a) conversion of this KISS or (b) a Corporate Transaction
-
-Debt.5.5.tx=<u>Security</u>.  This KISS is a general unsecured obligation of the Company.
-
-Equity.5.5.tx={_delete_}
-
-Debt.5.14.Xref.List=2.2, 5.2 (if and only if Investor is a Major Investor), 5.3, 5.6, 5.13 and 5.14
-
-Equity.5.14.Xref.List=2.2, 5.2 (if and only if Investor is a Major Investor), 5.3, 5.5, 5.12 and 5.13
-
-Debt.5.14=5.14
-
-Equity.5.14=5.13
-
-Debt.5.15.tx={_delete_}
-
-Equity.5.15.tx=<u>Priority</u>.  This KISS shall rank pari passu in all respects (including right of payment) to all other KISSes and all convertible indebtedness of the Company, now or hereafter existing.
-
 <b>The Base Document</b>=Common elements.
 
 Model.Root={KISS.Doc.Body}
@@ -56,7 +6,7 @@ KISS.Doc.Body={Prologue}<ol><li>{AGT._Secs}</li></ol>{Signature}
 
 Prologue={Prologue.ThisAgreement}<br><br>{Prologue.Recital}<br>{Prologue.NowTherefore}
 
-AGT._Secs=<ol><li>{1.tx}</li><li>{2.tx}</li><li>{3.tx}</li><li>{4.tx}</li><li>{5.tx}</li><li>{6.tx}</li></ol>
+AGT._Secs={1.tx}</li><li>{2.tx}</li><li>{3.tx}</li><li>{4.tx}</li><li>{5.tx}</li><li>{6.tx}
 
 1.tx=<u>Definitions</u>.<ol><li>{1.1.a.tx}</li><li>{1.1.b.tx}</li><li>{1.1.c.tx}</li><li>{1.1.d.tx}</li><li>{1.1.e.tx}</li><li>{1.1.f.tx}</li><li>{1.1.g.tx}</li><li>{1.1.h.tx}</li><li>{1.1.i.tx}</li><li>{1.1.j.tx}</li><li>{1.1.k.tx}</li><li>{1.1.l.tx}</li><li>{1.1.m.tx}</li><li>{1.1.n.tx}</li><li>{1.1.o.tx}</li><li>{1.1.p.tx}</li><li>{1.1.q.tx}</li><li>{1.1.r.tx}</li></ol>
 
@@ -158,7 +108,7 @@ NowTherefore.2=This KISS is one of a series of Series {Series.X} KISSes issued b
 
 5.1.tx=<u>Most Favored Nation</u>.  In the event the Company sells or issues any convertible instruments (other than the issuance of stock options to service providers of the Company) at any time prior to the earlier of {5.1.a-c}, the Company shall provide the Investor with written notice of such sale or issuance no later than five (5) days after the closing date thereof, including the price and terms of such convertible instruments (the &ldquo;Subsequent Instruments&rdquo;.  In the event the Investor determines, in its sole and absolute discretion, that any Subsequent Instrument contains terms more favorable to the holder(s) thereof than the terms set forth in this KISS, the Investor may elect to exchange this KISS for a Subsequent Instrument.
 
-5.2.tx=<u>Major Investor Rights</u>.  In the event the Investor, together with its affiliates, purchases one or more KISSes with an aggregate Purchase Price equal to or exceeding {MajorInvestor.Threshold.US} (a &ldquo;Major Investor&rdquo;), the Company shall provide such Major Investor with the following rights:<ol><li>{5.2.a.tx}</li><li>{5.2.b.tx}</li><li>{5.2.c.tx}</li></ol>
+5.2.tx=<u>Major Investor Rights</u>.  In the event the Investor, together with its affiliates, purchases one or more KISSes with an aggregate Purchase Price equal to or exceeding {MajorInvestor.Threshold.$} (a &ldquo;Major Investor&rdquo;), the Company shall provide such Major Investor with the following rights:<ol><li>{5.2.a.tx}</li><li>{5.2.b.tx}</li><li>{5.2.c.tx}</li></ol>
 
 5.2.a.tx=<u>Information Rights</u>.  To the extent that the Company prepares Financial Statements, the Company shall deliver to the Major Investor such Financial Statements upon request, as soon as practicable, but in any event within thirty (30) days after the end of each of the first three (3) quarters of each fiscal year of the Company and within ninety (90) days after the end of each fiscal year of the Company.  Such Financial Statements shall be in reasonable detail and prepared on a consistent basis.  Additionally, regardless of whether the Company prepares Financial Statements, the Company shall deliver to the Major Investor such information relating to the financial condition, business or corporate affairs of the Company as such Major Investor may from time to time reasonably request.  Notwithstanding anything to the contrary in this Section 5.2(a), the Company shall not be obligated under this Section 5.2(a) to provide information that (x) it deems in good faith to be a trade secret or highly confidential information or (y) the disclosure of which would adversely affect the attorney-client privilege between the Company and its counsel; and the Investor agrees to maintain the confidentiality of all of the information provided to the Investor under this Section 5.2(a) and agrees not to use such information other than for a purpose reasonably related to the Investor's investment in the Company.
 
@@ -193,3 +143,53 @@ NowTherefore.2=This KISS is one of a series of Series {Series.X} KISSes issued b
 6.tx=<u>Approval</u>.  The Company hereby represents that its Board of Directors, in the exercise of its fiduciary duty, has approved the Company's execution of this KISS based upon a reasonable belief that the Purchase Price provided hereunder is appropriate for the Company after reasonable inquiry concerning the Company's financing objectives and financial situation.  In addition, the Company hereby represents that it intends to use the Purchase Price primarily for the operations of its business, and not for any personal, family or household purpose.
 
 Signature={Co.Sign.Block}<br><b>ACKNOWLEDGED AND AGREED:</b>{Investor.Sign.Block}
+
+<b>Parameters for Debt/Equity</br>=We’re putting the materials for both alternatives here.  They are selected (for dept or equity) in the Delta pages.
+
+Debt.NowTherefore.1=FOR VALUE RECEIVED, {Co.ID.Name.Full}, a Delaware corporation (the &ldquo;Company&rdquo;), hereby promises to pay to the order of {Investor.ID.N,E,A} (the &ldquo;Investor&rdquo;), the principal sum of the Purchase Price, together with interest thereon from the Date of Issuance.  Interest shall accrue at the Interest Rate.  Unless earlier converted into Conversion Shares pursuant to Section 2, the principal and accrued interest shall be due and payable by the Company on demand by the Majority in Interest at any time after the Maturity Date.
+
+Equity.NowTherefore.1=For the Purchase Price, the receipt and sufficiency of which is hereby acknowledged, this KISS is issued on the Date of Issuance by {Co.ID.Name.Full}, a Delaware corporation (the &ldquo;Company&rdquo;), to {Investor.ID.N,E,A} (the &ldquo;Investor&rdquo;)
+
+Debt.1.1.d.Equals=all accrued and unpaid interest due on this KISS plus two times (2X) the Purchase Price.
+
+Equity.1.1.d.Equals=two times (2X) the Purchase Price.
+
+Debt.1.1.j.tx=&ldquo;Interest Rate&rdquo; shall mean a rate of {Interest.(%)} per annum, compounded annually.
+
+Equity.1.1.j.tx={_delete_}
+
+Debt.2.1.Numerator=the Purchase Price and unpaid accrued interest on this KISS
+
+Equity.2.1.Numerator=the Purchase Price
+
+Debt.2.1.CashPayInterest=Notwithstanding the foregoing, accrued interest on this KISS may be paid in cash at the option of the Company.
+
+Equity.2.1.CashPayInterest={_delete_}
+
+Debt.2.2.Option2={_delete_}
+
+Equity.2.2.Option2=the Investor shall be paid the Corporate Transaction Payment, prior and in preference to any distribution of any of the cash or other assets of the Company to holders of the Company's capital stock by reason of their ownership of such stock
+
+Debt.5.3.CreditPayment=accrued interest due and payable and any remainder applied to principal or} the Corporate Transaction Payment, as applicable.  Prepayment of principal, together with accrued interest, may not be made without the prior written consent of the Investor.
+
+Equity.5.3.CreditPayment=the Corporate Transaction Payment
+
+Debt.5.1.a-c=(a) conversion of this KISS, (b) a Corporate Transaction or (c) payment in full of all outstanding principal and accrued interest in accordance with this KISS
+
+Equity.5.1.a-c=(a) conversion of this KISS or (b) a Corporate Transaction
+
+Debt.5.5.tx=<u>Security</u>.  This KISS is a general unsecured obligation of the Company.
+
+Equity.5.5.tx={_delete_}
+
+Debt.5.14.Xref.List=2.2, 5.2 (if and only if Investor is a Major Investor), 5.3, 5.6, 5.13 and 5.14
+
+Equity.5.14.Xref.List=2.2, 5.2 (if and only if Investor is a Major Investor), 5.3, 5.5, 5.12 and 5.13
+
+Debt.5.14=5.14
+
+Equity.5.14=5.13
+
+Debt.5.15.tx={_delete_}
+
+Equity.5.15.tx=<u>Priority</u>.  This KISS shall rank pari passu in all respects (including right of payment) to all other KISSes and all convertible indebtedness of the Company, now or hereafter existing.

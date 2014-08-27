@@ -1,6 +1,6 @@
-=[/Form/AGT/Startup/500/Delta_KISS_Debt.txt]
+=[Form/AGT/Startup/500/Delta_KISS_Debt.txt]
 
-=[/Form/AGT/Startup/500/Form_KISS_Base.txt]
+=[Form/AGT/Startup/500/Form_KISS_Base.txt]
 
 Co.=[Person/ID_Quake_Inc.txt]
 
@@ -10,7 +10,7 @@ Co.Handle=Company
 
 Investor.Handle=Investor
 
-Co.Sign.YMD=August 22, 2014
+Co.Sign.YMD=<b>August 22, 2014</b>
 
 Co.xSignature=<b>x C Kendall</b>
 
@@ -28,6 +28,6 @@ NextEquity.Financing.$=<b>$1,000,000</b>
 
 Valuation.Cap.$=<b>$25,000,000</b>
 
-MajorInvestor.Threshold.$=<b>50,000</b>
+MajorInvestor.Threshold.$=<b>$50,000</b>
 
 Series.X=<b>B</b>
