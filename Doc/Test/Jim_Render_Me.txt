@@ -1,8 +1,12 @@
+=[Form/AGT/Acquisition/ABA_MSPA/Library_MSPA_AGT_Term.txt]
+
+=[Form/AGT/Acquisition/ABA_MSPA/Library_MSPA_AGT_IPRR.txt]
+
 =[Form/AGT/Acquisition/ABA_MSPA/Library_MSPA_AGT_Misc.txt]
 
 [Form/AGT/Sec/Library_MIT_OSP_AGT_Dispute.txt]
 
-Model.Root={Misc._Sec}
+Model.Root={Term._Sec} {IPRR._Sec} {Misc._Sec}
 
 [Test/Refactored_Form_MIT_TLO_Mutual.txt]
 
