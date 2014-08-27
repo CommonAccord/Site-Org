@@ -17,9 +17,9 @@ To render different docs, edit Render_Me.txt - putting a line like the following
 
 Parsing starts by looking for the first "Model.Root=foo", where foo can be or contain an {expression} to expand. 
 
-* Model.Root={fflb}
 * fflb={Fruit} flies like {bananas}.
 * Fruit=Time
+* Model.Root={fflb}
 * bananas=an arrow
 
 This parser is totally rudimentary and has a few known bugs.  But it lets us write legal forms in their source format and start on the job of making a form book for everyone. 
