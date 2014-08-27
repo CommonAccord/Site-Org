@@ -1,4 +1,4 @@
-Misc._Sec=<u>{Misc.Title}</u><ol><li>{Misc.Expense._Sec}</li><li>{Misc.Announce._Sec}</li><li>{Misc.DisclosureLetter._Sec}</li><li>{Misc.SellerJointAndSeveral._Sec}</li><li>{Misc.SellerRepresentative._Sec}</li><li>{Misc.Further._Sec}</li><li>{Misc.Entire._Sec}</li><li>{Misc.Amend._Sec}</li><li>{Misc.Assign._Sec}</li><li>{Misc.3Party._Sec}</li><li>{Misc.Remedy.Cumulate._Sec}</li><li>{Misc.Law._Sec}</li><li>{Misc.Forum._Sec}</li><li>{Misc.JuryWaiver._Sec}</li><li>{Misc.AttyFee._Sec}</li><li>{Misc.Injunct._Sec}</li><li>{Misc.Waive._Sec}</li><li>{Misc.Notice._Sec}</li><li>{Misc.Sever._Sec}</li><li>{Misc.Time._Sec}</li><li>{Misc.Counterpart._Sec}</li></ol>
+Misc._Sec=<u>{Misc.Title}</u><ol><li>{Misc.Expense._Sec}</li><li>{Misc.Announce._Sec}</li><li>{Misc.DisclosureLetter._Sec}</li><li>{Misc.SellerJointAndSeveral._Sec}</li><li>{Misc.SellerRepresentative._Sec}</li><li>{Misc.Further._Sec}</li><li>{Misc.Entire._Sec}</li><li>{Misc.Amend._Sec}</li><li>{Misc.Assign._Sec}</li><li>{Misc.3Party._Sec}</li><li>{Misc.Remedy.Cumulate._Sec}</li><li>{Misc.Law._Sec}</li><li>{Misc.Forum._Sec}</li><li>{Misc.JuryWaiver._Sec}</li><li>{Misc.AttyFee._Sec}</li><li>{Misc.Waiver._Sec}</li><li>{Misc.Waive._Sec}</li><li>{Misc.Notice._Sec}</li><li>{Misc.Sever._Sec}</li><li>{Misc.Time._Sec}</li><li>{Misc.Counterpart._Sec}</li></ol>
 
 Misc.Expense.Title=EXPENSES
 
@@ -6,13 +6,13 @@ Misc.Expense._Sec=<u>{Misc.Expense.Title}</u><ol><li>{Misc.Expense.01._Sec}</li>
 
 Misc.Expense.01._Sec={Misc.Expense.Base._Sen}&nbsp; {Misc.Expense.Specified._Sen}&nbsp; {Misc.Expense.Burden._Sen}&nbsp; {Misc.Expense.Breach._Sen}
 
-Misc.Expense.Base._Sen=Except as otherwise provided in this Agreement or the other documents to be delivered pursuant to this Agreement, each party will bear its respective fees and expenses incurred in connection with the preparation, negotiation, execution, and performance of this Agreement and the consummation and performance of the Contemplated Transactions, including all fees and expenses of its Representatives.
+Misc.Expense.01.Base._Sen=Except as otherwise provided in this Agreement or the other documents to be delivered pursuant to this Agreement, each party will bear its respective fees and expenses incurred in connection with the preparation, negotiation, execution, and performance of this Agreement and the consummation and performance of the Contemplated Transactions, including all fees and expenses of its Representatives.
 
-Misc.Expense.Specified._Sen=Buyer will pay one-half and Sellers will pay one-half of (i) the HSR Act filing fee and (ii) the fees and expenses of the Escrow Agent under the Escrow Agreement.
+Misc.Expense.01.Specified._Sen=Buyer will pay one-half and Sellers will pay one-half of (i) the HSR Act filing fee and (ii) the fees and expenses of the Escrow Agent under the Escrow Agreement.
 
-Misc.Expense.Burden._Sen=No Acquired Company has incurred, and Sellers will cause the Acquired Companies not to incur, any fees or expenses in connection with this Agreement and the Contemplated Transactions; provided, however, that to the extent such fees and expenses have been incurred by an Acquired Company, Sellers will reimburse the Acquired Company for such fees and expenses prior to the Closing.
+Misc.Expense.01.Burden._Sen=No Acquired Company has incurred, and Sellers will cause the Acquired Companies not to incur, any fees or expenses in connection with this Agreement and the Contemplated Transactions; provided, however, that to the extent such fees and expenses have been incurred by an Acquired Company, Sellers will reimburse the Acquired Company for such fees and expenses prior to the Closing.
 
-Misc.Expense.Breach._Sen=The obligation of each party to bear its own fees and expenses will be subject to any rights of such party arising from a Breach of this Agreement by another party.
+Misc.Expense.01.Breach._Sen=The obligation of each party to bear its own fees and expenses will be subject to any rights of such party arising from a Breach of this Agreement by another party.
 
 Misc.Expense.Tax._Sec=All stamp, documentary, and other transfer Taxes (including any penalties and interest) incurred in connection with this Agreement, whether pertaining to the Shares or any assets and properties of the Acquired Companies, will be paid by Sellers.  Each Seller will, at its own expense, file all necessary Tax Returns and other documentation with respect to all such Taxes.
 

@@ -1,6 +1,8 @@
-=[Form/AGT/Sec/Library_MIT_OSP_AGT_Dispute.txt]
+=[Form/AGT/Acquisition/ABA_MSPA/Library_MSPA_AGT_Misc.txt]
 
-Model.Root={Dispute._Sec}
+[Form/AGT/Sec/Library_MIT_OSP_AGT_Dispute.txt]
+
+Model.Root={Misc._Sec}
 
 [Test/Refactored_Form_MIT_TLO_Mutual.txt]
 
@@ -9,7 +11,7 @@ Model.Root={Dispute._Sec}
 [Form/AGT/NDA/Form_MIT_TLO_Mutual.txt]
 
 
-=[Deal/Demo_Relationship_MIT_Quake.txt]
+[Deal/Demo_Relationship_MIT_Quake.txt]
 
 P2.Handle=Company
 
