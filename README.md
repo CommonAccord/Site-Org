@@ -15,8 +15,12 @@ To render different docs, edit Render_Me.txt - putting a line like the following
 
 =[Path/Name_of_Doc]
 
-and comment out Model.Root= by eliminating the = or adding an x to the name ... Parsing starts by looking for the first "Model.Root=".  
+Parsing starts by looking for the first "Model.Root=foo", where foo can be or contain an {expression} to expand. 
 
+Model.Root={fflb}
+fflb={Fruit} flies like {bananas}.
+Fruit=Time
+bananas=an arrow
 
 This parser is totally rudimentary and has a few known bugs.  But it lets us write legal forms in their source format and start on the job of making a form book for everyone. 
 
@@ -25,3 +29,6 @@ A few highlights:
 
 * Doc/Forms/AGT/Acquisition/ABA_MSPA/ is a mine of excellent drafting.
 * Doc/Deal/ has a number of examples.  (We need to build out the collection of persons.)
+
+Questions?  
+  Primavera and Jim - contact@commonaccord.org
