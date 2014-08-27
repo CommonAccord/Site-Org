@@ -1,0 +1,13 @@
+=[Class/ID.txt]
+
+ID.Name.Full = Gerry's Grapes, LLC
+
+ID.Entity.a = a California LLC
+
+ID.Addr.1 = 100 Main Street
+
+ID.Addr.2 = Redwood City, CA 94063
+
+Contact.Name.Ms = Ms. Graber
+
+Claim.Response.Delay = two business days from the date of the Claim
