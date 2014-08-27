@@ -12,7 +12,7 @@ Term.Stop.BuyerForBreach._Sec=by Buyer if a material Breach of any provision of 
 
 Term.Stop.SellerForBreach._Sec=by Sellers if a material Breach of any provision of this Agreement has been committed by Buyer
 
-Term.Stop.BuyerForCond._Sec=by Buyer if satisfaction of any condition in Article {8} by {Term.Stop.04.Cond.Satis.YMD} or such later date as the parties may agree upon (the "End Date") becomes impossible (other than through the failure of Buyer to comply with its obligations under this Agreement)
+Term.Stop.BuyerForCond._Sec=by Buyer if satisfaction of any condition in Article {8} by {Term.Stop.04.Cond.Satis.YMD} or such later date as the parties may agree upon (the &ldquo;End Date&rdquo;) becomes impossible (other than through the failure of Buyer to comply with its obligations under this Agreement)
 
 Term.Stop.SellerForCond._Sec=by Sellers if satisfaction of any condition in Article {9} by the End Date becomes impossible (other than through the failure of any Seller to comply with its obligations under this Agreement)
 
@@ -24,4 +24,4 @@ Term.After._Sec=<u>{Term.After.Title}</u><br/>{Term.After._Tx}
 
 Term.After.Title=EFFECT OF TERMINATION
 
-Term.After._Tx=Each party's right of termination under Section {10.1} is in addition to any other right it may have under this Agreement (including under Section {12.16}) or otherwise, and the exercise of a party's right of termination will not constitute an election of remedies.  If this Agreement is terminated pursuant to Section {10.1}, this Agreement will be of no further force or effect; provided, however, that (i) this Section {10.2} and Article {12} will survive the termination of this Agreement and will remain in full force and effect, and (ii) the termination of this Agreement will not relieve any party from any liability for any Breach of this Agreement occurring prior to termination.
+Term.After._Tx=Each party&rsquo;s right of termination under Section {10.1} is in addition to any other right it may have under this Agreement (including under Section {12.16}) or otherwise, and the exercise of a party&rsquo;s right of termination will not constitute an election of remedies.  If this Agreement is terminated pursuant to Section {10.1}, this Agreement will be of no further force or effect; provided, however, that (i) this Section {10.2} and Article {12} will survive the termination of this Agreement and will remain in full force and effect, and (ii) the termination of this Agreement will not relieve any party from any liability for any Breach of this Agreement occurring prior to termination.

@@ -1,0 +1,24 @@
+BuyerCov._Sec=<u>{BuyerCov.Title}</u><ol><li>{BuyerCov.01._Sec}</li><li>{BuyerCov.02._Sec}</li><li>{BuyerCov.03._Sec}</li></ol>
+
+BuyerCov.Title=Covenants of Buyer Prior to Closing Date
+
+BuyerCov.01.Title=FILINGS AND NOTIFICATIONS; COOPERATION
+
+BuyerCov.01._Sec=<u>{BuyerCov.01.Title}</u><br>{BuyerCov.01._sec}
+
+BuyerCov.01._sec=As promptly as practicable after the date of this Agreement, and in any event within the applicable time period prescribed by Legal Requirements, Buyer shall, and shall cause each of its Related Persons to, make all filings and notifications required by Legal Requirements to be made by them in connection with the Contemplated Transactions (including all filings under the HSR Act).  Buyer shall, and shall cause each of its Related Persons to, cooperate with each Seller, each Acquired Company, their Related Persons and their respective Representatives (a) with respect to all filings and notifications that any Seller, any Acquired Company, or their Related Persons shall be required by Legal Requirements to make in connection with the Contemplated Transactions and (b) in obtaining all Material Consents; provided, however, that Buyer shall not be required to dispose of or make any change to its business, expend any material funds, or incur any other material obligation in order to comply with this Section {6.1}.
+
+BuyerCov.02.Title=NOTICE
+
+BuyerCov.02._Sec=<u>{BuyerCov.02.Title}</u><ol><li>{BuyerCov.02.01._Sec}</li><li>{BuyerCov.02.02._Sec}</li></ol>
+
+BuyerCov.02.01._Sec=Prior to the Closing Date, Buyer shall promptly provide notice to Sellers of any Breach of any representation or warranty of Buyer or any fact or circumstance that would or would reasonably be likely to cause or constitute a Breach of any such representation or warranty had that representation or warranty been made as of the time of the occurrence of such fact or circumstance.  No such notice will be deemed to have cured any Breach of any representation or warranty or affect any right or remedy of Sellers under this Agreement.  
+
+BuyerCov.02.02._Sec=Prior to the Closing Date, Buyer shall provide notice to Sellers of any Breach of any covenant of Buyer in this Article {6} or any fact or circumstance that could make the satisfaction of any condition in Article {9} impossible or unlikely and of all corrective actions undertaken, or to be undertaken, by Buyer with respect thereto.  No such notice will be deemed to have cured any Breach of any covenant or affect any right or remedy of Sellers under this Agreement.
+
+BuyerCov.03.Title=BEST EFFORTS
+
+BuyerCov.03._Sec=<u>{BuyerCov.03.Title}</u><br>{BuyerCov.03._sec}
+
+BuyerCov.03._sec=Buyer shall use its best efforts to cause the conditions in Article {9} to be satisfied; provided, however, that Buyer shall not be required to dispose of or make any change to its business, expend any material funds, or incur any other material obligation in order to comply with this Section {6.3}.
+

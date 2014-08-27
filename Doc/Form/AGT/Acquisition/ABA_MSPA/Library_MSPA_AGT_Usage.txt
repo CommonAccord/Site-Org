@@ -1,0 +1,44 @@
+Def.Usage._Sec=<u>{Def.Usage.Title}</u> <ol><li>{Def.Usage.Phrase._Sec}</li><li>{Def.Usage.GAAP._Sec}</li><li>{Def.Usage.NeutralConstruction._Sec}</li><li>{Def.Usage.Heading._Sec}</li></ol>
+
+Def.Usage.Title=USAGE
+
+Def.Usage.Phrase._Sec=In this Agreement, unless expressly stated otherwise:<ol><li>{Def.Usage.Singular};</li><li>{Def.Usage.Person};</li><li>{Def.Usage.Gender};</li><li>{Def.Usage.Document};</li><li>{Def.Usage.Legal_Requirement};</li><li>{Def.Usage.LR_Section};</li><li>{Def.Usage.AnyWhereOf};</li><li>{Def.Usage.Include};</li><li>{Def.Usage.Or};</li><li>{Def.Usage.Any};</li><li>{Def.Usage.FromToTime};</li><li>{Def.Usage.Document};</li><li>{Def.Usage.Copy}; and</li><li>{Def.Usage.ListReference}.</li></ol>
+Def.Usage.GAAP._Sec=Unless otherwise specified in this Agreement, all accounting terms used in this Agreement will be interpreted, and all accounting determinations under this Agreement will be made, in accordance with GAAP.
+
+Def.Usage.NeutralConstruction._Sec=This Agreement was negotiated by the parties with the benefit of legal representation, and any rule of construction or interpretation otherwise requiring this Agreement to be construed or interpreted against any party as having been drafted by it will not apply to any construction or interpretation of this Agreement.
+
+Def.Usage.Singular=the singular includes the plural and vice versa
+
+Def.Usage.Person=reference to any Person includes such Person&rsquo;s successors and assigns, if applicable, but only if such successors and assigns are permitted by this Agreement, and reference to a Person in a particular capacity excludes such Person in any other capacity
+
+Def.Usage.Gender=reference to a gender includes the other gender
+
+Def.Usage.Document=reference to any agreement, document, or instrument means such agreement, document, or instrument as amended or modified and in effect from time to time in accordance with its terms
+
+Def.Usage.Legal_Requirement=reference to any Legal Requirement means that Legal Requirement as from time to time in effect, including any amendment, modification, codification, replacement, or reenactment of such Legal Requirement
+
+Def.Usage.LR_Section=reference to any section or other provision of any Legal Requirement means that provision of such Legal Requirement as from time to time in effect, including any amendment, modification, codification, replacement, or reenactment of such section or other provision
+
+Def.Usage.AnyWhereOf=&ldquo;hereunder,"&ldquo;hereof,"&ldquo;hereto,&rdquo;and words of similar import refer to this Agreement as a whole and not to any particular Article, Section, or other provision of this Agreement
+
+Def.Usage.Include=&ldquo;including&rdquo;(and with correlative meaning&ldquo;include") means including without limiting the generality of any description preceding such term
+
+Def.Usage.Or=&ldquo;or&rdquo;is used in the inclusive sense of&ldquo;and/or&rdquo;
+
+Def.Usage.Any=&ldquo;any&rdquo;means&ldquo;any and all&rdquo;
+
+Def.Usage.FromToTime=with respect to the determination of any period of time,&ldquo;from&rdquo;means&ldquo;from and including&rdquo;and&ldquo;to&rdquo;means&ldquo;to but excluding&rdquo;
+
+Def.Usage.Document=a reference to a document, instrument, or agreement also refers to all addenda, exhibits, or schedules thereto
+
+Def.Usage.Copy=a reference to a&ldquo;copy&rdquo;or&ldquo;copies&rdquo;of any document, instrument, or agreement means a copy or copies that are complete and correct
+
+<b>Def.Usage.ListReference</b>=HazardJ: wow!?
+
+Def.Usage.ListReference=a reference to a list, or any like compilation (whether in the Disclosure Letter or elsewhere), means that the item referred to is complete and correct
+
+Def.Usage.GAAP._Sec=Unless otherwise specified in this Agreement, all accounting terms used in this Agreement will be interpreted, and all accounting determinations under this Agreement will be made, in accordance with GAAP.
+
+Def.Usage.NeutralConstruction._Sec=This Agreement was negotiated by the parties with the benefit of legal representation, and any rule of construction or interpretation otherwise requiring this Agreement to be construed or interpreted against any party as having been drafted by it will not apply to any construction or interpretation of this Agreement.
+
+Def.Usage.Heading._Sec=The headings contained in this Agreement are for convenience of reference only, shall not be deemed to be part of this Agreement, and shall not be referred to in connection with the construction or interpretation of this Agreement.

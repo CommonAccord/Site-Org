@@ -1,0 +1,42 @@
+SellerCond._Sec=<u>{SellerCond.Title}</u><br/>{SellerCond.Intro}:<ol><li>{SellerCond.BuyerRep._Sec}</li><li>{SellerCond.BuyerPerform._Sec}</li><li>{SellerCond.Update._Sec}</li><li>{SellerCond.Consent._Sec}</li><li>{SellerCond.Doc._Sec}</li><li>{SellerCond.Lawful._Sec}</li></ol>
+
+SellerCond.BuyerRep._Sec=<u>{SellerCond.BuyerRep.Title}</u><br/>{SellerCond.BuyerRep._sec}
+SellerCond.BuyerPerform._Sec=<u>{SellerCond.BuyerPerform.Title}</u><br/>{SellerCond.BuyerPerform._sec}
+SellerCond.Update._Sec=<u>{SellerCond.Update.Title}</u><br/>{SellerCond.Update._sec}
+SellerCond.Consent._Sec=<u>{SellerCond.Consent.Title}</u><br/>{SellerCond.Consent._sec}
+SellerCond.Doc._Sec=<u>{SellerCond.Doc.Title}</u><br/>{SellerCond.Doc._sec}
+SellerCond.Lawful._Sec=<u>{SellerCond.Lawful.Title}</u><br/>{SellerCond.Lawful._sec}
+
+SellerCond.Intro=Sellers&rsquo; obligations to sell the Shares and to take the other actions required pursuant to this Agreement to be taken by Sellers at the Closing are subject to the satisfaction, at or prior to the Closing, of each of the following conditions (any of which may be waived in whole or in part by Sellers&rsquo; Representative)
+
+SellerCond.BuyerRep.Title=ACCURACY OF BUYER&rsquo;S REPRESENTATIONS
+
+SellerCond.BuyerRep._sec=Each of Buyer&rsquo;s representations and warranties in this Agreement will have been accurate in all material respects as of the date of this Agreement and will be accurate in all material respects as of the Closing Date as if then made.
+
+SellerCond.BuyerPerform.Title=BUYER&rsquo;S PERFORMANCE
+SellerCond.BuyerPerform._sec=The covenants and obligations that Buyer is required to perform or to comply with pursuant to this Agreement at or prior to the Closing will have been duly performed and complied with in all material respects.
+
+SellerCond.Update.Title=BRING DOWN CERTIFICATE
+
+SellerCond.Update._sec=Sellers&rsquo; Representative will have received a certificate executed by Buyer confirming (a) the accuracy of its representations and warranties as of the date of this Agreement and as of the Closing Date in accordance with Section {9.1} and (b) the performance of and compliance with its covenants and obligations to be performed or complied with at or prior to the Closing in accordance with Section {9.2}.
+
+SellerCond.Consent.Title=CONSENTS
+
+SellerCond.Consent._sec=Each of the Consents identified in Exhibit {9.4} will have been obtained in form and substance satisfactory to Sellers&rsquo; Representative and will be in full force and effect.  Copies of such Consents will have been delivered to Sellers&rsquo; Representative.
+
+SellerCond.Doc.Title=ADDITIONAL DOCUMENTS
+
+SellerCond.Doc._sec={SellerCond.Doc.Intro}<ol><li>{SellerCond.Doc.01._Sec}; and</li><li>{SellerCond.Doc.02._Sec}</li></ol>
+SellerCond.Doc.Intro=Each of the items to be delivered pursuant to Section {2.4(b)} and each of the following documents will have been delivered (or tendered subject only to Closing) to Sellers&rsquo; Representative
+SellerCond.Doc.01._Sec=an opinion of {SellerCond.Doc.01.Counsel}, dated the Closing Date, in the form of Exhibit {9.5(a)}
+
+SellerCond.Doc.02._Sec={SellerCond.Doc.02.Intro}:<ol><li>{SellerCond.Doc.02.01._Sec};</li><li>{SellerCond.Doc.02.02._Sec};</li><li>{SellerCond.Doc.02.03._Sec}; or</li><li>{SellerCond.Doc.02.04._Sec}.</li></ol>
+SellerCond.Doc.02.Intro=such other documents as Sellers&rsquo; Representative may reasonably request, each in form and substance satisfactory to Sellers&rsquo; Representative, and, if necessary, executed by Buyer, for the purpose of
+SellerCond.Doc.02.01._Sec=evidencing the accuracy of any of Buyer&rsquo;s representations and warranties
+SellerCond.Doc.02.02._Sec=evidencing the performance by Buyer of, or the compliance by Buyer with, any covenant or obligation required to be performed or complied with by Buyer
+SellerCond.Doc.02.03._Sec=evidencing the satisfaction of any condition referred to in this Article {9}
+SellerCond.Doc.02.04._Sec=otherwise facilitating the consummation or performance of any Contemplated Transaction
+
+SellerCond.Lawful.Title=NO LEGAL PROHIBITION
+
+SellerCond.Lawful._sec=There will not be in effect any Legal Requirement or Order that prohibits the sale of the Shares by Sellers to Buyer or the consummation of any of the other Contemplated Transactions.

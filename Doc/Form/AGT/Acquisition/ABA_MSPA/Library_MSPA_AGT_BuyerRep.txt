@@ -1,0 +1,48 @@
+BuyerRep._Sec=<u>{BuyerRep.Title}</u><br>{BuyerRep.Intro}<ol><li>{BuyerRep.01._Sec}</li><li>{BuyerRep.02._Sec}</li><li>{BuyerRep.03._Sec}</li><li>{BuyerRep.04._Sec}</li><li>{BuyerRep.05._Sec}</li></ol>
+
+BuyerRep.Title=Representations and Warranties of Buyer
+
+BuyerRep.Intro=Buyer represents and warrants to Sellers as follows:
+
+BuyerRep.01.Title=ORGANIZATION AND GOOD STANDING
+
+BuyerRep.01._Sec=<u>{BuyerRep.01.Title}</u></br>{BuyerRep.01._sec}
+
+BuyerRep.01._sec=Buyer is a corporation duly organized, validly existing, and in good standing under the laws of {Co.Regist.State.the}.
+
+BuyerRep.02.Title=ENFORCEABILITY AND AUTHORITY; NO CONFLICT
+
+BuyerRep.02._Sec=<u>{BuyerRep.02.Title}</u></br><ol><li>{BuyerRep.02.01._Sec}</li><li>{BuyerRep.02.02._Sec}</li><li>{BuyerRep.02.03._Sec}</li></ol>
+
+BuyerRep.02.01._Sec=The execution, delivery, and performance by Buyer of this Agreement and Buyer&rsquo;s Closing Documents have been duly authorized by all necessary corporate action.  This Agreement has been duly executed and delivered by Buyer and constitutes the legal, valid, and binding obligation of Buyer, enforceable against Buyer in accordance with its terms.  Upon execution and delivery of Buyer&rsquo;s Closing Documents by Buyer, each of Buyer&rsquo;s Closing Documents will constitute the legal, valid, and binding obligation of Buyer, enforceable against Buyer in accordance with its terms.  Buyer has the absolute and unrestricted right, power, and authority to execute and deliver this Agreement and Buyer&rsquo;s Closing Documents and to perform its obligations under this Agreement and Buyer&rsquo;s Closing Documents.
+
+BuyerRep.02.02._Sec={BuyerRep.02.02.Intro}:<br><ol><li>{BuyerRep.02.02.01._Sec};</li><li>{BuyerRep.02.02.02._Sec}; or</li><li>{BuyerRep.02.02.03._Sec}.</li></ol>
+
+BuyerRep.02.02.Intro=Except as set forth in Part {4.2}, neither the execution and delivery of this Agreement nor the consummation or performance of any Contemplated Transaction will directly or indirectly (with or without notice or lapse of time)
+
+BuyerRep.02.02.01._Sec=contravene, conflict with, or violate (A) any Organizational Document of Buyer, or (B) any resolution adopted by the board of directors or the shareholders of Buyer
+
+BuyerRep.02.02.02._Sec=contravene, conflict with, or violate, or give any Governmental Body or other Person the right to challenge any Contemplated Transaction, or to exercise any remedy or obtain any relief under, any Legal Requirement or any Order to which Buyer, or any assets owned or used by Buyer, is subject
+
+BuyerRep.02.02.03._Sec=Breach, or give any Person the right to declare a default or exercise any remedy or to obtain any additional rights under, or to accelerate the maturity or performance of, or payment under, or to cancel, terminate, or modify, any Contract to which Buyer is a party
+
+BuyerRep.02.03._Sec=Except as set forth in Part {4.2}, Buyer is not required to give notice to or obtain Consent from any Person in connection with the execution and delivery of this Agreement or the consummation or performance of any Contemplated Transaction.
+
+BuyerRep.03.Title=INVESTMENT INTENT
+
+BuyerRep.03._Sec=<u>{BuyerRep.03.Title}</u></br>{BuyerRep.03._sec}
+
+BuyerRep.03._sec=Buyer is acquiring the Shares for its own account and not with a view to their distribution within the meaning of Section 2(11) of the Securities Act.
+
+BuyerRep.04.Title=CERTAIN PROCEEDINGS
+
+BuyerRep.04._Sec=<u>{BuyerRep.04.Title}</u></br>{BuyerRep.04._sec}
+
+BuyerRep.04._sec=There is no Proceeding pending against Buyer that challenges, or could have the effect of preventing, delaying, making illegal, imposing limitations or conditions on, or otherwise interfering with, any Contemplated Transaction.  To Buyer&rsquo;s Knowledge, no such Proceeding has been threatened.
+
+BuyerRep.05.Title=BROKERS OR FINDERS
+
+BuyerRep.05._Sec=<u>{BuyerRep.05.Title}</u></br>{BuyerRep.05._sec}
+
+BuyerRep.05._sec=Neither Buyer nor any of its Representatives has incurred any obligation or liability, contingent or otherwise, for any brokerage or finder&rsquo;s fee, agent&rsquo;s commission, or other similar payment in connection with this Agreement or the Contemplated Transactions.
+

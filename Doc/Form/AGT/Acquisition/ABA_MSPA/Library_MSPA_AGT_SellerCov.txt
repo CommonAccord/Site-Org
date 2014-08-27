@@ -1,0 +1,84 @@
+SellerCov._Sec=<u>{SellerCov.Title}</u><ol><li>{SellerCov.01._Sec}</li><li>{SellerCov.02._Sec}</li><li>{SellerCov.03._Sec}</li><li>{SellerCov.04._Sec}</li><li>{SellerCov.05._Sec}</li><li>{SellerCov.06._Sec}</li><li>{SellerCov.07._Sec}</li><li>{SellerCov.08._Sec}</li><li>{SellerCov.09._Sec}</li></ol>
+
+SellerCov.Title=Covenants of Sellers Prior to Closing Date
+
+SellerCov.01.Title=ACCESS AND INVESTIGATION
+
+SellerCov.01._Sec=<u>{SellerCov.01.Title}</u><br/>{SellerCov.01._sec}
+
+SellerCov.01._sec=Prior to the Closing Date, and upon reasonable notice from Buyer, each Seller shall, and shall cause each Acquired Company to, (a) afford Buyer and its Representatives and prospective lenders and their Representatives (collectively, &ldquo;Buyer Group&rdquo;) full and free access, during regular business hours, to each Acquired Company&rsquo;s personnel, assets, Contracts, and Records, (b) furnish Buyer Group with copies of all such Contracts and Records as Buyer may reasonably request, (c) furnish Buyer Group with such additional financial, operating, and other relevant data and information as Buyer may reasonably request, and (d) otherwise cooperate and assist, to the extent reasonably requested by Buyer, with Buyer&rsquo;s investigation of the business, condition (financial or otherwise), assets, results of operations, or prospects of each Acquired Company.  In addition, Buyer shall have the right to have the Real Property and the tangible personal property of each Acquired Company inspected by Buyer Group, at Buyer&rsquo;s sole cost and expense, including the performance of subsurface or other intrusive testing.
+
+SellerCov.02.Title=OPERATION OF THE BUSINESSES OF THE ACQUIRED COMPANIES
+
+SellerCov.02._Sec=<u>{SellerCov.02.Title}</u><br/>{SellerCov.02.Intro}:<ol><li>{SellerCov.02.01._Sec};</li><li>{SellerCov.02.02._Sec};</li><li>{SellerCov.02.03._Sec};</li><li>{SellerCov.02.04._Sec};</li><li>{SellerCov.02.05._Sec};</li><li>{SellerCov.02.06._Sec};</li><li>{SellerCov.02.07._Sec};</li><li>{SellerCov.02.08._Sec};</li><li>{SellerCov.02.09._Sec};</li><li>{SellerCov.02.10._Sec};</li><li>{SellerCov.02.11._Sec}; and</li><li>{SellerCov.02.12._Sec}.</li></ol>
+
+SellerCov.02.Intro=Prior to the Closing Date, each Seller shall, and shall cause each Acquired Company to
+
+SellerCov.02.01._Sec=conduct the business of such Acquired Company only in the Ordinary Course of Business
+
+SellerCov.02.02._Sec=use its best efforts to preserve intact the current business organization of such Acquired Company, keep available the services of the officers, employees, and agents of such Acquired Company, and maintain its relations and goodwill with suppliers, customers, landlords, creditors, employees, agents, and others having business relationships with such Acquired Company
+
+SellerCov.02.03._Sec=confer with Buyer prior to implementing operational decisions of a material nature
+
+SellerCov.02.04._Sec=report to Buyer at such times as Buyer may reasonably request concerning the status of the business, condition (financial or otherwise), assets, results of operations, or prospects of such Acquired Company
+
+SellerCov.02.05._Sec=make no material changes in management personnel of such Acquired Company
+
+SellerCov.02.06._Sec=maintain the assets owned or used by such Acquired Company in a state of repair and condition that complies with Legal Requirements and Contracts and is consistent with the requirements and normal conduct of the business of such Acquired Company
+
+SellerCov.02.07._Sec=keep in full force and effect, without amendment, all material rights relating to the business of such Acquired Company
+
+SellerCov.02.08._Sec=comply with all Legal Requirements applicable to, and all Applicable Contracts of, such Acquired Company
+
+SellerCov.02.09._Sec=continue in full force and effect the insurance coverage under the policies set forth in Part {3.18} or substantially equivalent policies
+
+SellerCov.02.10._Sec=except as required to comply with ERISA or to maintain qualification under Section 401(a) of the Code, not amend, modify, or terminate any Employee Plan and, except as required under the provisions of any Employee Plan, not make any contributions to or with respect to any Employee Plan
+
+SellerCov.02.11._Sec=maintain all records of such Acquired Company consistent with past practice
+
+SellerCov.02.12._Sec=take no action, or fail to take any reasonable action within its control, as a result of which any of the changes or events listed in Section {3.16} would be likely to occur
+
+SellerCov.03.Title=FILINGS AND NOTIFICATIONS; COOPERATION
+
+SellerCov.03._Sec=<u>{SellerCov.03.Title}</u><br/>{SellerCov.03._sec}
+
+SellerCov.03._sec=As promptly as practicable after the date of this Agreement, and in any event within the applicable time period prescribed by Legal Requirements, each Seller shall, and shall cause each Acquired Company and each of their Related Persons to, make all filings and notifications required by Legal Requirements to be made by them in connection with the Contemplated Transactions (including all filings under the HSR Act).  Each Seller shall, and shall cause each Acquired Company and each of their Related Persons to, cooperate with Buyer, its Related Persons, and their respective Representatives (a) with respect to all filings and notifications that Buyer or its Related Persons elect to make or shall be required by Legal Requirements to make in connection with the Contemplated Transactions, (b) in identifying and obtaining the Governmental Authorizations required by Buyer to own and operate each Acquired Company from and after the Closing Date, and (c) in obtaining all Consents identified in Exhibit 9.4 (including taking all actions requested by Buyer to cause early termination of any applicable waiting period under the HSR Act).
+
+SellerCov.04.Title=NOTICE
+
+SellerCov.04._Sec=<u>{SellerCov.04.Title}</u><ol><li>{SellerCov.04.01._Sec}</li><li>{SellerCov.04.02._Sec}</li></ol>
+
+SellerCov.04.01._Sec=Prior to the Closing Date, each Seller shall promptly provide notice to Buyer of any Breach of any representation or warranty of Sellers or any fact or circumstance that would or would reasonably be likely to cause or constitute a Breach of any such representation or warranty had that representation or warranty been made as of the time of the occurrence of such fact or circumstance.  Should any such Breach relate to the Disclosure Letter, each Seller shall promptly deliver to Buyer a supplement to the Disclosure Letter.  No such notice or delivery will be deemed to have cured any Breach of any representation or warranty or affect any right or remedy of Buyer under this Agreement.  
+
+SellerCov.04.02._Sec=Prior to the Closing Date, each Seller shall promptly provide notice to Buyer of any Breach of any covenant of Sellers in this Article {5} or any fact or circumstance that could make the satisfaction of any condition in Article {8} impossible or unlikely and of all corrective actions undertaken, or to be undertaken, by such Seller with respect thereto.  No such notice will be deemed to have cured any Breach of any covenant or affect any right or remedy of Buyer under this Agreement.
+
+SellerCov.05.Title=PAYMENT OF INDEBTEDNESS BY RELATED PERSONS
+
+SellerCov.05._Sec=<u>{SellerCov.05.Title}</u><br/>{SellerCov.05._sec}
+
+SellerCov.05._sec=Each Seller shall cause all indebtedness owed to an Acquired Company by any Seller or any Related Person of any Seller to be paid in full prior to Closing.
+
+SellerCov.06.Title=EXCLUSIVE DEALING 
+
+SellerCov.06._Sec=<u>{SellerCov.06.Title}</u><br/>{SellerCov.06._sec}
+
+SellerCov.06._sec=Until this Agreement shall have been terminated pursuant to Section {10.1}, no Seller shall, and each Seller shall cause each Acquired Company and each of their respective Representatives not to, directly or indirectly, solicit, initiate, encourage, or entertain any inquiries or proposals from, discuss or negotiate with, provide any nonpublic information to, or consider the merits of any inquiries or proposals from any Person (other than Buyer) relating to any business combination transaction involving any Seller or Acquired Company, however structured, including the sale of the business or assets (other than in the Ordinary Course of Business) of any Acquired Company, or any Equity Security of any Acquired Company, or any merger, consolidation, or similar transaction or arrangement.  Each Seller shall notify Buyer of any such inquiry or proposal within 24 hours of receipt thereof by any Seller, Acquired Company, or any of their respective Representatives.
+
+SellerCov.07.Title=BEST EFFORTS
+
+SellerCov.07._Sec=<u>{SellerCov.07.Title}</u><br/>{SellerCov.07._sec}
+
+SellerCov.07._sec=Each Seller shall use its best efforts to cause the conditions in Article 8 (other than Section 8.11) to be satisfied.
+
+SellerCov.08.Title=FINANCIAL INFORMATION
+
+SellerCov.08._Sec=<u>{SellerCov.08.Title}</u><br/>{SellerCov.08._sec}
+
+SellerCov.08._sec=Sellers shall deliver to Buyer within {SellerCov.08.Fin.Report.Month.Wait.Days} days after the end of each month a copy of each Acquired Company&rsquo;s {SellerCov.08.Fin.Report.Month.Content} for such month prepared in a manner and containing information consistent with such Acquired Company&rsquo;s current practices.
+
+SellerCov.09.Title=FINANCING COOPERATION
+
+SellerCov.09._Sec=<u>{SellerCov.09.Title}</u><br/>{SellerCov.09._sec}
+
+SellerCov.09._sec=Each Seller shall, and shall cause each Acquired Company, their Related Persons, and their respective Representatives to, cooperate with Buyer with respect to Buyer&rsquo;s arranging of financing of the Contemplated Transactions, as Buyer may reasonably request.
+

@@ -1,0 +1,87 @@
+BuyerCond._Sec=<u>{BuyerCond.Title}</u><br/>{BuyerCond.Intro}:<ol><li>{BuyerCond.SellerRep._Sec}</li><li>{BuyerCond.SellerPerform._Sec}</li><li>{BuyerCond.Update._Sec}</li><li>{BuyerCond.Consent._Sec}</li><li>{BuyerCond.Permit._Sec}</li><li>{BuyerCond.Doc._Sec}</li><li>{BuyerCond.Environ._Sec}</li><li>{BuyerCond.Litig._Sec}</li><li>{BuyerCond.ClearTitle._Sec}</li><li>{BuyerCond.Lawful._Sec}</li><li>{BuyerCond.Borrow._Sec}</li><li>{BuyerCond.AdverseChange._Sec}</li></ol>
+
+BuyerCond.Intro=Buyer&rsquo;s obligations to purchase the Shares and to take the other actions required pursuant to this Agreement to be taken by Buyer at the Closing are subject to the satisfaction, at or prior to the Closing, of each of the following conditions (any of which may be waived in whole or in part by Buyer)
+
+BuyerCond.SellerPerform._Sec=<u>{BuyerCond.SellerPerform.Title}</u><br/>{BuyerCond.SellerPerform._sec}
+BuyerCond.Update._Sec=<u>{BuyerCond.Update.Title}</u><br/>{BuyerCond.Update._sec}
+BuyerCond.Consent._Sec=<u>{BuyerCond.Consent.Title}</u><br/>{BuyerCond.Consent._sec}
+BuyerCond.Permit._Sec=<u>{BuyerCond.Permit.Title}</u><br/>{BuyerCond.Permit._sec}
+BuyerCond.Environ._Sec=<u>{BuyerCond.Environ.Title}</u><br/>{BuyerCond.Environ._sec}
+BuyerCond.Litig._Sec=<u>{BuyerCond.Litig.Title}</u><br/>{BuyerCond.Litig._sec}
+BuyerCond.ClearTitle._Sec=<u>{BuyerCond.ClearTitle.Title}</u><br/>{BuyerCond.ClearTitle._sec}
+BuyerCond.Lawful._Sec=<u>{BuyerCond.Lawful.Title}</u><br/>{BuyerCond.Lawful._sec}
+BuyerCond.Borrow._Sec=<u>{BuyerCond.Borrow.Title}</u><br/>{BuyerCond.Borrow._sec}
+BuyerCond.AdverseChange._Sec=<u>{BuyerCond.AdverseChange.Title}</u><br/>{BuyerCond.AdverseChange._sec}
+
+
+BuyerCond.SellerRep._Sec=<u>{BuyerCond.SellerRep.Title}</u><ol><li>{BuyerCond.SellerRep.01._Sec}</li><li>{BuyerCond.SellerRep.02._Sec}</ol>
+
+BuyerCond.SellerRep.Title=ACCURACY OF SELLERS&rsquo; REPRESENTATIONS
+
+BuyerCond.SellerRep.01._Sec=Subject to Section {8.1(b)}, each of Sellers&rsquo; representations and warranties in this Agreement will have been accurate in all material respects as of the date of this Agreement and will be accurate in all material respects as of the Closing Date as if then made, without giving effect to any supplement to the Disclosure Letter.
+
+BuyerCond.SellerRep.02._Sec=Each of Sellers&rsquo; representations and warranties in Sections {3.2(a)}, {3.3}, {3.4}, {3.12}, and {3.29}, and each of the representations and warranties in this Agreement that contains an express materiality qualification, will have been accurate in all respects as of the date of this Agreement and will be accurate in all respects as of the Closing Date as if then made, without giving effect to any supplement to the Disclosure Letter.
+
+BuyerCond.SellerPerform.Title=SELLERS&rsquo; PERFORMANCE
+
+BuyerCond.SellerPerform._sec=The covenants and obligations that each Seller is required to perform or to comply with pursuant to this Agreement at or prior to the Closing will have been duly performed and complied with in all material respects.
+
+BuyerCond.Update.Title=BRING DOWN CERTIFICATE
+
+BuyerCond.Update._sec=Buyer will have received a certificate executed by each Seller confirming (a) the accuracy of its representations and warranties as of the date of this Agreement and as of the Closing Date in accordance with Section {8.1} and (b) the performance of and compliance with its covenants and obligations to be performed or complied with at or prior to the Closing in accordance with Section {8.2}.
+
+BuyerCond.Consent.Title=CONSENTS
+
+BuyerCond.Consent._sec=Each of the Consents identified in Exhibit {8.4} (the &ldquo;Material Consents&rdquo;) will have been obtained in form and substance satisfactory to Buyer and will be in full force and effect.  Copies of the Material Consents will have been delivered to Buyer.
+
+BuyerCond.Permit.Title=GOVERNMENTAL AUTHORIZATIONS
+
+BuyerCond.Permit._sec=Buyer will have received such Governmental Authorizations as are necessary or which it considers desirable to allow Buyer to acquire and own the Shares and for the Acquired Companies and Buyer to own and operate the business of each Acquired Company from and after the Closing.
+
+BuyerCond.Doc.Title=ADDITIONAL DOCUMENTS
+
+BuyerCond.Doc._Sec=<u>{BuyerCond.Doc.Title}</u><br/>{BuyerCond.Doc.Intro}:<ol><li>{BuyerCond.Doc.01._Sec};</li><li>{BuyerCond.Doc.02._Sec};</li><li>{BuyerCond.Doc.03._Sec}; and</li><li>{BuyerCond.Doc.04._Sec}</li></ol>
+
+BuyerCond.Doc.Intro=Each of the items to be delivered pursuant to Section 2.4(a) and each of the following documents will have been delivered (or tendered subject only to Closing) to Buyer
+
+BuyerCond.Doc.01._Sec=an opinion of {BuyerCond.Doc.01.Opinion}, dated the Closing Date, in the form of Exhibit {8.6(a)}
+
+BuyerCond.Doc.02._Sec=estoppel certificates executed on behalf of {BuyerCond.Doc.02.Estop.Certs.By} and dated as of a date not more than five days prior to the Closing Date, each in the form of Exhibit {8.6(b)}
+
+BuyerCond.Doc.03._Sec=an executed copy of each of the agreements listed on Exhibit {8.6(c)}
+
+BuyerCond.Doc.04._Sec={BuyerCond.Doc.04.Intro}:<ol><li>{BuyerCond.Doc.04.01._Sec};</li><li>{BuyerCond.Doc.04.02._Sec};</li><li>{BuyerCond.Doc.04.03._Sec}; or</li><li>{BuyerCond.Doc.04.04._Sec}.</li></ol>
+
+BuyerCond.Doc.04.Intro=such other documents as Buyer may reasonably request, each in form and substance satisfactory to Buyer, and, if necessary, executed by each Seller or the relevant Acquired Company, for the purpose of
+
+BuyerCond.Doc.04.01._Sec=evidencing the accuracy of any of Sellers&rsquo; representations and warranties
+
+BuyerCond.Doc.04.02._Sec=evidencing the performance by each Seller of, or the compliance by each Seller with, any covenant or obligation required to be performed or complied with by such Seller
+
+BuyerCond.Doc.04.03._Sec=evidencing the satisfaction of any condition referred to in this Article {8}
+
+BuyerCond.Doc.04.04._Sec=otherwise facilitating the consummation or performance of any Contemplated Transaction
+
+BuyerCond.Environ.Title=ENVIRONMENTAL REPORT
+
+BuyerCond.Environ._sec=Buyer will have received reports and other information, in form, scope, and substance satisfactory to Buyer, regarding environmental matters relating to the Facilities, which reports shall include, for each Facility, a report that conforms to the ASTM Standard Practice for Environmental Site Assessments:  Phase I Environmental Site Assessment Process, E 1527-05.
+
+BuyerCond.Litig.Title=NO PROCEEDINGS
+
+BuyerCond.Litig._sec=Since the date of this Agreement, there will not have been commenced or threatened against Buyer, or against any Related Person of Buyer, any Proceeding (a) involving any challenge to, or seeking relief (monetary or otherwise) in connection with, any Contemplated Transaction or (b) that could have the effect of preventing, delaying, making illegal, imposing limitations or conditions on, or otherwise interfering with, any Contemplated Transaction.
+
+BuyerCond.ClearTitle.Title=NO CLAIM REGARDING STOCK OWNERSHIP OR SALE PROCEEDS
+
+BuyerCond.ClearTitle._sec=There will not have been made or threatened by any Third Party any claim asserting that such Third Party (a) is the holder or the beneficial owner of any Equity Security of any Acquired Company or (b) is entitled to all or any portion of the Purchase Price.
+
+BuyerCond.Lawful.Title=NO CONFLICT
+
+BuyerCond.Lawful._sec=Neither the consummation nor the performance of any Contemplated Transaction will, directly or indirectly (with or without notice or lapse of time), contravene, conflict with, or violate, or cause Buyer or any Related Person of Buyer to suffer any adverse consequence under, (a) any applicable Legal Requirement or Order or (b) any Legal Requirement or Order that has been published, introduced, or otherwise proposed by or before any Governmental Body.
+
+BuyerCond.Borrow.Title=FINANCING
+
+BuyerCond.Borrow._sec=Buyer will have obtained, on terms and conditions satisfactory to it, the financing it deems necessary in order to close the Contemplated Transactions and to fund the working capital requirements of each Acquired Company.
+
+BuyerCond.AdverseChange.Title=NO MATERIAL ADVERSE CHANGE
+
+BuyerCond.AdverseChange._sec=Since the date of this Agreement, no Acquired Company will have suffered any Material Adverse Change and no event will have occurred, and no circumstance will exist, that could result in a Material Adverse Change.

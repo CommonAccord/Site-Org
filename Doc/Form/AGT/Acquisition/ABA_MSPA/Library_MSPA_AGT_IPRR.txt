@@ -16,13 +16,13 @@ IPRR.IndemnSeller.Title=INDEMNIFICATION, PAYMENT, AND REIMBURSEMENT BY SELLERS
 
 IPRR.IndemnSeller._Sec=<u>{IPRR.IndemnSeller.Title}</u><br>{IPRR.IndemnSeller.Intro}:<ol><li>{IPRR.IndemnSeller.01._Sec};</li><li>{IPRR.IndemnSeller.02._Sec};</li><li>{IPRR.IndemnSeller.03._Sec};</li><li>{IPRR.IndemnSeller.04._Sec};</li><li>{IPRR.IndemnSeller.05._Sec}; or</li><li>{IPRR.IndemnSeller.06._Sec}.</li></ol>
 
-IPRR.IndemnSeller.Intro=Sellers, jointly and severally, shall indemnify and hold harmless Buyer, the Acquired Companies, and their respective Representatives, shareholders, Subsidiaries, and Related Persons (collectively, the "Buyer Indemnified Persons") from, and shall pay to Buyer Indemnified Persons the amount of, or reimburse Buyer Indemnified Persons for, any Loss that Buyer Indemnified Persons or any of them may suffer, sustain, or become subject to, as a result of, in connection with, or relating to
+IPRR.IndemnSeller.Intro=Sellers, jointly and severally, shall indemnify and hold harmless Buyer, the Acquired Companies, and their respective Representatives, shareholders, Subsidiaries, and Related Persons (collectively, the &ldquo;Buyer Indemnified Persons&rdquo;) from, and shall pay to Buyer Indemnified Persons the amount of, or reimburse Buyer Indemnified Persons for, any Loss that Buyer Indemnified Persons or any of them may suffer, sustain, or become subject to, as a result of, in connection with, or relating to
 
-IPRR.IndemnSeller.01._Sec=any Breach of any representation or warranty made by Sellers in (i) this Agreement or the Disclosure Letter (without giving effect to any supplement to the Disclosure Letter), (ii) any supplement to the Disclosure Letter, (iii) the certificate delivered pursuant to Section 8.3 (without giving effect to the words "in all material respects" in Section 8.1(a)), or (iv) any other certificate, document, or other writing delivered by Sellers pursuant to this Agreement
+IPRR.IndemnSeller.01._Sec=any Breach of any representation or warranty made by Sellers in (i) this Agreement or the Disclosure Letter (without giving effect to any supplement to the Disclosure Letter), (ii) any supplement to the Disclosure Letter, (iii) the certificate delivered pursuant to Section 8.3 (without giving effect to the words &ldquo;in all material respects&rdquo;in Section 8.1(a)), or (iv) any other certificate, document, or other writing delivered by Sellers pursuant to this Agreement
 
 IPRR.IndemnSeller.02._Sec=any Breach of any covenant or obligation of any Seller in this Agreement or in any certificate, document, or other writing delivered by any Seller pursuant to this Agreement
 
-IPRR.IndemnSeller.03._Sec=any claim by any Person for brokerage or finder's fees or commissions or similar payments based upon any agreement or understanding made, or alleged to have been made, by any such Person with any Seller or any Acquired Company (or any Person acting on their behalf) in connection with any Contemplated Transaction
+IPRR.IndemnSeller.03._Sec=any claim by any Person for brokerage or finder&rsquo;s fees or commissions or similar payments based upon any agreement or understanding made, or alleged to have been made, by any such Person with any Seller or any Acquired Company (or any Person acting on their behalf) in connection with any Contemplated Transaction
 
 IPRR.IndemnSeller.04._Sec=(i) any Taxes of any Acquired Company not reflected on the Closing Date Balance Sheet relating to periods on or prior to the Closing Date, and (ii) any liability of any Acquired Company for Taxes of any other Person, as a transferee or successor, by Contract or otherwise
 
@@ -30,7 +30,7 @@ IPRR.IndemnSeller.05._Sec=any product shipped or manufactured by, or any service
 
 IPRR.IndemnSeller.06._Sec=any matter disclosed in Part {11.2(f)}
 
-IPRR.IndemnSellerEnviron.Title=INDEMNIFICATION, PAYMENT, AND REIMBURSEMENT BY SELLERS—ENVIRONMENTAL MATTERS
+IPRR.IndemnSellerEnviron.Title=INDEMNIFICATION, PAYMENT, AND REIMBURSEMENT BY SELLERS&mdash;ENVIRONMENTAL MATTERS
 
 IPRR.IndemnSellerEnviron._Sec=<u>{IPRR.IndemnSellerEnviron.Title}</u><br>{IPRR.IndemnSellerEnviron.Intro}:<ol><li>{IPRR.IndemnSellerEnviron.01._Sec}</li><li>{IPRR.IndemnSellerEnviron.02._Sec}</li></ol>{IPRR.IndemnSellerEnviron._Cont}
 
@@ -64,13 +64,13 @@ IPRR.IndemnBuyer.01._Sec=any Breach of any representation or warranty made by Bu
 
 IPRR.IndemnBuyer.02._Sec=any Breach of any covenant or obligation of Buyer in this Agreement or in any certificate, document, or other writing delivered by Buyer pursuant to this Agreement
 
-IPRR.IndemnBuyer.03._Sec=any claim by any Person for brokerage or finder's fees or commissions or similar payments based upon any agreement or understanding made, or alleged to have been made, by any such Person with Buyer (or any Person acting on its behalf) in connection with any Contemplated Transaction
+IPRR.IndemnBuyer.03._Sec=any claim by any Person for brokerage or finder&rsquo;s fees or commissions or similar payments based upon any agreement or understanding made, or alleged to have been made, by any such Person with Buyer (or any Person acting on its behalf) in connection with any Contemplated Transaction
 
 IPRR.Time.Title=TIME LIMITATIONS
 
 IPRR.Time._Sec=<u>{IPRR.Time.Title}</u><ol><li>{IPRR.Time.01._Sec}</li><li>{IPRR.Time.02._Sec}</li></ol>
 
-IPRR.Time.01._Sec=If the Closing occurs, Sellers shall have liability under Section {11.2(a)} with respect to any Breach of a representation or warranty (other than those in Sections {IPRR.Time.01.Claim.Preemption.Except.Xrefs}, as to which a claim may be made at any time), only if on or before the date that is three years after the Closing Date, Buyer notifies Sellers' Representative of a claim, specifying the factual basis of the claim in reasonable detail to the extent known by Buyer.
+IPRR.Time.01._Sec=If the Closing occurs, Sellers shall have liability under Section {11.2(a)} with respect to any Breach of a representation or warranty (other than those in Sections {IPRR.Time.01.Claim.Preemption.Except.Xrefs}, as to which a claim may be made at any time), only if on or before the date that is three years after the Closing Date, Buyer notifies Sellers&rsquo; Representative of a claim, specifying the factual basis of the claim in reasonable detail to the extent known by Buyer.
 
 IPRR.Time.01.Claim.Preemption.Except.Xrefs=3.1, 3.2, 3.3, 3.11, 3.13, 3.19, 3.24, or 3.28
 
@@ -96,13 +96,13 @@ IPRR.Setoff.Title=SETOFF RIGHT
 
 IPRR.Setoff._Sec=<u>{IPRR.Setoff.Title}</u><br/>{IPRR.Setoff._Tx}
 
-IPRR.Setoff._Tx=Upon notice to Sellers' Representative specifying in reasonable detail the basis therefor, Buyer may set off any amount to which it claims to be entitled from any Seller, including any amounts that may be owed under this Article 11 or otherwise, against amounts otherwise payable under the Promissory Notes or any provision of this Agreement.  The exercise of such right of setoff by Buyer in good faith, whether or not ultimately determined to be justified, will not constitute a default under this Agreement, the Promissory Notes, or any instrument securing any of the Promissory Notes, regardless of whether any Seller disputes such setoff claim, or whether such setoff claim is for a contingent or an unliquidated amount.  Neither the exercise of, nor the failure to exercise, such right of setoff or give notice of a claim under the Escrow Agreement will constitute an election of remedies or limit Buyer in any manner in the enforcement of any other remedies that may be available to it.
+IPRR.Setoff._Tx=Upon notice to Sellers&rsquo; Representative specifying in reasonable detail the basis therefor, Buyer may set off any amount to which it claims to be entitled from any Seller, including any amounts that may be owed under this Article 11 or otherwise, against amounts otherwise payable under the Promissory Notes or any provision of this Agreement.  The exercise of such right of setoff by Buyer in good faith, whether or not ultimately determined to be justified, will not constitute a default under this Agreement, the Promissory Notes, or any instrument securing any of the Promissory Notes, regardless of whether any Seller disputes such setoff claim, or whether such setoff claim is for a contingent or an unliquidated amount.  Neither the exercise of, nor the failure to exercise, such right of setoff or give notice of a claim under the Escrow Agreement will constitute an election of remedies or limit Buyer in any manner in the enforcement of any other remedies that may be available to it.
 
 IPRR.3PartyClaim._Sec=<u>{IPRR.3PartyClaim.Title}</u><ol><li>{IPRR.3PartyClaim.01._Sec}</li><li>{IPRR.3PartyClaim.02._Sec}</li><li>{IPRR.3PartyClaim.03._Sec}</li><li>{IPRR.3PartyClaim.04._Sec}</li><li>{IPRR.3PartyClaim.05._Sec}</li><li>{IPRR.3PartyClaim.06._Sec}</li><li>{IPRR.3PartyClaim.07._Sec}</li></ol>
 
 IPRR.3PartyClaim.Title=THIRD-PARTY CLAIMS
 
-IPRR.3PartyClaim.01._Sec=A Person benefited by Section 11.2, 11.3 (solely to the extent provided in the last sentence of Section 11.3), or 11.4 (an "Indemnified Person") shall give notice of the assertion of a Third-Party Claim to Sellers' Representative or Buyer (an "Indemnifying Person"), as the case may be; provided, however, that no failure or delay on the part of an Indemnified Person in notifying an Indemnifying Person will relieve the Indemnifying Person from any obligation under this Article 11 except to the extent that the failure or delay materially prejudices the defense of the Third-Party Claim by the Indemnifying Person.
+IPRR.3PartyClaim.01._Sec=A Person benefited by Section 11.2, 11.3 (solely to the extent provided in the last sentence of Section 11.3), or 11.4 (an &ldquo;Indemnified Person&rdquo;) shall give notice of the assertion of a Third-Party Claim to Sellers&rsquo; Representative or Buyer (an &ldquo;Indemnifying Person&rdquo;), as the case may be; provided, however, that no failure or delay on the part of an Indemnified Person in notifying an Indemnifying Person will relieve the Indemnifying Person from any obligation under this Article 11 except to the extent that the failure or delay materially prejudices the defense of the Third-Party Claim by the Indemnifying Person.
 
 IPRR.3PartyClaim.02._Sec=<ol><li>{IPRR.3PartyClaim.02.01._Sec}</li><li>{IPRR.3PartyClaim.02.02._Sec}</li><li>{IPRR.3PartyClaim.02.03._Sec}</li></ol>
 
@@ -112,11 +112,11 @@ IPRR.3PartyClaim.02.02._Sec={IPRR.3PartyClaim.02.02.Intro}:<ol><li>{IPRR.3PartyC
 
 IPRR.3PartyClaim.02.02.Intro=If the Indemnifying Person elects to assume the defense of a Third-Party Claim
 
-IPRR.3PartyClaim.02.02.01._Sec=it shall diligently conduct the defense and, so long as it diligently conducts the defense, shall not be liable to the Indemnified Person for any Indemnified Person's fees or expenses subsequently incurred in connection with the defense of the Third-Party Claim other than reasonable costs of investigation;
+IPRR.3PartyClaim.02.02.01._Sec=it shall diligently conduct the defense and, so long as it diligently conducts the defense, shall not be liable to the Indemnified Person for any Indemnified Person&rsquo;s fees or expenses subsequently incurred in connection with the defense of the Third-Party Claim other than reasonable costs of investigation;
 
 IPRR.3PartyClaim.02.02.02._Sec=the election will conclusively establish for purposes of this Agreement that the Indemnified Person is entitled to relief under this Agreement for any Loss arising, directly or indirectly, from or in connection with the Third-Party Claim (subject to the provisions of Section {11.6})
 
-IPRR.3PartyClaim.02.02.03._Sec=no compromise or settlement of such Third-Party Claim may be effected by the Indemnifying Person without the Indemnified Person's consent unless (I) there is no finding or admission of any violation by the Indemnified Person of any Legal Requirement or any rights of any Person, (II) the Indemnified Person receives a full release of and from any other claims that may be made against the Indemnified Person by the Third Party bringing the Third-Party Claim, and (III) the sole relief provided is monetary damages that are paid in full by the Indemnifying Person
+IPRR.3PartyClaim.02.02.03._Sec=no compromise or settlement of such Third-Party Claim may be effected by the Indemnifying Person without the Indemnified Person&rsquo;s consent unless (I) there is no finding or admission of any violation by the Indemnified Person of any Legal Requirement or any rights of any Person, (II) the Indemnified Person receives a full release of and from any other claims that may be made against the Indemnified Person by the Third Party bringing the Third-Party Claim, and (III) the sole relief provided is monetary damages that are paid in full by the Indemnifying Person
 
 IPRR.3PartyClaim.02.02.04._Sec=the Indemnifying Person shall have no liability with respect to any compromise or settlement of such claims effected without its consent
 
@@ -148,11 +148,11 @@ IPRR.OtherClaim.Title=OTHER CLAIMS
 
 IPRR.OtherClaim._Sec=<u>{IPRR.OtherClaim.Title}</u><br/>{IPRR.OtherClaim._Tx}
 
-IPRR.OtherClaim._Tx=A claim under this Article 11 for any matter not involving a Third-Party Claim may be made by notice to Sellers' Representative or Buyer, as the case may be, and shall be indemnified, paid, or reimbursed promptly after such notice.  Buyer may elect in its discretion to have payment or reimbursement made from the Escrow Funds pursuant to the terms of the Escrow Agreement, by setoff against amounts otherwise payable under the Promissory Notes or otherwise pursuant to Section {11.7}, or in any other manner.
+IPRR.OtherClaim._Tx=A claim under this Article 11 for any matter not involving a Third-Party Claim may be made by notice to Sellers&rsquo; Representative or Buyer, as the case may be, and shall be indemnified, paid, or reimbursed promptly after such notice.  Buyer may elect in its discretion to have payment or reimbursement made from the Escrow Funds pursuant to the terms of the Escrow Agreement, by setoff against amounts otherwise payable under the Promissory Notes or otherwise pursuant to Section {11.7}, or in any other manner.
 
 IPRR.StrictLiab.Title=STRICT LIABILITY OR INDEMNITEE NEGLIGENCE
 
 IPRR.StrictLiab._Sec=<u>{IPRR.StrictLiab.Title}</u><br/>{IPRR.StrictLiab._Tx}
 
-IPRR.StrictLiab._Tx=THE PROVISIONS IN THIS ARTICLE {11-} SHALL BE ENFORCEABLE REGARDLESS OF WHETHER THE LIABILITY IS BASED UPON PAST, PRESENT, OR FUTURE ACTS, CLAIMS, OR LEGAL REQUIREMENTS (INCLUDING ANY PAST, PRESENT, OR FUTURE ENVIRONMENTAL LAW, OCCUPATIONAL SAFETY AND HEALTH LAW, OR  PRODUCTS LIABILITY, SECURITIES, OR OTHER LEGAL REQUIREMENT) AND REGARDLESS OF WHETHER ANY PERSON (INCLUDING THE PERSON FROM WHOM RELIEF IS SOUGHT) ALLEGES OR PROVES THE SOLE, CONCURRENT, CONTRIBUTORY, OR COMPARATIVE NEGLIGENCE OF THE PERSON SEEKING RELIEF, OR THE SOLE OR CONCURRENT STRICT LIABILITY IMPOSED UPON THE PERSON SEEKING RELIEF.
+IPRR.StrictLiab._Tx=THE PROVISIONS IN THIS ARTICLE {11} SHALL BE ENFORCEABLE REGARDLESS OF WHETHER THE LIABILITY IS BASED UPON PAST, PRESENT, OR FUTURE ACTS, CLAIMS, OR LEGAL REQUIREMENTS (INCLUDING ANY PAST, PRESENT, OR FUTURE ENVIRONMENTAL LAW, OCCUPATIONAL SAFETY AND HEALTH LAW, OR  PRODUCTS LIABILITY, SECURITIES, OR OTHER LEGAL REQUIREMENT) AND REGARDLESS OF WHETHER ANY PERSON (INCLUDING THE PERSON FROM WHOM RELIEF IS SOUGHT) ALLEGES OR PROVES THE SOLE, CONCURRENT, CONTRIBUTORY, OR COMPARATIVE NEGLIGENCE OF THE PERSON SEEKING RELIEF, OR THE SOLE OR CONCURRENT STRICT LIABILITY IMPOSED UPON THE PERSON SEEKING RELIEF.
 

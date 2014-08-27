@@ -1,12 +1,18 @@
-=[Form/AGT/Acquisition/ABA_MSPA/Library_MSPA_AGT_Term.txt]
+=[Form/AGT/Acquisition/ABA_MSPA/Library_MSPA_AGT.txt]
 
-=[Form/AGT/Acquisition/ABA_MSPA/Library_MSPA_AGT_IPRR.txt]
+[Form/AGT/Acquisition/ABA_MSPA/Library_MSPA_AGT_BuyerCond.txt]
 
-=[Form/AGT/Acquisition/ABA_MSPA/Library_MSPA_AGT_Misc.txt]
+[Form/AGT/Acquisition/ABA_MSPA/Library_MSPA_AGT_SellerCond.txt]
+
+[Form/AGT/Acquisition/ABA_MSPA/Library_MSPA_AGT_Term.txt]
+
+[Form/AGT/Acquisition/ABA_MSPA/Library_MSPA_AGT_IPRR.txt]
+
+[Form/AGT/Acquisition/ABA_MSPA/Library_MSPA_AGT_Misc.txt]
 
 [Form/AGT/Sec/Library_MIT_OSP_AGT_Dispute.txt]
 
-Model.Root={Term._Sec} {IPRR._Sec} {Misc._Sec}
+xModel.Root={BuyerCond._Sec} {SellerCond._Sec} {Term._Sec} {IPRR._Sec} {Misc._Sec}
 
 [Test/Refactored_Form_MIT_TLO_Mutual.txt]
 

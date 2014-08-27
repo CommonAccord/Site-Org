@@ -1,0 +1,236 @@
+Def.List._Sec=<u>{Def.List.Title}</u> {Def.List.Intro}:<ol><li>{Def.List}</li></ol>
+
+Def.List.Intro=For purposes of this Agreement, the following terms have the meanings specified or referred to in this Section {Def.List.Xnum}
+
+Def.List={Def.Acquired_Companies}</li><li>{Def.Adjoining_Property}</li><li>{Def.Adjustment_Amount}</li><li>{Def.Agreement}</li><li>{Def.Applicable_Contract}</li><li>{Def.Balance_Sheet_Date}</li><li>{Def.Breach}</li><li>{Def.Business_Day}</li><li>{Def.Buyer}</li><li>{Def.Buyer_Group}</li><li>{Def.Buyer_Indemnified_Persons}</li><li>{Def.Buyer's_Closing_Documents}</li><li>{Def.Cleanup}</li><li>{Def.Closing}</li><li>{Def.Closing_Balance_Sheet}</li><li>{Def.Closing_Date}</li><li>{Def.Closing_Date_Shareholders'_Equity}</li><li>{Def.Closing_Payment}</li><li>{Def.COBRA}</li><li>{Def.Code}</li><li>{Def.Company}</li><li>{Def.Confidential_Information}</li><li>{Def.Consent}</li><li>{Def.Contemplated_Transactions}</li><li>{Def.Contract}</li><li>{Def.Copyrights}</li><li>{Def.Disclosure_Letter}</li><li>{Def.Employee_Plan}</li><li>{Def.Encumbrance}</li><li>{Def.End_Date}</li><li>{Def.Environment}</li><li>{Def.Environmental,_Health,_and_Safety_Liability}</li><li>{Def.Environmental_Law}</li><li>{Def.Equity_Security}</li><li>{Def.ERISA}</li><li>{Def.Escrow_Agreement}</li><li>{Def.Escrow_Funds}</li><li>{Def.Exchange_Act}</li><li>{Def.Facilities}</li><li>{Def.Financial_Statements}</li><li>{Def.GAAP}</li><li>{Def.Governmental_Authorization}</li><li>{Def.Governmental_Body}</li><li>{Def.Hazardous_Activity}</li><li>{Def.Hazardous_Material}</li><li>{Def.HSR_Act}</li><li>{Def.Indemnified_Person}</li><li>{Def.Indemnifying_Person}</li><li>{Def.Independent_Accountants}</li><li>{Def.Intellectual_Property_Assets}</li><li>{Def.Interim_Balance_Sheet}</li><li>{Def.Interim_Balance_Sheet_Date}</li><li>{Def.Interim_Shareholders'_Equity}</li><li>{Def.Invention_Disclosures}</li><li>{Def.IRS}</li><li>{Def.Knowledge}</li><li>{Def.Knowledge_of_Sellers}</li><li>{Def.Leased_Real_Property}</li><li>{Def.Legal_Requirement}</li><li>{Def.Loss}</li><li>{Def.Major_Suppliers}</li><li>{Def.Major_Customers}</li><li>{Def.Marks}</li><li>{Def.Material_Adverse_Change}</li><li>{Def.Material_Consents}</li><li>{Def.Net_Names}</li><li>{Def.Objection_Notice}</li><li>{Def.Occupational_Safety_and_Health_Law}</li><li>{Def.Order}</li><li>{Def.Ordinary_Course_of_Business}</li><li>{Def.Organizational_Documents}</li><li>{Def.Owned_Real_Property}</li><li>{Def.Patents}</li><li>{Def.Permitted_Encumbrances}</li><li>{Def.Person}</li><li>{Def.Plan}</li><li>{Def.Proceeding}</li><li>{Def.Promissory_Notes}</li><li>{Def.Purchase_Price}</li><li>{Def.Real_Property}</li><li>{Def.Record}</li><li>{Def.Related_Person}</li><li>{Def.Release}</li><li>{Def.Representative}</li><li>{Def.Securities_Act}</li><li>{Def.Seller(s)}</li><li>{Def.Sellers'_Closing_Documents}</li><li>{Def.Sellers'_Releases}</li><li>{Def.Sellers'_Representative}</li><li>{Def.Shares}</li><li>{Def.Software}</li><li>{Def.Subsidiary}</li><li>{Def.Tax}</li><li>{Def.Tax_Return}</li><li>{Def.Third_Party}</li><li>{Def.Third-Party_Claim}</li><li>{Def.Threat_of_Release}</li><li>{Def.Trade_Secrets}
+
+<b>Definitions</b>= Listed
+
+Acquired_Company=<b>Acquired Company</b>
+
+Acquired_Companies=<b>Acquired Companies</b>
+
+Def.Acquired_Companies=&ldquo;{Acquired_Companies}&rdquo;&mdash;the Company and its Subsidiaries, collectively, and &ldquo;{Acquired_Company}" means any one of the {Acquired_Companies}.
+
+Adjoining_Property=Adjoining Property
+
+Def.Adjoining_Property=&ldquo;Adjoining Property&rdquo;&mdash;as defined in Section {3.19(e)}.
+
+Adjustment_Amount=Adjustment Amount
+
+Def.Adjustment_Amount=&ldquo;Adjustment Amount&rdquo;&mdash;as defined in Section {2.5(a)}.
+
+Agreement=Agreement
+
+Def.Agreement=&ldquo;Agreement&rdquo;&mdash;as defined in the first paragraph of this Agreement.
+
+Applicable_Contract=Applicable Contract
+
+Def.Applicable_Contract=&ldquo;Applicable Contract&rdquo;&mdash;any Contract (a) under which any {Acquired_Company} has or could acquire any rights, (b) under which any {Acquired_Company} has or could become subject to any obligation or liability, or (c) by which any {Acquired_Company} or any assets owned or used by it is or could become bound.
+
+Balance_Sheet_Date=Balance Sheet Date
+
+Def.Balance_Sheet_Date=&ldquo;Balance Sheet Date&rdquo;&mdash;as defined in Section {3.4}.
+
+Breach=Breach
+
+Def.Breach=&ldquo;Breach&rdquo;&mdash;any breach of, or any inaccuracy in, any representation or warranty or breach of, or failure to perform or comply with, any covenant or obligation in or of the Contract in question, or any event that with the passing of time or the giving of notice, or both, would constitute such a breach, inaccuracy, or failure.
+
+Business_Day=Business Day
+
+Def.Business_Day=&ldquo;Business Day&rdquo;&mdash;any day other than (a) Saturday or Sunday or (b) any other day on which national banks in {Business_Day_Jurisd} are generally permitted or required to be closed.
+
+Business_Day=Business Day
+
+Def.Buyer=&ldquo;Buyer&rdquo;&mdash;as defined in the first paragraph of this Agreement.
+
+Buyer_Group=Buyer Group
+
+Def.Buyer_Group=&ldquo;Buyer Group&rdquo;&mdash;as defined in Section {5.1}.
+
+Buyer_Indemnified_Persons=Buyer Indemnified Persons
+
+Def.Buyer_Indemnified_Persons=&ldquo;Buyer Indemnified Persons&rdquo;&mdash;as defined in Section {11.2}.
+
+Buyer's_Closing_Documents=Buyer&rsquo;s Closing Documents
+
+Def.Buyer's_Closing_Documents=&ldquo;Buyer&rsquo;s Closing Documents&rdquo;&mdash;the Promissory Notes and the Escrow Agreement.
+
+Cleanup=Cleanup
+
+Def.Cleanup=&ldquo;Cleanup&rdquo;&mdash;all actions to clean up, remove, treat, or in any other way address the presence, Release, or Threat of Release of any Hazardous Material whether or not any expense incurred in connection with such action constitutes a capital expenditure.
+
+Closing=Closing
+
+Def.Closing=&ldquo;Closing&rdquo;&mdash;as defined in Section {2.3}.
+
+Def.Closing_Balance_Sheet=&ldquo;Closing Balance Sheet&rdquo;&mdash;as defined in Section {2.6(a)}.
+
+Def.Closing_Date=&ldquo;Closing Date&rdquo;&mdash;the date on which the Closing occurs.
+
+Def.Closing_Date_Shareholders'_Equity=&ldquo;Closing Date Shareholders&rsquo; Equity&rdquo;&mdash;as defined in Section {2.5(a)}.
+
+Def.Closing_Payment=&ldquo;Closing Payment&rdquo;&mdash;as defined in Section {2.2}.
+
+Def.COBRA=&ldquo;COBRA&rdquo;&mdash;as defined in Section {3.13(d)}.
+
+Def.Code=&ldquo;Code&rdquo;&mdash;the Internal Revenue Code of 1986.
+
+Def.Company=&ldquo;Company&rdquo;&mdash;as defined in the Recitals of this Agreement.
+
+Def.Confidential_Information=&ldquo;Confidential Information&rdquo;&mdash;as defined in Section {7.3(a)}.
+
+Def.Consent=&ldquo;Consent&rdquo;&mdash;any approval, consent, ratification, waiver, or other authorization.
+
+Def.Contemplated_Transactions=&ldquo;Contemplated Transactions&rdquo;&mdash;the transactions contemplated by this Agreement.
+
+Def.Contract=&ldquo;Contract&rdquo;&mdash;any agreement, contract, lease, consensual obligation, promise, commitment, or undertaking (whether written or oral and whether express or implied), whether or not legally binding.
+
+Def.Copyrights=&ldquo;Copyrights&rdquo;&mdash;as defined in Section {3.22(a)(iii)}.
+
+Def.Disclosure_Letter=&ldquo;Disclosure Letter" the disclosure letter delivered by Sellers to Buyer concurrently with the execution and delivery of this Agreement.
+
+Def.Employee_Plan=&ldquo;Employee Plan&rdquo;&mdash;as defined in Section {3.13(a)}.
+
+Def.Encumbrance=&ldquo;Encumbrance&rdquo;&mdash;any charge, claim, community or other marital property interest, condition, equitable interest, lien, option, pledge, security interest, mortgage, right of way, easement, encroachment, servitude, right of first option, right of first refusal, or similar restriction, including any restriction on use, voting, transfer, receipt of income, or exercise of any other attribute of ownership.
+
+Def.End_Date=&ldquo;End Date&rdquo;&mdash;as defined in Section {10.1(d)}.
+
+Def.Environment=&ldquo;Environment&rdquo;&mdash;soil, land surface and subsurface strata, surface waters (including navigable and nonnavigable inland and ocean waters), groundwaters, drinking water supply, stream sediments, ambient air (indoor air), plant and animal life, and any other environmental medium or natural resource.
+
+Def.Environmental,_Health,_and_Safety_Liability=&ldquo;Environmental, Health, and Safety Liability&rdquo;&mdash;any Loss, obligation, or other responsibility resulting from or arising under an Environmental Law or an Occupational Safety and Health Law.
+
+Def.Environmental_Law=&ldquo;Environmental Law" any Legal Requirement that provides for or relates to:<ol><li>advising appropriate authorities, employees, or the public with respect to the use of any Hazardous Material, the Release or Threat of Release of Hazardous Material, violation of discharge or emission limits or other prohibitions, or any Hazardous Activity or any activity, such as resource extraction or construction, that could have a significant effect on the Environment;</li><li>preventing or reducing to acceptable levels the Release of Hazardous Material into the Environment;</li><li>reducing the quantities, or minimizing or controlling the hazardous characteristics, of Hazardous Material that are generated;</li><li>assuring that products are designed, formulated, packaged, and used so that they do not present an unreasonable risk to human health or the Environment when used or disposed of;</li><li>protecting the Environment;</li><li>reducing the risks involved in the transportation of Hazardous Material;</li><li>the cleanup of Hazardous Material that has been Released, preventing its Release, or addressing the Threat of Release, or paying the costs of such actions; or </li><li>making a Person compensate any other Person for damage done to its health or property or the Environment or permitting self-appointed representatives of the public interest to recover for injuries done to public assets or resources. </li></ol>
+
+Def.Equity_Security=&ldquo;Equity Security&rdquo;&mdash;in respect of any Person, (a) any capital stock or similar security, (b) any security convertible into or exchangeable for any security described in clause (a), (c) any option, warrant, or other right to purchase or otherwise acquire any security described in clauses (a), (b), or (c), and (d) any "equity security" within the meaning of the Exchange Act.
+
+Def.ERISA=&ldquo;ERISA&rdquo;&mdash;the Employee Retirement Income Security Act of 1974.
+
+Def.Escrow_Agent=&ldquo;Escrow Agent&rdquo;&mdash;as defined in the Escrow Agreement.
+
+Def.Escrow_Agreement=&ldquo;Escrow Agreement&rdquo;&mdash;as defined in Section {2.4(a)(vii)}.
+
+Def.Escrow_Funds=&ldquo;Escrow Funds&rdquo;&mdash;as defined in Section {2.2(c)}.
+
+Def.Exchange_Act=&ldquo;Exchange Act&rdquo;&mdash;the Securities Exchange Act of 1934.
+
+Def.Facilities=&ldquo;Facilities&rdquo;&mdash;any real property owned or operated or formerly owned or operated by any {Acquired_Company} and any buildings, plants, structures, or equipment (including motor vehicles, tank cars, and rolling stock) owned or operated or formerly owned or operated by any {Acquired_Company}.
+
+Def.Financial_Statements=&ldquo;Financial Statements&rdquo;&mdash;as defined in Section {3.4}.
+
+Def.GAAP=&ldquo;GAAP&rdquo;&mdash;generally accepted accounting principles in the United States.
+
+Def.Governmental_Authorization=&ldquo;Governmental Authorization&rdquo;&mdash;any (a) Consent, license, registration, or permit issued, granted, given, or otherwise made available by or under the authority of any Governmental Body or pursuant to any Legal Requirement; or (b) right under any Contract with any Governmental Body.
+
+Def.Governmental_Body=&ldquo;Governmental Body&rdquo;&mdash;any:<ol><li>nation, state, county, city, town, borough, village, district, or other jurisdiction;</li><li>federal, state, local, municipal, foreign, multinational, or other government;</li><li>governmental or quasi-governmental authority of any nature (including any agency, branch, department, board, commission, court, tribunal, or other entity exercising governmental or quasi-governmental powers);</li><li>body exercising, or entitled or purporting to exercise, any administrative, executive, judicial, legislative, police, regulatory, or taxing authority or power, whether local, national, or international; or</li><li>official of any of the foregoing.</li></ol>
+
+Def.Hazardous_Activity=&ldquo;Hazardous Activity&rdquo;&mdash;the distribution, generation, handling, importing, management, manufacturing, processing, production, refinement, Release, storage, transfer, transportation, treatment, or use of Hazardous Material and any other act, business, operation, or activity that increases the danger, or poses a risk of harm, to the Environment.
+
+Def.Hazardous_Material=&ldquo;Hazardous Material&rdquo;&mdash;any substance, material, or waste that is or will foreseeably be regulated by any Governmental Body, including any material, substance, or waste that is defined or classified as a "hazardous waste," "hazardous material," "hazardous substance," "extremely hazardous waste," "pollutant," "restricted hazardous waste," "contaminant," "toxic waste," "pollutant," or "toxic substance" under any provision of Environmental Law, including petroleum, petroleum products, asbestos, presumed asbestos-containing material or asbestos-containing material, urea formaldehyde, or polychlorinated biphenyls.
+
+Def.HSR_Act=&ldquo;HSR Act&rdquo;&mdash;the Hart-Scott-Rodino Antitrust Improvements Act of 1976.
+
+Def.Indemnified_Person=&ldquo;Indemnified Person&rdquo;&mdash;as defined in Section {11.8(a)}.
+
+Def.Indemnifying_Person=&ldquo;Indemnifying Person&rdquo;&mdash;as defined in Section {11.8(a)}.
+
+Def.Independent_Accountants=&ldquo;Independent Accountants&rdquo;&mdash;as defined in Section {2.6(d)}.
+
+Def.Intellectual_Property_Assets=&ldquo;Intellectual Property Assets&rdquo;&mdash;as defined in Section {3.22(a)}.
+
+Def.Interim_Balance_Sheet=&ldquo;Interim Balance Sheet&rdquo;&mdash;as defined in Section {3.4}.
+
+Def.Interim_Balance_Sheet_Date=&ldquo;Interim Balance Sheet Date&rdquo;&mdash;as defined in Section {3.4}.
+
+Def.Interim_Shareholders'_Equity=&ldquo;Interim Shareholders&rsquo; Equity&rdquo;&mdash;as defined in Section {2.5(a)}.
+
+Def.Invention_Disclosures=&ldquo;Invention Disclosures&rdquo;&mdash;as defined in Section {3.22(c)(i)}.
+
+Def.IRS=&ldquo;IRS&rdquo;&mdash;the United States Internal Revenue Service or any successor agency, and, to the extent relevant, the United States Department of the Treasury.
+
+Def.Knowledge=&ldquo;Knowledge"<ol><li>An individual will be deemed to have Knowledge of a particular fact or other matter if:<ol><li>that individual is actually aware of that fact or matter; or</li><li>a prudent individual could be expected to discover or otherwise become aware of that fact or matter in the course of conducting a reasonably comprehensive investigation regarding the accuracy of any representation or warranty in this Agreement.</li></ol></li><li>A Person (other than an individual) will be deemed to have Knowledge of a particular fact or other matter if any individual who is serving, or who has at any time served, as a director, officer, partner, manager, executor, or trustee of that Person (or in any similar capacity) has, or at any time had, Knowledge of that fact or other matter (as set forth in clauses (a)(i) and (ii) above).</li></ol>
+
+Def.Knowledge_of_Sellers=&ldquo;Knowledge of Sellers&rdquo;&mdash;Knowledge of any Seller or any {Acquired_Company}.
+
+Def.Leased_Real_Property=&ldquo;Leased Real Property&rdquo;&mdash;as defined in Section {3.6(b)}.
+
+Def.Legal_Requirement=&ldquo;Legal Requirement&rdquo;&mdash;any constitution, law, ordinance, principle of common law, code, rule, regulation, statute, act, treaty, or order of general applicability of any Governmental Body, including rules and regulations promulgated thereunder.
+
+Def.Loss=&ldquo;Loss&rdquo;&mdash;any cost, loss, liability, obligation, claim, cause of action, damage, deficiency, expense (including costs of investigation and defense and reasonable attorneys&rsquo; fees and expenses), fine, penalty, judgment, award, assessment, or diminution of value.
+
+Def.Major_Suppliers=&ldquo;Major Suppliers&rdquo;&mdash;as defined in Section {3.26}.
+
+Def.Major_Customers=&ldquo;Major Customers&rdquo;&mdash;as defined in Section {3.26}
+
+Def.Marks=&ldquo;Marks&rdquo;&mdash;as defined in Section {3.22(a)(i)}.
+
+Def.Material_Adverse_Change=&ldquo;Material Adverse Change&rdquo;&mdash;with respect to an {Acquired_Company}, any event, change, development, or occurrence that, individually or together with any other event, change, development, or occurrence, is materially adverse to its business, condition (financial or otherwise), assets, results of operations, or prospects.
+
+Def.Material_Consents=&ldquo;Material Consents&rdquo;&mdash;as defined in Section {8.4}.
+
+Def.Net_Names=&ldquo;Net Names&rdquo;&mdash;as defined in Section {3.22(a)(vii)}.
+
+Def.Objection_Notice=&ldquo;Objection Notice&rdquo;&mdash;as defined in Section {2.6(c)}.
+
+Def.Occupational_Safety_and_Health_Law=&ldquo;Occupational Safety and Health Law&rdquo;&mdash;any Legal Requirement designed to promote safe and healthful working conditions and to reduce occupational safety and health hazards, including the Occupational Safety and Health Act, and any program, whether governmental or private (such as those promulgated or sponsored by industry associations and insurance companies), designed to promote safe and healthful working conditions.
+
+Def.Order=&ldquo;Order&rdquo;&mdash;any order, injunction, judgment, decree, ruling, assessment, or arbitration award of any Governmental Body or arbitrator.
+
+Def.Ordinary_Course_of_Business=&ldquo;Ordinary Course of Business&rdquo;&mdash;an action taken by a Person will be deemed to have been taken in the Ordinary Course of Business only if that action:<ol><li>is consistent in nature, scope, and magnitude with the past practices of such Person and is taken in the ordinary course of the normal, day-to-day operations of such Person; and</li><li>does not require authorization by the board of directors of such Person (or by any Person or group of Persons exercising similar authority) and does not require any other separate or special authorization of any nature.</li></ol>
+
+Def.Organizational_Documents=&ldquo;Organizational Documents&rdquo;&mdash;(a) the articles or certificate of incorporation and the bylaws of a corporation; (b) the certificate of formation and limited liability company agreement, operating agreement, or like agreement of a limited liability company; (c) the partnership agreement and any statement of partnership of a general partnership; (d) the limited partnership agreement and the certificate of limited partnership of a limited partnership; (e) any charter or agreement or similar document adopted or filed in connection with the creation, formation, or organization of a Person; and (f) any amendment to or restatement of any of the foregoing.
+
+Def.Owned_Real_Property=&ldquo;Owned Real Property&rdquo;&mdash;as defined in Section {3.6(a)}.
+
+Def.Patents=&ldquo;Patents&rdquo;&mdash;as defined in Section {3.22(a)(ii)}.
+
+Def.Permitted_Encumbrances=&ldquo;Permitted Encumbrances&rdquo;&mdash;(a) Encumbrances for Taxes and other governmental charges and assessments (except assessments for public improvements levied, pending, or deferred against Owned Real Property) that are not yet due and payable, (b) Encumbrances of carriers, warehousemen, mechanics, and materialmen and other like Encumbrances arising in the Ordinary Course of Business (provided lien statements have not been filed or such Encumbrances otherwise perfected), (c) statutory Encumbrances in favor of lessors arising in connection with any property leased to any {Acquired_Company}, and (d) Encumbrances disclosed in the Financial Statements.
+
+Def.Person=&ldquo;Person&rdquo;&mdash;an individual, partnership, corporation, business trust, limited liability company, limited liability partnership, joint stock company, trust, unincorporated association, joint venture, other entity, or a Governmental Body.
+
+Def.Plan=&ldquo;Plan&rdquo;&mdash;as defined in Section {3.13}.
+
+Def.Proceeding=&ldquo;Proceeding&rdquo;&mdash;any action, arbitration, mediation, audit, hearing, investigation, litigation, or suit (whether civil, criminal, administrative, judicial, or investigative) commenced, brought, conducted, or heard by or before, or otherwise involving, any Governmental Body or arbitrator.
+
+Def.Promissory_Notes=&ldquo;Promissory Notes&rdquo;&mdash;as defined in Section {2.2(b)}.
+
+Def.Purchase_Price=&ldquo;Purchase Price&rdquo;&mdash;as defined in Section {2.2}.
+
+Def.Real_Property=&ldquo;Real Property&rdquo;&mdash;as defined in Section {3.6(b)}.
+
+Def.Record=&ldquo;Record&rdquo;&mdash;information that is inscribed on a tangible medium or that is stored in an electronic or other medium.
+
+Def.Related_Person=&ldquo;Related Person&rdquo;&mdash;<ol><li>With respect to an individual:<ol><li>each other member of such individual&rsquo;s Family;</li><li>any Person that is directly or indirectly controlled by such individual or any one or more members of such individual's Family;</li><li>any Person in which members of such individual&rsquo;s Family hold (individually or in the aggregate) a Material Interest; and</li><li>any Person with respect to which one or more members of such individual&rsquo;s Family serves as a director, officer, partner, manager, executor, or trustee (or in a similar capacity).</li></ol></li><li>With respect to a Person other than an individual:<ol><li>any Person that directly or indirectly controls, is directly or indirectly controlled by, or is directly or indirectly under common control with, such specified Person;</li><li>any Person that holds a Material Interest in such specified Person;</li><li>each Person that serves as a director, officer, partner, manager, executor, or trustee of such specified Person (or in a similar capacity);</li><li>any Person in which such specified Person holds a Material Interest; and </li><li>any Person with respect to which such specified Person serves as a general partner, manager, or a trustee (or in a similar capacity). </li></ol></li><li>For purposes of this definition:<ol><li>"control" (including "controlling," "controlled by," and "under common control with") means the possession, direct or indirect, of the power to direct or cause the direction of the management and policies of a Person, whether through the ownership of voting securities, by contract, or otherwise, and shall be construed as such term is used in the rules promulgated under the Exchange Act;</li><li>the "Family" of an individual includes (A) the individual, (B) the individual&rsquo;s spouse, (C) any other natural person who is related to the individual or the individual&rsquo;s spouse within the second degree, and (D) any other natural person who resides with such individual; and</li><li>"Material Interest" means direct or indirect beneficial ownership (as defined in Rule 13d-3 under the Exchange Act) of voting securities or other voting interests representing at least 10% of the outstanding voting power of a Person or Equity Securities representing at least 10% of the outstanding equity interests in a Person.</li></ol></li></ol>
+
+Def.Release=&ldquo;Release&rdquo;&mdash;any release, spill, emission, leaking, pumping, pouring, dumping, emptying, injection, deposit, disposal, discharge, dispersal, leaching, or migration on or into the Environment, or into or out of any property.
+
+Def.Representative=&ldquo;Representative&rdquo;&mdash;with respect to a particular Person, includes any director, officer, manager, employee, agent, consultant, advisor, accountant, financial advisor, or legal counsel of such Person.
+
+Def.Securities_Act=&ldquo;Securities Act&rdquo;&mdash;the Securities Act of 1933.
+
+Def.Seller(s)=&ldquo;Seller(s)&rdquo;&mdash;as defined in the first paragraph of this Agreement.
+
+Def.Sellers'_Closing_Documents=&ldquo;Sellers&rsquo; Closing Documents&rdquo;&mdash;the releases specified in Section {2.4(a)(v)}, the Escrow Agreement, and each other document to be executed or delivered by any Seller at the Closing.
+
+Def.Sellers'_Releases=&ldquo;Sellers&rsquo; Releases&rdquo;&mdash;as defined in Section {2.4}.
+
+Def.Sellers'_Representative=&ldquo;Sellers&rsquo; Representative&rdquo;&mdash;as defined in Section {12.5(a)}.
+
+Def.Shares=&ldquo;Shares&rdquo;&mdash;as defined in the Recitals of this Agreement.
+
+Def.Software=&ldquo;Software&rdquo;&mdash;as defined in Section {3.22(a)(v)}.
+
+Def.Subsidiary=&ldquo;Subsidiary&rdquo;&mdash;with respect to any Person (the "Owner"), any corporation or other Person of which securities or other interests having the power to elect a majority of that corporation&rsquo;s or other Person&rsquo;s board of directors or similar governing body, or otherwise having the power to direct the business and policies of that corporation or other Person (other than Equity Securities or other interests having such power only upon the happening of a contingency that has not occurred) are held by the Owner or one or more of its Subsidiaries; when used without reference to a particular Person, "Subsidiary" means a Subsidiary of the Company.
+
+Def.Tax=&ldquo;Tax&rdquo;&mdash;any income, gross receipts, license, payroll, employment, excise, severance, stamp, occupation, premium, property, environmental, windfall profit, customs, vehicle, airplane, boat, vessel or other title or registration, capital stock, franchise, employees&rsquo; income withholding, foreign or domestic withholding, Social Security, unemployment, disability, real property, personal property, sales, use, transfer, value added, concession, alternative, add-on minimum and other tax, fee, assessment, levy, tariff, charge, or duty of any kind whatsoever and any interest, penalty, addition, or additional amount thereon imposed, assessed, or collected by or under the authority of any Governmental Body or payable under any tax-sharing agreement or any other Contract.
+
+Def.Tax_Return=&ldquo;Tax Return&rdquo;&mdash;any return (including any information return), report, statement, schedule, notice, form, declaration, claim for refund, or other document or information filed with or submitted to, or required to be filed with or submitted to, any Governmental Body in connection with the determination, assessment, collection, or payment of any Tax or in connection with the administration, implementation, or enforcement of or compliance with any Legal Requirement relating to any Tax.
+
+Def.Third_Party=&ldquo;Third Party&rdquo;&mdash;a Person that is not an {Acquired_Company} or a party to this Agreement.
+
+Def.Third-Party_Claim=&ldquo;Third-Party Claim&rdquo;&mdash;any claim against any Indemnified Person by a Third Party, whether or not involving a Proceeding.
+
+Def.Threat_of_Release=&ldquo;Threat of Release&rdquo;&mdash;a reasonable possibility of a Release that could require action (including triggering notification or reporting under Environmental Law) in order to prevent or mitigate damage to the Environment that could result from such Release.
+
+Def.Trade_Secrets=&ldquo;Trade Secrets&rdquo;&mdash;as defined in Section {3.22(a)(vi)}.
+
