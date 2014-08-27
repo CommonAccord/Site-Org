@@ -1,0 +1,8 @@
+Model.Root=<ol><li>John.Pl.ID.N,A {John.Paul.ID.N,A}</li><li>The data is in the Dictionary<br>John.Paul.ID.Name.Full: <b>{John.Paul.ID.Name.Full} John.Paul.ID.Addr.1 {John.Paul.ID.Addr.1}</b></li></ol>
+
+ID.Name.Full=WRONG NAME!!
+
+John.=[Test/John.txt]
+ 
+But in Paul.txt, the value ID.N,A={ID.Name.Full}, {ID.Addr.1}
+ is not being prefixed.

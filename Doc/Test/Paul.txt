@@ -1,0 +1,5 @@
+ID.N,A={ID.Name.Full}, {ID.Addr.1}
+
+ID.Name.Full=Paul McCartney
+
+ID.Addr.1=London Somewhere

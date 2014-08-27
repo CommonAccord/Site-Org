@@ -1,0 +1,7 @@
+
+Paul.=[Test/Paul.txt]
+
+Hello=Hello from {Name} (John)!
+
+Name=John
+
