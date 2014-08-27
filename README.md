@@ -18,6 +18,10 @@ To render different docs, edit Render_Me.txt - putting a line like the following
 and comment out Model.Root= by eliminating the = or adding an x to the name ... Parsing starts by looking for the first "Model.Root=".  
 
 
-This parser is totally rudimentary and has a few known bugs.  But it let's us write legal forms in their source format and start on the job of making a form book for everyone. 
+This parser is totally rudimentary and has a few known bugs.  But it lets us write legal forms in their source format and start on the job of making a form book for everyone. 
 
 
+A few highlights:
+
+* Forms/AGT/Acquisition/ABA_MSPA/ is a mine of excellent drafting.
+* Deal/ has a number of examples.  (We need to build out the collection of persons.)
