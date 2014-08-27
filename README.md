@@ -23,5 +23,5 @@ This parser is totally rudimentary and has a few known bugs.  But it lets us wri
 
 A few highlights:
 
-* Forms/AGT/Acquisition/ABA_MSPA/ is a mine of excellent drafting.
-* Deal/ has a number of examples.  (We need to build out the collection of persons.)
+* Doc/Forms/AGT/Acquisition/ABA_MSPA/ is a mine of excellent drafting.
+* Doc/Deal/ has a number of examples.  (We need to build out the collection of persons.)
