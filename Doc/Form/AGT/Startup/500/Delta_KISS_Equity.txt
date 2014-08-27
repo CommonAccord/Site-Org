@@ -1,24 +1,23 @@
 NowTherefore.1=<u>{Equity.NowTherefore.1}</u>
 
-1.1.d.Equals=<u>{Equity.1.1.d.Equals}</u>
+Def.Corporate_Transaction_Payment.Equals=<u>{Equity.Def.Corporate_Transaction_Payment.Equals}</u>
 
-1.1.j.tx=<u>{_delete_}</u>
+Def.Interest_Rate._Sec=<u>{_delete_}</u>
 
-2.1.Numerator=<u>{Equity.2.1.Numerator}</u>
+Convert.NextEquity.Numerator=<u>{Equity.Convert.NextEquity.Numerator}</u>
 
-2.1.CashPayInterest=<u>{Equity.2.1.CashPayInterest}</u>
+Convert.NextEquity.CashPayInterest=<u>{Equity.Convert.NextEquity.CashPayInterest}</u>
 
-2.2.Option2=<u>{Equity.2.2.Option2}</u>
+Convert.Corporate.Option2=<u>{Equity.Convert.Corporate.Option2}</u>
 
-5.3.CreditPayment={Equity.5.3.CreditPayment}</u>
+Misc.Payment.CreditPayment={Equity.Misc.Payment.CreditPayment}</u>
 
-5.1.a-c=<u>{Equity.5.1.a-c}</u>
+Misc.MFN.a-c=<u>{Equity.Misc.MFN.a-c}</u>
 
-5.5.tx=<u>{_delete_}</u>
+Misc.Security._Sec=<u>{_delete_}</u>
 
-5.14=<u>{Equity.5.14}</u>
+Misc.Entire=<u>{Equity.Misc.Entire}</u>
 
-5.14.Xref.List=<u>{Equity.5.14.Xref.List}</u>
+Misc.Entire.Xref.List=<u>{Equity.Misc.Entire.Xref.List}</u>
 
-5.15.tx=<u>{Equity.5.15.tx}</u>
-
+Misc.PariPassu._Sec=<u>{Equity.Misc.PariPassu._Sec}</u>

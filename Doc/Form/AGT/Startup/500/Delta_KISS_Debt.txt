@@ -1,23 +1,24 @@
 NowTherefore.1=<b>{Debt.NowTherefore.1}</b>
 
-1.1.d.Equals=<b>{Debt.1.1.d.Equals}</b>
+Def.Corporate_Transaction_Payment.Equals=<b>{Debt.Def.Corporate_Transaction_Payment.Equals}</b>
 
-1.1.j.tx=<b>{Debt.1.1.j.tx}</b>
+Def.Interest_Rate._Sec=<b>{Debt.Def.Interest_Rate._Sec}</b>
 
-2.1.Numerator=<b>{Debt.2.1.Numerator}</b>
+Convert.NextEquity.Numerator=<b>{Debt.Convert.NextEquity.Numerator}</b>
 
-2.1.CashPayInterest=<b>{Debt.2.1.CashPayInterest}</b>
+Convert.NextEquity.CashPayInterest=<b>{Debt.Convert.NextEquity.CashPayInterest}</b>
 
-2.2.Option2=<b>{Debt.2.2.Option2}</b>
+Convert.Corporate.Option2=<b>{Debt.Convert.Corporate.Option2}</b>
 
-5.3.CreditPayment=<b>{Debt.5.3.CreditPayment}</b>
+Misc.Payment.CreditPayment=<b>{Debt.Misc.Payment.CreditPayment}</b>
 
-5.1.a-c=<b>{Debt.5.1.a-c}</b>
+Misc.MFN.a-c=<b>{Debt.Misc.MFN.a-c}</b>
 
-5.5.tx=<b>{Debt.5.5.tx}</b>
+Misc.Security._Sec=<b>{Debt.Misc.Security._Sec}</b>
 
-5.14=<b>{Debt.5.14}</b>
+Misc.Entire=<b>{Debt.Misc.Entire}</b>
 
-5.14.Xref.List=<b>{Debt.5.14.Xref.List}</b>
+Misc.Entire.Xref.List=<b>{Debt.Misc.Entire.Xref.List}</b>
 
-5.15.tx=<b>{Debt.5.15.tx}</b>
+Misc.PariPassu._Sec=<b>{Debt.Misc.PariPassu._Sec}</b>
+
