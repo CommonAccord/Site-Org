@@ -2,4 +2,6 @@ Acme.=[Test/Bug_23.txt]
 
 Model.Root={Acme.Portfolio3.Deal1.Model.Root}
 
+Acme.Portfolio3.Deal1.Step1.Pickup.Time.Max=<b>one day</b>
+
 
