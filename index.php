@@ -12,14 +12,21 @@ if(isset($_REQUEST['file'])) {
 
 if($_REQUEST['action'] == 'list') {
 
-echo "Current directory = $dir<br>";
+echo "Current directory = $dir<br><br>";
+
+if(! ($dir == 'Doc/')) {
+	$rootdir = pathinfo($dir);
+	echo "Higher directory: <a href=$_SERVER[PHP_SELF]?action=list&file=$rootdir[dirname]/>$rootdir[dirname]</a><br><br>";
+}
+
 $files = scandir($dir);
-
-
 
 foreach($files as $f) {
 	if(is_dir($path.$dir.$f)) {
-		echo "<a href=$_SERVER[PHP_SELF]?action=list&file=$dir$f/>$f</a><br>";
+		if( !( ($f == '.') || ($f == '..')) ) {
+
+			echo "<a href=$_SERVER[PHP_SELF]?action=list&file=$dir$f/>$f</a><br>";
+		}
 	}
 	else {
 		echo "<a href=$_SERVER[PHP_SELF]?action=file&file=$dir$f>$f</a><br>";
