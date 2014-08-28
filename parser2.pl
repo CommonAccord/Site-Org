@@ -14,7 +14,7 @@ sub parse {
 	ref($file) eq "GLOB" ? $f = $file : open $f, $file or die $!;
 	$orig = $f unless $orig;
 	
-	my $content = parse_root($f, $root);
+	my $content = parse_root($f, $root, $part);
 	if($content) { expand_fields($f, \$content, $part); return($content) }
 
 	return;
@@ -23,7 +23,7 @@ sub parse {
 
 sub parse_root { 
 	
-	my ($f, $field) = @_; my $root;
+	my ($f, $field, $oldpart) = @_; my $root;
 
 	seek($f, 0, 0);	
 	while(<$f>) {
@@ -35,6 +35,7 @@ sub parse_root {
 	while(<$f>) {
 		my($part,$what);	
 		if( (($part, $what) = $_ =~ /^([^=]*)=\[(.+?)\]/) and ($field =~ s/^\Q$part\E//) ) {
+			$part = $oldpart . $part if $oldpart;
 			$root = parse($path.$what, $field, $part);
 			return $root if $root;
 		}
@@ -50,6 +51,7 @@ sub expand_fields  {
 	foreach( $$field =~ /\{([^}]+)\}/g ) {
 		my $ex = $_;
 		my $ox = $part ? $part . $ex : $ex;
+print "[$$field] OX -- part = $part -- ex = $ex --- ox = $ox";
 		my $value = parse($orig, $ox);
 		$value ? $$field =~ s/\{\Q$ex\E\}/$value/gg : push @missing, $ex;
 	}
