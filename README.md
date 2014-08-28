@@ -3,6 +3,8 @@ Alpha
 
 This is a repository of legal documents organized as source texts, and "Deal" docs that use them. 
 
+NEW! - visualize at [http://commonaccord.org/Alpha]
+
 To get going, you need to pull this repository and then launch a command line, go to your folder, then run the perl script.  
 
 E.g.:
