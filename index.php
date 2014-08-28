@@ -45,6 +45,11 @@ $dir<br>
 ";
 foreach($contents as $n) {
 	list($k, $v) = array_pad( explode ("=", $n, 2), 2, null);
+
+	if(preg_match('/\[(.+?)\]/', $v, $matches)) { 
+		$v = "<a href=$_SERVER[PHP_SELF]?action=file&file=Doc/$matches[1]>$v</a>";
+	}
+	
 	echo "<tr>";
 	if(isset($k)) { echo "<td>$k</td><td>$v</td>"; }
 	else { echo "$k"; }
