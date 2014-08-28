@@ -1,15 +1,21 @@
-Naming files, keys and other stuff=Our convention is to use CamelCase for words that you run together.
+Naming stuff=Our convention is to use CamelCase for words that you RunTogether.
 
-Naming for Files=Our convention to separate words by spaces. MyDog.=[Test/Sandy.txt].
-There are a couple of things that don't work in file names.  The apostrophe, the comma  and likely others unknown are a problem. Spaces?
+Naming Files=Our convention to separate words by underscore. MyDog.=[Test/Sandy_The_Dog.txt].
+
+Bad File Names=There are a couple of things that don't work in file names.  The apostrophe, the comma  and likely others unknown are a problem. Spaces?
 
 Naming Keys=Our convention is to separate words by periods (dots) MyDog.Color=Brown 
 
-Naming Keys Limits=You can't use the opening or closing curly bracket ( { } )("brace") in a key name.  
+Bad Key Names=You can't use the opening or closing curly bracket ( { } )("brace") in a key name.  
 
 Error Messages=you wish!
 
-If you get nothing=it likely means either:<br>There is no key named "Model.Root" in your list or the lists it refers to in unprefixed form.  <br>OR<br>Your list (or one it references (recursively)) references a file that doesn't exist. In current state, the parser just returns nothing.
+If Render gives you nothing=it likely means either:<br>There is no key named "Model.Root" in your list or the lists it refers to in unprefixed form.  <br>OR<br>Your list (or one it references (recursively)) references a file that doesn't exist. In current state, the parser just returns nothing.
 
 You might say=This parsing (of this page) is well-deserved.
+
+Model.Root={Give me text}
+
+Give me text={Naming stuff}<br>{Naming Files}<br>{Bad File Names}<br>{Naming Keys}<br>{Bad Key Names}<br>{Error Messages}<br>{If Render gives you nothing}<br>{You might say}
+
 
