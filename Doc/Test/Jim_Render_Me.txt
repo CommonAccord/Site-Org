@@ -1,9 +1,18 @@
+[Deal/Escrow/Demo_Escrow_Step_1-4_Binder.txt]
+
+=[Deal/Escrow/Demo_Escrow_Step_4_Claim.txt]
+
+[Deal/Escrow/Demo_Escrow_Step_2_Order.txt]
+
+xModel.Root=hi
+[Form/AGT/Escrow/Escrow_AGT_Library]
+
 [Form/AGT/Startup/500/Form_KISS_Base.txt]
 [Form/AGT/Startup/500/Delta_KISS_Equity.txt]
 
 
 
-=[Deal/500_Startups_KISS_Note_Demo_1_Debt.txt]
+[Deal/500_Startups_KISS_Note_Demo_1_Debt.txt]
 
 _delete_=&nbsp;
 

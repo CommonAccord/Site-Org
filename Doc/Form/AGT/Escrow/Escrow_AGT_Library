@@ -1,12 +1,14 @@
-=[Meta_SpecialCharacters]EscrowAGT.Doc.Body={AGT.Prologue} {AGT._Secs} {AGT.Signature}
+Model.Root={EscrowAGT.Doc.Body}
 
-AGT.Prologue =<p><strong>ESCROW AGREEMENT</strong></p><p>{Intro.1}</p><p>{Intro.2}</p><p>{Intro.Whereas}{br} {Intro.NowTherefore}</p>
+EscrowAGT.Doc.Body={AGT.Prologue} {AGT._Secs} {AGT.Signature}
+
+AGT.Prologue =<p><strong>ESCROW AGREEMENT</strong></p><p>{Intro.1}</p><p>{Intro.2}</p><p>{Intro.Whereas}<br> {Intro.NowTherefore}</p>
 
 Intro.1=This escrow agreement (&ldquo;Escrow Agreement&rdquo;) is made and entered into on {Escrow.Effective.YMD} by and among:<ul><li>{Purchaser.ID.N,E,A}, (&ldquo;Purchaser&rdquo;),</li><li>{Agent.ID.N,E,A}, (&ldquo;Escrow Agent&rdquo;),</li><li>{Seller.ID.N,E,A} (&quot;Seller&quot;),</li></ul>as of {Escrow.Sign.YMD}.
 
 Intro.2=Additional persons referenced in this Agreement are:<ul><li>{Shipper.ID.N,E,A} (&quot;Shipper&quot;); and</li><li>{Arbitrator.ID.N,E,A} (&quot;Arbitrator&quot;).</li></ul>
 
-Intro.Whereas={Intro.Whereas.1}; {Intro.Whereas.2}; {Intro.Whereas.3}; {Intro.Whereas.4}; and {Intro.Whereas.5}.
+Intro.Whereas=<ul><li>{Intro.Whereas.1};</li><li>{Intro.Whereas.2};</li><li> {Intro.Whereas.3};</li><li>{Intro.Whereas.4}; and</li><li>{Intro.Whereas.5}.</li></ul>
 
 Intro.Whereas.1=WHEREAS, the Purchaser and the Seller have entered into a purchase agreement (&ldquo;Purchase Agreement&rdquo;) for the sale to the Purchaser of {Product.Description} (the &ldquo;Products&rdquo;) owned by the Seller in exchange for {Price.$} (the &quot;Purchase Price&quot;) (altogether, the &quot;Transaction&quot;)
 
@@ -48,16 +50,16 @@ AGT._Secs =<ol><li>{1._Sec}</li><li>{2._Sec}</li><li>{3._Sec}</li><li>{4._Sec}</
 
 13._Sec=<u>Arbitration</u>. {Arbitrator.Mandated.Clause}
 
-14._Sec=<u>Governing Law</u>{br} This Escrow Agreement shall be construed and enforced in accordance with the laws of {Law.Of} without reference to its internal choice of law rules.
+14._Sec=<u>Governing Law</u><br> This Escrow Agreement shall be construed and enforced in accordance with the laws of {Law.Of} without reference to its internal choice of law rules.
 
-15._Sec=<u>Notices</u>.{br} All notices under this Agreement shall be delivered by electronic message using the &quot;blockchain&quot; technology through which this Agreement was entered.
+15._Sec=<u>Notices</u>.<br> All notices under this Agreement shall be delivered by electronic message using the &quot;blockchain&quot; technology through which this Agreement was entered.
 
-16._Sec=<u>Construction to Conform to Technical Implementation</u>{br} The provisions of this Agreement are intended to express in legal language (&quot;Text&quot;) the functioning of the software code that performs the transaction. Each party represents that it has access to the source code (&quot;Code&quot;) and has made such inspection and analysis as it deems appropriate. In the event of any ambiguity in the text or conflict between the text and operation of the Code, the Code will be the definitive version.
+16._Sec=<u>Construction to Conform to Technical Implementation</u><br> The provisions of this Agreement are intended to express in legal language (&quot;Text&quot;) the functioning of the software code that performs the transaction. Each party represents that it has access to the source code (&quot;Code&quot;) and has made such inspection and analysis as it deems appropriate. In the event of any ambiguity in the text or conflict between the text and operation of the Code, the Code will be the definitive version.
 
-AGT.Signature={Signature.InWitness}{br} {AGT.Signature.Block}
+AGT.Signature={Signature.InWitness}<br> {AGT.Signature.Block}
 
-Signature.InWitness=IN WITNESS WHEREOF, the undersigned being all the parties to this Escrow Agreement have hereunto set their hands.{br} &nbsp;
+Signature.InWitness=IN WITNESS WHEREOF, the undersigned being all the parties to this Escrow Agreement have hereunto set their hands.<br> &nbsp;
 
-AGT.Signature.Block=SELLER:{br} {Seller.ID.Name.Full}{br} <u>{Seller.Signature}</u>{br} PURCHASER:{br} {Purchaser.ID.Name.Full}{br} <u>{Purchaser.Signature}</u>{br} ESCROW AGENT:{br} {Agent.ID.Name.Full}{br} <u>{Agent.Signature}</u>{br} ARBITRATOR:{br} {Arbitrator.ID.Name.Full}{br} <u>{Arbitrator.Signature}</u>
+AGT.Signature.Block=SELLER:<br> {Seller.ID.Name.Full}<br> <u>{Seller.Signature}</u><br> PURCHASER:<br> {Purchaser.ID.Name.Full}<br> <u>{Purchaser.Signature}</u><br> ESCROW AGENT:<br> {Agent.ID.Name.Full}<br> <u>{Agent.Signature}</u><br> ARBITRATOR:<br> {Arbitrator.ID.Name.Full}<br> <u>{Arbitrator.Signature}</u>
 
 Law.Of={Arbitrator.Law.Of}</li>

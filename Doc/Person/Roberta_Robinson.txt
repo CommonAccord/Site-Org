@@ -4,6 +4,8 @@ ID.Name.Full=Roberta Robinson
 
 ID.Entity.a=an individual
 
+ID.Addr.Type=business
+
 ID.Addr.1=666 Winding Drive
 
 ID.Addr.2=Woodstock, NY 12498
