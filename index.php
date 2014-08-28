@@ -41,7 +41,7 @@ echo "
 $dir<br>
 
 <h1>Source --> <a href=$_SERVER[PHP_SELF]?action=render&file=$dir>Render</a></h1>
-<table rules="rows"; border=1>
+<table rules='rows'; border=1>
 ";
 foreach($contents as $n) {
 	list($k, $v) = array_pad( explode ("=", $n, 2), 2, null);
