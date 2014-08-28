@@ -1,6 +1,9 @@
+=[Deal/Class_Action_Settlement_Demo_1.txt]
+
+
 [Deal/Escrow/Demo_Escrow_Step_1-4_Binder.txt]
 
-=[Deal/Escrow/Demo_Escrow_Step_4_Claim.txt]
+[Deal/Escrow/Demo_Escrow_Step_4_Claim.txt]
 
 [Deal/Escrow/Demo_Escrow_Step_2_Order.txt]
 
