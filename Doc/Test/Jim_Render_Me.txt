@@ -1,3 +1,5 @@
+=[Deal/Escrow/Demo_Escrow_Step_1_Parties.txt]
+
 =[Person/ID_Acme_Inc.txt]
 
 [Deal/AGT_NDA_MIT_Outbound_Demo_3.txt]
