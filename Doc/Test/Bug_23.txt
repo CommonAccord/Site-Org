@@ -1,4 +1,4 @@
-Portolio3.=[Test/Bug_22.txt]
+Portfolio3.=[Test/Bug_22.txt]
 
 Model.Root={Portfolio3.Deal1.Model.Root}
 
