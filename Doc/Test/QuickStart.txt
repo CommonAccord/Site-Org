@@ -1,23 +1,15 @@
-Naming files, keys and other stuff:
+Naming files, keys and other stuff=Our convention is to use CamelCase for words that you run together.
 
-Our convention is to use CamelCase for words that you run together.
-
-Naming for Files:
-
-Our convention to separate words by spaces. MyDog.=[Test/Sandy.txt].
+Naming for Files=Our convention to separate words by spaces. MyDog.=[Test/Sandy.txt].
 There are a couple of things that don't work in file names.  The apostrophe, the comma  and likely others unknown are a problem. Spaces?
 
-Naming Keys:
+Naming Keys=Our convention is to separate words by periods (dots) MyDog.Color=Brown 
 
-Our convention is to separate words by periods (dots) MyDog.Color=Brown 
+Naming Keys Limits=You can't use the opening or closing curly bracket ( { } )("brace") in a key name.  
 
-You can't use the opening or closing curly bracket ( { } )("brace") in a key name.  
+Error Messages=you wish!
 
-Error Messages - you wish!
-If you get nothing, it likely means either:
+If you get nothing=it likely means either:<br>There is no key named "Model.Root" in your list or the lists it refers to in unprefixed form.  <br>OR<br>Your list (or one it references (recursively)) references a file that doesn't exist. In current state, the parser just returns nothing.
 
-There is no key named "Model.Root" in your list or the lists it refers to in unprefixed form.  OR
-
-Your list (or one it references (recursively)) references a file that doesn't exist. In current state, the parser just returns nothing.
-You might say that this parsing (of this page) is well-deserved.
+You might say=This parsing (of this page) is well-deserved.
 
