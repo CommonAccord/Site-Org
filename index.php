@@ -54,7 +54,7 @@ foreach($contents as $n) {
 	}
 	
 	echo "<tr>";
-	if(isset($k)) { echo "<td><b>$k</b></td><td> &nbsp; </td><td>$v</td>"; }
+	if(isset($k)) { echo "<th>$k</th><td> &nbsp; </td><td>$v</td>"; }
 	else { echo "$k"; }
 	echo "</tr>";
 }
