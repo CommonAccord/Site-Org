@@ -51,7 +51,7 @@ sub expand_fields  {
 	foreach( $$field =~ /\{([^}]+)\}/g ) {
 		my $ex = $_;
 		my $ox = $part ? $part . $ex : $ex;
-print "[$$field] OX -- part = $part -- ex = $ex --- ox = $ox";
+#print "[$$field] OX -- part = $part -- ex = $ex --- ox = $ox";
 		my $value = parse($orig, $ox);
 		$value ? $$field =~ s/\{\Q$ex\E\}/$value/gg : push @missing, $ex;
 	}
