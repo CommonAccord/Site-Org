@@ -40,9 +40,9 @@ EduIP._Sec=<u>{P1.Handle} Intellectual Property</u>.<ol type="A"><li>{EduIP.Titl
 
 EduIP.Title._Sec=<u>{P1.Handle} Inventions</u>.<br> {P1.Handle} shall have sole title to (i) any invention conceived or first reduced to practice solely by employees and/or students of {P1.Handle} in the performance of the Research (each an &ldquo;{P1.Handle} Invention&rdquo;) and (ii) any invention conceived or first reduced to practice by the Sponsor&rsquo;s personnel with significant use of funds or facilities administered by {P1.Handle}, if the invention is conceived or reduced to practice other than in the performance of the Research.  The Sponsor shall be notified of any {P1.Handle} Invention promptly after a disclosure is received by the {P1.TLO}.  {P1.Handle} (a) may file a patent application at its own discretion or (b) shall do so at the request of the Sponsor and at the Sponsor&rsquo;s expense.
 
-EduIP.License._Sec=<u>Licensing Options</u>.<br>For each {P1.Handle} Invention on which a patent application is filed by {P1.Handle}, {P1.Handle} hereby grants the Sponsor a non-exclusive, non-transferable, royalty-free license for internal research purposes. The Sponsor shall further be entitled to elect one of the following alternatives by notice in writing to {P1.Handle} within six (6) months after {P1.Handle}&rsquo;s notification to the Sponsor that a patent application has been filed:<ol type="A"><li>{EduIP.License._List}</li></ol>
+EduIP.License._Sec=<u>Licensing Options</u>.<br>For each {P1.Handle} Invention on which a patent application is filed by {P1.Handle}, {P1.Handle} hereby grants the Sponsor a non-exclusive, non-transferable, royalty-free license for internal research purposes. The Sponsor shall further be entitled to elect one of the following alternatives by notice in writing to {P1.Handle} within six (6) months after {P1.Handle}&rsquo;s notification to the Sponsor that a patent application has been filed:{EduIP.License._List}
 
-EduIP.License._List=<ol><li>{EduIP.License.NonExclusive._cl}; or</li><li>{EduIP.License.Exclusive._cl}.</li></ol>
+EduIP.License._List=<ol type="A"><li>{EduIP.License.NonExclusive._cl}; or</li><li>{EduIP.License.Exclusive._cl}.</li></ol>
 
 EduIP.License.NonExclusive._cl=a non-exclusive, non-transferable, world-wide, royalty-free license (in a designated field of use, where appropriate) to the Sponsor, without the right to sublicense, in the United States and/or any foreign country elected by the Sponsor pursuant to Section 11.C . below, to make, have made, use, lease, sell and import products embodying or produced through the use of such invention, provided that the Sponsor agrees to demonstrate reasonable efforts to commercialize the technology in the public interest and reimburse {P1.Handle} for the costs of patent prosecution and maintenance in the United States and any elected foreign country
 
@@ -52,7 +52,7 @@ EduIP.ProsecuteForeign._Sec=<u>Foreign Filing Election</u>.<br>If the Sponsor el
 
 EduIP.ConfInvention._Sec=<u>Confidentiality of Invention Disclosures</u>.<br>The Sponsor shall retain all invention disclosures submitted to the Sponsor by {P1.Handle} in confidence and use its best efforts to prevent their disclosure to third parties. The Sponsor shall be relieved of this obligation only when this information becomes publicly available through no fault of the Sponsor.
 
-EduIP.Copyright._Sec=<u>Copyright Ownership and Licenses</u>.<br>Title to and the copyright in any copyrightable material first produced or composed in the performance of the Research solely by employees and/or students of {P1.Handle} shall remain with {P1.Handle}.<ol><li>{EduIP.Copyright._List}</li></ol>
+EduIP.Copyright._Sec=<u>Copyright Ownership and Licenses</u>.<br>Title to and the copyright in any copyrightable material first produced or composed in the performance of the Research solely by employees and/or students of {P1.Handle} shall remain with {P1.Handle}.{EduIP.Copyright._List}
 
 EduIP.Copyright._List=<ol><li>{EduIP.Copyright.MiscLicense._sec}</li><li>{EduIP.Copyright.SoftwareLicense._sec}</li></ol>
 
@@ -73,9 +73,9 @@ Notice._Sec=<u>Notices</u>.<br>Any notices required to be given or which shall b
 Assign._Sec=<u>Assignment</u>.<br>This Agreement shall be binding upon and inure to the benefit of the Parties hereto and the ir respective successors and permitted assigns.  Neither Party may assign this Agreement without the prior written consent of the other Party, except to a successor to all or substantially all of its business and assets.  Any attempted assignment in violation of this Article 15 is void. 
 
 
-Mediate._Sec=<u>Mediation</u>.<br>If a dispute arises between the Parties, either Party may notify the other of its desire to mediate the dispute and the dispute shall be mediated. <ol type="A"><li>{Mediate._List}</li></ol>
+Mediate._Sec=<u>Mediation</u>.<br>If a dispute arises between the Parties, either Party may notify the other of its desire to mediate the dispute and the dispute shall be mediated.{Mediate._List}
 
-Mediate._List=<ol><li>{Mediate.1._Sec}</li><li>{Mediate.2._Sec}</li><li>{Mediate.3._Sec}</li><li>{Mediate.4._Sec}</li></ol>
+Mediate._List=<ol type="A"><li>{Mediate.1._Sec}</li><li>{Mediate.2._Sec}</li><li>{Mediate.3._Sec}</li><li>{Mediate.4._Sec}</li></ol>
 
 Mediate.1._Sec=<u>Mediator</u>.<br>The mediation shall be conducted by a single mediator. The Party requesting mediation shall designate two (2) or more nominees for mediator in its notice. The other Party may accept one of the nominees or may designate its own nominees by not ice addressed to the American Arbitration Association (AAA) and copied to the requesting Party. If within, thirty (30) days following the request for mediation, the Parties have not selected a mutually acceptable mediator, a mediator shall be appointed by the AAA according to the Commercial Mediation Rules. 
 

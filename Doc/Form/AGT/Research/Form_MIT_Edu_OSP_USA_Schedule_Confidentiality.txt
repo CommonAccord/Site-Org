@@ -1,6 +1,6 @@
 Attach.Conf.Body=<center><b>{Attach.Conf.Heading}</b></center><br><br>{Attach.Conf._Text}
 
-Attach.Conf._Text={Attach.Conf.Prologue}<ol><li>{Attach.Conf._Secs}</li></ol>
+Attach.Conf._Text={Attach.Conf.Prologue} {Attach.Conf._Secs}
 
 Attach.Conf.Heading=Attachment {Attach.Conf}: Sponsor Confidential Information
 
@@ -10,7 +10,7 @@ Attach.Conf._Secs=<ol><li>{Attach.Conf.ConfInfo._Sec}</li><li>{Attach.Conf.Use._
 
 Attach.Conf.ConfInfo._Sec=<u>Confidential Information</u>.<ol><li>{Conf.Means._Sec}</li><li>{Conf.Except._Sec}</li></ol>
 
-Conf.Means._Sec=When used in this Agreement, &ldquo;Confidential Information&rdquo; means confidential and proprietary information of any kind which is disclosed by the Sponsor to {P1.Handle} that:  <ol><li>{Conf.Convey._List}</li></ol>
+Conf.Means._Sec=When used in this Agreement, &ldquo;Confidential Information&rdquo; means confidential and proprietary information of any kind which is disclosed by the Sponsor to {P1.Handle} that:  {Conf.Convey._List}
 
 Conf.Convey._List=<ol><li>{Conf.Convey.Marked._cl}; or</li><li>{Conf.Convey.SayAndConfirm._cl}.</li></ol>
 
@@ -18,7 +18,7 @@ Conf.Convey.Marked._cl=prior to disclosure, is marked with a legend indicating i
 
 Conf.Convey.SayAndConfirm._cl=is disclosed orally or visually, if the Sponsor identifies such information as confidential at the time of disclosure and, within 30 days of such disclosure, delivers to the Principal Investigator a notice summarizing the confidential information disclosed
 
-Conf.Except._Sec=Notwithstanding the foregoing, in no event is information Confidential Information if it:<ol><li>{Conf.Except._List}</li></ol>
+Conf.Except._Sec=Notwithstanding the foregoing, in no event is information Confidential Information if it:{Conf.Except._List}
 
 Conf.Except._List=<ol><li>{Conf.Except.Has._cl};</li><li>{Conf.Except.Public._cl};</li><li>{Conf.Except.Finds._cl}; or</li><li>{Conf.Except.Makes._cl}.</li></ol>
 

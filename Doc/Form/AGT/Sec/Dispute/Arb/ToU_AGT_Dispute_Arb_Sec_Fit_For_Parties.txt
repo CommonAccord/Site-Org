@@ -1,4 +1,4 @@
-=[Form/AGT/SEC/Dispute/Arb/ToU_AGT_Dispute_Arb_Sec.txt]
+=[Form/AGT/Sec/Dispute/Arb/ToU_AGT_Dispute_Arb_Sec.txt]
 
 You.Handle=the parties
 

@@ -10,7 +10,7 @@ Shipper.=[Person/Fabulous_Express_Inc.txt]
 
 Arbitrator.=[Person/Solomon_Shirley.txt]
 
-ARB.=[Form/AGT/SEC/Dispute/Arb/ToU_AGT_Dispute_Arb_Sec_Fit_For_Parties.txt]
+ARB.=[Form/AGT/Sec/Dispute/Arb/ToU_AGT_Dispute_Arb_Sec_Fit_For_Parties.txt]
 
 Arbitrator.Mandated.Clause={ARB.AGT.Dispute.Arb._Sec}
 
