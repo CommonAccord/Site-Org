@@ -41,7 +41,7 @@ echo "
 $dir<br>
 
 <h1>Source --> <a href=$_SERVER[PHP_SELF]?action=render&file=$dir>Render</a></h1>
-<table rules="rows"; border=1>
+<table border=1>
 ";
 foreach($contents as $n) {
 	list($k, $v) = array_pad( explode ("=", $n, 2), 2, null);
@@ -51,7 +51,7 @@ foreach($contents as $n) {
 	}
 	
 	echo "<tr>";
-	if(isset($k)) { echo "<td>$k</td><td>$v</td>"; }
+	if(isset($k)) { echo "<td><b>$k</b></td><td> &nbsp; </td><td>$v</td>"; }
 	else { echo "$k"; }
 	echo "</tr>";
 }
