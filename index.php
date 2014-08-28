@@ -40,7 +40,7 @@ echo "
 <a href=$_SERVER[PHP_SELF]?action=list&file=$rootdir[dirname]/>$rootdir[dirname]</a><br>
 $dir<br>
 
-<h1>Source --> <a href=$_SERVER[PHP_SELF]?action=render&file=$dir>Render</a></h1>
+<h2>Source --> <a href=$_SERVER[PHP_SELF]?action=render&file=$dir>Render</a></h1>
 
 <table border=1>
 
@@ -54,7 +54,7 @@ foreach($contents as $n) {
 	}
 	
 	echo "<tr>";
-	if(isset($k)) { echo "<th>$k</th><td> &nbsp; </td><td>$v</td>"; }
+	if(isset($k)) { echo "<th>$k</th><td width='20'></td><td>$v</td>"; }
 	else { echo "$k"; }
 	echo "</tr>";
 }
