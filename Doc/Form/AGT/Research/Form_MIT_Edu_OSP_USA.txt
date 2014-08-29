@@ -72,6 +72,7 @@ Notice._Sec=<u>Notices</u>.<br>Any notices required to be given or which shall b
 
 Assign._Sec=<u>Assignment</u>.<br>This Agreement shall be binding upon and inure to the benefit of the Parties hereto and the ir respective successors and permitted assigns.  Neither Party may assign this Agreement without the prior written consent of the other Party, except to a successor to all or substantially all of its business and assets.  Any attempted assignment in violation of this Article 15 is void. 
 
+Law._Sec=<u>Governing Law</u>.<br>The validity and interpretation of this Agreement and the legal relationship of the Parties to it shall be governed by the laws of {Laws.Of} and the applicable U.S. Federal law.
 
 Mediate._Sec=<u>Mediation</u>.<br>If a dispute arises between the Parties, either Party may notify the other of its desire to mediate the dispute and the dispute shall be mediated.{Mediate._List}
 
