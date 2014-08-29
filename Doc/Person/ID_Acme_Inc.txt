@@ -2,39 +2,39 @@ ID.Name.Full=Acme Inc.
 
 Handle=Acme
 
-www.com=<b>www.acme.com</b>
+www.com=www.acme.com
 
-App=<b>AcMapp</b>
+App=AcMapp
 
-Network=<b>AcMoney</b>.txt
+Network=AcMoney.txt
 
-System=<b>AcMagora</b>
+System=AcMagora
 
-takedown@we.com=<b>takedown@acme.com</b>
+takedown@we.com=takedown@acme.com
 
-info@we.com=<b>info@acme.com</b>
+info@we.com=info@acme.com
 
-ID.Entity=<b>Delaware corporation</b>
+ID.Entity=Delaware corporation
 
-ID.Addr.Type=<b>principal</b>
+ID.Addr.Type=principal
 
-ID.Addr.1=<b>233 Main Street</b>
+ID.Addr.1=233 Main Street
 
-ID.Addr.2=<b>Redwood City, CA  94063</b>
+ID.Addr.2=Redwood City, CA  94063
 
 ID.SignBy=By: <u>{xSignature}</u><br/>Name: {President.ID.Name.Full}<br/>Its: {President.Title}
 
-President.ID.Name.Full=<b>Andrea Ang</b>
+President.ID.Name.Full=Andrea Ang
 
-President.Title=<b>President</b>
+President.Title=President
 
-DA.ID.Name.Full=<b>Abigail Altima</b>
+DA.ID.Name.Full=Abigail Altima
 
-DA.ID.Addr.1,2=<b>111 Water Street, Portland ME 00001</b>
+DA.ID.Addr.1,2=111 Water Street, Portland ME 00001
 
-DA.ID.Phone=<b>207.555.5550</b>
+DA.ID.Phone=207.555.5550
 
-DA.ID.Fax=<b>207.555.5551</b>
+DA.ID.Fax=207.555.5551
 
 DA.ID.Email={takedown@we.com}
 
