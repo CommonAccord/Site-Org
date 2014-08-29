@@ -1,5 +1,3 @@
-=[Form/AGT/NDA/Form_MIT_TLO_Mutual.txt]
-
 <b>Parameters</b>=-
 
 AGT.Title=OutBound Non-Disclosure Agreement

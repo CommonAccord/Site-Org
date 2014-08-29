@@ -1,5 +1,3 @@
-=[Form/AGT/NDA/Form_MIT_TLO_Mutual.txt]
-
 AGT.Title=Inbound Non-Disclosure Agreement
 
 Purpose.Roles={DP.the} disclosing confidential information to {RP.the}

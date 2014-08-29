@@ -1,13 +1,16 @@
 
+=[Deal/MIT/MIT_NDA_Demo_3_Outbound.txt]
+
+
 d1.=[Deal/Startup/500_Startups_KISS_Note_Demo_1_Debt.txt]
 
 d2.=[Deal/Startup/500_Startups_KISS_Note_Demo_2_Equity.txt]
 
-=[Form/AGT/Startup/500/Form_KISS_Base.txt]
+[Form/AGT/Startup/500/Form_KISS_Base.txt]
 
 d2.[Form/AGT/Startup/500/Delta_KISS_Equity.txt]
 
-Model.Root={d1.Model.Root}<br>QQQ<br>{d2.Model.Root}
+xModel.Root={d1.Model.Root}<br>QQQ<br>{d2.Model.Root}
 
 [Deal/Startup/YC_SAFE_AGT_Demo_Cap_NoDiscount_1.txt]
 

@@ -30,8 +30,13 @@ TLO.Dir.ID.Name.Full=Lita Nelson
 
 TLO.Dir.Title=Director
 
+Contact1.ID.N/A/T/E/F={Contact1.ID.N/A}<br>Tel: 617.345.5432<br>director@tlo.mit.edu<br>Fax: 617.345.5434
+
+Contact2.ID.N/A/T/E/F=Elda Edgemore, Administrator<br>111 Kendall Sq.<br>Cambridge, MA 02139<br>Tel: 617.345.5432<br>director@tlo.mit.edu<br>Fax: 617.345.5434
+
 Contact1.ID.N/A={TLO.Dir.ID.N,T}<br/>{TLO.ID.Addr.N/1/2}
 
 TLO.=[ID_MIT_Edu_TechLicensingOffice.txt]
+
 
 =[Class/ID.txt]

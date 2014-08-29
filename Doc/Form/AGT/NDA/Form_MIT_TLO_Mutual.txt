@@ -39,9 +39,9 @@ Prologue.Recital={Contact._Sen}
 
 Contact._Sen=The primary contact(s) for {Contact.Roles._cl} are as follows: <ul><li>{P2.Contact.Block}</li><li>{P1.Contact.Block}</li></ul>
 
-P1.Contact.Block=For {P1.Handle}:<br>{P1.Contact1.Identity.Full}<br>{P1.Contact2.Identity.Full}
+P1.Contact.Block=For {P1.Handle}:<br>{P1.Contact1.ID.N/A/T/E/F}<br>{P1.Contact2.ID.ID.N/A/T/E/F}
 
-P2.Contact.Block=For {P2.Handle}:<br>{P2.Contact1.Identity.Full}<br>{P2.Contact2.Identity.Full}
+P2.Contact.Block=For {P2.Handle}:<br>{P2.Contact1.ID.N/A/T/E/F}<br>{P2.Contact2.ID.N/A/T/E/F}
 
 Prologue.NowTherefore=In consideration of {Therefore.Roles}, the parties hereby agree as follows:
 
