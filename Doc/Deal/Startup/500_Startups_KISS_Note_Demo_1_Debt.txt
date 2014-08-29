@@ -1,3 +1,5 @@
+x=500_Startups_KISS_Note_Demo_1_Debt.txt
+
 =[Form/AGT/Startup/500/Delta_KISS_Debt.txt]
 
 =[Form/AGT/Startup/500/Form_KISS_Base.txt]
@@ -10,15 +12,11 @@ Co.Handle=Company
 
 Investor.Handle=Investor
 
-Co.Sign.YMD=<b>August 22, 2014</b>
+Series.X=<b>B</b>
 
-Co.xSignature=<b>x C Kendall</b>
+PurchasePrice.$=$60,000
 
-Investor.Sign.YMD=August 23, 2014
-
-Investor.xSignature=<b>x A Ang</b>
-
-Share.Discount.%=<b>eight percent (8%)</b>
+Issuance.YMD=August 29, 2014
 
 Interest.(%)=<b>four percent (4%)</b>
 
@@ -30,4 +28,16 @@ Valuation.Cap.$=<b>$25,000,000</b>
 
 MajorInvestor.Threshold.$=<b>$50,000</b>
 
-Series.X=<b>B</b>
+
+
+
+Co.Sign.YMD=<b>August 22, 2014</b>
+
+Co.xSignature=<b>x C Kendall</b>
+
+Investor.Sign.YMD=August 23, 2014
+
+Investor.xSignature=<b>x A Ang</b>
+
+Share.Discount.%=<b>eight percent (8%)</b>
+

@@ -1,5 +1,11 @@
-=[Deal/Startup/YC_SAFE_AGT_Demo_Cap_NoDiscount_1_d02.txt]
 
+=[Deal/Startup/500_Startups_KISS_Note_Demo_2_Equity.txt]
+
+[Deal/Startup/500_Startups_KISS_Note_Demo_1_Debt.txt]
+
+[Deal/Startup/YC_SAFE_AGT_Demo_Cap_NoDiscount_1_d02.txt]
+
+xModel.Root=Jim_Render_Me
 
 [Deal/MIT/MIT_NDA_Demo_3_Outbound.txt]
 

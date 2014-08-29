@@ -10,7 +10,7 @@ AGT._Secs={Def._Sec}</li><li>{Convert._Sec}</li><li>{CoRep._Sec}</li><li>{BuyerR
 
 Prologue.ThisAgreement=THIS INSTRUMENT AND THE SECURITIES ISSUABLE UPON THE CONVERSION HEREOF HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED. THEY MAY NOT BE SOLD, OFFERED FOR SALE, PLEDGED, HYPOTHECATED, OR OTHERWISE TRANSFERRED EXCEPT PURSUANT TO AN EFFECTIVE REGISTRATION STATEMENT UNDER THE SECURITIES ACT OF 1933, AS AMENDED, OR AN OPINION OF COUNSEL SATISFACTORY TO THE COMPANY THAT REGISTRATION IS NOT REQUIRED UNDER SUCH ACT OR UNLESS SOLD PURSUANT TO RULE 144 UNDER SUCH ACT.
 
-Prologue.Recital=<b>Insert Table as &ldquo;Prologue.Recital&rdquo;</b><br> SERIES {Series.X} KISS<table><tr><td>&ldquo;Purchase Price&rdquo;</td><td></td><td>&ldquo;Date of Issuance&rdquo;</td></tr><tr><td>--</td><td></td><td>--</td></tr></table>
+Prologue.Recital=<br><center>SERIES {Series.X} KISS</center><table><tr><th>&ldquo;Purchase Price&rdquo;</th><td width='400'></td><th>&ldquo;Date of Issuance&rdquo;</th></tr><tr><th>{PurchasePrice.$}</th><td></td><th>{Issuance.YMD}</th></tr></table>
 
 Prologue.NowTherefore={NowTherefore.1}  {NowTherefore.2}
 
