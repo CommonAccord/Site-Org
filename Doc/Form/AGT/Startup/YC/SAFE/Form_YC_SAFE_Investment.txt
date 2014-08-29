@@ -1,6 +1,6 @@
 =[Form/AGT/Base/AGT_Frame.txt]
 
-AGT._Secs=<ol><li>{Sec.Event}</li><li>{Sec.Def}</li><li>{Sec.MFN}</li><li>{Sec.cRep}</li><li>{Sec.bRep}</li><li>{Sec.Misc}</li></ol>
+AGT.Secs._Lost=<ol><li>{Sec.Event}</li><li>{Sec.Def}</li><li>{Sec.MFN}</li><li>{Sec.cRep}</li><li>{Sec.bRep}</li><li>{Sec.Misc}</li></ol>
 
 Prologue.Recital=
 

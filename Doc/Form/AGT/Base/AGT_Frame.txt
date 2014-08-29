@@ -2,7 +2,12 @@ Model.Root={Doc.Body}
 
 Doc.Body={Doc.Meta}{AGT.Doc.Body}
 
-AGT.Doc.Body={AGT.Prologue}<ol><li>{AGT._Secs}</li></ol>{AGT.Sign}<br>{AGT.Attach}
+AGT.Doc.Body={AGT.Prologue}{AGT.Secs._Lost}{AGT.Sign}<br>{AGT.Attach}
+
+/Backward Compatibility=switching to a "lossless" notion of list concatenation.
+
+AGT.Secs._Lost=<ol><li>{AGT._Secs}</li></ol>
+
 
 AGT.Prologue=<div><center>{Prologue.Heading}</center></div>	<p><br>{Prologue.Intro}</p>
 
