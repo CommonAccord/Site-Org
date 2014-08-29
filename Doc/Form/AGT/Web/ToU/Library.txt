@@ -6,29 +6,29 @@ Prologue={Prologue.Warning}<br><br>{Prologue.Scope}<br><br>{Prologue.WeMayModify
 
 AGT._Secs=<ol><li>{Eligibility._Sec}</li><li>{Register._Sec}</li><li>{Privacy._Sec}</li><li>{YourRisk._Sec}</li><li>{Copyright._Sec}</li><li>{UserContent._Sec}</li><li>{Reoffend._Sec}</li><li>{TakeDown._Sec}</li><li>{Trademark._Sec}</li><li>{LinkLicense._Sec}</li><li>{3PartyContent._Sec}</li><li>{Feedback._Sec}</li><li>{ModifySite._Sec}</li><li>{Blocking._Sec}</li><li>{Liability-Misc._Sec}</li><li>{Contact._Sec}</li></ol>
 
-Eligibility._Sec=<u>Eligibility</u>. By accessing or using the Site, you represent and warrant that: <ol><li>{Ineligibility._List}</li></ol>
+Eligibility._Sec=<u>Eligibility</u>. By accessing or using the Site, you represent and warrant that: {Ineligibility._Lost}
 
-Ineligibility._List=<ol><li>{Ineligible.Offender._cl};</li><li>{Ineligible.Embargoed._cl};</li><li>{Ineligible.SDN._cl};</li><li>{Ineligible.DeniedPerson._cl}; and</li><li>{Ineligible.YourLaw._cl}.</li></ol>
+Ineligibility._Lost=<ol><li>{Ineligible.Offender._cl};</li><li>{Ineligible.Embargoed._cl};</li><li>{Ineligible.SDN._cl};</li><li>{Ineligible.DeniedPerson._cl}; and</li><li>{Ineligible.YourLaw._cl}.</li></ol>
 
-Register._Sec=<u>Registration and Account</u>.  In order to access and use certain features on the Site, you must create an account with {We.Handle} (&ldquo;Account&rdquo;). You agree to: <ol><li>{Register._List}</li></ol>
+Register._Sec=<u>Registration and Account</u>.  In order to access and use certain features on the Site, you must create an account with {We.Handle} (&ldquo;Account&rdquo;). You agree to: {Register._Lost}
 
-Register._List=<ol><li>{Register.Truthful._cl};</li><li>{Register.Current._cl};</li><li>{Register.Secure._cl};</li><li>{Register.Notify._cl}; and</li><li>{Register.BearRisk._cl}.</li></ol>
+Register._Lost=<ol><li>{Register.Truthful._cl};</li><li>{Register.Current._cl};</li><li>{Register.Secure._cl};</li><li>{Register.Notify._cl}; and</li><li>{Register.BearRisk._cl}.</li></ol>
 
 YourRisk._Sec=<u>Assumption of Risk with {We.System}</u>.  <ol><li>{FOSS.Founder._Sec}</li><li>{FOSS.Contributor._Sec}</li><li>{FOSS.Independence._Sec}</li><li>{YourRisk.Prudence._Sec}</li><li>{YourRisk.Admit._Sec}</li><li>{YourRisk.YouControl._Sec}</li><li>{YourRisk.WeDisclaim._Sec}</li></ol>
 
-YourRisk.Admit._Sec=You acknowledge and agree that {We.Handle}: <ol><li>{YourRisk.Admit._List}</li></ol>
+YourRisk.Admit._Sec=You acknowledge and agree that {We.Handle}: {YourRisk.Admit._Lost}
 
-YourRisk.Admit._List=<ol><li>{YourRisk.Admit.WeDontOwn._cl};</li><li>{YourRisk.Admit.WeDontControlTransactions._cl};</li><li>{YourRisk.Admit.WeAreNotPartyTo._cl}; and</li><li>{YourRisk.Admit.WeDontPolice._cl}.</li></ol>
+YourRisk.Admit._Lost=<ol><li>{YourRisk.Admit.WeDontOwn._cl};</li><li>{YourRisk.Admit.WeDontControlTransactions._cl};</li><li>{YourRisk.Admit.WeAreNotPartyTo._cl}; and</li><li>{YourRisk.Admit.WeDontPolice._cl}.</li></ol>
 
-YourRisk.YouControl._List=<ol><li>{YourRisk.YouControl.Payment._cl}</li><li>{YourRisk.YouControl.Counterparties._cl}</li><li>{YourRisk.YouControl.Interactions._cl}</li><li>{YourRisk.YouControl.Gateways._cl}</li></ol>
+YourRisk.YouControl._Lost=<ol><li>{YourRisk.YouControl.Payment._cl}</li><li>{YourRisk.YouControl.Counterparties._cl}</li><li>{YourRisk.YouControl.Interactions._cl}</li><li>{YourRisk.YouControl.Gateways._cl}</li></ol>
 
 Copyright._Sec=<u>Copyright and Limited License</u>.  <ol><li>{Copyright.WeOwn._Sec}</li><li>{Copyright.YourLicense._Sec}</li></ol>  
 
 UserContent._Sec=<u>User Content</u><ol><li>{UserContent.Has._Sec}</li><li>{UserContent.Banned._Sec}</li><li>{UserContent.NotMonitored._Sec}</li><li>{UserContent.TakeDown._Sec}</li><li>{UserContent.License._Sec}</li><li>{UserContent.Rep._Sec}</li></ol>
 
-UserContent.Banned._Sec=By using the Site, you agree not to post, upload to, transmit, distribute, store, create or otherwise publish or send through the Site any of the following:<ol><li>{UserContent.Banned._List}</li></ol>
+UserContent.Banned._Sec=By using the Site, you agree not to post, upload to, transmit, distribute, store, create or otherwise publish or send through the Site any of the following:{UserContent.Banned._Lost}
 
-UserContent.Banned._List=<ol><li>{UserContent.Banned.Uncouth._cl}</li><li>{UserContent.Banned.Unlawful._cl}</li><li>{UserContent.Banned.Impinge._cl}</li><li>{UserContent.Banned.Infringe._cl}</li><li>{UserContent.Banned.Masks._cl}</li><li>{UserContent.Banned.Virus._cl}</li><li>{UserContent.Banned.Unwanted._cl}</li></ol>
+UserContent.Banned._Lost=<ol><li>{UserContent.Banned.Uncouth._cl}</li><li>{UserContent.Banned.Unlawful._cl}</li><li>{UserContent.Banned.Impinge._cl}</li><li>{UserContent.Banned.Infringe._cl}</li><li>{UserContent.Banned.Masks._cl}</li><li>{UserContent.Banned.Virus._cl}</li><li>{UserContent.Banned.Unwanted._cl}</li></ol>
 
 TakeDown._Sec=<u>Copyright Complaints</u>.  <ol><li>{TakeDown.To._Sec}</li><li>{TakeDown.Form._Sec}</li><li>{TakeDown.False._Sec}</li></ol>
 
@@ -68,7 +68,7 @@ Prologue.WeMayModify={We.Handle} reserves the right to change or modify the term
 
 <b>Provisions</b>=-
 
-Eligibility._Sec=<u>Eligibility</u>. By accessing or using the Site, you represent and warrant that: <ol><li>{Ineligibility._List}</li></ol>
+Eligibility._Sec=<u>Eligibility</u>. By accessing or using the Site, you represent and warrant that: {Ineligibility._Lost}
 
 Ineligible.Offender._cl=you have not previously been suspended or removed from the Site
 
@@ -104,7 +104,7 @@ FOSS.Independence._Sec=However, {We.Handle} does not own or control {We.System}.
 
 YourRisk.Prudence._Sec=We encourage you to take precautions when considering whether to use {We.System}, particularly when participating in any {We.System} transaction with a stranger.
 
-YourRisk.Admit._Sec=You acknowledge and agree that {We.Handle}: <ol><li>{YourRisk.Admit._List}</li></ol>
+YourRisk.Admit._Sec=You acknowledge and agree that {We.Handle}: {YourRisk.Admit._Lost}
 
 YourRisk.Admit.WeDontOwn._cl=does not own or control {We.System}
 
@@ -114,7 +114,7 @@ YourRisk.Admit.WeAreNotPartyTo._cl=is not a party to, has no involvement or inte
 
 YourRisk.Admit.WeDontPolice._cl=does not investigate or verify the reputation, conduct, morality or criminal background of any {We.System} participant, including without limitation any {We.System} gateway
 
-YourRisk.YouControl._Sec=You acknowledge and agree that you are solely responsible for your access and use of {We.System}, including without limitation for:<ol><li>{YourRisk.YouControl._List}</li></ol>
+YourRisk.YouControl._Sec=You acknowledge and agree that you are solely responsible for your access and use of {We.System}, including without limitation for:{YourRisk.YouControl._Lost}
 
 YourRisk.YouControl.Payment._cl=any payments or other {We.System} transactions you complete
 

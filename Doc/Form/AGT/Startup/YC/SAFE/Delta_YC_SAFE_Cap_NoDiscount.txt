@@ -8,6 +8,6 @@ Def.Equity_Financing={Base.Def.Equity_Financing}
 
 Def.Liquidity_Price={Base.Def.Liquidity_Price}
 
-Def.Subsequent_Convertible_Securities=
+Def.Subsequent_Convertible_Securities={_delete_}
 
 Sec.MFN={_delete_}
