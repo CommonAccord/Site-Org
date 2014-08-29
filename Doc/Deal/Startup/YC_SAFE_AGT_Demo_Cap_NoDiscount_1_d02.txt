@@ -1,7 +1,21 @@
 =[Deal/Startup/YC_SAFE_AGT_Demo_Cap_NoDiscount_1.txt]
 
+Changed Terms=
+
 Purchase_Amount.$=<b>$60,000</b>
 
-Payment.YMD=<b>December 11, 2013</b>
+AGT.Effective.YMD=<b>August 28, 2014</b>
+
+Payment.YMD=<b>September 4, 2014</b>
 
 SAFE.Valuation_Cap.$=<b>$2,500,000</b>
+
+Signature=
+
+P1.xSignature=<b>X ANDREA ANG
+
+P2.xSignature=<b>X COLLEEN KENDALL
+
+P1.Sign.YMD=August 27,  2014
+
+P2.Sign.YMD=August 28, 2014

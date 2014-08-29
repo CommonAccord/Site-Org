@@ -2,20 +2,14 @@
 
 =[Form/AGT/Startup/YC/SAFE/Form_YC_SAFE_Investment.txt]
 
-=[Deal/Demo_Relationship_Acme_Quake.txt]
+P1.=[Person/ID_Acme_Inc.txt]
 
-P1.Handle=Company
-
-P2.Handle=Investor
+P2.=[Person/ID_Quake_Inc.txt]
 
 State.Of=the State of California
 
-Prologue.Recital=&nbsp;
-
-AGT.Effective.YMD=August 22, 2014
+Payment.YMD=September 2, 2014
 
 Purchase_Amount.$=$50,000
-
-Payment.YMD=December 11, 2013
 
 SAFE.Valuation_Cap.$=$2,000,000

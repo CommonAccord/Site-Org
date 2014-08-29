@@ -4,10 +4,6 @@
 
 =[Deal/Demo_Relationship_Acme_Quake.txt]
 
-P1.Handle=Company
-
-P2.Handle=Investor
-
 State.Of=the State of California
 
 AGT.Effective.YMD=August 22, 2014

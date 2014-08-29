@@ -1,7 +1,5 @@
 <b>Quake Info</b>
 
-Handle=Quake
-
 ID.Name.Full=Quake Inc.
 
 ID.Addr.1=811 Hamlin Road
@@ -24,15 +22,9 @@ Sign.ID.Name.Full={President.ID.Name.Full}
 
 Sign.Title={President.Title}
 
-Empty=
-
 The={-}
 
 the={-}
-
-he-she=it
-
-ID.Entity.a=a {ID.Entity}
 
 ID.Entity=Delaware corporation
 
