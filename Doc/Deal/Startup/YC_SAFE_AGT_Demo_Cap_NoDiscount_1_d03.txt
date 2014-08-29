@@ -1,0 +1,13 @@
+=[Deal/Startup/YC_SAFE_AGT_Demo_Cap_NoDiscount_1_d02.txt]
+
+Changed Terms=
+
+Payment.YMD=<b>September 4, 2014</b>
+
+P1.xSignature=<b>X ANDREA ANG
+
+P2.xSignature=<b>X COLLEEN KENDALL
+
+P1.Sign.YMD=August 27,  2014
+
+P2.Sign.YMD=August 28, 2014
