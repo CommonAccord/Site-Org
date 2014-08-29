@@ -1,10 +1,10 @@
-Model.Root={Consent.Body}
+Model.Root={Consent.Doc.Body}
 
-Consent.Body=<strong><center>{Prologue.Heading}</center></strong> {Consent._Secs}
+Consent.Doc.Body=<strong><center>{Prologue.Heading}</center></strong> {Consent.Secs._Lost}
 
 Prologue.Heading=Amended &amp; Restated<p>Certificate of Incorporation</p>
 
-Consent._Secs=<ol><li>{Art} {1._Sec}</li><li>{Art} {2._Sec}</li><li>{Art} {3._Sec}</li><li>{Art} {4._Sec}</li><li>{Art} {5._Sec}</li><li>{Art} {6._Sec}</li><li>{Art} {7._Sec}</li><li>{Art} {8._Sec}</li><li>{Art} {9._Sec}</li><li>{Art} {10._Sec}</li><li>{Art} {11._Sec}</li></ol>
+Consent.Secs._Lost=<ol><li>{Art} {1._Sec}</li><li>{Art} {2._Sec}</li><li>{Art} {3._Sec}</li><li>{Art} {4._Sec}</li><li>{Art} {5._Sec}</li><li>{Art} {6._Sec}</li><li>{Art} {7._Sec}</li><li>{Art} {8._Sec}</li><li>{Art} {9._Sec}</li><li>{Art} {10._Sec}</li><li>{Art} {11._Sec}</li></ol>
 
 Art=<strong>Article:</strong>
 
@@ -14,7 +14,7 @@ X=10
 
 2._Sec=The purpose of this corporation is to engage in any lawful act or activity for which corporations may be organized under the General Corporation Law of Delaware.
 
-3._Sec=The address of the Corporation&rsquo;s registered office in the State of Delaware is {Co.Regist.Agent.ID.Addr.1,2}.&nbsp; The name of the registered agent at such address is {Co.Regist.Agent.ID.Name.Full}.
+3._Sec=The address of the Corporation&rsquo;s registered office in the State of Delaware is {Co.RegisterAgent.ID.Addr.1,2}.&nbsp; The name of the registered agent at such address is {Co.RegisterAgent.ID.Name.Full}.
 
 4._Sec=The total number of shares of stock that the corporation shall have authority to issue is {Cap.Quantity.Number} ({Cap.Quantity.#}), consisting of {Cap.Common.Quantity.Number} ({Cap.Common.Quantity.#}) shares of Common Stock, {Cap.Common.Par.$} par value per share, and {Cap.Pref.Quantity.Number} ({Cap.Pref.Quantity.#}) shares of Preferred Stock, {Cap.Pref.Par.$} par value per share.&nbsp; The first Series of Preferred Stock shall be designated &ldquo;<strong>Series&nbsp;AA Preferred Stock</strong>&rdquo; and shall consist of {Cap.AA.Quantity.Number} ({Cap.AA.Quantity.#}) shares.
 
@@ -112,7 +112,7 @@ Vote.Bd.Together=Any additional members of the Corporation&rsquo;s Board of Dire
 
 5.4.6._Sec=<u>Common Stock</u>.&nbsp; Each holder of shares of Common Stock shall be entitled to one vote for each share thereof held.
 
-5.5._Sec=<u>Amendments and Changes</u>.&nbsp; As long as any of the Preferred Stock shall be issued and outstanding, the Corporation shall not, without first obtaining the approval (by vote or written consent as provided by law) of the holders of more than 50% of the outstanding shares of the Preferred Stock:<ol><li>{5.4.1._Sec};</li><li>{5.4.2._Sec}; or</li><li>{5.4.3._Sec}.</li></ol>
+5.5._Sec=<u>Amendments and Changes</u>.&nbsp; As long as any of the Preferred Stock shall be issued and outstanding, the Corporation shall not, without first obtaining the approval (by vote or written consent as provided by law) of the holders of more than 50% of the outstanding shares of the Preferred Stock:<ol><li>{5.5.1._Sec};</li><li>{5.5.2._Sec}; or</li><li>{5.5.3._Sec}.</li></ol>
 
 5.5.1._Sec=amend, alter or repeal any provision of the Certificate of Incorporation of the Corporation if such action would adversely alter the rights, preferences, privileges or powers of, or restrictions provided for the benefit of the Preferred Stock or any series thereof
 
@@ -141,3 +141,15 @@ Vote.Bd.Together=Any additional members of the Corporation&rsquo;s Board of Dire
 10.3._Sec=Neither any amendment nor repeal of this ARTICLE {X}, nor the adoption of any provision of this Corporation&rsquo;s Certificate of Incorporation inconsistent with this ARTICLE {X}, shall eliminate or reduce the effect of this ARTICLE {X}, in respect of any matter occurring, or any action or proceeding accruing or arising or that, but for this ARTICLE {X}, would accrue or arise, prior to such amendment, repeal or adoption of an inconsistent provision.
 
 11._Sec=Meetings of stockholders may be held within or without the State of Delaware, as the Bylaws may provide.&nbsp; The books of the Corporation may be kept (subject to any provision contained in the statutes) outside of the State of Delaware at such place or places as may be designated from time to time by the Board of Directors or in the Bylaws of the Corporation.</li>
+
+Xrefs=
+
+5=5
+
+5.2={5}.2
+
+5.2(d)={5.2}(d)
+
+5.2(e)={5.2}(e)
+
+5.3={5}.3

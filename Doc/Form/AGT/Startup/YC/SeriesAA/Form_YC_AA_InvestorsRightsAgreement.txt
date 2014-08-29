@@ -1,16 +1,20 @@
-=[Form/AGT/Base/AGT_Frame.txt]
+Model.Root={IRA.Doc.Body}
 
-<li>Prologue.Recital={_delete_}
+IRA.Doc.Body={AGT.Prologue}<br>{AGT.Secs._Lost}<br>{AGT.Signature}
+
+AGT.Prologue=<div><center><strong>{Prologue.Heading}</strong></center></div>	<p><br>{Prologue.Intro}</p>
+
+Prologue.Intro={Prologue.ThisAgreement}<ul style="list-style-type:none"><li>{Prologue.Recital}</li></ul>{Prologue.NowTherefore}
 
 Prologue.Heading={Co.ID.Name.Full}<br>INVESTORS&rsquo; RIGHTS AGREEMENT
 
 Prologue.ThisAgreement=This Investors&rsquo; Rights Agreement (this &ldquo;<strong>Agreement</strong>&rdquo;) is made as of {AGT.Effective.YMD} by and among {Co.ID.Name.Full}, a Delaware corporation (the &ldquo;<strong>Company</strong>&rdquo;) and the persons and entities (each, an &ldquo;<strong>Investor</strong>&rdquo; and collectively, the &ldquo;<strong>Investors</strong>&rdquo;) listed on <u>Exhibit&nbsp;A</u> hereto.&nbsp; Unless otherwise defined herein, capitalized terms used in this Agreement have the meanings ascribed to them in <strong>Section 1</strong>.
 
-<strong>Prologue.Recital=WHEREAS</strong>: The Investors are parties to the Series&nbsp;AA Preferred Stock Purchase Agreement of even date herewith, among the Company and the Investors listed on the Schedule of Investors thereto (the &ldquo;<strong>Purchase Agreement</strong>&rdquo;), and it is a condition to the closing of the sale of the Series AA Preferred Stock (the &ldquo;<strong>Shares</strong>&rdquo;) that the Investors and the Company execute and deliver this Agreement.
+Prologue.Recital=<strong>WHEREAS</strong>: The Investors are parties to the Series&nbsp;AA Preferred Stock Purchase Agreement of even date herewith, among the Company and the Investors listed on the Schedule of Investors thereto (the &ldquo;<strong>Purchase Agreement</strong>&rdquo;), and it is a condition to the closing of the sale of the Series AA Preferred Stock (the &ldquo;<strong>Shares</strong>&rdquo;) that the Investors and the Company execute and deliver this Agreement.
 
-<strong>Prologue.NowTherefore=NOW, THEREFORE</strong>: In consideration of the mutual promises and covenants set forth herein, and other consideration, the receipt and adequacy of which is hereby acknowledged, the parties hereto agree as follows:
+Prologue.NowTherefore=<strong>NOW, THEREFORE</strong>: In consideration of the mutual promises and covenants set forth herein, and other consideration, the receipt and adequacy of which is hereby acknowledged, the parties hereto agree as follows:
 
-AGT._Secs={1._Sec}</li><li>{2._Sec}</li><li>{3._Sec}</li><li>{4._Sec}</li><li>{5._Sec}
+AGT.Secs._Lost=<ol><li>{1._Sec}</li><li>{2._Sec}</li><li>{3._Sec}</li><li>{4._Sec}</li><li>{5._Sec}</li></ol>
 
 1._Sec=<u>Right of First Refusal</u> <br> {1.1._Sec}
 
@@ -122,7 +126,7 @@ Transfer.Legend=THE SHARES REPRESENTED BY THIS CERTIFICATE ARE SUBJECT TO RESTRI
 
 5.2.Cont._Sec=Each such notice or other communication shall for all purposes of this Agreement be treated as effective or having been given when delivered if delivered personally, or, if sent by mail, at the earlier of its receipt or 72 hours after the same has been deposited in a regularly maintained receptacle for the deposit of the United States mail, addressed and mailed as aforesaid or, if sent by facsimile, upon confirmation of facsimile transfer or, if sent by electronic mail, upon confirmation of delivery when directed to the electronic mail address set forth on the Schedule of Investors.
 
-5.3._Sec=<u>Governing Law</u>.&nbsp; This Agreement shall be governed in all respects by the internal laws of {Dispute.State.the}.
+5.3._Sec=<u>Governing Law</u>.&nbsp; This Agreement shall be governed in all respects by the internal laws of {Law.of}.
 
 5.4._Sec=<u>Successors and Assigns</u>.&nbsp; This Agreement, and any and all rights, duties and obligations hereunder, shall not be assigned, transferred, delegated or sublicensed by any Investor without the prior written consent of the Company.&nbsp; Any attempt by an Investor without such permission to assign, transfer, delegate or sublicense any rights, duties or obligations that arise under this Agreement shall be void.&nbsp; Subject to the foregoing and except as otherwise provided herein, the provisions of this Agreement shall inure to the benefit of, and be binding upon, the successors, assigns, heirs, executors and administrators of the parties hereto.
 
@@ -144,6 +148,22 @@ Transfer.Legend=THE SHARES REPRESENTED BY THIS CERTIFICATE ARE SUBJECT TO RESTRI
 
 5.12._Sec=<u>Conflict</u>.&nbsp; In the event of any conflict between the terms of this Agreement and the Company&rsquo;s Certificate of Incorporation or its Bylaws, the terms of the Company&rsquo;s Certificate of Incorporation or its Bylaws, as the case may be, will control.
 
-Sign.Block={Co.ID.Sign.Block} {Inv.1.ID.Sign.Block}
+AGT.Signature={Sign.Witness}<br><br>{Sign.Block}
 
+Sign.Witness=IN WITNESS WHEREOF, the parties hereto have executed this Investors&rsquo; Rights Agreement effective as of the day and year first above written.
+
+Sign.Block={Co.Sign.Block} {Inv.1.Sign.Block}
+
+Xnums=
+1=1
+1.1={1}.1
+1.1(a)={1.1}(a)
+1.1(b)={1.1}(b)
+3=3
 3.1=3.1
+3.1(b)={3.3}(b)
+3.1(c)={3.3}(c)
+3.3={3}.3
+4=4
+4.1={4}.1
+4.1(c)={4.1}(c)

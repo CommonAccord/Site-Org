@@ -14,9 +14,11 @@ P=List of fields upstream.  What-can-I-say.
 
 Q=As a quick placeholder for the "Edit" view of the Doc - render the Doc with the fields from the Top file wrapped in bold or dark green. (Red, which otherwise is a great color, means out or back. Blue aways means a link. So green can mean go ahead.) 
 
-R=Fix the URLs. Get rid of the cruft in the middle of the name.  Especially for the basic view (the one that is now the default is the right one.  Ideally, make the "view" info come after the page info.  Suggest that http://commonaccord.org/Alpha/index.php?action=file&file=Doc/Deal/Startup/YC_SAFE_AGT_Demo_Cap_NoDiscount_1_d02.txt should be <br>"Source": http://commonaccord.org/Alpha/Doc/Deal/Startup/YC_SAFE_AGT_Demo_Cap_NoDiscount_1_d02.txt<br>Render: <br>http://commonaccord.org/Alpha/Doc/Deal/Startup/YC_SAFE_AGT_Demo_Cap_NoDiscount_1_d02.txt&view=render<br>etc.  We need good names for the views. 
+R=Fix the URLs. Get rid of the cruft in the middle of the name.  Especially for the basic view (the one that is now the default is the right one.  Ideally, make the "view" info come after the page info.  Suggest that http://commonaccord.org/Alpha/index.php?action=file&file=Doc/Deal/Startup/YC_SAFE_AGT_Demo_Cap_NoDiscount_1_d02.txt should be <br>"Source": http://commonaccord.org/Alpha/Doc/Deal/Startup/YC_SAFE_AGT_Demo_Cap_NoDiscount_1_d02.txt<br>Render: <br>http://commonaccord.org/Alpha/Doc/Deal/Startup/YC_SAFE_AGT_Demo_Cap_NoDiscount_1_d02.txt&view=render<br>etc.  We need good names for the views.
 
 S=Cull the "<li>{_delete_}</li>" and variants. 
+
+T=Remove the [ and ] in the presentation of the Source view. Cosmetic, but confusing. 
 
 Model.Root={Ya's Priorties}<br>{Jim's Priorities}
 

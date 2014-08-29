@@ -1,6 +1,8 @@
-ID.Name.Full=Acme Inc.
+=[Class/ID.txt]
 
-Handle=Acme
+RegisterAgent.=[Person/The_Corporation_Company.txt]
+
+ID.Name.Full=Acme Inc.
 
 www.com=www.acme.com
 
@@ -37,6 +39,4 @@ DA.ID.Phone=207.555.5550
 DA.ID.Fax=207.555.5551
 
 DA.ID.Email={takedown@we.com}
-
-=[Class/ID.txt]
 
