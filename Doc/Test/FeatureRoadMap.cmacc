@@ -1,0 +1,21 @@
+J=In rendering, handle missing files like missing fields, i.e., ignore and keep moving.
+
+K=A view of the "Raw" text. Source view of the file (the direct source, not the key=values as table).  An extra click pops it into an editor (at least when run locally).  Very powerful.
+
+L=A view of missing fields and files. (Render doc, but return only the missing fields and missing files.
+
+M=Get website installed locally (on Jim's)
+
+N=New Diff view - which shows diff between a field and the one it overrides.  I.e., if a field in the Top file overrides another field in the Dictionary, then the show diff btw it's value and the value of the overridden field.
+
+O=Edit view of the Rendered doc.  Each expansion wrapped in metadata that marks it's origin.  Each expansion can be clicked open and closed.  Can pop up the source value into an edit window. (A _good_ use of a pop-up.)  Color differences between text based on either layer of expansion or origin of text. (These colors want to be variable by user - draw the values from a config file of k/vs.)
+
+P=List of fields upstream.  What-can-I-say.  
+
+Model.Root={Ya's Priorties}<br>{Jim's Priorities}
+
+Ya's Priorities=??
+
+Jim's Priorities=<br>{M}<br>{J}<br>{K}<br>{L}<br>{N}<br>{P}
+
+
