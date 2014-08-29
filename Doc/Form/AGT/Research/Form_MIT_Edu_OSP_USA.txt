@@ -8,7 +8,7 @@ Prologue.Recital=WHEREAS, the research program contemplated by this Agreement is
 
 Prologue.NowTherefore=NOW, THEREFORE, the Parties hereto agree as follows:
 
-AGT._Secs=<ol><li>{SOW._Sec}</li><li>{Investigator._Sec}</li><li>{Period._Sec}</li><li>{Costs._Sec}</li><li>{Payment._Sec}</li><li>{Terminate._Sec}</li><li>{Conf._Sec}</li><li>{Publication._Sec}</li><li>{SponsorIP._Sec}</li><li>{JointIP._Sec}</li><li>{EduIP._Sec}</li><li>{Marks._Sec}</li><li>{Disclaim._Sec}</li><li>{Notice._Sec}</li><li>{Assign._Sec}</li><li>{Law._Sec}</li><li>{Mediate._Sec}</li><li>{Majeure._Sec}</li><li>{ExportControl._Sec}</li><li>{Counterpart._Sec}</li><li>{Entire._Sec}</li><li>{Sign.Witness}</li></ol>
+AGT.Secs._Lost=<ol><li>{SOW._Sec}</li><li>{Investigator._Sec}</li><li>{Period._Sec}</li><li>{Costs._Sec}</li><li>{Payment._Sec}</li><li>{Terminate._Sec}</li><li>{Conf._Sec}</li><li>{Publication._Sec}</li><li>{SponsorIP._Sec}</li><li>{JointIP._Sec}</li><li>{EduIP._Sec}</li><li>{Marks._Sec}</li><li>{Disclaim._Sec}</li><li>{Notice._Sec}</li><li>{Assign._Sec}</li><li>{Law._Sec}</li><li>{Mediate._Sec}</li><li>{Majeure._Sec}</li><li>{ExportControl._Sec}</li><li>{Counterpart._Sec}</li><li>{Entire._Sec}</li><li>{Sign.Witness}</li></ol>
 
 SOW._Sec=<u>Statement of Work</u>.<br>{P1.Handle} agrees to use reasonable efforts to perform the research program as described in Attachment {Attach.SOW} (the &ldquo;Research&rdquo;) to this Agreement.
 

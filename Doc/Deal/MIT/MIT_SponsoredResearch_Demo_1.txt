@@ -20,6 +20,3 @@ Project.Cost.Max=<b>$65,000</b>
 
 Laws.Of=the Commonwealth of Massachusetts
 
-Prologue.Recital={_delete_}
-
-END
