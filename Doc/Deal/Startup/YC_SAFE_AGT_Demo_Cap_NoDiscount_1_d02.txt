@@ -1,0 +1,7 @@
+=[Deal/Startup/YC_SAFE_AGT_Demo_Cap_NoDiscount_1.txt]
+
+Purchase_Amount.$=<b>$60,000</b>
+
+Payment.YMD=<b>December 11, 2013</b>
+
+SAFE.Valuation_Cap.$=<b>$2,500,000</b>
