@@ -2,6 +2,8 @@ Model.Root={Doc.Body}
 
 Doc.Body={Doc.Meta}{AGT.Doc.Body}
 
+Doc.Meta=&nbsp;
+
 AGT.Doc.Body={AGT.Prologue}{AGT.Secs._Lost}{AGT.Sign}<br>{AGT.Attach}
 
 /Backward Compatibility=switching to a "lossless" notion of list concatenation.
