@@ -2,7 +2,7 @@
 
 Changed Terms=
 
-Payment.YMD=<b>September 4, 2014</b>
+Payment.YMD=<b><i>September 4, 2014</i></b>
 
 P1.xSignature=<b>X ANDREA ANG
 
