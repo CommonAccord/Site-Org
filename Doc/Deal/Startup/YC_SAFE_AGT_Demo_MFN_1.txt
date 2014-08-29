@@ -10,8 +10,6 @@ P2.Handle=Investor
 
 State.Of=the State of California
 
-Prologue.Recital=&nbsp;
-
 AGT.Effective.YMD=August 22, 2014
 
 Purchase_Amount.$=$50,000

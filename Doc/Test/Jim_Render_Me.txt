@@ -1,13 +1,29 @@
-=[Deal/Escrow/Demo_Escrow_Step_1_Parties.txt]
+
+d1.=[Deal/Startup/500_Startups_KISS_Note_Demo_1_Debt.txt]
+
+d2.=[Deal/Startup/500_Startups_KISS_Note_Demo_2_Equity.txt]
+
+=[Form/AGT/Startup/500/Form_KISS_Base.txt]
+
+d2.[Form/AGT/Startup/500/Delta_KISS_Equity.txt]
+
+Model.Root={d1.Model.Root}<br>QQQ<br>{d2.Model.Root}
+
+[Deal/Startup/YC_SAFE_AGT_Demo_Cap_NoDiscount_1.txt]
+
+[Deal/Startup/YC_SAFE_AGT_Demo_MFN_1.txt]
+
+[Form/AGT/Startup/YC/SAFE/Form_YC_SAFE_Investment.txt]
 
 [Deal/Escrow/Demo_Escrow_Step_1_Parties.txt]
 
-=[Person/ID_Acme_Inc.txt]
+[Deal/Escrow/Demo_Escrow_Step_1_Parties.txt]
+
+[Person/ID_Acme_Inc.txt]
 
 [Deal/AGT_NDA_MIT_Outbound_Demo_3.txt]
 
 [Deal/Class_Action_Settlement_Demo_1.txt]
-
 
 [Deal/Escrow/Demo_Escrow_Step_1-4_Binder.txt]
 
@@ -16,16 +32,8 @@
 [Deal/Escrow/Demo_Escrow_Step_2_Order.txt]
 
 xModel.Root=hi
+
 [Form/AGT/Escrow/Escrow_AGT_Library]
-
-[Form/AGT/Startup/500/Form_KISS_Base.txt]
-[Form/AGT/Startup/500/Delta_KISS_Equity.txt]
-
-
-
-[Deal/500_Startups_KISS_Note_Demo_1_Debt.txt]
-
-_delete_=&nbsp;
 
 [Form/AGT/Acquisition/ABA_MSPA/Library_MSPA_AGT.txt]
 
@@ -52,18 +60,6 @@ xModel.Root={BuyerCond._Sec} {SellerCond._Sec} {Term._Sec} {IPRR._Sec} {Misc._Se
 
 [Deal/Demo_Relationship_MIT_Quake.txt]
 
-P2.Handle=Company
-
-AGT.Effective.YMD=August 23, 2014
-
-Prologue.Recital={_delete_}
-
-State.Of=the Commonwealth of Massachusetts
-
-AGT.Attach=&nbsp;
-
-Deal.#=Contract 2014-01-234l2
-
 
 [Form/AGT/Base/Library_AGT_Secs.txt]
 
@@ -85,4 +81,3 @@ Deal.#=Contract 2014-01-234l2
 
 [Deal/ToU_Demo_1.txt]
 
-State=Delaware

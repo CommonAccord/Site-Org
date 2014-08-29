@@ -39,6 +39,5 @@ parties=Parties
 
 Effective Date=Effective Date
 
-_delete_=&nbsp;
 
 EOF

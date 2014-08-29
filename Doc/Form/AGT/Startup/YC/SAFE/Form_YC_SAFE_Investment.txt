@@ -2,17 +2,17 @@
 
 AGT.Secs._Lost=<ol><li>{Sec.Event}</li><li>{Sec.Def}</li><li>{Sec.MFN}</li><li>{Sec.cRep}</li><li>{Sec.bRep}</li><li>{Sec.Misc}</li></ol>
 
-Prologue.Recital=
-
 parties=undersigned
 
-Prologue.Heading={Prologue.Legend}<br><center>{AGT.Title}</center>
+Prologue.Heading={Prologue.Legend}<br><br><br><center>{AGT.Title}</center>
 
 Prologue.Legend=THIS INSTRUMENT AND ANY SECURITIES ISSUABLE PURSUANT HERETO HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED (THE &ldquo;ACT&rdquo;), OR UNDER THE SECURITIES LAWS OF CERTAIN STATES.  THESE SECURITIES MAY NOT BE OFFERED, SOLD OR OTHERWISE TRANSFERRED, PLEDGED OR HYPOTHECATED EXCEPT AS PERMITTED UNDER THE ACT AND APPLICABLE STATE SECURITIES LAWS PURSUANT TO AN EFFECTIVE REGISTRATION STATEMENT OR AN EXEMPTION THEREFROM.  
 
 AGT.Title=SAFE (Simple Agreement for Future Equity)
 
 Prologue.ThisAgreement=THIS CERTIFIES THAT in exchange for the payment by {P2.ID.N,E,A} (the &ldquo;Investor&rdquo;) of {Purchase_Amount.$} (the &ldquo;Purchase Amount&rdquo;) on or about {Payment.YMD}, {P1.ID.N,E,A} (the &ldquo;Company&rdquo;), hereby issues to the Investor the right to certain shares of the Company&rsquo;s capital stock, subject to the terms set forth below. 
+
+Prologue.Recital={_delete_}
 
 Prologue.NowTherefore=The &ldquo;Valuation Cap&rdquo; of this SAFE is {SAFE.Valuation_Cap.$}.  See Section 2 for certain additional defined terms.
 
