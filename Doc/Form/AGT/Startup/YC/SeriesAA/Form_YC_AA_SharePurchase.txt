@@ -4,9 +4,9 @@ Prologue.Heading={Co.ID.Name.Full}<p>SERIES&nbsp;AA PREFERRED STOCK PURCHASE AGR
 
 Prologue.ThisAgreement=This Series AA Preferred Stock Purchase Agreement (this &ldquo;<strong>Agreement</strong>&rdquo;) is made as of {AGT.Effective.YMD}, by and among {Co.ID.N,E,A} (the &ldquo;<strong>Company</strong>&rdquo;), and the persons and entities (each, an &ldquo;<strong>Investor</strong>&rdquo; and collectively, the &ldquo;<strong>Investors</strong>&rdquo;) listed on the Schedule of Investors attached hereto as Exhibit&nbsp;A (the &ldquo;<strong>Schedule of Investors</strong>&rdquo;).
 
-Prologue.Recital={_delete_}
+Prologue.Recital=&nbsp;
 
-AGT._Secs ={1._Sec}</li><li>{2._Sec}</li><li>{cRep._Sec}</li><li>{4._Sec}</li><li>{5._Sec}</li><li>{6._Sec}</li><li>{7._Sec}
+AGT.Secs._Lost=<ol><li>{1._Sec}</li><li>{2._Sec}</li><li>{cRep._Sec}</li><li>{4._Sec}</li><li>{5._Sec}</li><li>{6._Sec}</li><li>{7._Sec}</li></ol>
 
 1._Sec=<u>Authorization, Sale and Issuance of Series&nbsp;AA Preferred Stock</u>.&nbsp;<ol><li>{1.1._Sec}</li><li>{1.2._Sec}</li></ol>
 
@@ -40,11 +40,11 @@ cRep._Sec=<u>Representations and Warranties of the Company</u>. {cRep.Intro._Cl}
 
 cRep.Intro._Cl=A Schedule of Exceptions, if necessary, shall be delivered to the Investors in connection with each Closing. Except as set forth on the Schedule of Exceptions delivered to the Investors at the applicable Closing, the Company hereby represents and warrants to the Investors as follows:
 
-cRep.1._Sec=<u>Organization, Good Standing and Qualification</u>.&nbsp; The Company is a corporation duly organized, validly existing and in good standing under the laws of the State of {Co.Regist.State}. &nbsp;The Company has the requisite corporate power and authority to own and operate its properties and assets, to carry on its business as presently conducted, to execute and deliver the Agreements, to issue and sell the Shares and the Conversion Shares and to perform its obligations pursuant to the Agreements and the Restated Certificate. The Company is presently qualified to do business as a foreign corporation in each jurisdiction where the failure to be so qualified could reasonably be expected to have a material adverse effect on the Company&rsquo;s financial condition or business as now conducted (a &ldquo;<strong>Material Adverse Effect</strong>&rdquo;).
+cRep.1._Sec=<u>Organization, Good Standing and Qualification</u>.&nbsp; The Company is a corporation duly organized, validly existing and in good standing under the laws of the State of {Co.RegisterAgent.State}. &nbsp;The Company has the requisite corporate power and authority to own and operate its properties and assets, to carry on its business as presently conducted, to execute and deliver the Agreements, to issue and sell the Shares and the Conversion Shares and to perform its obligations pursuant to the Agreements and the Restated Certificate. The Company is presently qualified to do business as a foreign corporation in each jurisdiction where the failure to be so qualified could reasonably be expected to have a material adverse effect on the Company&rsquo;s financial condition or business as now conducted (a &ldquo;<strong>Material Adverse Effect</strong>&rdquo;).
 
 cRep.2._Sec=<u>Capitalization</u>.<ol><li>{cRep.2.1._Sec}</li><li>{cRep.2.2._Sec}</li><li>{cRep.2.3._Sec}</li><li>{cRep.2.4._Sec}</li></ol>
 
-cRep.2.1._Sec=Immediately prior to the Initial Closing, the authorized capital stock of the Company will consist of {PreR.Cap.Common.Auth.#}&nbsp;shares of Common Stock, of which {PreR.Cap.Common.Issued.#} shares are issued and outstanding and {PreR.Cap.AA.Auth.#}&nbsp;shares of Preferred Stock, all of which are designated Series&nbsp;AA Preferred and none of which are issued and outstanding. The Common Stock and the Series&nbsp;AA Preferred shall have the rights, preferences, privileges and restrictions set forth in the Restated Certificate.
+cRep.2.1._Sec=Immediately prior to the Initial Closing, the authorized capital stock of the Company will consist of {Cap.Common.Auth.#}&nbsp;shares of Common Stock, of which {Cap.Common.Issued.#} shares are issued and outstanding and {Cap.AA.Auth.#}&nbsp;shares of Preferred Stock, all of which are designated Series&nbsp;AA Preferred and none of which are issued and outstanding. The Common Stock and the Series&nbsp;AA Preferred shall have the rights, preferences, privileges and restrictions set forth in the Restated Certificate.
 
 cRep.2.2._Sec=The outstanding shares have been duly authorized and validly issued in compliance with applicable laws, and are fully paid and nonassessable.
 
@@ -54,7 +54,7 @@ cRep.2.3.1._Sec=the Shares for issuance pursuant to this Agreement
 
 cRep.2.3.2._Sec=shares of Common Stock (as may be adjusted in accordance with the provisions of the Restated Certificate) for issuance upon conversion of the Shares
 
-cRep.2.3.3._Sec=&nbsp;{PreR.Cap.Common.Plan.Auth.#}&nbsp;shares of Common Stock authorized for issuance to employees, consultants and directors pursuant to its {Cap.Common.Plan.Name} Stock Plan, under which options to purchase {PreR.Cap.Common.Plan.Issued.#}&nbsp;shares are issued and outstanding as of the date of this Agreement
+cRep.2.3.3._Sec=&nbsp;{Cap.Common.Plan.Auth.#}&nbsp;shares of Common Stock authorized for issuance to employees, consultants and directors pursuant to its {Cap.Common.Plan.Name} Stock Plan, under which options to purchase {Cap.Common.Plan.Issued.#}&nbsp;shares are issued and outstanding as of the date of this Agreement
 
 cRep.2.4._Sec=The Shares, when issued and delivered and paid for in compliance with the provisions of this Agreement, will be validly issued, fully paid and nonassessable. The Conversion Shares have been duly and validly reserved and, when issued in compliance with the provisions of this Agreement, the Restated Certificate and applicable law, will be validly issued, fully paid and nonassessable. The Shares and the Conversion Shares will be free of any liens or encumbrances, other than any liens or encumbrances created by or imposed upon the Investors; <em>provided, however</em>, that the Shares and the Conversion Shares are subject to restrictions on transfer under U.S. state and/or federal securities laws and as set forth herein and in the Rights Agreement. Except as set forth in the Rights Agreement, the Shares and the Conversion Shares are not subject to any preemptive rights or rights of first refusal.
 
@@ -144,7 +144,7 @@ cRep.10._Sec=&nbsp;<u>Tax Returns and Payments</u>.&nbsp; The Company has timely
 
 6.3._Sec=<u>Compliance with Securities Laws</u>.&nbsp; The Company shall be satisfied that the offer and sale of the Shares and the Conversion Shares shall be qualified or exempt from registration or qualification under all applicable federal and state securities laws (including receipt by the Company of all necessary blue sky law permits and qualifications required by any state, if any).
 
-6.4._Sec=<u>Restated Certificate</u>.&nbsp; The Restated Certificate shall have been duly authorized, executed and filed with and accepted by the Secretary of State of {Co.Regist.State}.
+6.4._Sec=<u>Restated Certificate</u>.&nbsp; The Restated Certificate shall have been duly authorized, executed and filed with and accepted by the Secretary of State of {Co.RegisterAgent.ID.Addr.State}.
 
 6.5._Sec=<u>Rights Agreement</u>.&nbsp; The Company and the Investors shall have executed and delivered the Rights Agreement.
 
@@ -182,8 +182,8 @@ cRep.10._Sec=&nbsp;<u>Tax Returns and Payments</u>.&nbsp; The Company has timely
 
 7.10._Sec=<u>Telecopy Execution and Delivery</u>.&nbsp; A facsimile, telecopy or other reproduction of this Agreement may be executed by one or more parties hereto and delivered by such party by facsimile or any similar electronic transmission device pursuant to which the signature of or on behalf of such party can be seen. Such execution and delivery shall be considered valid, binding and effective for all purposes. At the request of any party hereto, all parties hereto agree to execute and deliver an original of this Agreement as well as any facsimile, telecopy or other reproduction hereof.
 
-Sign.Block={Co.ID.Sign.Block}<br>{Inv.1.ID.Sign.Block}
+Sign.Block={Co.Sign.Block}<br>{Inv.1.Sign.Block}
 
 AGT.Attach={Exh.A}
 
-Exh.A=EXHIBIT&nbsp;A<p>SCHEDULE OF INVESTORS</p><p>Initial Closing Investors</p><p>&nbsp;</p><table border="0" cellpadding="0" cellspacing="0"><thead><tr><th style="width:367px"><div><p><strong>Investor</strong></p></div></th><th style="width:96px"><div><p><strong>Number of Series&nbsp;AA Shares</strong></p></div></th><th style="width:96px"><div><p><strong>Purchase Price</strong></p></div></th></tr></thead><tbody><tr><td style="width:367px"><p><em>{Inv.1.ID.Name.Full}</em></p></td><td style="width:96px"><p>{Inv.1.Round.1.AA.#}</p></td><td style="width:96px"><p>{Round.1.Price.$}</p></td></tr><tr><td style="width:367px"><p><em>{Inv.1.ID.Addr.1,2}</em></p></td><td style="width:96px"><p>&nbsp;</p></td><td style="width:96px"><p>&nbsp;</p></td></tr><tr><td style="width:367px"><p><em>{Inv.1.ID.Fax.Default}</em></p></td><td style="width:96px"><p>&nbsp;</p></td><td style="width:96px"><p>&nbsp;</p></td></tr><tr><td style="width:367px"><p><em>{Inv.1.ID.Email.Default}</em></p></td><td style="width:96px"><p>&nbsp;</p></td><td style="width:96px"><p>&nbsp;</p></td></tr></tbody></table>
+Exh.A=EXHIBIT&nbsp;A<p>SCHEDULE OF INVESTORS</p><p>Initial Closing Investors</p><p>&nbsp;</p><table border="0" cellpadding="0" cellspacing="0"><thead><tr><th style="width:367px"><div><p><strong>Investor</strong></p></div></th><th style="width:96px"><div><p><strong>Number of Series&nbsp;AA Shares</strong></p></div></th><th style="width:96px"><div><p><strong>Purchase Price</strong></p></div></th></tr></thead><tbody><tr><td style="width:367px"><p><em>{Inv.1.ID.Name.Full}</em></p></td><td style="width:96px"><p>{Inv.1.Round.1.AA.#}</p></td><td style="width:96px"><p>{Round.1.Price.$}</p></td></tr><tr><td style="width:367px"><p><em>{Inv.1.ID.Addr.1,2}</em></p></td><td style="width:96px"><p>&nbsp;</p></td><td style="width:96px"><p>&nbsp;</p></td></tr><tr><td style="width:367px"><p><em>{Inv.1.ID.Fax}</em></p></td><td style="width:96px"><p>&nbsp;</p></td><td style="width:96px"><p>&nbsp;</p></td></tr><tr><td style="width:367px"><p><em>{Inv.1.ID.Email}</em></p></td><td style="width:96px"><p>&nbsp;</p></td><td style="width:96px"><p>&nbsp;</p></td></tr></tbody></table>

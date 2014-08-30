@@ -24,6 +24,8 @@ ID.Addr.1=233 Main Street
 
 ID.Addr.2=Redwood City, CA  94063
 
+ID.Fax=207.555.5511
+
 ID.SignBy=By: <u>{xSignature}</u><br/>Name: {President.ID.Name.Full}<br/>Its: {President.Title}
 
 President.ID.Name.Full=Andrea Ang

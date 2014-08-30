@@ -1,4 +1,5 @@
-Model.Root=<ol><li>{BC.Model.Root}</li><li>{COI.Model.Root}</li><li>{IRA.Model.Root}</li></ol>
+Model.Root=<ol><li>{TS.Model.Root}</li><li><hr>{BC.Model.Root}</li><li><hr>{COI.Model.Root}</li><li><hr>{IRA.Model.Root}</li><li><hr>{SPA.Model.Root}</li><li><hr>{SC.Model.Root}</li></ol></ol>
+
 
 BC.=[Form/AGT/Startup/YC/SeriesAA/Form_YC_AA_BoardConsent.txt]
 
@@ -6,14 +7,17 @@ COI.=[Form/AGT/Startup/YC/SeriesAA/Form_YC_AA_CertificateOfIncorporation.txt]
 
 IRA.=[Form/AGT/Startup/YC/SeriesAA/Form_YC_AA_InvestorsRightsAgreement.txt]
 
+SPA.=[Form/AGT/Startup/YC/SeriesAA/Form_YC_AA_SharePurchase.txt]
+
+SC.=[Form/AGT/Startup/YC/SeriesAA/Form_YC_AA_StockholderConsent.txt]
+
+TS.=[Form/AGT/Startup/YC/SeriesAA/Form_YC_AA_TermSheet.txt]
+
 COI.3(d)=3.(d)
 
 COI.3(e)=3.(e)
 
 COI.3(f)=3.(f)
 
-SPA.[Form/AGT/Startup/YC/SeriesAA/Form_YC_AA_SharePurchase.txt]
+AGT.Attach=-
 
-SC.[Form/AGT/Startup/YC/SeriesAA/Form_YC_AA_StockholderConsent.txt]
-
-TS.[Form/AGT/Startup/YC/SeriesAA/Form_YC_AA_TermSheet.txt]

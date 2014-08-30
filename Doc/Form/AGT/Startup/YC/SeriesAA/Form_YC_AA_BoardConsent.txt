@@ -24,9 +24,9 @@ AGT.Secs._Lost=<ol><li>{1._Sec}</li><li>{2._Sec}</li><li>{3._Sec}</li><li>{4._Se
 
 1.1.List=(i) {1.1.1._Sec}, (ii) {1.1.2._Sec}, (iii) {1.1.3._Sec} and (iv) {1.1.4._Sec}.
 
-1.1.1._Sec=increase the authorized number of shares of Common Stock from {PreR.Cap.Common.Auth.#} shares to {Cap.Common.Quantity.#} shares
+1.1.1._Sec=increase the authorized number of shares of Common Stock from {PreR.Cap.Common.Auth.#} shares to {Cap.Common.Auth.#} shares
 
-1.1.2._Sec=create a new class of stock, designated Preferred Stock, consisting of {Cap.AA.Quantity.#} shares, which are all to be designated Series AA Preferred Stock
+1.1.2._Sec=create a new class of stock, designated Preferred Stock, consisting of {Cap.Pref.Auth.#} shares, which are all to be designated Series AA Preferred Stock
 
 1.1.3._Sec=establish the rights, preferences, privileges and restrictions of the Common Stock and the Series AA Preferred Stock
 
@@ -42,7 +42,7 @@ AGT.Secs._Lost=<ol><li>{1._Sec}</li><li>{2._Sec}</li><li>{3._Sec}</li><li>{4._Se
 
 2.Intro._Sec=<strong>WHEREAS,</strong> the Board deems it advisable, and in the best interests of the Company, to enter into a Series AA Preferred Stock Purchase Agreement, in substantially the form attached hereto as <strong><u>Exhibit&nbsp;B</u></strong> (the &ldquo;<strong>Purchase Agreement</strong>&rdquo;).
 
-2.1._Sec=<strong>NOW, THEREFORE, BE IT RESOLVED</strong>:&nbsp;&nbsp;That the Company enter into the Purchase Agreement with the investors set forth on the Schedule of Investors attached as <u>Exhibit A</u> to the Purchase Agreement (the &ldquo;<strong>Schedule of Investors</strong>&rdquo;) pursuant to which the Company will sell and issue up to {Cap.AA.Quantity.#} shares of Series AA Preferred Stock (the &ldquo;<strong>Series AA Shares</strong>&rdquo;).
+2.1._Sec=<strong>NOW, THEREFORE, BE IT RESOLVED</strong>:&nbsp;&nbsp;That the Company enter into the Purchase Agreement with the investors set forth on the Schedule of Investors attached as <u>Exhibit A</u> to the Purchase Agreement (the &ldquo;<strong>Schedule of Investors</strong>&rdquo;) pursuant to which the Company will sell and issue up to {Cap.AA.#} shares of Series AA Preferred Stock (the &ldquo;<strong>Series AA Shares</strong>&rdquo;).
 
 2.2._Sec={R2}&nbsp; That the form, terms and provisions of the Purchase Agreement are hereby approved, adopted and confirmed.
 

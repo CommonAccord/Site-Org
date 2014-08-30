@@ -17,7 +17,7 @@ X=10
 
 3._Sec=The address of the Corporation&rsquo;s registered office in the State of Delaware is {Co.RegisterAgent.ID.Addr.1,2}.&nbsp; The name of the registered agent at such address is {Co.RegisterAgent.ID.Name.Full}.
 
-4._Sec=The total number of shares of stock that the corporation shall have authority to issue is {Cap.Quantity.Number} ({Cap.Quantity.#}), consisting of {Cap.Common.Quantity.Number} ({Cap.Common.Quantity.#}) shares of Common Stock, {Cap.Common.Par.$} par value per share, and {Cap.Pref.Quantity.Number} ({Cap.Pref.Quantity.#}) shares of Preferred Stock, {Cap.Pref.Par.$} par value per share.&nbsp; The first Series of Preferred Stock shall be designated &ldquo;<strong>Series&nbsp;AA Preferred Stock</strong>&rdquo; and shall consist of {Cap.AA.Quantity.Number} ({Cap.AA.Quantity.#}) shares.
+4._Sec=The total number of shares of stock that the corporation shall have authority to issue is {Cap.Number} ({Cap.AuthIssue.#}), consisting of {Cap.Common.Number} ({Cap.Common.#}) shares of Common Stock, {Cap.Common.Par.$} par value per share, and {Cap.Pref.Auth.Number} ({Cap.Pref.Auth.#}) shares of Preferred Stock, {Cap.Pref.Par.$} par value per share.&nbsp; The first Series of Preferred Stock shall be designated &ldquo;<strong>Series&nbsp;AA Preferred Stock</strong>&rdquo; and shall consist of {Cap.AA.Auth.Number} ({Cap.AA.Auth.#}) shares.
 
 5._Sec=The terms and provisions of the Common Stock and Preferred Stock are as follows:{5._Secs}
 

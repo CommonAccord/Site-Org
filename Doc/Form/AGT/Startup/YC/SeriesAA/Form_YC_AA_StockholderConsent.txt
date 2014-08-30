@@ -6,11 +6,11 @@ R1={Board.R1}
 
 R2={Board.R2}
 
-Prologue.Heading={Co.ID.Name.Full}{br}Action By Written Consent of Stockholders
+Prologue.Heading={Co.ID.Name.Full}<br>Action By Written Consent of Stockholders
 
 Prologue.Intro=In accordance with Section&nbsp;228 of the Delaware General Corporation Law and the Bylaws of {Co.ID.Name.Full}, a Delaware corporation (the &ldquo;<strong>Company</strong>&rdquo;), the undersigned stockholders of the Company hereby take the following actions and adopt the following resolutions:
 
-AGT._Secs={1._Sec}</li><li>{2._Sec}
+AGT.Secs._Lost=<ol><li>{1._Sec}</li><li>{2._Sec}</li></ol>
 
 1._Sec=<u>Authorization of Amended and Restated Certificate of Incorporation</u>.<ol><li>{1.1._Sec}</li><li>{1.2._Sec}</li><li>{1.3._Sec}</li></ol>
 
@@ -28,4 +28,6 @@ Board.1.1.4._Sec=make certain other changes, as set forth in the Amended and Res
 
 2.2._Sec={R2}&nbsp; That any actions taken by such officers prior to the date of the foregoing resolutions adopted hereby that are within the authority conferred thereby are hereby ratified, confirmed and approved as the acts and deeds of the Company.
 
-Signature.Witness=<strong>IN WITNESS WHEREOF</strong>, by executing this Action by Written Consent of Stockholders, each undersigned stockholder is giving written consent with respect to all shares of the Company&rsquo;s capital stock held by such stockholder in favor of the above resolutions.&nbsp; This Action by Written Consent of Stockholders may be executed in any number of counterparts, each of which shall constitute an original and all of which together shall constitute one action.&nbsp; {Board.Misc.CopyIsGold}{br}Dated:
+Sign.Witness=<strong>IN WITNESS WHEREOF</strong>, by executing this Action by Written Consent of Stockholders, each undersigned stockholder is giving written consent with respect to all shares of the Company&rsquo;s capital stock held by such stockholder in favor of the above resolutions.&nbsp; This Action by Written Consent of Stockholders may be executed in any number of counterparts, each of which shall constitute an original and all of which together shall constitute one action.&nbsp; {Board.Misc.CopyIsGold}<br>Dated:
+
+Sign.Block=<table><tr><td>{Co.Sign.Block}</td><td>{Inv.1.Sign.Block}</td></tr></table>

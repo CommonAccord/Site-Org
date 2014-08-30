@@ -4,6 +4,8 @@ ID.Addr.1=111 Front Street
 
 ID.Addr.2=Wilmington, DE 19999
 
+ID.Addr.State=Delaware
+
 ID.Addr.Type=official
 
 ID.SignBy=By: <u>{xSignature}</u><br/>Name: {Secretary.ID.Name.Full}<br/>Its: {Secretary.Title}

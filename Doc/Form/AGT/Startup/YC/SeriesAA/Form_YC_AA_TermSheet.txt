@@ -12,7 +12,7 @@ Valuation._Def=<u>Valuation of the Company</u>: {Value.Premoney.$} pre-money
 
 Round.Total._Def=<u>Amount of the offering</u>: {Cap.AA.Total.$}
 
-Round.Quantity._Def=<u>Number of shares</u>: {Cap.AA.Quantity.#} shares
+Round.Quantity._Def=<u>Number of shares</u>: {Cap.AA.#} shares
 
 Round.Price._Def=<u>Price per share</u>: {Cap.AA.Price.$}
 
@@ -30,7 +30,7 @@ Deal.Vote.Special._Sec=<u>Protective provisions</u>:&nbsp; So long as any of the
 
 InvRight._Sec=<u>Investor Rights</u>.<ul><li>{InvRight.PieSlice._Sec}</li><li>{InvRight.Info._Sec}</li><li>{InvRight.Other._Sec}</li></ul>
 
-InvRight.PieSlice._Sec=<u>Right to maintain proportionate ownership</u>:&nbsp; Each holder of at least {InvRight.PieSlice.Threshold.#} shares of Preferred will have a right to purchase its pro rata share of any offering of new securities by the Company, subject to customary exceptions. The pro rata share will be based on the ratio of (x) the number of shares of Preferred held by such holder (on an as-converted basis) to (y) the Company&rsquo;s fully-diluted capitalization (on an as-converted and as-exercised basis). This right will terminate immediately prior to the Company&rsquo;s initial public offering or five years after the financing.
+InvRight.PieSlice._Sec=<u>Right to maintain proportionate ownership</u>:&nbsp; Each holder of at least {Cap.AA.Ro1R.Threshold.#} shares of Preferred will have a right to purchase its pro rata share of any offering of new securities by the Company, subject to customary exceptions. The pro rata share will be based on the ratio of (x) the number of shares of Preferred held by such holder (on an as-converted basis) to (y) the Company&rsquo;s fully-diluted capitalization (on an as-converted and as-exercised basis). This right will terminate immediately prior to the Company&rsquo;s initial public offering or five years after the financing.
 
 InvRight.Info._Sec=<u>Information rights</u>:&nbsp; As soon as practicable, the Company will deliver to each holder of at least {InvRight.Info.Threshold.#} shares of Preferred, {InvRight.Info.List}.
 
@@ -46,5 +46,5 @@ InvRight.Other._Sec=<u>Other Matters</u>:&nbsp; {InvCov.StandOff._Sec}
 
 InvCov.StandOff._Sec=Market stand-off. Holders of Preferred will agree not to effect any transactions with respect to any of the Company&rsquo;s securities within 180 days following the Company&rsquo;s initial public offering, provided that all officers, directors and 1% stockholders of the Company are similarly bound.
 
-Agt.Signature=<table><tbody><tr><td>{Co.ID.Sign.Block}</td><td>{Inv.1.ID.Sign.Block}</td></tr></tbody></table></li>
+Agt.Signature=<table><tbody><tr><td>{Co.Sign.Block}</td><td>{Inv.1.Sign.Block}</td></tr></tbody></table></li>
 
