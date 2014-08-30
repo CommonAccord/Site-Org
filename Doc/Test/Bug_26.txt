@@ -1,6 +1,6 @@
 =[Form/AGT/NDA/Form_MIT_TLO_Mutual.txt]
 
-=[Deal/Demo_Relationship_MIT_Quake.txt]
+=[Person/Demo_Relationship_MIT_Quake.txt]
 
 P2.Handle=Company
 

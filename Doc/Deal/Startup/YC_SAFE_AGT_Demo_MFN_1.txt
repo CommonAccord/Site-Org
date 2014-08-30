@@ -2,7 +2,7 @@
 
 =[Form/AGT/Startup/YC/SAFE/Form_YC_SAFE_Investment.txt]
 
-=[Deal/Demo_Relationship_Acme_Quake.txt]
+=[Person/Demo_Relationship_Acme_Quake.txt]
 
 State.Of=the State of California
 

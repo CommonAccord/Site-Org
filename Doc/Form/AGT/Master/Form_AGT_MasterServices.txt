@@ -2,7 +2,7 @@
 
 Prologue.Intro=This Master Services Agreement (&ldquo;MSA&rdquo; or &ldquo;Agreement&rdquo;) is entered into as of {Effective Date} (&ldquo;Effective Date&rdquo;) by and between {P1.ID.ParentAndSub} (&ldquo;Company&rdquo;) and {P2.ID.N,E,A}, (&ldquo;Supplier&rdquo;).
 
-AGT._Secs=<ol><li>{Engage._Sec}</li><li>{Term._Sec}</li><li>{bStaff._Sec}</li><li>{bComp._Sec}</li><li>{bConf._Sec}</li><li>{IP._Sec}</li><li>{PersonalInfo._Sec}</li><li>{TangProp._Sec}</li><li>{Test._Sec}</li><li>{bWarrant._Sec}</li><li>{bAssure._Sec}</li><li>{Relate._Sec}</li><li>{Law._Sec}</li><li>{bComply._Sec}</li><li>{Environ._Sec}</li><li>{bConflict._Sec}</li><li>{Expire._Sec}</li><li>{Limit._Sec}</li><li>{bRelease._Sec}</li><li>{Waive._Sec}</li><li>{Notice._Sec}</li><li>{Trump._Sec}</li><li>{eDeal._Sec}</li><li>{Entire._Sec}</li></ol>
+AGT.Secs._Lost=<ol><li>{Engage._Sec}</li><li>{Term._Sec}</li><li>{bStaff._Sec}</li><li>{bComp._Sec}</li><li>{bConf._Sec}</li><li>{IP._Sec}</li><li>{PersonalInfo._Sec}</li><li>{TangProp._Sec}</li><li>{Test._Sec}</li><li>{bWarrant._Sec}</li><li>{bAssure._Sec}</li><li>{Relate._Sec}</li><li>{Law._Sec}</li><li>{bComply._Sec}</li><li>{Environ._Sec}</li><li>{bConflict._Sec}</li><li>{Expire._Sec}</li><li>{Limit._Sec}</li><li>{bRelease._Sec}</li><li>{Waive._Sec}</li><li>{Notice._Sec}</li><li>{Trump._Sec}</li><li>{eDeal._Sec}</li><li>{Entire._Sec}</li></ol>
 
 Engage._Sec=<u>Engagement and Statements of Work</u>.<ol><li>{Engage.Base._Sec}</li><li>{Engage.SOW._Sec}</li><li>{Engage.Change._Sec}</li><li>{Engage.Affiliate._Sec}</li></ol>
 
@@ -116,7 +116,7 @@ IP.CP.aReserve._Sec=Supplier acknowledges that Company claims and reserves all r
 
 IP.CP.bAssign._Sec=<u>Assignment and Recordation of Company Property</u>.  Supplier agrees that:<ol><li>{IP.CP.bAssign.WorkForHire._Sec};</li><li>{IP.CP.bAssign.Grant._Sec};</li><li>{IP.CP.bAssign.Further._Sec}: and</li><li>{IP.CP.bAssign.bNotRegister._Sec}.</li></ol>
 
-IP.CP.bAssign.WorkForHire._Sec=All copyrightable Intellectual Property, which are created by Supplier pursuant to this Agreement, shall be deemed "Works Made for Hire", as that phrase is defined in Section 101 of the United States Copyright Act, 17 U.S.C. &sect; 101, and used in 17 U.S.C. &sect; 201, on behalf of Company, and Company shall own all right, title and interest, including the worldwide copyright, in and to such materials 
+IP.CP.bAssign.WorkForHire._Sec=All copyrightable Intellectual Property, which are created by Supplier pursuant to this Agreement, shall be deemed "Works Made for Hire", as that phrase is defined in Section 101 of the United States Copyright Act, 17 U.S.C. § 101, and used in 17 U.S.C. § 201, on behalf of Company, and Company shall own all right, title and interest, including the worldwide copyright, in and to such materials 
 
 IP.CP.bAssign.Grant._Sec=Supplier hereby assigns and agrees to assign to Company all of its respective rights, title, and interest in Company Property, including all rights of inventorship and authorship, all patents and patent applications, all copyrights, all trademark and service mark rights, all rights in trade secret and proprietary information, all rights of attribution and integrity and other moral rights and all other intellectual property rights of any type (collectively referred to herein as &ldquo;IP Rights&rdquo;)
 
@@ -349,4 +349,4 @@ AGT.Exh.E=Exhibit A
 
 Notice.Block=<table><tr><td>{P1.Notice.Block}</td><td>{P2.Notice.Block}</td></table>
 
-AGT.Attach=<hr><center><b>Exhibit {AGT.Exh.A}</center></b><hr><hr><center><b>Exhibit {AGT.Exh.B}</center></b><hr><hr><center><b>Exhibit {AGT.Exh.C}</center></b><hr><hr><center><b>Exhibit {AGT.Exh.D}</center></b><hr><hr>
+AGT.Attach=<hr><center><b>Exhibit {AGT.Exh.A}</center></b><hr><hr><center><b>Exhibit {AGT.Exh.B}</center></b><hr><hr><center><b>Exhibit {AGT.Exh.C}</center></b><hr><hr><center><b>Exhibit {AGT.Exh.D}</center></b><hr><hr>			

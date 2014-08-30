@@ -1,6 +1,6 @@
 =[Form/AGT/Research/Form_MIT_Edu_OSP_USA.txt]
 
-=[Deal/Demo_Relationship_MIT_Quake.txt]
+=[Person/Demo_Relationship_MIT_Quake.txt]
 
 AGT.Title=Sponsored Research Agreement
 

@@ -16,10 +16,11 @@ Conf.Impart._Sec={MIT.Conf.Impart._Secbb}
 
 MIT.Conf.Impart._Secbb=<b>{MIT.Conf.Impart._Sec}</b>
 
+MIT.Conf.Impart._Sec=<u>Notice of Confidentiality</u>.  {Conf.Impart.Intro._Cl}:<ol><li>{Conf.Impart.Marked._cl};</li><li>{Conf.Impart.SubjectMatter.ResearchAndPatent._cl}; or</li><li>{Conf.Impart.Live.DeclaredAndConfirmed._cl}.</li></ol>
 
-MIT.Conf.Impart._Sec=<u>Notice of Confidentiality</u>.&nbsp; {Conf.Impart.Intro._Cl}:<ol><li>{Conf.Impart.Marked._cl};</li><li>{Conf.Impart.SubjectMatter.ResearchAndPatent._cl}; or</li><li>{Conf.Impart.Live.DeclaredAndConfirmed._cl}.</li></ol>
-
-
-
+Hello=Hi
 
 
+
+
+			
