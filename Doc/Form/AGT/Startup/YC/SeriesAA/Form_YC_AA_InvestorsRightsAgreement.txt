@@ -54,11 +54,11 @@ AGT.Secs._Lost=<ol><li>{1._Sec}</li><li>{2._Sec}</li><li>{3._Sec}</li><li>{4._Se
 
 2.Intro._Sec=The Company hereby covenants and agrees, as follows:
 
-2.1._Sec=Basic Financial Information.&nbsp; {2.1.Intro._Sec}<ol><li>{2.1.1._Sec}</li><li>{2.1.2._Sec}</li></ol>
+2.1._Sec=<u>Basic Financial Information</u>.&nbsp; {2.1.Intro._Sec}<ol><li>{2.1.1._Sec}</li><li>{2.1.2._Sec}</li></ol>
 
-2.1.Intro._Sec=Provided that the Company has prepared financial statements, the Company will furnish the following reports to each Investor{2.2.1.Threshold.Option}:
+2.1.Intro._Sec=Provided that the Company has prepared financial statements, the Company will furnish the following reports to each Investor{Threshold.Option.If}:
 
-2.2.1.Threshold.Option=<strong><span style="background-color:#DDA0DD">Select 2.1.1.Threshold.Option =&nbsp; { </span></strong>InvRight.Info.Threshold<strong><span style="background-color:#DDA0DD">.Shares }&nbsp; or remove&nbsp;2.1.1.Threshold.Option = { _empty } Threshold</span></strong>: {InvRight.Info.Threshold.Shares}
+Threshold.Option.If=<strong><span style="background-color:#DDA0DD">Select 2.1.1.Threshold.Option =&nbsp; { </span></strong>InvRight.Info.Threshold<strong><span style="background-color:#DDA0DD">.Shares }&nbsp; or remove&nbsp;2.1.1.Threshold.Option = { _empty } Threshold</span></strong>: {InvRight.Info.Threshold.Shares}
 
 InvRight.Info.Threshold.Shares=&nbsp; who owns at least {InvRight.Info.Threshold.#} shares and/or Conversion Stock (as presently constituted and subject to subsequent adjustments for stock splits, stock dividends, reverse stock splits, and the like)
 

@@ -1,0 +1,57 @@
+=[Form/AGT/Startup/YC/SeriesAA/Binder_YC_AA.txt]
+
+Co.=[Person/ID_Acme_Inc.txt]
+
+Inv.1.=[Person/ID_Quake_Inc.txt]
+
+Co.Handle=Company
+
+Inv.1.Handle=Investor
+
+Cap.AA.Quantity.#=1,000,000
+
+Cap.Common.SetAside.#=1,000,000
+
+PreR.Cap.Common.Auth.#=10,000,000
+
+Cap.Common.Quantity.#=3,000,000
+
+Cap.Common.Quantity.Number=Three Million
+
+Cap.Quantity.Number=Four Million
+
+Cap.Quantity.#=4,000,000
+
+Cap.Common.Par.$=$0.01
+
+Cap.Pref.Quantity.Number=Two Million
+
+Cap.Pref.Quantity.#=2,000,000
+
+Cap.Pref.Par.$=$0.01
+
+Cap.AA.Price.$=$1.00
+
+Cap.AA.Liquid.Pref.$=$1.00
+
+Cap.AA.OIP.$=$1.00
+
+Cap.AA.Quantity.Number=Twenty Thousand
+
+Cap.AA.Vote.Bd.Threshold=One Hundred Thousand
+
+Cap.Common.Vote.Bd.#=3
+
+Cap.AA.Ro1R.Threshold.#=1,000
+
+Cap.Common.Plan.Auth.#=One Thousand
+
+InvRight.Info.Threshold.#=One Thousand
+
+Law.of=the State of California
+
+COI.5.4.4._Sec={COI.Cap.AA.Vote.Bd.1}
+
+COI.5.4.4.Vote.Bd.Together.If={COI.Vote.Bd.Together}
+
+IRA.Threshold.Option.If={IRA.InvRight.Info.Threshold.Shares}

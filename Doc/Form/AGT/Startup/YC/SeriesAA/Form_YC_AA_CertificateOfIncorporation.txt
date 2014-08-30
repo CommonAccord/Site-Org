@@ -1,3 +1,4 @@
+
 Model.Root={Consent.Doc.Body}
 
 Consent.Doc.Body=<strong><center>{Prologue.Heading}</center></strong> {Consent.Secs._Lost}
@@ -100,9 +101,9 @@ X=10
 
 5.4.4._Sec={5.4.4.If}
 
-5.4.4.If=<span style="background-color:#DDA0DD">Select -- 4.4. = { Cap.AA.Vote.Bd.1 } or 4.4.= { _empty }&nbsp;</span> {Cap.AA.Vote.Bd.1}
+5.4.4.If=<span style="background-color:#DDA0DD">Select -- 5.4.4._Sec = { Cap.AA.Vote.Bd.1 } or 5.4.4._Sec= { _delete_ }&nbsp;</span> {Cap.AA.Vote.Bd.1}
 
-Cap.AA.Vote.Bd.1=Election of Directors. So long as at least {Cap.AA.Vote.Bd.Threshold} shares (as adjusted for Recapitalizations) of Preferred Stock remain outstanding, the holders of Preferred Stock, voting as a separate class, shall be entitled to elect one member of the Corporation&rsquo;s Board of Directors at each meeting or pursuant to each consent of the Corporation&rsquo;s stockholders for the election of directors. The holders of Common Stock, voting as a separate class, shall be entitled to elect {Cap.Common.Vote.Bd.#} members of the Corporation&rsquo;s Board of Directors at each meeting or pursuant to each consent of the Corporation&rsquo;s stockholders for the election of directors. {5.4.4.Vote.Bd.Together.If}
+Cap.AA.Vote.Bd.1=<u>Election of Directors</u>. So long as at least {Cap.AA.Vote.Bd.Threshold} shares (as adjusted for Recapitalizations) of Preferred Stock remain outstanding, the holders of Preferred Stock, voting as a separate class, shall be entitled to elect one member of the Corporation&rsquo;s Board of Directors at each meeting or pursuant to each consent of the Corporation&rsquo;s stockholders for the election of directors. The holders of Common Stock, voting as a separate class, shall be entitled to elect {Cap.Common.Vote.Bd.#} members of the Corporation&rsquo;s Board of Directors at each meeting or pursuant to each consent of the Corporation&rsquo;s stockholders for the election of directors. {5.4.4.Vote.Bd.Together.If}
 
 5.4.4.Vote.Bd.Together.If=<span style="background-color:#DDA0DD">[</span><em><span style="background-color:#DDA0DD">include this section only if the Series AA will have a board member]</span> 4.4.Vote.Bd.Together.If = { Vote.Bd.Together }</em> {Vote.Bd.Together}
 

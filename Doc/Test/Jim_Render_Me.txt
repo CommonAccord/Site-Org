@@ -1,5 +1,9 @@
 
-=[Form/AGT/Startup/YC/SeriesAA/Binder_YC_AA.txt]
+=[Deal/Startup/YC_SeriesAA_Demo_1_d01.txt]
+
+[Form/AGT/Startup/YC/SeriesAA/Binder_YC_AA.txt]
+
+[Deal/Demo_Relationship_Acme_Quake.txt]
 
 [Deal/MIT/MIT_SponsoredResearch_Demo_1.txt]
 
