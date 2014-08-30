@@ -2,10 +2,11 @@
 
 =[Form/AGT/Startup/500/Delta_KISS_Equity.txt]
 
-=[Deal/Startup/500_Startups_KISS_Note_Demo_1_Debt.txt]
+=[Deal/Startup/500/500_Startups_KISS_Note_Demo_1_Debt.txt]
  
 Co.Sign.YMD=August 24, 2014
 
 Investor.Sign.YMD=August 26, 2014
 
 
+	
