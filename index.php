@@ -42,6 +42,7 @@ else if($_REQUEST['action'] == 'source') {
 if(isset($_REQUEST['submit'])) {
 	$fp = fopen($dir, "w");
 	$data = $_REQUEST['newcontent'];
+	$data = preg_replace('/\r\n/', "\n", $data);
 	fwrite($fp, $data);
 	fclose($fp);
 }
@@ -108,7 +109,7 @@ echo '	</textarea><br>
 
 else if($_REQUEST['action'] == 'pull') {
 
-echo `cd /var/www/www.commonaccord.org/Alpha; git pull -f 2>&1`;
+echo `cd /var/www/www.commonaccord.org/Alpha; git reset --hard HEAD; git pull -f 2>&1`;
 
 }
 
