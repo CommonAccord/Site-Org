@@ -1,7 +1,3 @@
-MIT:
-
-<b>MIT</b>=&nbsp
-
 Handle=MIT
 
 ID.Name.Full=Massachusetts Institute of Technology
@@ -40,3 +36,4 @@ TLO.=[ID_MIT_Edu_TechLicensingOffice.txt]
 
 
 =[Class/ID.txt]
+	
