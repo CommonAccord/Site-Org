@@ -5,7 +5,6 @@
 P1.ID.ParentAndSub={P1.ID.N,E,A} on behalf of itself and its affiliates
 
 AGT.Title=Acme Master Services Agreement
-
 AGT.Effective.YMD=May 26, 2014
 
 Services.Description=HR management
@@ -22,7 +21,7 @@ email.CWD.com=admin@contingentworkers.com
 
 CWD.Addr.1,2=111 Main Street, Indianapolis, Indiana 46077
 
-bComp.Intro.NB= 
+bComp.Intro.NB=Â 
 
 P1.FinanceWing.Name=Acme Receiving Corporation Company
 
@@ -51,5 +50,3 @@ bAssure.General.Total.$=$5,000,000
 bAssure.Auto.Occur.$=$2,000,000
 
 bAssure.Prof.Occur.$=$5,000,000
-
-	
