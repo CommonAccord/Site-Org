@@ -3,8 +3,6 @@ error_reporting(E_ALL);
 $path = '/var/www/www.commonaccord.org/Alpha/';
 
 if(!isset($_REQUEST['action'])) { 
-	echo "NET SETETET <br>";
-	echo "hmm.. $_REQUEST[file]<br>.<br>";
 	$_REQUEST['action'] = "list"; 
 }
 
