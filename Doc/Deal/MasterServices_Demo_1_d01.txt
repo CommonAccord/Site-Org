@@ -50,3 +50,4 @@ bAssure.General.Total.$=$5,000,000
 bAssure.Auto.Occur.$=$2,000,000
 
 bAssure.Prof.Occur.$=$5,000,000
+	
