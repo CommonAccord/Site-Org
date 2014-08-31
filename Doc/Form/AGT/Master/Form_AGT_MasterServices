@@ -1,0 +1,189 @@
+=[Form/AGT/Base/AGT_Frame.txt]
+
+Staff.=[Form/AGT/Master/Sec/Staff_Library]
+
+Comp.=[Form/AGT/Master/Sec/Comp_Library]
+
+Conf.=[Form/AGT/Master/Sec/Conf_Library]
+
+IP.=[Form/AGT/Master/Sec/IP_Library]
+
+PersonalInfo.=[Form/AGT/Master/Sec/PersonalInfo_Library]
+
+Comply.=[Form/AGT/Master/Sec/Comply_Library]
+
+Expire.=[Form/AGT/Master/Sec/Expire_Library]
+
+Misc.=[Form/AGT/Master/Sec/Misc_Library]
+
+Def.=[Form/AGT/Master/Sec/Def_Library]
+
+
+Prologue.Intro=This Master Services Agreement (&ldquo;MSA&rdquo; or &ldquo;Agreement&rdquo;) is entered into as of {Effective Date} (&ldquo;Effective Date&rdquo;) by and between {P1.ID.ParentAndSub} (&ldquo;Company&rdquo;) and {P2.ID.N,E,A}, (&ldquo;Supplier&rdquo;).&nbsp; <br>
+
+AGT.Secs._Lost= <ol><li>{Engage._Sec}</li><li>{Term._Sec}</li><li>{Staff._Sec}</li><li>{Comp._Sec}</li><li>{Conf._Sec}</li><li>{IP._Sec}</li><li>{PersonalInfo._Sec}</li><li>{TangibleProperty._Sec}</li><li>{Test._Sec}</li><li>{Warrant._Sec}</li><li>{Assure._Sec}</li><li>{Relate._Sec}</li><li>{Dispute._Sec}</li><li>{Comply._Sec}</li><li>{Environ._Sec}</li><li>{Conflict._Sec}</li><li>{Expire._Sec}</li><li>{Limit._Sec}</li><li>{Release._Sec}</li><li>{Misc._Sec}</li><li>{Def._Sec}</li></ol>
+
+Engage._Sec=<u>Engagement and Statements of Work</u>. <ol><li>{Engage.Base._Sec}</li><li>{Engage.SOW._Sec}</li><li>{Engage.Change._Sec}</li><li>{Engage.Affiliate._Sec}</li></ol>
+
+Engage.Base._Sec=Company engages Supplier to perform services such as {Services.Description}, which may include the provision of certain deliverables (collectively, the &ldquo;Services&rdquo;) and which are further described in Company Purchase Order (&ldquo;PO&rdquo;) and/or Statement of Work (&ldquo;SOW&rdquo;) documents executed during the Term of this Agreement by an authorized representative from each party.
+
+Engage.SOW._Sec=Each SOW shall contain: <ol><li>a detailed description of the Services to be performed;</li><li>the amount, schedule and method of compensation to be paid to Supplier by Company; and</li><li>the term of the SOW, if different from the term of this MSA.</li></ol> Each PO and/or SOW issued pursuant to this Agreement shall be deemed incorporated into and governed by the terms of this MSA, and the Supplier&rsquo;s provision of Services shall be governed by this MSA as supplemented by the terms of the applicable PO and/or SOW.&nbsp; Where the terms of a PO or SOW conflict with the terms of the MSA, which existed prior to such PO or SOW, the terms of the pre-existing MSA shall prevail, except to the extent that the PO or SOW expressly states that the MSA is to be overridden or modified.&nbsp; No Company financial obligation will arise without issuance of a PO.
+
+Engage.Change._Sec=<u>Changes to a PO or SOW</u>.&nbsp; Company may at any time, in writing, make reasonable changes in the work described in a PO or SOW.&nbsp; If any changes cause an increase or decrease in the cost of, or the time required for the performance of, any work under a PO or SOW, an equitable adjustment shall be made in Supplier&rsquo;s fee or delivery schedule, or both.&nbsp; Any Supplier claim for an adjustment must be asserted within ten (10) days of Supplier&rsquo;s receipt of the change notification, and must be approved in a written amendment (&ldquo;Change Order&rdquo;).
+
+Engage.Affiliate._Sec=<u>Extension to Affiliates</u>.&nbsp; Any Company Affiliate may issue a PO or SOW under this MSA.&nbsp; In the event that any Company Affiliate issues any PO or SOW pursuant to this Agreement, such PO or SOW: <ol><li>shall incorporate by reference the terms of this Agreement;</li><li>shall be deemed a separate contract between the parties who sign it; and</li><li>is an independent contractual obligation from any other PO or SOW.</li></ol> The term &ldquo;Company&rdquo; as used in this Agreement shall, for the purposes of any PO or SOW, issued by a Company Affiliate hereunder, be deemed to include only the Company Affiliate issuing such PO or SOW.&nbsp; The parties expressly agree that COMPANY SHALL HAVE NO LIABILITY NOR SHALL COMPANY INCUR ANY OBLIGATION OR BE RESPONSIBLE FOR THE FAILURE OF ANY COMPANY AFFILIATE TO PERFORM ITS OBLIGATIONS UNDER THIS AGREEMENT OR ANY PO OR SOW PLACED HEREUNDER.
+
+Term._Sec=<u>Term</u>.&nbsp; The term of this Agreement (&ldquo;Term&rdquo;) shall begin on the &ldquo;Effective Date&rdquo; and end on {Term.End.YMD} (&ldquo;Expiration Date&rdquo;), unless sooner terminated as provided below.&nbsp; If signed after the Effective Date, the MSA shall be deemed retroactive to the Effective Date.&nbsp; The parties further agree that if any PO or SOW is in effect at the time of the expiration of this Agreement, then as it applies to such PO or SOW only, the Term of this Agreement will be extended until the expiration or termination of such PO or SOW.
+
+
+TangibleProperty._Sec=<u>Physical Property</u>.<br>Unless otherwise agreed in writing, all tools, equipment or material furnished to Supplier or specially paid for by Company, including but not limited to Software Product (defined in Section 5.1) and any related items, and any replacement thereof, or any materials affixed or attached thereto, shall be and remain Company&rsquo;s personal property.&nbsp; Such property shall be plainly marked as Company&rsquo;s property and shall be safely stored separate and apart from Supplier's property.&nbsp; Supplier shall not substitute any Company property without Company&rsquo;s written approval.&nbsp; Such property, while in Supplier's custody or control, shall be held at Supplier's risk, shall be kept insured by Supplier at Supplier's expense in an amount equal to the replacement cost with loss payable to Company and shall be subject to removal at Company's written request, in which event Supplier shall prepare such property for shipment and shall redeliver to Company in the same condition as originally received by Supplier, reasonable wear and tear excepted, all at Supplier's expense.
+
+Test._Sec=<u>Inspections, Testing and Acceptance</u>. <ol><li>{Test.1._Sec}</li><li>{Test.2._Sec}</li><li>{Test.3._Sec}</li><li>{Test.4._Sec}</li></ol>
+
+Test.1._Sec=All Services and/or any deliverables shall be subject to inspection and test by Company and any of its customers at all times and places.&nbsp; Supplier must follow coding and testing standards and must pass quality assurance standards provided by Company.
+
+Test.2._Sec=Supplier shall provide and maintain an inspection and process control system acceptable to Company covering any Services and/or deliverables provided hereunder.&nbsp; Records of all inspection work by Supplier shall be kept complete and made available to Company and any of its customers during the Term and for a period of three (3) years thereafter.&nbsp; Without any additional charge, Supplier will: <ol><li>allow representatives of Company and its customers access to the facilities involved in performing this Agreement in order to assess: <ol> <li>work quality;</li> <li>conformance with Company&rsquo;s specifications; and</li> <li>conformance with Supplier&rsquo;s representations, warranties, certifications and covenants in this Agreement, and</li> </ol></li> provide all reasonable assistance for the safety and convenience of the inspectors in the performance of their duties.</ol>
+
+Test.3._Sec=Acceptance or rejection of the Services and/or any deliverables shall be made as promptly as practical after delivery, but failure to inspect and accept or reject the Services and/or deliverables or failure to detect defects by inspection, shall neither relieve Supplier from responsibility for all requirements relating to such Services and/or deliverables nor impose liabilities on Company for its failure to identify such defects.
+
+Test.4._Sec=If any of the Services and/or any deliverables under this Agreement, are found at any time prior to delivery to be defective, or otherwise not in conformity with the requirements of this Agreement, including any applicable specifications, Company, in addition to such other rights, remedies and choices as it may have by agreement and/or by law, at its option and sole discretion, and at Supplier&rsquo;s expense may: <ol><li>reject and return such deliverables;</li><li>require Supplier to re perform/replace the non-conforming Services and/or deliverables with Services and/or deliverables that conform to the requirements of this Agreement; and/or</li><li>take such actions as may be required to cure all defects and/or bring the Services and/or deliverables into conformity with all requirements.</li></ol>
+
+Warrant._Sec=<u>Warranties</u>. <ol><li>{Warrant.1._Sec}</li><li>{Warrant.2._Sec}</li></ol>
+
+Warrant.1._Sec=Supplier warrants that: <ol><li>{Warrant.1.1._Sec};</li><li>{Warrant.1.2._Sec};</li><li>{Warrant.1.3._Sec}; and </li><li>{Warrant.1.4._Sec}.</li></ol>
+
+Warrant.1.1._Sec=Services and/or any deliverables will be in strict accordance with the specifications, designs and other requirements (including performance specifications) approved or adopted in any PO or SOW
+
+Warrant.1.2._Sec=Services will be performed in a competent and professional manner in accordance with the highest standards and best practices of Supplier&rsquo;s industry
+
+Warrant.1.3._Sec=All Services and/or deliverables sold will be free of any claims of any nature and by any third person, including but not limited to claims of Intellectual Property infringement and Supplier will convey clear title to Company
+
+Warrant.1.4._Sec=All Services and/or deliverables will be of merchantable quality, free from all defects in design, workmanship and material and will be fit for the particular purpose for which they are purchased
+
+Warrant.2._Sec=The warranties in Section 6.1 shall apply for a period of twenty-four (24) months from the date Supplier completes its engagement.&nbsp; If any of the Services and/or deliverables under this Agreement are found to be defective during the warranty period, then in addition to other rights, remedies and choices it may have under this Agreement or at law or equity, Company, at its option and sole discretion, and at Supplier&rsquo;s expense may: <ol><li>reject and return such deliverables;</li><li>require Supplier to re-perform/replace the non-conforming Services and/or deliverables with Services and/or deliverables that conform to the requirements of this Agreement; and/or</li><li>take such actions as may be required to cure all defects and/or bring the Services and/or deliverables into conformity with all requirements.</li></ol> Any attempt by Supplier to limit, disclaim or restrict any such warranties or any remedies of Company, by acknowledgment or other wise, in accepting or performing this Agreement, shall be null, void and ineffective without Company's written consent.
+
+Assure._Sec=<u>Indemnities and Insurance</u>. <ol><li>{Assure.1._Sec}</li><li>{Assure.2._Sec}</li><li>{Assure.3._Sec}</li><li>{Assure.4._Sec}</li></ol>
+
+Assure.1._Sec=<u>General</u>.&nbsp; Supplier shall take all necessary precautions to prevent the occurrence of any injury to persons, property or the environment during the progress of work and ensure that its Personnel neither pose a threat to Company&rsquo;s safe work environment nor the integrity of its business operations.&nbsp; Except to the extent that any injury or damage is due solely and directly to Company, Supplier shall release, defend, hold harmless and indemnify Company, its directors, officers, employees, agents, representatives, successors and assigns against any and all suits, actions or proceedings, at law or in equity, and from any and all claims, demands, losses, judgments, damages, costs (including reasonable attorneys&rsquo; fees), fines, penalties, expenses or liabilities, including without limitation claims for personal injury or property or environmental damage, resulting from or in any way connected with any act or omission of Supplier&rsquo;s Personnel, Supplier, its agents, employees or subcontractors, whether acting in the course of their employment or otherwise, in connection with, but not limited to, all of the representations, warranties or covenants contained in this Agreement.&nbsp; In addition, Supplier shall indemnify, defend and hold Company harmless from and against any claims, costs or expenses, including, but not limited to, reasonable attorneys' fees, arising out of or in connection with any employment claims, i.e., workers compensation, harassment or discrimination claims, or breaches of Sections 5.1 5.7, 14 or 15 or Schedule B hereto by Supplier or Supplier's Personnel.&nbsp; Supplier agrees to include this clause in all related subcontracts.&nbsp; Supplier further agrees to indemnify Company for any attorneys&rsquo; fees or other costs Company incurs in the event that Company has to file a lawsuit to enforce any indemnity or additional insured provisions of this Agreement.
+
+Assure.2._Sec=<u>Intellectual Property</u>.&nbsp; Supplier shall indemnify, defend and hold Company harmless from any suit or proceeding brought against Company or its customers based on any claim that any Services, systems, article or apparatus, or any part thereof constituting Services and/or any deliverables furnished under this Agreement, as well as any device or process necessarily resulting from the use thereof, constitutes an infringement of any patent, copyright or other Intellectual Property right.&nbsp; If notified promptly in writing and given authority, information and assistance, at Supplier's expense, for the defense of same, Supplier shall pay all damages, costs and expenses incurred or awarded therein, including, but not limited to, reasonable attorneys&rsquo; fees.&nbsp; If use of any systems, article, apparatus, part, device, process, Service and/or any deliverable is enjoined, Supplier shall, at its own expense and in the following order, subject to commercial practicality, either: a) procure for Company the right to continue using such Service, system, article or apparatus, part, device, process or deliverable; b) replace same with a non infringing equivalent; or c) remove such system, article or apparatus, part, device, process or deliverable or halt such Service and refund the purchase price and, if applicable, the transportation and installation costs thereof.
+
+Assure.3._Sec=<u>Insurance Coverage</u>.&nbsp; During the Term of this Agreement, Supplier, shall at its own cost, obtain and keep in force for the benefit of Supplier and Company all insurance/and or bonds required by law and the following insurance to be issued by insurance carriers with a minimum rating in A.M. Best&rsquo;s of A:VIII or better with minimum limits as set forth below: <ol><li>{Assure.3.1._Sec}</li><li>{Assure.3.2._Sec}</li><li>{Assure.3.3._Sec}</li><li>{Assure.3.4._Sec}</li></ol>
+
+Assure.3.1._Sec=Worker&rsquo;s Compensation and Employers Liability Insurance per statutory requirements.
+
+Assure.3.2._Sec=Commercial General Liability with minimum limits for Bodily Injury and Property Damage on an occurrence basis of: {Assure.General.Occur.$} per occurrence; {Assure.General.Total.$} aggregate.
+
+Assure.3.3._Sec=Business Automobile Liability Insurance covering all vehicles used in connection with the work and covering Bodily Injury and Property Damage with a minimum limit equal to: {Assure.Auto.Occur.$} per accident.
+
+Assure.3.4._Sec=Professional Errors and Omissions Insurance covering the activities of Supplier written on a &ldquo;claims made&rdquo; basis with a minimum limit equal to: {Assure.Prof.Occur.$} per occurrence.
+
+Assure.4._Sec=<u>Additional Insurance Requirements</u>. <ol><li>{Assure.4.1._Sec}</li><li>{Assure.4.2._Sec}</li><li>{Assure.4.3._Sec}</li><li>{Assure.4.4._Sec}</li><li>{Assure.4.5._Sec}</li></ol>
+
+Assure.4.1._Sec=Company shall be named as additional insured under the policies of insurance set forth in subsections {11.3.2-11.3.4} above for any and all purposes arising out of or connected to the Services.
+
+Assure.4.2._Sec=It is the intent of both parties to this Agreement that all insurance purchased by Supplier in compliance with this Agreement, will be primary to any other insurance owned, secured, or in place by Company, which insurance shall not be called upon by Supplier's insurer to contribute in any way.&nbsp; Supplier shall secure endorsements to this effect from all insurers of such policies.
+
+Assure.4.3._Sec=At Company&rsquo;s request, Supplier shall furnish Company with certificates of insurance and with copies of original endorsements effecting coverage required by this clause.&nbsp; The certificates and endorsements shall identify Company as an additional insured and shall be signed by a person authorized by that insurer to bind coverage on its behalf.&nbsp; Company reserves the right to require complete, certified copies of all required insurance policies, at any time.
+
+Assure.4.4._Sec=All policies provided for herein shall expressly provide that such policies shall not be canceled, terminated or altered without sixty (60) days prior written notice to Company.
+
+Assure.4.5._Sec=All insurance specified in this section shall contain a waiver of subrogation in favor of the Company, its Affiliates and their respective employees for all losses and damages covered by the insurance required by this section.
+
+Relate._Sec=<u>Relationship of the Parties; Assignment and Subcontracting</u>. <ol><li>{Relate.1._Sec}</li><li>{Relate.2._Sec}</li><li>{Relate.3._Sec}</li><li>{Relate.4._Sec}</li></ol>
+
+Relate.1._Sec=Supplier is an independent contractor to Company.&nbsp; Supplier&rsquo;s Personnel are neither employees of Company nor eligible for participation in any Company employee benefit programs.&nbsp; The performance of Services by Supplier and receipt of payments shall have no effect on any payments or benefits that any of Supplier&rsquo;s Personnel is now or may later become entitled to as a result of past employment by Company.
+
+Relate.2._Sec=Neither Supplier&rsquo;s Personnel, Supplier nor its agents, subsidiaries, affiliates and employees are in any way the legal representatives or agents of Company, and neither shall have any right or authority to assume or create any obligation of any kind expressed or implied in the name of or on behalf of Company.
+
+Relate.3._Sec=This Agreement and any rights hereunder (except where expressly provided in a signed writing to the contrary) are non exclusive and non assignable.&nbsp; Any assignment by one party without the prior written consent of the other party shall be void; provided that Company may assign or transfer its rights and obligations under the Agreement to any Affiliate of Company upon written notice to Supplier.&nbsp; Supplier shall notify Company in writing in advance of any proposed change in its ownership, control or management and shall not without the written consent of Company delegate the performance of its obligations under this Agreement to any firm or person (other than a principal, officer or regular employee of Supplier).&nbsp; Notwithstanding the above, upon written notification to the other party, either party may assign this Agreement to any entity, which acquires all of (or substantially all of) the assets or voting stock of such entity.
+
+Relate.4._Sec=Supplier may not subcontract or delegate any Services without Company&rsquo;s prior written consent.
+
+Dispute._Sec=<u>Governing Law and Venue</u>. <ol><li>{Dispute.Law._Sec}</li><li>{Dispute.Amical._Sec}<br></li><li>{Dispute.Forum._Sec}</li></ol>
+
+Dispute.Law._Sec=<u>Applicable Law</u>.&nbsp; Each party&rsquo;s rights and obligations under or in connection with this Agreement shall be governed by the laws of {Dispute.Law.State.of} (excluding its conflict of laws rules).&nbsp; The parties exclude application of the United Nations Convention on Contracts for the International Sale of Goods.
+
+Dispute.Amical._Sec=<u>Amicable Resolution</u>.&nbsp; The parties shall attempt amicably to resolve any controversy, dispute or difference arising out of this Agreement.
+
+Dispute.Forum._Sec=<u>Exclusive Forum</u>.&nbsp; The parties shall attempt amicably to resolve any controversy, dispute or difference arising out of this Agreement, failing which either party may initiate litigation only in {Dispute.Forum._cl}.&nbsp; The parties submit to personal jurisdiction in said courts and waive any defenses regarding venue or <i>forum non conveniens</i>.
+
+Comply._Sec=<u>Compliance with Laws</u>.&nbsp; Supplier represents, warrants, certifies and covenants (&ldquo;Covenants&rdquo;) that: <ol><li>{Comply.Law._Sec};</li><li>{Comply.Worker._Sec};</li><li>{Comply.US-FAR-RUS._Sec};</li><li>{Comply.FLS._Sec};</li><li>{Comply.Equal._Sec};</li><li>{Comply.Export._Sec};</li><li>{Comply.Bribe._Sec};</li><li>{Comply.SOX._Sec}; and</li><li>{Comply.Further._Sec}.</li></ol>
+
+Comply.Law._Sec=It will comply with all applicable laws, including, but not limited to, any national, international, federal, state, provincial or local law, treaty, convention, protocol, common law, regulation directive or ordinance and all lawful orders, including judicial orders, rules and regulations issued thereunder, including without limitation those dealing with the environment, health and safety, records retention and/or the transportation or storage of &ldquo;hazardous materials&rdquo;.&nbsp; As used in this Agreement, the term &ldquo;hazardous materials&rdquo; shall mean any substance or material defined as a &ldquo;hazardous material,&rdquo; &ldquo;hazardous substance&rdquo; or &ldquo;dangerous good&rdquo; under 49 CFR 171.8 or any other applicable requirement of any entity with jurisdiction over the activities, goods or services, which are subject to this Order
+
+Comply.Worker._Sec=No Services and/or deliverables supplied under this Agreement have been or will be produced utilizing forced, indentured or convict labor or utilizing the labor of persons in violation of the minimum working age law in the country of manufacture or in any country in which the Services are provided or in violation of minimum wage, hour of service or overtime laws in the country of manufacture or any country in which Services are provided.&nbsp; If any such labor is determined by Company to have been used, Company shall have the right to immediately terminate the Agreement without further compensation to Supplier
+
+Comply.US-FAR-RUS._Sec=<u>Subcontractor Flow downs for U.S. Government Commercial Items Contracts</u>.&nbsp; Where the Services and/or goods being procured by Company from Supplier are in support of a U.S. Government end customer or an end customer funded in whole or part by the U.S. Government, Supplier shall comply with the terms of FAR 52.212 5(e) or 52.244 6 and DFARS 252.212 7001(c) or DFARS 252.244 7000 to the extent those terms are applicable to commercially available off the shelf (&ldquo;COTS&rdquo;) items or commercial items and as appropriate for the dollar value of this Agreement, any PO issued hereunder, and/or any SOW executed hereunder, (collectively, &ldquo;Contract Documents&rdquo;) as applicable.&nbsp; In addition, if any of the Contract Documents are in support of a project involving Rural Utility Service (&ldquo;RUS&rdquo;) funds, then the following additional requirements apply: <ol><li>Article VI, Section 4 of RUS Form 198, &ldquo;Compliance with Laws&rdquo;, specifically the certification as to Debarment and Suspension set forth in 7 CFR part 3017; and</li><li>Article VI, Section 5 of RUS Form 198, &ldquo;Equal Opportunity Provisions&rdquo;, including the requirements for Supplier to provide a certification that Supplier has filed a current report on Standard Form 100 and a Certificate of Non segregated Facilities.</li></ol> The version of these clauses/provisions/requirements shall be those that are in effect as of the Effective Date of this Agreement.
+
+Comply.FLS._Sec=Supplier represents that any Services provided hereunder will be provided in compliance with the requirements of the Fair Labor Standards Act of 1938, as amended, including Section 12 (a) thereof
+
+Comply.Equal._Sec=Supplier certifies that it is in compliance with the requirements for non-segregated facilities set forth in 41 C.F.R. Chapter 60-1.8
+
+Comply.Export._Sec=Supplier and Supplier's Personnel agree to comply fully with the import and export control laws and regulations of the United States Government.&nbsp; No information, technical data, software or Services, including any deliverables, will be exported or re exported except as permitted by U.S. law and regulation and with Company&rsquo;s written approval
+
+Comply.Bribe._Sec=Supplier shall comply with all laws dealing with improper or illegal payments, gifts and gratuities, and Supplier agrees not to pay, promise to pay or authorize the payment of any money or anything of value, directly or indirectly, to any person for the purpose of illegally or improperly inducing a decision or obtaining or retaining business in connection with this Agreement
+
+Comply.SOX._Sec=Supplier agrees that if the Services it provides will have a material impact on Company's ability to report financial information in an accurate and timely manner, that Supplier will certify and ensure that it is in compliance with Section 404 of the Sarbanes Oxley Act of 2002 and that Supplier will supply to Company, in a manner specified by Company, documents attesting that Supplier has in place controls that are effective and have been tested by a third party, such as an outside auditor, that monitor and ensure compliance with Section 404 of the Sarbanes-Oxley Act of 2002
+
+Comply.Further._Sec=Supplier further agrees to provide at Company&rsquo;s request certificates relating to any applicable legal requirements or to update any and all of the certifications, representations and warranties under this Agreement, in form and substance satisfactory to Company
+
+Environ._Sec=<u>Environmental Health and Safety</u>.&nbsp; Supplier represents, warrants and certifies that: <ol><li>{Environ.Safe._Cl}</li><li>{Environ.GoodChemical._Cl}</li><li>{Environ.BadChemical._Cl}</li><li>{Environ.HazardousChemical._Cl}</li></ol>
+
+<b>NB Environ</b>=there is a work-around in the list punctuation.
+
+Environ.Safe._Cl=It will take appropriate actions necessary to protect health, safety and the environment, including, without limitation, in the workplace and during transport;
+
+Environ.GoodChemical._Cl=Each chemical substance constituting or contained in goods sold or otherwise transferred to Company is listed on: <ol><li>the Toxic Substances Control Act (15 USC 2601 et seq.), otherwise know as the TSCA Inventory, or exempted from such list under 40 CFR 720.30 -38;</li><li>the Federal Hazardous Substances Act (P.L. 92-516) as amended;</li><li>the European Inventory of Existing Commercial Chemical Substances (EINECS) as amended;</li><li>the European List of Notified Chemical Substances (ELINCS) and lawful standards and regulations thereunder, or</li><li>any equivalent lists in any other jurisdiction to or through which Company informs Supplier the goods will likely be shipped;</li></ol>
+
+Environ.BadChemical._Cl=Goods sold or transferred to Company will not include: <ol><li>any chemical substance prohibited pursuant to Section 6 of the US Toxic Substances Control Act (TSCA);</li><li>any of the following chemicals: arsenic, asbestos, benzene, beryllium, carbon tetrachloride, cyanide, lead or lead compounds, cadmium or cadmium compounds, hexavalent chromium, mercury or mercury compounds, trichloroethylene, tetrachloroethylene, methyl chloroform, polychlorinated biphenyl (PCB), polybrominated biphenyls (PBB), polybrominated diphenyl ethers (PBDE);</li><li>designated ozone depleting chemicals as restricted under the Montreal Protocol (including, without limitation 111 trichloroethane, carbon tetrachloride, Halon-1211, 1301 and 2402, and Chlorofluorocarbons (&ldquo;CFCs&rdquo;) 11-13, 111-115, 211-217), unless Company agrees in writing;</li><li>any other chemical the use of which is restricted in any other jurisdiction to or through which Company informs Supplier the goods are likely to be shipped, unless Company expressly agrees in writing; and</li></ol>
+
+Environ.HazardousChemical._Cl=If any deliverables, goods or other materials sold or transferred to Company contain hazardous materials, Supplier shall provide all relevant information required pursuant to applicable requirements, such as: <ol><li>the Occupational Safety and Health Act (OSHA) regulations 29 C.F.R. 1910.1200, including a completed Material Safety Data Sheet (OSHA Form 20) and mandated labeling information, and</li><li>any similar requirements in any other jurisdictions to or through which Company informs Supplier the deliverables, goods or other materials are likely to be shipped.</li></ol>
+
+Conflict._Sec=<u>Conflict of Interest; Company Policies</u>. <ol><li>{Conflict.HasNo._Sec}</li><li>{Conflict.ReadPolicies._Sec}</li><li>{Conflict.GovtCommunication._Sec}</li></ol>
+
+Conflict.HasNo._Sec=Supplier represents and warrants that: <ol><li>it has no conflict of interest which would prevent Supplier from acting in the best interests of Company and that such a situation will not exist during the Term;</li><li>it has not entered into any contract or agreement, or executed any document whatsoever, that will in any manner prevent it from: <ol> <li>giving Company the exclusive benefit of services under this Agreement;</li> <li>disclosing and assigning ideas, inventions, computer software, trade secrets and other Intellectual Property as provided in Section {6.2.3} of this Agreement; or</li> <li>performing any other provision of this Agreement;</li> </ol></li><li>it will not enter into any contract or agreement, or execute any document, which will create a conflict of interest or which will prevent it from freely performing any provision of this Agreement; and</li><li>it will not knowingly incorporate confidential information of any person or entity not a party to this Agreement into any Services or deliverables furnished to Company without prior written notice to Company.</li></ol>
+
+Conflict.ReadPolicies._Sec=Supplier acknowledges that it has received a copy of the following documents: <ol><li>Guidelines - Third Party Suppliers (the &ldquo;Guidelines&rdquo;), attached hereto as Schedule G, and</li><li>the {P1.Handle} Energy Integrity Guide for Suppliers, Contractors and Suppliers (the &ldquo;Guide&rdquo;), attached hereto as Schedule H.</li></ol> Supplier agrees that it will: <ol><li>comply fully with the Guidelines and the Guide in the performance of the Services;</li><li>provide a copy of the Guide to Supplier&rsquo;s Personnel;</li><li>instruct Supplier&rsquo;s Personnel to comply with such documents; and</li><li>be responsible for any failure of Supplier&rsquo;s Personnel to comply with such documents.</li></ol> Supplier further agrees that it and Supplier&rsquo;s Personnel shall, upon reasonable notice, attend and participate in compliance briefings conducted by Company representatives; and
+
+Conflict.GovtCommunication._Sec=Supplier agrees that neither it nor any of Supplier Personnel shall communicate in any manner with: <ol><li>any officer or employee of any Federal agency of the United States for or on behalf of Company with respect to any contract or federal procurement; or</li><li>any member of Congress or any employee of a member of Congress for or on behalf of Company with respect to any matter.</li></ol>
+
+Limit._Sec=<u>Limitation of Liability</u>.<br>Neither party to this Agreement shall have liability to the other with respect to claims arising out of, in connection with or resulting from this Agreement, whether in contract, tort (including negligence of any degree) or otherwise except as provided under the terms of this Agreement.
+
+Release._Sec=<u>Release of Claims</u>.<br>In consideration of the execution of this Agreement by Company, Supplier hereby releases Company from all claims, demands, contracts and liabilities, if any, as of the date of execution of this Agreement, except indebtedness, which may be owing upon a written contract signed by Company.
+
+Signature.Witness=In Witness Whereof, the parties hereto have caused this Agreement to be executed by their respective authorized representatives as of the date first written above.
+
+1.4=1.4
+
+3.5.1=3.5(1)
+
+3.5.2=3.5(2)
+
+4.4=4.4
+
+6.2.1=6.2(1)
+
+6.2.3=6.2(3)
+
+11.3.2-11.3.4=11.3(2)-(4)
+
+AGT.Exh.A=Exhibit A
+
+AGT.Exh.B=Exhibit B
+
+AGT.Exh.C=Exhibit C
+
+AGT.Exh.D=Exhibit D
+
+AGT.Exh.E=Exhibit A
+
+Def.Xnum=21
+
+Def.Personal_Data.Xnum={Def.Xnum}
+
+Notice.Block= <table><tbody><tr><td>{P1.Notice.Block}</td><td>{P2.Notice.Block}</td> </tr></tbody></table>
+
+AGT.Attach=<hr><hr><center><b>Exhibit {AGT.Exh.A}</b></center><hr><hr><center><b>Exhibit {AGT.Exh.B}</b></center><hr><hr><center><b>Exhibit {AGT.Exh.C}</b></center><hr><hr><center><b>Exhibit {AGT.Exh.D}</b></center>
+	
+Dispute.Law.State.of=the State of {Dispute.Law}

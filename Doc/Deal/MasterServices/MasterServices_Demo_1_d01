@@ -1,14 +1,15 @@
-=[Form/AGT/Master/Form_AGT_MasterServices.txt]
+=[Form/AGT/Master/Form_AGT_MasterServices]
 
 =[Person/Demo_Relationship_Acme_Quake.txt]
+
+P1.ID.ParentAndSub={P1.ID.N,E,A} on behalf of itself and its affiliates
 
 P1.Handle=Company
 
 P2.Handle=Supplier
 
-P1.ID.ParentAndSub={P1.ID.N,E,A} on behalf of itself and its affiliates
-
 AGT.Title=Acme Master Services Agreement
+
 AGT.Effective.YMD=May 26, 2014
 
 Services.Description=HR management
@@ -25,15 +26,15 @@ email.CWD.com=admin@contingentworkers.com
 
 CWD.Addr.1,2=111 Main Street, Indianapolis, Indiana 46077
 
-bComp.Intro.NB= 
+Comp.Intro.NB={_delete!_}
 
 P1.FinanceWing.Name=Acme Receiving Corporation Company
 
 P1.FinanceWing.-=ARCC
 
-Law.of=New York
+Dispute.Law=New York
 
-Payment.DueAfter.Days=one hundred and twenty (120) days
+Payment.DueAfter.Days=180 days
 
 EarlyPaymentDiscount.%=0.0333%
 
@@ -49,11 +50,11 @@ Base.Prime.Rate.%=3.25%
 
 EarlyPaymentDiscount.Example.3.%=0.34%
 
-bAssure.General.Occur.$=$3,000,000
+Assure.General.Occur.$=$3,000,000
 
-bAssure.General.Total.$=$5,000,000
+Assure.General.Total.$=$5,000,000
 
-bAssure.Auto.Occur.$=$2,000,000
+Assure.Auto.Occur.$=$2,000,000
 
-bAssure.Prof.Occur.$=$5,000,000
+Assure.Prof.Occur.$=$5,000,000
 						

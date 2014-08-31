@@ -1,0 +1,16 @@
+Model.Root={_Sec}
+
+_Sec=<u>Definitions</u><ol><li>{Affiliate}</li><li>{Company_Property}</li><li>{Personal_Data}</li><li>{Proprietary_Information}</li><li>{Software_Product}</li><li>{Supplier's_Personnel}</li></ol>
+
+Supplier's_Personnel=<b>“Supplier’s Personnel”</b> means all persons providing Services under this Agreement.  
+
+Personal_Data=<b>“Personal Data”</b> means any information relating to an identified or identifiable natural person, including but not limited to any data relating to Supplier’s Personnel, as well as Company’s employees, officers, directors, shareholders, customers, prospects, contacts, suppliers or distributors.
+
+Software_Product=<b>“Software Product”</b> means any computer software product and related information.
+
+Proprietary_Information=<b>“Proprietary Information”</b> means: information that is or has been disclosed to Supplier by Company or its Affiliates: <ol><li>in writing or by email or other tangible electronic storage medium and is clearly marked “Confidential” or “Proprietary”; or</li><li>orally or visually, and then followed within thirty (30) working days thereafter with a summary or disclosure complying with the requirements of clause (i) above.</li></ol> Notwithstanding the foregoing, Proprietary Information also includes, without limitation: <ol><li>commercially valuable information of Company and its Affiliates and their successors and assigns, the design and development of which required considerable amounts of time and money;</li><li>any Software Product developed by Company and its Affiliates and/or their successors and assigns; and </li><li>any Company Property.</li></ol>
+
+Company_Property=<b>“Company Property”</b> means: <ol><li>Intellectual Property incorporated into the Services or any deliverables under this Agreement;</li><li>Intellectual Property conceived, produced or developed by Supplier, whether directly or indirectly or alone or jointly with others, in connection with or pursuant to Supplier’s performance of this Agreement; and</li><li>creations and inventions that are otherwise made by Supplier through the use of Company’s or its Affiliates’ equipment, funds, supplies, facilities, materials and/or Proprietary Information;</li></ol> provided, however, that any techniques, technology or tools independently developed by Supplier and not developed for or paid for by Company shall not be the Intellectual Property of Company.
+
+Affiliate=<b>“Affiliate”</b> means, with respect to either party, any entity, including without limitation, any individual, corporation, company, partnership, limited liability company or group, that directly, or indirectly through one or more intermediaries, controls, is controlled by or is under common control with such party.
+	

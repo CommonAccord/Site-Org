@@ -1,0 +1,23 @@
+P1.=[Person/ID_Acme_Inc.txt]
+
+P2.=[Person/ID_Quake_Inc.txt]
+
+AGT.Effective.YMD=<b>August 19, 2014</b>
+
+P1.Sign.YMD=August 20, 2014
+
+P1.xSignature=x Andrea Ang
+
+P2.Sign.YMD=August 18, 2014
+
+P2.xSignature=x Colleen Kendall
+
+Dispute.Forum._cl=the state courts sitting in the County of Santa Clara and the federal courts for the Northern District of California
+
+Law.Of=the state of California
+
+Model.Root={Default_Field}
+
+Default_Field={P1.ID.N,E,A}<hr>{P2.ID.N,E,A}
+
+	
