@@ -1,4 +1,4 @@
-=[Form/AGT/Master/Form_AGT_MasterService2.txt]
+=[Form/AGT/Master/Form_AGT_MasterServices.txt]
 
 =[Person/Demo_Relationship_Acme_Quake.txt]
 
@@ -56,4 +56,4 @@ bAssure.General.Total.$=$5,000,000
 bAssure.Auto.Occur.$=$2,000,000
 
 bAssure.Prof.Occur.$=$5,000,000
-				
+						
