@@ -22,14 +22,13 @@ Register.State=Delaware
 
 Register.Law.Corp.Title=Delaware General Corporation Law
 
+ID.Fax=617.345.1234
 
-ID.Addr.Type=principal
+ID.Addr.1=811 Waterfront Road
 
-ID.Addr.1=233 Main Street
+ID.Addr.2=Boston, MA  02210
 
-ID.Addr.2=Redwood City, CA  94063
-
-ID.Fax=207.555.5511
+ID.Addr.Type=principal business
 
 Notice.ID.Name.Ms={President.ID.Name.Full}, {President.Title}
 
@@ -41,11 +40,11 @@ President.Title=President
 
 DA.ID.Name.Full=Abigail Altima
 
-DA.ID.Addr.1,2=111 Water Street, Portland ME 00001
+DA.ID.Addr.1,2={ID.Addr.1,2}
 
-DA.ID.Phone=207.555.5550
+DA.ID.Phone=617.555.5550
 
-DA.ID.Fax=207.555.5551
+DA.ID.Fax={ID.Fax}
 
 DA.ID.Email={takedown@we.com}
 

@@ -2,9 +2,13 @@
 
 ID.Name.Full=Quake Inc.
 
-ID.Addr.1=811 Hamlin Road
+ID.Addr.Type=principal
 
-ID.Addr.2=Redwood City, CA  94063
+ID.Addr.1=233 Curtis Street
+
+ID.Addr.2=Menlo Park, CA  94025
+
+ID.Fax=650.555.5511
 
 ID.Addr.Type=business
 
@@ -14,10 +18,7 @@ President.ID.Name.Full=Colleen Kendall
 
 President.Title=President and Chairman 
 
-ID.Fax=650.345.1234
-
 Notice.ID.Name.Ms={President.ID.Name.Full}, {President.Title}
-
 
 ID.SignBy=By: <u>{xSignature}</u><br/>Name: {President.ID.Name.Full}<br/>Its: {President.Title}
 
@@ -26,11 +27,6 @@ Sign.ID.Name.Full={President.ID.Name.Full}
 Sign.Title={President.Title}
 
 ID.Email=Kendall@quake.com
-
-
-The={-}
-
-the={-}
 
 ID.Entity=Delaware corporation
 
