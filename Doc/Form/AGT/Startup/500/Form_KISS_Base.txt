@@ -36,7 +36,7 @@ Def.Conversion_Price.iii.tx=with respect to a conversion pursuant to Section 2.3
 
 Def.Corporate_Transaction._Sec=&ldquo;Corporate Transaction&rdquo; shall mean (i) the closing of the sale, transfer or other disposition of all or substantially all of the Company's assets, (ii) the consummation of the merger or consolidation of the Company with or into another entity (except a merger or consolidation in which the holders of capital stock of the Company immediately prior to such merger or consolidation continue to hold at least 50% of the voting power of the capital stock of the Company or the surviving or acquiring entity), (iii) the closing of the transfer (whether by merger, consolidation or otherwise), in one transaction or a series of related transactions, to a person or group of affiliated persons (other than an underwriter of the Company's securities), of the Company's securities if, after such closing, such person or group of affiliated persons would hold 50% or more of the outstanding voting stock of the Company (or the surviving or acquiring entity), or (iv) the liquidation, dissolution or winding up of the Company; provided, however, that a transaction shall not constitute a Corporate Transaction if its sole purpose is to change the state of the Company's incorporation or to create a holding company that will be owned in substantially the same proportions by the persons who held the Company's securities immediately prior to such transaction.  Notwithstanding the prior sentence, the sale of shares of Preferred Stock in a bona fide financing transaction shall not be deemed a &ldquo;Corporate Transaction.&rdquo;
 
-Def.Corporate_Transaction_Payment._Sec=&ldquo;Corporate Transaction Payment&rdquo; shall mean an amount equal to {Corporate_Transaction_Payment.Equals}
+Def.Corporate_Transaction_Payment._Sec=&ldquo;Corporate Transaction Payment&rdquo; shall mean an amount equal to {Corporate_Transaction_Payment.$}.
 
 Alternatives Debt/Equity
 
@@ -201,6 +201,4 @@ Equity.Misc.Entire=5.13
 Debt.Misc.PariPassu._Sec={_delete_}
 
 Equity.Misc.PariPassu._Sec=<u>Priority</u>.  This KISS shall rank pari passu in all respects (including right of payment) to all other KISSes and all convertible indebtedness of the Company, now or hereafter existing.
-
-
 

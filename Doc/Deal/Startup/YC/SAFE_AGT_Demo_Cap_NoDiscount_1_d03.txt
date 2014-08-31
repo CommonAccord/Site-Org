@@ -1,4 +1,4 @@
-=[Deal/Startup/YC_SAFE_AGT_Demo_Cap_NoDiscount_1_d02.txt]
+=[Deal/Startup/YC/SAFE_AGT_Demo_Cap_NoDiscount_1_d02.txt]
 
 Changed Terms=
 
