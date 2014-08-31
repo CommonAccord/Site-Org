@@ -1,14 +1,14 @@
-J=In rendering, handle missing files like missing fields, i.e., ignore and keep moving.
+J=In rendering, handle missing files like missing fields, i.e., ignore and keep moving.  At least TELL me what is missing.
 
-K=A view of the "Raw" text. Source view of the file (the direct source, not the key=values as table).  An extra click pops it into an editor (at least when run locally).  Very powerful.
+K=A view of the "Raw" text. Source view of the file (the direct source, not the key=values as table).  An extra click pops it into an editor (at least when run locally).  Very powerful.  DONE!
 
-L=A view of missing fields and files. (Render doc, but return only the missing fields and missing files.
+L=A view of missing fields and files. (Render doc, but return only the missing fields and missing files.)
 
-M=Get website installed locally (on Jim's)
+M=Get website installed locally (on Jim's)  DONE!
 
 N=New Diff view - which shows diff between a field and the one it overrides.  I.e., if a field in the Top file overrides another field in the Dictionary, then the show diff btw it's value and the value of the overridden field.
 
-O=Edit view of the Rendered doc.  Each expansion wrapped in metadata that marks it's origin.  Each expansion can be clicked open and closed.  Can pop up the source value into an edit window. (A _good_ use of a pop-up.)  Color differences between text based on either layer of expansion or origin of text. (These colors want to be variable by user - draw the values from a config file of k/vs.)
+O=Edit view of the Rendered doc.  Each expansion wrapped in metadata that marks it's origin.  Each expansion can be clicked open and closed.  Can pop up the source value into an edit window. (A _good_ use of a pop-up.)  Color differences between text based on either layer of expansion or origin of text. (These colors want to be variable by user - draw the values from a config file of k/vs.)  AS A QUICK PLACEHOLDER - Wrap with color the values that come from the top file. Very useful.  (or let us create our own list of colors correlated with files)
 
 P=List of fields upstream.  What-can-I-say.  
 
@@ -24,6 +24,7 @@ Model.Root={Ya's Priorties}<br>{Jim's Priorities}
 
 Ya's Priorities=??
 
-Jim's Priorities=<br>{R}<br>{M}<br>{J}<br>{K}<br>{L}<br>{N}<br>{P}
+Jim's Priorities=<br>{R}<br>{J}<br>{L}<br>{N}<br>{P}
 
+U=relative paths in references -- Conf.=[./Sec/Conf_Library]
 

@@ -2,9 +2,17 @@
 
 =[Person/Demo_Relationship_Acme_Quake.txt]
 
+<b>P1 - Company</br>=
+
 P1.ID.ParentAndSub={P1.ID.N,E,A} on behalf of itself and its affiliates
 
 P1.Handle=Company
+
+P1.FinanceWing.Name=Acme Receiving Corporation Company
+
+P1.FinanceWing.-=ARCC
+
+<b>P2 - Supplier</b>=
 
 P2.Handle=Supplier
 
@@ -28,11 +36,9 @@ CWD.Addr.1,2=111 Main Street, Indianapolis, Indiana 46077
 
 Comp.Intro.NB={_delete!_}
 
-P1.FinanceWing.Name=Acme Receiving Corporation Company
+ClaimForAdjustment.days=within ten (10) days
 
-P1.FinanceWing.-=ARCC
-
-Dispute.Law=New York
+Dispute.Law.State=New York
 
 Payment.DueAfter.Days=180 days
 
@@ -57,4 +63,4 @@ Assure.General.Total.$=$5,000,000
 Assure.Auto.Occur.$=$2,000,000
 
 Assure.Prof.Occur.$=$5,000,000
-						
+				

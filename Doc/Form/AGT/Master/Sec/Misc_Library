@@ -1,10 +1,8 @@
 Model.Root={_Sec}
 
-_Sec=<u>Miscellaneous</u>. <ol><li>{Waive._Sec}</li><li>{Notice._Sec}</li><li>{Trump._Sec}</li><li>{eDeal._Sec}</li><li>{Entire._Sec}</li><li>{Amend._Sec}</li><li>{English._Sec}</li></ol>
+_Sec=<u>Miscellaneous</u>. <ol><li>{Waive._Sec}</li><li>{Trump._Sec}</li><li>{eDeal._Sec}</li><li>{Entire._Sec}</li><li>{Amend._Sec}</li><li>{English._Sec}</li></ol>
 
 Waive._Sec=<u>Waiver and Failure to Enforce</u>.<br>No claim or right arising out of a breach of this Agreement can be discharged in whole or in part by a waiver or renunciation unless the waiver or renunciation is supported by consideration and is in writing signed by the aggrieved party.  Company’s failure to enforce at any time or for any period of time any provision hereof shall not be construed to be a waiver of such provision or of the right to Company thereafter to enforce each and every such provision.
-
-Notice._Sec=<u>Notices</u>.<br>Notices and other communications between the parties shall be in English and shall be deemed to be validly given if transmitted in writing, by registered mail, overnight courier or personal delivery, in all cases signature required, to the other party at the address and to the contact set forth below.  Either party may change its address by giving notice to the other party as provided for herein.<br>{Notice.Block}
 
 Trump._Sec=<u>Acceptance of Terms and Conditions</u>.<br>The parties agree to be bound by and to comply with all the terms and conditions of this Agreement, including any supplements thereto and all specifications and other documents referred to in this Agreement.  This Agreement does not constitute an acceptance by Company of any offer to sell, any quotation or any proposal.  Reference in this Agreement to any such offer to sell, quotation or proposal shall in no way constitute a modification of any of the terms of this Agreement.  The terms of this Agreement take precedence over any alternative terms and conditions in any other document connected with this transaction unless such alternative terms are expressly incorporated by reference on the face of this Agreement.  ANY ATTEMPTED ACKNOWLEDGMENT OF THIS AGREEMENT CONTAINING TERMS AND CONDITIONS INCONSISTENT WITH OR IN ADDITION TO THE TERMS AND CONDITIONS OF THIS AGREEMENT IS NOT BINDING UPON COMPANY UNLESS SPECIFICALLY ACCEPTED BY COMPANY IN WRITING.
 
