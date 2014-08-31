@@ -46,7 +46,7 @@ Misc.=[Form/AGT/Master/Sec/Misc_Library]
 
 Def.=[Form/AGT/Master/Sec/Def_Library]
 
-Prologue.Intro=This Master Services Agreement (&ldquo;MSA&rdquo; or &ldquo;Agreement&rdquo;) is entered into as of {Effective Date} (&ldquo;Effective Date&rdquo;) by and between {P1.ID.ParentAndSub} (&ldquo;Company&rdquo;) and {P2.ID.N,E,A}, (&ldquo;Supplier&rdquo;).&nbsp; <br>
+Prologue.Intro=This Master Services Agreement (&ldquo;MSA&rdquo; or &ldquo;Agreement&rdquo;) is entered into as of {AGT.EffectiveDate.YMD} (&ldquo;Effective Date&rdquo;) by and between {P1.ID.ParentAndSub} (&ldquo;Company&rdquo;) and {P2.ID.N,E,A}, (&ldquo;Supplier&rdquo;).&nbsp; <br>
 
 AGT.Secs._Lost= <ol><li>{Engage._Sec}</li><li>{Term._Sec}</li><li>{Staff._Sec}</li><li>{Comp._Sec}</li><li>{Conf._Sec}</li><li>{IP._Sec}</li><li>{PersonalInfo._Sec}</li><li>{TangibleProperty._Sec}</li><li>{Test._Sec}</li><li>{Warrant._Sec}</li><li>{Assure._Sec}</li><li>{Relate._Sec}</li><li>{Comply._Sec}</li><li>{Environ._Sec}</li><li>{Conflict._Sec}</li><li>{Expire._Sec}</li><li>{Limit._Sec}</li><li>{Release._Sec}</li><li>{Notice._Sec}</li><li>{Dispute._Sec}</li><li>{Misc._Sec}</li><li>{Def._Sec}</li></ol>
 
