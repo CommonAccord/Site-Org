@@ -1,6 +1,7 @@
 <?php
 error_reporting(E_ALL);
 $path = '/var/www/www.commonaccord.org/Alpha/';
+
 if(!isset($_REQUEST['action'])) { 
 	$_REQUEST['action'] = "list"; 
 }
@@ -14,10 +15,10 @@ if(isset($_REQUEST['file'])) {
 if($_REQUEST['action'] == 'list') {
 
 if(! ($dir == 'Doc/')) {
-	$rootdir = pathinfo($dir);
+	$rootdir = pathinfo($dir);	
 	echo "<a href=$_SERVER[PHP_SELF]?action=list&file=$rootdir[dirname]/>$rootdir[dirname]</a><br><br>";
 }
-echo "<u>$dir:</u><br><br>";
+echo "<u>$dir:</u><br><br><br><br>";
 
 
 $files = scandir($dir);
@@ -51,11 +52,11 @@ $content = file_get_contents($dir, FILE_USE_INCLUDE_PATH);
 $contents = explode("\n", $content);
 
 $rootdir = pathinfo($dir);
+$filenameX = basename($dir);
 
 echo "
-<a href=$_SERVER[PHP_SELF]?action=list&file=$rootdir[dirname]/>$rootdir[dirname]</a><br>
-$dir<br>
-<h2>Source --> <a href=$_SERVER[PHP_SELF]?action=render&file=$dir>Render</a> --> <a href=$_SERVER[PHP_SELF]?action=edit&file=$dir>Edit</a></h2>
+<a href=$_SERVER[PHP_SELF]?action=list&file=$rootdir[dirname]/>$rootdir[dirname]</a><br><br>
+$filenameX   (<a href=$_SERVER[PHP_SELF]?action=edit&file=$dir>Edit</a>):  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; <a href=$_SERVER[PHP_SELF]?action=render&file=$dir><b>Show the Document</b></a><br><br><br><br>
 
 <table border=1>
 
