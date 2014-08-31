@@ -4,6 +4,14 @@ We.=[Person/ID_Acme_Inc.txt]
 
 We.Handle=<b>Acme</b>
 
+App=AcMapp
+
+Network=AcMoney.txt
+
+System=AcMagora
+
+takedown@we.com=takedown@acme.com
+
 Dispute.Laws.State.of=the Commonwealth of Massachusetts
 
 Arb.Institute=JAMS

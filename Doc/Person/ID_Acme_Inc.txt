@@ -6,14 +6,6 @@ ID.Name.Full=Acme Inc.
 
 www.com=www.acme.com
 
-App=AcMapp
-
-Network=AcMoney.txt
-
-System=AcMagora
-
-takedown@we.com=takedown@acme.com
-
 info@we.com=info@acme.com
 
 ID.Entity=Delaware corporation
