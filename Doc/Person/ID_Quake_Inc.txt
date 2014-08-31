@@ -16,6 +16,9 @@ President.Title=President and Chairman
 
 ID.Fax=650.345.1234
 
+Notice.ID.Name.Ms={President.ID.Name.Full}, {President.Title}
+
+
 ID.SignBy=By: <u>{xSignature}</u><br/>Name: {President.ID.Name.Full}<br/>Its: {President.Title}
 
 Sign.ID.Name.Full={President.ID.Name.Full}

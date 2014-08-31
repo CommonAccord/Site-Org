@@ -1,6 +1,6 @@
 Model.Root={_Sec}
 
-_Sec=<u>Governing Law and Venue</u>. <ol><li>{Law._Sec}</li><li>{Amical._Sec}<br></li><li>{Forum._Sec}</li></ol>
+_Sec=<u>Disputes; Law</u>. <ol><li>{Law._Sec}</li><li>{Amical._Sec}<br></li><li>{Forum._Sec}</li></ol>
 
 Law._Sec=<u>Applicable Law</u>.&nbsp; Each party&rsquo;s rights and obligations under or in connection with this Agreement shall be governed by the laws of {Law.State.of} (excluding its conflict of laws rules).&nbsp; The parties exclude application of the United Nations Convention on Contracts for the International Sale of Goods.
 

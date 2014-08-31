@@ -52,7 +52,7 @@ AGT.Secs._Lost= <ol><li>{Engage._Sec}</li><li>{Term._Sec}</li><li>{Staff._Sec}</
 
 Signature.Witness=In Witness Whereof, the parties hereto have caused this Agreement to be executed by their respective authorized representatives as of the date first written above.
 
-Notice.Block=<table><tbody><tr><td>{P1.Notice.Block}</td><td>{P2.Notice.Block}</td> </tr></tbody></table>
+Notice.Block=<table><tbody><tr><td>{P1.Notice.Block}</td><td width="100"></td><td>{P2.Notice.Block}</td> </tr></tbody></table>
 
 
 AGT.Attach=<hr><hr><center><b>Exhibit {AGT.Exh.A}</b></center><hr><hr><center><b>Exhibit {AGT.Exh.B}</b></center><hr><hr><center><b>Exhibit {AGT.Exh.C}</b></center><hr><hr><center><b>Exhibit {AGT.Exh.D}</b></center>
