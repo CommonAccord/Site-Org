@@ -1,0 +1,19 @@
+=[Class/ID]
+
+entity=individual
+
+entity.a=an {entity}
+
+Name.Full={Name.FL}
+
+Name.FmL={Name.First} {Name.M}. {Name.Last}
+
+Name.FL={Name.First} {Name.Last}
+
+Name.L,F={Name.Last}, {Name.First}
+
+Model.Root={Addr.Table}<br>{Pronoun.List}
+
+Pronoun.List={male-female}, {He-She}, {he-she}, {Him-Her}, {him-her}, {His-Her}, {his-her}, {His-Hers}, {his-hers}, {Himself-Herself}, {himself-herself}
+ 
+													

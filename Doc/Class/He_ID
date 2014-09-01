@@ -1,13 +1,5 @@
-Entity=Individual
+=[Class/Individual_ID]
 
-entity=individual
-
-Entity.a=a {entity}
-
-Entity.A=A {entity}
-
-ID.SignBy=<u>{xSignature}</u>
- 
 Male-Female=Male
 
 male-female=male
@@ -30,4 +22,4 @@ his-hers=his
 
 Himself-Herself=Himself
 
-himself-herself=himself
+himself-herself=himself		

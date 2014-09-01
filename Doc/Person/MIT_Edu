@@ -1,4 +1,6 @@
-Handle=MIT
+=[Class/ID.txt]
+
+ID.=[Place/USA/MA/Middlesex/Cambridge/Massachusetts_Avenue/Geo]			
 
 ID.Name.Full=Massachusetts Institute of Technology
 
@@ -11,6 +13,3 @@ ID.Addr.Zip=02139-4307
 ID.Addr.Type=official
 
 ID.Entity=corporation
-
-=[Class/ID.txt]
-ID.=[Place/USA/MA/Middlesex/Cambridge/Massachusetts_Avenue/Geo]			
