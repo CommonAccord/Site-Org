@@ -1,0 +1,16 @@
+Handle=MIT
+
+ID.Name.Full=Massachusetts Institute of Technology
+
+Corp=MIT Corporation
+
+ID.Addr.Street.#=77
+
+ID.Addr.Zip=02139-4307
+
+ID.Addr.Type=official
+
+ID.Entity=corporation
+
+=[Class/ID.txt]
+ID.=[Place/USA/MA/Middlesex/Cambridge/Massachusetts_Avenue/Geo]			
