@@ -1,0 +1,14 @@
+=[Class/Entity_ID]
+
+=[Place/USA/MA/Middlesex/Cambridge/Massachusetts_Avenue/Geo]			
+
+Name.Full=Massachusetts Institute of Technology
+
+Addr.Street.#=77
+
+Addr.Zip=02139-4307
+
+Addr.Type=official
+
+entity=corporation
+	
