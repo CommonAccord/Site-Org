@@ -1,4 +1,4 @@
-=[Deal/Escrow/Demo_Escrow_Step_1_Parties.txt]
+=[Deal/Escrow/Demo_Escrow_Step_1_Parties]
 
 Escrow.Sign.YMD=2014-08-13
 
@@ -14,4 +14,4 @@ Delivery-Claim.Delay=24 hours
 
 Delivery-Payment.TimeSpan=48 hours
 
-Escrow.Fee.$=$1.50
+Escrow.Fee.$=$1.50	

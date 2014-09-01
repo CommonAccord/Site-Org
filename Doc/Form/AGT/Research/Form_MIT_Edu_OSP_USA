@@ -1,8 +1,12 @@
 http://osp.mit.edu/sites/osp/files/mit-research-agreement-for-us-sponsors-april2013-web.pdf
 
+=[Form/AGT/Base/AGT_Frame.txt]
+
+=[Form/AGT/Research/Form_MIT_Edu_OSP_USA_Schedule_Confidentiality]
+
 Prologue.Heading={P1.OSP} Research Agreement
 
-Prologue.ThisAgreement=This Research Agreement (&ldquo;Agreement&rdquo;) is made effective as of {AGT.Effective.YMD} (the &ldquo;Effective Date&rdquo;), by and between {P1.ID.N,E,A} (hereinafter referred to as &ldquo;{P1.Handle}&rdquo; ), and {P2.ID.N,E,A}  (hereinafter referred to as the &ldquo;Sponsor&rdquo; ).  "Party" shall mean the Sponsor or {P1.Handle} as the context dictates, and when used in the plural, shall mean the Sponsor and {P1.Handle}. 
+Prologue.ThisAgreement=This Research Agreement (&ldquo;Agreement&rdquo;) is made effective as of {AGT.Effective.YMD} (the &ldquo;Effective Date&rdquo;), by and between {P1.N,E,A} (hereinafter referred to as &ldquo;{P1.Handle}&rdquo; ), and {P2.N,E,A}  (hereinafter referred to as the &ldquo;Sponsor&rdquo; ).  "Party" shall mean the Sponsor or {P1.Handle} as the context dictates, and when used in the plural, shall mean the Sponsor and {P1.Handle}. 
 
 Prologue.Recital=WHEREAS, the research program contemplated by this Agreement is of mutual interest and benefit to {P1.Handle} and to the Sponsor, and will further the instructional and research objectives of {P1.Handle} in a manner consistent with its status as a non-profit, tax-exempt, educational institution.
 
@@ -64,7 +68,7 @@ EduIP.TRP._Sec=<u>Rights in TRP</u>.<br>In the event that {P1.Handle} elects to 
 
 EduIP.LicenseDate._Sec=<u>License Effective Date</u>.<br>All licenses elected by the Sponsor pursuant to Sections B., E. and F. of this Article 11 become effective as of the date the Parties sign a separate license agreement.
 
-Marks._Sec=<u>Use of Names</u>.<br>The Sponsor and its affiliates shall not use the name &ldquo;{P1.ID.Name.Full}&rdquo; or any variation, adaptation, or abbreviation thereof, or the name of any of {P1.Handle}&rsquo;s trustees, officers, faculty members, students, employees, or agents, or any trademark owned by {P1.Handle}, in any promotional material or other public announcement or disclosure without the prior written consent of {P1.Handle}&rsquo;s Technology Licensing Office, which consent {P1.Handle} may withhold in its sole discretion.
+Marks._Sec=<u>Use of Names</u>.<br>The Sponsor and its affiliates shall not use the name &ldquo;{P1.Name.Full}&rdquo; or any variation, adaptation, or abbreviation thereof, or the name of any of {P1.Handle}&rsquo;s trustees, officers, faculty members, students, employees, or agents, or any trademark owned by {P1.Handle}, in any promotional material or other public announcement or disclosure without the prior written consent of {P1.Handle}&rsquo;s Technology Licensing Office, which consent {P1.Handle} may withhold in its sole discretion.
 
 Disclaim._Sec=<u>Representations and Warranties</u>.<br> <span style="text-transform; uppercase">{P1.Handle} MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND CONCERNING THE RESEARCH OR ANY INTELLECTUAL PROPERTY RIGHTS AND HEREBY DISCLAIMS ALL REPRESENTATIONS AND WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT OF INTELLECTUAL PROPERTY RIGHTS OF {P1.Handle} OR THIRD PARTIES, CREATION, VALIDITY, ENFORCEABILITY AND SCOPE OF ANY INTELLECTUAL PROPERTY RIGHTS OR CLAIMS, WHETHER ISSUED OR PENDING, AND THE ABSENCE OF LATENT OR OTHER DEFECTS, WHETHER OR NOT DISCOVERABLE.  IN NO EVENT SHALL EITHER PARTY, ITS TRUSTEES, DIRECTORS, OFFICERS, EMPLOYEES, STUDENTS AND AFFILIATES, BE LIABLE FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES OF ANY KIND, INCLUDING ECONOMIC DAMAGES OR LOST PROFITS, REGARDLESS OF WHETHER THE PARTY WAS ADVISED, HAD OTHER REASON TO KNOW OR IN FACT KNEW OF THE POSSIBILITY OF THE FOREGOING.  THIS ARTICLE 13 SHALL SURVIVE THE EXPIRATION OR ANY EARLIER TERMINATION OF THIS AGREEMENT.</span>
 
@@ -109,9 +113,5 @@ Attach.Wiring=C (Wiring Instructions)
 Attach.Conf=D (Confidentiality)
 
 Attach.Notice=E (Notices)
-
-=[Form/AGT/Base/AGT_Frame.txt]
-
-=[Form/AGT/Research/Form_MIT_Edu_OSP_USA_Schedule_Confidentiality.txt]
 
 

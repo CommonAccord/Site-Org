@@ -10,6 +10,8 @@ info@we.com=info@acme.com
 
 ID.Entity=Delaware corporation
 
+ID.Entity.a=a {ID.Entity}
+
 Register.State=Delaware
 
 Register.Law.Corp.Title=Delaware General Corporation Law
@@ -41,3 +43,4 @@ DA.ID.Fax={ID.Fax}
 DA.ID.Email={takedown@we.com}
 
 				
+	

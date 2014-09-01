@@ -14,7 +14,7 @@ P2.Handle=Investor
 
 AGT.Title=SAFE (Simple Agreement for Future Equity)
 
-Prologue.ThisAgreement=THIS CERTIFIES THAT in exchange for the payment by {P2.ID.N,E,A} (the &ldquo;Investor&rdquo;) of {Purchase_Amount.$} (the &ldquo;Purchase Amount&rdquo;) on or about {Payment.YMD}, {P1.ID.N,E,A} (the &ldquo;Company&rdquo;), hereby issues to the Investor the right to certain shares of the Company&rsquo;s capital stock, subject to the terms set forth below. 
+Prologue.ThisAgreement=THIS CERTIFIES THAT in exchange for the payment by {P2.N,E,A} (the &ldquo;Investor&rdquo;) of {Purchase_Amount.$} (the &ldquo;Purchase Amount&rdquo;) on or about {Payment.YMD}, {P1.N,E,A} (the &ldquo;Company&rdquo;), hereby issues to the Investor the right to certain shares of the Company&rsquo;s capital stock, subject to the terms set forth below. 
 
 Prologue.Recital=&nbsp;
 

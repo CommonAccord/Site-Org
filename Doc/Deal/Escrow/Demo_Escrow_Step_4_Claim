@@ -1,12 +1,16 @@
 =[Form/LTR/Claim/Escrow_AGT_Claim]
 
-=[Deal/Escrow/Demo_Escrow_Step_3_Signature.txt]
+=[Deal/Escrow/Demo_Escrow_Step_3_Signature]
 
 Claim.YMD=2014-08-16
 
 Purchaser.Claim.Description=Three cases were of the wrong type and one case had three broken jars that leaked on the packaging.
 
 Purchaser.Remedy.Description=Let me keep the three wrong type cases and send me two new cases as compensation.
+
+Delivery.YMD=2014-08-15
+
+Parcel.#=S-98765
 
 Purchaser.Claim.Signature=xRoberta
 
@@ -16,4 +20,4 @@ Purchaser.Signature=xPurchaser
 
 Agent.Signature=xAgent
 
-Arbitrator.Signature=xArbitrator
+Arbitrator.Signature=xArbitrator		

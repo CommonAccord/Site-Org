@@ -1,0 +1,34 @@
+=[Class/Entity_ID]
+
+<b>Quake Info</b>
+
+Name.Full=Quake Inc.
+
+Addr.Type=principal
+
+Addr.1=233 Curtis Street
+
+Addr.2=Menlo Park, CA  94025
+
+Fax=650.555.5511
+
+Addr.Type=business
+
+BusinessDomain=information services consulting
+
+President.Name.Full=Colleen Kendall
+
+President.Title=President and Chairman 
+
+Notice.Name,Title={President.Name.Full}, {President.Title}
+
+SignBy=By: <u>{xSignature}</u><br/>Name: {President.Name.Full}<br/>Its: {President.Title}
+
+Sign.Name.Full={President.ID.Name.Full}
+
+Sign.Title={President.Title}
+
+Email=Kendall@quake.com
+
+Entity=Delaware corporation
+		

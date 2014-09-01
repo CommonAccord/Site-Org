@@ -1,0 +1,27 @@
+AGT.Attach=<b> </b>
+
+=[Form/AGT/NDA/Form_MIT_TLO_Mutual]
+
+=[Deal/MIT/Sample_MIT_Quake_Relationship]
+
+P1.Handle=MIT
+
+P2.Handle=Company
+
+AGT.Effective.YMD=August 23, 2014
+
+State.Of=the Commonwealth of Massachusetts
+
+AGT.Attach=
+
+Deal.#=Contract 2014-01-234l2
+
+Sign.YMD=September 1, 2014
+
+P1.xSignature=x Hazard
+
+P2.xSignature=x C Kendall
+
+
+
+																	

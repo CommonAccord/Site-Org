@@ -1,0 +1,44 @@
+=[Class/Entity_ID]
+
+Register.Agent.=[Person/The_Corporation_Company.txt]
+
+Name.Full=Acme Inc.
+
+www.com=www.acme.com
+
+info@we.com=info@acme.com
+
+Entity=Delaware corporation
+
+Register.State=Delaware
+
+Register.Law.Corp.Title=Delaware General Corporation Law
+
+Fax=617.345.1234
+
+Addr.1=811 Waterfront Road
+
+Addr.2=Boston, MA  02210
+
+Addr.Type=principal business
+
+Notice.Name.Ms={President.Name.Full}, {President.Title}
+
+SignBy=By: <u>{xSignature}</u><br/>Name: {President.Name.Full}<br/>Its: {President.Title}
+
+President.Name.Full=Andrea Ang
+
+President.Title=President
+
+DA.Name.Full=Abigail Altima
+
+DA.Addr.1,2={ID.Addr.1,2}
+
+DA.Phone=617.555.5550
+
+DA.Fax={Fax}
+
+DA.Email={takedown@we.com}
+
+Notice.Name,Title={President.Name.Full}, {President.Title}
+				

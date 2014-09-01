@@ -1,0 +1,26 @@
+=[Form/AGT/Startup/YC/SAFE/Delta_YC_SAFE_Cap_NoDiscount]
+
+=[Form/AGT/Startup/YC/SAFE/Form_YC_SAFE_Investment]
+
+P1.=[at/acme_incorporated]
+
+P2.=[at/quake_incorporated]
+
+State.Of=the State of California
+
+Payment.YMD=September 2, 2014
+
+Purchase_Amount.$=$50,000
+
+SAFE.Valuation_Cap.$=$2,000,000
+
+AGT.Effective.YMD=August 28, 2014
+
+Sign.YMD=August 24, 2014
+
+P1.xSignature= x A Ang
+
+P2.xSignature= x C Kendall
+
+
+			

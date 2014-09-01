@@ -85,14 +85,14 @@ Debt.Convert.NextEquity.CashPayInterest=Notwithstanding the foregoing, accrued i
 
 Equity.Convert.NextEquity.CashPayInterest={_delete_}
 
-Debt.Convert.2.Option2={_delete_}
+Debt.Convert.Corporate.Option2={_delete_}
 
-Equity.Convert.2.Option2=the Investor shall be paid the Corporate Transaction Payment, prior and in preference to any distribution of any of the cash or other assets of the Company to holders of the Company's capital stock by reason of their ownership of such stock
+Equity.Convert.Corporate.Option2=the Investor shall be paid the Corporate Transaction Payment, prior and in preference to any distribution of any of the cash or other assets of the Company to holders of the Company's capital stock by reason of their ownership of such stock
 
 
 Convert.NextEquity._Sec=<u>Next Equity Financing</u>.  Upon the closing of the Next Equity Financing, this KISS will be automatically converted into that number of Conversion Shares equal to the quotient obtained by dividing {Convert.NextEquity.Numerator} by the Conversion Price. {Convert.NextEquity.CashPayInterest} At least five (5) days prior to the closing of the Next Equity Financing, the Company shall notify the Investor in writing of the terms under which the Preferred Stock of the Company will be sold in such financing.  The issuance of Conversion Shares pursuant to the conversion of this KISS shall be upon and subject to the same terms and conditions applicable to the Preferred Stock sold in the Next Equity Financing (or the Shadow Series, as applicable).
 
-Convert.Corporate._Sec=<u>Corporate Transaction</u>.  In the event of a Corporate Transaction prior to the conversion of this KISS pursuant to Section 2.1 or 2.3, at Investor's election, (i) this KISS shall be converted into that number of Conversion Shares equal to the quotient obtained by dividing {Convert.NextEquity.Numerator} by the Conversion Price; or (ii) {Equity.2.2.Option2}.  At least ten (10) days prior to the closing of the Corporate Transaction, the Company shall notify the Investor in writing of the terms of the Corporate Transaction.
+Convert.Corporate._Sec=<u>Corporate Transaction</u>.  In the event of a Corporate Transaction prior to the conversion of this KISS pursuant to Section 2.1 or 2.3, at Investor's election, (i) this KISS shall be converted into that number of Conversion Shares equal to the quotient obtained by dividing {Convert.NextEquity.Numerator} by the Conversion Price; or (ii) {Convert.Corporate.Option2}.  At least ten (10) days prior to the closing of the Corporate Transaction, the Company shall notify the Investor in writing of the terms of the Corporate Transaction.
 
 Convert.Maturity._Sec=<u>Maturity Conversion</u>.  Unless earlier converted to Conversion Shares or paid pursuant to Section 2.1 or 2.2, at the election of the Majority in Interest at any time on or after the Maturity Date, this KISS shall be converted into that number of Conversion Shares equal to the quotient obtained by dividing {Convert.NextEquity.Numerator} by the Conversion Price.
 
@@ -174,9 +174,9 @@ Signature={Co.Sign.Block}<br><b>ACKNOWLEDGED AND AGREED:</b>{Investor.Sign.Block
 
 <b>Parameters for Debt/Equity</br>=We’re putting the materials for both alternatives here.  They are selected (for dept or equity) in the Delta pages.
 
-Debt.NowTherefore.1=FOR VALUE RECEIVED, {Co.ID.Name.Full}, a Delaware corporation (the &ldquo;Company&rdquo;), hereby promises to pay to the order of {Investor.ID.N,E,A} (the &ldquo;Investor&rdquo;), the principal sum of the Purchase Price, together with interest thereon from the Date of Issuance.  Interest shall accrue at the Interest Rate.  Unless earlier converted into Conversion Shares pursuant to Section 2, the principal and accrued interest shall be due and payable by the Company on demand by the Majority in Interest at any time after the Maturity Date.
+Debt.NowTherefore.1=FOR VALUE RECEIVED, {Co.Name.Full}, a Delaware corporation (the &ldquo;Company&rdquo;), hereby promises to pay to the order of {Investor.N,E,A} (the &ldquo;Investor&rdquo;), the principal sum of the Purchase Price, together with interest thereon from the Date of Issuance.  Interest shall accrue at the Interest Rate.  Unless earlier converted into Conversion Shares pursuant to Section 2, the principal and accrued interest shall be due and payable by the Company on demand by the Majority in Interest at any time after the Maturity Date.
 
-Equity.NowTherefore.1=For the Purchase Price, the receipt and sufficiency of which is hereby acknowledged, this KISS is issued on the Date of Issuance by {Co.ID.Name.Full}, a Delaware corporation (the &ldquo;Company&rdquo;), to {Investor.ID.N,E,A} (the &ldquo;Investor&rdquo;)
+Equity.NowTherefore.1=For the Purchase Price, the receipt and sufficiency of which is hereby acknowledged, this KISS is issued on the Date of Issuance by {Co.Name.Full}, a Delaware corporation (the &ldquo;Company&rdquo;), to {Investor.N,E,A} (the &ldquo;Investor&rdquo;)
 
 Debt.Misc.Payment.CreditPayment=accrued interest due and payable and any remainder applied to principal or} the Corporate Transaction Payment, as applicable.  Prepayment of principal, together with accrued interest, may not be made without the prior written consent of the Investor.
 

@@ -1,12 +1,12 @@
 =[Form/AGT/Master/Form_AGT_MasterServices]
 
-P1.=[Person/ID_Acme_Inc.txt]
+P1.=[at/acme_incorporated]
 
-P2.=[Person/ID_Quake_Inc.txt]
+P2.=[at/quake_incorporated]
 
 <b>P1 - Company</br>=
 
-P1.ID.ParentAndSub={P1.ID.N,E,A} on behalf of itself and its affiliates
+P1.ParentAndSub={P1.N,E,A} on behalf of itself and its affiliates
 
 P1.Handle=Company
 
@@ -69,3 +69,4 @@ Assure.Auto.Occur.$=$2,000,000
 Assure.Prof.Occur.$=$5,000,000
 				
 
+		

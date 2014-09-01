@@ -12,8 +12,11 @@ Name.FL={Name.First} {Name.Last}
 
 Name.L,F={Name.Last}, {Name.First}
 
+Name,Title={Name.Full}, {Title}
+
+
 Model.Root={Addr.Table}<br>{Pronoun.List}
 
 Pronoun.List={male-female}, {He-She}, {he-she}, {Him-Her}, {him-her}, {His-Her}, {his-her}, {His-Hers}, {his-hers}, {Himself-Herself}, {himself-herself}
  
-													
+														

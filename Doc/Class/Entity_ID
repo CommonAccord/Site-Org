@@ -7,10 +7,10 @@ entity.a=a {entity}
 
 Model.Root={Addr.Table}<br>{Pronoun.List}
 
+SignBy=By: <u>{xSignature}</u><br/>Name: {Sign.Name.Full}<br/>Its: {Sign.Title}
+ 
 Pronoun.List={male-female}, {He-She}, {he-she}, {Him-Her}, {him-her}, {His-Her}, {his-her}, {His-Hers}, {his-hers}, {Himself-Herself}, {himself-herself}
 
-SignBy=By: <u>{xSignature}</u><br/>Name: {Sign.ID.Name.Full}<br/>Its: {Sign.Title}
- 
 Male-Female=Legal
 
 male-female=legal
@@ -34,4 +34,4 @@ his-hers=its
 Himself-Herself=itself
 
 himself-herself=itself
-			
+					
