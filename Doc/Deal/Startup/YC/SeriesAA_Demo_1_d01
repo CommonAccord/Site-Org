@@ -1,4 +1,4 @@
-=[Form/AGT/Startup/YC/SeriesAA/Binder_YC_AA.txt]
+=[Form/AGT/Startup/YC/SeriesAA/Binder_YC_AA]
 
 Co.=[Person/ID_Acme_Inc.txt]
 
@@ -107,4 +107,4 @@ Inv.1.Sign.YMD=August 29, 2014
 Co.xSignature=x Andrea Ang
 
 Inv.1.xSignature=C Kendall
-						
+							

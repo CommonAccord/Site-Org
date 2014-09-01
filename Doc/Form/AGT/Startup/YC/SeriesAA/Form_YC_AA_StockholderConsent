@@ -1,6 +1,6 @@
 =[Form/AGT/Base/AGT_Frame.txt]
 
-Board.=[Form/AGT/Startup/YC/SeriesAA/Form_YC_AA_BoardConsent.txt]
+Board.=[Form/AGT/Startup/YC/SeriesAA/Form_YC_AA_BoardConsent]
 
 R1={Board.R1}
 
