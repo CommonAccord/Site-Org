@@ -1,3 +1,5 @@
+=[Class/ID.txt]
+
 Entity.a=a {Entity}
 
 ID.SignBy=By: <u>{xSignature}</u><br/>Name: {Sign.ID.Name.Full}<br/>Its: {Sign.Title}
