@@ -14,6 +14,12 @@ Model.Root={_Sec}
 
 11.3.2-11.3.4=11.3(2)-(4)
 
+17=17
+
+17.4={17}.4
+
+17.5={17}.5
+
 AGT.Exh.A=Exhibit A
 
 AGT.Exh.B=Exhibit B
@@ -29,3 +35,8 @@ Expire.Xnum=17
 Def.Xnum=21
 
 Def.Personal_Data.Xnum={Def.Xnum}
+
+Schedule B=Schedule B
+
+Schedule F=Schedule F
+

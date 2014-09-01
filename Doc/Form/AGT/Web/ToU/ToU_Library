@@ -24,11 +24,7 @@ YourRisk.YouControl._Lost=<ol><li>{YourRisk.YouControl.Payment._cl}</li><li>{You
 
 Copyright._Sec=<u>Copyright and Limited License</u>.&nbsp;  <ol><li>{Copyright.WeOwn._Sec}</li><li>{Copyright.YourLicense._Sec}</li></ol>
 
-UserContent._Sec=<u>User Content</u><ol><li>{UserContent.Has._Sec}</li><li>{UserContent.Banned._Sec}</li><li>{UserContent.NotMonitored._Sec}</li><li>{UserContent.TakeDown._Sec}</li><li>{UserContent.License._Sec}</li><li>{UserContent.Rep._Sec}</li></ol>
-
-UserContent.Banned._Sec=By using the Site, you agree not to post, upload to, transmit, distribute, store, create or otherwise publish or send through the Site any of the following:{UserContent.Banned._Lost}
-
-UserContent.Banned._Lost=<ol><li>{UserContent.Banned.Uncouth._cl}</li><li>{UserContent.Banned.Unlawful._cl}</li><li>{UserContent.Banned.Impinge._cl}</li><li>{UserContent.Banned.Infringe._cl}</li><li>{UserContent.Banned.Masks._cl}</li><li>{UserContent.Banned.Virus._cl}</li><li>{UserContent.Banned.Unwanted._cl}</li></ol>
+UserContent.=[Form/AGT/Web/ToU/Sec/UserContent_Library]
 
 TakeDown._Sec=<u>Copyright Complaints</u>.&nbsp;  <ol><li>{TakeDown.To._Sec}</li><li>{TakeDown.Form._Sec}</li><li>{TakeDown.False._Sec}</li></ol>
 
@@ -39,7 +35,6 @@ LinkLicense._Sec=<u>Hyperlinks</u>.&nbsp;  <ol><li>{LinkLicense.Grant._Sec}</li>
 3PartyContent._Sec=<u>Third Party Content</u>.&nbsp;  <ol><li>{3PartyContent.Host._Sec}</li><li>{3PartyContent.AsIs._Sec}</li><li>{3PartyContent.NoRep._Sec}</li><li>{3PartyContent.NoPrivity._Sec}</li></ol>
 
 Feedback._Sec=<u>Feedback</u>.&nbsp;  <ol><li>{Feedback.YouGive._Sec}</li><li>{Feedback.WeOwn._Sec}</li></ol>
-
 Liability-Misc._Sec=<u>Liability; Miscellaneous</u><ol><li>{Indemnify._Sec}</li><li>{Disclaim._Sec}</li><li>{LimitLiab._Sec}</li><li>{Law._Sec}</li><li>{Dispute._Sec}</li><li>{Misc.Survive._Sec}</li><li>{Misc.Sever._Sec}</li></ol>
 
 Indemnify._Sec=<u>Indemnification</u>.&nbsp; <ol><li>{Indemnify.YouWill._Sec}</li><li>{Indemnify.Limits._Sec}</li><li>{Indemnify.Control._Sec}</li></ol>
@@ -50,7 +45,7 @@ LimitLiab._Sec=<u>Limitation of Liability</u><ol style="text-transform: uppercas
 
 Dispute._Sec={Arbitration._Sec}
 
-Arbitration._Sec=<u>Arbitration</u><ol><li style="text-transform: uppercase">{Arb.Warning._Sec}</li><li>{Arb.Agree._Sec}</li><li>{Arb.Procedure._Sec}</li><li>{Arb.Discovery._Sec}</li><li>{Arb.Remedy._Sec}</li><li>{Arb.NoClass._Sec}</li><li>{Arb.NoQuasiClass._Sec}</li><li>{Arb.Sever._Sec}</li></ol>
+Arbitration.=[Form/AGT/Web/ToU/Sec/Arbitration_Library]
 
 <b>Introduction</b>=-
 
@@ -130,31 +125,6 @@ Copyright.WeOwn._Sec=Unless otherwise indicated on the Site, the Site and all co
 
 Copyright.YourLicense._Sec=You are granted a limited, non-sublicensable license to access and use the Site and {We.Handle} Materials; subject to these Terms.&nbsp; Except as expressly permitted on the Site, in these Terms or otherwise in writing by {We.Handle}, such license does not include: (a) any resale or commercial use of the Site or the {We.Handle} Materials; (b) the distribution, public performance or public display of any {We.Handle} Materials; (c) modifying or otherwise making any derivative uses of the Site and the {We.Handle} Materials, or any portion thereof; (d) use of any data mining, robots or similar data gathering or extraction methods; (e) downloading (other than the page caching) of any portion of the Site, the {We.Handle} Materials or any information contained therein; or (f) any use of the Site or the {We.Handle} Materials other than for its intended purpose.&nbsp; Any use of the Site or the {We.Handle} Materials other than as specifically authorized herein, without the prior written permission of {We.Handle}, is strictly prohibited and will terminate the license granted herein.&nbsp; Such unauthorized use may also violate applicable laws, including, without limitation, copyright and trademark laws and applicable communications regulations and statutes.&nbsp; Unless explicitly stated herein, nothing in these Terms will be construed as conferring any license to intellectual property rights, whether by estoppel, implication or otherwise.&nbsp; This license is revocable at any time.
 
-UserContent.Has._Sec=The Site includes interactive areas or services (&ldquo;Interactive Areas&rdquo;) in which you or other users may create, post, send or store ads, messages, materials, data, information, text, music, sound, photos, video, graphics, applications, code, links or other items or content on the Site (&ldquo;User Content&rdquo;).
-
-UserContent.Has._Sec=The Site includes interactive areas or services (&ldquo;Interactive Areas&rdquo;) in which you or other users may create, post, send or store ads, messages, materials, data, information, text, music, sound, photos, video, graphics, applications, code, links or other items or content on the Site (&ldquo;User Content&rdquo;).
-
-UserContent.Banned.Uncouth._cl=User Content that is unlawful, libelous, defamatory, obscene, pornographic, indecent, lewd, suggestive, harassing, threatening, abusive, inflammatory, fraudulent, false, misleading or otherwise objectionable;
-
-UserContent.Banned.Unlawful._cl=User Content that would constitute, encourage or provide instructions for a criminal offense, violate the rights of any party or that would otherwise create liability or violate any local, state, national or international law;
-
-UserContent.Banned.Impinge._cl=User Content that may impinge upon the publicity, privacy or data protection rights of others, including pictures or information about another individual where you have not obtained such individual&rsquo;s consent;
-
-UserContent.Banned.Infringe._cl=User Content that may infringe any patent, trademark, trade secret, copyright or other intellectual or proprietary right of any party.&nbsp; By posting any User Content, you represent and warrant that you have the lawful right to distribute and reproduce such User Content;
-
-UserContent.Banned.Masks._cl=User Content that impersonates any person or entity or otherwise misrepresents your affiliation with a person or entity;
-
-UserContent.Banned.Virus._cl=Viruses, corrupted data or other harmful, disruptive or destructive files; or
-
-UserContent.Banned.Unwanted._cl=User Content that, in the sole judgment of {We.Handle}, is objectionable or which restricts or inhibits any other person from using or enjoying the Interactive Areas, the Site, or which may expose {We.Handle} or its users to any harm or liability of any type.
-
-UserContent.NotMonitored._Sec={We.Handle} does not control, take responsibility for or assume liability for any User Content posted, stored or uploaded by you or any third party, or for any loss or damage thereto, nor is {We.Handle} liable for any user conduct or any mistakes, defamation, slander, libel, omissions, falsehoods, obscenity, pornography or profanity you may encounter.&nbsp; When you participate in Interactive Areas, you understand that certain information and content you choose to post may be displayed publicly or to select users.&nbsp; You are solely responsible for your use of the Site and the Interactive Areas and use them at your own risk.
-
-UserContent.TakeDown._Sec=If you become aware of User Content that you believe violates these Terms, you may report it by emailing {We.takedown@we.com}.&nbsp; Enforcement of the Terms, however, is solely in our discretion and the absence of enforcement of these Terms in some instances does not constitute a waiver of our right to enforce the Terms in other instances.&nbsp; In addition, these Terms do not create any private right of action on the part of any third party or any reasonable expectation or promise that the Site will not contain any content that is prohibited by the Terms.&nbsp; Although {We.Handle} has no obligation to screen, edit or monitor any of the User Content posted on the Site, {We.Handle} reserves the right, and has absolute discretion, to remove, screen or edit any User Content posted or stored on the Site at any time and for any reason without notice, and you are solely responsible for creating backup copies and replacing any User Content you post or store on the Site at your sole cost and expense.&nbsp; Any use of the Site in violation of these Terms may result in, among other things, termination or suspension of your rights to use the Interactive Areas and/or the Site.
-
-UserContent.License._Sec=Except as otherwise provided herein, on the Site or in a separate agreement (such as the rules of an {We.Handle} contest), {We.Handle} claims no ownership or control over any User Content.&nbsp; However, if you post User Content to the Site, you grant {We.Handle} a nonexclusive, royalty-free, perpetual, irrevocable and fully sublicensable right to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, perform and display such User Content on our websites and on third-party sites.&nbsp; This license will terminate when you remove your User Content, except that the license will continue with respect to any offsite uses that have already been made and any cached or archived uses that may still exist when User Content is removed.&nbsp; By posting User Content, you hereby release {We.Handle} and its agents and employees from any claims that such use, as authorized above, violates any of your rights and you understand that you will not be entitled to any additional compensation for any use of your User Content.
-
-UserContent.Rep._Sec=By posting User Content to the Site, you represent and warrant that: (a) such User Content is non-confidential; (b) you own and control all of the rights to the User Content or you otherwise have the right to post and use such User Content and to grant the rights to {We.Handle} that you grant in these Terms; (c) the User Content is accurate and not misleading or harmful in any manner; and (d) the User Content, and your use and posting thereof in connection with this Site, does not, and will not, violate these Terms or any applicable law, rule or regulation.
 
 Reoffend._Sec=<u>Repeat Infringer Policy</u><br>In accordance with the Digital Millennium Copyright Act (&ldquo;DMCA&rdquo;) and other applicable law, {We.Handle} has adopted a policy of terminating, in appropriate circumstances and in {We.Handle}&rsquo;s sole discretion, users who are deemed to be repeat infringers.&nbsp; {We.Handle} may also, in its sole discretion, limit access to the Site and/or terminate the Account of any user who infringes any intellectual property rights of others, whether or not there is any repeat infringement.
 
@@ -230,25 +200,9 @@ LimitLiab.MayNotApply._Sec=Some jurisdictions do not allow the limitation of lia
 
 Law._Sec=<u>Applicable Law and Venue</u><br>These Terms and your use of the Site will be governed by and construed in accordance with the laws of {Dispute.Laws.State.of}, without resort to its conflict of law provisions.&nbsp; You agree that any action at law or in equity arising out of or relating to these Terms not subject to arbitration (as set forth below), will be filed only in {Dispute.Forum._cl} and you hereby irrevocably and unconditionally consent and submit to the exclusive jurisdiction of such courts over any suit, action or proceeding arising out of these Terms.
 
-Arb.Warning._Sec=PLEASE READ THE FOLLOWING PARAGRAPH CAREFULLY BECAUSE IT REQUIRES YOU TO ARBITRATE DISPUTES WITH {We.Handle} AND IT LIMITS THE MANNER IN WHICH YOU CAN SEEK RELIEF.
-
-Arb.Agree._Sec=You and {We.Handle} agree to arbitrate any dispute arising from these Terms or relating to the Site, except that you and {We.Handle} are not required to arbitrate any dispute in which either party seeks equitable or other relief for the alleged unlawful use of copyrights, trademarks, trade names, logos, trade secrets or patents.&nbsp; ARBITRATION PREVENTS YOU FROM SUING IN COURT OR FROM HAVING A JURY TRIAL
-
-Arb.Procedure._Sec=You and {We.Handle} agree that you will notify each other of any dispute within thirty (30) days of when it arises, that you will attempt informal resolution prior to any demand for arbitration, that any arbitration will occur in San Francisco, California and that arbitration will be conducted confidentially by a single arbitrator in accordance with the rules of {Arb.Institute}.&nbsp; You and {We.Handle} also agree that {Dispute.Forum._cl} have exclusive jurisdiction over any appeals of an arbitration award and over any suit between the parties not subject to arbitration.
-
-Arb.Discovery._Sec=In any arbitration, the parties will not seek discovery from each other, and the arbitrator shall not allow parties to engage in discovery; rather, each party shall disclose the evidence supporting their positions at some mutually agreeable time and date prior to the final hearing.
-
-Arb.Remedy._Sec=Other than class procedures and remedies discussed below, the arbitrator has the authority to grant any remedy that would otherwise be available in court.
-
-Arb.NoClass._Sec=Neither you nor we will participate in a class action or class-wide arbitration for any claims covered by these Terms.
-
-Arb.NoQuasiClass._Sec=You also agree not to participate in claims brought in an private attorney general or representative capacity, or consolidated claims involving another person, if {We.Handle} is a party to the proceeding.
-
-Arb.Sever._Sec=If the prohibition against class actions and other claims brought on behalf of third parties contained above is found to be unenforceable, then that language shall be deemed to have been dropped from the Terms and the remaining obligations relating to arbitration shall continue in full force and effect.
-
 Blocking._Sec=<u>Termination and Suspension</u><br>Notwithstanding any of these Terms, {We.Handle} reserves the right, without notice and in its sole discretion, to terminate or suspend your right to use the Site, and to block or prevent your future access to, and use of, the Site.
 
-Misc.Survive._Sec=<u>Survival</u><br>Sections 4 (Assumption of Risk with {We.System}), 6 (User Content), 9 (Trademarks),11 (Third Party Content), 12 (Feedback), 15 (Liability; Miscellaneous) will survive any termination or expiration of these Terms.
+Misc.Survive._Sec=<u>Survival</u><br>Sections 4 (Assumption of Risk with {We.System}), 6 (User Content), 9 (Trademarks), 11 (Third Party Content), 12 (Feedback), 15 (Liability; Miscellaneous) will survive any termination or expiration of these Terms.
 
 Misc.Sever._Sec=<u>Severability</u><br>If any provision of these Terms is deemed unlawful, void or for any reason unenforceable, then that provision shall be deemed severable from these Terms and will not affect the validity and enforceability of any remaining provisions.
 

@@ -1,4 +1,4 @@
-=[Form/AGT/Web/ToU/Library]
+=[Form/AGT/Web/ToU/ToU_Library]
 
 We.=[Person/ID_Acme_Inc.txt]
 
@@ -14,6 +14,7 @@ We.takedown@we.com=takedown@acme.com
 
 Dispute.Laws.State.of=the Commonwealth of Massachusetts
 
-Arb.Institute=JAMS
+Arbitration.Institute=JAMS
 
 Dispute.Forum._cl=the state courts sitting in the County of Suffolk and the federal courts for the District of Massachusetts
+		

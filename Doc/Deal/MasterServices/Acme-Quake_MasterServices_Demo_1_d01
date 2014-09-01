@@ -26,7 +26,7 @@ Services.Description=HR management
 
 Term.End.YMD=December 31, 2019
 
-Conf.Engage.Duration=three (3) years from the date of each disclosure of Proprietary Information
+Confidential.Engage.Duration=three (3) years from the date of each disclosure of Proprietary Information
 
 P1.Guidelines=Acme Supplier Guidelines
 
@@ -36,7 +36,7 @@ email.CWD.com=admin@contingentworkers.com
 
 CWD.Addr.1,2=111 Main Street, Indianapolis, Indiana 46077
 
-Comp.Intro.NB={_delete!_}
+Compensation.Intro.NB={_delete!_}
 
 ClaimForAdjustment.days=within ten (10) days
 
