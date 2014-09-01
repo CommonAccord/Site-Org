@@ -1,0 +1,27 @@
+Entity.a=a {Entity}
+
+ID.SignBy=By: <u>{xSignature}</u><br/>Name: {Sign.ID.Name.Full}<br/>Its: {Sign.Title}
+ 
+Male-Female=Legal
+
+male-female=legal
+
+He-She=It
+
+he-she=it
+
+Him-Her=It
+
+him-her=it
+
+His-Her=Its
+
+his-her=its
+
+His-Hers=its
+
+his-hers=its
+
+Himself-Herself=itself
+
+himself-herself=itself

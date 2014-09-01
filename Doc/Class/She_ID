@@ -1,0 +1,33 @@
+Entity=Individual
+
+entity=individual
+
+Entity.a=a {entity}
+
+Entity.A=A {entity}
+
+ID.SignBy=<u>{xSignature}</u>
+ 
+Male-Female=Female
+
+male-female=female
+
+He-She=She
+
+he-she=she
+
+Him-Her=Her
+
+him-her=her
+
+His-Her=Her
+
+his-her=her
+
+His-Hers=her
+
+his-hers=hers
+
+Himself-Herself=Herself
+
+himself-herself=herself
