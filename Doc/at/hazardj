@@ -1,6 +1,6 @@
 =[Class/He_ID]
 
-=[Place/USA/MA/Middlesex/Cambridge/Massachusetts_Avenue/Geo]			
+=[Place/USA/MA/Middlesex/Somerville/Geo]			
 
 Name.First=James
 
@@ -11,4 +11,5 @@ Name.Middle=Gardiner
 Name.M=G
 
 Addr.Type=temporary
-			
+				
+Twitter.Followers=116	

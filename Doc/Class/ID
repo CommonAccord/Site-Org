@@ -16,6 +16,6 @@ Sign.Block=<table border="0" cellpadding="1" cellspacing="1" style="width:300px"
 
 Model.Root={Addr.Table}
 
-Addr.Table=<table  rules='rows'; border=1><tr><th>ID:</th><td></td><td></td></tr><tr><th>N,E,A:</th><td></td><td>{N,E,A}</td></tr><tr><th>N/1/2:</th><td></td><td>{N/1/2}</td></tr><tr><th>Sign.Block:</th><td></td><td>{Sign.Block}</td><tr></table>
+Addr.Table=<table  rules='rows'; border=1><tr><th>ID:</th><td></td><td></td></tr><tr><th>N,E,A:</th><td></td><td>{N,E,A}</td></tr><tr><th>Twitter.Followers:</th><td></td><td>{Twitter.Followers}</td></tr><tr><th>N/1/2:</th><td></td><td>{N/1/2}</td></tr><tr><th>Sign.Block:</th><td></td><td>{Sign.Block}</td><tr></table>
 
-				
+					
