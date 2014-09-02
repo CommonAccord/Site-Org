@@ -15,10 +15,10 @@ if(isset($_REQUEST['file'])) {
 if($_REQUEST['action'] == 'list') {
 
 if(! ($dir == 'Doc/')) {
-	$rootdir = pathinfo($dir);	
+	$rootdir = pathinfo($dir);
 	echo "<a href=$_SERVER[PHP_SELF]?action=list&file=$rootdir[dirname]/>$rootdir[dirname]</a><br><br>";
 }
-echo "<u>$dir:</u><br><br><br><br>";
+echo "$dir:<br><br>";
 
 
 $files = scandir($dir);
@@ -27,7 +27,7 @@ foreach($files as $f) {
 	if(is_dir($path.$dir.$f)) {
 		if( !( ($f == '.') || ($f == '..')) ) {
 
-			echo "<h3> &nbsp; <a href=$_SERVER[PHP_SELF]?action=list&file=$dir$f/>$f</a></h3>";
+			echo "<a href=$_SERVER[PHP_SELF]?action=list&file=$dir$f/>$f</a><br>";
 		}
 	}
 	else {
@@ -52,15 +52,16 @@ $content = file_get_contents($dir, FILE_USE_INCLUDE_PATH);
 $contents = explode("\n", $content);
 
 $rootdir = pathinfo($dir);
-$filenameX = basename($dir);
 
 echo "
-<a href=$_SERVER[PHP_SELF]?action=list&file=$rootdir[dirname]/>$rootdir[dirname]</a><br><br>
-$filenameX   (<a href=$_SERVER[PHP_SELF]?action=edit&file=$dir>Edit</a>):  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; <a href=$_SERVER[PHP_SELF]?action=render&file=$dir><b>Show the Document</b></a><br><br><br><br>
+<a href=$_SERVER[PHP_SELF]?action=list&file=$rootdir[dirname]/>$rootdir[dirname]</a><br>
+$dir<br>
+
+<h2>Source --> <a href=$_SERVER[PHP_SELF]?action=render&file=$dir>Render</a> --> <a href=$_SERVER[PHP_SELF]?action=edit&file=$dir>Edit</a></h2>
 
 <table border=1>
 
-<table rules='none'; border='0'>";
+<table rules='rows'; border=1>";
 
 foreach($contents as $n) {
 	list($k, $v) = array_pad( explode ("=", $n, 2), 2, null);
@@ -70,7 +71,7 @@ foreach($contents as $n) {
 	}
 	
 	echo "<tr>";
-	if(isset($k)) { echo "<th style='text-align:right'>$k</th><td width='20'></td><td>$v</td>"; }
+	if(isset($k)) { echo "<th>$k</th><td width='20'></td><td>$v</td>"; }
 	else { echo "$k"; }
 	echo "</tr>";
 }
