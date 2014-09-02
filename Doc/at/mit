@@ -1,12 +1,8 @@
 =[Class/Entity_ID]
 
-=[Place/USA/MA/Middlesex/Cambridge/Massachusetts_Avenue/Geo]			
+=[Place/USA/MA/Middlesex/Cambridge/Massachusetts_Avenue/77/Geo]
 
 Name.Full=Massachusetts Institute of Technology
-
-Addr.Street.#=77
-
-Addr.Zip=02139-4307
 
 Addr.Type=official
 
