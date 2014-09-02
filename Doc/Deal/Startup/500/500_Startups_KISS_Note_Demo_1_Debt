@@ -2,9 +2,9 @@
 
 =[Form/AGT/Startup/500/Form_KISS_Base]
 
-Co.=[at/quake_incorporated]
+Co.=[At/quake_incorporated]
 
-Investor.=[at/acme_incorporated]
+Investor.=[At/acme_incorporated]
 
 Co.Handle=Company
 
