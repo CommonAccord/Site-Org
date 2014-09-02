@@ -1,0 +1,30 @@
+List=(i) {Marked}, (ii) {SubjectMatter}; or (iii) {LiveConfirmed}
+
+Model.Root={_Sec}
+
+_Sec=<u>Notice of Confidentiality</u>.  {Intro._Cl}:<ol><li>{Marked._cl};</li><li>{SubjectMatter.ResearchAndPatent._cl};</li><li>{Live.DeclaredAndConfirmed._cl};</li><li>{Live.Declared._cl};</li><li>{Live.Premises._cl};</li><li>{Live.Meeting._cl};</li><li>{Objects._cl};</li><li>{Login._cl}; or</li><li>{Obvious._cl}.</li></ol>
+
+Intro._Cl={RP.The} is bound only with respect to information that
+
+FROM MIT TLO:
+
+Marked._cl=prior to disclosure, is marked with a legend indicating its confidential status
+
+SubjectMatter.ResearchAndPatent._cl=is disclosed by {P1.Handle} and is or relates to unpublished research, invention disclosures{q} or unpublished patent applications
+
+Live.DeclaredAndConfirmed._cl=is disclosed orally or visually, if {DP.the} identifies such information as confidential at the time of disclosure and, within 30 days of such disclosure, delivers to {RP.the}’s primary contact for receipt of Confidential Information a notice summarizing the confidential information disclosed
+
+OTHER:
+
+Live.Declared._cl=is identified as confidential at the time of disclosure
+
+Live.Premises._cl=is learned by discussion or observation during a visit to the premises of the Disclosing Party
+
+Live.Meeting._cl=is learned by discussion or observation during a face-to-face meeting of the parties
+
+Objects._cl=is learned from objects received by {RP.the} from {DP.the}
+
+Login._cl=is learned by accessing a database of {DP.the}
+
+Obvious._cl=is, by its nature or context, obviously confidential
+		

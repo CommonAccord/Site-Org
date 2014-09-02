@@ -2,5 +2,6 @@ Dispute._Sec=<u>Disputes</u><ol><li>{Dispute.Law._Sec}</li><li>{Dispute.Notice._
 
 MIT OSP provisions:
 
-=[Form/AGT/Sec/Library_MIT_OSP_AGT_Dispute.txt]
+=[Form/AGT/Sec/Library_MIT_OSP_AGT_Dispute]
 
+	
