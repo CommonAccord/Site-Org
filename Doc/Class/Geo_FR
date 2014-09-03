@@ -1,33 +1,19 @@
-Addr.State.the=the {Addr.State.Type} of {Addr.State}
+Adr.1={Adr.#_Rue}
 
-Addr.State.Type=State
+Adr.#_Rue={Adr.#} {Adr.Rue}
 
-Addr.1={Addr.Street.#} {Addr.Street}
+Adr.#_Rue,Suite={Adr.#_Street}, {Addr.Suite}
 
-Addr.2={Addr.City}, {Addr.ST}  {Addr.Zip}
+Adr.2={Adr.Zip} {Adr.Ville}
 
-#_Street,Suite={Addr.#_Street}, {Addr.Suite}
+Adr.1,2={Adr.1}, {Adr.2}
 
-Addr.1,2={Addr.1}, {Addr.2}
-Addr.1/2={Addr.1}<br>{Addr.2}
-Addr.1,2,UK={Addr.1} {Addr.2}, {Addr.UK}
-Addr.1/2/UK={Addr.1}<br>{Addr.2}<br>{Addr.Nation}
-Addr.1,2,UK,Attn={Addr.1,2,UK}, {Addr.Attn}
-Addr.1/2/UK/Attn={Addr.1/2/UK}<br>{Addr.Attn}
-Addr.H,1,2={Addr.Host}, {Addr.1,2}
-Addr.H/1/2={Addr.Host}<br>{Addr.1/2}
-Addr.H,1,2,UK={Addr.Host}, {Addr.1,2,UK}
-Addr.H/1/2/UK={Addr.Host}<br> {Addr.1/2/UK}
-Addr.N,1,2={Addr.Name}, {Addr.1,2}
-Addr.N/1/2={Addr.Name}<br>{Addr.1/2}
-Addr.N,1,2,UK={Addr.Name}, {Addr.1,2,UK}
-Addr.N/1/2/UK={Addr.Name}<br>{Addr.1/2/UK}
-Addr.N,H,1,2,UK={Addr.Name}, {Addr.H,1,2,UK}
-Addr.N/H/1/2/UK={Addr.Name}<br>{Addr.H/1/2/UK}
-Addr.N,H,1,2,UK,Attn={Addr.Name}, {Addr.H,1,2,UK}, {Addr.Attn}
-Addr.N/H/1/2/UK/Attn={Addr.Name}<br>{Addr.H/1/2/UK}<br>{Addr.Attn}
+Adr.1/2={Adr.1}<br>{Adr.2}
 
+Adr.1/2/UK={Adr.1}<br>{Adr.2}<br>{Adr.Nation}
+
+Adr.UK={Adr.Nation}
 
 Model.Root={Geo.?}
 
-Geo.?=<ul><li><table><tbody><tr><td><strong>N/H/1/2/UK/Attn:</strong></td><td><span style="background-color:#FFFFE0">{Addr.N/H/1/2/UK/Attn}</span></td></tr></tbody></table></li><li><strong>County:</strong>= <span style="background-color:#FFFFE0">{Addr.County}</span></li><li><strong>City:</strong>= <span style="background-color:#FFFFE0">{Addr.City}</span></li><li><strong>ST:</strong>  <span style="background-color:#FFFFE0">{Addr.ST}</span></li><li><strong>State:  </strong><span style="background-color:#FFFFE0">{Addr.State}</span></li><li><strong>Flower:  </strong><span style="background-color:#FFFFE0">{Flower}</span></li><li><strong>Zip.List</strong>: <span style="background-color:#FFFFE0">{Addr.Zip.List}</span></li><li><strong>Nation</strong>: <span style="background-color:#FFFFE0">{Addr.Nation}</span></li></ul>
+Geo.?={Geo.Adr.1/2/UK}	

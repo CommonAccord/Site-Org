@@ -2,7 +2,7 @@ AGT.Attach=<b> </b>
 
 =[Form/AGT/NDA/Form_MIT_TLO_Mutual]
 
-=[Relationship/mit_quake]
+=[With/mit_quake]
 
 P1.Handle=MIT
 
