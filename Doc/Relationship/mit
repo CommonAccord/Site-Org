@@ -2,13 +2,17 @@
 
 Contact1.=[At/tanya_taylor]
 
+Contact2.=[At/solomon_shirley]
+
+Notice.=[At/tanya_taylor]
+
+Notice.Title=Vice Admiral
+
 Sign.=[At/solomon_shirley]
 
 Sign.Title={Notice.Title}
 
-Notice.=[At/solomon_shirley]
 
-Notice.Title=Vice Admiral
-
-Contact2.=[At/solomon_shirley]
-										
+Model.Root=<ol><li>Contact1:<br>{Contact1.Model.Root}</li><li>Contact2:<br>{Contact2.Model.Root}</li><li>Notice:<br>{Notice.Model.Root}</li><li>Sign:<br>{Sign.Model.Root}</li></ol>																		
+		
+												

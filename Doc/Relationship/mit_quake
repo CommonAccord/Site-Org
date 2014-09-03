@@ -2,5 +2,5 @@ P1.=[Relationship/mit]
 
 P2.=[Relationship/quake]
 
-Model.Root={P1.Model.Root}<br>{P2.Model.Root}
-																		
+Model.Root=<ol><li>{P1.Name.Full} - P1:<br>{P1.Model.Root}</li><li>{P2.Name.Full} - P2: <br>{P2.Model.Root}</li></ol>
+																			
