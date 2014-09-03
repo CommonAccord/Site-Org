@@ -1,6 +1,0 @@
-P1.=[Deal/MIT/Sample_MIT_Relationships]
-
-P2.=[Deal/MIT/Sample_Quake_Relationships]
-
-Model.Root={P1.Model.Root}<br>{P2.Model.Root}
-															

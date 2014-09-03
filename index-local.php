@@ -94,7 +94,7 @@ else if($_REQUEST['action'] == 'edit') {
 
 echo "Editing $dir<br><br>
 <form action=$_SERVER[PHP_SELF] method='post'>
-        <textarea cols=100 rows=20  name='newcontent'>";
+        <textarea cols=100 rows=40  name='newcontent'>";
 
 echo file_get_contents($dir, FILE_USE_INCLUDE_PATH);
 
