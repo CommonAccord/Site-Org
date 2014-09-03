@@ -4,7 +4,7 @@ TS.Doc.Body= <ul><li>{Offering._Sec}</li><li>{Deal._Sec}</li><li>{InvRight._Sec}
 
 Offering._Sec=THE OFFERING<ul><li>{Issuer._Def}</li><li>{Securities._Def}</li><li>{Valuation._Def}</li><li>{Round.Total._Def}</li><li>{Round.Quantity._Def}</li><li>{Round.Price._Def}</li></ul>
 
-Issuer._Def=<u>Issuer</u>: {Co.ID.N,E,A} (the "Company")
+Issuer._Def=<u>Issuer</u>: {Co.N,E,A} (the "Company")
 
 Securities._Def=<u>Securities</u>: Series AA Preferred Stock (the "Preferred")
 
@@ -48,4 +48,4 @@ InvCov.StandOff._Sec=Market stand-off. Holders of Preferred will agree not to ef
 
 Agt.Signature=<table><tbody><tr><td>{Co.Sign.Block}</td><td>{Inv.1.Sign.Block}</td></tr></tbody></table></li>
 
-	
+		

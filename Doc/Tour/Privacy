@@ -11,12 +11,12 @@ DefinitionsSection
 
 Def.=[Form/AGT/Master/Sec/Definition_Library]
 
-Whole Doc=[Form/AGT/Master/Form_AGT_MasterServices]
+Whole Doc=[Form/AGT/Master/Form]
 
-Example of Use=[Deal/MasterServices/Acme-Quake_MasterServices_Demo_1_d01]
+Example of Use=[Deal/Master/Acme-Quake_MasterServices_Demo_1_d01]
 
 Privacy is closely related to NDAs:
-From a Research Agrement=[Form/AGT/Research/Form_MIT_Edu_OSP_USA_Schedule_Confidentiality]
+From a Research Agreement=[Form/AGT/Research/Form_MIT_Edu_OSP_USA_Schedule_Confidentiality]
 
 
-	
+		

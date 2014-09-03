@@ -8,9 +8,9 @@ AGT.Prologue=<div><center>{Prologue.Heading}</center></div>	<p><br>{Prologue.Int
 
 AGT.Sign=<table><tr><td>{Co.Sign.Block}</td><tr>{Inv.1.Sign.Block}</td></tr></table>
   
-Prologue.Heading={Co.ID.Name.Full} Action By Unanimous Written Consent of the Board of Directors
+Prologue.Heading={Co.Name.Full} Action By Unanimous Written Consent of the Board of Directors
 
-Prologue.Intro=In accordance with Sections 108(c) and 141(f) of the Delaware General Corporation Law and the Bylaws of {Co.ID.Name.Full}, a Delaware corporation (the “<strong>Company</strong>”), the undersigned, constituting all of the members of the Company’s Board of Directors (the “<strong>Board</strong>”), hereby adopt the following resolutions effective as of the last date of execution set forth below:
+Prologue.Intro=In accordance with Sections 108(c) and 141(f) of the Delaware General Corporation Law and the Bylaws of {Co.Name.Full}, a Delaware corporation (the “<strong>Company</strong>”), the undersigned, constituting all of the members of the Company’s Board of Directors (the “<strong>Board</strong>”), hereby adopt the following resolutions effective as of the last date of execution set forth below:
 
 agreement.S.Or=agreements, amendments, applications, approvals, certificates, communications, consents, demands, directions, documents, further assurances, instruments, notices, orders, requests, resolutions, supplements or undertakings
 

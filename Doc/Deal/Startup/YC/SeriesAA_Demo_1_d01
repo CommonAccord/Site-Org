@@ -1,8 +1,8 @@
 =[Form/AGT/Startup/YC/SeriesAA/Binder_YC_AA]
 
-Co.=[Person/ID_Acme_Inc.txt]
+Co.=[At/acme_incorporated]
 
-Inv.1.=[Person/ID_Quake_Inc.txt]
+Inv.1.=[At/quake_incorporated]
 
 Co.Handle=Company
 

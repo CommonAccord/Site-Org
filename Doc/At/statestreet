@@ -1,4 +1,4 @@
-=[Class/Entity_ID]
+=[Class/ID_Entity]
 
 =[Place/USA/MA/Suffolk/Boston/Geo]			
 
@@ -15,3 +15,4 @@ Addr.1.2=One Lincoln Street
 Addr.Zip=02111
 
 Phone=617-786-3000
+	

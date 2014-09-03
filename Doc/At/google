@@ -1,4 +1,4 @@
-=[Class/Entity_ID]
+=[Class/ID_Entity]
 
 =[Place/USA/CA/Santa_Clara/Mountain_View/Geo]			
 
@@ -13,4 +13,4 @@ Addr.Type=corporate
 entity=Delaware corporation
 
 Twitter.Followers=8.87M
-		
+			

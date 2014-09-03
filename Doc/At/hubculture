@@ -1,4 +1,4 @@
-=[Class/Entity_ID]
+=[Class/ID_Entity]
 
 =[Place/UK/London/Geo]			
 
@@ -15,4 +15,4 @@ Addr.Type=official
 entity=UK limited liability company
 
 Twitter.Followers=2,759
-		
+			

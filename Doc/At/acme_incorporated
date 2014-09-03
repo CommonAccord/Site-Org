@@ -1,6 +1,6 @@
-=[Class/Entity_ID]
+=[Class/ID_Entity]
 
-Register.Agent.=[Person/The_Corporation_Company.txt]
+Register.Agent.=[At/the_corporation_company]
 
 Name.Full=Acme Inc.
 
@@ -26,19 +26,16 @@ Notice.Name.Ms={President.Name.Full}, {President.Title}
 
 SignBy=By: <u>{xSignature}</u><br/>Name: {President.Name.Full}<br/>Its: {President.Title}
 
-President.Name.Full=Andrea Ang
+President.=[At/andrea_ang]
 
 President.Title=President
 
-DA.Name.Full=Abigail Altima
-
-DA.Addr.1,2={ID.Addr.1,2}
-
-DA.Phone=617.555.5550
-
-DA.Fax={Fax}
+DA.=[At/abigail_altima]
 
 DA.Email={takedown@we.com}
 
+DA.Fax={Fax}
+
 Notice.Name,Title={President.Name.Full}, {President.Title}
+				
 				

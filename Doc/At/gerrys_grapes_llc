@@ -1,0 +1,16 @@
+=[Class/ID_Entity]
+
+Name.Full=Gerry's Grapes, LLC
+
+Entity.a=a California LLC
+
+Addr.Type=business
+
+Addr.1=100 Broadway
+
+Addr.2=Redwood City, CA 94063
+
+Contact.Name.Ms=Ms. Graber
+
+Claim.Response.Delay=two business days from the date of the Claim
+		

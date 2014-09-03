@@ -1,17 +1,15 @@
-=[Form/AGT/Escrow/Escrow_AGT_Library]
+=[Form/AGT/Escrow/Form]
 
-Seller.=[Person/Gerrys_Grapes_LLC.txt]
+Seller.=[At/gerrys_grapes_llc]
 
-Purchaser.=[Person/Roberta_Robinson.txt]
+Purchaser.=[At/roberta_robinson]
 
-Agent.=[Person/Safe_Hands_Inc.txt]
+Agent.=[At/safe_hands_inc]
 
-Shipper.=[Person/Fabulous_Express_Inc.txt]
+Shipper.=[At/fabulous_express_inc]
 
-Arbitrator.=[Person/Solomon_Shirley.txt]
+Arbitrator.=[At/solomon_shirley]
 
-ARB.=[Form/AGT/Sec/Dispute/Arb/ToU_AGT_Dispute_Arb_Sec_Fit_For_Parties.txt]
+ARB.=[Form/AGT/Escrow/JAMS_Arbitration_Chicago]
 
-Arbitrator.Mandated.Clause={ARB.AGT.Dispute.Arb._Sec}
-
-ARB.Arb.Org=JAMS
+	

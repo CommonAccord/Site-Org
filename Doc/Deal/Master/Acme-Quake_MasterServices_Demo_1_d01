@@ -1,4 +1,4 @@
-=[Form/AGT/Master/Form_AGT_MasterServices]
+=[Form/AGT/Master/Form]
 
 P1.=[At/acme_incorporated]
 
@@ -67,6 +67,12 @@ Assure.General.Total.$=$5,000,000
 Assure.Auto.Occur.$=$2,000,000
 
 Assure.Prof.Occur.$=$5,000,000
+
+P1.xSignature=x Andrea Ang
+
+P2.xSignature=x C Kendall
+
+Sign.YMD=September 2, 2014
 				
 
-		
+				

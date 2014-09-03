@@ -1,4 +1,4 @@
-=[Class/Entity_ID]
+=[Class/ID_Entity]
 
 =[Place/USA/CA/San_Francisco/San_Francisco/Geo]			
 
@@ -13,4 +13,4 @@ Addr.Type=corporate
 entity=Delaware corporation
 
 Twitter.Followers=31.9M
-		
+			

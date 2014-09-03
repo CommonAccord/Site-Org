@@ -130,7 +130,7 @@ Reoffend._Sec=<u>Repeat Infringer Policy</u><br>In accordance with the Digital M
 
 TakeDown.To._Sec=If you believe anything on the Site infringes upon any copyright which you own or control, you may file a notification of such infringement with our Designated Agent as set forth below.<br><table><tr><td width="15%"></td><td>{We.DesignatedAgent.NoticeBlock}</td></tr></table>
 
-We.DesignatedAgent.NoticeBlock=Name of Designated Agent: {We.DA.ID.Name.Full}<br>Full Address of Designated Agent: {We.DA.ID.Addr.1,2}<br>Telephone Number of Designated Agent: {We.DA.ID.Phone}<br>Facsimile Number of Designated Agent: {We.DA.ID.Fax}<br>E-Mail Address of Designated Agent: {We.DA.ID.Email}<br>
+We.DesignatedAgent.NoticeBlock=Name of Designated Agent: {We.DA.Name.Full}<br>Full Address of Designated Agent: {We.DA.Addr.1,2}<br>Telephone Number of Designated Agent: {We.DA.Phone}<br>Facsimile Number of Designated Agent: {We.DA.Fax}<br>E-Mail Address of Designated Agent: {We.DA.Email}<br>
 
 TakeDown.Form._Sec=Please see 17 U.S.C. &sect; 512(c)(3) for the requirements of a proper notification.
 
