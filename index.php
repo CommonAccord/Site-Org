@@ -70,7 +70,7 @@ foreach($contents as $n) {
 	}
 	
 	echo "<tr>";
-	if(isset($k)) { echo "<th style='text-align:right'>$k</th><td width='20'></td><td>$v</td>"; }
+	if(isset($k)) { echo "<th height='10' style='text-align:right'>$k</th><td width='20'></td><td>$v</td>"; }
 	else { echo "$k"; }
 	echo "</tr>";
 }

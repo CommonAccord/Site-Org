@@ -1,9 +1,0 @@
-Model.Root={A}{P}{P}{L}{E}
-
-A=a
-P=p
-L=l
-E=e
-	
-
-	

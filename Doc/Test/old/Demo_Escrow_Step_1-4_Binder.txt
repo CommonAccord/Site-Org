@@ -1,9 +1,0 @@
-Model.Root=<ol><li>{Step1.Model.Root}</li><li>{Step2.Model.Root}</li><li>{Step3.Model.Root}</li><li>{Step4.Model.Root}</li></ol>
-
-Step1.=[Deal/Escrow/Demo_Escrow_Step_1_Parties.txt]
-
-Step2.=[Deal/Escrow/Demo_Escrow_Step_2_Order.txt]
-
-Step3.=[Deal/Escrow/Demo_Escrow_Step_3_Signature.txt]
-
-Step4.=[Deal/Escrow/Demo_Escrow_Step_4_Claim.txt]

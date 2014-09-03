@@ -1,5 +1,0 @@
-Deal1.=[Test/Demo_Escrow_Step_1-4_Binder.txt]
-
-Model.Root={Deal1.Model.Root}
-
-

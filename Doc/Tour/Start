@@ -1,38 +1,32 @@
-For a super-quick tour, follow this link and as many links from it as you like:=
+For a super-quick tour=These are a couple of links to show the structure of the system.<br>Click "Show the Document" to see the file rendered into a document:<br>Click in the upper left to go up. <br>Click on a link to visit the file.  
 
-Escrow.=[Deal/Escrow/Demo_Escrow_Step_1_Parties]
 
-=
-
-If you want to know more=These are a couple of links to show basic structure of the system.<br>Click "Show the Document" to see the file rendered into a document:<br>Click in the upper left to go up. <br>Click on a link to visit the file.  Note: we don't have a compact way to link to a folder, so we'll sometime point to a file and suggest to click UP (upper left).  
-
-Pull From=github.com/CommonAccord/Alpha
-
-ID3 home=[By/ID3/Doc_Samples]
-
-ToU.=By/id3/TermsOfUse_Demo_1
-
-Model.Root=<ol><li>{Escrow.Model.Root}</li></ol>
-
-Note.0=The Template Escrow Form<br>
-0.=[Form/AGT/Escrow/Form]
--=-
-Note.1=Template Escrow Form, with defined parties<br>
+The Template Escrow Form=[Form/AGT/Escrow/Form]
+=<br>									
+=<br>
+The Steps in a Transaction=
+1.Note=Template Escrow Form, with defined parties
 1.=[Deal/Escrow/Demo_Escrow_Step_1_Parties]
--=-
-Note.2=Template Escrow Form (building upon the formerly defined parties), adding the specific order information<br>
+=<br>
+2.Note=Template Escrow Form (building upon the formerly defined parties), adding the specific order information
 2.=[Deal/Escrow/Demo_Escrow_Step_2_Order]
--=-
-Note.3=Complete Escrow Form, with signature<br>
+=<br>
+3.Note=Complete Escrow Form, with signature
+=<br>
 3.=[Deal/Escrow/Demo_Escrow_Step_3_Signature]
--=-
-Note.4a=Template Claim by Purchaser<br>
-4.Form=[Form/Escrow/Claim_Form]
--=-
-Note.4b=Complete Claim form, by referencing the transaction<br>
+=<br>
+4.Note=Template Claim by Purchaser
+=<br>
+4.Form=[Form/AGT/Escrow/Claim_Form]
+=<br>
+4.Note2=Complete Claim form, by referencing the transaction
 4.=[Deal/Escrow/Demo_Escrow_Step_4_Claim]
-
-										
-
-
-				
+=<br>
+=<br>
+ID3 home=[By/id3/Doc_Samples]
+=<br>									
+Render a Terms of Use Document:=Click "Show the Document" (above)									
+ToU.=[By/id3/TermsOfUse_Demo_1]
+=<br>									
+Model.Root=<ol><li>{ToU.Model.Root}</li></ol>
+																			

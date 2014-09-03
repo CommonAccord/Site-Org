@@ -1,7 +1,0 @@
-Dispute._Sec=<u>Disputes</u><ol><li>{Dispute.Law._Sec}</li><li>{Dispute.Notice._Sec}</li><li>{Dispute.Mediate._Sec}</li><li>{Dispute.Forum._Sec}</li><li>{Dispute.JuryWaiver._Sec}</li><li>{Dispute.Consent._Sec}</li><li>{Dispute.Injunct._Sec}</li><li>{Dispute.AttyFee._Sec}</li></ol>
-
-MIT OSP provisions:
-
-=[Form/AGT/Sec/Library_MIT_OSP_AGT_Dispute]
-
-	

@@ -1,4 +1,0 @@
-Model.Root={A}{B}
-
-A=a
-B=b
