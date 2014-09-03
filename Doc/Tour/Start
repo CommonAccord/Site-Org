@@ -1,0 +1,15 @@
+For a super-quick tour, follow this link and as many links from it as you like:=
+
+Escrow.=[Deal/Escrow/Demo_Escrow_Step_1_Parties]
+
+=
+
+If you want to know more=These are a couple of links to show basic structure of the system.<br>Click "Show the Document" to see the file rendered into a document:<br>Click in the upper left to go up. <br>Click on a link to visit the file.  Note: we don't have a compact way to link to a folder, so we'll sometime point to a file and suggest to click UP (upper left).  
+
+Pull From=github.com/CommonAccord/Alpha
+
+ID3 home=[By/ID3/Doc_Samples]
+
+ToU.=By/id3/TermsOfUse_Demo_1
+
+Model.Root=<ol><li>{Escrow.Model.Root}</li><li>{Escrow.Model.Root}</li></ol>								

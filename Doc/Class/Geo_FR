@@ -16,4 +16,4 @@ Adr.UK={Adr.Nation}
 
 Model.Root={Geo.?}
 
-Geo.?={Geo.Adr.1/2/UK}	
+Geo.?={Adr.1/2/UK}			

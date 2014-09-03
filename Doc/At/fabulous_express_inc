@@ -1,5 +1,7 @@
 =[Class/ID_Entity]
 
+=[On/USA/TX/Travis/Austin/Geo]
+
 Name.Full=Fabulous Express, Inc.
 
 Entity.a=a Delaware corporation
@@ -8,4 +10,4 @@ Addr.Type=business
 
 Addr.1=333 Alamo Way
 
-Addr.2=Austin, TX 75123		
+Addr.Zip=75123			
