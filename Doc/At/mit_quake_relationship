@@ -1,6 +1,0 @@
-P1.=[At/mit_relationships]
-
-P2.=[At/quake_relationships]
-
-Model.Root={P1.Model.Root}<br>{P2.Model.Root}
-																

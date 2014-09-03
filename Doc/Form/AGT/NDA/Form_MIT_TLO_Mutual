@@ -40,9 +40,9 @@ Prologue.Recital={Contact._Sen}
 
 Contact._Sen=The primary contact(s) for {Contact.Roles._cl} are as follows: <table><tr><td>{P2.Contact.Block}</td><td width="100"></td><td>{P1.Contact.Block}</td></tr></table>
 
-P1.Contact.Block=For {P1.Handle}:<br>{P1.Contact1.N/A/T/E/F}<br>{P1.Contact2.N/A/T/E/F}
+P1.Contact.Block=For {P1.Handle}:<br><br>{P1.Contact1.N/A/T/E/F}<br><br>{P1.Contact2.N/A/T/E/F}
 
-P2.Contact.Block=For {P2.Handle}:<br>{P2.Contact1.N/A/T/E/F}<br>{P2.Contact2.N/A/T/E/F}
+P2.Contact.Block=For {P2.Handle}:<br><br>{P2.Contact1.N/A/T/E/F}<br><br>{P2.Contact2.N/A/T/E/F}
 
 Prologue.NowTherefore=In consideration of {Therefore.Roles}, the parties hereby agree as follows:
 
@@ -254,4 +254,4 @@ party=party
 
 relating to=relating to
 
-											
+												
