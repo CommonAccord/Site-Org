@@ -8,7 +8,6 @@ Notice.=[At/roberta_robinson]
 
 President.=[At/colleen_kendall]
 
-
-Model.Root=<ol><li>Contact1:<br>{Contact1.Model.Root}</li><li>Contact2:<br>{Contact2.Model.Root}</li><li>Notice:<br>{Notice.Model.Root}</li><li>President.Model.Root:<br>{President.Model.Root}</li></ol>																		
+Model.Root=<ol><li>N,E,A:<br>{N,E,A}</li><li>Contact1:<br>{Contact1.Model.Root}</li><li>Contact2:<br>{Contact2.Model.Root}</li><li>Notice:<br>{Notice.Model.Root}</li><li>President.Model.Root:<br>{President.Model.Root}</li></ol>																		
 		
-											
+												

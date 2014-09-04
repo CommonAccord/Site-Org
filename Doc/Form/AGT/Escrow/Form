@@ -2,23 +2,23 @@ Model.Root={EscrowAGT.Doc.Body}
 
 EscrowAGT.Doc.Body={AGT.Prologue} {AGT._Secs} {AGT.Signature}
 
-AGT.Prologue =<p><strong>ESCROW AGREEMENT</strong></p><p>{Intro.1}</p><p>{Intro.2}</p><p>{Intro.Whereas}<br> {Intro.NowTherefore}</p>
+AGT.Prologue =<p><strong>ESCROW AGREEMENT</strong></p><p>{Intro.ThisAgreement}</p><p>{Intro.OtherPersons}</p><p>{Intro.Whereas}<br> {Intro.NowTherefore}</p>
 
-Intro.1=This escrow agreement (“Escrow Agreement”) is made and entered into on {Escrow.Effective.YMD} by and among:<ul><li>{Purchaser.N,E,A}, (“Purchaser”),</li><li>{Agent.N,E,A}, (“Escrow Agent”),</li><li>{Seller.N,E,A} ("Seller"),</li></ul>as of {Escrow.Sign.YMD}.
+Intro.ThisAgreement=This escrow agreement (“Escrow Agreement”) is made and entered into on {Escrow.Effective.YMD} by and among:<ul><li>{Purchaser.N,E,A}, (“Purchaser”),</li><li>{Agent.N,E,A}, (“Escrow Agent”),</li><li>{Seller.N,E,A} ("Seller"),</li></ul>as of {Escrow.Sign.YMD}.
 
-Intro.2=Additional persons referenced in this Agreement are:<ul><li>{Shipper.N,E,A} ("Shipper"); and</li><li>{Arbitrator.N,E,A} ("Arbitrator").</li></ul>
+Intro.OtherPersons=Additional persons referenced in this Agreement are:<ul><li>{Shipper.N,E,A} ("Shipper"); and</li><li>{Arbitrator.N,E,A} ("Arbitrator").</li></ul>
 
-Intro.Whereas=<ul><li>{Intro.Whereas.1};</li><li>{Intro.Whereas.2};</li><li> {Intro.Whereas.3};</li><li>{Intro.Whereas.4}; and</li><li>{Intro.Whereas.5}.</li></ul>
+Intro.Whereas=<ul><li>{Intro.Whereas.TheAgreement};</li><li> {Intro.Whereas.TheDeposit};</li><li>{Intro.Whereas.AppointAgent};</li><li>{Intro.Whereas.AgentAccepts}; and</li><li>{Intro.Whereas.Arbitrator}.</li></ul>
 
-Intro.Whereas.1=WHEREAS, the Purchaser and the Seller have entered into a purchase agreement (“Purchase Agreement”) for the sale to the Purchaser of {Product.Description} (the “Products”) owned by the Seller in exchange for {Price.$} (the "Purchase Price") (altogether, the "Transaction")
+Intro.Whereas.TheAgreement=WHEREAS, the Purchaser and the Seller have entered into a purchase agreement (“Purchase Agreement”) for the sale to the Purchaser of {Product.Description} (the “Products”) owned by the Seller in exchange for {Price.$} (the "Purchase Price") (altogether, the "Transaction")
 
-Intro.Whereas.2=WHEREAS, pursuant to said Purchase Agreement, the Purchaser has agreed to deposit the Purchase Price into an Escrow Account ("the Escrow Account")
+Intro.Whereas.TheDeposit=WHEREAS, pursuant to said Purchase Agreement, the Purchaser has agreed to deposit the Purchase Price into an Escrow Account ("the Escrow Account")
 
-Intro.Whereas.3=WHEREAS, the Purchaser and the Seller have agreed to use the Escrow Agent to hold the Purchase Price and act as Escrow Agent
+Intro.Whereas.AppointAgent=WHEREAS, the Purchaser and the Seller have agreed to use the Escrow Agent to hold the Purchase Price and act as Escrow Agent
 
-Intro.Whereas.4=WHEREAS, the Escrow Agent has agreed to act in such capacity upon the terms and conditions contained herein
+Intro.Whereas.AgentAccepts=WHEREAS, the Escrow Agent has agreed to act in such capacity upon the terms and conditions contained herein
 
-Intro.Whereas.5=WHEREAS, the Seller, Purchaser and Escrow Agent agree to use {Arbitrator.N,E,A} (the "Arbitrator") to resolve any disputes among them regarding the meaning of this Agreement or the performance of this Agreement, including any "Claim" as defined below
+Intro.Whereas.Arbitrator=WHEREAS, the Seller, Purchaser and Escrow Agent agree to use {Arbitrator.N,E,A} (the "Arbitrator") to resolve any disputes among them regarding the meaning of this Agreement or the performance of this Agreement, including any "Claim" as defined below
 
 AGT._Secs =<ol><li>{Deposit._Sec}</li><li>{Pickup._Sec}</li><li>{Release._Sec}</li><li>{Cancellation._Sec}</li><li>{Claim._Sec}</li><li>{RelianceByAgent._Sec}</li><li>{IndemnAgent._Sec}</li><li>{AgentSubmitDispute._Sec}</li><li>{AgentFee._Sec}</li><li>{ArbitratorFee._Sec}</li><li>{Successor._Sec}</li><li>{AgentLimitLiab._Sec}</li><li>{Arbitration._Sec}</li><li>{Law._Sec}</li><li>{Notice._Sec}</li><li>{TechTrumps._Sec}</li></ol>
 
@@ -64,4 +64,4 @@ Signature.InWitness=IN WITNESS WHEREOF, the undersigned being all the parties to
 AGT.Signature.Block=SELLER:<br> {Seller.Name.Full}<br> <u>{Seller.Signature}</u><br> PURCHASER:<br> {Purchaser.Name.Full}<br> <u>{Purchaser.Signature}</u><br> ESCROW AGENT:<br> {Agent.Name.Full}<br> <u>{Agent.Signature}</u><br> ARBITRATOR:<br> {Arbitrator.Name.Full}<br> <u>{Arbitrator.Signature}</u>
 
 Law.Of={Arbitrator.Law.Of}</li>
-							
+								

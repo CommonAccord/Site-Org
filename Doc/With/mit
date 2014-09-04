@@ -6,13 +6,13 @@ Contact2.=[At/solomon_shirley]
 
 Notice.=[At/tanya_taylor]
 
-Notice.Title=Vice Admiral
+Notice.Title=Associate
 
 Sign.=[At/solomon_shirley]
 
 Sign.Title={Notice.Title}
 
 
-Model.Root=<ol><li>Contact1:<br>{Contact1.Model.Root}</li><li>Contact2:<br>{Contact2.Model.Root}</li><li>Notice:<br>{Notice.Model.Root}</li><li>Sign:<br>{Sign.Model.Root}</li></ol>																		
+Model.Root=<ol><li>N,E,A:<br>{N,E,A}</li><li>Contact1:<br>{Contact1.Model.Root}</li><li>Contact2:<br>{Contact2.Model.Root}</li><li>Notice:<br>{Notice.Model.Root}</li><li>Sign:<br>{Sign.Model.Root}</li></ol>																		
 		
-												
+																		

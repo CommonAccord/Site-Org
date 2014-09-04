@@ -1,6 +1,6 @@
 Model.Root={_Sec}
 
-Chemical.=[Form/AGT/Master/Sec/Environment/Chemical/Sec]
+Chemical.=[Form/AGT/Master/Environment/Chemical/Sec]
 
 _Sec=<u>Environmental Health and Safety</u>.  Supplier represents, warrants and certifies that: <ol><li>{Safe._Cl}</li><li>{Chemical.Good._Cl}</li><li>{Chemical.Bad._Cl}</li><li>{Chemical.Hazardous._Cl}</li></ol>
 

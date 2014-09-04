@@ -1,6 +1,0 @@
-We.=[At/idcubed_org]
-
-eg1.=[By/id3/TermsOfUse_Demo_1]
-
-
-Model.Root=<ol><li>We:<br>{We.N,E,A}</li><li>eg1:<br>{eg1.Model.Root}</li></ol>									

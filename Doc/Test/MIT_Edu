@@ -1,15 +1,4 @@
-=[Class/ID.txt]
+Doc1.=[Deal/MIT/MIT_NDA_Demo_1_Mutual]
 
-ID.=[On/USA/MA/Middlesex/Cambridge/Massachusetts_Avenue/Geo]			
-
-ID.Name.Full=Massachusetts Institute of Technology
-
-Corp=MIT Corporation
-
-ID.Addr.Street.#=77
-
-ID.Addr.Zip=02139-4307
-
-ID.Addr.Type=official
-
-ID.Entity=corporation
+Model.Root=<ol><li>Does work:<br>{Doc1.P1.Notice.Model.Root}</li><li>Does Not Work:<br>{Doc1.P1.Notice.Block}</li></ol>
+												
