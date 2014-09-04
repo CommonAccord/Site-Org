@@ -1,4 +1,8 @@
-_Cl=If any deliverables, goods or other materials sold or transferred to Company contain hazardous materials, Supplier shall provide all relevant information required pursuant to applicable requirements, such as: {_Lost}
+=[Class/Doc_Sec]
+
+Title=Hazardous Chemicals
+
+Intro=If any deliverables, goods or other materials sold or transferred to Company contain hazardous materials, Supplier shall provide all relevant information required pursuant to applicable requirements, such as
 
 _Lost=<ol><li>{OSHA._cl}, and</li><li>{OSHA-like._cl}.</li></ol>
 
