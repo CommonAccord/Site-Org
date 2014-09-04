@@ -1,0 +1,12 @@
+Working on the Environmental provisions of the Master Services Agreement.  
+<br>=
+So instead of rendering the whole doc, I want to render only the Environmental section.
+<br>=
+I attach the MSA:
+Doc.=[Form/AGT/Master/Form]
+<br>=
+I then render just the Environment portion:
+<br>=
+Model.Root=<ol><li>{Doc.Environment._Sec}
+
+																			

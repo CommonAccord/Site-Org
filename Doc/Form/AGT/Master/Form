@@ -28,7 +28,7 @@ Relate.=[Form/AGT/Master/Sec/Relate_Library]
 
 Comply.=[Form/AGT/Master/Sec/Comply_Library]
 
-Environment.=[Form/AGT/Master/Sec/Environment_Library]
+Environment.=[Form/AGT/Master/Sec/Environment/Sec]
 
 Conflict.=[Form/AGT/Master/Sec/Conflict_Library]
 
