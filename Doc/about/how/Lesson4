@@ -6,11 +6,13 @@ Here=is our agreement:
 
 Here are a couple of completions:
 
-AGT.Title={P1} Contract with {P2}
+AGT.Title={P1.Handle} Contract with {P2.Handle}
 
-P1=Acme
+P1.Handle=Acme
 
-P2=Quake
+P2.Handle=Quake
+
+Note=the periods in the names are a convenient way to indicate that the something is a sub-category.  For programmers this looks very familiar.  If you are a programmer, please note that the period does not have any semantic meaning at all.  We use it a lot LIKE a semantic marker, but it is simply another character.  We could use x or / or q instead of a period.   
 
 Note=it populates EACH place that there was a {AGT.Title}.  And nothing else. 
 
@@ -19,4 +21,4 @@ Note=it populates EACH place that there was a {AGT.Title}.  And nothing else.
 
 
 
- 																												
+ 																													
