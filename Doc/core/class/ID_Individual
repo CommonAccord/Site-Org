@@ -1,4 +1,4 @@
-=[Class/ID]
+=[core/class/ID]
 
 entity=individual
 
@@ -22,4 +22,4 @@ Model.Root={Addr.Table}<br>{Pronoun.List}
 
 Pronoun.List={male-female}, {He-She}, {he-she}, {Him-Her}, {him-her}, {His-Her}, {his-her}, {His-Hers}, {his-hers}, {Himself-Herself}, {himself-herself}
  
-															
+																

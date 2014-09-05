@@ -15,4 +15,6 @@ Addr.1.2=One Lincoln Street
 Addr.Zip=02111
 
 Phone=617-786-3000
-	
+
+Addr.Type=business
+		
