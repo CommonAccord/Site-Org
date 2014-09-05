@@ -1,0 +1,14 @@
+=[core/class/ID_Entity]
+
+=[core/at/USA/MA/Middlesex/Cambridge/Broadway/1/Geo]
+
+Name.Full=Gerry's Grapes, LLC
+
+Entity.a=a Massachusetts LLC
+
+Addr.Type=business
+
+Contact.Name.Ms=Ms. Graber
+
+Claim.Response.Delay=two business days from the date of the Claim
+			

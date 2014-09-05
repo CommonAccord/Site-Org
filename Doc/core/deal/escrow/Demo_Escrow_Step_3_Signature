@@ -1,0 +1,9 @@
+=[core/deal/escrow/Demo_Escrow_Step_2_Order]
+
+Seller.Signature=xSeller
+
+Purchaser.Signature=xPurchaser
+
+Agent.Signature=xAgent
+
+Arbitrator.Signature=xArbitrator	
