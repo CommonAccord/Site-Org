@@ -2,7 +2,7 @@ From http://web.mit.edu/tlo/www/misc/forms.html.
 
 =[core/class/AGT_Frame]
 
-=[core/form/agt/base/Phrase_Library]
+=[core/class/Phrase_Library]
 
 <b>Parameters</b>=These fit the agreement to Mutual (as opposed to InBound or OutBound).
 

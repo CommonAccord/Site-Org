@@ -16,9 +16,9 @@ if($_REQUEST['action'] == 'list') {
 
 if(! ($dir == 'Doc/')) {
 	$rootdir = pathinfo($dir);	
-	echo "<body style='font-size: 150%;'> <a href=$_SERVER[PHP_SELF]?action=list&file=$rootdir[dirname]/>$rootdir[dirname]</a><br>";
+	echo "<body style='font-size: 200%;'> <h3><a href=$_SERVER[PHP_SELF]?action=list&file=$rootdir[dirname]/>$rootdir[dirname]</a></h3>";
 }
-echo "<u>$dir:</u><br><br>";
+echo "<u>$dir:</u><br>";
 
 
 $files = scandir($dir);
@@ -31,7 +31,7 @@ foreach($files as $f) {
 		}
 	}
 	else {
-		echo "<a href=$_SERVER[PHP_SELF]?action=source&file=$dir$f>$f</a><br>";
+		echo "<br><a href=$_SERVER[PHP_SELF]?action=source&file=$dir$f>$f</a>";
 	}
 }
 
@@ -54,12 +54,10 @@ $contents = explode("\n", $content);
 $rootdir = pathinfo($dir);
 $filenameX = basename($dir);
 
-echo "<body style='font-size: 150%;'><a href=$_SERVER[PHP_SELF]?action=list&file=$rootdir[dirname]/>$rootdir[dirname]</a><br><br>
-<b>$filenameX</b>   (<a href=$_SERVER[PHP_SELF]?action=edit&file=$dir>Edit</a>):  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; <a href=$_SERVER[PHP_SELF]?action=render&file=$dir><b>Show the Document</b></a><br><br><br><br>
+echo "<body style='font-size: 200%;'><a href=$_SERVER[PHP_SELF]?action=list&file=$rootdir[dirname]/>$rootdir[dirname]</a><br><br><br>
+<b>$filenameX</b>   (<a href=$_SERVER[PHP_SELF]?action=edit&file=$dir>Edit</a>):  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; <a href=$_SERVER[PHP_SELF]?action=render&file=$dir><b>Show the Document</b></a><br><br>
 
-<table border=1>
-
-<table font='size: 200%';rules='none'; border='0'>";
+<table rules='none'; border='0'>";
 
 foreach($contents as $n) {
 	list($k, $v) = array_pad( explode ("=", $n, 2), 2, null);
