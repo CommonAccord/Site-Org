@@ -9,6 +9,8 @@ P2.xSignature= x C Kendall
 
 Sign.YMD=September 5, 2014
 
-Note=these are like twitter handles.								
+Note=these are like twitter handles.	
 
-Treasure hunt=there is an additional trick in how "Sign.YMD" comes to fill for both P1 and P2.  See if you can find where the signature blocks come from!
+fontmark=color = "black"							
+
+Treasure hunt=there is an additional trick in how "Sign.YMD" comes to fill for both P1 and P2.  See if you can find where the signature blocks come from!	
