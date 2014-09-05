@@ -1,5 +1,5 @@
 So:=
-Learned=Learned early all of the rules of CommonAccord.
+Learned=Learned nearly all of the rules of CommonAccord.
 <p>=
 Created=Created and signed a document.
 <p>=
@@ -22,4 +22,4 @@ sp-=<ol><li>
 sp=</li><li>
 -sp=</li></ol>
 
-Model.Root={sp-}{Learned}{sp}{Created}{sp}{Used}{sp}{Didn't}{sp}{Linked}{sp}{Signed}{sp}{Next}{-sp}	
+Model.Root={sp-}{Learned}{sp}{Created}{sp}{Used}{sp}{Didn't}{sp}{Linked}{sp}{Signed}{sp}{Next}{-sp}		
