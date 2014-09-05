@@ -1,0 +1,25 @@
+So:=
+Learned=Learned early all of the rules of CommonAccord.
+<p>=
+Created=Created and signed a document.
+<p>=
+Used=Used mostly existing materials.
+<p>=
+Didn't=Did not create much new text
+<p>=
+Linked=Labeled and linked all of our materials.  So they are findable to us and anyone else in our organization (and any others whom we allow to "pull" a copy).  
+<p>=
+Signed=The document was signed separately by the two parties, and (in the case of an actual use) would have the git trace.
+<p>=
+Next=Contact us, pull from github.com/CommonAccord/Alpha<br><br>contribute some legal text<br><br>tell us about a need.  <br><br>contact@commonaccord.org. follow us (we promise to start talking)  on @commonaccord. 		
+<p>=
+<p>=
+<p>=
+<p>=
+<p>=
+
+sp-=<ol><li>
+sp=</li><li>
+-sp=</li></ol>
+
+Model.Root={sp-}{Learned}{sp}{Created}{sp}{Used}{sp}{Didn't}{sp}{Linked}{sp}{Signed}{sp}{Next}{-sp}	
