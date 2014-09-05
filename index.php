@@ -31,7 +31,7 @@ foreach($files as $f) {
 		}
 	}
 	else {
-		echo "<a href=$_SERVER[PHP_SELF]?action=source&file=$dir$f>$f</a><br>";
+		echo "<br><a href=$_SERVER[PHP_SELF]?action=source&file=$dir$f>$f</a><br>";
 	}
 }
 
