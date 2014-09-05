@@ -1,0 +1,12 @@
+=[core/class/AGT_Frame]
+	
+AGT.Secs._Lost=<ol><li>{BusinessRules}</li><li>{TechnicalRules}</li><li>{LegalRules}</li></ol>
+
+BusinessRules=<u>Business Rules</u>.  These rules apply to parties transacting {waas}.
+
+TechnicalRules=<u>Technical Rules</u>.  {ServiceEndPoint} {ServiceConfiguration}
+
+LegalRules=<u>Legal Rules</u>.  {Authority}  Only signatories to the {PA} may be parties who transact {waas}. 
+		
+
+waas={widget} as a service
