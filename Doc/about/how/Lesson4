@@ -8,11 +8,11 @@ Here are a couple of completions:
 
 AGT.Title=Non-Disclosure Agreement
 
-P1.Handle=<font {fontmark1}>Disclosing Party</font>
+P1.Handle=<font color="{fontmark1}">Disclosing Party</font>
 
-P2.Handle=<font {fontmark1}>Receiving Party</font>
+P2.Handle=<font color="{fontmark1}">Receiving Party</font>
 
-fontmark1=color ="red"
+fontmark1=red
 
 Note=the periods in the names are a convenient way to indicate that the something is a sub-category.  For programmers this looks very familiar.  If you are a programmer, please note that the period does not have any semantic meaning at all.  We use it a lot LIKE a semantic marker, but it is simply another character.  We could use x or / or q instead of a period.   
 
@@ -23,4 +23,4 @@ Note=it populates EACH place that there was a {AGT.Title}.  And nothing else.
 
 
 
- 																																		
+ 																																					

@@ -15,7 +15,8 @@ And we reference our prior draft:
 
 Note=these are like twitter handles.
 
-fontmark=color = "brown"
+fontmark=red
 fontmark1={fontmark}
+fontmark2={fontmark}
 
-Next=[about/how/Lesson9]											
+Next=[about/how/Lesson9]														

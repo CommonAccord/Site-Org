@@ -1,34 +1,43 @@
 <b>Parameters</b>=-
 
-AGT.Title=<font {fontmark}>OutBound Non-Disclosure Agreement</font>
+fontmark=blue
 
-DP.-=<font {fontmark}>{P1.Handle}</font>
+AGT.Title={spantag}OutBound Non-Disclosure Agreement{/span}
 
-DP.The=<font {fontmark}>{P1.Handle}</font>
+spantag=<span style="color: {fontmark}">
 
-DP.the=<font {fontmark}>{P1.Handle}</font>
+fontmark=blue
 
-RP.-=<font {fontmark}>{P2.Handle}</font>
+/span=</span>
 
-RP.The=<font {fontmark}>{P2.Handle}</font>
+DP.-={spantag}{P1.Handle}{/span}
 
-RP.the=<font {fontmark}>{P2.Handle}</font>
+DP.The={spantag}{P1.Handle}{/span}
 
-Purpose.Roles=<font {fontmark}>{P1.Handle} disclosing confidential information to {P2.Handle}</font>
+DP.the={spantag}{P1.Handle}{/span}
 
-Therefore.Roles=<font {fontmark}>{P1.Handle} making confidential information available to {P2.Handle}</font>
+RP.-={spantag}{P2.Handle}{/span}
 
-Conf.Roles=<font {fontmark}>{P1.Handle} to {P2.Handle}</font>
+RP.The={spantag}{P2.Handle}{/span}
 
-Contact.Roles._cl=<font {fontmark}>disclosing confidential information for {DP.the} or receiving confidential information for {RP.the} </font>
+RP.the={spantag}{P2.Handle}{/span}
 
-Conf.Impart.List=<font {fontmark}>relates to (i) the Purpose and/or (ii) unpublished research, invention disclosures, or unpublished patent applications</font>
+Purpose.Roles={spantag}{P1.Handle} disclosing confidential information to {P2.Handle}{/span}
 
-CC.Persons=<font {fontmark}>directors (or, if applicable, members), officers, employees, consultants, and/or advisors</font>
+Therefore.Roles={spantag}{P1.Handle} making confidential information available to {P2.Handle}{/span}
 
-Compelled.Cond._cl=<font {fontmark}>{Compelled.Cond.Note-Coop-Min}</font>
+Conf.Roles={spantag}{P1.Handle} to {P2.Handle}{/span}
+
+Contact.Roles._cl={spantag}disclosing confidential information for {DP.the} or receiving confidential information for {RP.the}{/span}
+
+Conf.Impart.List={spantag}relates to (i) the Purpose and/or (ii) unpublished research, invention disclosures, or unpublished patent applications{/span}
+
+CC.Persons={spantag}directors (or, if applicable, members), officers, employees, consultants, and/or advisors{/span}
+
+Compelled.Cond._cl={spantag}{Compelled.Cond.Note-Coop-Min}</span>
 
 <b>No Export Control Provision</b>=Section 9.1 is deleted in the OutBound.
 
-Export._Sec={_delete_}
+Export._Sec={spantag}{_delete_}{/span}
 
+											
