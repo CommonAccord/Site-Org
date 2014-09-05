@@ -16,7 +16,7 @@ if($_REQUEST['action'] == 'list') {
 
 if(! ($dir == 'Doc/')) {
 	$rootdir = pathinfo($dir);	
-	echo "<body style='font-size: 250%;'> <a href=$_SERVER[PHP_SELF]?action=list&file=$rootdir[dirname]/>$rootdir[dirname]</a><br>";
+	echo "<body style='font-size: 250%;'> <h3><a href=$_SERVER[PHP_SELF]?action=list&file=$rootdir[dirname]/>$rootdir[dirname]</a><br></hr>";
 }
 echo "<u>$dir:</u><br><br>";
 
