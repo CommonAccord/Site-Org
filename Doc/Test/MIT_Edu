@@ -1,4 +1,0 @@
-Doc1.=[Deal/MIT/MIT_NDA_Demo_1_Mutual]
-
-Model.Root=<ol><li>Does work:<br>{Doc1.P1.Notice.Model.Root}</li><li>Does Not Work:<br>{Doc1.P1.Notice.Block}</li></ol>
-												

@@ -1,6 +1,0 @@
-P1.=[With/mit]
-
-P2.=[With/quake]
-
-Model.Root=<ol><li>{P1.Name.Full} - P1:<br>{P1.Model.Root}</li><li>{P2.Name.Full} - P2: <br>{P2.Model.Root}</li></ol>
-																							

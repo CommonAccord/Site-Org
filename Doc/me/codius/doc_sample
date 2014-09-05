@@ -1,0 +1,9 @@
+We.=[core/id/ripple]
+
+eg1.=[core/deal/escrow/Binder_of_4_Steps]
+
+eg2.=[core/deal/web/Terms_of_Use_Demo_1]
+<br>=
+Just= the section from the Escrow Agreement (at Stage 1 and State 3) about the claim and the Claim Letter
+
+Model.Root=State 1:<br>{eg1.1.Claim._Sec}<br><br>Stage 3:<br>{eg1.3.Claim._Sec} <br><br>{eg1.4.Model.Root}					
