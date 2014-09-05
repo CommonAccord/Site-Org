@@ -1,0 +1,34 @@
+<b>Parameters</b>=-
+
+AGT.Title=<font {fontmark}>OutBound Non-Disclosure Agreement</font>
+
+DP.-=<font {fontmark}>{P1.Handle}</font>
+
+DP.The=<font {fontmark}>{P1.Handle}</font>
+
+DP.the=<font {fontmark}>{P1.Handle}</font>
+
+RP.-=<font {fontmark}>{P2.Handle}</font>
+
+RP.The=<font {fontmark}>{P2.Handle}</font>
+
+RP.the=<font {fontmark}>{P2.Handle}</font>
+
+Purpose.Roles=<font {fontmark}>{P1.Handle} disclosing confidential information to {P2.Handle}</font>
+
+Therefore.Roles=<font {fontmark}>{P1.Handle} making confidential information available to {P2.Handle}</font>
+
+Conf.Roles=<font {fontmark}>{P1.Handle} to {P2.Handle}</font>
+
+Contact.Roles._cl=<font {fontmark}>disclosing confidential information for {DP.the} or receiving confidential information for {RP.the} </font>
+
+Conf.Impart.List=<font {fontmark}>relates to (i) the Purpose and/or (ii) unpublished research, invention disclosures, or unpublished patent applications</font>
+
+CC.Persons=<font {fontmark}>directors (or, if applicable, members), officers, employees, consultants, and/or advisors</font>
+
+Compelled.Cond._cl=<font {fontmark}>{Compelled.Cond.Note-Coop-Min}</font>
+
+<b>No Export Control Provision</b>=Section 9.1 is deleted in the OutBound.
+
+Export._Sec={_delete_}
+
