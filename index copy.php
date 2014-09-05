@@ -1,6 +1,6 @@
 <?php
 error_reporting(E_ALL);
-$path = '/Users/jgh/Sites/Alpha/Alpha/';
+$path = '/var/www/www.commonaccord.org/Alpha/';
 
 if(!isset($_REQUEST['action'])) { 
 	$_REQUEST['action'] = "list"; 
@@ -16,9 +16,9 @@ if($_REQUEST['action'] == 'list') {
 
 if(! ($dir == 'Doc/')) {
 	$rootdir = pathinfo($dir);	
-	echo "<body style='font-size: 150%;'> <a href=$_SERVER[PHP_SELF]?action=list&file=$rootdir[dirname]/>$rootdir[dirname]</a><br>";
+	echo "<a href=$_SERVER[PHP_SELF]?action=list&file=$rootdir[dirname]/>$rootdir[dirname]</a><br><br>";
 }
-echo "<u>$dir:</u><br><br>";
+echo "<u>$dir:</u><br><br><br><br>";
 
 
 $files = scandir($dir);
@@ -27,7 +27,7 @@ foreach($files as $f) {
 	if(is_dir($path.$dir.$f)) {
 		if( !( ($f == '.') || ($f == '..')) ) {
 
-			echo "<br> &nbsp; <a href=$_SERVER[PHP_SELF]?action=list&file=$dir$f/>$f</a>";
+			echo "<h3> &nbsp; <a href=$_SERVER[PHP_SELF]?action=list&file=$dir$f/>$f</a></h3>";
 		}
 	}
 	else {
@@ -54,12 +54,13 @@ $contents = explode("\n", $content);
 $rootdir = pathinfo($dir);
 $filenameX = basename($dir);
 
-echo "<body style='font-size: 150%;'><a href=$_SERVER[PHP_SELF]?action=list&file=$rootdir[dirname]/>$rootdir[dirname]</a><br><br>
-<b>$filenameX</b>   (<a href=$_SERVER[PHP_SELF]?action=edit&file=$dir>Edit</a>):  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; <a href=$_SERVER[PHP_SELF]?action=render&file=$dir><b>Show the Document</b></a><br><br><br><br>
+echo "
+<a href=$_SERVER[PHP_SELF]?action=list&file=$rootdir[dirname]/>$rootdir[dirname]</a><br><br>
+$filenameX   (<a href=$_SERVER[PHP_SELF]?action=edit&file=$dir>Edit</a>):  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; <a href=$_SERVER[PHP_SELF]?action=render&file=$dir><b>Show the Document</b></a><br><br><br><br>
 
 <table border=1>
 
-<table font='size: 200%';rules='none'; border='0'>";
+<table rules='none'; border='0'>";
 
 foreach($contents as $n) {
 	list($k, $v) = array_pad( explode ("=", $n, 2), 2, null);
@@ -74,7 +75,7 @@ foreach($contents as $n) {
 	echo "</tr>";
 }
 
-echo "</table></body>";
+echo "</table>";
 } // end 'source'
 
 else if($_REQUEST['action'] == 'render') {
@@ -93,7 +94,7 @@ else if($_REQUEST['action'] == 'edit') {
 
 echo "Editing $dir<br><br>
 <form action=$_SERVER[PHP_SELF] method='post'>
-        <textarea cols=100 rows=30  name='newcontent'>";
+        <textarea cols=100 rows=50  name='newcontent'>";
 
 echo file_get_contents($dir, FILE_USE_INCLUDE_PATH);
 
