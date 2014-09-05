@@ -1,16 +1,16 @@
-Now=there is some info in our doc that may not be appropriate to your situation (this is NOT legal advice, just text).  But the big thing missing is info about the parties. So - let's reference some parties by roles.
+But=we wanted a one-way agreement, and this one is mutual.  So let's bring in a list of differences.
 
-P1.=[core/id/acme_incorporated]
+We=FIRST reference the differences, so that they have higher priority and TRUMP the existing keys with the same names.
 
-P2.=[core/id/quake_incorporated]
+=[core/form/agt/nda/Delta_MIT_TLO_Outbound]
 
-Note=we put some identities in /id/ and we use names that are, or for fictional people seem like twitter handles.
+Then=we reference our existing one.
 
 =[about/how/Lesson6]
 
-
+<p>=
 <p>=[about/how/Lesson8]
 
 
 
- 																																		
+ 																																					

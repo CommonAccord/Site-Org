@@ -1,1 +1,20 @@
-To be continued!	
+So=let's add parties.  But we should reference them.  That obviously saves time and reduces errors, but even more importantly, it means that we are connecting this use with that person. So if ever we want to know the history of that person, we can just look for things that link to them.  (This is a simple matter of search.)
+
+So:=
+
+P1.=[core/id/acme_incorporated]
+
+<p>=
+P2.=[core/id/quake_incorporated]
+
+We=give them handles for this document:
+
+P1.Handle=Disclosing Party
+
+P2.Handle=Receiving Party
+
+And we reference our prior draft:
+
+=[about/how/Lesson7]
+
+Note=these are like twitter handles.				
