@@ -1,0 +1,22 @@
+We=can now populate the agreement (or anything else). 
+
+Here=is our agreement:
+
+=[core/class/AGT_Frame]
+
+Here are a couple of completions:
+
+AGT.Title={P1} Contract with {P2}
+
+P1=Acme
+
+P2=Quake
+
+Note=it populates EACH place that there was a {AGT.Title}.  And nothing else. 
+
+
+<p>=[about/how/Lesson5]
+
+
+
+ 																												
