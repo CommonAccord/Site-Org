@@ -1,16 +1,16 @@
 We=can now populate the agreement (or anything else). 
 
-Here=is our agreement:
+Here=is our frame:
 
 =[core/class/AGT_Frame]
 
 Here= are a couple of completions:
 
-AGT.Title=Non-Disclosure Agreement
+AGT.Title=<font color="{fontmark1}">Non-Disclosure Agreement</font>
 
-P1.Handle=<font color="{fontmark1}">Disclosing Party</font>
+P1.Handle=<font color="{fontmark1}">Acme</font>
 
-P2.Handle=<font color="{fontmark1}">Receiving Party</font>
+P2.Handle=<font color="{fontmark1}">Quake</font>
 
 fontmark1=red
 
@@ -22,4 +22,4 @@ Note=the periods in the names are a convenient way to indicate that the somethin
 
 
 
- 																																							
+ 																																										
