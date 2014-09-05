@@ -11,9 +11,9 @@ Note=these are like twitter handles.
 
 fontmark=black							
 
-Treasure hunt=there is an additional trick in how "Sign.YMD" comes to fill for both P1 and P2.  See if you can find where the signature blocks come from!
+Treasure hunt=there is an additional trick in how "Sign.YMD" comes to fill for both P1 and P2.  See if you can find where the signature blocks come from and why P2 will be able to override just her own if she wants!
 
 Next=P2 signs
 <p>=[about/how/Signature_P2]			
 
-	
+		

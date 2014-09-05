@@ -1,6 +1,6 @@
 CommonAccord works by lists.=A sequence of labels with a text assigned to them. In software the label is called a "key" and the associated text is called a "value"  
 
-Rendering always starts with the key "Model.Root".=  As if the text consisted only of {Model.Root} and then was "expanded".
+Rendering always starts= with the key "Model.Root".  As if the text consisted only of {Model.Root} and then was "expanded".
 
 Model.Root={hw}
 
@@ -16,4 +16,4 @@ h=hello
 
 
 
- 																							
+ 																								

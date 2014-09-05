@@ -4,12 +4,14 @@ So=we reference Lesson5 (with the title and date)
 
 =[about/how/Lesson5]
 
-then reference a doc from the MIT Tech Licensing Office:
+then reference= a doc from the MIT Tech Licensing Office:
 
 =[core/form/agt/nda/Form_MIT_TLO_Mutual]
+<p>=
+<p>=
 
-<p>=[about/how/Lesson7]
+Next=[about/how/Lesson7]
 
 
 
- 																																
+ 																																		
