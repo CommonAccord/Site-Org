@@ -1,0 +1,19 @@
+=[core/class/AGT_Frame]
+
+Legal.Back.=[me/hyperbios/System_Rules_Legal_Back]
+
+AGT.Secs._Lost=<ol><li>{BusinessRules}</li><li>{TechnicalRules}</li><li>{LegalRules}</li></ol>
+
+BusinessRules=<u>Business Rules</u>.  These rules apply to parties transacting {waas}.
+
+TechnicalRules=<u>Technical Rules</u>.  {ServiceEndPoint} {ServiceConfiguration}
+
+LegalRules=<u>Legal Rules</u>.<ol><li>{Legal.Front._Lst}</li><li>{Legal.Back._Lst}</li></ol>  
+
+Legal.Front._Lst={Legal.Authority}</li><li>{Legal.Other}
+
+Legal.Authority=<u>Signatories</u>.  Only signatories to the {PA} may be parties who transact {waas}. 
+
+widget=Widget(tm)
+
+waas={widget} as a service	
