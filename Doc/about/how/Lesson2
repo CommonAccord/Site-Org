@@ -3,13 +3,16 @@ Having made Lesson1= we can now reference
 =[about/how/Lesson1]
 
 <p>= and extend it:
-h=bonjour
 
-w=tout le monde
+hw={hlw}
+
+hlw={h} {l} {w}
+
+l=legal
 
 <p>=Now for Lesson3. 
-<p>=[about/how/LessonThree]
+<p>=[about/how/Lesson3]
 
 
 
- 																													
+ 																															
