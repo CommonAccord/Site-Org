@@ -16,4 +16,5 @@ Legal.Authority=<u>Signatories</u>.  Only signatories to the {PA} may be parties
 
 widget=Widget(tm)
 
-waas={widget} as a service	
+waas={widget} as a service
+		
