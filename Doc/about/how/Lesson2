@@ -4,15 +4,18 @@ Having made Lesson1= we can now reference
 
 <p>= and extend it:
 
+<p>=
+
 hw={hlw}
 
 hlw={h} {l} {w}
 
 l=legal
-
+<p>=
+<p>=
 <p>=Now for Lesson3. 
 <p>=[about/how/Lesson3]
 
 
 
- 																															
+ 																																

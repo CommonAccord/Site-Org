@@ -1,5 +1,7 @@
 <p>=to finish up ... P1 signs.
 
+<p>=
+<p>=
 
 =[about/how/Lesson8]
 
@@ -7,13 +9,15 @@ P1.xSignature=x A Ang
 
 Sign.YMD=September 5, 2014
 
-Note=these are like twitter handles.	
-
 fontmark=black							
 
+<p>=
+<p>=
+
 Treasure hunt=there is an additional trick in how "Sign.YMD" comes to fill for both P1 and P2.  See if you can find where the signature blocks come from and why P2 will be able to override just her own if she wants!
+<p>=
 
 Next=P2 signs
 <p>=[about/how/Signature_P2]			
 
-		
+			

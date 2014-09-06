@@ -1,5 +1,7 @@
 Since=we did such good work in about/how/Lesson4 that we will now reference and build on it.
 
+<p>=
+<p>=
 
 =[about/how/Lesson4]
 
@@ -9,10 +11,13 @@ Prologue.Recital=<span style="color:{fontmark2}">{P1.Handle} and {P2.Handle} wis
 
 fontmark2=magenta
 
+<p>=
+<p>=
+
 Please=if you know programming, excuse the mismatch between the "YMD" and the format of Sept..2014.  There is NO SYNTAX except key/value!   The whole system is {key} expands into value.  (period!)
 
 <p>=[about/how/Lesson6]
 
 
 
- 																															
+ 																																

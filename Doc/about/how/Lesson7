@@ -2,16 +2,20 @@ But=we wanted a one-way agreement, and this one is mutual.  So let's bring in a 
 
 FIRST= reference the differences, so that they have higher priority and TRUMP the existing keys with the same names.
 
+<p>=
+<p>=
+
+=[core/form/agt/nda/Delta_MIT_TLO_Outbound_Marked]
+
+=[about/how/Lesson6]
 
 P1.Handle=Disclosing Party
 
 P2.Handle=Receiving Party
 
-=[core/form/agt/nda/Delta_MIT_TLO_Outbound_Marked]
+<p>=
+<p>=
 
-THEN=we reference our existing one.
-
-=[about/how/Lesson6]
 
 Note=when the app is more developed it will automatically do the marking that we've done by hand with the _Marked file.
 
@@ -22,4 +26,4 @@ On to=[about/how/Lesson8]
 
 
 
- 																																																			
+ 																																																						
