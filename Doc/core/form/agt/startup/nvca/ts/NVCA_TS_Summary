@@ -1,0 +1,40 @@
+Model.Root={_Table}
+<hr>
+_Table=<table><tbody><tr><td>{Offering}</td></tr><tr><td>{Closing}</td></tr><tr><td>{Investors}</td></tr><tr><td>{AmountRaised}</td></tr><tr><td>{PricePerShare}</td></tr><tr><td>{PreValuation}</td></tr><tr><td>{Capitalization}</td></tr></tbody></table>
+PricePerShare
+<hr>
+Offering=Offering Terms</td><td>
+
+<hr>
+Closing=Closing Date:</td><td>As soon as practicable following the Company's acceptance of this Term Sheet and satisfaction of the Conditions to Closing (the "Closing").&nbsp; {Closing.Multiple}
+
+<hr>
+
+Investors=Investors:</p></td><td>{Inv.Rows}
+
+<hr>
+AmountRaised=Amount Raised:</td><td>{Round.A.Total.$}{Amount.Ins1}
+<hr>
+PricePerShare=Price Per Share:</td><td>{Round.A.Price.$} per share (based on the capitalization of the Company set forth below) (the "Original Purchase Price").
+
+<hr>
+PreValuation=Pre-Money Valuation:</td><td>The Original Purchase Price is based upon a fully-diluted pre-money valuation of {PreR.Valuation.$} and a fully-diluted post-money valuation of {PostR.Valuation.$} (including an employee pool representing {PostR.Emp.Valuation.%} of the fully-diluted post-money capitalization).
+
+<hr>
+
+Capitalization=Capitalization:</td><td>The Company's capital structure before and after the Closing is set forth on Exhibit A.
+
+<hr>
+Closing.Multiple=<i>Provide for multiple closings if applicable.</i>
+<hr>
+Amount.Ins1=, including {Amount.Ins1.$} from the conversion of principal {and interest} on bridge notes}
+<hr>
+Inv.Rows={Inv.1.Row}<br>{Inv.2.Row}
+<hr>
+Inv.1.Row=Investor No. 1:&nbsp; {Inv.1.A.#} shares ({Inv.1.A.%}), {Inv.1.A.$}
+<hr>
+Inv.2.Row=Investor No. 2:&nbsp; {Inv.2.A.#} shares ({Inv.2.A.%}), {Inv.2.A.$}
+
+l"=&ldquo;
+"r=&rdquo;
+'=&rsquo;

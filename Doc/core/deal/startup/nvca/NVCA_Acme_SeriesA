@@ -1,0 +1,37 @@
+Co.=[core/id/acme_incorporated]
+
+=[core/form/agt/startup/nvca/ts/NVCA_TS]
+
+Model.Root={_Body}
+
+Dispute.Law.State.of=the Commonwealth of Massachusetts
+
+Inv.1.A.#=1,000
+Inv.1.A.%=10%
+Inv.1.A.$=$100,000
+Inv.2.A.#=500
+Inv.2.A.%=5%
+Inv.2.A.$=$50,000
+
+Round.A.Total.$=
+Amount.Ins1.$= from the conversion of principal {and interest} on bridge notes
+Round.A.Price.$=$100
+PreR.Valuation.$=$1,000,000
+
+PostR.Valuation.$=$1,000,000
+
+PostR.Emp.Valuation.%=$100,000
+
+i=<font color="red">
+/i=</font>
+
+
+Charter=
+
+
+Charter.Div.Alternative={Charter.Div.Alternative2}
+
+
+Charter.Liq.Alternative={Charter.Liq.Alternative3}
+
+	
