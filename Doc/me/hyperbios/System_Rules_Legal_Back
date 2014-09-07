@@ -1,6 +1,0 @@
-=[core/form/agt/research/Form_MIT_Edu_OSP_USA]
-
-_Lst={Marks._Sec}</li><li>{Disclaim._Sec}</li><li>{Notice._Sec}</li><li>{Assign._Sec}</li><li>{Law._Sec}</li><li>{Mediate._Sec}</li><li>{Majeure._Sec}</li><li>{ExportControl._Sec}</li><li>{Counterpart._Sec}</li><li>{Entire._Sec}</li><li>{Sign.Witness}
-
-Model.Root={_Lst}
-
