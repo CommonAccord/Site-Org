@@ -1,4 +1,4 @@
 Working= on the NVCA - Term Sheet.  This is very complex work.
-=[core/form/agt/startup/nvca/NVCA_TS]
-Going=deep into the structure of the /nvca/NVCA_TS_IRA
+=[core/form/agt/startup/nvca/ts/NVCA_TS]
+Going=deep into the structure of the /nvca/ts/NVCA_TS_IRA
 Creating=a vocabulary to simplify the html stuff.  Also automating replacements.  Likely there are other, perhaps better, approaches.  This has the virtue of being native. 

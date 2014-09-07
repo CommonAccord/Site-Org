@@ -1,0 +1,18 @@
+table-=<table>
+
+-table=</table>
+
+tr-=<tr><th align="left" ; valign="top">
+
+tr25%-=<tr><td width="25%">
+
+-tr=</td></tr>
+
+-tr-=</td><td>
+
+m-=<span style="color:{mcolor}">
+
+
+-m=</span>
+
+_=&nbsp;

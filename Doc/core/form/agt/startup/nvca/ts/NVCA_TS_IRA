@@ -1,62 +1,12 @@
 Model.Root={_Table}
-<hr>
-_Table=<table rules='rows'>{Heading._tr}{Registerable._tr}{Demand._tr}{S3._tr}{Piggy._tr}{Expense._tr}{Lockup._tr}{Expire._tr}{InfoRight._tr}{FutureRound._tr}{DirectorA._tr}{NonCompete._tr}{NDAA._tr}{BdMatter._tr}{ESO._tr}{-tr-}{Piggy._tr}{Expense._tr}{Lockup._tr}{Expire._tr}{InfoRight._tr}{FutureRound._tr}{DirectorA._tr}{NonCompete._tr}{NDAA._tr}{BdMatter._tr}{ESO._tr}{KeyInsure._tr}
 
+=[core/class/Doc_Table]
 
-tr-=<tr><th align="left" ; valign="top">
-
--tr=</td></tr>
-
--tr-=</td><td>
-
-m-=<span style="color:{mcolor}">
-
-mcolor=magenta
-
--m=</span>
-
-_=&nbsp;
-
-Major={m-}Major{-m}
-
-Heading._tr=<tr><td width="25%">{Heading._row}{-tr}
-
-Registerable._tr={tr-}{Registerable._row}{-tr}
-
-Demand._tr={tr-}{Demand._row}{-tr}
-
-S3._tr={tr-}{S3._row}{-tr}
-
-Piggy._tr={tr-}{Piggy._row}{-tr}
-Expense._tr={tr-}{Expense._row}{-tr}
-Lockup._tr={tr-}{Lockup._row}{-tr}
-Expire._tr={tr-}{Expire._row}{-tr}
-InfoRight._tr={tr-}{InfoRight._row}{-tr}
-FutureRound._tr={tr-}{FutureRound._row}{-tr}
-DirectorA._tr={tr-}{DirectorA._row}{-tr}
-NonCompete._tr={tr-}{NonCompete._row}{-tr}
-NDAA._tr={tr-}{NDAA._row}{-tr}
-BdMatter._tr={tr-}{BdMatter._row}{-tr}
-ESO._tr={tr-}{ESO._row}{-tr}
-Piggy._tr={tr-}{Piggy._row}{-tr}
-Expense._tr={tr-}{Expense._row}{-tr}
-Lockup._tr={tr-}{Lockup._row}{-tr}
-Expire._tr={tr-}{Expire._row}{-tr}
-InfoRight._tr={tr-}{InfoRight._row}{-tr}
-FutureRound._tr={tr-}{FutureRound._row}{-tr}
-DirectorA._tr={tr-}{DirectorA._row}{-tr}
-NonCompete._tr={tr-}{NonCompete._row}{-tr}
-NDAA._tr={tr-}{NDAA._row}{-tr}
-BdMatter._tr={tr-}{BdMatter._row}{-tr}
-ESO._tr={tr-}{ESO._row}{-tr}
-KeyInsure._tr={tr-}{KeyInsure._row}{-tr}
-
+_Table=<table rules='rows'>{Heading._tr}{Registerable._tr}{Demand._tr}{S3._tr}{Piggy._tr}{Expense._tr}{Lockup._tr}{Expire._tr}{InfoRight._tr}{FutureRound._tr}{DirectorA._tr}{NonCompete._tr}{NDAA._tr}{BdMatter._tr}{ESO._tr}{-tr-}{Piggy._tr}{Expense._tr}{Lockup._tr}{Expire._tr}{InfoRight._tr}{FutureRound._tr}{DirectorA._tr}{NonCompete._tr}{NDAA._tr}{BdMatter._tr}{ESO._tr}{KeyInsure._tr}</table>
 
 Heading._row=<p align="center">INVESTORS' RIGHTS AGREEMENT{-tr}{tr-}Registration Rights:
 
-
 Registerable._row=Registrable Securities:{-tr-}All shares of Common Stock issuable upon conversion of the Series A Preferred {IRA.RS.Ins1=and any other Common Stock held by the Investors} will be deemed "Registrable Securities."
-
 Demand._row=Demand Registration:{-tr-}Upon earliest of (i) {IRA.DR.Demand.Begins} years after the Closing; or (ii) {IRA.DR.Demand.AfterIPO} following an initial public offering ("IPO"), persons holding {IRA.DR.%} of the Registrable Securities may request {IRA.DR.Demand.Number} (consummated) registrations by the Company of their shares.&nbsp; The aggregate offering price for such registration may not be less than {IRA.DR.Demand.IPO.$}.&nbsp; A registration will count for this purpose only if (i) all Registrable Securities requested to be registered are registered, and (ii) it is closed, or withdrawn at the request of the Investors (other than as a result of a material adverse change to the Company).
 
 IRA.DR.Demand.Begins={m-}three-five{-m}
@@ -119,3 +69,40 @@ BdMatter._row=Board Matters:{-tr-}{IRA.BdMatter.Ins1=Each Board Committee shall 
 ESO._row=Employee Stock Options:{-tr-}All employee options to vest as follows:&nbsp; {IRA.ESO.Ins}<br> IRA.ESO.Ins.Alt1=25% after one year, with remaining vesting monthly over next 36 months. </p>IRA.ESO.Ins.Alt2=Immediately prior to the Series A Preferred Stock investment, {______} shares will be added to the option pool creating an unallocated option pool of {_______} shares.
 
 KeyInsure._row=Key Person Insurance:{-tr-}Company to acquire life insurance on Founders {IRA.LifeIns.for=name each Founder} in an amount satisfactory to the Board.&nbsp; Proceeds payable to the Company.
+
+mcolor=magenta
+
+Major={m-}Major{-m}
+
+Heading._tr={tr25%-}{Heading._row}{-tr}
+
+Registerable._tr={tr-}{Registerable._row}{-tr}
+
+Demand._tr={tr-}{Demand._row}{-tr}
+
+S3._tr={tr-}{S3._row}{-tr}
+
+Piggy._tr={tr-}{Piggy._row}{-tr}
+Expense._tr={tr-}{Expense._row}{-tr}
+Lockup._tr={tr-}{Lockup._row}{-tr}
+Expire._tr={tr-}{Expire._row}{-tr}
+InfoRight._tr={tr-}{InfoRight._row}{-tr}
+FutureRound._tr={tr-}{FutureRound._row}{-tr}
+DirectorA._tr={tr-}{DirectorA._row}{-tr}
+NonCompete._tr={tr-}{NonCompete._row}{-tr}
+NDAA._tr={tr-}{NDAA._row}{-tr}
+BdMatter._tr={tr-}{BdMatter._row}{-tr}
+ESO._tr={tr-}{ESO._row}{-tr}
+Piggy._tr={tr-}{Piggy._row}{-tr}
+Expense._tr={tr-}{Expense._row}{-tr}
+Lockup._tr={tr-}{Lockup._row}{-tr}
+Expire._tr={tr-}{Expire._row}{-tr}
+InfoRight._tr={tr-}{InfoRight._row}{-tr}
+FutureRound._tr={tr-}{FutureRound._row}{-tr}
+DirectorA._tr={tr-}{DirectorA._row}{-tr}
+NonCompete._tr={tr-}{NonCompete._row}{-tr}
+NDAA._tr={tr-}{NDAA._row}{-tr}
+BdMatter._tr={tr-}{BdMatter._row}{-tr}
+ESO._tr={tr-}{ESO._row}{-tr}
+KeyInsure._tr={tr-}{KeyInsure._row}{-tr}
+
