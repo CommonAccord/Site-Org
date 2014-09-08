@@ -10,7 +10,7 @@ Registerable._row=Registrable Securities:{-tr-}All shares of Common Stock issuab
 
 Registerable.IncludesCommon=and any other Common Stock held by the Investors
 
-Demand._row=Demand Registration:{-tr-}Upon earliest of (i) {Demand.Begins} years after the Closing; or (ii) {Demand.AfterIPO.Period} following an initial public offering ("IPO"), persons holding {Demand.AfterIPO.Holder.%} of the Registrable Securities may request {Demand.Times} (consummated) registrations by the Company of their shares.&nbsp; The aggregate offering price for such registration may not be less than {Demand.Min.$}.&nbsp; A registration will count for this purpose only if (i) all Registrable Securities requested to be registered are registered, and (ii) it is closed, or withdrawn at the request of the Investors (other than as a result of a material adverse change to the Company).
+Demand._row=Demand Registration:{-tr-}Upon earliest of (i) {Demand.Begins} years after the Closing; or (ii) {Period-Following-IPO-When-May-Demand-Registration} following an initial public offering ("IPO"), persons holding {Min-Percentage-of-Securities-To-Make-Demand} of the Registrable Securities may request {Number-Of-Times-May-Request-Registration} (consummated) registrations by the Company of their shares.&nbsp; The aggregate offering price for such registration may not be less than {Min-Offering-Price-For-Demanded-Registration}.&nbsp; A registration will count for this purpose only if (i) all Registrable Securities requested to be registered are registered, and (ii) it is closed, or withdrawn at the request of the Investors (other than as a result of a material adverse change to the Company).
 
 Demand.Begins={m-}three-five{-m}
 
@@ -18,15 +18,15 @@ Demand.AfterIPO.Period={m-}six months{-m}
 
 Demand.Times={m-}one-two{-m}
 
-S3._row=Registration on Form S-3:{-tr-}The holders of {S3.Force.%} of the Registrable Securities will have the right to require the Company to register on Form S-3, if available for use by the Company, Registrable Securities for an aggregate offering price of at least {S3.OfferMin.$}.&nbsp; There will be no limit on the aggregate number of such Form S-3 registrations, provided that there are no more than {S3.Times} per year. 
+S3._row=Registration on Form S-3:{-tr-}The holders of {Percentage-Of-Holders-Who-May-Require-S3-Registration} of the Registrable Securities will have the right to require the Company to register on Form S-3, if available for use by the Company, Registrable Securities for an aggregate offering price of at least {Min-S3-Offering-Amount}.&nbsp; There will be no limit on the aggregate number of such Form S-3 registrations, provided that there are no more than {Max-Number-Of-S3-Per-Year} per year. 
 
 S3.Times=two
 
-Piggy._row=Piggyback Registration:{-tr-}The holders of Registrable Securities will be entitled to "piggyback" registration rights on all registration statements of the Company, subject to the right, however, of the Company and its underwriters to reduce the number of shares proposed to be registered to a minimum of {Piggy.%} on a pro rata basis and to complete reduction on an IPO at the underwriter's discretion.&nbsp; In all events, the shares to be registered by holders of Registrable Securities will be reduced only after all other stockholders' shares are reduced.
+Piggy._row=Piggyback Registration:{-tr-}The holders of Registrable Securities will be entitled to "piggyback" registration rights on all registration statements of the Company, subject to the right, however, of the Company and its underwriters to reduce the number of shares proposed to be registered to a minimum of {Min-Number-Of-Piggyback-Shares} on a pro rata basis and to complete reduction on an IPO at the underwriter's discretion.&nbsp; In all events, the shares to be registered by holders of Registrable Securities will be reduced only after all other stockholders' shares are reduced.
 
 Expense._row=Expenses:{-tr-}The registration expenses (exclusive of stock transfer taxes, underwriting discounts and commissions will be borne by the Company.&nbsp; The Company will also pay the reasonable fees and expenses{Expense.Atty.Max} of one special counsel to represent all the participating stockholders.
 
-Expense.Atty.Max=, not to exceed {Expense.Atty.Max.$},
+Expense.Atty.Max=, not to exceed {Max-Fees-For-Stockholder's-Atty-For-Registration},
 
 Lockup._row=Lock-up:{-tr-}Investors shall agree in connection with the IPO, if requested by the managing underwriter, not to sell or transfer any shares of Common Stock of the Company {Lock.IncludesIPO} for a period of up to 180 days {Lock.ExtendForCompliance} following the IPO (provided all directors and officers of the Company {Lock.AgreeByStockholders} agree to the same lock-up).&nbsp; {Lock.ProRata}
 
@@ -34,7 +34,7 @@ Lock.IncludesIPO=(including/excluding shares acquired in or following the IPO)
 
 Lock.ExtendForCompliance=plus up to an additional 18 days to the extent necessary to comply with applicable regulatory requirements
 
-Lock.AgreeByStockholders=and {1 - 5}% stockholders
+Lock.AgreeByStockholders={m-}and 3% stockholders{-m}
 
 Lock.ProRata=Such lock-up agreement shall provide that any discretionary waiver or termination of the restrictions of such agreements by the Company or representatives of the underwriters shall apply to Investors, pro rata, based on the number of shares held.
 
@@ -53,7 +53,7 @@ Expire.Cont=No future registration rights may be granted without consent of the 
 
 Expire.Future.RS.%=a majority
 
-InfoRight._row=Management and Information Rights:{-tr-}A Management Rights letter from the Company, in a form reasonably acceptable to the Investors, will be delivered prior to Closing to each Investor that requests one.<br>Any {Major} Investor {InfoRight.NotCompetitor} will be granted access to Company facilities and personnel during normal business hours and with reasonable advance notification.&nbsp; The Company will deliver to such Major Investor {InfoRight.Report._List}{_} {Def.Major_Investor}
+InfoRight._row=Management and Information Rights:{-tr-}A Management Rights letter from the Company, in a form reasonably acceptable to the Investors, will be delivered prior to Closing to each Investor that requests one.<br>Any {Major} Investor {InfoRight.NotCompetitor} will be granted access to Company facilities and personnel during normal business hours and with reasonable advance notification.&nbsp; The Company will deliver to such Major Investor {InfoRight.Report._List} {Def.Major_Investor}
 
 InfoRight.Report._List=(i) {InfoRight.Report.FinancialStatement}, (ii) {InfoRight.FinancialStatement.Periods}, and (iii) {InfoRight.Report.CapTable}
 
@@ -65,13 +65,13 @@ InfoRight.Report.Budget=thirty days prior to the end of each fiscal year, a comp
 
 InfoRight.Report.CapTable=promptly following the end of each quarter an up-to-date capitalization table
 
-Def.Major_Investor=A "{Major} Investor" means any Investor who purchases at least {MIR.Major.Def.$} of Series A Preferred.
+Def.Major_Investor=A "{Major} Investor" means any Investor who purchases at least {Amount-That-Investor-Must-Purchase-To-Qualify-As-Major-Investor.$} of Series A Preferred.
 
 InfoRight.NotCompetitor=who is not a competitor
 
 FutureRound._row=Right to Participate Pro Rata in Future Rounds:{-tr-}All {Major} Investors shall have a pro rata right, based on their percentage equity ownership in the Company (assuming the conversion of all outstanding Preferred Stock into Common Stock and the exercise of all options outstanding under the Company's stock plans), to participate in subsequent issuances of equity securities of the Company (excluding those issuances listed at the end of the "Anti-dilution Provisions" section of this Term Sheet.&nbsp; In addition, should any {Major} Investor choose not to purchase its full pro rata share, the remaining {Major} Investors shall have the right to purchase the remaining pro rata shares.
 
-IDA._row=Matters Requiring Investor Director Approval:{-tr-}So long as the holders of Series A Preferred are entitled to elect a Series A Director, the Company will not, without Board approval, which approval must include the affirmative vote of {IDA.one/both} of the Series A Director(s):</p><p>(i) make any loan or advance to, or own any stock or other securities of, any subsidiary or other corporation, partnership, or other entity unless it is wholly owned by the Company; (ii) make any loan or advance to any person, including, any employee or director, except advances and similar expenditures in the ordinary course of business or under the terms of a employee stock or option plan approved by the Board of Directors; (iii) guarantee, any indebtedness except for trade accounts of the Company or any subsidiary arising in the ordinary course of business; (iv) make any investment inconsistent with any investment policy approved by the Board; (v) incur any aggregate indebtedness in excess of {IDA.Debt.Max.$} that is not already included in a Board-approved budget, other than trade credit incurred in the ordinary course of business; (vi) enter into or be a party to any transaction with any director, officer or employee of the Company or any "associate" (as defined in Rule 12b-2 promulgated under the Exchange Act) of any such person {IDA.SelfDealing.Except.MinValue}, {IDA.SelfDealing.Except.Fair}; (vii) hire, fire, or change the compensation of the executive officers, including approving any option grants; (viii) change the principal business of the Company, enter new lines of business, or exit the current line of business; (ix) sell, assign, license, pledge or encumber material technology or intellectual property, other than licenses granted in the ordinary course of business; or (x) enter into any corporate strategic relationship involving the payment, contribution or assignment by the Company or to the Company of assets greater than {IDA.CorpStrategy.Max.$}. 
+IDA._row=Matters Requiring Investor Director Approval:{-tr-}So long as the holders of Series A Preferred are entitled to elect a Series A Director, the Company will not, without Board approval, which approval must include the affirmative vote of {IDA.one/both} of the Series A Director(s):</p><p>(i) make any loan or advance to, or own any stock or other securities of, any subsidiary or other corporation, partnership, or other entity unless it is wholly owned by the Company; (ii) make any loan or advance to any person, including, any employee or director, except advances and similar expenditures in the ordinary course of business or under the terms of a employee stock or option plan approved by the Board of Directors; (iii) guarantee, any indebtedness except for trade accounts of the Company or any subsidiary arising in the ordinary course of business; (iv) make any investment inconsistent with any investment policy approved by the Board; (v) incur any aggregate indebtedness in excess of {Amount-Of-Borrowing-Requiring-Investor-Direstor-Approval} that is not already included in a Board-approved budget, other than trade credit incurred in the ordinary course of business; (vi) enter into or be a party to any transaction with any director, officer or employee of the Company or any "associate" (as defined in Rule 12b-2 promulgated under the Exchange Act) of any such person {IDA.SelfDealing.Except.MinValue}, {IDA.SelfDealing.Except.Fair}; (vii) hire, fire, or change the compensation of the executive officers, including approving any option grants; (viii) change the principal business of the Company, enter new lines of business, or exit the current line of business; (ix) sell, assign, license, pledge or encumber material technology or intellectual property, other than licenses granted in the ordinary course of business; or (x) enter into any corporate strategic relationship involving the payment, contribution or assignment by the Company or to the Company of assets greater than {Amount-Of-Corporate-Transaction-Requiring-Investor-Director-Approval}. 
 
 
 IDA.SelfDealing.Except.MinValue=except transactions resulting in payments to or by the Company in an amount less than {IDA.SelfDealing.Except.MinValue.$} per year
@@ -102,8 +102,6 @@ ESO._row=Employee Stock Options:{-tr-}All employee options to vest as follows:&n
 ESO.Rule=25% after one year, with remaining vesting monthly over next 36 months.
 
 ESO.AddToPool=Immediately prior to the Series A Preferred Stock investment, {ESO.AddToPool.Share.#} shares will be added to the option pool creating an unallocated option pool of {ESO.TotalPool.#} shares.
-
-
 
 KeyInsure._row=Key Person Insurance:{-tr-}Company to acquire life insurance on Founders {LifeIns.for} in an amount satisfactory to the Board.&nbsp; Proceeds payable to the Company.
 
