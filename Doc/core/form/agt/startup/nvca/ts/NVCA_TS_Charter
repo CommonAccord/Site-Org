@@ -1,10 +1,10 @@
 Model.Root={_Table}
 <hr>
-
+=[core/class/Doc_Table]
 _Table=<table><tbody><tr><td><p>CHARTER</p></td></tr><tr><td>{Dividends}</td></tr><tr><td>{LiquidationPreference}</td></tr><tr><td>{Voting}</td></tr><tr><td>{Protect._Row}</td></tr><tr><td>{OptionalConvert}</td></tr><tr><td>{AntiDilute}</td></tr><tr><td>{MandatoryConvert}</td></tr><tr><td>{Pay2Play}</td></tr><tr><td>{Redemption}</td></tr></table>
 <hr>
 
-Major={i}Major{/i}
+Major={m-}Major{-m}
 
 Dividends=<p>Dividends:</p></td><td>{Div.Alternative}
 <hr>
@@ -43,14 +43,12 @@ Note=Liq.Alternative3=(cap on Preferred Stock participation rights):&nbsp;
 <hr>
 Liq.Alternative3=First pay {priceMultiple} times the Original Purchase Price {Liq.plus} on each share of Series A Preferred.&nbsp; Thereafter, Series A Preferred participates with Common Stock pro rata on an as-converted basis until the holders of Series A Preferred receive an aggregate of {Liq.PriceMultiple} times the Original Purchase Price (including the amount paid pursuant to the preceding sentence).</p>
 <hr>
-Liq.Trigger.Except=unless the holders of {Liq.Trigger.Except.%}% of the Series A Preferred elect otherwise
+Liq.Trigger.Except=unless the holders of {Liq.Trigger.Except.%} of the Series A Preferred elect otherwise
 
-Voting=<p>Voting Rights:</p></td><td><p>The Series A Preferred shall vote together with the Common Stock on an as-converted basis, and not as a separate class, except (i) {Vote.Ins1} the Series A Preferred as a class shall be entitled to elect {A.Vote.Bd.#} members of the Board (the "Series A Directors"), and (ii) as required by law.&nbsp; The Company's Certificate of Incorporation will provide that the number of authorized shares of Common Stock may be increased or decreased with the approval of a majority of the Preferred and Common Stock, voting together as a single class, and without a separate class vote by the Common Stock.</p>
-<hr>
-Vote.Ins1=so long as {Vote.Ins2} shares of Series A Preferred are outstanding,
 
+Voting=<p>Voting Rights:</p></td><td><p>The Series A Preferred shall vote together with the Common Stock on an as-converted basis, and not as a separate class, except (i) {Vote.Ins1} the Series A Preferred as a class shall be entitled to elect {Vote.DirA.#} members of the Board (the "Series A Directors"), and (ii) as required by law.&nbsp; The Company's Certificate of Incorporation will provide that the number of authorized shares of Common Stock may be increased or decreased with the approval of a majority of the Preferred and Common Stock, voting together as a single class, and without a separate class vote by the Common Stock.</p>
 <hr>
-Vote.Ins2=<i>insert fixed number, or %, or "any"</i>
+Vote.Ins1=so long as {Vote.DirA.Threshold} shares of Series A Preferred are outstanding,
 
 <hr>
 Protect.=[core/form/agt/startup/nvca/ts/NVCA_TS_Charter_Protect]
@@ -73,7 +71,7 @@ AntiDilute.Except=The following issuances shall not trigger anti-dilution adjust
 
 AntiDilute.Except.BDVote=including at least {Charter.InsX} Series A Director(s)
 
-MandatoryConvert=<p>Mandatory Conversion:</p></td><td><p>Each share of Series A Preferred will automatically be converted into Common Stock at the then applicable conversion rate in the event of the closing of a {Mand.Ins=firm commitment} underwritten public offering with a price of {Mand.Multiple} times the Original Purchase Price (subject to adjustments for stock dividends, splits, combinations and similar events) and {Mand.net/gross} proceeds to the Company of not less than ${QPO.Min.$} (a "QPO"), or (ii) upon the written consent of the holders of {Mand.Ins2.%} of the Series A Preferred.</p>
+MandatoryConvert=<p>Mandatory Conversion:</p></td><td><p>Each share of Series A Preferred will automatically be converted into Common Stock at the then applicable conversion rate in the event of the closing of a {Mand.Ins=firm commitment} underwritten public offering with a price of {Mand.Multiple} times the Original Purchase Price (subject to adjustments for stock dividends, splits, combinations and similar events) and {Mand.net/gross} proceeds to the Company of not less than {QPO.Min.$} (a "QPO"), or (ii) upon the written consent of the holders of {Mand.Ins2.%} of the Series A Preferred.</p>
 <hr>
 
 Pay2Play=Pay-to-Play:</td><td>{PtP.Unless} on any subsequent {PtP.down} round all {Major} Investors are required to purchase their pro rata share of the securities set aside by the Board for purchase by the {Major} Investors.&nbsp; All shares of Series A Preferred of any {Major} Investor failing to do so will automatically {PtP.Fail}.

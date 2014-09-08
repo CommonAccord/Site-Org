@@ -2,6 +2,7 @@ Co.=[core/id/acme_incorporated]
 
 =[core/form/agt/startup/nvca/ts/NVCA_TS]
 
+BARELY A STUB=just a start on parameterizing
 Model.Root={_Body}
 
 Dispute.Law.State.of=the Commonwealth of Massachusetts
