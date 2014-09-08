@@ -1,10 +1,10 @@
+=[core/class/Doc_Table]
+
 Model.Root={_Body}
 
 _Body={Doc.Intro}{br}{Doc.Secs}
 
 Doc.Intro={Head.1}{brr}{Head.2}{brr}{Head.3}{brr}{Head.4}{brr}{Head.5}{brr}{Head.6}
-
-brr=<br><br>
 
 Head.1=MITRE External Identity Federation Trust Framework System Rules
 
@@ -20,20 +20,6 @@ Head.6=MITREid External Identity Federation Trust Framework System Rules
 
 
 Doc.Secs={ol-}{1._Sec}{-ol} {-li-} {2._Sec} {-li-}   {3._Sec} {-ol}
-
-ol-=<ol><li>
--ol=</li></ol>
-
-ul-=<ul><li>
--ul=</li></ul>
-
--li-=</li><li>
-
-st-=<b>
--sto=</b>{ol-}
--stb=</b><br>
-
-br=<br>
 
 1._Sec={st-}{1.Title} {-sto} {1._sec}
 

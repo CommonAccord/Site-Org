@@ -16,3 +16,21 @@ m-=<span style="color:{mcolor}">
 -m=</span>
 
 _=&nbsp;
+
+
+brr=<br><br>
+
+
+ol-=<ol><li>
+-ol=</li></ol>
+
+ul-=<ul><li>
+-ul=</li></ul>
+
+-li-=</li><li>
+
+st-=<b>
+-sto=</b>{ol-}
+-stb=</b><br>
+
+br=<br>
