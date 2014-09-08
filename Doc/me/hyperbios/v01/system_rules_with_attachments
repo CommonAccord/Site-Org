@@ -1,6 +1,6 @@
 
 
-Rules.=[me/hyperbios/v01/system_rules]
+=[me/hyperbios/v01/system_rules]
 
 Att.Glossary.=[me/hyperbios/v01/attach/glossary_and_acronyms]
 Att.Links.=[me/hyperbios/v01/attach/links_to_referenced_standards]
@@ -12,12 +12,9 @@ Att.OpenID.=[me/hyperbios/v01/attach/openID_connect_architecture]
 Att.Parties.=[me/hyperbios/v01/attach/directory_of_parties]
 Att.Accreditation.=[me/hyperbios/v01/attach/accreditation_and_certification]
 
-
 Model.Root={Rules._Body}  {Appendixes}
 
 Appendixes=<h3>APPENDICES and ADDENDA</h3> {Att.Glossary}{Att.Links}{Att.Governance} {Att.Operations} {Att.Technical}{Att.OpenID} {Att.Parties} {Att.Accreditation}
-
-
 
 Att.Glossary=<h4>APPENDIX 1:</h4>{Att.Glossary._Body}
 

@@ -1,8 +1,8 @@
-=[me/hyperbios/v01/system_rules_with_attachments]
+Rules.=[me/hyperbios/v01/system_rules_with_attachments]
 
 We can reach into a doc and pull out a section
 
-Model.Root={Rules.1.3._Sec}{Rules.2.3._Sec}
+Model.Root={Rules.1.3._Sec}{Rules.2.3._Sec} {Rules.Att.OpenID._Body}
 
 Rules.Co.Name=ACME
 

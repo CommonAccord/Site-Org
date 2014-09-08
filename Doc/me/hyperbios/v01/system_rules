@@ -275,7 +275,7 @@ Co.Notice.Attn,N,A,P,E=Attention: [include name or department here], Mail Stop: 
 
 Tech.Notice.Block=All technical matters shall be directed to:{br}{Tech.Notice.Attn,N,A,P,E}
 
-Tech.Notice.Attn,N,A,P,E=Attention: Justin Richer, Lead Computer Scientist Social Computing Researcher; Multimedia and Collaboration, G061 202 Burlington Rd, M/S K320, Bedford, MA 01730 781-271-8176; jricher@mitre.org  
+Tech.Notice.Attn,N,A,P,E=Attention: Justin Richer, Lead Computer Scientist Social Computing Researcher; Multimedia and Collaboration, G061 202 Burlington Rd, M/S K320, Bedford, MA 01730 781-271-8176; jricher@mitre.org
 
 
 3._Sec={st-}{3.Title}{-sto} {3._sec}{-ol}
