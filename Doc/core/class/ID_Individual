@@ -6,7 +6,11 @@ entity.a=an {entity}
 
 Name.Full={Name.FL}
 
+Name.FML={Name.First} {Name.Middle} {Name.Last}
+
 Name.FmL={Name.First} {Name.M}. {Name.Last}
+
+Name.FML,Dr={Name.First} {Name.Middle} {Name.Last}, {Name.Dr}
 
 Name.FL={Name.First} {Name.Last}
 

@@ -14,9 +14,9 @@ Head.2=Version 1.0, **September 21, 2012 Draft and Commentary
 
 Head.3=Note: This document does not represent official {Co.Name} policy and has been released as a draft for public discussion.
 
-Head.4=Commissioned by and for:<br> Justin Richer, Lead Computer Scientist<br>Social Computing Researcher; Multimedia and Collaboration, G061<br>202 Burlington Rd, M/S K320, Bedford, MA 01730<br>781-271-8176; jricher@mitre.org
+Head.4=Commissioned by and for:<br> {OpenID.ProjectLead.ContactInfo}
 
-Head.5=Trust Framework Architect: <br>Dazza (Daniel) Greenwood, JD Consultant Agreement No. 92207<br>CIVICS.com Contact Page<br>1 Broadway, 14th Floor, Cambridge, MA 02142
+Head.5=Trust Framework Architect: {OpenID.TFA.ContactInfo}
 
 Head.6={Co.Name}id External Identity Federation Trust Framework System Rules
 
@@ -267,15 +267,15 @@ Doc.Secs={ol-}{1._Sec}{-ol} {-li-} {2._Sec} {-li-}   {3._Sec} {-ol}
 
 2.10._sec=Any notices, requests, demands or other communications transmitted to {Co.Name} and related to this Trust Framework shall be in writing and shall be effective when delivered in person or mailed, postage prepaid, registered or certified, and addressed to the address stated below. {Notice.Block}
 
-Notice.Block={Co.Notice.Block}{br} {Tech.Notice.Block}
+Notice.Block=<table><tr><td>{Co.Notice.Block}{br}</td><td>{Tech.Notice.Block}</td></tr></table>
 
-Co.Notice.Block=All communications to {Co.Name} shall be addressed to:{br}{Co.Notice.Attn,N,A,P,E}
+Co.Notice.Block=All communications to {Co.Name} shall be addressed to:{br}{OpenID.NoticeInfo}
 
-Co.Notice.Attn,N,A,P,E=Attention: [include name or department here], Mail Stop: [include mail stop here] The {Co.Name} Corporation 7515 Colshire Drive McLean, Virginia 22102-7508 Phone: [include phone here] E-mail: [include email here]
+Tech.Notice.Block=All technical matters shall be directed to:{br}{Tech.Notice.Attn}
 
-Tech.Notice.Block=All technical matters shall be directed to:{br}{Tech.Notice.Attn,N,A,P,E}
+Tech.Notice.Attn={OpenID.ProjectLead.ContactInfo}
 
-Tech.Notice.Attn,N,A,P,E=Attention: Justin Richer, Lead Computer Scientist Social Computing Researcher; Multimedia and Collaboration, G061 202 Burlington Rd, M/S K320, Bedford, MA 01730 781-271-8176; jricher@mitre.org
+Should return=Attention: {OpenID.ProjectLead.ContactInfo}
 
 
 3._Sec={st-}{3.Title}{-sto} {3._sec}{-ol}
