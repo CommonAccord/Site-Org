@@ -1,6 +1,14 @@
 Model.Root={_Table}
-<hr>
-_Table=<table> <tr> <td valign="top"> <p style="text-align:center;page-break-after: auto" align="center">STOCK PURCHASE AGREEMENT</p> </td> </tr><tr> <td > <p>Representations and Warranties:</p> </td> <td > <p>Standard representations and warranties by the Company.&nbsp; {FounderRep.Ins}</p> </td> </tr> <tr> <td > <p>Conditions to Closing:</p> </td> <td > <p >Standard conditions to Closing, which shall include, among other things, satisfactory completion of financial and legal due diligence, qualification of the shares under applicable Blue Sky laws, the filing of a Certificate of Incorporation establishing the rights and preferences of the Series A Preferred, and an opinion of counsel to the Company.&nbsp; </p> </td> </tr> <tr> <td ><p>Counsel and Expenses:</p> </td> <td > <p>{Atty.For} counsel to draft Closing documents.&nbsp; Company to pay all legal and administrative costs of the financing{Cost.Pay.AtClosing}, including reasonable fees (not to exceed {Atty.Fee.Max})and expenses of Investor counsel{Atty.Fee.Except.Withdrawal}. </p> <p>Company Counsel: &nbsp;&nbsp;&nbsp; {Co.Atty.N/1/2} <br> </p> <p >Investor Counsel:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; {Inv.Atty.N/1/2} </p> </td> </tr> </table>
+
+
+_Table=<table rules="row">{tr25%-}{Heading._row}{-tr-}{Representations._row}{-tr-}{ConditionsToClosing._row}{-tr-}{Counsel._row}{-tr}</table>
+
+Heading._row=<p style="text-align:center">STOCK PURCHASE AGREEMENT</p>
+
+Representations._row=Representations and Warranties:{-td-}Standard representations and warranties by the Company.&nbsp; {FounderRep.Ins}
+ConditionsToClosing._row=Conditions to Closing:{-td-}Standard conditions to Closing, which shall include, among other things, satisfactory completion of financial and legal due diligence, qualification of the shares under applicable Blue Sky laws, the filing of a Certificate of Incorporation establishing the rights and preferences of the Series A Preferred, and an opinion of counsel to the Company.
+
+Counsel._row=Counsel and Expenses:{-td-}{Atty.For} counsel to draft Closing documents.&nbsp; Company to pay all legal and administrative costs of the financing{Cost.Pay.AtClosing}, including reasonable fees (not to exceed {Atty.Fee.Max}) and expenses of Investor counsel{Atty.Fee.Except.Withdrawal}. </p> <p>Company Counsel: &nbsp;&nbsp;&nbsp; {Co.Atty.N/1/2} <br> </p> <p >Investor Counsel:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; {Inv.Atty.N/1/2} </p>
 
 FounderRep.Ins=Representations and warranties by Founders regarding technology ownership, etc.
 Atty.For=Investor/Company

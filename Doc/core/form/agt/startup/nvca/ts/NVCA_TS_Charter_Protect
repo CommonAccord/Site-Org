@@ -1,6 +1,6 @@
-Model.Root=<table>{_Row}</table>
+Model.Root=<table><tr><td>{_Row}</td></tr></table>
 
-_Row=Protective Provisions:</td><td>{While}addition to any other vote or approval required under the Company's Charter or Bylaws, the Company will not, without the written consent of the holders of at least {A.Vote.%} of the Company's Series A Preferred, either directly or by amendment, merger, consolidation, or otherwise: {Grey.List}
+_row=Protective Provisions:</td><td>{While}addition to any other vote or approval required under the Company's Charter or Bylaws, the Company will not, without the written consent of the holders of at least {A.Vote.%} of the Company's Series A Preferred, either directly or by amendment, merger, consolidation, or otherwise: {Grey.List}
 
 <hr>
 Eliminate this insert by making Protect.While=In

@@ -1,3 +1,9 @@
+Working on deepening the terms of the Master Services Agreement:
+
+MSA=[core/form/agt/master/Form]
+particularly=[core/form/agt/master/ip/IP_Sec]
+and=[core/form/agt/master/personaldata/PD_Sec]
+
 Working= on the NVCA - Term Sheet.  This is very complex work.
 =[core/form/agt/startup/nvca/ts/NVCA_TS]
 Going=deep into the structure of the /nvca/ts/NVCA_TS_IRA

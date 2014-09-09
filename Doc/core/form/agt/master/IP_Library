@@ -1,8 +1,6 @@
 Model.Root={_Sec}
 
-_Sec=<u>Intellectual Property</u>. <ol><li>{Def.Intellectual_Property._Sec}</li><li>{CompanyProperty._Sec}</li><li>{SupplierProperty._Sec}</li><li>{3Party._Sec}</li><li>{CodeEscrow._Sec}</li></ol>
-
-Def.Intellectual_Property._Sec=For purposes of this Agreement, &ldquo;Intellectual Property&rdquo; means all intellectual property and proprietary rights including without limitation all rights of inventorship and authorship, inventions, patents, patent applications, and know-how for any product, process, method, machine, manufacture, design, composition of matter, or any new or useful improvement thereof, as well as copyrights, trademark, trade dress and service mark rights and all rights in trade secrets, computer software, data and databases, and mask works. 
+_Sec=<u>Intellectual Property</u>. <ol><li>{CompanyProperty._Sec}</li><li>{SupplierProperty._Sec}</li><li>{3Party._Sec}</li><li>{CodeEscrow._Sec}</li></ol>
 
 CompanyProperty._Sec=<u>Company Property</u>. <ol><li>{CP.Reserve._Sec}</li><li>{CP.Assign._Sec}</li></ol>
 

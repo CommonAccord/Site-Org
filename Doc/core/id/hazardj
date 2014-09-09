@@ -10,6 +10,10 @@ Name.Middle=Gardiner
 
 Name.M=G
 
+Addr.1=73 Apple Street
+
+Addr.Zip=02144
+
 Addr.Type=temporary
 
 Twitter.Followers=116
@@ -20,4 +24,6 @@ Email=james.g.hazard@gmail.com
 
 Fax=650.204.9101
 
-		
+Nationality=United States of America
+
+			

@@ -2,24 +2,37 @@ table-=<table>
 
 -table=</table>
 
+ttr-={table-}{tr-}
+
+ttr25%-={table-}{tr25%-}
+
+-ttr={-tr}{-table}
+
 tr-=<tr><th align="left" ; valign="top">
 
 tr25%-=<tr><td width="25%">
 
+td25%-=<td width="25%">
+
 -tr=</td></tr>
 
--tr-=</td><td>
+-td-=</td><td>
+td-=<td>
+-td=</td>
+
+-tr-={-tr}{tr-}
 
 m-=<span style="color:{mcolor}">
 
-
 -m=</span>
 
-_=&nbsp;
+_=&#8194;
 
+.=.&#8194; 
 
 brr=<br><br>
 
+mcolor=red
 
 ol-=<ol><li>
 -ol=</li></ol>
@@ -34,3 +47,4 @@ st-=<b>
 -stb=</b><br>
 
 br=<br>
+	
