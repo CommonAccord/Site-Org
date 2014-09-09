@@ -6,7 +6,8 @@ Addr.1={Addr.Street.#} {Addr.Street}
 
 Addr.2={Addr.City}, {Addr.ST}  {Addr.Zip}
 
-#_Street,Suite={Addr.#_Street}, {Addr.Suite}
+
+Addr.1,Suite={Addr.Street.#} {Addr.Street}, {Addr.Suite}
 
 Addr.1,2={Addr.1}, {Addr.2}
 
@@ -39,6 +40,8 @@ Addr.N,1,2,UK={Addr.Name}, {Addr.1,2,UK}
 Addr.N/1/2/UK={Addr.Name}<br>{Addr.1/2/UK}
 
 Addr.N,H,1,2,UK={Addr.Name}, {Addr.H,1,2,UK}
+
+Addr.N/H/1/2={Addr.Name}<br>{Addr.H/1/2}
 
 Addr.N/H/1/2/UK={Addr.Name}<br>{Addr.H/1/2/UK}
 

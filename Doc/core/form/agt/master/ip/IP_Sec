@@ -4,7 +4,7 @@ _Sec=<u>Intellectual Property</u>. <ol><li>{CompanyProperty._Sec}</li><li>{Suppl
 
 CompanyProperty._Sec=<u>{Company Property}</u>. <ol><li>{CompanyProperty.Reserve._Sec}</li><li>{CompanyProperty.Assign._Sec}</li></ol>
 
-CompanyProperty.Reserve._Sec=<u>Acknowledgement</u>.&ensp; {Supplier} acknowledges that {Company} claims and reserves all rights and benefits afforded under federal and international intellectual property laws in all {{Intellectual Property}} and {Proprietary Information} furnished by {Company} to {Supplier} hereunder and that {Supplier} is granted only a limited right of use of such {Intellectual Property} and {Proprietary Information} as set forth in this Agreement.
+CompanyProperty.Reserve._Sec=<u>Acknowledgement</u>.&ensp; {Supplier} acknowledges that {Company} claims and reserves all rights and benefits afforded under federal and international intellectual property laws in all {Intellectual Property} and {Proprietary Information} furnished by {Company} to {Supplier} hereunder and that {Supplier} is granted only a limited right of use of such {Intellectual Property} and {Proprietary Information} as set forth in this Agreement.
 
 CompanyProperty.Assign._Sec=<u>Assignment and Recordation of {Company Property}</u>.&ensp; {Supplier} agrees that: <ol><li>{CompanyProperty.Assign.WorkForHire._Cl};</li><li>{CompanyProperty.Assign.Grant._Cl};</li><li>{CompanyProperty.Assign.Further._Cl}: and</li><li>{CompanyProperty.Assign.NotRegister._Cl}.</li></ol>
 
