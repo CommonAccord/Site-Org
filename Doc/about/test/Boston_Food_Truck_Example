@@ -1,0 +1,21 @@
+=[about/test/Boston_Food_Truck]
+
+Owners.1-N={Owners.2}
+
+Business.Truck.Name=Holly's Hamburgers
+
+Business.Truck.Size=22 feet
+
+Business.DBA=Holly's Fast Dining
+
+Business.Fed-ID#=04-234566
+
+Business.=[core/id/acme_incorporated]
+
+Owner.1.=[core/id/acme_incorporated]
+
+Owner.2.=[core/id/quake_incorporated]
+
+
+Site.1.=[core/at/USA/MA/Middlesex/Cambridge/Broadway/1/Geo]
+

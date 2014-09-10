@@ -1,0 +1,11 @@
+=[about/test/Boston_Food_Truck]
+
+Owners.1-N={Owners.2}
+
+Business.Truck.Name=Holly's Hamburgers
+
+Business.Truck.Size=22 feet
+
+Business.DBA=Holly's Fast Dining
+
+Site.1.=[core/at/USA/Middlesex/Cambridge/Broadway/1/Geo]
