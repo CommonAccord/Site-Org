@@ -1,4 +1,5 @@
 Rule=<a href="http://www.amlegal.com/nxt/gateway.dll/Massachusetts/boston/cityofbostonmunicipalcode?f=templates$fn=default.htm$3.0$vid=amlegal:boston_ma">Source of requirement</a>
+Rule2=Commercial Vehicle registration - <a href="http://www.cityofboston.gov/transportation/rules/commvehreg.asp">Commercial Vehicle Registration</a>
 
 Model.Root={_Body}
 
@@ -6,7 +7,7 @@ _Body={Heading}<br><br>{Business.Table}<br><br>{Owner.Table}<br><br>DELETED<br><
 
 Heading=Food Truck Permit Application 2014<br />City of Boston | Public Works Department<br>Submit completed form and required documents to Public Works. For more information on the application process, visit www.cityofboston.gov/foodtrucks.
 
-Business.Table=<table><tr><td width="25%">BUSINESS INFORMATION</td><tr><tr><td width="25%">Name of Truck:</td><td width="25%">{Business.Truck.Name}</td><td width="25%">Truck Size:</td><td width="25%">{Business.Truck.Size}</td></tr><tr><td>DBA Name:(if different)</td><td>{Business.DBA}</td><td>Federal ID #:<td>{Business.Fed-ID#}</td></tr><tr><td>Address:</td><td>{Business.Addr.1/2}</td><td> Driver License #:</td><td>{Business.Driver-License.#}</td></tr><tr><td>Phone:</td><td>{Business.Phone}</td><td> Truck Registration #:</td><td>{Business.Truck.Registration.#}</td></tr><tr><td>Fax:</td><td>{Business.Fax}</td><td> License Plate #:</td><td>{Business.Truck.License.#}</td></tr><tr><td>Email:</td><td>{Business.Email}</td><td>GPS #</td><td>{Business.GPS.#}</td></tr><tr><td>Website:</td><td>{Business.www.com}</td></tr></table>
+Business.Table=<table><tr><td width="25%">BUSINESS INFORMATION</td><tr><tr><td width="25%">Name of Truck:</td><td width="25%">{Business.Truck.Name}</td><td width="25%">Truck Size:</td><td width="25%">{Business.Truck.Size}</td></tr><tr><td>DBA Name:(if different)</td><td>{Business.DBA}</td><td>Federal ID #:<td>{Business.Fed-ID#}</td></tr><tr><td>Address:</td><td>{Business.Addr.1/2}</td><td> Driver License #:</td><td>{Business.Driver.License.#}</td></tr><tr><td>Phone:</td><td>{Business.Phone}</td><td> Truck Registration #:</td><td>{Business.Truck.Registration.#}</td></tr><tr><td>Fax:</td><td>{Business.Fax}</td><td> License Plate #:</td><td>{Business.Truck.License.#}</td></tr><tr><td>Email:</td><td>{Business.Email}</td><td>GPS #</td><td>{Business.GPS.#}</td></tr><tr><td>Website:</td><td>{Business.www.com}</td></tr></table>
 
 Owners.1={Owner.1._row}
 
@@ -34,22 +35,24 @@ Sites.3={Site.1._row}{Site.2._row}{Site.3._row}
 
 Sites.4={Site.1._row}{Site.2._row}{Site.3._row}{Site.$._row}
 
+Site.1.Public=_
+Site.1.Private=_
+Site.2.Public=_
+Site.2.Private=_
+Site.3.Public=_
+Site.3.Private=_
+Site.4.Public=_
+Site.4.Private=_
 
-Site.Table=<table><tr><td>PROPOSED VENDING LOCATION &amp; TIMES</td></tr>{Sites.1-N}</table>
 
-Site.1._row=<tr><td width="25%">{Site.1.Addr.1/2}</td><td width="25%">[ ]Public [ ]Private</td><td width="25%">{Site.1.Days}</td><td width="25%">{Site.1.Days}</td></tr>
-Site.2._row=<tr><td>{Site.2.Addr.1/2}</td><td>[ ]Public [ ]Private</td><td>{Site.2.Days}</td><td>{Site.2.Days}</td></tr>
-Site.3._row=<tr><td>{Site.3.Addr.1/2}</td><td>[ ]Public [ ]Private</td><td>{Site.3.Days}</td><td>{Site.3.Days}</td></tr>
-Site.4._row=<tr><td>{Site.4.Addr.1/2}</td><td>[ ]Public [ ]Private</td><td>{Site.4.Days}</td><td>{Site.4.Days}</td></tr>
+Site.Table=<table><tr><td>PROPOSED VENDING LOCATION</td></tr><tr><td width="25%">Location</td><td width="25%">Property Type</td><td width="25%"> Days</td><td width="25%"> Shift/Hours</td></tr>{Sites.1-N}</table>
 
+Site.1._row=<tr><td width="25%">{Site.1.Addr.1/2}</td><td width="25%">[{Site.1.Public}]Public [{Site.1.Private} ]Private</td><td width="25%">{Site.1.Days}</td><td width="25%">{Site.1.Hours}</td></tr>
+Site.2._row=<tr><td width="25%">{Site.2.Addr.1/2}</td><td width="25%">[{Site.2.Public}]Public [{Site.2.Private} ]Private</td><td width="25%">{Site.2.Days}</td><td width="25%">{Site.2.Hours}</td></tr>
+Site.3._row=<tr><td width="25%">{Site.3.Addr.1/2}</td><td width="25%">[{Site.3.Public}]Public [{Site.3.Private} ]Private</td><td width="25%">{Site.3.Days}</td><td width="25%">{Site.3.Hours}</td></tr>
 
-[ ]Public [ ]Private<br />
-[ ]Public [ ]Private<br />
-[ ]Public [ ]Private<br />
-[ ]Public [ ]Private<br />
-[ ]Public [ ]Private<br />
-[ ]Public [ ]Private<br />
-[ ]Public [ ]Private<br />
+Site.4._row=<tr><td width="25%">{Site.4.Addr.1/2}</td><td width="25%">[{Site.4.Public}]Public [{Site.4.Private} ]Private</td><td width="25%">{Site.4.Days}</td><td width="25%">{Site.4.Hours}</td></tr>
+
 
 SUBMISSION<br />
 Fee: $500 *&nbsp;<br />
