@@ -4,7 +4,7 @@ Register.Agent.=[core/id/the_corporation_company]
 
 Name.Full=Acme Inc.
 
-www.com=www.acme.com
+www=acme.com
 
 info@we.com=info@acme.com
 

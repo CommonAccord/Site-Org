@@ -53,7 +53,7 @@ Prologue.Warning=PLEASE READ THESE TERMS OF USE CAREFULLY.  BY ACCESSING OR USIN
 
 Prologue.Scope={Prologue.Scope.Site._Sen} {Prologue.Scope.NotSystem._Sen} {Prologue.Scope.OtherAGTs._Sen}
 
-Prologue.Scope.Site._Sen=These Terms of Use (“Terms”) apply to your access to, and use of, the websites of {We.Handle} and its subsidiaries and affiliated companies (“{We.Handle},” “we” or “us”), including {We.www.com} (collectively, the “Site”).
+Prologue.Scope.Site._Sen=These Terms of Use (“Terms”) apply to your access to, and use of, the websites of {We.Handle} and its subsidiaries and affiliated companies (“{We.Handle},” “we” or “us”), including {We.www} (collectively, the “Site”).
 
 Prologue.Scope.NotSystem._Sen=These Terms do not apply to the {We.App} or the {We.Network} accessed through that software (collectively, “{We.System}”), which may be accessed via our Site.  As further described in Section 4 (Assumption of Risk with {We.System}), {We.Handle} does not own or control {We.System} and you are solely responsible for your use of {We.System}.
 
@@ -213,4 +213,4 @@ We.www.com=www.{We.com}
 we.info@we.com=contact@{We.com}
 
 	
-			
+				
