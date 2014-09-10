@@ -8,6 +8,8 @@ www.com=www.acme.com
 
 info@we.com=info@acme.com
 
+Email=info@acme.com
+
 entity=Delaware corporation
 
 Register.State=Delaware
