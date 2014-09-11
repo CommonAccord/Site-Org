@@ -1,0 +1,54 @@
+=[core/law/uniformlaws/Uniform_Electronics_Records_Act]
+
+<p>=<b>Rearrange Sections</b>=In Oregon, the title and applicability sections are moved to become Sections 10 and 11. 
+
+Doc.Body=<u>UNIFORM ELECTRONIC LEGAL MATERIAL ACT</u><ol><li>{Def._Sec}<li>{OfficialRecord._Sec}<li>{AuthenticateHow._Sec}<li>{AuthenticateEffect._Sec}<li>{Care._Sec}<li>{Access._Sec}<li>{Standards._Sec}<li>{Interprete._Sec}<li>{OtherLaw._Sec}<li>{ActTitle._Sec}<li>{Applies._Sec}<li>{StartDate._Sec}</ol>
+
+act=2013 Act
+
+this act=sections 1 to 10 of this {act}
+
+this uniform act=sections 1 to 10 of this {act}
+
+This act=Sections 1 to 10 of this {act}
+
+Def.Intro=As used in {this act}
+
+This act modifies={This act} modify, limit, and supersede
+
+does not modify=do not modify, limit, or supersede
+
+
+name of constitution of this state=Oregon Constitution
+
+name of session laws=Session laws published by the Legislative Counsel under ORS 171.236
+
+name of state code=Oregon Revised Statutes
+
+categories of decisions to be included=Oregon Administrative Rules
+
+Constitution.appropriate agency or official=Legislative Counsel
+
+SessionLaws.appropriate agency or official=Legislative Counsel
+
+StateCode.agency or official=Legislative Counsel
+
+name of administrative code=Oregon Administrative Rules
+
+Rule.agency or official=Secretary of State
+
+the effective date of this act=<b>Fix</b>
+
+StartDate._sec=This {act} being necessary for the immediate preservation of the public peace, health and safety, an emergency is declared to exist, and this {act} takes effect on its passage.
+
+Def.Legal_Material.List=<ol type="A"><li>{LM.Const};</li><li>{LM.Session};</li><li>{LM.Code}; or</li><li>{LM.AgencyRule}.</li></ol>
+
+Def.Official_Publisher.List=<ol type="A"><li>{OP.Const};</li><li>{OP.Session};</li><li>{OP.Code}; or</li><li>{OP.AgencyRule}.</li></ol>
+
+Def.Xnum=1
+OfficialRecord.Xnum=2
+AuthenticateHow.Xnum=3
+Care.Xnum=5
+Access.Xnum=6
+
+
