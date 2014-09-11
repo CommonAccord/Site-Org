@@ -1,0 +1,16 @@
+This is demo "Deals."  Not real ones.  Pretend. 
+<p>=
+<p>=
+An example=Steps in a transaction:
+=[core/deal/escrow/Binder_of_4_Steps]
+<p>=
+Startup docs= are a pain for founders, many of whom would be much happier to handle their legal text the way they handle their real text ... as code, in git:
+=[core/deal/startup/ReadMe]
+
+<p>=
+Master Service Agreements= are a major pain point for large businesses and for the smaller businesses that are or want to be their suppliers.
+=[core/deal/master/Acme-Quake_MasterServices_Demo_1_d02]
+<p>The "boilerplate"= provisions of these kinds of agreements are often actually negotiated by sophisticated teams on both sides.  They therefore present an opportunity to make a kind of "common commercial law" or "commons" of commercial law.  We've made a start on what that might look like.
+
+
+			

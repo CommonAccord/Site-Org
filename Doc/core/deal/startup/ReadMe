@@ -1,0 +1,19 @@
+Startups= present a particularly acute document problem.  The founders are often young, inexperienced, without the resources to engage counsel for extensive work.  They don't know the issues.  They get surprised.  Or they mess up.  The incubators and VCs know that this is a problem, and have made efforts to codify documents for the early stages.  
+
+NVCA=the granddaddy of codification of legal docs in the VC world are the NVCA model agreements.  <a href="http://nvca.org/index.php?option=com_content&view=article&id=108&Itemid=136">NVCA Model Docs</a>  Here we have only begun the job of codification - just the Term Sheet - and that rather roughly.  We did all the docs in some earlier versions, in our earlier prototypes.  But we need to do it again here.  They will be very influential.  Particularly, their more extensive provisions become less burdensome if the document handling ceases to be a problem.
+<p>=
+<p>=
+An example=Steps in a transaction:
+=[core/deal/escrow/Binder_of_4_Steps]
+<p>=
+Startup docs= are a pain for founders, many of whom would be much happier to handle their legal text the way they handle their real text ... as code, in git:
+=[core/deal/startup/ReadMe]
+
+<p>=
+Master Service Agreements= are a major pain point for large businesses and for the smaller businesses that are or want to be their suppliers.
+=[core/deal/master/Acme-Quake_MasterServices_Demo_1_d02]
+<p>The "boilerplate"= provisions of these kinds of agreements are often actually and seriously negotiated by sophisticated teams on both sides.  They therefore present an opportunity to make a kind of "common commercial law" or "commons" of commercial law.  We've made a start on what that might look like.  See, particularly the Environment, IP and PersonalInfo sections.
+
+
+
+				
