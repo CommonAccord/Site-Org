@@ -1,20 +1,29 @@
 Welcome all!
 
-CommonAccord is= "codified" legal documents.&#8194;  Documents broken up into their constituent components, labeled and organized.&#8194;  "Rendering" back into complete documents.&#8194; Code in the original sense of the Uniform Commercial and Napoleonic Codes. 
+1=CommonAccord is "codified" legal documents.&#8194;  Documents broken up into their constituent components, labeled and organized.&#8194;  "Rendering" back into complete documents.&#8194; Code in the original sense of the Uniform Commercial and Napoleonic Codes. 
 
-and="code-ified" law. It uses the methods and tools of software coding.&#8194; Key/values, inheritance, text files, html, sharing and versioning via git.&#8194;  "Law" in the sense of "the law of the parties."&#8194;  Terms that parties voluntarily adopt.&#8194;  Usually by signing.&#8194;  Like "law" because shared text, created by community, with history, comments.  A "commons."
+2=It is "code-ified" law. It uses the methods and tools of software coding.&#8194; Key/values, inheritance, text files, html, sharing and versioning via git.&#8194;  "Law" in the sense of "the law of the parties."&#8194;  Terms that parties voluntarily adopt.&#8194;  Usually by signing.&#8194;  Like "law" because shared text, created by community, with history, comments.  A "commons."
 
 <p>=
 <p>=
-To get started=learn how it works by following the development of a document at:
+
+3=To get started=learn how it works by following the development of a document at:
 =[about/how/Lesson1]
 <p>=
 <p>=
-See= a few example documents at:
+4=See a few example documents at:
 =[core/deal/ReadMe]
 <p>=
 <p>=
-Review=form documents at
+5=Review form documents at
 <p>=[core/form/ReadMe]
 <p>=
-<p>=Pull the code and documents from <a href="http://github.com/CommonAccord/Alpha">CommonAccord at Github</a>						
+6=Pull the code and documents from <a href="http://github.com/CommonAccord/Alpha">CommonAccord at Github</a>							
+
+Model.Root={List.1-10}
+
+List.1-10={ol-}{1}{-li-}{2}{-li-}{3}{-li-}{4}{-li-}{5}{-li-}{6}{-ol}
+
+ol-=<ol><li>
+-li-=</li><li>
+-ol=</li></ol>	
