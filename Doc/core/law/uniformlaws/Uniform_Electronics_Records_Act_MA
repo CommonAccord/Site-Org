@@ -1,5 +1,7 @@
 =[core/law/uniformlaws/Uniform_Electronics_Records_Act]
 
+ST.=[core/at/USA/MA/Geo]
+
 Doc.Body=<u>SECTION 1</u>. The General Laws are hereby amended by inserting after chapter 4:--<br><br><u>CHAPTER 5</u><br>{Act.Body}<br><br><u>SECTION 2</u>. This Act takes effect on July first, two thousand and fourteen.
 
 StartDate._Sec={_delete_}
@@ -7,11 +9,11 @@ Def.Legal_Material.List=<ol type="A"><li>{LM.Const};</li><li>{LM.Session};</li><
 
 Def.Official_Publisher.List=<ol type="A"><li>{OP.Const};</li><li>{OP.Agency};</li><li>{OP.Other}; or</li><li>{OP.Decision}.</li></ol>
 
-LM.Const=the Constitution of the Commonwealth of Massachusetts
+LM.Const=the {ST.Constitution}
 
 LM.Session=the Session Laws
 
-LM.Code=the General Laws
+LM.Code=the {ST.Statutes}
 
 LM.Agency=a state agency rule or decision that has or had the effect of law
 
@@ -28,4 +30,4 @@ OP.Other=for the material recited in subsection (2)(E), the Secretary of the Com
 OP.Decision=for the material recited in subsection (2)(F), the Supreme Judicial Court
 
 
-	
+		
