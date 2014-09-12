@@ -1,5 +1,9 @@
 Model.Root={Doc.Body}
 
+UserContent.=[core/form/agt/web/tou/userContent/UC_Sec]
+
+Arbitration.=[core/form/agt/web/tou/arbitration/Arb_Sec]
+
 Doc.Body={Prologue}{AGT.Secs._Lost}
 
 Prologue={Prologue.Warning}<br><br>{Prologue.Scope}<br><br>{Prologue.WeMayModify}
@@ -24,8 +28,6 @@ YourRisk.YouControl._Lost=<ol><li>{YourRisk.YouControl.Payment._cl}</li><li>{You
 
 Copyright._Sec=<u>Copyright and Limited License</u>.   <ol><li>{Copyright.WeOwn._Sec}</li><li>{Copyright.YourLicense._Sec}</li></ol>
 
-UserContent.=[core/form/agt/web/tou/sec/UserContent_Library]
-
 TakeDown._Sec=<u>Copyright Complaints</u>.   <ol><li>{TakeDown.To._Sec}</li><li>{TakeDown.Form._Sec}</li><li>{TakeDown.False._Sec}</li></ol>
 
 Trademark._Sec=<u>Trademarks</u>.  <ol><li>{Trademark.WeOwn._Sec}</li><li>{Trademark.Hidden._Sec}</li><li>{Trademark.LookFeel._Sec}</li><li>{Trademark.3Party._Sec}</li></ol>
@@ -44,8 +46,6 @@ Disclaim._Sec=<u>Disclaimer of Warranties</u>.  <ol style="text-transform: upper
 LimitLiab._Sec=<u>Limitation of Liability</u><ol style="text-transform: uppercase;"><li>{LimitLiab.Damages._Sec}</li><li>{LimitLiab.Aggregate._Sec}</li><li>{LimitLiab.MayNotApply._Sec}</li></ol>
 
 Dispute._Sec={Arbitration._Sec}
-
-Arbitration.=[core/form/agt/web/tou/sec/Arbitration_Library]
 
 <b>Introduction</b>=-
 
