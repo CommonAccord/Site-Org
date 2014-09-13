@@ -21,3 +21,10 @@
 
 </table>
 
+
+
+<style>
+	#filelist { 
+		display: none;
+	}
+</style>
