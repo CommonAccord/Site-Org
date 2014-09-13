@@ -1,4 +1,4 @@
-<h6>CommonAccord recognizes that the world has structure:</h6>
+<h6>CommonAccord reflects the structure of the world:</h6>
 
 <table>
 
@@ -37,8 +37,8 @@
 <td>Is for places.   1 Broadway, Cambridge MA, USA becomes at/usa/ma/middlesex/cambridge/broadway/1/geo.</td></tr>
 <tr>
 <td><img src="http://www.lakelocal.org/forms/PublishingImages/forms-icon.jpg"height="70px"></td>
-<td><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/core/law/>deal</a></td>
-   <td>Deals are events that connect people.  Making an application, granting a permit, signing a deal or sending a draft.  Each is a form connected to some persons and a history.</td>
+<td><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/event/>event</a></td>
+   <td>Events are transactions that connect people.  Making an application, granting a permit, signing a deal, sending a draft.  Each is a connection between some persons, a form and a history. History is the chain succession of deals.</td>
 </tr>
 
 </table>
