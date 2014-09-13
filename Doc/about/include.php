@@ -44,7 +44,7 @@
 </table>
 
 <h6>Learn <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/about/how/>how it works</a>.</h6>
-<h6>See <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/event/>some dealse</a>.</h6>
+<h6>See <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/event/>some deals</a>.</h6>
 
 <h6>Go to <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/core/>the core</a>.</h6>
 
