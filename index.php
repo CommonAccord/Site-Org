@@ -23,6 +23,9 @@ echo "<u>$dir:</u><br>";
 
 $files = scandir($dir);
 
+if(file_exists($dir . 'include.php'))
+    include $dir . 'include.php';
+
 foreach($files as $f) {
 	if(is_dir($path.$dir.$f)) {
 		if( !( ($f == '.') || ($f == '..')) ) {
