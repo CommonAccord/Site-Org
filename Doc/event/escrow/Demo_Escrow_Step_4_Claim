@@ -1,6 +1,6 @@
 =[core/form/agt/escrow/Claim_Form]
 
-=[core/deal/escrow/Demo_Escrow_Step_3_Signature]
+=[event/escrow/Demo_Escrow_Step_3_Signature]
 
 Claim.YMD=2014-08-16
 
