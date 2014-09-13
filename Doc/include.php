@@ -1,1 +1,2 @@
-<a6>"about" has the overview.  "core" has the shared materials, and "me" is for your own work.</a6>
+<h5><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/about/>To get started see about</a>.</h5>
+
