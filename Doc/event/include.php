@@ -1,4 +1,4 @@
-Events connect people, and sometimes things and places.  These are pretend events.  The real ones are at me/.
+Events connect people, things and places.  These are pretend events.  Real ones should be at me/.
 
 
 			
