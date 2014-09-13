@@ -31,7 +31,9 @@ foreach($files as $f) {
 		}
 	}
 	else {
-		echo "<br><a href=$_SERVER[PHP_SELF]?action=source&file=$dir$f>$f</a>";
+		if( !( ($f == 'include.php') ) ) {
+			echo "<br><a href=$_SERVER[PHP_SELF]?action=source&file=$dir$f>$f</a>";
+		}
 	}
 }
 
