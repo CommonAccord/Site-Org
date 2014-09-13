@@ -23,6 +23,9 @@ echo "<u>$dir:</u><br>";
 
 $files = scandir($dir);
 
+if(file_exists($dir . 'include.php'))
+    include $dir . 'include.php';
+
 foreach($files as $f) {
 	if(is_dir($path.$dir.$f)) {
 		if( !( ($f == '.') || ($f == '..')) ) {
@@ -31,7 +34,9 @@ foreach($files as $f) {
 		}
 	}
 	else {
-		echo "<br><a href=$_SERVER[PHP_SELF]?action=source&file=$dir$f>$f</a>";
+		if( !( ($f == 'include.php') ) ) {
+			echo "<br><a href=$_SERVER[PHP_SELF]?action=source&file=$dir$f>$f</a>";
+		}
 	}
 }
 
