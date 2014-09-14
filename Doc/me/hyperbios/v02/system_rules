@@ -1,5 +1,8 @@
 =[core/class/Doc_Table]
 
+Technology.[me/hyperbios/v02/technical]
+
+
 Co.Name=MITRE
 
 Model.Root={_Body}
@@ -19,7 +22,7 @@ Meta.For=Commissioned by and for:<br> {OpenID.ProjectLead.ContactInfo}
 Meta.By.Architect=Trust Framework Architect: {OpenID.TFA.ContactInfo}
 
 
-Doc.Secs={ol-}{Bus._Sec}{-ol} {-li-} {2._Sec} {-li-}   {3._Sec} {-ol}
+Doc.Secs={ol-}{Bus._Sec}{-ol} {-li-} {Legal._Sec} {-li-}   {3._Sec} {-ol}
 
 Bus._Sec={st-}{Bus.Title} {-sto} {Bus._sec}
 
@@ -48,9 +51,9 @@ Bus.Role._Sec={st-}{Bus.Role.Title}{-sto}{Bus.Role._sec}{-ol}
 
 Bus.Role.Title=Roles and Relationships
 
-2.Comment.1=Commentary: The Roles and Relationships are core to the Trust Framework and System Rules, and require further conversation and feedback to adequately define. Below is an initial list of typical and relevant roles found within identify federations.
+Bus.Comment.1=Commentary: The Roles and Relationships are core to the Trust Framework and System Rules, and require further conversation and feedback to adequately define. Below is an initial list of typical and relevant roles found within identify federations.
 
-2.Comment.2=Commentary: If and when an external partner organization is recognized as a White Listed Identity Provider or Relying Party for its employees or other approved Users, an approach to this section might be to point toward a document listing the current participating white listed partners and for that document, directory, or repository to include the names of parties playing each role, as well as the relevant meta data and other technical information that may be available. This approach is modeled in Addendum 3.
+Bus.Comment.2=Commentary: If and when an external partner organization is recognized as a White Listed Identity Provider or Relying Party for its employees or other approved Users, an approach to this section might be to point toward a document listing the current participating white listed partners and for that document, directory, or repository to include the names of parties playing each role, as well as the relevant meta data and other technical information that may be available. This approach is modeled in Addendum 3.
 
 Bus.Role._sec={Bus.Role.PolicyAuthority._Sec} {-li-}  {Bus.Role.Operator._Sec} {-li-}  {Bus.Role.Provider._Sec} {-li-}  {Bus.Role.UserAuthority._Sec} {-li-}  {Bus.Role.User._Sec}{-li-}  {Bus.Role.RelyingParty._Sec}{-li-}  {Bus.Role.CertificationAssessor._Sec}
 
@@ -159,110 +162,128 @@ Bus.Process._sec=The following business processes and practices apply to the use
 Bus.Process.Comment.1=Commentary: At this time, the actual practices and procedures to operate and use {Co.Name} External Identity Federation are largely ad hoc and tailored to the prototype scope of this initiative. However, eventually if and when use of {Co.Name} Identity Federation becomes a regular, operational production grade element of {Co.Name} systems, the recording of processes and practices applicable to key roles and parties will be important. It is typically best to note the details of these processes and practices in external documents, including guidance, FAQ and help files, which may be updated from time to time with little or no approval or notice, provided they do not violate any requirement or constraint in the System Rules or other applicable rules.
 
 
-2._Sec={st-}{2.Title}{-sto} {2._sec}{-ol}
+Legal._Sec={st-}{Legal.Title}{-sto} {Legal._sec}{-ol}
 
 
-2.Title=LEGAL RULES
+Legal.Title=LEGAL RULES
 
-2._sec={2.1._Sec}{-li-}{2.2._Sec}{-li-}{2.3._Sec}{-li-}{2.4._Sec}{-li-}{2.5._Sec}{-li-}{2.6._Sec}{-li-}{2.7._Sec}{-li-}{2.8._Sec}{-li-}{2.9._Sec}{-li-}{2.10._Sec}
+/Legal._sec={Legal.Apply._Sec}{-li-}{Legal.AuthoritativeRules._Sec}{-li-}{Legal.Liability._Sec}{-li-}{Legal.Records._Sec}{-li-}{Legal.ServiceLevel._Sec}{-li-}{Legal.Amend._Sec}{-li-}{Legal.UserMinimumTerms._Sec}{-li-}{Legal.Priority._Sec}{-li-}{Legal.Law._Sec}{-li-}{Legal.Notice._Sec}
 
-
-2.1._Sec={st-}{2.1.Title}{-stb} {2.1._sec}
-
-2.1.Title=Application of These Rules
-
-2.1._sec={2.1.1._Sen}{br}{2.1.2._Sen}
-
-2.1.1._Sen=These rules apply to the issuance, use, acceptance of or reliance on Derived Federated Credentials within the {Co.Name} External Identity Federation.
-
-2.1.2._Sen=Neither this Trust Framework, nor any course between the Parties hereunder, shall constitute or create a partnership, joint venture, principal-agent relationship or employer-employee relationship between the Parties.
-
-2.2._Sec={st-}{2.2.Title}{-stb} {2.2._sec}
-
-2.2.Title=Authoritative Rules and Incorporation by Reference
-
-2.2._sec={2.2.1._Sen}{br}{2.2.2._Sen}
-
-2.2.1._Sen=The authoritative current version of the Trust Framework System Rules can be found at www.mitre.org/trustframework ((note actual URL to be determined)). These Rules, including all documents explicitly Incorporated by Reference, provide standard default terms for use of the External Identity Federation, but in the event of a conflict between the terms of an existing contract between parties governing the terms of access to relevant applications or services, then the terms of the existing contract shall govern.
-
-2.2.2._Sen=When the text of these Rules explicitly refers to a &ldquo;document Incorporated by Reference&rdquo; and includes a URL to the authoritative version of that document, then the content of that document shall have the same force and effect as if directly published within these Rules.
+Legal._sec={Legal.Apply._Sec}{-li-}{Legal.AuthoritativeRules._Sec}{-li-}{Legal.Liability._Sec}{-li-}{Legal.Records._Sec}{-li-}{Legal.ServiceLevel._Sec}{-li-}{Legal.Amend._Sec}{-li-}{Legal.UserMinimumTerms._Sec}{-li-}{Legal.Priority._Sec}{-li-}{Legal.Law._Sec}{-li-}{Legal.Notice._Sec}
 
 
-2.3._Sec={st-}{2.3.Title}{-stb} {2.3._sec}
+Legal.Apply._Sec={st-}{Legal.Apply.Title}{-stb} {Legal.Apply._sec}
 
-2.3._sec={2.3.1._Sen}{br}{2.3.2._Sen}
+Legal.Apply.Title=Application of These Rules
 
-2.3.Title=Liability, Warranties and Indemnification
+Legal.Apply._sec={Legal.Apply.DFC._Sen}{br}{Legal.Apply.DisclaimAgency._Sen}
 
-2.3.1._Sen=THE {Co.Name} CORPORATION MAKES NO WARRANTY, EXPRESS OR IMPLIED, AS TO THE ACCURACY, CAPABILITY, EFFICIENCY, MERCHANTABILITY, OR FUNCTIONALITY OF {Co.Name}id OR {Co.Name} EXTERNAL IDENTITY FEDERATION OR ANY INFORMATION OR SERVICES COMPRISING OR RELATED TO {Co.Name}id OR {Co.Name} EXTERNAL IDENTITY FEDERATION. IN NO EVENT WILL THE {Co.Name} CORPORATION BE LIABLE FOR ANY GENERAL, CONSEQUENTIAL, INDIRECT, INCIDENTAL, EXEMPLARY, OR SPECIAL DAMAGES, EVEN IF {Co.Name} HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+Legal.Apply.DFC._Sen=These rules apply to the issuance, use, acceptance of or reliance on Derived Federated Credentials within the {Co.Name} External Identity Federation.
 
-2.3.2._Sen=ANY NON-{Co.Name} PARTY SUBJECT TO THIS TRUST FRAMEWORK AGREES TO INDEMNIFY AND HOLD HARMLESS {Co.Name}, ITS AFFILIATES AND SUBSIDIARIES, AND THEIR RESPECTIVE DIRECTORS OR TRUSTEES, OFFICERS, EMPLOYEES AND AGENTS FROM ANY AND ALL INJURIES, LOSSES, CLAIMS AND DAMAGES TO ANY PERSON OR PROPERTY UNDER ANY THEORY OF LIABILITY AND IRRESPECTIVE OF THE CAUSE OF SAID LIABILITY, AND ALL COSTS AND EXPENSES INCLUDING WITHOUT LIMITATION, ATTORNEYS' FEES AND ANY OTHER LIABILITIES INCURRED BY {Co.Name} AS A RESULT OF ANY NEGLIGENT OR WILLFUL ACTION OR OMISSION OF SUCH PARTY, HIS/HER EMPLOYEES OR AGENTS, OR ARISING OUT OF OR RESULTING IN ANY MANNER IN WHOLE OR IN PART FROM THE SUCH PARTY'S USE OF OR RELIANCE UPON {Co.Name}id OR {Co.Name} EXTERNAL IDENTITY FEDERATION OR ANY INFORMATION OR SERVICES COMPRISING OR RELATED TO {Co.Name}id OR {Co.Name} EXTERNAL IDENTITY FEDERATION.
+Legal.Apply.DisclaimAgency._Sen=Neither this Trust Framework, nor any course between the Parties hereunder, shall constitute or create a partnership, joint venture, principal-agent relationship or employer-employee relationship between the Parties.
+
+
+Legal.AuthoritativeRules._Sec={st-}{Legal.AuthoritativeRules.Title}{-stb} {Legal.AuthoritativeRules._sec}
+
+Legal.AuthoritativeRules.Title=Authoritative Rules and Incorporation by Reference
+
+Legal.AuthoritativeRules._sec={Legal.AuthoritativeRules.1._Sen}{br}{Legal.AuthoritativeRules.2._Sen}
+
+Legal.AuthoritativeRules.1._Sen=The authoritative current version of the Trust Framework System Rules can be found at www.mitre.org/trustframework ((note actual URL to be determined)). These Rules, including all documents explicitly Incorporated by Reference, provide standard default terms for use of the External Identity Federation, but in the event of a conflict between the terms of an existing contract between parties governing the terms of access to relevant applications or services, then the terms of the existing contract shall govern.
+
+Legal.AuthoritativeRules.2._Sen=When the text of these Rules explicitly refers to a &ldquo;document Incorporated by Reference&rdquo; and includes a URL to the authoritative version of that document, then the content of that document shall have the same force and effect as if directly published within these Rules.
 
 
 
-2.4._Sec={st-}{2.4.Title}{-stb} {2.4._sec}
+Legal.Liability._Sec={st-}{Legal.Liability.Title}{-stb} {Legal.Liability._sec}
 
-2.4.Title=Record Keeping and Reporting
+Legal.Liability._sec={Legal.Liability.1._Sen}{br}{Legal.Liability.2._Sen}
 
-2.4._sec=The required log files for Identity Providers and White Listed Relying Parties under Section 3.6 of this Trust Framework must be protected and maintained in accordance with reasonable commercial practices or as specified in any applicable certification or agreement. Such log files must be made available to {Co.Name} upon request when reasonably necessary to ensure {Co.Name} External Identity Federation system integrity or for purposes of troubleshooting {Co.Name} system issues.
+Legal.Liability.Title=Liability, Warranties and Indemnification
 
-2.4.Comment.1=Commentary: This section can, of course, be vastly more complex and prescriptive. However, given the current preliminary state of the {Co.Name}id prototype and the general interest in making interconnection a relatively easy matter, the requirements on third parties for administrative and other uncompensated duties have been greatly reduced. In addition, in the event of a White Listed or other trusted partner, it is possible that an additional agreement may specify higher level obligation regarding record keeping.
+Legal.Liability.1._Sen=THE {Co.Name} CORPORATION MAKES NO WARRANTY, EXPRESS OR IMPLIED, AS TO THE ACCURACY, CAPABILITY, EFFICIENCY, MERCHANTABILITY, OR FUNCTIONALITY OF {Co.Name}id OR {Co.Name} EXTERNAL IDENTITY FEDERATION OR ANY INFORMATION OR SERVICES COMPRISING OR RELATED TO {Co.Name}id OR {Co.Name} EXTERNAL IDENTITY FEDERATION. IN NO EVENT WILL THE {Co.Name} CORPORATION BE LIABLE FOR ANY GENERAL, CONSEQUENTIAL, INDIRECT, INCIDENTAL, EXEMPLARY, OR SPECIAL DAMAGES, EVEN IF {Co.Name} HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
-2.5._Sec={st-}{2.5.Title}{-stb} {2.5._sec}
-
-2.5.Title=No Service Level Guarantee
-
-2.5._sec=Reasonable efforts are made to maintain service, however you may notice occasional outages or disruptions as {Co.Name}id is being continuously refined. Under this Trust Framework, support of {Co.Name} External Identity Federation services as Identity Provider and/or Relying Party and/or otherwise may be modified or discontinued at any time and with no notice.
-
-2.5.Comment.1=Commentary: This term may need to be modified within the Trust Framework to provide a notice period before discontinuation of the service if {Co.Name} intends for external parties to rely upon the service in the future. In addition, this term may need to be modified in the event {Co.Name} enters into a trusted partner agreement with entities on a White List and with whom more stable service levels are negotiated. In the event of such an additional White List or other trusted partner agreement, the additional service guaranties would supersede the terms of this Trust Framework under Section 2.8, defining Order of Precedence herein.
+Legal.Liability.2._Sen=ANY NON-{Co.Name} PARTY SUBJECT TO THIS TRUST FRAMEWORK AGREES TO INDEMNIFY AND HOLD HARMLESS {Co.Name}, ITS AFFILIATES AND SUBSIDIARIES, AND THEIR RESPECTIVE DIRECTORS OR TRUSTEES, OFFICERS, EMPLOYEES AND AGENTS FROM ANY AND ALL INJURIES, LOSSES, CLAIMS AND DAMAGES TO ANY PERSON OR PROPERTY UNDER ANY THEORY OF LIABILITY AND IRRESPECTIVE OF THE CAUSE OF SAID LIABILITY, AND ALL COSTS AND EXPENSES INCLUDING WITHOUT LIMITATION, ATTORNEYS' FEES AND ANY OTHER LIABILITIES INCURRED BY {Co.Name} AS A RESULT OF ANY NEGLIGENT OR WILLFUL ACTION OR OMISSION OF SUCH PARTY, HIS/HER EMPLOYEES OR AGENTS, OR ARISING OUT OF OR RESULTING IN ANY MANNER IN WHOLE OR IN PART FROM THE SUCH PARTY'S USE OF OR RELIANCE UPON {Co.Name}id OR {Co.Name} EXTERNAL IDENTITY FEDERATION OR ANY INFORMATION OR SERVICES COMPRISING OR RELATED TO {Co.Name}id OR {Co.Name} EXTERNAL IDENTITY FEDERATION.
 
 
-2.6._Sec={st-}{2.6.Title}{-stb} {2.6._sec}
-
-2.6.Title=Amendment
-
-2.6._sec={Co.Name} reserves the right at any time to make changes to this Trust Framework at any time by posting an updated version of this Trust Framework to www.mitre.org/trustframework ((note actual URL to be determined)).
-
-2.7._Sec={st-}{2.7.Title}{-stb} {2.7._sec}
-
-2.7.Title=Minimum Terms
-
-2.7._sec=In the coding and implementation of {Co.Name}id services subject to this Trust Framework, Users should see the following terms ((TBD)):
-
-2.7.Comment.1=Commentary: At this time, it is premature to include minimum mandatory terms. However, this section serves as a placeholder for the results of future discussion with {Co.Name} corporate counsel and other officials regarding required end-User terms, such as liability limitations, links to broader terms or privacy policy, notice of information sharing, consent to &ldquo;remember&rdquo; login authorization and similar terms.
 
 
-2.8._Sec={st-}{2.8.Title}{-stb} {2.8._sec}
+Legal.Records._Sec={st-}{Legal.Records.Title}{-stb} {Legal.Records._sec}
+
+Legal.Records.Title=Record Keeping and Reporting
+
+Legal.Records._sec=The required log files for Identity Providers and White Listed Relying Parties under Section 3.6 of this Trust Framework must be protected and maintained in accordance with reasonable commercial practices or as specified in any applicable certification or agreement. Such log files must be made available to {Co.Name} upon request when reasonably necessary to ensure {Co.Name} External Identity Federation system integrity or for purposes of troubleshooting {Co.Name} system issues.
+
+Legal.Records.Comment.1=Commentary: This section can, of course, be vastly more complex and prescriptive. However, given the current preliminary state of the {Co.Name}id prototype and the general interest in making interconnection a relatively easy matter, the requirements on third parties for administrative and other uncompensated duties have been greatly reduced. In addition, in the event of a White Listed or other trusted partner, it is possible that an additional agreement may specify higher level obligation regarding record keeping.
+
+
+Legal.ServiceLevel._Sec={st-}{Legal.ServiceLevel.Title}{-stb} {Legal.ServiceLevel._sec}
+
+Legal.ServiceLevel.Title=No Service Level Guarantee
+
+Legal.ServiceLevel._sec=Reasonable efforts are made to maintain service, however you may notice occasional outages or disruptions as {Co.Name}id is being continuously refined. Under this Trust Framework, support of {Co.Name} External Identity Federation services as Identity Provider and/or Relying Party and/or otherwise may be modified or discontinued at any time and with no notice.
+
+Legal.ServiceLevel.Comment.1=Commentary: This term may need to be modified within the Trust Framework to provide a notice period before discontinuation of the service if {Co.Name} intends for external parties to rely upon the service in the future. In addition, this term may need to be modified in the event {Co.Name} enters into a trusted partner agreement with entities on a White List and with whom more stable service levels are negotiated. In the event of such an additional White List or other trusted partner agreement, the additional service guaranties would supersede the terms of this Trust Framework under Section 2.8, defining Order of Precedence herein.
+
+
+
+Legal.Amend._Sec={st-}{Legal.Amend.Title}{-stb} {Legal.Amend._sec}
+
+Legal.Amend.Title=Amendment
+
+Legal.Amend._sec={Co.Name} reserves the right at any time to make changes to this Trust Framework at any time by posting an updated version of this Trust Framework to www.mitre.org/trustframework ((note actual URL to be determined)).
+
+
+
+
+Legal.UserMinimumTerms._Sec={st-}{Legal.UserMinimumTerms.Title}{-stb} {Legal.UserMinimumTerms._sec}
+
+Legal.UserMinimumTerms.Title=Minimum Terms
+
+Legal.UserMinimumTerms._sec=In the coding and implementation of {Co.Name}id services subject to this Trust Framework, Users should see the following terms ((TBD)):
+
+Legal.UserMinimumTerms.Comment.1=Commentary: At this time, it is premature to include minimum mandatory terms. However, this section serves as a placeholder for the results of future discussion with {Co.Name} corporate counsel and other officials regarding required end-User terms, such as liability limitations, links to broader terms or privacy policy, notice of information sharing, consent to &ldquo;remember&rdquo; login authorization and similar terms.
+
+
+
+
+Legal.Priority._Sec={st-}{Legal.Priority.Title}{-stb} {Legal.Priority._sec}
  
-2.8.Title=Order of Precedence
+Legal.Priority.Title=Order of Precedence
 
-2.8._sec=In the event {Co.Name} Corporation and another Party subject to this Trust Framework and any documents or policies incorporated by reference also are subject to another contract or other enforceable agreement and there is an inconsistency or conflict between terms of any of those documents, the inconsistency or conflict shall be resolved in accordance with the following order of precedence: {2.8._List}
+Legal.Priority._sec=In the event {Co.Name} Corporation and another Party subject to this Trust Framework and any documents or policies incorporated by reference also are subject to another contract or other enforceable agreement and there is an inconsistency or conflict between terms of any of those documents, the inconsistency or conflict shall be resolved in accordance with the following order of precedence: {Legal.Priority._List}
 
-2.8._List={ol-} {2.8.1}{-li-} {2.8.2}{-li-}{2.8.3}{-li-}{2.8.4}{-li-}{2.8.5}{-ol}
+Legal.Priority._List={ol-} {Legal.Priority.AgtBetweenP2andOtherParty}{-li-} {Legal.Priority.P2Policy}{-li-}{Legal.Priority.P2TermsOfUse}{-li-}{Legal.Priority.TrustFramework}{-li-}{Legal.Priority.OtherDocs}{-ol}
 
-2.8.1=The Contract or other enforceable agreement between {Co.Name} and the other Party or Parties
+Legal.Priority.AgtBetweenP2andOtherParty=The Contract or other enforceable agreement between {Co.Name} and the other Party or Parties
 
-2.8.2=Any {Co.Name} policy of other official document incorporated by reference into this Trust Framework
+Legal.Priority.P2Policy=Any {Co.Name} policy of other official document incorporated by reference into this Trust Framework
 
-2.8.3=The Terms of Use and/or {Co.Name} Privacy Policy of the site being accessed with a Derived Federated Credential
-2.8.4=This Trust Framework
+Legal.Priority.P2TermsOfUse=The Terms of Use and/or {Co.Name} Privacy Policy of the site being accessed with a Derived Federated Credential
 
-2.8.5=Any other documents, including technical standards, protocols or industry guidelines
+Legal.Priority.TrustFramework=This Trust Framework
+
+Legal.Priority.OtherDocs=Any other documents, including technical standards, protocols or industry guidelines
 
 
-2.9._Sec={st-}{2.9.Title}{-stb} {2.9._sec}
 
-2.9.Title=Applicable Law
 
-2.9._sec=This Trust Framework will be governed by the laws of the Commonwealth of Virginia without regard to Virginia conflicts of laws rules.
+Legal.Law._Sec={st-}{Legal.Law.Title}{-stb} {Legal.Law._sec}
 
-2.9.Comment.1=Commentary: Given that {Co.Name} Corporation is incorporated in Delaware, it is possible {Co.Name} legal counsel may seek Delaware or the law of another state to govern in this section. The reference to Virginia law reflects a clause on other {Co.Name} contracts and therefore is used as the starting point for this draft.
+Legal.Law.Title=Applicable Law
 
-2.10._Sec={st-}{2.10.Title}{-stb} {2.10._sec}
+Legal.Law._sec=This Trust Framework will be governed by the laws of the Commonwealth of Virginia without regard to Virginia conflicts of laws rules.
 
-2.10.Title=Notice and Points of Contact
+Legal.Law.Comment.1=Commentary: Given that {Co.Name} Corporation is incorporated in Delaware, it is possible {Co.Name} legal counsel may seek Delaware or the law of another state to govern in this section. The reference to Virginia law reflects a clause on other {Co.Name} contracts and therefore is used as the starting point for this draft.
 
-2.10._sec=Any notices, requests, demands or other communications transmitted to {Co.Name} and related to this Trust Framework shall be in writing and shall be effective when delivered in person or mailed, postage prepaid, registered or certified, and addressed to the address stated below. {Notice.Block}
+
+
+
+Legal.Notice._Sec={st-}{Legal.Notice.Title}{-stb} {Legal.Notice._sec}
+
+Legal.Notice.Title=Notice and Points of Contact
+
+Legal.Notice._sec=Any notices, requests, demands or other communications transmitted to {Co.Name} and related to this Trust Framework shall be in writing and shall be effective when delivered in person or mailed, postage prepaid, registered or certified, and addressed to the address stated below. {Notice.Block}
 
 Notice.Block=<table><tr><td>{Co.Notice.Block}{br}</td><td>{Tech.Notice.Block}</td></tr></table>
 
@@ -275,286 +296,5 @@ Tech.Notice.Attn={OpenID.ProjectLead.ContactInfo}
 Should return=Attention: {OpenID.ProjectLead.ContactInfo}
 
 
-3._Sec={st-}{3.Title}{-sto} {3._sec}{-ol}
 
-3.Title=TECHNOLOGY RULES
 
-3._sec={3.1._Sec}{-li-}{3.2._Sec}{-li-}{3.3._Sec}{-li-}{3.4._Sec}{-li-}{3.5._Sec}{-li-}{3.6._Sec}
-
-3.1.Title=Technical Scope
-
-
-3.1._Sec={st-}{3.1.Title}{-stb} {3.1._sec}
-
-3.1.1.Title=Technical Use Cases
-
-3.1._sec=The following use cases are supported under this Trust Framework: [TBD]
-
-3.1.Comment.1=Commentary: For so long as {Co.Name}id is an early-stage research prototype, it is premature to focus on detailed documentation of supported use cases. However, this draft Trust Framework anticipates a future state at which external and internal parties will seek to implement and interoperate with {Co.Name} External Identity Federation services and the important role of this document to facilitate and regulate adoption. To that end, the types of technical use cases that would be relevant and constructive to detail in the future are noted below.
-
-={Co.Name}id User Logs Into Grey Listed Relying Party
-={Co.Name}id User Logs Into White Listed Relying Party
-={Co.Name}id User Logs Into Black Listed Relying Party
-=Non-{Co.Name} User Logs Into {Co.Name} External Identity Federation Enabled Site
-=Non-{Co.Name} CAC User Logs Into {Co.Name} External Identity Federation Enabled Site
-={Co.Name} Relying Party Site Implements {Co.Name} External Identity Federation Access
-=Non-{Co.Name} Identity Provider Added to {Co.Name} External Identity Federation White List
-=Non-{Co.Name} Relying Party Site Accepts {Co.Name}id User Login
-
-
-
-3.1.2._Sec={st-}{3.1.2.Title}{-stb} {3.1.2._sec}
-
-
-3.1.2.Title=Technical Architecture
-
-3.1.2.Comment.1=Commentary: In this section, if desired, {Co.Name} can describe its technical architecture. The current diagrams depicting initial architectural approach are included in Addendum 2.b below.
-
-
-
-3.2._Sec={st-}{3.2.Title}{-sto} {3.2._sec}{-ol}
-
-3.2.Title=Standards for Derived Federated Credentials for External Identity Federation
-
-
-3.2._sec={3.2.1._Sec}{-li-}{3.2.2._Sec}
-
-
-
-
-3.2.1._Sec={st-}{3.2.1.Title}{-sto} {3.2.1._sec}{-ol}
-
-3.2.1.Title=OpenID 2.0
-
-3.2.1._sec={3.2.1.1._Sec}{-li-}{3.2.1.2._Sec}
-
-
-3.2.1.1._Sec={st-}{3.2.1.1.Title}{-stb} {3.2.1.1._sec}
-
-
-3.2.1.1.Title=Protocol Version
-
-3.2.1.1._sec=All Identity Providers and Relying Parties MUST support the OpenID 2.0 Authentication protocol as defined in http://openid.net/specs/openid-authentication-2_0.html
-
-
-3.2.1.2._Sec={st-}{3.2.1.2.Title}{-stb} {3.2.1.2._sec}
-
-3.2.1.2.Title=Attributes
-
-3.2.1.2._sec={3.2.1.2.1._Sen}{br}{3.2.1.2.2._Sen}
-
-3.2.1.2.1._Sen=All Identity Providers MUST support the OpenID 2.0 Attribute Exchange 1.0 protocol as defined in http://openid.net/specs/openid-attribute-exchange-1_0.html
-
-3.2.1.2.2._Sen=Identity Providers MUST make attributes available using the following schema URLs from axschema.org {br} Base URL: http://axschema.org/ {br} Preferred username: http://axschema.org/namePerson/friendly {br} First name: http://axschema.org/namePerson/first {br} Last name: http://axschema.org/namePerson/last {br} Full display name: http://axschema.org/namePerson {br} Business email address: http://axschema.org/contact/email {br} Business phone: http://axschema.org/contact/phone/business
-
-
-3.2.2._Sec={st-}{3.2.2.Title}{-sto} {3.2.2._sec}{-ol}
-
-3.2.2.Title=OpenID Connect
-
-3.2.2.1.Title=Protocol Version
-
-
-3.2.2._sec= {3.2.2.1._Sec}{-li-}{3.2.2.2._Sec}{-li-}{3.2.2.3._Sec}
-
-
-
-3.2.2.1._Sec={st-}{3.2.2.1.Title}{-stb} {3.2.2.1._sec}
-
-3.2.2.1.Title=OpenID Connect Final Standard
-
-3.2.2.1._sec=All Identity Providers and Relying Parties MUST support the OpenID Connect final standard as defined by http://openid.net/connect
-
-
-
-
-3.2.2.2._Sec={st-}{3.2.2.2.Title}{-stb} {3.2.2.2._sec}
-
-
-3.2.2.2.Title=The {Co.Name} OpenID Connect server supports the final version of the OpenID Connect protocol as defined by http://openid.net/connect Protocol Profile.
-
-3.2.2.2._sec=The {Co.Name} OpenID Connect server will support the following flows and options{ul-}{3.2.2.2.1._Sec}{-li-}{3.2.2.2.2._Sec}{-ul}
-
-
-
-3.2.2.2.1._Sec={3.2.2.2.1.Title}{ol-} {3.2.2.2.1._sec}{-ol}
-
-3.2.2.2.1.Title=Basic client profile (code flow) as defined by http://openid.net/specs/openid-connect-basic-1_0.html including:
-
-3.2.2.2.1._sec={3.2.2.2.1.1}{-li-}{3.2.2.2.1.2}{-li-}{3.2.2.2.1.3}
-
-3.2.2.2.1.1=Authorization Code flow
-3.2.2.2.1.2=UserInfo Endpoint with "openid" schema
-3.2.2.2.1.3=Asymmetrically signed id_token (with RSA)
-
-
-3.2.2.2.2._Sec={3.2.2.2.2.Title}{ol-} {3.2.2.2.2._sec}{-ol}
-
-3.2.2.2.2.Title=Additionally, the {Co.Name} server supports the following optional components of OpenID Connect:
-
-
-3.2.2.2.2._sec={3.2.2.2.2.1}{-li-}{3.2.2.2.2.2}{-li-}{3.2.2.2.2.3} {-li-}{3.2.2.2.2.4}{-li-}{3.2.2.2.2.5}
-3.2.2.2.2.1=Asymmetrically signed Request Objects (via RSA)
-3.2.2.2.2.2=Server keys published via JWK and X509
-3.2.2.2.2.3=Access tokens signed with RSA by server
-3.2.2.2.2.4=Dynamic client registration
-3.2.2.2.2.5=Server discovery
-
-
-
-3.2.2.3._Sec={st-}{3.2.2.3.Title}{-stb} {3.2.2.3._sec}{ol-}{3.2.2.3._List}{-ol}
-
-
-3.2.2.3.Title=Claims
-
-3.2.2.3._sec=The following claims are supported from the UserInfo Endpoint with semantics defined in http://openid.net/specs/openid-connect-messages-1_0.html
-
-3.2.2.3._List={3.2.2.3.1}{-li-}{3.2.2.3.2}{-li-}{3.2.2.3.3} {-li-}{3.2.2.3.4}{-li-}{3.2.2.3.5}{-li-}{3.2.2.3.6}{-li-}{3.2.2.3.7}{-li-}{3.2.2.3.8}
-
-3.2.2.3.1=user_id, guaranteed unique and stable per user
-3.2.2.3.2=name
-3.2.2.3.3=given_name
-3.2.2.3.4=family_name
-3.2.2.3.5=preferred_username
-3.2.2.3.6=email
-3.2.2.3.7=email_verified
-3.2.2.3.8=phone_number
-
-
-
-
-3.3._Sec={st-}{3.3.Title}{-stb} {3.3._sen}
-
-
-3.3.Title=White, Black and Grey Lists
-
-3.3._sen={3.3.0._Sen}{ol-}{3.3.1._Sec}{-li-}{3.3.2._Sec}{-li-}{3.3.3._Sec}{-li-}{3.3.4._Sec}{-li-}{3.3.5._Sec}{-ol}
-
-3.3.0._Sen=The technical configuration accompanying implementation of White and Black list determinations made in accordance with this Trust Framework System Rules are noted in this section.
-
-
-3.3.1._Sec={st-}{3.3.1.Title}{-stb} {3.3.1._sec}
-
-
-3.3.1.Title=Grey List
-
-3.3.1._sec=No additional configuration is required for any Grey List site or service.
-
-
-3.3.2._Sec={st-}{3.3.2.Title}{-stb} {3.3.2._sec}
-
-3.3.2.Title=White Listed Identity Providers
-
-3.3.2._sec=White Listed Identity Providers have their Trust Root for OpenID 2.0 or Issuer for OpenID Connect reflected in the Relying Party.
-
-
-3.3.3._Sec={st-}{3.3.3.Title}{-stb} {3.3.3._sec}
-
-3.3.3.Title=White Listed Relying Parties
-
-3.3.3._sec=White Listed Relying Parties have their Trust Root for OpenID 2.0 and/or their Client ID for OpenID Connect configured in the Relying Party system.
-
-3.3.3.Comment.1=Commentary: When a Relying Party has provided a &ldquo;Login With {Co.Name} Button&rdquo;, in effect that Relying Party has White Listed {Co.Name}id as an Identity Provider.
-
-
-3.3.4._Sec={st-}{3.3.4.Title}{-stb} {3.3.4._sec}
-
-3.3.4.Title=Black Listed Identity Providers
-
-3.3.4._sec=Black Listed Identity Providers have their Trust Root for OpenID 2.0 or Issuer for OpenID Connect configured to be denied in Relying Party system.
-
-
-
-3.3.5._Sec={st-}{3.3.5.Title}{-stb} {3.3.5._sec}
-
-3.3.5.Title=Black Listed Relying Parties
-
-3.3.5._sec=Black Listed Relying Party's have their Trust Root for OpenID 2.0 and their redirect URI for OpenID Connect configured to be denied in the Relying Party system.
-
-
-3.4._Sec={st-}{3.4.Title}{-sto} {3.4._sec}{-ol}
-
-3.4.Title=Information Security
-
-3.4._sec={3.4.1._Sec}{-li-}{3.4.2._Sec}
-
-3.4.1._Sec={st-}{3.4.1.Title}{-stb} {3.4.1._sec}
-
-
-3.4.1.Title=Token Signing
-
-3.4.1._sec=All OpenID Connect and OAuth2 tokens MUST be signed with the public key of the Identity Provider that has issued the token.
-
-
-3.4.2._Sec={st-}{3.4.2.Title}{-stb} {3.4.2._sec}
-
-3.4.2.Title=JWK Discoverability
-
-3.4.2._sec=All public keys MUST be discoverable as per the JWT Web Key (JWK) specification.
-
-
-3.5._Sec={st-}{3.5.Title}{-sto} {3.5._sec}{-ol}
-
-3.5.Title=Meta-Data Exchange
-
-3.5._sec={3.5.1._Sen}{br}{3.5.2._Sen}{br}{3.5.3._Sen}{br}{3.5.4._Sen}
-
-3.5.1._Sen=All OpenID 2.0 servers MUST be discoverable from the public internet using the Yadis protocol defined in OpenID 2.0
-
-3.5.2._Sen=All OpenID Connect servers MUST be discoverable from the public internet using the Simple Web Discovery (SWD) and XRD/Webfinger protocols as defined in OpenID Connect.
-
-3.5.3._Sen=All OpenID Connect servers MUST allow for manual registration of OpenID Connect clients.
-
-3.5.4._Sen=All OpenID Connect servers SHOULD allow for dynamic client registration.
-
-
-3.5.Comment.1=Commentary: The purpose of using &ldquo;SHOULD&rdquo; in this rule is because in the specification the criteria is a &ldquo;MAY&rdquo; and this feature is not always implemented. However, we do favor its use.
-
-
-3.6._Sec={st-}{3.6.Title}{-sto} {3.6._sec}{-ol}
-
-
-3.6.Title=Event Logging
-
-3.6._sec={3.6.1._Sec}{-li-}{3.6.2._Sec}{-li-}{3.6.3._Sec}
-
-
-3.6.1._Sec={st-}{3.6.1.Title}{-stb} {3.6.1.0}{ul-}{3.6.1._List}{-ul}
-
-
-3.6.1.Title=Identity Provider Event Logging
-
-3.6.1._List={3.6.1.1}{-li-}{3.6.1.2}{-li-}{3.6.1.3} {-li-}{3.6.1.4}{-li-}{3.6.1.5}
-
-3.6.1.0=An Identity Provider MUST log the following events:
-
-
-3.6.1.1=User approves a site
-3.6.1.2=User logs in to an Identity Provider
-3.6.1.3=User uses an Identity Provider to log into a Relying Party
-3.6.1.4=User denies log in to a Relying Party
-3.6.1.5=User revokes access to a Relying Party
-
-
-
-3.6.2._Sec={st-}{3.6.2.Title}{-stb}
-
-3.6.2.Title=The System Operator shall maintain records of the Identity Provider log files related to {Co.Name} Users and required under Section 3.6.1 in accordance with {Co.Name} Records Management Procedure IM 4.3.1.1.
-
-
-3.6.3._Sec={st-}{3.6.3.Title}{-stb} {3.6.3.0}{ul-}{3.6.3._List}{-ul}
-
-3.6.3.Title=White Listed Relying Party Event Logging
-
-3.6.3.0=A White Listed Relying Party MUST log the following events:
-
-3.6.3._List={3.6.3.1}{-li-}{3.6.3.2}{-li-}{3.6.3.3}
-
-
-3.6.3.1=User selects an Identity Provider to login to a Relying Party
-3.6.3.2=User uses an Identity Provider to login to a Relying Party
-3.6.3.3=User denies the authentication transaction
-
-
-
-		
