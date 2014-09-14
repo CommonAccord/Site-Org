@@ -10,7 +10,7 @@ You should have received a copy of the CC0 Public Domain Dedication along with t
 
 <?php
 error_reporting(E_ALL);
-$path = '/var/www/www.commonaccord.org/Alpha/';
+$path = '/var/www/www.commonaccord.org/commonaccord/';
 
 
 if(!isset($_REQUEST['action'])) { 
@@ -46,7 +46,7 @@ foreach($files as $f) {
 	}
 	else {
 		if( !( ($f == 'include.php') || preg_match('/^\./', $f) ) ) {
-			echo "<br><a href=$_SERVER[PHP_SELF]?action=source&file=$dir$f/>$f</a>";
+			echo "<br><a href=$_SERVER[PHP_SELF]?action=source&file=$dir$f>$f</a>";
 		}
 	}
 }
