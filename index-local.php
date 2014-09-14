@@ -1,6 +1,17 @@
 <?php
+/*
+CommonAccord - bringing the world to agreement
+Written in 2014 by Primavera De Filippi
+To the extent possible under law, the author(s) have dedicated all copyright and related and neighboring rights to this software to the public domain worldwide. This software is distributed without any warranty.
+You should have received a copy of the CC0 Public Domain Dedication along with this software. If not, see <http://creativecommons.org/publicdomain/zero/1.0/>.
+*/
+?>
+
+
+<?php
 error_reporting(E_ALL);
-$path = '/Library/WebServer/Documents/commonaccord';
+$path = '/var/www/www.commonaccord.org/Alpha/';
+
 
 if(!isset($_REQUEST['action'])) { 
 	$_REQUEST['action'] = "list"; 
@@ -34,8 +45,8 @@ foreach($files as $f) {
 		}
 	}
 	else {
-		if( !( ($f == 'include.php') ) ) {
-			echo "<br><a href=$_SERVER[PHP_SELF]?action=source&file=$dir$f>$f</a>";
+		if( !( ($f == 'include.php') || preg_match('/^\./', $f) ) ) {
+			echo "<br><a href=$_SERVER[PHP_SELF]?action=source&file=$dir$f/>$f</a>";
 		}
 	}
 }
