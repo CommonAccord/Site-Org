@@ -41,7 +41,7 @@ Bus.Scope.Comment.3=Commentary: A Business Use Case is a way to define the inten
 
 Bus.Scope.Comment.4=Commentary: It is anticipated that the initial covered Business Use Cases will relate narrowly to 1) the use of OpenID 2.0 and OpenID Connect for access to the Handshake applications of the {Co.Name} Partnership Network and 2) use by {Co.Name} employees of {Co.Name} issued OpenID 2.0 and OpenID Connect Derived Federated Credentials to access external web sites. It is expected that one or two partners, such as JPL, Lincoln Labs, or the Advanced Cyber Security Center, will be identified to act as an initial partners to test usage of this approach, including use of OpenID 2.0 or OpenID Connect and agreement to the partner Participation Agreement. While Version 1.0 of these Rules are intended to cover a relatively conservative scope of Business Use Cases, the design of this approach intentionally scales to include additional Business Use Cases over time, and provides a process for the considered and deliberate choice to expand or otherwise change the scope as needed. It is anticipated that other potential scenarios could include: 1) many more partner organizations joining, and the requisite scaling requirements of more production grade systems for operations and shared services, 2) more types of applications and services available for access through use of federated identity under these rules, and the consequent updates to the types of business transactions in the use cases and additional legal reviews and updates as needed, as well as the more robust technical implementation required and consequent amendment to the types of standards, configurations, profiles and identity services offered, 3) usage of the {Co.Name} identity system and rules approach, with optional &ldquo;modular&rdquo; sections that would pertain when the framework is used to interoperate with a heavily regulated and complex system, such as the approach used by FHA to provide access to the Nationwide Health Information Network (NwHIN), which requires use of an authorized Gateway which is subject to the DURSA multilateral legal agreement; this modular approach could be accomplished in the business section by adding the purpose, scope and corresponding use cases, in the legal section by ensuring the additional requirements are met for that scenario, and in the technical section by adding additional attributes, other security services and components expected at the end-points at and behind the NwHIN Gateway, 4) the emergence of other partners usage of a Trust Framework System Rules governing their use of federated identity, as anticipated in the National Strategy for Trusted Identities in Cyberspace promotion of a new ecology of Trust Frameworks suitable for particular industries, economic sectors and other so-called &ldquo;circles of trust&rdquo;, and in this case the scope and use cases would include cross-certification and other methods for cross-boundary integration and harmonization of use cases through interstitial trans-federation agreements.
 
-Bus.Scope.Comment.5=Commentary: Regarding potential scope in the longer term future: 1) In addition to collaborative systems of MPN, could also use a&ldquo;modular&rdquo;approach for adding adapters to interoperate with heavily regulated systems, for example the FHA approach to getting into NwHIN under DURSA (such that, for those interactions, a second layer of business, legal and tech rules and capabilities applied, and it would be possible with an attribute or other mechanism to delineate which end-point and other constraints were needed in those cases). In the case of a modular approach in the future, in effect, one or more attachments to the Trust Framework would service as contingent additional terms that further refine, modify and augment agreed base-line terms when the {Co.Name}id Trust Framework is used in particular and objectively defined contexts.
+Bus.Scope.Comment.5=Commentary: Regarding potential scope in the longer term future: 1) In addition to collaborative systems of MPN, could also use a "modular" approach for adding adapters to interoperate with heavily regulated systems, for example the FHA approach to getting into NwHIN under DURSA (such that, for those interactions, a second layer of business, legal and tech rules and capabilities applied, and it would be possible with an attribute or other mechanism to delineate which end-point and other constraints were needed in those cases). In the case of a modular approach in the future, in effect, one or more attachments to the Trust Framework would service as contingent additional terms that further refine, modify and augment agreed base-line terms when the {Co.Name}id Trust Framework is used in particular and objectively defined contexts.
 
 
 Bus.Role._Sec={st-}{Bus.Role.Title}{-sto}{Bus.Role._sec}{-ol}
@@ -52,95 +52,94 @@ Bus.Role.Title=Roles and Relationships
 
 2.Comment.2=Commentary: If and when an external partner organization is recognized as a White Listed Identity Provider or Relying Party for its employees or other approved Users, an approach to this section might be to point toward a document listing the current participating white listed partners and for that document, directory, or repository to include the names of parties playing each role, as well as the relevant meta data and other technical information that may be available. This approach is modeled in Addendum 3.
 
-Bus.Role._sec={Bus.Role.1._Sec} {-li-}  {Bus.Role.2._Sec} {-li-}  {Bus.Role.3._Sec} {-li-}  {Bus.Role.4._Sec} {-li-}  {Bus.Role.5._Sec}{-li-}  {Bus.Role.6._Sec}{-li-}  {Bus.Role.7._Sec}
+Bus.Role._sec={Bus.Role.PolicyAuthority._Sec} {-li-}  {Bus.Role.Operator._Sec} {-li-}  {Bus.Role.Provider._Sec} {-li-}  {Bus.Role.UserAuthority._Sec} {-li-}  {Bus.Role.User._Sec}{-li-}  {Bus.Role.RelyingParty._Sec}{-li-}  {Bus.Role.CertificationAssessor._Sec}
 
 
 
-Bus.Role.1._Sec={st-}{Bus.Role.1.Title}{-stb}{Bus.Role.1._sec}
+Bus.Role.PolicyAuthority._Sec={st-}{Bus.Role.PolicyAuthority.Title}{-stb}{Bus.Role.PolicyAuthority._sec}
 
-Bus.Role.1.Title=Policy Authority
+Bus.Role.PolicyAuthority.Title=Policy Authority
 
-Bus.Role.1._sec=The Policy Authority is responsible for updating and interpreting this Trust Framework and designating or approving, directly or by delegated authority, the then current parties assuming the roles below.
+Bus.Role.PolicyAuthority._sec=The Policy Authority is responsible for updating and interpreting this Trust Framework and designating or approving, directly or by delegated authority, the then current parties assuming the roles below.
 
-Bus.Role.2._Sec={st-}{Bus.Role.2.Title}{-stb}{Bus.Role.2._sec}
+Bus.Role.Operator._Sec={st-}{Bus.Role.Operator.Title}{-stb}{Bus.Role.Operator._sec}
 
-Bus.Role.2.Title=System Operator
+Bus.Role.Operator.Title=System Operator
 
-Bus.Role.2._sec=The system operator is responsible for implementing and administering {Co.Name} External Identity Federation use by {Co.Name}.
+Bus.Role.Operator._sec=The system operator is responsible for implementing and administering {Co.Name} External Identity Federation use by {Co.Name}.
 
+Bus.Role.Provider._Sec={st-}{Bus.Role.Provider.Title}{-stb}{Bus.Role.Provider._sec}
 
-Bus.Role.3._Sec={st-}{Bus.Role.3.Title}{-stb}{Bus.Role.3._sec}
+Bus.Role.Provider.Title=Identity Provider
 
-Bus.Role.3.Title=Identity Provider
+Bus.Role.Provider._sec={Bus.Role.Provider.Base._Sen} {br} {Bus.Role.Provider.WhiteListed._Sen}
 
-Bus.Role.3._sec={Bus.Role.3.1._Sen} {br} {Bus.Role.3.1._Sen}
+Bus.Role.Provider.Base._Sen=An Identity Provider is responsible for issuing a Primary Credential or a Derived Federated Identity Credentials for Users. The {Co.Name}id Identity Provider is responsible for issuing Derived Federated Credentials for Users who are {Co.Name} personnel.
 
-Bus.Role.3.1._Sen=An Identity Provider is responsible for issuing a Primary Credential or a Derived Federated Identity Credentials for Users. The {Co.Name}id Identity Provider is responsible for issuing Derived Federated Credentials for Users who are {Co.Name} personnel.
+Bus.Role.Provider.WhiteListed._Sen=A White Listed Identity Provider system is a service provider that has been approved by the System Operator as a pre-authorized Identity Provider such that {Co.Name} Relying Party sites may provide automatic authorization on first and all subsequent access to Users of Derived Federated Credentials issued by that Identity Provider.
 
-Bus.Role.3.2._Sen=A White Listed Identity Provider system is a service provider that has been approved by the System Operator as a pre-authorized Identity Provider such that {Co.Name} Relying Party sites may provide automatic authorization on first and all subsequent access to Users of Derived Federated Credentials issued by that Identity Provider.
+Bus.Role.UserAuthority._Sec={st-}{Bus.Role.UserAuthority.Title}{-stb}{Bus.Role.UserAuthority._sec}
 
-Bus.Role.4._Sec={st-}{Bus.Role.4.Title}{-stb}{Bus.Role.4._sec}
+Bus.Role.UserAuthority.Title=User Authority
 
-Bus.Role.4.Title=User Authority
-
-Bus.Role.4._sec=A User Authority is responsible for authorizing the issuance of Primary Credentials to Users.
-
-
-Bus.Role.5._Sec={st-}{Bus.Role.5.Title}{-stb}{Bus.Role.5._sec}
-
-Bus.Role.5.Title=User
-
-Bus.Role.5._sec=A User is a single human who authenticates to any system covered by this Trust Framework, either using a Primary or Derived Federated Credential.
+Bus.Role.UserAuthority._sec=A User Authority is responsible for authorizing the issuance of Primary Credentials to Users.
 
 
-Bus.Role.6._Sec={st-}{Bus.Role.6.Title}{-stb}{Bus.Role.6._sec}
+Bus.Role.User._Sec={st-}{Bus.Role.User.Title}{-stb}{Bus.Role.User._sec}
 
-Bus.Role.6.Title=Relying Party
+Bus.Role.User.Title=User
 
-Bus.Role.6._sec={Bus.Role.6.1._Sen} {br} {Bus.Role.6.2._Sen}
-
-Bus.Role.6.1._Sen=A Relying Party is a service provider that accepts or has accepted a Derived Federated Credential issued by an Identity Provider for the purpose of authenticating a User.
-
-Bus.Role.6.2._Sen=A White Listed Relying Party system is a service provider that has been approved by the System Operator as a pre-authorized Relying Party such that {Co.Name} users are provided automatic authorization on first and all subsequent access to one or more Relying Party sites.
+Bus.Role.User._sec=A User is a single human who authenticates to any system covered by this Trust Framework, either using a Primary or Derived Federated Credential.
 
 
-Bus.Role.7._Sec={st-}{Bus.Role.7.Title}{-stb}{Bus.Role.7._sec}
+Bus.Role.RelyingParty._Sec={st-}{Bus.Role.RelyingParty.Title}{-stb}{Bus.Role.RelyingParty._sec}
 
-Bus.Role.7.Title=Certification Assessor
+Bus.Role.RelyingParty.Title=Relying Party
 
-Bus.Role.7._sec=A Certification Assessor is an independent party approved by the System Operator that is responsible for certifying or recommending certification of Identity Providers, User Authorities and/or Relying Parties according to criteria set or adopted by the System Operator.
+Bus.Role.RelyingParty._sec={Bus.Role.RelyingParty.Base._Sen} {br} {Bus.Role.RelyingParty.WhiteListed._Sen}
 
-Bus.Role.7.Comment.1=Commentary: {Co.Name} is pursuing Federal Identity, Credential, and Access Management (FICAM) accepted certification at this time for its OpenID 2.0 service for the purpose of gaining more information about this process and evaluating how best to adopt or adapt this process for use in its internal determination of which external parties to federate with and specifically which parties to add to White Lists.
+Bus.Role.RelyingParty.Base._Sen=A Relying Party is a service provider that accepts or has accepted a Derived Federated Credential issued by an Identity Provider for the purpose of authenticating a User.
+
+Bus.Role.RelyingParty.WhiteListed._Sen=A White Listed Relying Party system is a service provider that has been approved by the System Operator as a pre-authorized Relying Party such that {Co.Name} users are provided automatic authorization on first and all subsequent access to one or more Relying Party sites.
+
+
+Bus.Role.CertificationAssessor._Sec={st-}{Bus.Role.CertificationAssessor.Title}{-stb}{Bus.Role.CertificationAssessor._sec}
+
+Bus.Role.CertificationAssessor.Title=Certification Assessor
+
+Bus.Role.CertificationAssessor._sec=A Certification Assessor is an independent party approved by the System Operator that is responsible for certifying or recommending certification of Identity Providers, User Authorities and/or Relying Parties according to criteria set or adopted by the System Operator.
+
+Bus.Role.CertificationAssessor.Comment.1=Commentary: {Co.Name} is pursuing Federal Identity, Credential, and Access Management (FICAM) accepted certification at this time for its OpenID 2.0 service for the purpose of gaining more information about this process and evaluating how best to adopt or adapt this process for use in its internal determination of which external parties to federate with and specifically which parties to add to White Lists.
 
 Bus.BWG._Sec={st-}{Bus.BWG.Title}{-sto}{Bus.BWG._sec}
 
 Bus.BWG.Title=White, Black and Grey Lists
 
-Bus.BWG._sec={Bus.BWG.1._Sec} {-li-} {Bus.BWG.2._Sec} {-li-} {Bus.BWG.3._Sec} {-ol}
+Bus.BWG._sec={Bus.BWG.Grey._Sec} {-li-} {Bus.BWG.White._Sec} {-li-} {Bus.BWG.Black._Sec} {-ol}
 
 
-Bus.BWG.1._Sec={st-}{Bus.BWG.1.Title}{-stb}{Bus.BWG.1._sec}
+Bus.BWG.Grey._Sec={st-}{Bus.BWG.Grey.Title}{-stb}{Bus.BWG.Grey._sec}
 
-Bus.BWG.1.Title=Grey List
+Bus.BWG.Grey.Title=Grey List
 
-Bus.BWG.1._sec={Bus.BWG.0.1._Sen}{br}  {Bus.BWG.0.2._Sen}
+Bus.BWG.Grey._sec={Bus.BWG.0.1._Sen}{br}  {Bus.BWG.0.2._Sen}
 
 Bus.BWG.0.1._Sen=Grey Listed sites include any Identity Provider or Relying Party that implements the standards in Section 3 and that has not been added to a White List or Black List by the System Operator. Any Grey Listed Relying Party may accept a Derived Federated Credential from any User and any User may use a Derived Federated Credential to access the site of any Grey Listed Relying Party.
 
 Bus.BWG.0.2._Sen=If an Identity Provider is Grey Listed, then the Relying Party makes the decision on a per use or other basis whether to accept and rely upon credentials issued by that Identity Provider. If a Relying Party is on a Grey List then the User makes the decision whether to authorize the use of their Derived Federated Credential to access the Relying Party site.
 
-Bus.BWG.2._Sec={st-}{Bus.BWG.2.Title}{-stb}{Bus.BWG.2._sec}
+Bus.BWG.White._Sec={st-}{Bus.BWG.White.Title}{-stb}{Bus.BWG.White._sec}
 
-Bus.BWG.2.Title=White List
+Bus.BWG.White.Title=White List
 
-Bus.BWG.2._sec=The System Operator, by approval of or delegated authority by the Policy Authority, may add a Relying Party site to the {Co.Name}id White List, thereby allowing automated authorization for {Co.Name} Users.
+Bus.BWG.White._sec=The System Operator, by approval of or delegated authority by the Policy Authority, may add a Relying Party site to the {Co.Name}id White List, thereby allowing automated authorization for {Co.Name} Users.
 
 
-Bus.BWG.3._Sec={st-}{Bus.BWG.3.Title}{-stb}{Bus.BWG.3._sec}
+Bus.BWG.Black._Sec={st-}{Bus.BWG.Black.Title}{-stb}{Bus.BWG.Black._sec}
 
-Bus.BWG.3.Title=Black List:
+Bus.BWG.Black.Title=Black List:
 
-Bus.BWG.3._sec=The System Operator may determine whether a site is in violation of these rules or otherwise disapproved for federation, and upon such determination may add that site to the {Co.Name}id Black List, thereby preventing a {Co.Name} User from using their Derived Federated Credential to access such site and preventing Derived Federated Credentials from Black Listed Identity Providers from being used to access {Co.Name} Relying Party sites under this Trust Framework.
+Bus.BWG.Black._sec=The System Operator may determine whether a site is in violation of these rules or otherwise disapproved for federation, and upon such determination may add that site to the {Co.Name}id Black List, thereby preventing a {Co.Name} User from using their Derived Federated Credential to access such site and preventing Derived Federated Credentials from Black Listed Identity Providers from being used to access {Co.Name} Relying Party sites under this Trust Framework.
 
 
 Bus.Certification._Sec={st-}{Bus.Certification.Title}{-stb}{Bus.Certification._sec}
@@ -186,7 +185,7 @@ Bus.Process.Comment.1=Commentary: At this time, the actual practices and procedu
 
 2.2.1._Sen=The authoritative current version of the Trust Framework System Rules can be found at www.mitre.org/trustframework ((note actual URL to be determined)). These Rules, including all documents explicitly Incorporated by Reference, provide standard default terms for use of the External Identity Federation, but in the event of a conflict between the terms of an existing contract between parties governing the terms of access to relevant applications or services, then the terms of the existing contract shall govern.
 
-2.2.2._Sen=When the text of these Rules explicitly refers to a qqqqdocument Incorporated by Reference&rdquo; and includes a URL to the authoritative version of that document, then the content of that document shall have the same force and effect as if directly published within these Rules.
+2.2.2._Sen=When the text of these Rules explicitly refers to a &ldquo;document Incorporated by Reference&rdquo; and includes a URL to the authoritative version of that document, then the content of that document shall have the same force and effect as if directly published within these Rules.
 
 
 2.3._Sec={st-}{2.3.Title}{-stb} {2.3._sec}
@@ -385,7 +384,7 @@ Should return=Attention: {OpenID.ProjectLead.ContactInfo}
 3.2.2.2.1._sec={3.2.2.2.1.1}{-li-}{3.2.2.2.1.2}{-li-}{3.2.2.2.1.3}
 
 3.2.2.2.1.1=Authorization Code flow
-3.2.2.2.1.2=UserInfo Endpoint with&ldquo;openid&rdquo;schema
+3.2.2.2.1.2=UserInfo Endpoint with "openid" schema
 3.2.2.2.1.3=Asymmetrically signed id_token (with RSA)
 
 
@@ -557,3 +556,5 @@ Should return=Attention: {OpenID.ProjectLead.ContactInfo}
 3.6.3.3=User denies the authentication transaction
 
 
+
+		

@@ -1,9 +1,0 @@
-Forms=This is the heart of CommonAccord.  Legal materials expressed as code. Help us complete this form book.
-
-For instance, the treatment of personal data comes up in a number of documents:
-
-masterServices.=[core/form/agt/master/personaldata/PD_Sec]
-
-termsOfUse.=[core/form/agt/web/tou/sec/UserContent_Library]
-
-			
