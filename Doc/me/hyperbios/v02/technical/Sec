@@ -1,5 +1,8 @@
 =[core/class/Doc_Table]
 
+
+DFCStandards.OpenIDConnect.=[me/hyperbios/v02/technical/DFCStandards_OpenIDConnect_Sec]
+
 Model.Root={_Sec}
 
 _Sec={st-}{Title}{-sto} {_sec}{-ol}
@@ -80,9 +83,6 @@ DFCStandards.OpenID.Attributes._sec={DFCStandards.OpenID.Attributes.1._Sen}{br}{
 DFCStandards.OpenID.Attributes.1._Sen=All Identity Providers MUST support the OpenID 2.0 Attribute Exchange 1.0 protocol as defined in http://openid.net/specs/openid-attribute-exchange-1_0.html
 
 DFCStandards.OpenID.Attributes.2._Sen=Identity Providers MUST make attributes available using the following schema URLs from axschema.org {br} Base URL: http://axschema.org/ {br} Preferred username: http://axschema.org/namePerson/friendly {br} First name: http://axschema.org/namePerson/first {br} Last name: http://axschema.org/namePerson/last {br} Full display name: http://axschema.org/namePerson {br} Business email address: http://axschema.org/contact/email {br} Business phone: http://axschema.org/contact/phone/business
-
-
-DFCStandards.OpenIDConnect.=[me/hyperbios/v02/technical/Technical_DFCStandards_OpenIDConnect]
 
 
 BWG._Sec={st-}{BWG.Title}{-stb} {BWG._sen}
