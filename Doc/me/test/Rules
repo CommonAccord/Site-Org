@@ -1,1 +1,3 @@
-Model.Root={ThisIsOurAgreement}
+Model.Root={ThisIsOurAgreement}	
+
+ThisIsOurAgreement={Prologue}<br>{Date}<br>{Agreement}<br>{Name}	
