@@ -1,6 +1,6 @@
 =[core/class/Doc_Table]
 
-Technology.[me/hyperbios/v02/technical]
+Technical.=[me/hyperbios/v02/technical/Technical]
 
 
 Co.Name=MITRE
@@ -22,7 +22,7 @@ Meta.For=Commissioned by and for:<br> {OpenID.ProjectLead.ContactInfo}
 Meta.By.Architect=Trust Framework Architect: {OpenID.TFA.ContactInfo}
 
 
-Doc.Secs={ol-}{Bus._Sec}{-ol} {-li-} {Legal._Sec} {-li-}   {3._Sec} {-ol}
+Doc.Secs={ol-}{Bus._Sec}{-ol} {-li-} {Legal._Sec} {-li-}   {Technical._Sec} {-ol}
 
 Bus._Sec={st-}{Bus.Title} {-sto} {Bus._sec}
 
