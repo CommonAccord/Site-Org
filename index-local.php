@@ -1,6 +1,6 @@
 <?php
 error_reporting(E_ALL);
-$path = '/Users/jgh/Sites/Alpha/Alpha/';
+$path = '/Library/WebServer/Documents/commonaccord';
 
 if(!isset($_REQUEST['action'])) { 
 	$_REQUEST['action'] = "list"; 
