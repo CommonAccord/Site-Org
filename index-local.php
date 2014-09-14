@@ -10,7 +10,7 @@ You should have received a copy of the CC0 Public Domain Dedication along with t
 
 <?php
 error_reporting(E_ALL);
-$path = '/Library/WebServer/Documents/commonaccord/';
+$path = '/Library/WebServer/Documents/commonaccord.org/';
 
 
 if(!isset($_REQUEST['action'])) { 
