@@ -46,7 +46,7 @@ foreach($files as $f) {
 	}
 	else {
 		if( !( ($f == 'include.php') || preg_match('/^\./', $f) ) ) {
-			echo "<br><a href=$_SERVER[PHP_SELF]?action=source&file=$dir$f/>$f</a>";
+			echo "<br><a href=$_SERVER[PHP_SELF]?action=source&file=$dir$f>$f</a>";
 		}
 	}
 }
