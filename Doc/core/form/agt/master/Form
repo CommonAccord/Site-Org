@@ -46,15 +46,17 @@ Miscellaneous.=[core/form/agt/master/Miscellaneous_Library]
 
 =[core/form/agt/master/Definition_Library]
 
+Company=Company
+
 Model.Root={AGT.DocBody}
 
 AGT.DocBody={AGT.Prologue}{AGT.Secs._Lost}{AGT.Sign}<br>{AGT.Attach}
 
 AGT.Prologue=<div><center>{Prologue.Heading}</center></div><p><br>{Prologue.Intro}</p>
 
-Prologue.Heading=<strong>{AGT.Title}</strong><br> as of: {AGT.Effective.YMD} (&ldquo;{Effective Date}&rdquo;)<br>between {P1.Name.Full} and {P2.Name.Full}
+Prologue.Heading=<strong>{AGT.Title}</strong><br> as of: {AGT.Effective.YMD} (“{Effective Date}”)<br>between {P1.Name.Full} and {P2.Name.Full}
 
-Prologue.Intro=This Master Services Agreement (&ldquo;MSA&rdquo; or &ldquo;Agreement&rdquo;) is entered into as of {AGT.Effective.YMD} (&ldquo;Effective Date&rdquo;) by and between {P1.ParentAndSub} (&ldquo;{Company}&rdquo;) and {P2.N,E,A}, (&ldquo;Supplierc).  <br>
+Prologue.Intro=This Master Services Agreement (“MSA” or “Agreement”) is entered into as of {AGT.Effective.YMD} (“Effective Date”) by and between {P1.ParentAndSub} (“{Company}”) and {P2.N,E,A}, (“Supplier).  <br>
 
 AGT.Secs._Lost= <ol><li>{Engage._Sec}</li><li>{Term._Sec}</li><li>{Staff._Sec}</li><li>{Compensation._Sec}</li><li>{Confidential._Sec}</li><li>{IP._Sec}</li><li>{PersonalData._Sec}</li><li>{TangibleProperty._Sec}</li><li>{Test._Sec}</li><li>{Warrant._Sec}</li><li>{Assure._Sec}</li><li>{Relate._Sec}</li><li>{Comply._Sec}</li><li>{Environment._Sec}</li><li>{Conflict._Sec}</li><li>{Expire._Sec}</li><li>{Limit._Sec}</li><li>{Release._Sec}</li><li>{Notice._Sec}</li><li>{Dispute._Sec}</li><li>{Miscellaneous._Sec}</li><li>{Definition._Sec}</li></ol>
 
@@ -66,3 +68,4 @@ Signature.Witness=In Witness Whereof, the parties hereto have caused this Agreem
 
 AGT.Attach=<hr><hr><center><b>Exhibit {AGT.Exh.A}</b></center><hr><hr><center><b>Exhibit {AGT.Exh.B}</b></center><hr><hr><center><b>Exhibit {AGT.Exh.C}</b></center><hr><hr><center><b>Exhibit {AGT.Exh.D}</b></center>
 
+		
