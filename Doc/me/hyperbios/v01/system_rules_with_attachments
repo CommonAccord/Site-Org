@@ -12,7 +12,7 @@ Att.OpenID.=[me/hyperbios/v01/attach/openID_connect_architecture]
 Att.Parties.=[me/hyperbios/v01/attach/directory_of_parties]
 Att.Accreditation.=[me/hyperbios/v01/attach/accreditation_and_certification]
 
-Model.Root={Rules._Body}  {Appendixes}
+Model.Root={_Body}  {Appendixes}
 
 Appendixes=<h3>APPENDICES and ADDENDA</h3> {Att.Glossary}{Att.Links}{Att.Governance} {Att.Operations} {Att.Technical}{Att.OpenID} {Att.Parties} {Att.Accreditation}
 
