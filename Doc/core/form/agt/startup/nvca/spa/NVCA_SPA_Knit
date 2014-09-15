@@ -55,7 +55,7 @@ Chunks=the part before the founders' reps and the part after.  Split so we can r
 
 2._sec={2.0}{ol-}{2.1._Sec}{-li-}{2.2._Sec}{-li-}{2.3._Sec}{-li-}{2.4._Sec}{-li-}{2.5._Sec}{-li-}{2.6._Sec}{-li-}{2.7._Sec}{-li-}{2.8._Sec}{-li-}{2.9._Sec}{-li-}{2.10._Sec}{-li-}{2.11._Sec}{-li-}{2.12._Sec}{-li-}{2.13._Sec}{-li-}{2.14._Sec}{-li-}{2.15._Sec}{-li-}{2.16._Sec}{-li-}{2.17._Sec}{-li-}{2.18._Sec}{-li-}{2.19._Sec}{-li-}{2.20._Sec}{-li-}{2.21._Sec}{-li-}{2.22._Sec}{-li-}{2.23._Sec}{-li-}{2.24._Sec}{-li-}{2.25._Sec}{-li-}{2.26._Sec}{-li-}{2.27._Sec}{-li-}{2.28._Sec}{-li-}{2.29._Sec}{-ol}
 
-2.0={2.0.1._Sen}{.}{2.0.2._Sen}
+2.0={2.0.1._Sen}{-sen-}{2.0.2._Sen}
 2.1._Sec={st-}{2.1.Title}{-st}{2.1._sec}
 2.2._Sec={st-}{2.2.Title}{-st}{2.2._sec}
 2.3._Sec={st-}{2.3.Title}{-st}{2.3._sec}
@@ -220,4 +220,4 @@ ol-=<ol><li>
 
 br=<br>
 brr=<br><br>
-.=&ensp; 
+-sen-=.&ensp;
