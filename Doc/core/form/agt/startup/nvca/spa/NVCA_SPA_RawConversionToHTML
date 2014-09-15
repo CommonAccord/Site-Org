@@ -1,12 +1,15 @@
 <div>
+
+
 AGT.Title=SERIES A PREFERRED STOCK PURCHASE AGREEMENT
 
-Prologue.ThisAgreement=THIS SERIES&nbsp;A PREFERRED STOCK PURCHASE AGREEMENT (this &ldquo;<strong>Agreement</strong>&rdquo;), is made as of the [__] day of [________, 20_] by and among [____________], a Delaware corporation (the &ldquo;<strong>Company</strong>&rdquo;), the investors listed on <u>Exhibit A</u> attached to this Agreement (each a &ldquo;<strong>Purchaser</strong>&rdquo; and together the &ldquo;<strong>Purchasers</strong>&rdquo;) [and the persons listed as &ldquo;Founders&rdquo; on the signature pages to this Agreement (each a &ldquo;<strong>Founder</strong>&rdquo; and together the &ldquo;<strong>Founders</strong>&rdquo;)].
+Prologue.ThisAgreement=THIS SERIES&nbsp;A PREFERRED STOCK PURCHASE AGREEMENT (this &ldquo;<strong>Agreement</strong>&rdquo;), is made as of {AGT.Effective.YMD} by and among {Co.Name.Full}, a Delaware corporation (the &ldquo;<strong>Company</strong>&rdquo;), the investors listed on <u>Exhibit A</u> attached to this Agreement (each a &ldquo;<strong>Purchaser</strong>&rdquo; and together the &ldquo;<strong>Purchasers</strong>&rdquo;) {Prologue.ThisAgreement.Ins1}
+
+Prologue.ThisAgreement.Ins1=and the persons listed as &ldquo;Founders&rdquo; on the signature pages to this Agreement (each a &ldquo;<strong>Founder</strong>&rdquo; and together the &ldquo;<strong>Founders</strong>&rdquo;).
 
 Prologue.NowTherefore=The parties hereby agree as follows:
 
 1.Title=Purchase and Sale of Preferred Stock.
-
 
 1.1.Title=Sale and Issuance of Series&nbsp;A Preferred Stock.
 
@@ -16,83 +19,107 @@ Ftn1=<a href="#_ftn1" name="_ftnref" title="">[1]</a>
 
 Ftn2=<a href="#_ftn2" name="_ftnref" title="">[2]</a>
 
-1.1.2._sec=Subject to the terms and conditions of this Agreement, each Purchaser agrees to purchase at the Closing and the Company agrees to sell and issue to each Purchaser at the Closing that number of shares of Series&nbsp;A Preferred Stock, $ [__] par value per share (the <strong>&ldquo;Series A Preferred Stock</strong>&rdquo;), set forth opposite each Purchaser&rsquo;s name on Exhibit A, at a purchase price of $[__] per share.&nbsp; The shares of Series&nbsp;A Preferred Stock issued to the Purchasers pursuant to this Agreement (including any shares issued at the Initial Closing and any [Milestone Shares or] Additional Shares, as defined below) shall be referred to in this Agreement as the &ldquo;<strong>Shares</strong>.&rdquo;
+1.1.2._sec=Subject to the terms and conditions of this Agreement, each Purchaser agrees to purchase at the Closing and the Company agrees to sell and issue to each Purchaser at the Closing that number of shares of Series&nbsp;A Preferred Stock, $ {A.Par.$} par value per share (the <strong>&ldquo;Series A Preferred Stock</strong>&rdquo;), set forth opposite each Purchaser&rsquo;s name on Exhibit A, at a purchase price of ${A.Price.$} per share.&nbsp; The shares of Series&nbsp;A Preferred Stock issued to the Purchasers pursuant to this Agreement (including any shares issued at the Initial Closing and any {1.2.2.Ins1} Additional Shares, as defined below) shall be referred to in this Agreement as the &ldquo;<strong>Shares</strong>.&rdquo;
 
-
+1.2.2.Ins1=Milestone Shares or
 
 1.2.Title=Closing; Delivery.
 
-1.2.1._sec=The initial purchase and sale of the Shares shall take place remotely via the exchange of documents and signatures, at [____] [_].m., on [________ __, 20_], or at such other time and place as the Company and the Purchasers mutually agree upon, orally or in writing (which time and place are designated as the &ldquo;<strong>Initial Closing</strong>&rdquo;).&nbsp; In the event there is more than one closing, the term &ldquo;<strong>Closing</strong>&rdquo; shall apply to each such closing unless otherwise specified.
+1.2.1._sec=The initial purchase and sale of the Shares shall take place remotely via the exchange of documents and signatures, at {Closing.Location} {Closing.Time}, or at such other time and place as the Company and the Purchasers mutually agree upon, orally or in writing (which time and place are designated as the &ldquo;<strong>Initial Closing</strong>&rdquo;).&nbsp; In the event there is more than one closing, the term &ldquo;<strong>Closing</strong>&rdquo; shall apply to each such closing unless otherwise specified.
 
 Ftn3=<a href="#_ftn3" name="_ftnref" title="">[3]</a>
 
-1.2.2._sec=At each Closing, the Company shall deliver to each Purchaser a certificate representing the Shares being purchased by such Purchaser at such Closing against payment of the purchase price therefor by check payable to the Company, by wire transfer to a bank account designated by the Company, by cancellation or conversion of indebtedness of the Company to Purchaser[, including interest<a href="#_ftn5" name="_ftnref" title="">[5]</a>], or by any combination of such methods.
+1.2.2._sec=At each Closing, the Company shall deliver to each Purchaser a certificate representing the Shares being purchased by such Purchaser at such Closing against payment of the purchase price therefor by check payable to the Company, by wire transfer to a bank account designated by the Company, by cancellation or conversion of indebtedness of the Company to Purchaser{1.2.2.Ins1}, or by any combination of such methods.
+
+1.2.2.Ins1=, including interest
 
 Ftn4=<a href="#_ftn4" name="_ftnref" title="">[4]</a>
 
+Ftn5=<a href="#_ftn5" name="_ftnref" title="">[5]</a>
+
 1.3.Title=Sale of Additional Shares of Preferred Stock
 
-1.3.1._sec=After the Initial Closing, the Company may sell, on the same terms and conditions as those contained in this Agreement, up to [_________] additional shares (subject to appropriate adjustment in the event of any stock dividend, stock split, combination or similar recapitalization affecting such shares) of Series A Preferred Stock (the &ldquo;<strong>Additional Shares</strong>&rdquo;), to one or more purchasers (the &ldquo;<strong>Additional Purchasers</strong>&rdquo;) [reasonably acceptable to Purchasers holding a [<em>specify percentage</em>] of the then outstanding Shares], provided that (i) such subsequent sale is consummated prior to [90] days after the Initial Closing (ii) each Additional Purchaser shall become a party to the Transaction Agreements (as defined below) (other than the Management Rights Letter), by executing and delivering a counterpart signature page to each of the Transaction Agreements[; and (iii) [_________], counsel for the Company, provides an opinion dated as of the date of such Closing that the offer, issuance, sale and delivery of the Additional Shares to the Additional Purchasers do not require registration under the Securities Act of 1933, as amended, or applicable state securities laws].&nbsp; Exhibit A to this Agreement shall be updated to reflect the number of Additional Shares purchased at each such Closing and the parties purchasing such Additional Shares.
+1.3.1._sec=After the Initial Closing, the Company may sell, on the same terms and conditions as those contained in this Agreement, up to {_________ additional shares (subject to appropriate adjustment in the event of any stock dividend, stock split, combination or similar recapitalization affecting such shares) of Series A Preferred Stock (the &ldquo;<strong>Additional Shares</strong>&rdquo;), to one or more purchasers (the &ldquo;<strong>Additional Purchasers</strong>&rdquo;) {1.3.1.Ins1}, provided that (i) such subsequent sale is consummated prior to {1.3.1.Ins2} days after the Initial Closing (ii) each Additional Purchaser shall become a party to the Transaction Agreements (as defined below) (other than the Management Rights Letter), by executing and delivering a counterpart signature page to each of the Transaction Agreements{1.3.1.Ins3}.&nbsp; Exhibit A to this Agreement shall be updated to reflect the number of Additional Shares purchased at each such Closing and the parties purchasing such Additional Shares.
+
+1.3.1.Ins1=reasonably acceptable to Purchasers holding a {1.3.1. specify percentage} of the then outstanding Shares
+
+1.3.1.Ins2=90
+
+1.3.1.Ins3=; and (iii) [_________], counsel for the Company, provides an opinion dated as of the date of such Closing that the offer, issuance, sale and delivery of the Additional Shares to the Additional Purchasers do not require registration under the Securities Act of 1933, as amended, or applicable state securities laws
+
+1.3.1.Ins1=reasonably acceptable to Purchasers holding a [<em>specify percentage</em>] of the then outstanding Shares
 
 Ftn6=<a href="#_ftn6" name="_ftnref" title="">[6]</a>
 
 Ftn7=<a href="#_ftn7" name="_ftnref" title="">[7]</a>
 
-1.3.2._sec=[After the Initial Closing, the Company shall sell, and the Purchasers shall purchase, on the same terms and conditions as those contained in this Agreement, up to [_____________] additional shares of Series A Preferred Stock (the &ldquo;<strong>Milestone Shares</strong>&rdquo;), <em>pro rata</em> in accordance with the number of Shares being purchased by each such Purchaser at all prior Closings, on the certification by the [Board] [Purchasers] that the events specified in Exhibit J attached to this Agreement have occurred (the &ldquo;<strong>Milestone Events</strong>&rdquo;). The date of the purchase and sale of the Milestone Shares are referred to in this Agreement as the &ldquo;<strong>Milestone Closing</strong>.&rdquo;
+1.3.2._sec=After the Initial Closing, the Company shall sell, and the Purchasers shall purchase, on the same terms and conditions as those contained in this Agreement, up to {1.3.2.Ins1} additional shares of Series A Preferred Stock (the &ldquo;<strong>Milestone Shares</strong>&rdquo;), <em>pro rata</em> in accordance with the number of Shares being purchased by each such Purchaser at all prior Closings, on the certification by the {1.3.2.Ins2} that the events specified in Exhibit J attached to this Agreement have occurred (the &ldquo;<strong>Milestone Events</strong>&rdquo;). The date of the purchase and sale of the Milestone Shares are referred to in this Agreement as the &ldquo;<strong>Milestone Closing</strong>.&rdquo;
+
+1.3.2.Ins2=[Board] [Purchasers]
 
 Ftn8=<a href="#_ftn8" name="_ftnref" title="">[8]</a>]
 
 1.4.Title=Use of Proceeds
 
-1.4.0._sec=In accordance with the directions of the Company&rsquo;s Board of Directors, as it shall be constituted in accordance with the Voting Agreement, the Company will use the proceeds from the sale of the Shares for product development and other general corporate purposes.
+1.4._sec=In accordance with the directions of the Company&rsquo;s Board of Directors, as it shall be constituted in accordance with the Voting Agreement, the Company will use the proceeds from the sale of the Shares for product development and other general corporate purposes.
 
 1.5.Title=Defined Terms Used in this Agreement
 
-1.5.0._sec=In addition to the terms defined above, the following terms used in this Agreement shall be construed to have the meanings set forth or referenced below.
+1.5.0._Sen=In addition to the terms defined above, the following terms used in this Agreement shall be construed to have the meanings set forth or referenced below.
 
-1.5.1._Def=&ldquo;<strong>Affiliate</strong>&rdquo; means, with respect to any specified Person, any other Person who, directly or indirectly, controls, is controlled by, or is under common control with such Person, including, without limitation, any general partner, managing member, officer or director of such Person or any venture capital fund now or hereafter existing that is controlled by one or more general partners or managing members of, or shares the same management company with, such Person.
+1.5.1._Sec=&ldquo;<strong>Affiliate</strong>&rdquo; means, with respect to any specified Person, any other Person who, directly or indirectly, controls, is controlled by, or is under common control with such Person, including, without limitation, any general partner, managing member, officer or director of such Person or any venture capital fund now or hereafter existing that is controlled by one or more general partners or managing members of, or shares the same management company with, such Person.
 
-1.5.2._Def=&ldquo;<strong>Code</strong>&rdquo; means the Internal Revenue Code of 1986, as amended.
+1.5.2._Sec=&ldquo;<strong>Code</strong>&rdquo; means the Internal Revenue Code of 1986, as amended.
 
-1.5.3._Def=&ldquo;<strong>Company Covered Person</strong>&rdquo; means, with respect to the Company as an &ldquo;issuer&rdquo; for purposes of Rule 506 promulgated under the Securities Act, any Person listed in the first paragraph of Rule 506(d)(1).
+1.5.3._Sec=&ldquo;<strong>Company Covered Person</strong>&rdquo; means, with respect to the Company as an &ldquo;issuer&rdquo; for purposes of Rule 506 promulgated under the Securities Act, any Person listed in the first paragraph of Rule 506(d)(1).
 
-1.5.4._Def=&ldquo;<strong>Company Intellectual Property</strong>&rdquo; means all patents, patent applications, trademarks, trademark applications, service marks, service mark applications, tradenames, copyrights, trade secrets, domain names, mask works, information and proprietary rights and processes, similar or other intellectual property rights, subject matter of any of the foregoing, tangible embodiments of any of the foregoing, licenses in, to and under any of the foregoing, and any and all such cases [that are owned or used by] [as are necessary to] the Company in the conduct of the Company&rsquo;s business as now conducted and as presently proposed to be conducted.
+1.5.4._Sec=&ldquo;<strong>Company Intellectual Property</strong>&rdquo; means all patents, patent applications, trademarks, trademark applications, service marks, service mark applications, tradenames, copyrights, trade secrets, domain names, mask works, information and proprietary rights and processes, similar or other intellectual property rights, subject matter of any of the foregoing, tangible embodiments of any of the foregoing, licenses in, to and under any of the foregoing, and any and all such cases {1.5.4.Ins1} the Company in the conduct of the Company&rsquo;s business as now conducted and as presently proposed to be conducted.
 
-1.5.5._Def=&ldquo;<strong>Indemnification Agreement</strong>&rdquo; means the agreement between the Company and the director [and Purchaser Affiliates] designated by any Purchaser entitled to designate a member of the Board of Directors pursuant to the Voting Agreement, dated as of the date of the Initial Closing, in the form of <u>Exhibit D</u> attached to this Agreement.
+1.5.4.Ins1=[that are owned or used by] [as are necessary to]
 
+1.5.5._Sec=&ldquo;<strong>Indemnification Agreement</strong>&rdquo; means the agreement between the Company and the director {1.5.5.Ins1}designated by any Purchaser entitled to designate a member of the Board of Directors pursuant to the Voting Agreement, dated as of the date of the Initial Closing, in the form of <u>Exhibit D</u> attached to this Agreement.
+
+1.5.5.Ins1=and Purchaser Affiliates
+ 
 Ftn9=<a href="#_ftn9" name="_ftnref" title="">[9]</a>
 
-1.5.6._Def=&ldquo;<strong>Investors&rsquo; Rights Agreement</strong>&rdquo; means the agreement among the Company and the Purchasers [and certain other stockholders of the Company] dated as of the date of the Initial Closing, in the form of <u>Exhibit E</u> attached to this Agreement.
+1.5.6._Sec=&ldquo;<strong>Investors&rsquo; Rights Agreement</strong>&rdquo; means the agreement among the Company and the Purchasers {1.5.6.Ins1} dated as of the date of the Initial Closing, in the form of <u>Exhibit E</u> attached to this Agreement.
+
+1.5.6.Ins1=and certain other stockholders of the Company
 
 Ftn10=<a href="#_ftn10" name="_ftnref" title=""><sup>[10]</sup></a>
 
-1.5.7._Def=&ldquo;<strong>Key Employee</strong>&rdquo; means any executive-level employee (including division director and vice president-level positions) as well as any employee or consultant who either alone or in concert with others develops, invents, programs or designs any Company Intellectual Property.
+1.5.7._Sec=&ldquo;<strong>Key Employee</strong>&rdquo; means any executive-level employee (including division director and vice president-level positions) as well as any employee or consultant who either alone or in concert with others develops, invents, programs or designs any Company Intellectual Property.
 
 Ftn11=<a href="#_ftn11" name="_ftnref" title=""><sup>[11]</sup></a>
 
-1.5.8._Def=&ldquo;<strong>Knowledge</strong>&rdquo; including the phrase &ldquo;<strong>to the Company&rsquo;s knowledge</strong>&rdquo; shall mean the actual knowledge [after reasonable investigation] of the following officers: [specify names].
+1.5.8._Sec=&ldquo;<strong>Knowledge</strong>&rdquo; including the phrase &ldquo;<strong>to the Company&rsquo;s knowledge</strong>&rdquo; shall mean the actual knowledge {1.5.8.Ins1} of the following officers: {1.5.8.Ins2}.
+
+1.5.8.Ins1=after reasonable investigation
+
+1.5.8.Ins2=specify names
 
 Ftn12=<a href="#_ftn12" name="_ftnref" title=""><sup>[12]</sup></a>
 
-1.5.9._Def=&ldquo;<strong>Management Rights Letter</strong>&rdquo; means the agreement between the Company and [Purchaser], dated as of the date of the Initial Closing, in the form of <u>Exhibit F</u> attached to this Agreement.
+1.5.9._Sec=&ldquo;<strong>Management Rights Letter</strong>&rdquo; means the agreement between the Company and [Purchaser], dated as of the date of the Initial Closing, in the form of <u>Exhibit F</u> attached to this Agreement.
 
-1.5.10._Def=<strong>Material Adverse Effect</strong>&rdquo; means a material adverse effect on the business, assets (including intangible assets), liabilities, financial condition, property, prospects or results of operations of the Company.
+1.5.10._Sec=<strong>Material Adverse Effect</strong>&rdquo; means a material adverse effect on the business, assets (including intangible assets), liabilities, financial condition, property, prospects or results of operations of the Company.
 
 Ftn13=<a href="#_ftn13" name="_ftnref" title=""><sup>[13]</sup></a>
 
-1.5.11._Def=&ldquo;<strong>Person</strong>&rdquo; means any individual, corporation, partnership, trust, limited liability company, association or other entity.
+1.5.11._Sec=&ldquo;<strong>Person</strong>&rdquo; means any individual, corporation, partnership, trust, limited liability company, association or other entity.
 
-1.5.12._Def=&ldquo;<strong>Purchaser</strong>&rdquo; means each of the Purchasers who is initially a party to this Agreement and any Additional Purchaser who becomes a party to this Agreement at a subsequent Closing under <u>Subsection </u><u>1.2</u>(b).
+1.5.12._Sec=&ldquo;<strong>Purchaser</strong>&rdquo; means each of the Purchasers who is initially a party to this Agreement and any Additional Purchaser who becomes a party to this Agreement at a subsequent Closing under <u>Subsection </u><u>1.2</u>(b).
 
-1.5.13._Def=&ldquo;<strong>Right of First Refusal and Co-Sale Agreement</strong>&rdquo; means the agreement among the Company, the Purchasers, and certain other stockholders of the Company, dated as of the date of the Initial Closing, in the form of <u>Exhibit G</u> attached to this Agreement.
+1.5.13._Sec=&ldquo;<strong>Right of First Refusal and Co-Sale Agreement</strong>&rdquo; means the agreement among the Company, the Purchasers, and certain other stockholders of the Company, dated as of the date of the Initial Closing, in the form of <u>Exhibit G</u> attached to this Agreement.
 
-1.5.14._Def=<strong>Securities Act</strong>&rdquo; means the Securities Act of 1933, as amended, and the rules and regulations promulgated thereunder.
+1.5.14._Sec=<strong>Securities Act</strong>&rdquo; means the Securities Act of 1933, as amended, and the rules and regulations promulgated thereunder.
 
-1.5.15._Def=&ldquo;<strong>Shares</strong>&rdquo; means the shares of Series A Preferred Stock issued at the Initial Closing and any [Milestone Shares or] Additional Shares issued at a subsequent Closing under <u>Subsection </u><u>1.2</u>(b).
+1.5.15._Sec=&ldquo;<strong>Shares</strong>&rdquo; means the shares of Series A Preferred Stock issued at the Initial Closing and any [Milestone Shares or] Additional Shares issued at a subsequent Closing under <u>Subsection </u><u>1.2</u>(b).
 
-1.5.16._Def=&ldquo;<strong>Transaction Agreements</strong>&rdquo; means this Agreement, the Investors&rsquo; Rights Agreement, the Management Rights Letter, the Right of First Refusal and Co-Sale Agreement, the Voting Agreement and [list any other agreements, instruments or documents entered into in connection with this Agreement].
+1.5.16._Sec=&ldquo;<strong>Transaction Agreements</strong>&rdquo; means this Agreement, the Investors&rsquo; Rights Agreement, the Management Rights Letter, the Right of First Refusal and Co-Sale Agreement, the Voting Agreement and [list any other agreements, instruments or documents entered into in connection with this Agreement].
 
-1.5.17._Def=&ldquo;<strong>Voting Agreement</strong>&rdquo; means the agreement among the Company, the Purchasers and certain other stockholders of the Company, dated as of the date of the Initial Closing, in the form of <u>Exhibit H</u> attached to this Agreement.
+1.5.17._Sec=&ldquo;<strong>Voting Agreement</strong>&rdquo; means the agreement among the Company, the Purchasers and certain other stockholders of the Company, dated as of the date of the Initial Closing, in the form of <u>Exhibit H</u> attached to this Agreement.
 
 2.Title=Representations and Warranties of the Company
 
@@ -112,7 +139,7 @@ Ftn15=<a href="#_ftn15" name="_ftnref" title="">[15]</a>
 
 Ftn16=<a href="#_ftn16" name="_ftnref" title="">[16]</a>
 
-2.2.1._sec=The authorized capital of the Company consists, immediately prior to the Initial Closing, of:
+2.2.1.0=The authorized capital of the Company consists, immediately prior to the Initial Closing, of:
 
 2.2.1.1._sec=[__________] shares of common stock, $[____] par value per share (the &ldquo;<strong>Common Stock</strong>&rdquo;), [_________] shares of which are issued and outstanding immediately prior to the Initial Closing.&nbsp; All of the outstanding shares of Common Stock have been duly authorized, are fully paid and nonassessable and were issued in compliance with all applicable federal and state securities laws.&nbsp; [The Company holds no Common Stock in its treasury.]
 
@@ -152,7 +179,7 @@ Ftn22=<a href="#_ftn22" name="_ftnref" title="">[22]</a>
 
 2.5.1._sec=The Shares, when issued, sold and delivered in accordance with the terms and for the consideration set forth in this Agreement, will be validly issued, fully paid and nonassessable and free of restrictions on transfer other than restrictions on transfer under the Transaction Agreements, applicable state and federal securities laws and liens or encumbrances created by or imposed by a Purchaser.&nbsp; Assuming the accuracy of the representations of the Purchasers in <u>Section </u><u>0</u> of this Agreement and subject to the filings described in <u>Subsection&nbsp;</u><u>2.5</u>(b)<u>(ii)</u> below, the Shares will be issued in compliance with all applicable federal and state securities laws.&nbsp; The Common Stock issuable upon conversion of the Shares has been duly reserved for issuance, and upon issuance in accordance with the terms of the Restated Certificate, will be validly issued, fully paid and nonassessable and free of restrictions on transfer other than restrictions on transfer under the Transaction Agreements, applicable federal and state securities laws and liens or encumbrances created by or imposed by a Purchaser.&nbsp; Based in part upon the representations of the Purchasers in <u>Section </u><u>0</u> of this Agreement, and subject to <u>Subsection </u><u>2.5</u>(b) below, the Common Stock issuable upon conversion of the Shares will be issued in compliance with all applicable federal and state securities laws.
 
-2.5.2._sec=No &ldquo;bad actor&rdquo; disqualifying event described in Rule 506(d)(1)(i)-(viii) of the Securities Act (a &ldquo;<strong>Disqualification Event</strong>&rdquo;) is applicable to the Company or, to the Company&rsquo;s knowledge, any Company Covered Person, except for a Disqualification Event as to which Rule 506(d)(2)(ii&ndash;iv) or (d)(3), is applicable.<sup>,</sup>
+2.5.2._sec=No &ldquo;bad actor&rdquo; disqualifying event described in Rule 506(d)(1)(i)-(viii) of the Securities Act (a &ldquo;<strong>Disqualification Event</strong>&rdquo;) is applicable to the Company or, to the Company&rsquo;s knowledge, any Company Covered Person, except for a Disqualification Event as to which Rule 506(d)(2)(ii&ndash;iv) or (d)(3), is applicable.
 
 Ftn23=<a href="#_ftn23" name="_ftnref" title="">[23]</a>
 
@@ -304,7 +331,7 @@ Ftn38=<a href="#_ftn38" name="_ftnref" title="">[38]</a>
 
 2.19.Title=Employee Agreements
 
-2.19.1._sec=Each current and former employee, consultant and officer of the Company has executed an agreement with the Company regarding confidentiality and proprietary information substantially in the form or forms delivered to the counsel for the Purchasers (the &ldquo;<strong>Confidential Information Agreements</strong>&rdquo;).&nbsp; No current or former Key Employee has excluded works or inventions from his or her assignment of inventions pursuant to such Key Employee&rsquo;s Confidential Information Agreement.&nbsp; Each current and former Key Employee has executed a [non-competition and] non-solicitation agreement substantially in the form or forms delivered to counsel for the Purchasers.&nbsp; The Company is not aware that any of its Key Employees is in violation of any agreement covered by this <u>Subsection </u><u>2.15</u>.
+2.19._sec=Each current and former employee, consultant and officer of the Company has executed an agreement with the Company regarding confidentiality and proprietary information substantially in the form or forms delivered to the counsel for the Purchasers (the &ldquo;<strong>Confidential Information Agreements</strong>&rdquo;).&nbsp; No current or former Key Employee has excluded works or inventions from his or her assignment of inventions pursuant to such Key Employee&rsquo;s Confidential Information Agreement.&nbsp; Each current and former Key Employee has executed a [non-competition and] non-solicitation agreement substantially in the form or forms delivered to counsel for the Purchasers.&nbsp; The Company is not aware that any of its Key Employees is in violation of any agreement covered by this <u>Subsection </u><u>2.15</u>.
 
 2.20.Title=Permits
 
@@ -330,7 +357,7 @@ Fnt40=<a href="#_ftn40" name="_ftnref" title="">[40]</a>
 
 2.24.1._Sen=Except as could not reasonably be expected to have a Material Adverse Effect [to the best of its knowledge] (a)&nbsp;the Company is and has been in compliance with all Environmental Laws; (b)&nbsp;there has been no release or [to the Company&rsquo;s knowledge] threatened release of any pollutant, contaminant or toxic or hazardous material, substance or waste or petroleum or any fraction thereof (each a &ldquo;<strong>Hazardous Substance</strong>&rdquo;), on, upon, into or from any site currently or heretofore owned, leased or otherwise used by the Company; (c)&nbsp;there have been no Hazardous Substances generated by the Company that have been disposed of or come to rest at any site that has been included in any published U.S. federal, state or local &ldquo;superfund&rdquo; site list or any other similar list of hazardous or toxic waste sites published by any governmental authority in the United States; and (d)&nbsp;there are no underground storage tanks located on, no polychlorinated biphenyls (&ldquo;<strong>PCBs</strong>&rdquo;) or PCB-containing equipment used or stored on, and no hazardous waste as defined by the Resource Conservation and Recovery Act, as amended, stored on, any site owned or operated by the Company, except for the storage of hazardous waste in compliance with Environmental Laws.&nbsp; The Company has made available to the Purchasers true and complete copies of all material environmental records, reports, notifications, certificates of need, permits, pending permit applications, correspondence, engineering studies and environmental studies or assessments.&nbsp;
 
-2.24.2._Sen=Cont=For purposes of this <u>Subsection 2.24</u>, &ldquo;<strong>Environmental Laws</strong>&rdquo; means any law, regulation, or other applicable requirement relating to (a) releases or threatened release of Hazardous Substance; (b) pollution or protection of employee health or safety, public health or the environment; or (c)&nbsp;the manufacture, handling, transport, use, treatment, storage, or disposal of Hazardous Substances.
+2.24.2._Sen=For purposes of this <u>Subsection 2.24</u>, &ldquo;<strong>Environmental Laws</strong>&rdquo; means any law, regulation, or other applicable requirement relating to (a) releases or threatened release of Hazardous Substance; (b) pollution or protection of employee health or safety, public health or the environment; or (c)&nbsp;the manufacture, handling, transport, use, treatment, storage, or disposal of Hazardous Substances.
 
 2.25.Title=Qualified Small Business Stock
 
@@ -447,7 +474,7 @@ Ftn51=<a href="#_ftn51" name="_ftnref" title="">[51]</a>
 
 4.3.Title=Compliance Certificate
 
-4.3._secThe President of the Company shall deliver to the Purchasers at such Closing a certificate certifying that the conditions specified in Subsections 4.1 and 4.2 have been fulfilled.
+4.3._sec=The President of the Company shall deliver to the Purchasers at such Closing a certificate certifying that the conditions specified in Subsections 4.1 and 4.2 have been fulfilled.
 
 4.4.Title=Qualifications
 
@@ -515,7 +542,7 @@ Ftn55=<a href="#_ftn55" name="_ftnref" title="">[55]</a>
 
 5.Title=Conditions of the Company&rsquo;s Obligations at Closing
 
-5.0._SenThe obligations of the Company to sell Shares to the Purchasers at the Initial Closing [or any subsequent Closing] are subject to the fulfillment, on or before the Closing, of each of the following conditions, unless otherwise waived:
+5.0._Sen=The obligations of the Company to sell Shares to the Purchasers at the Initial Closing [or any subsequent Closing] are subject to the fulfillment, on or before the Closing, of each of the following conditions, unless otherwise waived:
 
 5.1.Title=Representations and Warranties
 
@@ -531,7 +558,7 @@ Ftn55=<a href="#_ftn55" name="_ftnref" title="">[55]</a>
 
 5.4.Title=Investors&rsquo; Rights Agreement
 
-5.4._secEach Purchaser shall have executed and delivered the Investors&rsquo; Rights Agreement.
+5.4._sec=Each Purchaser shall have executed and delivered the Investors&rsquo; Rights Agreement.
 
 5.5.Title=Right of First Refusal and Co‑Sale Agreement
 
@@ -727,12 +754,8 @@ CERTIFICATE OF INCORPORATION</strong>
 
 
 <u>EXHIBIT </u><u>C</u>
-<strong>DISCLOSURE SCHEDULE</strong>
-
-This Schedule of Exceptions is made and given pursuant to Section 2 of the Series A Preferred Stock Purchase Agreement, dated as of [date] &nbsp;(the &ldquo;Agreement&rdquo;), between [Company name] (the &ldquo;Company&rdquo;) and the Purchasers listed on Schedule A thereto.&nbsp; All capitalized terms used but not defined herein shall have the meanings as defined in the Agreement, unless otherwise provided.&nbsp; The section numbers below correspond to the section numbers of the representations and warranties in the Agreement; provided<em>, </em>however, that any information disclosed herein under any section number shall be deemed to be disclosed and incorporated into any other section number under the Agreement where such disclosure would be appropriate and such appropriateness is reasonably apparent from the face of such disclosure.&nbsp; Nothing in this Schedule of Exceptions is intended to broaden the scope of any representation or warranty contained in the Agreement or to create any covenant. Inclusion of any item in this Schedule of Exceptions (1) does not represent a determination that such item is material or establish a standard of materiality, (2) does not represent a determination that such item did not arise in the ordinary course of business, (3) does not represent a determination that the transactions contemplated by the Agreement require the consent of third parties, and (4) shall not constitute, or be deemed to be, an admission to any third party concerning such item. This Schedule of Exceptions includes brief descriptions or summaries of certain agreements and instruments, copies of which are available upon reasonable request.&nbsp; Such descriptions do not purport to be comprehensive, and are qualified in their entirety by reference to the text of the documents described, true and complete copies of which have been provided to the Investors or their respective counsel
+<strong>DISCLOSURE SCHEDULE</strong>=This Schedule of Exceptions is made and given pursuant to Section 2 of the Series A Preferred Stock Purchase Agreement, dated as of [date] &nbsp;(the &ldquo;Agreement&rdquo;), between [Company name] (the &ldquo;Company&rdquo;) and the Purchasers listed on Schedule A thereto.&nbsp; All capitalized terms used but not defined herein shall have the meanings as defined in the Agreement, unless otherwise provided.&nbsp; The section numbers below correspond to the section numbers of the representations and warranties in the Agreement; provided<em>, </em>however, that any information disclosed herein under any section number shall be deemed to be disclosed and incorporated into any other section number under the Agreement where such disclosure would be appropriate and such appropriateness is reasonably apparent from the face of such disclosure.&nbsp; Nothing in this Schedule of Exceptions is intended to broaden the scope of any representation or warranty contained in the Agreement or to create any covenant. Inclusion of any item in this Schedule of Exceptions (1) does not represent a determination that such item is material or establish a standard of materiality, (2) does not represent a determination that such item did not arise in the ordinary course of business, (3) does not represent a determination that the transactions contemplated by the Agreement require the consent of third parties, and (4) shall not constitute, or be deemed to be, an admission to any third party concerning such item. This Schedule of Exceptions includes brief descriptions or summaries of certain agreements and instruments, copies of which are available upon reasonable request.&nbsp; Such descriptions do not purport to be comprehensive, and are qualified in their entirety by reference to the text of the documents described, true and complete copies of which have been provided to the Investors or their respective counsel
 &nbsp;
-</div>
-<div>
 
 
 
@@ -808,22 +831,21 @@ MILESTONE EVENTS]
 </div>
 ADDENDUM TO STOCK PURCHASE AGREEMENT: SAMPLE FOUNDER REPRESENTATIONS AND WARRANTIES
 
-3. <u>Representations and Warranties of the Founders</u>.&nbsp; Except as set forth on the Disclosure Schedule, each of the Founders, severally and not jointly, represents and warrants to each Purchaser as of the date of the Closing at which such Purchaser is purchasing Shares as follows [(it being understood and agreed that any Founder&rsquo;s liability for breaches of any provisions of this <u>Section 3</u> shall be limited to the then current fair market value [as determined in good faith by the board of directors of the Company] of the shares of Common Stock of the Company currently owned by such Founder and such Founder [may, in his sole discretion, discharge such liability by the surrender of such shares or the payment of cash] [shall discharge such liability by the surrender of such shares] and will terminate on the earlier of (i) [one (1) year/two (2) years] after the date of this Agreement, or (ii) the completion of an initial public offering of the Company&rsquo;s Common Stock)]:
+3.=<u>Representations and Warranties of the Founders</u>.&nbsp; Except as set forth on the Disclosure Schedule, each of the Founders, severally and not jointly, represents and warrants to each Purchaser as of the date of the Closing at which such Purchaser is purchasing Shares as follows [(it being understood and agreed that any Founder&rsquo;s liability for breaches of any provisions of this <u>Section 3</u> shall be limited to the then current fair market value [as determined in good faith by the board of directors of the Company] of the shares of Common Stock of the Company currently owned by such Founder and such Founder [may, in his sole discretion, discharge such liability by the surrender of such shares or the payment of cash] [shall discharge such liability by the surrender of such shares] and will terminate on the earlier of (i) [one (1) year/two (2) years] after the date of this Agreement, or (ii) the completion of an initial public offering of the Company&rsquo;s Common Stock)]:
 
 Ftn63=<a href="#_ftn63" name="_ftnref" title="">[63]</a>
 
-3.1 <u>Conflicting Agreements</u>.&nbsp; Such Founder is not, as a result of the nature of the business conducted or currently proposed to be conducted by the Company or for any other reason, in violation of (i) any fiduciary or confidential relationship, (ii) any term of any contract or covenant (either with the Company or with another entity) relating to employment, patents, assignment of inventions, confidentiality, proprietary information disclosure, non-competition or non-solicitation, or (iii) any other contract or agreement, or any judgment, decree or order of any court or administrative agency binding on the Founder and relating to or affecting the right of such Founder to be employed by or serve as a director or consultant to the Company.&nbsp; No such relationship, term, contact, agreement, judgment, decree or order conflict with such Founder&rsquo;s obligations to use his best efforts to promote the interests of the Company nor does the execution and delivery of this Agreement, nor such Founder&rsquo;s carrying on the Company&rsquo;s business as a director, officer, consultant or Key Employee of the Company, conflict with any such relationship, term, contract, agreement, judgment, decree or order.
+3.1._Sec=<u>Conflicting Agreements</u>.&nbsp; Such Founder is not, as a result of the nature of the business conducted or currently proposed to be conducted by the Company or for any other reason, in violation of (i) any fiduciary or confidential relationship, (ii) any term of any contract or covenant (either with the Company or with another entity) relating to employment, patents, assignment of inventions, confidentiality, proprietary information disclosure, non-competition or non-solicitation, or (iii) any other contract or agreement, or any judgment, decree or order of any court or administrative agency binding on the Founder and relating to or affecting the right of such Founder to be employed by or serve as a director or consultant to the Company.&nbsp; No such relationship, term, contact, agreement, judgment, decree or order conflict with such Founder&rsquo;s obligations to use his best efforts to promote the interests of the Company nor does the execution and delivery of this Agreement, nor such Founder&rsquo;s carrying on the Company&rsquo;s business as a director, officer, consultant or Key Employee of the Company, conflict with any such relationship, term, contract, agreement, judgment, decree or order.
 
-3.2 <u>Litigation</u>.&nbsp; There is no action, suit or proceeding, or governmental inquiry or investigation, pending or, to such Founder&rsquo;s knowledge, threatened against such Founder, and, to such Founder&rsquo;s knowledge, there is no basis for any such action, suit, proceeding, or governmental inquiry or investigation that would result in a Material Adverse Effect.
+3.2._Sec=<u>Litigation</u>.&nbsp; There is no action, suit or proceeding, or governmental inquiry or investigation, pending or, to such Founder&rsquo;s knowledge, threatened against such Founder, and, to such Founder&rsquo;s knowledge, there is no basis for any such action, suit, proceeding, or governmental inquiry or investigation that would result in a Material Adverse Effect.
 
-3.3 <u>Stockholder Agreements</u>.&nbsp; Except as contemplated by or disclosed in the Transaction Agreements, such Founder is not a party to and has no knowledge of any agreements, written or oral, relating to the acquisition, disposition, registration under the Securities Act, or voting of the securities of the Company.
+3.3._Sec=<u>Stockholder Agreements</u>.&nbsp; Except as contemplated by or disclosed in the Transaction Agreements, such Founder is not a party to and has no knowledge of any agreements, written or oral, relating to the acquisition, disposition, registration under the Securities Act, or voting of the securities of the Company.
 
-3.4 <u>Representations and Warranties</u>.&nbsp; [To such Founder&rsquo;s knowledge,] all of the representations and warranties of the Company set forth in <u>Section </u>2 are true and complete.
+3.4._Sec=<u>Representations and Warranties</u>.&nbsp; [To such Founder&rsquo;s knowledge,] all of the representations and warranties of the Company set forth in <u>Section </u>2 are true and complete.
 
-3.5 <u>Prior Legal Matters</u>.&nbsp; Such Founder has not been (a) subject to voluntary or involuntary petition under the federal bankruptcy laws or any state insolvency law or the appointment of a receiver, fiscal agent or similar officer by a court for his business or property; (b) convicted in a criminal proceeding or named as a subject of a pending criminal proceeding (excluding traffic violations and other minor offenses); (c)&nbsp;subject to any order, judgment, or decree (not subsequently reversed, suspended, or vacated) of any court of competent jurisdiction permanently or temporarily enjoining him from engaging, or otherwise imposing limits or conditions on his engagement in any securities, investment advisory, banking, insurance, or other type of business or acting as an officer or director of a public company; or (d)&nbsp;found by a court of competent jurisdiction in a civil action or by the Securities and Exchange Commission or the Commodity Futures Trading Commission to have violated any federal or state securities, commodities or unfair trade practices law, which such judgment or finding has not been subsequently reversed, suspended, or vacated.
+3.5._Sec=<u>Prior Legal Matters</u>.&nbsp; Such Founder has not been (a) subject to voluntary or involuntary petition under the federal bankruptcy laws or any state insolvency law or the appointment of a receiver, fiscal agent or similar officer by a court for his business or property; (b) convicted in a criminal proceeding or named as a subject of a pending criminal proceeding (excluding traffic violations and other minor offenses); (c)&nbsp;subject to any order, judgment, or decree (not subsequently reversed, suspended, or vacated) of any court of competent jurisdiction permanently or temporarily enjoining him from engaging, or otherwise imposing limits or conditions on his engagement in any securities, investment advisory, banking, insurance, or other type of business or acting as an officer or director of a public company; or (d)&nbsp;found by a court of competent jurisdiction in a civil action or by the Securities and Exchange Commission or the Commodity Futures Trading Commission to have violated any federal or state securities, commodities or unfair trade practices law, which such judgment or finding has not been subsequently reversed, suspended, or vacated.
 
 
-<div>&nbsp;
 <div id="ftn">
 
 <a href="#_ftnref" name="_ftn1" title="">[1]</a> If only one closing is contemplated, references to &ldquo;Initial Closing,&rdquo; &ldquo;each Closing,&rdquo; &ldquo;such Closing&rdquo; etc. should be modified.
@@ -960,7 +982,7 @@ Ftn63=<a href="#_ftn63" name="_ftnref" title="">[63]</a>
 <div id="ftn">
 <a href="#_ftnref" name="_ftn34" title="">[34]</a> For early stage companies without financial statements, it may be appropriate to have an alternative provision, such as the following:
 
-<u>Material Liabilities</u>.&nbsp; The Company has no liability or obligation, absolute or contingent (individually or in the aggregate), except (i) obligations and liabilities incurred after the date of incorporation in the ordinary course of business that are not material, individually or in the aggregate, and (ii) obligations under contracts made in the ordinary course of business that would not be required to be reflected in financial statements prepared in accordance with GAAP.
+<u>Material Liabilities</u>.=&nbsp; The Company has no liability or obligation, absolute or contingent (individually or in the aggregate), except (i) obligations and liabilities incurred after the date of incorporation in the ordinary course of business that are not material, individually or in the aggregate, and (ii) obligations under contracts made in the ordinary course of business that would not be required to be reflected in financial statements prepared in accordance with GAAP.
 </div>
 
 <div id="ftn">
@@ -1030,9 +1052,9 @@ Ftn63=<a href="#_ftn63" name="_ftnref" title="">[63]</a>
 <div id="ftn">
 <a href="#_ftnref" name="_ftn51" title="">[51]</a> <u>Section 4</u> contains the conditions which the Company must satisfy (or which must be waived) prior to closing in order to trigger the investors&rsquo; obligation to purchase the shares; <u>Section 4</u> contains the conditions the investors must satisfy to trigger the Company&rsquo;s obligation to sell the shares. With respect to each side, the essential requirements are (A) that all of the representations and warranties each makes in the Agreement are still true at the closing, and (B) that the other parties have entered into the other Transaction Agreements.&nbsp; If (as is typically the case) the Agreement contemplates a simultaneous signing and closing, consider deleting <u>Subsections </u><u>4.1</u> &ndash; <u>4.4</u>,<u> 4.6</u>,<u> 4.13, 4.14</u> and <u>4.17</u> (which, for the most part, can be covered by the representations in <u>Section </u><u>2</u>), and recasting the subsections of <u>Section 4</u> as closing deliveries.&nbsp; If the Agreement contemplates multiple closings, attention should be given to determining what conditions must be satisfied in order to trigger the investors&rsquo; obligations to purchase shares at subsequent closings.
 
-<u>Subsections 4.3</u> and <u>4.5</u> specifically require the Company to deliver at the Closing a Compliance Certificate and opinion of Company Counsel.&nbsp; In addition, it is generally necessary to deliver at the Closing (A) a Secretary&rsquo;s certificate certifying the Company&rsquo;s bylaws, board resolutions approving the transaction, and stockholder resolutions approving the Restated Certificate, (B) good standing certificates from the Secretary of State, (C) the certified Restated Certificate, and (D) waivers of any rights of first refusal triggered by the financing. These documents are therefore listed as &ldquo;Closing Documents&rdquo; on transaction checklists even though they are not specifically required to be delivered by the Agreement and are technically covered by the Compliance Certificate and the opinion of the Company&rsquo;s counsel.&nbsp; If the transaction is structured as a simultaneous signing and closing, the closing conditions serve as a convenient closing checklist, but are significantly diminished in importance.
+xx=<u>Subsections 4.3</u> and <u>4.5</u> specifically require the Company to deliver at the Closing a Compliance Certificate and opinion of Company Counsel.&nbsp; In addition, it is generally necessary to deliver at the Closing (A) a Secretary&rsquo;s certificate certifying the Company&rsquo;s bylaws, board resolutions approving the transaction, and stockholder resolutions approving the Restated Certificate, (B) good standing certificates from the Secretary of State, (C) the certified Restated Certificate, and (D) waivers of any rights of first refusal triggered by the financing. These documents are therefore listed as &ldquo;Closing Documents&rdquo; on transaction checklists even though they are not specifically required to be delivered by the Agreement and are technically covered by the Compliance Certificate and the opinion of the Company&rsquo;s counsel.&nbsp; If the transaction is structured as a simultaneous signing and closing, the closing conditions serve as a convenient closing checklist, but are significantly diminished in importance.
 
-If there are to be subsequent closings, consider whether all of the closing conditions applicable to the Initial Closing should be applicable to the subsequent closing.&nbsp; It may be appropriate to include a separate, more limited set of closing conditions for a subsequent closing.&nbsp;
+xx=If there are to be subsequent closings, consider whether all of the closing conditions applicable to the Initial Closing should be applicable to the subsequent closing.&nbsp; It may be appropriate to include a separate, more limited set of closing conditions for a subsequent closing.&nbsp;
 </div>
 
 <div id="ftn">
