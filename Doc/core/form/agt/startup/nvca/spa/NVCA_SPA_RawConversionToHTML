@@ -1,4 +1,4 @@
-<div>
+=[core/form/agt/startup/nvca/spa/Doc_Parts]
 
 
 AGT.Title=SERIES A PREFERRED STOCK PURCHASE AGREEMENT
@@ -462,7 +462,7 @@ Ftn50=<a href="#_ftn50" name="_ftnref" title="">[50]</a>
 
 Ftn51=<a href="#_ftn51" name="_ftnref" title="">[51]</a>
 
-4.0._sen=The obligations of each Purchaser to purchase Shares at the Initial Closing [or any subsequent Closing] are subject to the fulfillment, on or before such Closing, of each of the following conditions, unless otherwise waived:
+4.0=The obligations of each Purchaser to purchase Shares at the Initial Closing [or any subsequent Closing] are subject to the fulfillment, on or before such Closing, of each of the following conditions, unless otherwise waived:
 
 4.1.Title=Representations and Warranties
 
@@ -542,13 +542,13 @@ Ftn55=<a href="#_ftn55" name="_ftnref" title="">[55]</a>
 
 5.Title=Conditions of the Company&rsquo;s Obligations at Closing
 
-5.0._Sen=The obligations of the Company to sell Shares to the Purchasers at the Initial Closing [or any subsequent Closing] are subject to the fulfillment, on or before the Closing, of each of the following conditions, unless otherwise waived:
+5.0=The obligations of the Company to sell Shares to the Purchasers at the Initial Closing [or any subsequent Closing] are subject to the fulfillment, on or before the Closing, of each of the following conditions, unless otherwise waived:
 
 5.1.Title=Representations and Warranties
 
 5.1._sec=The representations and warranties of each Purchaser contained in Section 3 shall be true and correct in all respects as of such Closing.
 
-5.2=Performance
+5.2.Title=Performance
 
 5.2._sec=The Purchasers shall have performed and complied with all covenants, agreements, obligations and conditions contained in this Agreement that are required to be performed or complied with by them on or before such Closing.
 
@@ -592,7 +592,7 @@ Ftn57=<a href="#_ftn57" name="_ftnref" title="">[57]</a>
 
 6.4.Title=Counterparts
 
-6.4.Title=This Agreement may be executed in two (2) or more counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument.&nbsp; Counterparts may be delivered via facsimile, electronic mail (including pdf or any electronic signature complying with the U.S. federal ESIGN Act of 2000, <em>e.g.</em>, www.docusign.com) or other transmission method and any counterpart so delivered shall be deemed to have been duly and validly delivered and be valid and effective for all purposes.
+6.4._sec=This Agreement may be executed in two (2) or more counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument.&nbsp; Counterparts may be delivered via facsimile, electronic mail (including pdf or any electronic signature complying with the U.S. federal ESIGN Act of 2000, <em>e.g.</em>, www.docusign.com) or other transmission method and any counterpart so delivered shall be deemed to have been duly and validly delivered and be valid and effective for all purposes.
 
 6.5.Title=Titles and Subtitles
 
@@ -620,7 +620,7 @@ Ftn58-<a href="#_ftn58" name="_ftnref" title="">[58]</a>
 
 Ftn60=<a href="#_ftn60" name="_ftnref" title="">[60]</a>
 
-6.10._sen=Except as set forth in Subsection 1.2(b) of this Agreement, any term of this Agreement may be amended, terminated or waived only with the written consent of the Company, and (i) the holders of at least [<em>specify percentage</em>] of the then-outstanding Shares, or (ii) for an amendment, termination or waiver effected prior to the Initial Closing, Purchasers obligated to purchase [<em>specify percentage</em>] of the Shares to be issued at the Initial Closing.&nbsp; Any amendment or waiver effected in accordance with this Subsection&nbsp;0 shall be binding upon the Purchasers and each transferee of the Shares (or the Common Stock issuable upon conversion thereof), each future holder of all such securities, and the Company.
+6.10._sec=Except as set forth in Subsection 1.2(b) of this Agreement, any term of this Agreement may be amended, terminated or waived only with the written consent of the Company, and (i) the holders of at least [<em>specify percentage</em>] of the then-outstanding Shares, or (ii) for an amendment, termination or waiver effected prior to the Initial Closing, Purchasers obligated to purchase [<em>specify percentage</em>] of the Shares to be issued at the Initial Closing.&nbsp; Any amendment or waiver effected in accordance with this Subsection&nbsp;0 shall be binding upon the Purchasers and each transferee of the Shares (or the Common Stock issuable upon conversion thereof), each future holder of all such securities, and the Company.
 
 6.11.Title=Severability
 
@@ -649,13 +649,14 @@ Ftn62=<a href="#_ftn62" name="_ftnref" title="">[62]</a>
 6.15.0.2_Sen=Waiver of Jury Trial:&nbsp; EACH PARTY HEREBY WAIVES ITS RIGHTS TO A JURY TRIAL OF ANY CLAIM OR CAUSE OF ACTION BASED UPON OR ARISING OUT OF THIS AGREEMENT, THE OTHER TRANSACTION DOCUMENTS, THE SECURITIES OR THE SUBJECT MATTER HEREOF OR THEREOF.&nbsp; THE SCOPE OF THIS WAIVER IS INTENDED TO BE ALL-ENCOMPASSING OF ANY AND ALL DISPUTES THAT MAY BE FILED IN ANY COURT AND THAT RELATE TO THE SUBJECT MATTER OF THIS TRANSACTION, INCLUDING, WITHOUT LIMITATION, CONTRACT CLAIMS, TORT CLAIMS (INCLUDING NEGLIGENCE), BREACH OF DUTY CLAIMS, AND ALL OTHER COMMON LAW AND STATUTORY CLAIMS.&nbsp; THIS SECTION HAS BEEN FULLY DISCUSSED BY EACH OF THE PARTIES HERETO AND THESE PROVISIONS WILL NOT BE SUBJECT TO ANY EXCEPTIONS.&nbsp; EACH PARTY HERETO HEREBY FURTHER WARRANTS AND REPRESENTS THAT SUCH PARTY HAS REVIEWED THIS WAIVER WITH ITS LEGAL COUNSEL, AND THAT SUCH PARTY KNOWINGLY AND VOLUNTARILY WAIVES ITS JURY TRIAL RIGHTS FOLLOWING CONSULTATION WITH LEGAL COUNSEL
 
 6.15.0.3.Note=Alternatives
+
 6.15.0.3._Sen=<em>Alternative</em>:&nbsp; Any unresolved controversy or claim arising out of or relating to this Agreement, except as (i)&nbsp;otherwise provided in this Agreement, or (ii)&nbsp;any such controversies or claims arising out of either party&rsquo;s intellectual property rights for which a provisional remedy or equitable relief is sought, shall be submitted to arbitration by one arbitrator mutually agreed upon by the parties, and if no agreement can be reached within thirty (30) days after names of potential arbitrators have been proposed by the American Arbitration Association (the &ldquo;<strong>AAA</strong>&rdquo;), then by one arbitrator having reasonable experience in corporate finance transactions of the type provided for in this Agreement and who is chosen by the AAA.&nbsp; The arbitration shall take place in [<em>location</em>], in accordance with the AAA rules then in effect, and judgment upon any award rendered in such arbitration will be binding and may be entered in any court having jurisdiction thereof.&nbsp; There shall be limited discovery prior to the arbitration hearing as follows: (a) exchange of witness lists and copies of documentary evidence and documents relating to or arising out of the issues to be arbitrated, (b)&nbsp;depositions of all party witnesses, and (c) such other depositions as may be allowed by the arbitrators upon a showing of good cause.&nbsp; Depositions shall be conducted in accordance with the [<em>state</em>] Code of Civil Procedure, the arbitrator shall be required to provide in writing to the parties the basis for the award or order of such arbitrator, and a court reporter shall record all hearings, with such record constituting the official transcript of such proceedings.
 
 6.15.0.4._Sen=[Each party will bear its own costs in respect of any disputes arising under this Agreement.] [The prevailing party shall be entitled to reasonable attorney&rsquo;s fees, costs, and necessary disbursements in addition to any other relief to which such party may be entitled.]&nbsp; Each of the parties to this Agreement consents to personal jurisdiction for any equitable action sought in the U.S. District Court for the District of [_____] or any court of the [State][Commonwealth] of [<em>state</em>] having subject matter jurisdiction.]
 
 6.16.Title=No Commitment for Additional Financing
 
-6.16._sen=The Company acknowledges and agrees that no Purchaser has made any representation, undertaking, commitment or agreement to provide or assist the Company in obtaining any financing, investment or other assistance, other than the purchase of the Shares as set forth herein and subject to the conditions set forth herein.&nbsp; In addition, the Company acknowledges and agrees that (i)&nbsp;no statements, whether written or oral, made by any Purchaser or its representatives on or after the date of this Agreement shall create an obligation, commitment or agreement to provide or assist the Company in obtaining any financing or investment, (ii)&nbsp;the Company shall not rely on any such statement by any Purchaser or its representatives, and (iii) an obligation, commitment or agreement to provide or assist the Company in obtaining any financing or investment may only be created by a written agreement, signed by such Purchaser and the Company, setting forth the terms and conditions of such financing or investment and stating that the parties intend for such writing to be a binding obligation or agreement.&nbsp; Each Purchaser shall have the right, in its sole and absolute discretion, to refuse or decline to participate in any other financing of or investment in the Company, and shall have no obligation to assist or cooperate with the Company in obtaining any financing, investment or other assistance.
+6.16._sec=The Company acknowledges and agrees that no Purchaser has made any representation, undertaking, commitment or agreement to provide or assist the Company in obtaining any financing, investment or other assistance, other than the purchase of the Shares as set forth herein and subject to the conditions set forth herein.&nbsp; In addition, the Company acknowledges and agrees that (i)&nbsp;no statements, whether written or oral, made by any Purchaser or its representatives on or after the date of this Agreement shall create an obligation, commitment or agreement to provide or assist the Company in obtaining any financing or investment, (ii)&nbsp;the Company shall not rely on any such statement by any Purchaser or its representatives, and (iii) an obligation, commitment or agreement to provide or assist the Company in obtaining any financing or investment may only be created by a written agreement, signed by such Purchaser and the Company, setting forth the terms and conditions of such financing or investment and stating that the parties intend for such writing to be a binding obligation or agreement.&nbsp; Each Purchaser shall have the right, in its sole and absolute discretion, to refuse or decline to participate in any other financing of or investment in the Company, and shall have no obligation to assist or cooperate with the Company in obtaining any financing, investment or other assistance.
 
 6.17.Title=Waiver of Conflicts
 
@@ -707,143 +708,62 @@ Address:
 &nbsp;
 </div>
 <div>
+
 <strong><u>EXHIBITS</u></strong>
-<p style="margin-left:1.75in">&nbsp;&nbsp; <u>Exhibit A</u> -..... <strong>SCHEDULE OF PURCHASERS</strong>
 
-<p style="margin-left:1.75in">&nbsp;&nbsp; <u>Exhibit B</u> -..... <strong>FORM OF AMENDED AND RESTATED<br />
-CERTIFICATE OF INCORPORATION</strong>
+Exhibit.A.Title=Schedule of Purchasers
 
-<p style="margin-left:1.75in">&nbsp;&nbsp; <u>Exhibit C</u> -..... <strong>DISCLOSURE SCHEDULE</strong>
+Exhibit.B.Title=Form of Amended and Restated Certificate of Incorporation
 
-<p style="margin-left:1.75in">&nbsp;&nbsp; <u>Exhibit D</u> -..... <strong>FORM OF INDEMNIFICATION AGREEMENT</strong>
+Exhibit.C.Title=Disclosure Schedule
 
-<p style="margin-left:1.75in">&nbsp;&nbsp; <u>Exhibit E</u> -..... <strong>FORM OF INVESTORS&rsquo; RIGHTS AGREEMENT</strong>
+Exhibit.D.Title=Form of Indemnification Agreement
 
-<p style="margin-left:1.75in">&nbsp;&nbsp; <u>Exhibit F</u> -..... <strong>FORM OF MANAGEMENT RIGHTS LETTER</strong>
+Exhibit.E.Title=Form of Invester&rsquo; Rights Agreement
 
-<p style="margin-left:1.75in">&nbsp;&nbsp; <u>Exhibit G</u> -..... <strong>Form of Right of First Refusal and Co-Sale Agreement</strong>
+Exhibit.F.Title=Form of Management Rights Letter
 
-<p style="margin-left:1.75in">&nbsp;&nbsp; <u>Exhibit H</u> -..... <strong>FORM OF VOTING AGREEMENT</strong>
+Exhibit.G.Title=Form of Right of First Refusal and Co-Sale Agreement
 
-<p style="margin-left:1.75in">&nbsp;&nbsp; <u>Exhibit I</u> -..... <strong>FORM OF LEGAL OPINION OF [COMPANY COUNSEL]</strong>
+Exhibit.H.Title=Form of Voting Agreement
 
-<p style="margin-left:1.75in">&nbsp;&nbsp; [<u>Exhibit J</u> -..... <strong>MILESTONE EVENTS</strong><strong>]</strong>
-</div>
-<div>
+Exhibit.I.Title=Form of Legal Opinion of {Co.Atty.Name.Full}
 
-<u>EXHIBIT </u><u>A</u>
-
-
-<strong>SCHEDULE OF PURCHASERS</strong>
-</div>
-<div>
+Exhibit.J.Title=Milestone Events
 
 
 
-
-
-
-<u>EXHIBIT </u><u>B</u>
-
-<strong>FORM OF AMENDED AND RESTATED<br />
-CERTIFICATE OF INCORPORATION</strong>
-</div>
-<div>
-
-
-
-
-<u>EXHIBIT </u><u>C</u>
-<strong>DISCLOSURE SCHEDULE</strong>=This Schedule of Exceptions is made and given pursuant to Section 2 of the Series A Preferred Stock Purchase Agreement, dated as of [date] &nbsp;(the &ldquo;Agreement&rdquo;), between [Company name] (the &ldquo;Company&rdquo;) and the Purchasers listed on Schedule A thereto.&nbsp; All capitalized terms used but not defined herein shall have the meanings as defined in the Agreement, unless otherwise provided.&nbsp; The section numbers below correspond to the section numbers of the representations and warranties in the Agreement; provided<em>, </em>however, that any information disclosed herein under any section number shall be deemed to be disclosed and incorporated into any other section number under the Agreement where such disclosure would be appropriate and such appropriateness is reasonably apparent from the face of such disclosure.&nbsp; Nothing in this Schedule of Exceptions is intended to broaden the scope of any representation or warranty contained in the Agreement or to create any covenant. Inclusion of any item in this Schedule of Exceptions (1) does not represent a determination that such item is material or establish a standard of materiality, (2) does not represent a determination that such item did not arise in the ordinary course of business, (3) does not represent a determination that the transactions contemplated by the Agreement require the consent of third parties, and (4) shall not constitute, or be deemed to be, an admission to any third party concerning such item. This Schedule of Exceptions includes brief descriptions or summaries of certain agreements and instruments, copies of which are available upon reasonable request.&nbsp; Such descriptions do not purport to be comprehensive, and are qualified in their entirety by reference to the text of the documents described, true and complete copies of which have been provided to the Investors or their respective counsel
+Exhibit.C._Body=This Schedule of Exceptions is made and given pursuant to Section 2 of the Series A Preferred Stock Purchase Agreement, dated as of [date] &nbsp;(the &ldquo;Agreement&rdquo;), between [Company name] (the &ldquo;Company&rdquo;) and the Purchasers listed on Schedule A thereto.&nbsp; All capitalized terms used but not defined herein shall have the meanings as defined in the Agreement, unless otherwise provided.&nbsp; The section numbers below correspond to the section numbers of the representations and warranties in the Agreement; provided<em>, </em>however, that any information disclosed herein under any section number shall be deemed to be disclosed and incorporated into any other section number under the Agreement where such disclosure would be appropriate and such appropriateness is reasonably apparent from the face of such disclosure.&nbsp; Nothing in this Schedule of Exceptions is intended to broaden the scope of any representation or warranty contained in the Agreement or to create any covenant. Inclusion of any item in this Schedule of Exceptions (1) does not represent a determination that such item is material or establish a standard of materiality, (2) does not represent a determination that such item did not arise in the ordinary course of business, (3) does not represent a determination that the transactions contemplated by the Agreement require the consent of third parties, and (4) shall not constitute, or be deemed to be, an admission to any third party concerning such item. This Schedule of Exceptions includes brief descriptions or summaries of certain agreements and instruments, copies of which are available upon reasonable request.&nbsp; Such descriptions do not purport to be comprehensive, and are qualified in their entirety by reference to the text of the documents described, true and complete copies of which have been provided to the Investors or their respective counsel
 &nbsp;
 
 
+3A.Title=Representations and Warranties of the Founders
 
+3A.0=Except as set forth on the Disclosure Schedule, each of the Founders, severally and not jointly, represents and warrants to each Purchaser as of the date of the Closing at which such Purchaser is purchasing Shares as follows [(it being understood and agreed that any Founder&rsquo;s liability for breaches of any provisions of this <u>Section 3</u> shall be limited to the then current fair market value [as determined in good faith by the board of directors of the Company] of the shares of Common Stock of the Company currently owned by such Founder and such Founder [may, in his sole discretion, discharge such liability by the surrender of such shares or the payment of cash] [shall discharge such liability by the surrender of such shares] and will terminate on the earlier of (i) [one (1) year/two (2) years] after the date of this Agreement, or (ii) the completion of an initial public offering of the Company&rsquo;s Common Stock)]:
 
-
-
-<u>EXHIBIT </u><u>D</u>
-
-<strong>FORM OF INDEMNIFICATION AGREEMENT</strong>
-</div>
-<div>
-
-
-
-
-
-
-<u>EXHIBIT </u><u>E</u>
-
-<strong>FORM OF INVESTORS&rsquo; RIGHTS AGREEMENT</strong>
-</div>
-<div>
-
-
-
-
-
-
-<u>EXHIBIT </u><u>F</u>
-
-<strong>FORM OF MANAGEMENT RIGHTS LETTER</strong>
-</div>
-<div>
-
-
-
-
-
-
-<u>Exhibit </u><u>G</u>
-
-<strong>Form of Right of First Refusal and Co-Sale Agreement</strong>
-
-&nbsp;
-</div>
-<div>
-
-
-
-
-
-
-<u>EXHIBIT </u><u>H</u>
-
-<strong>FORM OF VOTING AGREEMENT</strong>
-</div>
-<div>
-<u>EXHIBIT </u><u>I</u>
-
-<strong>FORM OF LEGAL OPINION OF [COMPANY COUNSEL]</strong>
-&nbsp;
-</div>
-<div>
-
-
-
-
-
-
-[<u>EXHIBIT </u><u>J</u>
-
-MILESTONE EVENTS]
-</div>
-ADDENDUM TO STOCK PURCHASE AGREEMENT: SAMPLE FOUNDER REPRESENTATIONS AND WARRANTIES
-
-3.=<u>Representations and Warranties of the Founders</u>.&nbsp; Except as set forth on the Disclosure Schedule, each of the Founders, severally and not jointly, represents and warrants to each Purchaser as of the date of the Closing at which such Purchaser is purchasing Shares as follows [(it being understood and agreed that any Founder&rsquo;s liability for breaches of any provisions of this <u>Section 3</u> shall be limited to the then current fair market value [as determined in good faith by the board of directors of the Company] of the shares of Common Stock of the Company currently owned by such Founder and such Founder [may, in his sole discretion, discharge such liability by the surrender of such shares or the payment of cash] [shall discharge such liability by the surrender of such shares] and will terminate on the earlier of (i) [one (1) year/two (2) years] after the date of this Agreement, or (ii) the completion of an initial public offering of the Company&rsquo;s Common Stock)]:
 
 Ftn63=<a href="#_ftn63" name="_ftnref" title="">[63]</a>
 
-3.1._Sec=<u>Conflicting Agreements</u>.&nbsp; Such Founder is not, as a result of the nature of the business conducted or currently proposed to be conducted by the Company or for any other reason, in violation of (i) any fiduciary or confidential relationship, (ii) any term of any contract or covenant (either with the Company or with another entity) relating to employment, patents, assignment of inventions, confidentiality, proprietary information disclosure, non-competition or non-solicitation, or (iii) any other contract or agreement, or any judgment, decree or order of any court or administrative agency binding on the Founder and relating to or affecting the right of such Founder to be employed by or serve as a director or consultant to the Company.&nbsp; No such relationship, term, contact, agreement, judgment, decree or order conflict with such Founder&rsquo;s obligations to use his best efforts to promote the interests of the Company nor does the execution and delivery of this Agreement, nor such Founder&rsquo;s carrying on the Company&rsquo;s business as a director, officer, consultant or Key Employee of the Company, conflict with any such relationship, term, contract, agreement, judgment, decree or order.
+3A.1.Title=Conflicting Agreements
 
-3.2._Sec=<u>Litigation</u>.&nbsp; There is no action, suit or proceeding, or governmental inquiry or investigation, pending or, to such Founder&rsquo;s knowledge, threatened against such Founder, and, to such Founder&rsquo;s knowledge, there is no basis for any such action, suit, proceeding, or governmental inquiry or investigation that would result in a Material Adverse Effect.
+3A.1._sec=Such Founder is not, as a result of the nature of the business conducted or currently proposed to be conducted by the Company or for any other reason, in violation of (i) any fiduciary or confidential relationship, (ii) any term of any contract or covenant (either with the Company or with another entity) relating to employment, patents, assignment of inventions, confidentiality, proprietary information disclosure, non-competition or non-solicitation, or (iii) any other contract or agreement, or any judgment, decree or order of any court or administrative agency binding on the Founder and relating to or affecting the right of such Founder to be employed by or serve as a director or consultant to the Company.&nbsp; No such relationship, term, contact, agreement, judgment, decree or order conflict with such Founder&rsquo;s obligations to use his best efforts to promote the interests of the Company nor does the execution and delivery of this Agreement, nor such Founder&rsquo;s carrying on the Company&rsquo;s business as a director, officer, consultant or Key Employee of the Company, conflict with any such relationship, term, contract, agreement, judgment, decree or order.
 
-3.3._Sec=<u>Stockholder Agreements</u>.&nbsp; Except as contemplated by or disclosed in the Transaction Agreements, such Founder is not a party to and has no knowledge of any agreements, written or oral, relating to the acquisition, disposition, registration under the Securities Act, or voting of the securities of the Company.
+3A.2.Title=Litigation
 
-3.4._Sec=<u>Representations and Warranties</u>.&nbsp; [To such Founder&rsquo;s knowledge,] all of the representations and warranties of the Company set forth in <u>Section </u>2 are true and complete.
+3A.2._sec=There is no action, suit or proceeding, or governmental inquiry or investigation, pending or, to such Founder&rsquo;s knowledge, threatened against such Founder, and, to such Founder&rsquo;s knowledge, there is no basis for any such action, suit, proceeding, or governmental inquiry or investigation that would result in a Material Adverse Effect.
 
-3.5._Sec=<u>Prior Legal Matters</u>.&nbsp; Such Founder has not been (a) subject to voluntary or involuntary petition under the federal bankruptcy laws or any state insolvency law or the appointment of a receiver, fiscal agent or similar officer by a court for his business or property; (b) convicted in a criminal proceeding or named as a subject of a pending criminal proceeding (excluding traffic violations and other minor offenses); (c)&nbsp;subject to any order, judgment, or decree (not subsequently reversed, suspended, or vacated) of any court of competent jurisdiction permanently or temporarily enjoining him from engaging, or otherwise imposing limits or conditions on his engagement in any securities, investment advisory, banking, insurance, or other type of business or acting as an officer or director of a public company; or (d)&nbsp;found by a court of competent jurisdiction in a civil action or by the Securities and Exchange Commission or the Commodity Futures Trading Commission to have violated any federal or state securities, commodities or unfair trade practices law, which such judgment or finding has not been subsequently reversed, suspended, or vacated.
+3A.3.Title=Stockholder Agreements
+
+3A.3._sec=Except as contemplated by or disclosed in the Transaction Agreements, such Founder is not a party to and has no knowledge of any agreements, written or oral, relating to the acquisition, disposition, registration under the Securities Act, or voting of the securities of the Company.
+
+3A.4.Title=Representations and Warranties
+
+3A.4._sec=[To such Founder&rsquo;s knowledge,] all of the representations and warranties of the Company set forth in <u>Section </u>2 are true and complete.
+
+3A.5.Title=Prior Legal Matters
+
+3A.5._sec=Such Founder has not been (a) subject to voluntary or involuntary petition under the federal bankruptcy laws or any state insolvency law or the appointment of a receiver, fiscal agent or similar officer by a court for his business or property; (b) convicted in a criminal proceeding or named as a subject of a pending criminal proceeding (excluding traffic violations and other minor offenses); (c)&nbsp;subject to any order, judgment, or decree (not subsequently reversed, suspended, or vacated) of any court of competent jurisdiction permanently or temporarily enjoining him from engaging, or otherwise imposing limits or conditions on his engagement in any securities, investment advisory, banking, insurance, or other type of business or acting as an officer or director of a public company; or (d)&nbsp;found by a court of competent jurisdiction in a civil action or by the Securities and Exchange Commission or the Commodity Futures Trading Commission to have violated any federal or state securities, commodities or unfair trade practices law, which such judgment or finding has not been subsequently reversed, suspended, or vacated.
+
 
 
 <div id="ftn">
