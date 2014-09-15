@@ -7,6 +7,7 @@ You should have received a copy of the CC0 Public Domain Dedication along with t
 */
 ?>
 <?php include("header.php"); ?>
+<?php include("routes.php"); ?>
 <?php include("ccmac_helpers.php"); ?>
 
 

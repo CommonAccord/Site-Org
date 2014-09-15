@@ -16,7 +16,6 @@
 <h4>Learn <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/about/how/>how it works</a>.</h4>
 <h4>See <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/event/>some deals</a>.</h4>
 <h4>Go to <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/core/>the core</a>.</h4>
-
 <br>
 
 
@@ -106,8 +105,3 @@
 
       <hr>
 </body>
-<div class="container">
-      <footer>
-        <p>&copy; Common Accord 2014</p>
-      </footer>
-  </div>
