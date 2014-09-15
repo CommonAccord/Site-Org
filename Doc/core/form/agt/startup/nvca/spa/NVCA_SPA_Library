@@ -1,6 +1,3 @@
-=[core/form/agt/startup/nvca/spa/NVCA_SPA_Knit]
-
-
 AGT.Title=SERIES A PREFERRED STOCK PURCHASE AGREEMENT
 
 Prologue.ThisAgreement=THIS SERIES&nbsp;A PREFERRED STOCK PURCHASE AGREEMENT (this &ldquo;<strong>Agreement</strong>&rdquo;), is made as of {AGT.Effective.YMD} by and among {Co.Name.Full}, a Delaware corporation (the &ldquo;<strong>Company</strong>&rdquo;), the investors listed on <u>Exhibit A</u> attached to this Agreement (each a &ldquo;<strong>Purchaser</strong>&rdquo; and together the &ldquo;<strong>Purchasers</strong>&rdquo;) {Prologue.ThisAgreement.Ins1}
