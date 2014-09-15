@@ -94,7 +94,7 @@ echo `perl parser2.pl $path/$dir`;
 
 else if($_REQUEST['action'] == 'edit') {
 
-
+include('edit.php');
 
 } // end 'edit'
 

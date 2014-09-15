@@ -1,28 +1,6 @@
-<style>
-
-.intro {
-	border: 1px solid black;
-	padding: 25px;
-	height: 200px;
-	margin-right:10px;
-	width:33%;
-  
-}
-
-hr 
-
-{
-	width: 75%;
-
-}
-</style>
-
 <br />
-
 <br />
 <body>
-
-  
 <div class="container" style="padding-left:75px; padding-right:75px; padding-top:10px; padding-bottom:125px; border:1px solid lightgray">
 	<div class="row">
 <div >
@@ -30,7 +8,7 @@ hr
 <div class="col-lg-12">
 
 <div class="col-sm-8">
- <p>	 <img src="assets/logo.png" style="padding:10px; background:lightgray;border:1px solid black; height:150px" /></p>
+ <p><img src="assets/logo.png" style="padding:10px; border:1px solid black; height:150px" /></p>
 <hr>
 <br />
 <h3>CommonAccord is an open source software and law project.</h3> <h3>We are lawyers and programmers working together to create a global template system of codified legal texts.</h3>
