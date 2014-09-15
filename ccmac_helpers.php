@@ -1,16 +1,6 @@
 <?php
-/*
-CommonAccord - bringing the world to agreement
-Written in 2014 by Primavera De Filippi
-To the extent possible under law, the author(s) have dedicated all copyright and related and neighboring rights to this software to the public domain worldwide. This software is distributed without any warranty.
-You should have received a copy of the CC0 Public Domain Dedication along with this software. If not, see <http://creativecommons.org/publicdomain/zero/1.0/>.
-*/
-?>
-
-
-<?php
 error_reporting(E_ALL);
-$path = '/Library/WebServer/Documents/commonaccord/';
+$path = 'www.commonaccord.org/commonaccord/';
 
 
 if(!isset($_REQUEST['action'])) { 
@@ -27,10 +17,10 @@ if($_REQUEST['action'] == 'list') {
 
 if(! ($dir == 'Doc/')) {
 	$rootdir = pathinfo($dir);	
-	echo "<b><a href=$_SERVER[PHP_SELF]?action=list&file=$rootdir[dirname]/>$rootdir[dirname]</a></b> &emsp;";
-}
-echo "<u>$dir:</u><br>";
-
+	//doc_list.php cotntains layout 
+	//	include("doc_list.php");
+	}
+	// echo "<u>$dir</u><br>";
 
 $files = scandir($dir);
 
@@ -41,7 +31,7 @@ foreach($files as $f) {
 	if(is_dir($path.$dir.$f)) {
 		if( !( ($f == '.') || ($f == '..')) ) {
 
-			echo "<br> &nbsp; <a href=$_SERVER[PHP_SELF]?action=list&file=$dir$f/>FOOO$f</a>";
+			echo "<br> &nbsp; <a href=$_SERVER[PHP_SELF]?action=list&file=$dir$f/>$f</a>";
 		}
 	}
 	else {
@@ -52,6 +42,8 @@ foreach($files as $f) {
 }
 
 } // end 'list'
+
+// "Show the Document"
 
 else if($_REQUEST['action'] == 'source') {
 
@@ -64,16 +56,13 @@ if(isset($_REQUEST['submit'])) {
 }
 
 $content = file_get_contents($dir, FILE_USE_INCLUDE_PATH);
-
 $contents = explode("\n", $content);
-
 $rootdir = pathinfo($dir);
 $filenameX = basename($dir);
 
-echo "<body style='font-size: 200%;'><a href=$_SERVER[PHP_SELF]?action=list&file=$rootdir[dirname]/>$rootdir[dirname]</a><br><br><br>
-<b>$filenameX</b>   (<a href=$_SERVER[PHP_SELF]?action=edit&file=$dir>Edit</a>):  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; <a href=$_SERVER[PHP_SELF]?action=render&file=$dir><b>Show the Document</b></a><br><br>
+//source.php includes the formatting for the table that displays the components of a document
+include("source.php"); 
 
-<table rules='none'; border='0'>";
 
 foreach($contents as $n) {
 	list($k, $v) = array_pad( explode ("=", $n, 2), 2, null);
@@ -105,17 +94,7 @@ echo `perl parser2.pl $path/$dir`;
 
 else if($_REQUEST['action'] == 'edit') {
 
-echo "Editing $dir<br><br>
-<form action=$_SERVER[PHP_SELF] method='post'>
-        <textarea cols=100 rows=30  name='newcontent'>";
-
-echo file_get_contents($dir, FILE_USE_INCLUDE_PATH);
-
-echo '	</textarea><br>
-        <input type="submit" name="submit" value="Save">
-	<input type="hidden" name="file" value="'.$dir.'">
-        <input type="hidden" name="action" value="source">
-        </form>';
+include('edit.php');
 
 } // end 'edit'
 
@@ -124,6 +103,8 @@ else if($_REQUEST['action'] == 'pull') {
 echo `cd /var/www/www.commonaccord.org/Alpha; git reset --hard HEAD; git pull -f 2>&1`;
 
 }
+
+
 
 
 ?>

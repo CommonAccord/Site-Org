@@ -1,6 +1,6 @@
 <h6>CommonAccord reflects the structure of the world:</h6>
 
-<table>
+<table class="table table-striped">
 
 <tr>
 <td><img src="http://cdns2.freepik.com/free-photo/group--persons-outline--ios-7-interface-symbol_318-35219.jpg" height="70px"></td>
@@ -43,10 +43,6 @@
 
 </table>
 
-<h6>Learn <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/about/how/>how it works</a>.</h6>
-<h6>See <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/event/>some deals</a>.</h6>
-
-<h6>Go to <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/core/>the core</a>.</h6>
 
 <style>
 	#filelist { 
