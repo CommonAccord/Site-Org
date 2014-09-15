@@ -4,7 +4,7 @@ http://osp.mit.edu/sites/osp/files/mit-research-agreement-for-us-sponsors-april2
 
 Attach.Conf.=[core/form/agt/research/Form_MIT_Edu_OSP_USA_Schedule_Confidentiality]
 
-Prologue.Heading={P1.OSP} Research Agreement
+Prologue.Heading={P1.OSP} Agreement
 
 Prologue.ThisAgreement=This Research Agreement (“Agreement”) is made effective as of {AGT.Effective.YMD} (the “Effective Date”), by and between {P1.N,E,A} (hereinafter referred to as “{P1.Handle}” ), and {P2.N,E,A}  (hereinafter referred to as the “Sponsor” ).  "Party" shall mean the Sponsor or {P1.Handle} as the context dictates, and when used in the plural, shall mean the Sponsor and {P1.Handle}. 
 
