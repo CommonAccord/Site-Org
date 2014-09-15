@@ -6,9 +6,9 @@ Prologue.ThisAgreement.Ins1=and the persons listed as &ldquo;Founders&rdquo; on 
 
 Prologue.NowTherefore=The parties hereby agree as follows:
 
-1.Title=Purchase and Sale of Preferred Stock.
+1.Title=Purchase and Sale of Preferred Stock
 
-1.1.Title=Sale and Issuance of Series&nbsp;A Preferred Stock.
+1.1.Title=Sale and Issuance of Series&nbsp;A Preferred Stock
 
 1.1.1._sec=The Company shall adopt and file with the Secretary of State of the State of Delaware on or before the Initial Closing (as defined below) the Amended and Restated Certificate of Incorporation in the form of Exhibit B attached to this Agreement (the &ldquo;<strong>Restated Certificate</strong>&rdquo;).
 
@@ -20,7 +20,7 @@ Ftn2=<a href="#_ftn2" name="_ftnref" title="">[2]</a>
 
 1.2.2.Ins1=Milestone Shares or
 
-1.2.Title=Closing; Delivery.
+1.2.Title=Closing; Delivery
 
 1.2.1._sec=The initial purchase and sale of the Shares shall take place remotely via the exchange of documents and signatures, at {Closing.Location} {Closing.Time}, or at such other time and place as the Company and the Purchasers mutually agree upon, orally or in writing (which time and place are designated as the &ldquo;<strong>Initial Closing</strong>&rdquo;).&nbsp; In the event there is more than one closing, the term &ldquo;<strong>Closing</strong>&rdquo; shall apply to each such closing unless otherwise specified.
 
@@ -569,7 +569,7 @@ Ftn55=<a href="#_ftn55" name="_ftnref" title="">[55]</a>
 
 5.7._sec=A minimum of [_______] Shares must be sold at the Initial Closing.
 
-6.Title=Miscellaneous.
+6.Title=Miscellaneous
 
 6.1.Title=Survival of Warranties
 

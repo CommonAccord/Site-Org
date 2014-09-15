@@ -1,3 +1,8 @@
 =[core/form/agt/startup/nvca/spa/NVCA_SPA_Knit]
 
 AGT._Secs={AGT.NoFounder._Secs}
+
+and=while we are at it, we'll add underlining to the headings to underlined and move the text to be a continuous flow from the heading title.
+
+st-=<u><b>
+-st=</b></u>.&ensp;
