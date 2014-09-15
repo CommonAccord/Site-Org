@@ -6,11 +6,18 @@ To the extent possible under law, the author(s) have dedicated all copyright and
 You should have received a copy of the CC0 Public Domain Dedication along with this software. If not, see <http://creativecommons.org/publicdomain/zero/1.0/>.
 */
 ?>
-
+<!DOCTYPE html>
+<head>
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<html>
+<body>
+<div class="container">
+	<div class="row">
 
 <?php
 error_reporting(E_ALL);
-$path = '/var/www/www.commonaccord.org/commonaccord/';
+$path = 'www.commonaccord.org/commonaccord/';
 
 
 if(!isset($_REQUEST['action'])) { 
@@ -127,3 +134,7 @@ echo `cd /var/www/www.commonaccord.org/Alpha; git reset --hard HEAD; git pull -f
 
 
 ?>
+</div>
+</div>
+</body>
+</html>
