@@ -6,22 +6,28 @@
 <img src="assets/cmacc-trans.png" style="width:100%"  />
 </p>
 <br/><hr>
-<h1 style="text-align:center;font-variant: small-caps;">Common Accord is an open source software and law project.</h1> 
+<h1 class="title">Common Accord is an open source software<br/> and law project.</h1> 
 <hr>
-<h4 style="text-align:center;font-variant: small-caps;">We are lawyers and programmers working together<br/> to create a global template system of codified legal texts.</h4>
-<br/><br/><br/>
-<a id="button-try" href="#"><img src="assets/tryit.png" style="width:50;" height=75></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<h3 class="title">We are lawyers and programmers working together<br/> to create a global template system of codified legal texts.</h4>
+<br/><br/>
+<a id="button-try" href="#"><img src="assets/tryit.png" height=150> </a>
 
 
 <div id="info-more">
-<h4>Understand <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/about/>the big picture.</a></h4>
-<h4>Learn <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/about/how/>how it works</a>.</h4>
-<h4>See <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/event/>some deals</a>.</h4>
-<h4>Go to <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/core/>the core</a>.</h4>
-<a href="#more"><img src="assets/more.png" height=75></a>
+<h4 class="subtitle">Understand <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/about/>the big picture.</a></h4>
+<h4 class="subtitle">Learn <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/about/how/>how it works</a>.</h4>
+<h4 class="subtitle">See <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/event/>some deals</a>.</h4>
+<h4 class="subtitle">Go to <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/core/>the core</a>.</h4>
+<br/><a href="#more"><img src="assets/more.png" height=75></a>
 <br/>
 
+
+
 <br>
+</div>
+<div id="code" class="jstyle"style="margin-left:0; text-align:left; margin:0%">
+we are {bringing} legal relationships into the personal data store.<br/>
+bringing = refactoring legal documents to bring
 </div>
 </div>
 </div>
@@ -29,12 +35,12 @@
 </div>
 <br>
       
-<div class="container">
+<div class="container" id="containerContent">
       
  		 <div class="col-sm-4" id="more">
-          <h2>The Challenge</h2>
+          <h2 class="title">The Challenge</h2>
           <hr>
-          <h4>Making "smart contracts" that function both as software and in the real world of courts and laws.</h4>
+          <h4 class="jtitle">Making "smart contracts" that function both as software and in the real world of courts and laws.</h4>
           <hr>
           <p>In order to be as effective as their traditional counterparts, smart contracts must also be <strong>legally enforceable</strong> in the real world. This requires them to comply with all the standard formalities required for a court to enforce a contract under the law.  But while technology has rapidly advanced to a point where "smart contracts" are not only possible, but are being built, the legal framework for their existence has not been built. </p>
 <hr>
@@ -43,9 +49,9 @@
         </div>
 
         <div class="col-sm-4">
-          <h2>A Solution</h2>
+          <h2 class="title">A Solution</h2>
           <hr>
-         <h4> Make contract documents sufficiently 'modular' that much of the text disappears</h4>   
+         <h4 class="jtitle"> Make contract documents sufficiently 'modular' that much of the text disappears</h4>   
 <hr>
              	<p>We are building  a modular template system which, after having been fed with specific parameters, can be rendered into both technical ‘dry’ code (i.e. self-contained code snippets) and legal ‘wet’ code (i.e. specific contractual provisions translating the code snippets into legalese) whose overall structure can be established directly through the CommonAccord template system.</p>
 
@@ -56,9 +62,9 @@
         </div>
 
         <div class="col-sm-4">
-          <h2>Our vision<hr></h2>
+          <h2 class="title">Our vision<hr></h2>
           
-               <h4>The phrase "legal boilerplate" disappears from our vocabulary.<hr></h4>
+               <h4 class="jtitle">The phrase "legal boilerplate" disappears from our vocabulary.<hr></h4>
 
                <p>  Lawyers can focus on practicing law and counseling clients, and not recreating or dickering over repetetive and formulaic code snippers.  Developers can focus on developing and building smart contracts with an assurance of a stable legal code base upon which to draw. </p>
 
@@ -67,6 +73,5 @@
        </div>
         
 
-      <hr>
 </div>
 </div>

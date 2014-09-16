@@ -1,6 +1,6 @@
 
 <?php
-require('./vendor/autoload.php');
+/*require('./vendor/autoload.php');
 /*
 CommonAccord - bringing the world to agreement
 Written in 2014 by Primavera De Filippi

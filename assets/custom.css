@@ -6,16 +6,36 @@ hr
 }
 
 
-#containerHome {
+#containerHome, #containerContent {
 
 	padding:10%; 
 	border:1px solid lightgray;
-	border-radius: 5px;
+	border-radius: 15px;
 	text-align: justify;
 	height:100%;
 	overflow:auto;
-	
+	text-align: justify;
+	font-family: "Times New Roman", Georgia, Serif;	
+	margin-bottom: 20px;
 }
 
-#button-try { float:left; padding-left: 25%; }
+#containerContent {
+	padding: 3%;
+	margin-top: 5%;
+}
+
+.title, .subtitle, .jtitle {
+	text-align:center;
+	font-variant: small-caps;
+	font-family: "Times New Roman", Georgia, Serif;
+}
+.subtitle {
+	text-align: right;
+}
+.jtitle {
+	text-align: justify;
+}
+
+#button-try { float:left; padding-left: 25%;  }
 #info-more { float: right; text-align: right; }
+#code { float: left; font-size: 16px}
