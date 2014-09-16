@@ -1,6 +1,8 @@
-<h6>CommonAccord reflects the structure of the world:</h6>
-
-<table class="table table-striped">
+<div class ="col-sm-12">
+<table class="responsive">
+<h3 style="text-align:center">Common Accord reflects the structure of the world</h3>
+<hr>
+<table class="table table-striped table-condensed table-bordered" style="padding:20px">
 
 <tr>
 <td><img src="http://cdns2.freepik.com/free-photo/group--persons-outline--ios-7-interface-symbol_318-35219.jpg" height="70px"></td>
@@ -41,8 +43,9 @@
    <td>Events are transactions that connect people.  Making an application, granting a permit, signing a deal, sending a draft.  Each is a connection between some persons, a form and a history. History is the chain succession of deals.</td>
 </tr>
 
-</table>
-
+	</table>
+	</table>
+</div>
 
 <style>
 	#filelist { 
