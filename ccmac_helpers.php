@@ -1,7 +1,6 @@
 <?php
 error_reporting(E_ALL);
-$path = '/var/www/www.commonaccord.org/';
-
+$path = '/Users/Wigmore/commonaccord/';
 
 if(!isset($_REQUEST['action'])) { 
 	$_REQUEST['action'] = "landing"; 
