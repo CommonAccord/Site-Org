@@ -1,6 +1,6 @@
 <?php
 error_reporting(E_ALL);
-$path = '/app/php/bin/php ';
+$path = '/';
 
 
 if(!isset($_REQUEST['action'])) { 
