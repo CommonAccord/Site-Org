@@ -1,6 +1,6 @@
 <?php
 error_reporting(E_ALL);
-$path = './';
+$path = '/Users/jgh/Sites/commonaccord/';
 
 
 if(!isset($_REQUEST['action'])) { 

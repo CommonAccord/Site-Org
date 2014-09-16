@@ -1,6 +1,5 @@
 =[core/class/Doc_Table]
 
-
 DFCStandards.OpenIDConnect.=[me/hyperbios/v02/technical/DFCStandards_OpenIDConnect_Sec]
 
 Model.Root={_Sec}
@@ -9,29 +8,21 @@ _Sec={st-}{Title}{-sto} {_sec}{-ol}
 
 Title=TECHNOLOGY RULES
 
-
 _sec={Scope._Sec}{-li-}{DFCStandards._Sec}{-li-}{BWG._Sec}{-li-}{TokenSigning._Sec}{-li-}{MetaDataExchange._Sec}{-li-}{EventLogging._Sec}
-
-
 
 Scope.Title=Technical Scope
 
-
 Scope._Sec={st-}{Scope.Title}{-sto} {Scope._sec}{-ol}
-
 
 Scope._sec={Scope.UseCase._Sec}{-li-}{Scope.Architecture._Sec}
 
 Scope.UseCase._Sec={st-}{Scope.UseCase.Title}{-stb} {Scope.UseCase._sec}
 
-
 Scope.UseCase.Title=Technical Use Cases
 
-Scope.UseCase._sec=The following use cases are supported under this Trust Framework: [TBD]
-
+Scope.UseCase._sec=The following use cases are supported under this Trust Framework: -TBD-
 
 Scope.Comment.1=Commentary: For so long as {Co.Name}id is an early-stage research prototype, it is premature to focus on detailed documentation of supported use cases. However, this draft Trust Framework anticipates a future state at which external and internal parties will seek to implement and interoperate with {Co.Name} External Identity Federation services and the important role of this document to facilitate and regulate adoption. To that end, the types of technical use cases that would be relevant and constructive to detail in the future are noted below.
-
 
 Scope.UseCase.1={Co.Name}id User Logs Into Grey Listed Relying Party
 Scope.UseCase.2={Co.Name}id User Logs Into White Listed Relying Party
@@ -54,10 +45,7 @@ DFCStandards._Sec={st-}{DFCStandards.Title}{-sto} {DFCStandards._sec}{-ol}
 
 DFCStandards.Title=Standards for Derived Federated Credentials for External Identity Federation
 
-
-
 DFCStandards._sec={DFCStandards.OpenID._Sec}{-li-}{DFCStandards.OpenIDConnect._Sec}
-
 
 DFCStandards.OpenID._Sec={st-}{DFCStandards.OpenID.Title}{-sto} {DFCStandards.OpenID._sec}{-ol}
 
@@ -65,14 +53,11 @@ DFCStandards.OpenID.Title=OpenID 2.0
 
 DFCStandards.OpenID._sec={DFCStandards.OpenID.Protocol._Sec}{-li-}{DFCStandards.OpenID.Attributes._Sec}
 
-
 DFCStandards.OpenID.Protocol._Sec={st-}{DFCStandards.OpenID.Protocol.Title}{-stb} {DFCStandards.OpenID.Protocol._sec}
-
 
 DFCStandards.OpenID.Protocol.Title=Protocol Version
 
 DFCStandards.OpenID.Protocol._sec=All Identity Providers and Relying Parties MUST support the OpenID 2.0 Authentication protocol as defined in http://openid.net/specs/openid-authentication-2_0.html
-
 
 DFCStandards.OpenID.Attributes._Sec={st-}{DFCStandards.OpenID.Attributes.Title}{-stb} {DFCStandards.OpenID.Attributes._sec}
 

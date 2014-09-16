@@ -1,13 +1,28 @@
-.intro {
-    border: 1px solid black;
-    padding: 25px;
-    height: 200px;
-    margin-right:10px;
-    width:33%;  
-}
 
 hr 
 {
     width: 75%;
 
 }
+
+#containerhome {
+
+	border: 1px solid black;
+    padding: 25px;
+    height: 200px;
+    margin-right:10px;
+    width:33%;   
+	padding-top:200px; 
+	padding-bottom:25px; 
+	border:1px solid lightgray;
+	border-radius: 25px;
+	text-align: justify;
+	font-family: "Times New Roman", Georgia, Serif;
+	font-variant: small-caps;
+	text-align: center;
+}
+
+h4 { text-align: right; }
+
+#button-try { float:left; padding-left: 350px; }
+#info-more { float: right; text-align: right; }
