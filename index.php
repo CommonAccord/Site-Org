@@ -1,4 +1,6 @@
+
 <?php
+
 /*
 CommonAccord - bringing the world to agreement
 Written in 2014 by Primavera De Filippi
@@ -9,6 +11,4 @@ You should have received a copy of the CC0 Public Domain Dedication along with t
 <?php include("header.php"); ?>
 <?php include("routes.php"); ?>
 <?php include("ccmac_helpers.php"); ?>
-
-
 <?php include("footer.php"); ?>

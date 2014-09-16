@@ -6,9 +6,8 @@
 <div >
 
 <div class="col-lg-12">
-
-<div class="col-sm-8">
- <p><img src="assets/logo.png" style="padding:10px; border:1px solid black; height:150px" /></p>
+	<div class="col-sm-8">
+ 		<p><img src="assets/logo.png" style="padding:10px; border:1px solid black; height:150px" /></p>
 <hr>
 <br />
 <h3>CommonAccord is an open source software and law project.</h3> <h3>We are lawyers and programmers working together to create a global template system of codified legal texts.</h3>
@@ -17,7 +16,6 @@
 <h4>See <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/event/>some deals</a>.</h4>
 <h4>Go to <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/core/>the core</a>.</h4>
 <br>
-
 
 
 <a class="btn btn-success" href="#">Try It</a>&nbsp;&nbsp;&nbsp;&nbsp;<a class="btn btn-primary" href="#more">Read More</a>
@@ -46,7 +44,7 @@
   <br />
     <br />
       <br />
-<img style="width:225px; border: 1px solid lightgray; text-align:center" src="chart.png" />
+<img style="width:225px; border: 1px solid lightgray; text-align:center" src="assets/chart.png" />
 </div>
 </div>
 
