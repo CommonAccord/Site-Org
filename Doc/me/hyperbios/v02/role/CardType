@@ -1,6 +1,8 @@
 Model.Root={Provides}
 
-Provides={b-}{Name}{-b}{ol-}{Role.PolicyAuthority}{-role-}{Role.SystemOperator}{-role-}{Role.IdentityProvider}{-role-}{Role.UserAuthority}{-role-}{Role.User}{-role-}{Role.RelyingParty}{-role-}{Role.CertificationAssessor}{-ol}
+=[me/hyperbios/v02/System_Rules_Knit]
+
+Provides={b-}Name: {Name}{-b}{br}{ol-}{Role.PolicyAuthority}{-role-}{Role.SystemOperator}{-role-}{Role.IdentityProvider}{-role-}{Role.UserAuthority}{-role-}{Role.User}{-role-}{Role.RelyingParty}{-role-}{Role.CertificationAssessor}{-ol}
 
 ol-=<ol><li>
 -ol=</li></ol>
@@ -8,3 +10,6 @@ ol-=<ol><li>
 
 b-=<b>
 -b=</b>
+br=<br>
+
+Bus.Role.ExecutiveAuthority._Sec=TO BE DETERMINED (from CardType)

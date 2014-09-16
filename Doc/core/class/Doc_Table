@@ -1,3 +1,5 @@
+local=index-local.php?action=source&file=Doc/
+
 table-=<table>
 
 -table=</table>
