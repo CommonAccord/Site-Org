@@ -4,7 +4,7 @@ $path = '/var/www/www.commonaccord.org/commonaccord/';
 
 
 if(!isset($_REQUEST['action'])) { 
-	$_REQUEST['action'] = "list"; 
+	$_REQUEST['action'] = "landing"; 
 }
 
 if(isset($_REQUEST['file'])) {
@@ -111,7 +111,9 @@ echo `cd /var/www/www.commonaccord.org/Alpha; git reset --hard HEAD; git pull -f
 
 }
 
-
+else if($_REQUEST['action'] == 'landing') {
+	include('landing.php');
+}
 
 
 ?>
