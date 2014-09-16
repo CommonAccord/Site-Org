@@ -2,13 +2,12 @@ All Four Steps as a Binder:
 
 =Either render all four steps together (Show the Document, above), or click on the links below one at time. 
 
-
-Model.Root=<b>from {3.Purchaser.Name.Full}'s purchase of {3.Product.Description} from {3.Seller.Name.Full}, the Claim, the Complete Escrow Agreement and each of the drafts</b>:<br><ol><li>{1.Model.Root}</li><li>{2.Model.Root}</li><li>{3.Model.Root}</li><li>{4.Model.Root}</li></ol>
-
-
 1.=[event/escrow/Demo_Escrow_Step_1_Parties]
 2.=[event/escrow/Demo_Escrow_Step_2_Order]
 3.=[event/escrow/Demo_Escrow_Step_3_Signature]
 4.=[event/escrow/Demo_Escrow_Step_4_Claim]
+
+Model.Root=<b>from {3.Purchaser.Name.Full}'s purchase of {3.Product.Description} from {3.Seller.Name.Full}, the Claim, the Complete Escrow Agreement and each of the drafts</b>:<br><ol><li>{1.Model.Root}</li><li>{2.Model.Root}</li><li>{3.Model.Root}</li><li>{4.Model.Root}</li></ol>
+
 
 									
