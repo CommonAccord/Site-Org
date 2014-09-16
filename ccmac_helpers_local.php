@@ -2,9 +2,8 @@
 error_reporting(E_ALL);
 $path = '/Users/jgh/Sites/commonaccord/';
 
-
 if(!isset($_REQUEST['action'])) { 
-	$_REQUEST['action'] = "list"; 
+	$_REQUEST['action'] = "landing"; 
 }
 
 if(isset($_REQUEST['file'])) {
@@ -19,8 +18,9 @@ if(! ($dir == 'Doc/')) {
 	$rootdir = pathinfo($dir);	
 	//doc_list.php cotntains layout 
 	//	include("doc_list.php");
-	}
-	// echo "<u>$dir</u><br>";
+	//}
+	echo "Rootdir: <a href=$_SERVER[PHP_SELF]?action=list&file=".$rootdir['dirname']."/>".$rootdir['dirname']."</a><br>";
+}
 
 $files = scandir($dir);
 
@@ -84,7 +84,7 @@ foreach($contents as $n) {
 	echo "</tr>";
 }
 
-echo "</table></body>";
+echo "</table></table></body>";
 } // end 'source'
 
 else if($_REQUEST['action'] == 'render') {
@@ -111,7 +111,9 @@ echo `cd /var/www/www.commonaccord.org/Alpha; git reset --hard HEAD; git pull -f
 
 }
 
-
+else if($_REQUEST['action'] == 'landing') {
+	include('landing.php');
+}
 
 
 ?>

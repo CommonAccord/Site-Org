@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <head>
+<meta charset="utf-8">.
 <meta name="viewport" content="width=device-width">
+<title>CommonAccord | No More Boilerplate</title>
 <link  href="./assets/reset.css" rel="stylesheet" />
 <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet" />
 <link  href="./assets/custom.css" rel="stylesheet" />
@@ -10,7 +12,6 @@
 <script src="./assets/save_my_div.js"></script>
 </head>
 <html>
-
 <nav class="navbar navbar-inverse" role="navigation">
    <div class="container-fluid">
     <!-- Brand and toggle get grouped for better mobile display -->

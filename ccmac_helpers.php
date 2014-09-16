@@ -1,7 +1,6 @@
 <?php
 error_reporting(E_ALL);
-// commonaccord.com $path = '/var/www/www.commonaccord.org/'; //
-$path = './'; //heroku path //
+$path = '/var/www/www.commonaccord.org/';
 
 
 if(!isset($_REQUEST['action'])) { 

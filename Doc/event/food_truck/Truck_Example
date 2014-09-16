@@ -1,4 +1,14 @@
-=[core/form/permit/food_truck_application/Permit_Form]
+=[core/gov/permit/food_truck_application/Permit_Form]
+
+Business.=[core/id/acme_incorporated]
+
+Owner.1.=[core/id/acme_incorporated]
+
+Owner.2.=[core/id/quake_incorporated]
+
+Sites.1-N={Sites.1}
+
+Site.1.=[core/at/USA/MA/Suffolk/Boston/Summer_Street/125/Geo]
 
 Owners.1-N={Owners.2}
 
@@ -17,16 +27,6 @@ Business.Truck.License.#=Faux-434323
 Business.GPS.#=42.360406 | -71.057993
 
 Business.Fed-ID#=04-234566
-
-Business.=[core/id/acme_incorporated]
-
-Owner.1.=[core/id/acme_incorporated]
-
-Owner.2.=[core/id/quake_incorporated]
-
-Sites.1-N={Sites.1}
-
-Site.1.=[core/at/USA/MA/Suffolk/Boston/Summer_Street/125/Geo]
 
 Site.1.Public=<b>X</b>
 
