@@ -6,11 +6,10 @@
 <img src="assets/cmacc-trans.png" style="width:100%"  />
 </p>
 <br/><hr>
-<h1 class="title">Common Accord is an open source software<br/> and law project.</h1> 
+<h1 class="title">CommonAccord is an open source software<br/> and law project.</h1> 
 <hr>
 <h3 class="title">We are lawyers and programmers working together<br/> to create a global template system of codified legal texts.</h4>
 <br/><br/>
-<a id="button-try" href="#"><img src="assets/tryit.png" height=150> </a>
 
 
 <div id="info-more">
@@ -18,12 +17,14 @@
 <h4 class="subtitle">Learn <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/about/how/>how it works</a>.</h4>
 <h4 class="subtitle">See <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/event/>some deals</a>.</h4>
 <h4 class="subtitle">Go to <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/core/>the core</a>.</h4>
+<h4 class="subtitle">Browse<a href="github.com/CommonAccord/commonaccord/Doc"/>the repo</a>.</h4>
+
 <br/><a href="#more"><img src="assets/more.png" height=75></a>
 <br/>
 
 <div id="code" class="jtitle">
-we are {bringing} legal relationships into the personal data store.<br/>
-bringing = refactoring legal documents to bring
+{Bringing} legal relationships into the personal data store.<br/>
+Bringing = Refactoring legal documents to bring
 </div>
 
 <br>
