@@ -1,6 +1,6 @@
 <?php
 error_reporting(E_ALL);
-$path = '/';
+$path = 'agile-lowlands-4938.herokuapp.com//commonaccord/';
 
 
 if(!isset($_REQUEST['action'])) { 
