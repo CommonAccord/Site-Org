@@ -17,7 +17,7 @@
 <h4 class="subtitle">Learn <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/about/how/>how it works</a>.</h4>
 <h4 class="subtitle">See <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/event/>some deals</a>.</h4>
 <h4 class="subtitle">Go to <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/core/>the core</a>.</h4>
-<h4 class="subtitle">Browse<a href="github.com/CommonAccord/commonaccord/Doc"/>the repo</a>.</h4>
+<h4 class="subtitle">Browse <a href="https://github.com/CommonAccord/commonaccord/tree/master/Doc">the repo</a>.</h4>
 
 <br/><a href="#more"><img src="assets/more.png" height=75></a>
 <br/>
