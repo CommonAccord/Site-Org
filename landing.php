@@ -1,5 +1,6 @@
-<div class="container col-lg-12" id ="containerHome" >
   <div class="row " >
+<div class="container">
+ <div class = "col-lg-12" id ="containerHome" >
 
 <p align="center">
 <img src="assets/cmacc-trans.png" style="width:100%"  />
@@ -19,6 +20,8 @@
 <br/>
 <a href="#more"><img src="assets/more.png" height=75></a>
 <br>
+</div>
+</div>
 </div>
   </div>
 </div>

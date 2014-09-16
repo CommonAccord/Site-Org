@@ -8,15 +8,12 @@ hr
 
 #containerHome {
 
-	border: 1px solid black;
-    padding: 10%;
-   
-    width:100%;   
-	padding-top:50px; 
-	padding-bottom:50px; 
-	border:1px solid black;
-	border-radius: 5px;
-	text-align: justify;
+	padding-left:75px; 
+	padding-right:75px; 
+	padding-top:75px; 
+	padding-bottom:25px; 
+	border:1px solid red;
+	border-radius: 25px;
 
 
 
