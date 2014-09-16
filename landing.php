@@ -1,6 +1,5 @@
 <div class="container col-lg-12" id ="containerHome" >
-<div class="row " >
-
+  <div class="row " >
 
 <p align="center">
 <img src="assets/cmacc-trans.png" style="width:100%"  />
@@ -11,6 +10,7 @@
 <br/><br/><br/>
 <a id="button-try" href="#"><img src="assets/tryit.png" style="width:100%;" height="200"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
+
 <div id="info-more">
 <h4>Understand <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/about/>the big picture.</a></h4>
 <h4>Learn <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/about/how/>how it works</a>.</h4>
@@ -19,8 +19,8 @@
 <br/>
 <a href="#more"><img src="assets/more.png" height=75></a>
 <br>
-
 </div>
+  </div>
 </div>
 <br>
       

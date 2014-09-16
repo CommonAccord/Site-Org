@@ -5,6 +5,7 @@ hr
 
 }
 
+
 #containerHome {
 
 	border: 1px solid black;
@@ -17,19 +18,13 @@ hr
 	border-radius: 5px;
 	text-align: justify;
 
-}
 
-div {
-	text-align: justify;
-	font-family: "Times New Roman", Georgia, Serif;
+
 }
 
 
 /*h4 { text-align: right; } */
 
-
-h4 { text-align: right; }
-
-#button-try { float:left; padding-left: 350px; }
+#button-try { float:left; width:75%;}
 
 #info-more { float: right; text-align: right; }
