@@ -2,22 +2,22 @@ Model.Root={Doc.Body}
 
 Doc.Body={Doc.Meta}{AGT.Doc.Body}
 
-Doc.Meta=†
+Doc.Meta=¬†
 
 AGT.Doc.Body={AGT.Prologue}{AGT.Secs._Lost}{AGT.Sign}<br>{AGT.Attach}
 
-/Backward Compatibility=switching to a "lossless" notion of list concatenation.
+/Backward Compatibility=switching to a ‚Äúlossless‚Äù notion of list concatenation.
 
 AGT.Secs._Lost=<ol><li>{AGT._Secs}</li></ol>
 
 
 AGT.Prologue=<div><center>{Prologue.Heading}</center></div>	<p><br>{Prologue.Intro}</p>
 
-Prologue.Heading=<strong>{AGT.Title}</strong><br> as of: {AGT.Effective.YMD} (ì{Effective Date}î)<br>between {P1.Name.Full} and {P2.Name.Full}
+Prologue.Heading=<strong>{AGT.Title}</strong><br> as of: {AGT.Effective.YMD} (‚Äú{Effective Date}‚Äù)<br>between {P1.Name.Full} and {P2.Name.Full}
 
 Prologue.Intro={Prologue.ThisAgreement}<ul style="list-style-type:none"><li>{Prologue.Recital}</li></ul>{Prologue.NowTherefore}
 
-Prologue.ThisAgreement=This {AGT.Title} (this ì{Agreement}î) is entered into as of {AGT.Effective.YMD} by and between {P1.N,E,A} (ì{P1.Handle}î) and {P2.N,E,A} (ì{P2.Handle}î) (collectively, the ì{parties}î).
+Prologue.ThisAgreement=This {AGT.Title} (this ‚Äú{Agreement}‚Äù) is entered into as of {AGT.Effective.YMD} by and between {P1.N,E,A} (‚Äú{P1.Handle}‚Äù) and {P2.N,E,A} (‚Äú{P2.Handle}‚Äù) (collectively, the ‚Äú{parties}‚Äù).
 
 Prologue.NowTherefore=NOW THEREFORE, in consideration of the premises and promises of {this Agreement}, the {parties} hereby agree:
 
@@ -25,7 +25,7 @@ AGT.Sign={Sign.Witness}<br>{Sign.Block}
 
 Sign.Witness=IN WITNESS WHEREOF, the {parties} have executed {this Agreement} to be effective as of {AGT.Effective.YMD}.
 
-Sign.Block=<table><tr><td>{P1.Sign.Block}</td><td>††††</td><td>{P2.Sign.Block}</td></tr></table>
+Sign.Block=<table><tr><td>{P1.Sign.Block}</td><td>¬†¬†¬†¬†</td><td>{P2.Sign.Block}</td></tr></table>
 
 <strong>Vocabulary</strong>= Defined terms.
 
@@ -42,6 +42,6 @@ parties=Parties
 Effective Date=Effective Date
 
 
-_delete!_=†
+_delete!_=¬†
 EOF
 	
