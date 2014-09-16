@@ -11,21 +11,14 @@ hr
 	padding-left:75px; 
 	padding-right:75px; 
 	padding-top:75px; 
-	padding-bottom:5px; 
+	padding-bottom:75px; 
 	border:1px solid lightgray;
 	border-radius: 25px;
-
-
-
-
-
 	text-align: justify;
+	height:100%;
+	overflow:auto;
 	
-
-hh, hh2, hh4 {
-	font-variant: small-caps;
-	text-align: center;
 }
 
-#button-try { float:left; padding-left: 350px; }
+#button-try { float:left; padding-left: 25%; }
 #info-more { float: right; text-align: right; }
