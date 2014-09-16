@@ -8,7 +8,7 @@ R2={Board.R2}
 
 Prologue.Heading={Co.Name.Full}<br>Action By Written Consent of Stockholders
 
-Prologue.Intro=In accordance with Section 228 of the Delaware General Corporation Law and the Bylaws of {Co.Name.Full}, a Delaware corporation (the “<strong>Company</strong>”), the undersigned stockholders of the Company hereby take the following actions and adopt the following resolutions:
+Prologue.Intro=In accordance with Section 228 of the Delaware General Corporation Law and the Bylaws of {Co.Name.Full}, a Delaware corporation (the &ldquo;<strong>Company</strong>&rdquo;), the undersigned stockholders of the Company hereby take the following actions and adopt the following resolutions:
 
 AGT.Secs._Lost=<ol><li>{1._Sec}</li><li>{2._Sec}</li></ol>
 
@@ -16,7 +16,7 @@ AGT.Secs._Lost=<ol><li>{1._Sec}</li><li>{2._Sec}</li></ol>
 
 1.1._Sec={R1}  That the Certificate of Incorporation of the Company be amended and restated in its entirety to {Board.1.1.List}
 
-Board.1.1.4._Sec=make certain other changes, as set forth in the Amended and Restated Certificate of Incorporation substantially in the form attached hereto as <strong><u>Exhibit A</u> </strong>(the “<strong>Amended Certificate</strong>”)
+Board.1.1.4._Sec=make certain other changes, as set forth in the Amended and Restated Certificate of Incorporation substantially in the form attached hereto as <strong><u>Exhibit A</u> </strong>(the &ldquo;<strong>Amended Certificate</strong>&rdquo;)
 
 1.2._Sec={R2}  That the Company’s Certificate of Incorporation as currently in effect be amended and restated to read as set forth in the Amended Certificate.
 
