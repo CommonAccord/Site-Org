@@ -1,11 +1,15 @@
 Bugs:
 
+
 In rough order of priority and apparent ease (your milage may vary):
 
-"Try it" loops back to the homepage.
+Home page.
+"Try it" loops back to the homepage.  Logo is too big.
 
 The Up function isn't there (see below)
 
+External URL linking per /about/how/Lesson2 . is it working?  Did I mess it up?  Can we link to a page on github, e.g., 
+https://raw.githubusercontent.com/CommonAccord/commonaccord/master/Doc/core/class/AGT_Frame
 
 
 There is no Up button when you are in a "list" view.  So if in /core/id/  you can't get to /core/  .  The Up button is visible in the show view.
