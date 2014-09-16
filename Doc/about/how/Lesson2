@@ -2,13 +2,17 @@ Having made Lesson1= we can now reference
 
 =[about/how/Lesson1]
 
+
+
+=[?http://commonaccord.org/test.cmacc]
+
 <p>= and extend it:
 
 <p>=
 
 hw={hlw}
 
-hlw={h} {l} {w}
+hlw={h} {l} {w} {x}
 
 l=legal
 <p>=
