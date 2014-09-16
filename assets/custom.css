@@ -11,3 +11,27 @@ hr
     width: 75%;
 
 }
+
+.container {
+	padding-left:75px; 
+	padding-right:75px; 
+	padding-top:75px; 
+	padding-bottom:25px; 
+	border:1px solid lightgray;
+	border-radius: 25px;
+}
+
+div {
+	text-align: justify;
+	font-family: "Times New Roman", Georgia, Serif;
+}
+
+h3, h2, h4 {
+	font-variant: small-caps;
+	text-align: center;
+}
+
+h4 { text-align: right; }
+
+#button-try { float:left; padding-left: 350px; }
+#info-more { float: right; text-align: right; }

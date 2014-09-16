@@ -69,8 +69,12 @@ include("source.php");
 
 foreach($contents as $n) {
 	list($k, $v) = array_pad( explode ("=", $n, 2), 2, null);
+	
+	if(preg_match('/\[\?(.+?)\]/', $v, $matches)) {
+                $v = "<a href=$matches[1]>$v</a>";
+        }
 
-	if(preg_match('/\[(.+?)\]/', $v, $matches)) { 
+	else if(preg_match('/\[(.+?)\]/', $v, $matches)) { 
 		$v = "<a href=$_SERVER[PHP_SELF]?action=source&file=Doc/$matches[1]>$v</a>";
 	}
 	

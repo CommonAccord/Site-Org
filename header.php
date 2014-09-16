@@ -67,5 +67,3 @@
   </div><!-- /.container-fluid -->
 </nav>
 <body>
-<div class="container">
-	<div class="row">
