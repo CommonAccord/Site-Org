@@ -3,7 +3,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
 <title>CommonAccord | No More Boilerplate</title>
-<link  href="./assets/reset.css" rel="stylesheet" />
+
 <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet" />
 <link  href="./assets/custom.css" rel="stylesheet" />
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
