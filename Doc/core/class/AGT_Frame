@@ -2,7 +2,7 @@ Model.Root={Doc.Body}
 
 Doc.Body={Doc.Meta}{AGT.Doc.Body}
 
-Doc.Meta= 
+Doc.Meta={OptionalMessageToUser}
 
 AGT.Doc.Body={AGT.Prologue}{AGT.Secs._Lost}{AGT.Sign}<br>{AGT.Attach}
 
