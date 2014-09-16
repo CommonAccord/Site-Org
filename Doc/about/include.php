@@ -1,6 +1,6 @@
 <div class ="col-sm-12">
 <table class="responsive">
-<h3 style="text-align:center">Common Accord reflects the structure of relationships and transactions</h3>
+<h3 style="text-align:center">Legal relationships have structure.  Refactored legal documents reflecting that structure make the relationships clear, compact and actionable.&ensp; Codified by lawyers and secured in personal data stores.</h3>
 <hr>
 <table class="table table-striped table-condensed table-bordered" style="padding:20px">
 
