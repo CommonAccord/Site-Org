@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <head>
-<meta charset="utf-8">.
+<meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
 <title>CommonAccord | No More Boilerplate</title>
 <link  href="./assets/reset.css" rel="stylesheet" />
