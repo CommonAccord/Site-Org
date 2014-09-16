@@ -19,8 +19,9 @@ if(! ($dir == 'Doc/')) {
 	$rootdir = pathinfo($dir);	
 	//doc_list.php cotntains layout 
 	//	include("doc_list.php");
-	}
-	// echo "<u>$dir</u><br>";
+	//}
+	echo "Rootdir: <a href=$_SERVER[PHP_SELF]?action=list&file=".$rootdir['dirname'].">".$rootdir['dirname']."</u><br>";
+}
 
 $files = scandir($dir);
 
