@@ -8,12 +8,9 @@ hr
 
 #containerHome {
 
-	padding-left:75px; 
-	padding-right:75px; 
-	padding-top:75px; 
-	padding-bottom:75px; 
+	padding:10%; 
 	border:1px solid lightgray;
-	border-radius: 25px;
+	border-radius: 5px;
 	text-align: justify;
 	height:100%;
 	overflow:auto;
