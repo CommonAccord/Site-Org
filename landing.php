@@ -24,8 +24,8 @@
 </div>
 <br /><br />
 <div id="code" class="jtitle">
-<code>{Bringing} </code>legal relationships into the personal data store.<br/>
-<code>Bringing = Refactoring legal documents to bring</code>
+{Pulling} legal relationships into the personal data store.<br/>
+Pulling = Refactoring legal documents to bring
 </div>
 
 <br>
