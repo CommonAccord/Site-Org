@@ -10,7 +10,6 @@
 use warnings;
 use strict;
 
-my @missing;
 my $path = "./Doc/";
 my $orig;
 
@@ -43,7 +42,14 @@ sub parse_root {
 		my($part,$what);	
 		if( (($part, $what) = $_ =~ /^([^=]*)=\[(.+?)\]/) and ($field =~ s/^\Q$part\E//) ) {
 			$part = $oldpart . $part if $oldpart;
+			
+			if($what =~ s/^\?//) {
+				system "curl '$what' > $path/tmp.cmacc";
+				$what = 'tmp.cmacc';
+			}
+			
 			$root = parse($path.$what, $field, $part);
+			
 			return $root if $root;
 		}
 	}
@@ -58,13 +64,11 @@ sub expand_fields  {
 	foreach( $$field =~ /\{([^}]+)\}/g ) {
 		my $ex = $_;
 		my $ox = $part ? $part . $ex : $ex;
-#print "[$$field] OX -- part = $part -- ex = $ex --- ox = $ox";
 		my $value = parse($orig, $ox);
-		$value ? $$field =~ s/\{\Q$ex\E\}/$value/gg : push @missing, $ex;
+		$$field =~ s/\{\Q$ex\E\}/$value/gg if $value;
 	}
 } 
 
 
 
 print " ".parse($ARGV[0], "Model.Root");
-# print "\nMissing elements: @missing";
