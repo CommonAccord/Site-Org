@@ -1,6 +1,6 @@
 <?php
 error_reporting(E_ALL);
-$path = './';
+$path = '/var/www/www.commonaccord.org/commonaccord/';
 
 
 if(!isset($_REQUEST['action'])) { 
@@ -27,6 +27,8 @@ $files = scandir($dir);
 if(file_exists($dir . 'include.php'))
     include $dir . 'include.php';
 
+echo "<div id='content-list'>";
+
 foreach($files as $f) {
 	if(is_dir($path.$dir.$f)) {
 		if( !( ($f == '.') || ($f == '..')) ) {
@@ -40,6 +42,7 @@ foreach($files as $f) {
 		}
 	}
 }
+echo "</div>";
 
 } // end 'list'
 
