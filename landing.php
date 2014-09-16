@@ -1,15 +1,16 @@
   <div class="row " >
-<div class="container">
+  <div class="container">
  <div class = "col-lg-12" id ="containerHome" >
 
 <p align="center">
 <img src="assets/cmacc-trans.png" style="width:100%"  />
 </p>
 <br/><hr>
-<h1>CommonAccord is an open source software and law project.</h1> 
-<h4>We are lawyers and programmers working together<br/> to create a global template system of codified legal texts.</h4>
+<h1 style="text-align:center;font-variant: small-caps;">Common Accord is an open source software and law project.</h1> 
+<hr>
+<h4 style="text-align:center;font-variant: small-caps;">We are lawyers and programmers working together<br/> to create a global template system of codified legal texts.</h4>
 <br/><br/><br/>
-<a id="button-try" href="#"><img src="assets/tryit.png" style="width:100%;" height="200"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a id="button-try" href="#"><img src="assets/tryit.png" style="width:50;" height=75></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 <div id="info-more">
@@ -66,4 +67,5 @@
         
 
       <hr>
+</div>
 </div>
