@@ -1,6 +1,7 @@
 <?php
 error_reporting(E_ALL);
-$path = '/var/www/www.commonaccord.org/';
+// commonaccord.com $path = '/var/www/www.commonaccord.org/'; //
+$path = './' //h eroku path //
 
 
 if(!isset($_REQUEST['action'])) { 
