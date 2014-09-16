@@ -20,7 +20,7 @@ if(! ($dir == 'Doc/')) {
 	//doc_list.php cotntains layout 
 	//	include("doc_list.php");
 	//}
-	echo "Rootdir: <a href=$_SERVER[PHP_SELF]?action=list&file=".$rootdir['dirname'].">".$rootdir['dirname']."</u><br>";
+	echo "Rootdir: <a href=$_SERVER[PHP_SELF]?action=list&file=".$rootdir['dirname']."/>".$rootdir['dirname']."</a><br>";
 }
 
 $files = scandir($dir);
