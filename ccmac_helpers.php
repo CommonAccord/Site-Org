@@ -84,7 +84,7 @@ foreach($contents as $n) {
 	echo "</tr>";
 }
 
-echo "</table></body>";
+echo "</table></table></body>";
 } // end 'source'
 
 else if($_REQUEST['action'] == 'render') {

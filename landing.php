@@ -1,12 +1,15 @@
-<div id="containerHome"  >
-<div style="margin-left:15%; margin-right:15%">  
-<img src="assets/cmacc-trans.png" style="width:76%" />
-</div>
+<div class="container col-lg-12" id ="containerHome" >
+<div class="row " >
+
+
+<p align="center">
+<img src="assets/cmacc-trans.png" style="width:100%"  />
+</p>
 <br/><hr>
-<h2>CommonAccord is an open source software and law project.</h2> 
-<h3>We are lawyers and programmers working together<br/> to create a global template system of codified legal texts.</h3>
+<h1>CommonAccord is an open source software and law project.</h1> 
+<h4>We are lawyers and programmers working together<br/> to create a global template system of codified legal texts.</h4>
 <br/><br/><br/>
-<a id="button-try" href="#"><img src="assets/tryit.png" height=150></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a id="button-try" href="#"><img src="assets/tryit.png" style="width:100%;" height="200"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <div id="info-more">
 <h4>Understand <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/about/>the big picture.</a></h4>
@@ -18,9 +21,10 @@
 <br>
 </div>
 </div>
+</div>
 <br>
       
-<div class="container clearfloat">
+<div class="container">
       
  		 <div class="col-sm-4" id="more">
           <h2>The Challenge</h2>
@@ -59,5 +63,4 @@
         
 
       <hr>
-</div>
 </div>

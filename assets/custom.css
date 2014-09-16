@@ -5,24 +5,22 @@ hr
 
 }
 
-#containerhome {
+#containerHome {
 
 	border: 1px solid black;
-    padding: 25px;
-    height: 200px;
-    margin-right:10px;
-    width:33%;   
-	padding-top:200px; 
-	padding-bottom:25px; 
-	border:1px solid lightgray;
-	border-radius: 25px;
+    padding: 10%;
+   
+    width:100%;   
+	padding-top:50px; 
+	padding-bottom:50px; 
+	border:1px solid black;
+	border-radius: 5px;
 	text-align: justify;
-	font-family: "Times New Roman", Georgia, Serif;
 	font-variant: small-caps;
 	text-align: center;
 }
 
-h4 { text-align: right; }
+/*h4 { text-align: right; } */
 
-#button-try { float:left; padding-left: 350px; }
+#button-try { float:left; width:350px;}
 #info-more { float: right; text-align: right; }
