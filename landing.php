@@ -21,6 +21,11 @@
 <br/><a href="#more"><img src="assets/more.png" height=75></a>
 <br/>
 
+<div id="code" class="jtitle">
+we are {bringing} legal relationships into the personal data store.<br/>
+bringing = refactoring legal documents to bring
+</div>
+
 <br>
 </div>
 </div>
@@ -67,6 +72,5 @@
        </div>
         
 
-      <hr>
 </div>
 </div>
