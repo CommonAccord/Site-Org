@@ -1,0 +1,13 @@
+.intro {
+    border: 1px solid black;
+    padding: 25px;
+    height: 200px;
+    margin-right:10px;
+    width:33%;  
+}
+
+hr 
+{
+    width: 75%;
+
+}

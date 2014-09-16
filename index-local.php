@@ -10,7 +10,7 @@ You should have received a copy of the CC0 Public Domain Dedication along with t
 
 <?php
 error_reporting(E_ALL);
-$path = '/Library/WebServer/Documents/commonaccord/';
+$path = '/';
 
 
 if(!isset($_REQUEST['action'])) { 
@@ -27,7 +27,7 @@ if($_REQUEST['action'] == 'list') {
 
 if(! ($dir == 'Doc/')) {
 	$rootdir = pathinfo($dir);	
-	echo "<body style='font-size: 200%;'> <b><a href=$_SERVER[PHP_SELF]?action=list&file=$rootdir[dirname]/>$rootdir[dirname]</a></b> &emsp;";
+	echo "<b><a href=$_SERVER[PHP_SELF]?action=list&file=$rootdir[dirname]/>$rootdir[dirname]</a></b> &emsp;";
 }
 echo "<u>$dir:</u><br>";
 
@@ -41,7 +41,7 @@ foreach($files as $f) {
 	if(is_dir($path.$dir.$f)) {
 		if( !( ($f == '.') || ($f == '..')) ) {
 
-			echo "<br> &nbsp; <a href=$_SERVER[PHP_SELF]?action=list&file=$dir$f/>$f</a>";
+			echo "<br> &nbsp; <a href=$_SERVER[PHP_SELF]?action=list&file=$dir$f/>FOOO$f</a>";
 		}
 	}
 	else {
