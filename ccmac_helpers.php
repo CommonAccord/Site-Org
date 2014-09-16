@@ -1,6 +1,6 @@
 <?php
 error_reporting(E_ALL);
-$path = './';
+$path = '/var/www/www.commonaccord.org/commonaccord/';
 
 
 if(!isset($_REQUEST['action'])) { 
