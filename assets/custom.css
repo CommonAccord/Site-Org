@@ -16,11 +16,20 @@ hr
 	border:1px solid black;
 	border-radius: 5px;
 	text-align: justify;
-	font-variant: small-caps;
-	text-align: center;
+
 }
+
+div {
+	text-align: justify;
+	font-family: "Times New Roman", Georgia, Serif;
+}
+
 
 /*h4 { text-align: right; } */
 
-#button-try { float:left; width:350px;}
+
+h4 { text-align: right; }
+
+#button-try { float:left; padding-left: 350px; }
+
 #info-more { float: right; text-align: right; }

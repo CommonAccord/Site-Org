@@ -19,7 +19,7 @@
 <br/>
 <a href="#more"><img src="assets/more.png" height=75></a>
 <br>
-</div>
+
 </div>
 </div>
 <br>
