@@ -1,38 +1,18 @@
-<div class="row " >
+
+
+<body>
   <div class="container">
- <div class = "col-lg-12" id ="containerHome" >
+    <div class="row">
+     <div class = "col-xs-12" id ="containerHome" >
 
-<p align="center">
-<img src="assets/cmacc-trans.png" style="width:100%"  />
-</p>
-<br/><hr>
-<h1 class="title">CommonAccord is an open source software<br/> and law project.</h1> 
-<hr>
-<h3 class="title">We are lawyers and programmers working together<br/> to create a global template system of codified legal texts.</h4>
-<br/><br/>
+        <? include('partials/home_page_about.php') ?> <!--grab the links from a partial -->
+        <? include('partials/home_page_links.php') ?> <!--grab the links from a partial -->
+    <br>
 
-<!--<a id="button-try" href="#"><img src="assets/tryit.png" height=150> </a> -->
-<div id="info-more">
-<h4 class="subtitle">Explore <a href=<?=$_SERVER['PHP_SELF']?>?action=explore>the template system.</a></h4>
-<h4 class="subtitle">Learn <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/about/how/>how it works</a>.</h4>
-<h4 class="subtitle">See <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/event/>some deals</a>.</h4>
-<h4 class="subtitle">Browse <a href="https://github.com/CommonAccord/commonaccord/tree/master/Doc">the Github repo</a>.</h4>
+    </div> <!--end containerHome !-->
+   </div><!--end row !-->
+</div> <!--end container !-->
 
-<br/><a href="#more"><img src="assets/more.png" height=75></a>
-<br/>
-</div>
-<br /><br />
-<div id="code" class="jtitle">
-{Bringing} legal relationships into the personal data store.<br/>
-Bringing = Codifying legal documents to bring
-</div>
-
-<br>
-
-</div>
-</div>
-  </div>
-</div>
 <br>
       
 <div class="container" id="containerContent">
@@ -45,8 +25,8 @@ Bringing = Codifying legal documents to bring
           <p>In order to be as effective as their traditional counterparts, smart contracts must also be <strong>legally enforceable</strong> in the real world. This requires them to comply with all the standard formalities required for a court to enforce a contract under the law.  But while technology has rapidly advanced to a point where "smart contracts" are not only possible, but are being built, the legal framework for their existence has not been built. </p>
 <hr>
                   
-          <p><br><a class="btn btn-info" href="/white_paper" role="button">Read more &raquo;</a></p>
-        </div>
+<p><br><a class="btn btn-info" href="/white_paper" role="button">Read more &raquo;</a></p>
+    </div> <!--end col-sm-4 !-->
 
         <div class="col-sm-4">
           <h2 class="title">A Solution</h2>
@@ -59,7 +39,7 @@ Bringing = Codifying legal documents to bring
 </p>  
       <br>
           <p><a class="btn btn-info" href="#" role="button">Read more &raquo;</a></p>
-        </div>
+        </div><!--end col-sm-4 !-->
 
         <div class="col-sm-4">
           <h2 class="title">Our vision<hr></h2>
@@ -70,8 +50,10 @@ Bringing = Codifying legal documents to bring
 
           <p>Our vision?  Allow lawyers to create contract language in a git like framework, where code can be shared, forked, tested and improved.  Allow developers access to a stable legal-code base that can be implemented in next-generation smart contract developments.By codifying contract elements, parties will be able to focus on the important components of particular transactions, and not get lost in boilerplate that they usually don't understand anyway. </p>
           <p><br><a class="btn btn-info" href="#" role="button">Read more &raquo;</a></p>
-       </div>
+       </div><!--end col-sm-4 !-->
         
+    </div><!--end col-sm-4 !-->
+  </div><!--end containerContent !-->
+</body><!-- end body !-->
 
-</div>
-</div>
+<?php include("footer.php"); ?>

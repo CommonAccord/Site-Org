@@ -1,16 +1,23 @@
 
 <body style="background:lightgray">
-<?php echo "You are <strong>editing </strong>$dir<br><br><form action=$_SERVER[PHP_SELF] method='post'>" ?>
-<p><input type="button" class="btn btn-primary btn-sm" value="Print" onclick="PrintElem('#box')" /> | <a id="exportxt" href="#">Save </a> <p>
 
-        <textarea cols=100 rows=30 style='padding:20px' name='newcontent'>
-        <?echo file_get_contents($dir, FILE_USE_INCLUDE_PATH);?>
+<h4>You are <strong>editing </strong> <? echo $dir ?><br>
+	<br />
+<!-- <br><form action= "<?  $_SERVER['PHP_SELF'] ?>" method="post"></h4> -->
 
-</textarea><br>
-          <input type="submit" name="submit" value="Save">
-          <input type="hidden" name="file" value=<?'.$dir.'?> >
-          <input type="hidden" name="action" value="source">
-        </form>
+<p><input type="button" class="btn btn-primary btn-sm" value="Print" onclick="PrintElem('#box')" /> | <a input type="button" id="#exportxt" href="#">Save </a></p>
+ <div >  
+ <div id="exportxt">    
+<pre>	
+    <div contenteditable="true" id="box"style="color:white; background:black; padding:10px"> 
+       <? echo file_get_contents($dir, FILE_USE_INCLUDE_PATH);?>
 
+</div>
+</pre>
+</div>
+</div>
 
+         
 </body>
+
+<?php include("footer.php"); ?>
