@@ -2,7 +2,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
-<title>CommonAccord | No More Boilerplate</title>
+<title>CommonAccord | A world without paperwork</title>
 
 <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet" />
 <link  href="./assets/custom.css" rel="stylesheet" />
@@ -53,7 +53,7 @@
         <button type="submit" class="btn btn-default">Submit</button>
       </form>
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="mailto:info@commonaccord.com">Contact</a></li>
+        <li><a href="mailto:contact@commonaccord.org">Contact</a></li>
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <span class="caret"></span></a>
           <ul class="dropdown-menu" role="menu">

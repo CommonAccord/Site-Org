@@ -24,8 +24,8 @@
 </div>
 <br /><br />
 <div id="code" class="jtitle">
-{Pulling} legal relationships into the personal data store.<br/>
-Pulling = Refactoring legal documents to bring
+{Bringing} legal relationships into the personal data store.<br/>
+Bringing = Codifying legal documents to bring
 </div>
 
 <br>
