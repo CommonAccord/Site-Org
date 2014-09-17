@@ -44,8 +44,8 @@ sub parse_root {
 			$part = $oldpart . $part if $oldpart;
 			
 			if($what =~ s/^\?//) {
-				system "curl '$what' > $path/tmp.cmacc";
-				$what = 'tmp.cmacc';
+				system "curl '$what' > $path/.tmp.cmacc";
+				$what = '.tmp.cmacc';
 			}
 			
 			$root = parse($path.$what, $field, $part);
