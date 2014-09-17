@@ -18,13 +18,13 @@ Bus.Scope._Sec={st-}{Bus.Scope.Title}{-stb}{Bus.Scope._sec}
 
 Bus.Role._Sec={st-}{Bus.Role.Title}{-sto}{Bus.Role._sec}{-ol}
 
-Bus.Role._sec={Bus.Role.PolicyAuthority._Sec} {-li-}  {Bus.Role.Operator._Sec} {-li-}  {Bus.Role.Provider._Sec} {-li-}  {Bus.Role.UserAuthority._Sec} {-li-}  {Bus.Role.User._Sec}{-li-}  {Bus.Role.RelyingParty._Sec}{-li-}  {Bus.Role.CertificationAssessor._Sec}
+Bus.Role._sec={Bus.Role.PolicyAuthority._Sec} {-li-}  {Bus.Role.Operator._Sec} {-li-}  {Bus.Role.IdentityProvider._Sec} {-li-}  {Bus.Role.UserAuthority._Sec} {-li-}  {Bus.Role.User._Sec}{-li-}  {Bus.Role.RelyingParty._Sec}{-li-}  {Bus.Role.CertificationAssessor._Sec}
 
 Bus.Role.PolicyAuthority._Sec={st-}{Bus.Role.PolicyAuthority.Title}{-stb}{Bus.Role.PolicyAuthority._sec}
 
 Bus.Role.Operator._Sec={st-}{Bus.Role.Operator.Title}{-stb}{Bus.Role.Operator._sec}
 
-Bus.Role.Provider._Sec={st-}{Bus.Role.Provider.Title}{-stb}{Bus.Role.Provider._sec}
+Bus.Role.IdentityProvider._Sec={st-}{Bus.Role.IdentityProvider.Title}{-stb}{Bus.Role.IdentityProvider._sec}
 
 Bus.Role.UserAuthority._Sec={st-}{Bus.Role.UserAuthority.Title}{-stb}{Bus.Role.UserAuthority._sec}
 
