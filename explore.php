@@ -1,19 +1,16 @@
-<div class="row " >
-  <div class="container">
- <div class = "col-lg-12" id ="containerHome" >
 
-<p align="center">
-<img src="assets/cmacc-trans.png"  height="100px" />
-</p>
-<div class ="col-sm-12">
+
 <table class="responsive">
    <hr><h1 class="title">Structured legal relationships.</h2>
-   <h1 class="title">Codified documents.</h1>
-   <hr><h3 class="title">Your personal data store.</h3>
-<br/><br/><table class="table table-striped table-condensed table-bordered" style="padding:20px">
+    <h1 class="title">Codified documents.</h1>
+    <hr>
+      <h3 class="title">Your personal data store.</h3>
+        <br/><br/>
+
+    <table class="table table-striped table-condensed table-bordered" style="padding:20px">
 
 <tr>
-<td><img src="http://cdns2.freepik.com/free-photo/group--persons-outline--ios-7-interface-symbol_318-35219.jpg" height="50px"></td>
+<td><img src="http://cdns2.freepik.com/free-photo/group--persons-outline--ios-7-interface-symbol_318-35219.jpg" height="50px"/></td>
 <td width="30p"><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/core/id/>id</a></td>
 <td>People come first.  They have relationships, own things, are places.</td>
 </tr>
@@ -53,10 +50,10 @@
 
 	</table>
 	</table>
-</div>
 
 <style>
 	#filelist { 
 		display: none;
 	}
 </style>
+<?include("footer.php"); ?>

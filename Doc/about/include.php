@@ -1,3 +1,9 @@
+<style>
+	#filelist { 
+		display: none;
+	}
+</style>
+
 <div class ="col-sm-12">
 <table class="responsive">
    <h3>Structured legal relationships<br>Codified documents<br>Your personal data store</h3>
@@ -46,9 +52,4 @@
 	</table>
 	</table>
 </div>
-
-<style>
-	#filelist { 
-		display: none;
-	}
-</style>
+<? include('footer.php') ?>
