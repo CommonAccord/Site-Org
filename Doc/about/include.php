@@ -6,7 +6,7 @@
 
 <div class ="col-sm-12">
 <table class="responsive">
-   <h3>Structured legal relationships.<br>Codified documents.<br>Your personal data store.</h3>
+   <h3>Structured legal relationships<br>Codified documents<br>Your personal data store</h3>
 <hr>
 <table class="table table-striped table-condensed table-bordered" style="padding:20px">
 
@@ -46,7 +46,7 @@
 <tr>
 <td><img src="http://www.lakelocal.org/forms/PublishingImages/forms-icon.jpg"height="50px"></td>
 <td><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/event/>event</a></td>
-   <td>Events are transactions that connect people.  Making an application, granting a permit, signing a deal, sending a draft.  Each is a connection between some persons, a form and a history. History is the chain of events.</td>
+   <td>Events are transactions that connect people.  Making an application, granting a permit, signing a deal, sending a draft.  Each is a connection between some persons, a form and a history. History is the chain of events. All kept as connected data, all on your device is all kept</td>
 </tr>
 
 	</table>

@@ -2,10 +2,7 @@
 
 Model.Root=See - <a href="{local}me/hyperbios/v02/System_Rules_Knit">System_Rules_Knit</a>
 
-
 Technical.=[me/hyperbios/v02/technical/Sec]
-
-Co.Name=MITRE
 
 AGT.Title={Co.Name}id External Identity Federation Trust Framework System Rules
 
@@ -47,13 +44,13 @@ Bus.Role.Operator.Title=System Operator
 
 Bus.Role.Operator._sec=The system operator is responsible for implementing and administering {Co.Name} External Identity Federation use by {Co.Name}.
 
-Bus.Role.Provider.Title=Identity Provider
+Bus.Role.Identity.Provider.Title=Identity Provider
 
-Bus.Role.Provider._sec={Bus.Role.Provider.Base._Sen} {br} {Bus.Role.Provider.WhiteListed._Sen}
+Bus.Role.IdentityProvider._sec={Bus.Role.IdentityProvider.Base._Sen} {br} {Bus.Role.IdentityProvider.WhiteListed._Sen}
 
-Bus.Role.Provider.Base._Sen=An Identity Provider is responsible for issuing a Primary Credential or a Derived Federated Identity Credentials for Users. The {Co.Name}id Identity Provider is responsible for issuing Derived Federated Credentials for Users who are {Co.Name} personnel.
+Bus.Role.IdentityProvider.Base._Sen=An Identity Provider is responsible for issuing a Primary Credential or a Derived Federated Identity Credentials for Users. The {Co.Name}id Identity Provider is responsible for issuing Derived Federated Credentials for Users who are {Co.Name} personnel.
 
-Bus.Role.Provider.WhiteListed._Sen=A White Listed Identity Provider system is a service provider that has been approved by the System Operator as a pre-authorized Identity Provider such that {Co.Name} Relying Party sites may provide automatic authorization on first and all subsequent access to Users of Derived Federated Credentials issued by that Identity Provider.
+Bus.Role.IdentityProvider.WhiteListed._Sen=A White Listed Identity Provider system is a service provider that has been approved by the System Operator as a pre-authorized Identity Provider such that {Co.Name} Relying Party sites may provide automatic authorization on first and all subsequent access to Users of Derived Federated Credentials issued by that Identity Provider.
 
 Bus.Role.UserAuthority.Title=User Authority
 

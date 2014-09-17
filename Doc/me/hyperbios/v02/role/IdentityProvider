@@ -1,4 +1,4 @@
 =[me/hyperbios/v02/role/CardType]
 
-Role.IdentityProvider={b-}Identity Provider!{-b}{br}{Bus.Role.IdentityProvider._Sec}
+Role.IdentityProvider={Bus.Role.IdentityProvider._Sec}
 
