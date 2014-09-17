@@ -1,6 +1,6 @@
 <div class ="col-sm-12">
 <table class="responsive">
-   <h3>Legal relationships have structure.<br>Refactored documents make them clear, compact and actionable.<br>Secured in personal data stores, codified by lawyers.</h3>
+   <h3>Legal relationships have structure.<br>Expressed in codified documents.<br>Secure in your personal data store.</h3>
 <hr>
 <table class="table table-striped table-condensed table-bordered" style="padding:20px">
 
@@ -24,23 +24,23 @@
 <tr>
 <td><img src="http://www.lakelocal.org/forms/PublishingImages/forms-icon.jpg"height="50px"></td>
 <td><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/core/gov/>gov</a></td>
-   <td>For agency-created forms, the part that people touch.  Tied to codes, regulations and laws.  Closely aligned with at/ and /form.</td>
+   <td>For government forms, the part that people touch.  Applications, permits, reports. Tied to codes, regulations and laws.  Closely aligned with at/ and /form.</td>
 </tr>
 
 
 <tr>
 <td><img src="http://be-my-guest.com/static/img/things-to-do-icons.png" height="50px"></td>
 <td><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/core/re/>re</a></td>
-<td>Is things.  Mostly things that a person can own or sell, license, borrow or otherwise trade in.  /auto, /ip/patent/, /real/, etc.  These need to be tied with registration systems such as deed registries, DMVs, patent offices, etc.</td></tr>
+<td>"Re" is for things.  Mostly things that a person can own or sell, license, borrow or otherwise trade in.  /auto, /ip/patent/, /real/, etc.  These need to be tied with registration systems such as deed registries, DMVs, patent offices, etc.</td></tr>
 
 <tr>
 <td><img src="http://images.clipartpanda.com/world-map-clip-art-worldmap.gif" height="50px"></td>
 <td><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/core/at/>at</a></td>
-<td>Is for places.   1 Broadway, Cambridge MA, USA becomes at/usa/ma/middlesex/cambridge/broadway/1/geo.</td></tr>
+<td>"At" is for places.   1 Broadway, Cambridge MA, USA becomes at/usa/ma/middlesex/cambridge/broadway/1/geo.</td></tr>
 <tr>
 <td><img src="http://www.lakelocal.org/forms/PublishingImages/forms-icon.jpg"height="50px"></td>
 <td><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/event/>event</a></td>
-   <td>Events are transactions that connect people.  Making an application, granting a permit, signing a deal, sending a draft.  Each is a connection between some persons, a form and a history. History is the chain succession of deals.</td>
+   <td>Events are transactions that connect people.  Making an application, granting a permit, signing a deal, sending a draft.  Each is a connection between some persons, a form and a history. History is the chain of events.</td>
 </tr>
 
 	</table>
