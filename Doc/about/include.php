@@ -1,6 +1,6 @@
 <div class ="col-sm-12">
 <table class="responsive">
-   <h3>Legal relationships have structure.<br>Expressed in codified documents.<br>Secure in your personal data store.</h3>
+   <h3>Structured legal relationships.<br>Codified documents.<br>In your personal data store.</h3>
 <hr>
 <table class="table table-striped table-condensed table-bordered" style="padding:20px">
 
