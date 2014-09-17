@@ -111,9 +111,7 @@ echo `cd /var/www/www.commonaccord.org/Alpha; git reset --hard HEAD; git pull -f
 
 }
 
-else if($_REQUEST['action'] == 'landing') {
-	include('landing.php');
-}
 
+else { include($_REQUEST['action'].'.php'); }
 
 ?>
