@@ -24,14 +24,14 @@
 <tr>
 <td><img src="http://www.lakelocal.org/forms/PublishingImages/forms-icon.jpg"height="50px"></td>
 <td><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/core/gov/>gov</a></td>
-   <td>For government forms, the part that people touch.  Applications, permits, reports. Tied to codes, regulations and laws.  Closely aligned with at/ and /form.</td>
+   <td>Government forms.  Applications, permits, reports. Linked to codes, regulations and laws.  Adjacent to at/ and /form.</td>
 </tr>
 
 
 <tr>
 <td><img src="http://be-my-guest.com/static/img/things-to-do-icons.png" height="50px"></td>
 <td><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/core/re/>re</a></td>
-<td>"Re" is for things.  Mostly things that a person can own or sell, license, borrow or otherwise trade in.  /auto, /ip/patent/, /real/, etc.  These need to be tied with registration systems such as deed registries, DMVs, patent offices, etc.</td></tr>
+<td>"Re" is for things.  Mostly things that a person can own or sell, license, borrow or otherwise exchange.  /auto, /ip/patent/, /real/, etc.  To be tied with registration systems such as deed registries, DMVs, patent offices, etc.</td></tr>
 
 <tr>
 <td><img src="http://images.clipartpanda.com/world-map-clip-art-worldmap.gif" height="50px"></td>
