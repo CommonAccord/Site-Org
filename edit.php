@@ -9,7 +9,7 @@
  <div >  
  <div id="exportxt">    
 <pre>	
-    <div contenteditable="true" id="box"style="color:white; background:black; padding:10px"> 
+    <div contenteditable="true" id="box" style="color:white; background:black; padding:10px"> 
        <? echo file_get_contents($dir, FILE_USE_INCLUDE_PATH);?>
 
 </div>
