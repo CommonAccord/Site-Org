@@ -4,7 +4,7 @@ EscrowAGT.Doc.Body={AGT.Prologue} {AGT._Secs} {AGT.Signature}
 
 AGT.Prologue =<p><strong>ESCROW AGREEMENT</strong></p><p>{Intro.ThisAgreement}</p><p>{Intro.OtherPersons}</p><p>{Intro.Whereas}<br> {Intro.NowTherefore}</p>
 
-Intro.ThisAgreement=This escrow agreement (&ldquo;Escrow Agreement&rdquo;) is made and entered into on {Escrow.Effective.YMD} by and among:<ul><li>{Purchaser.N,E,A}, (&ldquo;Purchaser&rdquo;),</li><li>{Agent.N,E,A}, (&ldquo;Escrow Agent&rdquo;),</li><li>{Seller.N,E,A} ("Seller"),</li></ul>as of {Escrow.Sign.YMD}.
+Intro.ThisAgreement=This escrow agreement (&ldquo;Escrow Agreement&rdquo;) is made and entered into on {Escrow.Effective.YMD} by and among:<ul><li>{Purchaser.N,E,A}, (&ldquo;Purchaser&rdquo;),</li><li>{Escrow.N,E,A}, (&ldquo;Escrow Agent&rdquo;),</li><li>{Seller.N,E,A} ("Seller"),</li></ul>as of {Escrow.Sign.YMD}.
 
 Intro.OtherPersons=Additional persons referenced in this Agreement are:<ul><li>{Shipper.N,E,A} ("Shipper"); and</li><li>{Arbitrator.N,E,A} ("Arbitrator").</li></ul>
 
@@ -20,7 +20,7 @@ Intro.Whereas.AgentAccepts=WHEREAS, the Escrow Agent has agreed to act in such c
 
 Intro.Whereas.Arbitrator=WHEREAS, the Seller, Purchaser and Escrow Agent agree to use {Arbitrator.N,E,A} (the "Arbitrator") to resolve any disputes among them regarding the meaning of this Agreement or the performance of this Agreement, including any "Claim" as defined below
 
-AGT._Secs =<ol><li>{Deposit._Sec}</li><li>{Pickup._Sec}</li><li>{Release._Sec}</li><li>{Cancellation._Sec}</li><li>{Claim._Sec}</li><li>{RelianceByAgent._Sec}</li><li>{IndemnAgent._Sec}</li><li>{AgentSubmitDispute._Sec}</li><li>{AgentFee._Sec}</li><li>{ArbitratorFee._Sec}</li><li>{Successor._Sec}</li><li>{AgentLimitLiab._Sec}</li><li>{Arbitration._Sec}</li><li>{Law._Sec}</li><li>{Notice._Sec}</li><li>{TechTrumps._Sec}</li></ol>
+AGT._Secs =<ol><li>{Deposit._Sec}</li><li>{Pickup._Sec}</li><li>{Release._Sec}</li><li>{Cancellation._Sec}</li><li>{Claim._Sec}</li><li>{RelianceByEscrow._Sec}</li><li>{IndemnEscrow._Sec}</li><li>{AgentSubmitDispute._Sec}</li><li>{AgentFee._Sec}</li><li>{ArbitratorFee._Sec}</li><li>{Successor._Sec}</li><li>{AgentLimitLiab._Sec}</li><li>{Arbitration._Sec}</li><li>{Law._Sec}</li><li>{Notice._Sec}</li><li>{TechTrumps._Sec}</li></ol>
 
 
 Intro.NowTherefore=NOW, THEREFORE, in consideration of the mutual premises and conditions contained herein, the Purchaser, the Seller and the Escrow Agent do hereby agree as follows:
@@ -35,9 +35,9 @@ Cancellation._Sec=<u>Cancellation</u>. If the Seller fails to deliver the Produc
 
 Claim._Sec=<u>Claim</u>. If the Purchaser notifies the Escrow Agent of a claim of defect in the Product (a "Claim") not later than {Delivery-Claim.Delay} after notification by the Shipper of delivery to the Purchaser, then the Escrow Agent shall not release the Purchase Price to the Seller while the Claim is being handled. The Escrow Agent shall notify the Seller, the Purchaser, and the Arbitrator of the existence of the Claim.
 
-RelianceByAgent._Sec=<u>Reliance by Escrow Agent</u>. The Escrow Agent may act in reliance upon any writing, instrument, or signature that the Escrow Agent, in good faith, believes to be genuine; and may assume any person purporting to give any notice, writing, advice, or instructions in connection with any provision herein has been duly authorized to do so.
+RelianceByEscrow._Sec=<u>Reliance by Escrow Agent</u>. The Escrow Agent may act in reliance upon any writing, instrument, or signature that the Escrow Agent, in good faith, believes to be genuine; and may assume any person purporting to give any notice, writing, advice, or instructions in connection with any provision herein has been duly authorized to do so.
 
-IndemnAgent._Sec=<u>Indemnification of Escrow Agent</u>. The Purchaser and the Seller agree to indemnify and hold harmless the Escrow Agent from any and all claims, liabilities, losses, expenses, actions, suits, or proceedings at law or in equity, or any other expense, fees, or charges of any character or nature whatever that it may incur by reason of acting as the Escrow Agent under this Escrow Agreement except for the Escrow Agent&srquo;s gross negligence, bad faith or willful misconduct. The Escrow Agent shall not be required to institute or maintain any litigation unless indemnified to its satisfaction for its counsel fees, costs, disbursements and all other expenses and liabilities that it may be subjected to in connection with the aforesaid action.
+IndemnEscrow._Sec=<u>Indemnification of Escrow Agent</u>. The Purchaser and the Seller agree to indemnify and hold harmless the Escrow Agent from any and all claims, liabilities, losses, expenses, actions, suits, or proceedings at law or in equity, or any other expense, fees, or charges of any character or nature whatever that it may incur by reason of acting as the Escrow Agent under this Escrow Agreement except for the Escrow Agent&srquo;s gross negligence, bad faith or willful misconduct. The Escrow Agent shall not be required to institute or maintain any litigation unless indemnified to its satisfaction for its counsel fees, costs, disbursements and all other expenses and liabilities that it may be subjected to in connection with the aforesaid action.
 
 AgentSubmitDispute._Sec=<u>Submission of Dispute by Escrow Agent</u>. If the Seller and the Purchaser disagree about the interpretation of this Escrow Agreement, about the rights and obligations of the parties, or the propriety of any action contemplated by the Escrow Agent hereunder, the Escrow Agent may submit such dispute to the Arbitrator. The Escrow Agent shall be indemnified for any costs, including reasonable attorney fees in connection with the aforesaid action.
 
@@ -61,7 +61,7 @@ AGT.Signature={Signature.InWitness}<br> {AGT.Signature.Block}
 
 Signature.InWitness=IN WITNESS WHEREOF, the undersigned being all the parties to this Escrow Agreement have hereunto set their hands.<br> &ensp;
 
-AGT.Signature.Block=SELLER:<br> {Seller.Name.Full}<br> <u>{Seller.Signature}</u><br> PURCHASER:<br> {Purchaser.Name.Full}<br> <u>{Purchaser.Signature}</u><br> ESCROW AGENT:<br> {Agent.Name.Full}<br> <u>{Agent.Signature}</u><br> ARBITRATOR:<br> {Arbitrator.Name.Full}<br> <u>{Arbitrator.Signature}</u>
+AGT.Signature.Block=SELLER:<br> {Seller.Name.Full}<br> <u>{Seller.Signature}</u><br> PURCHASER:<br> {Purchaser.Name.Full}<br> <u>{Purchaser.Signature}</u><br> ESCROW AGENT:<br> {Escrow.Name.Full}<br> <u>{Escrow.Signature}</u><br> ARBITRATOR:<br> {Arbitrator.Name.Full}<br> <u>{Arbitrator.Signature}</u>
 
 Law.Of={Arbitrator.Law.Of}</li>
 								
