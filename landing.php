@@ -56,5 +56,3 @@
 </body><!-- end body !-->
 
 <?php include("footer.php"); ?>
-
-</body>
