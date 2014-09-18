@@ -2,17 +2,17 @@
 
 =[core/at/USA/MA/Middlesex/Cambridge/Geo]
 
-Name.Full=Solomon Shirley
+Name.Full=<font color="gray">Solomon Shirley</font>
 
-Addr.Type=business
+Addr.Type=<font color="gray">business</font>
 
-Addr.1=100 Madison Street
+Addr.1=<font color="gray">100 Madison Street</font>
 
-Addr.Zip=02144
+Addr.Zip=<font color="gray">02144</font>
 
-Phone=617.671.7617
+Phone=<font color="gray">617.671.7617</font>
 
-Fax=617.555.1110
+Fax=<font color="gray">617.555.1110</font>
 
-Email=solomon.shirley@gmail.com
+Email=<font color="gray">solomon.shirley@gmail.com</font>
 									
