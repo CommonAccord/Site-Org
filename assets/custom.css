@@ -1,3 +1,4 @@
+@import url(http://fonts.googleapis.com/css?family=Josefin+Slab);
 
 hr 
 {
@@ -8,33 +9,45 @@ hr
 
 #containerHome, #containerContent {
 
-	padding:10%; 
 	border:1px solid lightgray;
 	border-radius: 15px;
-	text-align: justify;
 	height:100%;
-	overflow:auto;
-	text-align: justify;
-	font-family: "Times New Roman", Georgia, Serif;	
-	margin-bottom: 20px;
+	width:100%;
+	overflow:auto;	
+	margin-left:2;
+	margin-right:2;
+	margin-bottom: 10px;
+	font-family: 'Josefin Slab', serif;
+	font-weight:800;
+	background:white;
+	padding:100px;
+	-webkit-box-shadow: -9px 10px 35px -2px rgba(0,0,0,0.99);
+-moz-box-shadow: -9px 10px 35px -2px rgba(0,0,0,0.99);
+box-shadow: -9px 10px 35px -2px rgba(0,0,0,0.99);
 }
 
-#containerContent {
-	padding: 3%;
-	margin-top: 5%;
+.aboutBox{
+	padding:20px;
+border-radius: 15px;
+background:white;
+-webkit-box-shadow: -9px 10px 35px -2px rgba(0,0,0,0.99);
+-moz-box-shadow: -9px 10px 35px -2px rgba(0,0,0,0.99);
+box-shadow: -9px 10px 35px -2px rgba(0,0,0,0.99);	
+margin-bottom:10px;
+ font-family: 'Josefin Slab', serif;
+ font-weight:400;
 }
 
 .title, .subtitle, .jtitle {
-	text-align:center;
+	 font-family: 'Josefin Slab', serif;
 	font-variant: small-caps;
-	font-family: "Times New Roman", Georgia, Serif;
+	font-weight:600;
 }
 .subtitle {
+ font-family: 'Josefin Slab', serif;
 	text-align: right;
 }
-.jtitle {
-	text-align: justify;
-}
+
 
 #button-try { float:left; padding-left: 25%;  }
 #info-more { float: right; text-align: right; }
