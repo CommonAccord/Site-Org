@@ -11,20 +11,10 @@ $filenameX = basename($dir);
 
 ?>
 
-<div class="container">
-<div class="row">
-<div class="col-sm-3">
-	<img height="400"  src="assets/escrow.png">
-</div>
-<div class="col-sm-2" >
-
 
 <?
  include('list.php');
 
 ?>
 
-</div>
-</div>
-</div>
 

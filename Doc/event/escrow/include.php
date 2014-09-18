@@ -4,7 +4,8 @@
 
 We are presenting here the example of an escrow system, subdivided into a step-by-step process:<br>
 <ol>
-	<li> Parties agrees on the "Template Form" for the escrow agreement</li>
+	<li> Seller <a href="http://www.commonaccord.org/index.php?action=source&file=Doc/core/id/gerrys_grapes_llc"> Gerry's Grapes meets buyer xXXX</li>
+	<li>Parties agrees on the "Template Form" for the escrow agreement</li>
 	<li> Paries sign the agreement</li>
 </ol>
  </div>
