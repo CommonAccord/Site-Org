@@ -1,24 +1,25 @@
 
 
 <table class="responsive">
-      <h3 class="title">Personal data stored</h3>
-    <h3 class="title">Documents codified</h3>
-   <h3 class="title">Structured relationships</h3>
-        <br/><br/>
+    <h3 class="title">&#10003; Codified Documents</h3>
+   <h3 class="title">&#10003; Structured Relationships</h3>
+   <h3 class="title">&#10003;  Personal Data Stores</h3>
+     
 
-   <center><p>CommonAccord is a legal document form book and data model.<br>It suppports codified transacting and supply chains. </center> 
+   <p>Relationships can be expressed and codified as cards.
+<br/><br/>
     <table class="table table-striped table-condensed table-bordered" style="padding:20px">
 
 <tr>
 <td><img src="http://cdns2.freepik.com/free-photo/group--persons-outline--ios-7-interface-symbol_318-35219.jpg" height="50px"/></td>
 <td width="30p"><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/core/id/>id</a></td>
-<td>People come first.  They have relationships, own things, are places.</td>
+				 <td>People come first.  They have relationships, own things, are places.</td>
 </tr>
 
 <tr>
 <td><img src="https://cdn0.iconfinder.com/data/icons/seo-smart-pack/128/grey_new_seo2-31-512.png" height="50px"></td>
 <td><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/core/ids/>ids</a></td>
-   <td>ID<u>s</u> are combinations of persons.  Parties to a contract.  Students at a school.  Business partners, employees, board members, agents, subsidiaries.  Service providers, regulators, friends with whom you share something.</td></tr>
+				 <td>ID<u>s</u> are combinations of persons.  Parties to a contract.  Suppliers, customers.  Employees, board members, agents, subsidiaries.  Regulators.  Friends with whom you share something important.</td></tr>
 
 
 <tr>
