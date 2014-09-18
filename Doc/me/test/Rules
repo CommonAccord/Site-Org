@@ -1,13 +1,20 @@
+=[me/test/Aggregate]
+=[?http://commonaccord.org/test.cmacc]
+
+Master.=[core/form/agt/master/Form]
+
+
 Model.Root={ThisIsOurAgreement}	
 
-ThisIsOurAgreement={Prologue}<br>{Date}<br>{Agreement}<br>{Name}
+ThisIsOurAgreement={Prologue}<br>{Date}<br>{Agreement}<br>{Name}<br><br>{Rules}
+
 
 
 Agreement={Gen}<br>{Roles}
 
 Gen=All participants in the System must:
 
-Roles={Role1}<br>{Role2}<br>{Role3}
+Roles={Role1}<br>{Role2}<br>{Role3}<br>{Role4}<br>{Rules5}
 
 Role1=The Role 1 Function	
 
@@ -15,4 +22,10 @@ Role2=The Role 2 Function
 
 Role3=The Role 3 Function	
 
+Rules = {01.P1}<br>{01.P2}<br>{01.P3}
+01.P1 = I agree to participate as {Role1} in the {XYZ} System Rules
+01.P2 = I agree to participate as {Role2} in the {XYZ} System Rules
 
+01.P3 = I agree to incorporate the following rules into all of my contractual agreements with users: <br> {Master.PersonalData._Sec}
+
+              

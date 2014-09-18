@@ -1,8 +1,10 @@
 =[me/test/Rules]
 
+=[core/class/ID_He]
+
 Name=Dazza
-
-Date=September 12, 2014
-
-Roles={Role1}<br>{Role2}<br>{Role3}
-
+Address=Cambridge
+Role=MIT-reseracher
+gender=male
+openid=https://en.gravatar.com/site/check/dazza@civics.com
+Date=September 13, 2014
