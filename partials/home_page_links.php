@@ -6,10 +6,10 @@
 	<h4 class="subtitle">See <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/event/>some deals</a>.</h4>
 	<h4 class="subtitle">Browse <a href="https://github.com/CommonAccord/commonaccord/tree/master/Doc">the Github repo</a>.</h4>
 
-		<div class="hidden-xs hidden-sm"> <!--hide these assets on small screen -->
   			<br/><a href="#more"><img src="assets/more.png" height=75></a>
   			<br/><br /><br />
 
+		<div class="hidden-xs hidden-sm"> <!--hide these assets on small screen -->
  			<div id="code" class="jtitle">
  			 {Bringing} legal relationships into the personal data store.<br/>
   			Bringing = Codifying legal documents to bring

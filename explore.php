@@ -1,4 +1,4 @@
-
+<div class="container">
 
 <table class="responsive">
    <hr><h1 class="title">Structured legal relationships.</h2>
@@ -50,10 +50,9 @@
 
 	</table>
 	</table>
-
+</div>
 <style>
 	#filelist { 
 		display: none;
 	}
 </style>
-<?include("footer.php"); ?>

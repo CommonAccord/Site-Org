@@ -1,14 +1,4 @@
-<head>
-  <link rel="stylesheet" href="//code.jquery.com/ui/1.11.1/themes/smoothness/jquery-ui.css">
-  <script src="//code.jquery.com/jquery-1.10.2.js"></script>
-  <script src="//code.jquery.com/ui/1.11.1/jquery-ui.js"></script>
-  <script>
-  $(function() {
-    $( "#tabs" ).tabs();
-  });
-  </script>
-</head>
-
+<div class="container">
 <?
 
 //This displays the path, current file name, and provides the edit and show options //
@@ -33,7 +23,7 @@ echo "Root directory: <a href=$_SERVER[PHP_SELF]?action=list&file=$rootdir[dirna
 <div id="tabs-1">
 
 <!--table formatting for the document -->
-<table class='table table-bordered table-condensed table-striped ';>
+<table class="TFtable";>
 <?php 
 foreach($contents as $n) {
         list($k, $v) = array_pad( explode ("=", $n, 2), 2, null);
@@ -59,19 +49,13 @@ foreach($contents as $n) {
 
 <div id="tabs-2">
 <? 
-	if(isset($_REQUEST['submit'])) {
-	}
-	if(isset($_REQUEST['file'])){
-	}
-
 
 	echo `perl parser2.pl $path/$dir`;
 	#system("perl parser2.pl $path/$dir  > $path/Output999.html");
 	#echo file_get_contents("Output999.html", FILE_USE_INCLUDE_PATH);
-	if(isset($_REQUEST['file'])){
 
-	} 
-   
+
+
 ?>
 </div>
 
@@ -94,5 +78,4 @@ echo '  </textarea><br>
 
 </div></div>
 
-
-<?php include("footer.php"); ?>
+</div>

@@ -74,4 +74,10 @@ sub expand_fields  {
 
 
 
-print " ".parse($ARGV[0], "Model.Root");
+my $output  = parse($ARGV[0], "Model.Root");
+print $output;
+print "<br><br><hr><br><br>";
+print "<div id='missing'><p><h3 class='subtitle2'>Missing parameters:</h3>";
+my @arr = $output=~/\{([^}]+)\}/g;
+print "$_=<br>" foreach @arr;
+print "</p></div>";

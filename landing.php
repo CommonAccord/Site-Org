@@ -1,13 +1,43 @@
-<body style="background:lightgray">
 
 <body>
   <div class="container">
     <div class="row">
      <div class = "col-xs-12" id ="containerHome" style="padding:50px">
 
-        <? include('partials/home_page_about.php') ?> <!--grab the links from a partial -->
-        <? include('partials/home_page_links.php') ?> <!--grab the links from a partial -->
-    <br>
+        
+	 <p align="center"><img src="assets/cmacc-trans.png" style="width:75%" /></p>
+<br/>
+<hr>
+<h1 class="title">CommonAccord is an open source software<br/> and law project.</h1>
+<hr>
+<h3 class="title">We are lawyers and programmers working together<br/> to create a global template system of codified legal texts.</h4>
+<br/><br/>
+
+<!--
+                        <div id="code" class="jtitle">
+                         We are <b>{</b>Bringing<b>}</b> legal relationships into the personal data store.<br/>
+                        <b>Bringing</b> = Codifying legal documents to bring
+                        </div>
+!-->
+<div id="code" align="center">
+<a href="<?=$_SERVER['PHP_SELF']?>?action=demo"><img  src="assets/learn.jpg"></a>
+</div>
+
+    <div id="info-more">
+
+        <h4 class="subtitle">Explore <a href=<?=$_SERVER['PHP_SELF']?>?action=explore>the template system.</a></h4>
+        <h4 class="subtitle">Learn <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/about/how/>how it works</a>.</h4>
+        <h4 class="subtitle">See <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/event/>some deals</a>.</h4>
+        <h4 class="subtitle">Browse <a href="https://github.com/CommonAccord/commonaccord/tree/master/Doc">the Github repo</a>.</h4>
+
+                        <br/><a href="#more"><img src="assets/more.png" height=75></a>
+                        <br/><br /><br />
+
+
+</div> 
+
+
+<br>
 
     </div> <!--end containerHome !-->
    </div><!--end row !-->
@@ -15,7 +45,7 @@
 
 <br>
       
-<div class="container " >
+<div class="container" >
       
      <div class="col-sm-4 aboutBox" id="more" >
           <h2 class="title">The Challenge</h2>
@@ -32,7 +62,7 @@
           <hr>
          <h4 class="jtitle"> Make contract documents sufficiently 'modular' that much of the text disappears</h4>   
 <hr>
-              <p>We are building  a modular template system which, after having been fed with specific parameters, can be rendered into both technical ‘dry’ code (i.e. self-contained code snippets) and legal ‘wet’ code (i.e. specific contractual provisions translating the code snippets into legalese) whose overall structure can be established directly through the CommonAccord template system.</p>
+              <p>We are building  a modular template system which, after having been fed with specific parameters, can be rendered into both technical "dry" code (i.e. self-contained code snippets) and legal "wet" code (i.e. specific contractual provisions translating the code snippets into legalese) whose overall structure can be established directly through the CommonAccord template system.</p>
 
           <p> Ideally, this would allow for the dynamic creation of sophisticated and highly customized smart-contracts, which are automatically rendered into a legal document enforceable between the parties. 
 </p>  
@@ -55,4 +85,3 @@
   </div><!--end containerContent !-->
 </body><!-- end body !-->
 
-<?php include("footer.php"); ?>
