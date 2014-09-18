@@ -3,7 +3,7 @@
  <div class = "col-lg-12"  >
 
 <p align="center">
-<img src="assets/cmacc-trans.png"  height="100px" />
+<img src="assets/cmacc-trans.png"  height="75px" />
 </p>
 
 
@@ -16,7 +16,7 @@ if(! ($dir == 'Doc/')) {
         //echo "Rootdir: <a href=$_SERVER[PHP_SELF]?action=list&file=".$rootdir['dirname']."/>".$rootdir['dirname']."</a><br>";
 
 	
- echo "<hr><div id='updir'><h3 class='sc'><a href=$_SERVER[PHP_SELF]?action=list&file=".$rootdir['dirname']."/>".$rootdir['dirname']."</a><img src='assets/arrowup.png' height=25><h3></div>";
+ echo "<hr><div id='updir'><img src='assets/arrowup.png' height=25><h3 class='sc subtitle'><a href=$_SERVER[PHP_SELF]?action=list&file=".$rootdir['dirname']."/>".$rootdir['dirname']."</a><h3></div>";
 
    echo "<h2 class='sc subtitle2'> $dir</h3>";
 }
