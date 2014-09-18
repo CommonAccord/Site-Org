@@ -3,9 +3,10 @@ Model.Root={_Sec}
 _Sec=<u>Personal Data Provided to Supplier</u>. <ol><li>{Engage._Sec}</li></ol>
 
 Engage._Sec=In the event that {Supplier} accesses or otherwise {Processes} any {Company Personal Data} during its performance of the Agreement, it shall comply with the following obligations regarding {Company Personal Data}: <ol><li>{Engage.NeedToDo._Sec}</li><li>{Engage.Conf._Sec}</li><li>{Engage.Care._Sec}</li><li>{Engage.CareByStaff._Sec}</li><li>{Engage.Comply._Sec}</li><li>{Engage.Halt._Sec}</li></ol>
-    
+
 <b>NB</b>=Redundant with second sentence of Engage.Conf._Sec.
 
+  
 Engage.NeedToDo._Sec={Supplier} shall view and {Process} {Company Personal Data} only to the extent necessary to perform this Agreement or upon Company's written instructions.
 
 Engage.Conf._Sec={Supplier} undertakes to keep {Company Personal Data} confidential, and agrees to not disclose {Company Personal Data} to third parties without having first received express received written approval from {Company}.&ensp; {Supplier} and {Supplier's Personnel} shall {Process} {Company Personal Data} only on a need-to-know basis, regarding the performance of this Agreement and any PO or SOW issued pursuant to this Agreement.
