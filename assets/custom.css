@@ -3,7 +3,7 @@ div, p {
 }
 
 #textedit {
-	background-color: snow; 
+	background-color: #eee; 
 	font-family: "Verdana, Geneva, sans-serif";
 	border-radius: 10px;
 }
@@ -15,49 +15,120 @@ hr
 
 }
 
+#pw { top: 10px; right: 25px; position: absolute; color:white; 
+    font-family: "Times New Roman", Georgia, Serif;
+        font-variant: small-caps; }
 
-#containerHome, #containerContent {
-
-	border:1px solid lightgray;
+#containerHome, .aboutBox {
+	border: 1px gray solid;
 	border-radius: 15px;
-	height:100%;
-	width:100%;
-	overflow:auto;	
-	margin-left:2;
-	margin-right:2;
-	margin-bottom: 10px;
-	font-family: 'Josefin Slab', serif;
-	font-weight:800;
-	background:white;
-	padding:100px;
-	-webkit-box-shadow: -9px 10px 35px -2px rgba(0,0,0,0.99);
--moz-box-shadow: -9px 10px 35px -2px rgba(0,0,0,0.99);
-box-shadow: -9px 10px 35px -2px rgba(0,0,0,0.99);
 }
 
-.aboutBox{
-	padding:20px;
-border-radius: 15px;
-background:white;
--webkit-box-shadow: -9px 10px 35px -2px rgba(0,0,0,0.99);
--moz-box-shadow: -9px 10px 35px -2px rgba(0,0,0,0.99);
-box-shadow: -9px 10px 35px -2px rgba(0,0,0,0.99);	
-margin-bottom:10px;
- font-family: 'Josefin Slab', serif;
- font-weight:400;
+.aboutBox { 
+	width: 360px; 
+	margin: 7px;
+	margin-bottom: 20px;
 }
 
 .title, .subtitle, .jtitle {
-	 font-family: 'Josefin Slab', serif;
+	font-family: "Times New Roman", Georgia, Serif;
 	font-variant: small-caps;
-	font-weight:600;
 }
 .subtitle {
- font-family: 'Josefin Slab', serif;
 	text-align: right;
+}
+.subtitle2 {
+	font-variant: small-caps;
+	text-align: left;
+}
+
+.sc {
+font-variant: small-caps;
+}
+
+h1, h2, h3, h4 
+
+{
+	font-family: "Times New Roman", Georgia, Serif;
+	text-align: center;
 }
 
 
-#button-try { float:left; padding-left: 25%;  }
+
+	.TFtable{
+	margin-bottom: 10px;
+	}
+
+	.TFtable td{ 
+		padding-top:7px; 
+	}
+	/* provide some minimal visual accomodation for IE8 and below */
+	.TFtable th{
+		padding-right: 18px;
+		border-right: 1px gray solid;
+	}
+
+	/*  Define the background color for all the ODD background rows  */
+	.TFtable tr:nth-child(odd){ 
+		border-bottom: 1px lightgray solid;
+	}
+	/*  Define the background color for all the EVEN background rows  */
+	.TFtable tr:nth-child(even){
+	}
+	.TFtable tr a { color: steelblue; }
+
+
+
+
+.listings {
+	border: solid 1px darkgrey;
+	border-radius: 15px;
+	padding-left: 15px;
+	margin-bottom: 20px;
+	padding-bottom:20px;
+}
+#content-list a {
+	padding: 15px;
+	width: 100%;
+}
+#content-list img {
+margin: 5px;
+}
+
+#updir {
+	font-family: "Times New Roman", Georgia, Serif;
+        font-variant: small-caps;
+	text-align: right;
+}
+#updir  h3 {
+	display: block;
+	text-align: right;
+}
+#updir img { padding-left: 10px;}
+
 #info-more { float: right; text-align: right; }
-#code { border: solid darkgray 1px;float: left; font-size: 16px; border-radius:5px; padding:25px;}
+#code {
+	float: left;
+	margin-left: 40%;
+}
+#header {
+	margin-top: 90px;
+}
+
+#footer, #footer a {
+
+	margin-top: 20px;
+	padding: 5px;
+	padding-top: 18px;
+	background-color: black;
+	color: white;
+	width: 100%;
+}
+html, body { height: 100%; }
+#wrapper { padding:0; margin: 0;min-height: 100%;  background-color:white}
+#footer {
+	height: 80px;
+	bottom:0;
+}
+
+#missing { border: deeppink 1px solid; border-radius: 15px; padding-left: 20px;}

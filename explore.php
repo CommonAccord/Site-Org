@@ -1,4 +1,4 @@
-
+<div class="container">
 
 <table class="responsive">
     <h3 class="title">&#10003; Codified Documents</h3>
@@ -50,10 +50,9 @@
 </tr>
 	</table>
 	</table>
-
+</div>
 <style>
 	#filelist { 
 		display: none;
 	}
 </style>
-<?include("footer.php"); ?>
