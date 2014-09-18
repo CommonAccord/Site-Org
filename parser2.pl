@@ -9,6 +9,7 @@ use warnings;
 use strict;
 
 my %remote;
+my $remote_cnt = 0;
 
 my $path = "./Doc/";
 my $orig;
@@ -42,17 +43,16 @@ sub parse_root {
 		my($part,$what);	
 		if( (($part, $what) = $_ =~ /^([^=]*)=\[(.+?)\]/) and ($field =~ s/^\Q$part\E//) ) {
 			$part = $oldpart . $part if $oldpart;
-			
-			if($what =~ s/^\?//) {
-				if(! $remote{$path.$what}) {
-					print "-------<br>";
-					`curl '$what' > '$what'`;
-					$remote{$path.$what} = 1;
-				} else { print "***"; }	
+			if($what =~ s/^\?//) { 
+				if(! $remote{$path.$what}) {  $remote_cnt++;
+					`curl '$what' > '$path/tmp$remote_cnt.cmacc'`;
+					$remote{$path.$what} = "$path/tmp$remote_cnt.cmacc";
+				}
+				$root = parse($remote{$path.$what}, $field, $part);
 			}
-			
-			$root = parse($path.$what, $field, $part);
-			
+			else {
+				$root = parse($path.$what, $field, $part);
+			}
 			return $root if $root;
 		}
 	}
@@ -81,3 +81,7 @@ print "<div id='missing'><p><h3 class='subtitle2'>Missing parameters:</h3>";
 my @arr = $output=~/\{([^}]+)\}/g;
 print "$_=<br>" foreach @arr;
 print "</p></div>";
+
+
+#clean up the temporary files (remote fetching)
+`rm $_` for values %remote;

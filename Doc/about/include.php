@@ -1,5 +1,5 @@
 <style>
-	#filelist { 
+	.listings { 
 		display: none;
 	}
 </style>
@@ -52,4 +52,3 @@
 	</table>
 	</table>
 </div>
-<? include('footer.php') ?>
