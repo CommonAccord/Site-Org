@@ -3,7 +3,7 @@
 <table class="responsive">
     <h3 class="title">&#10003; Codified Documents</h3>
    <h3 class="title">&#10003; Structured Relationships</h3>
-   <h3 class="title">&#10003;  Personal Data Stores</h3>
+   <h3 class="title">&#10003;  Ready for Personal Data Stores</h3>
      
 
    <p>Relationships can be expressed and codified as cards.
