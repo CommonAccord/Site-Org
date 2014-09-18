@@ -53,7 +53,7 @@
    <h4 class="jtitle">To eliminate rehashing and needless inconsistency in law.</h4>
           <hr>
    <p>The legal system runs on text. Nearly all legal text is a copy or rework of something already existing. Our current technologies fail to make these connections.  This creates needless work, cost, delay, risk and legal confusion.</p>
-                  
+          <br>        
 
     </div> <!--end col-sm-4 !-->
 
@@ -62,14 +62,7 @@
           <hr>
          <h4 class="jtitle">The simplest possible programming language</h4>   
 <hr>
-<<<<<<< HEAD
    <p>We have created a modular template system of text cards that relies on {expansion} of strings and [expansion] of cards.  Period.  People can program their relationships.  Lawyers can codify boilerplate.  Management can have a data picture of the enterprise's relationships, situation and activities.   Smart contracts can be both technical &ldquo;dry&rdquo; code (i.e. self-contained code snippets) and legal &ldquo;wet&rdquo; code.</p>
-=======
-              <p>We are building  a modular template system which, after having been fed with specific parameters, can be rendered into both technical "dry" code (i.e. self-contained code snippets) and legal "wet" code (i.e. specific contractual provisions translating the code snippets into legalese) whose overall structure can be established directly through the CommonAccord template system.</p>
-
-          <p> Ideally, this would allow for the dynamic creation of sophisticated and highly customized smart-contracts, which are automatically rendered into a legal document enforceable between the parties. 
-</p>  
->>>>>>> FETCH_HEAD
       <br>
 
         </div><!--end col-sm-4 !-->
@@ -82,7 +75,7 @@
                <p>Lawyers can focus on advocacy and counseling clients.  Citizens and business managers can get to yes quicker and know their situation better with an assurance of a stable legal base upon which to build.  Smart contracts can operate both technically and legally. </p>
 
           <p>Contract and legal text becomes cards of text, interoperating, in git, shared, forked, tested and improved.</p>
-
+<br>
        </div><!--end col-sm-4 !-->
         
     </div><!--end col-sm-4 !-->
