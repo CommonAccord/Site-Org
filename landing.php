@@ -5,7 +5,7 @@
      <div class = "col-xs-12" id ="containerHome" style="padding:50px">
 
         
-	 <p align="center"><img src="assets/cmacc-trans.png" style="width:75%" /></p>
+	 <p align="center"><img src="assets/cmacc-trans.png" style="width:65%" /></p>
 <br/>
 <hr>
 <h1 class="title">CommonAccord is an open source software<br/> and law project.</h1>
