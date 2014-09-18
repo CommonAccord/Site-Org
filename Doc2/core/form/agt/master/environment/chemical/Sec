@@ -1,0 +1,5 @@
+Good.=[core/form/agt/master/environment/chemical/Good]
+
+Bad.=[core/form/agt/master/environment/chemical/Bad]
+
+Hazardous.=[core/form/agt/master/environment/chemical/Hazardous]

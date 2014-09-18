@@ -8,6 +8,8 @@
 use warnings;
 use strict;
 
+my %remote;
+
 my $path = "./Doc/";
 my $orig;
 
@@ -42,8 +44,11 @@ sub parse_root {
 			$part = $oldpart . $part if $oldpart;
 			
 			if($what =~ s/^\?//) {
-				system "curl '$what' > $path/.tmp.cmacc";
-				$what = '.tmp.cmacc';
+				if(! $remote{$path.$what}) {
+					print "-------<br>";
+					`curl '$what' > '$what'`;
+					$remote{$path.$what} = 1;
+				} else { print "***"; }	
 			}
 			
 			$root = parse($path.$what, $field, $part);

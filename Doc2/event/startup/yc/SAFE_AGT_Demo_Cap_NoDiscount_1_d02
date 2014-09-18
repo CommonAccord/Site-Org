@@ -1,0 +1,12 @@
+=[event/startup/yc/SAFE_AGT_Demo_Cap_NoDiscount_1_d01]
+
+Changed Terms=
+
+Purchase_Amount.$=<b>$60,000</b>
+
+AGT.Effective.YMD=<b>August 28, 2014</b>
+
+Payment.YMD=<b>September 4, 2014</b>
+
+SAFE.Valuation_Cap.$=<b>$2,500,000</b>
+			

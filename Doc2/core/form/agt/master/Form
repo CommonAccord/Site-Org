@@ -1,0 +1,71 @@
+=[core/class/AGT_Frame]
+
+=[core/form/agt/master/Xnum_Library]
+
+Engage.=[core/form/agt/master/Engage_Library]
+
+Term.=[core/form/agt/master/Term_Library]
+
+Staff.=[core/form/agt/master/Staff_Library]
+
+Compensation.=[core/form/agt/master/Compensation_Library]
+
+Confidential.=[core/form/agt/master/Confidential_Library]
+
+IP.=[core/form/agt/master/ip/IP_Sec]
+
+PersonalData.=[core/form/agt/master/personaldata/PD_Sec]
+
+TangibleProperty.=[core/form/agt/master/TangibleProperty_Library]
+
+Test.=[core/form/agt/master/Test_Library]
+
+Warrant.=[core/form/agt/master/Warrant_Library]
+
+Assure.=[core/form/agt/master/Assure_Library]
+
+Relate.=[core/form/agt/master/Relate_Library]
+
+Comply.=[core/form/agt/master/Comply_Library]
+
+Environment.=[core/form/agt/master/environment/Sec]
+
+Conflict.=[core/form/agt/master/Conflict_Library]
+
+Expire.=[core/form/agt/master/Expire_Library]
+
+Limit.=[core/form/agt/master/Limit_Library]
+
+Release.=[core/form/agt/master/Release_Library]
+
+Dispute.=[core/form/agt/master/Dispute_Library]
+
+Notice.=[core/form/agt/master/Notice_Library]
+
+Miscellaneous.=[core/form/agt/master/Miscellaneous_Library]
+
+=[core/form/agt/master/Definition_Library]
+
+Company=Company
+
+Model.Root={AGT.DocBody}
+
+AGT.DocBody={AGT.Prologue}{AGT.Secs._Lost}{AGT.Sign}<br>{AGT.Attach}
+
+AGT.Prologue=<div><center>{Prologue.Heading}</center></div><p><br>{Prologue.Intro}</p>
+
+Prologue.Heading=<strong>{AGT.Title}</strong><br> as of: {AGT.Effective.YMD} (&ldquo;{Effective Date}&rdquo;)<br>between {P1.Name.Full} and {P2.Name.Full}
+
+Prologue.Intro=This Master Services Agreement (&ldquo;MSA&rdquo; or &ldquo;Agreement&rdquo;) is entered into as of {AGT.Effective.YMD} (&ldquo;Effective Date&rdquo;) by and between {P1.ParentAndSub} (&ldquo;{Company}&rdquo;) and {P2.N,E,A}, (&ldquo;Supplier&rdquo;).&nbsp; <br>
+
+AGT.Secs._Lost= <ol><li>{Engage._Sec}</li><li>{Term._Sec}</li><li>{Staff._Sec}</li><li>{Compensation._Sec}</li><li>{Confidential._Sec}</li><li>{IP._Sec}</li><li>{PersonalData._Sec}</li><li>{TangibleProperty._Sec}</li><li>{Test._Sec}</li><li>{Warrant._Sec}</li><li>{Assure._Sec}</li><li>{Relate._Sec}</li><li>{Comply._Sec}</li><li>{Environment._Sec}</li><li>{Conflict._Sec}</li><li>{Expire._Sec}</li><li>{Limit._Sec}</li><li>{Release._Sec}</li><li>{Notice._Sec}</li><li>{Dispute._Sec}</li><li>{Miscellaneous._Sec}</li><li>{Definition._Sec}</li></ol>
+
+Notice.Block=<table><tbody><tr><td>{P1.Notice.Block}</td><td width="100"></td><td>{P2.Notice.Block}</td> </tr></tbody></table>
+
+AGT.Sign={Sign.Witness}<br>{Sign.Block}
+
+Signature.Witness=In Witness Whereof, the parties hereto have caused this Agreement to be executed by their respective authorized representatives as of the date first written above.
+
+AGT.Attach=<hr><hr><center><b>Exhibit {AGT.Exh.A}</b></center><hr><hr><center><b>Exhibit {AGT.Exh.B}</b></center><hr><hr><center><b>Exhibit {AGT.Exh.C}</b></center><hr><hr><center><b>Exhibit {AGT.Exh.D}</b></center>
+
+		

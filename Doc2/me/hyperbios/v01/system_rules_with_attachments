@@ -1,0 +1,33 @@
+
+
+/=[me/hyperbios/v01/system_rules]
+
+Att.Glossary.=[me/hyperbios/v01/attach/glossary_and_acronyms]
+Att.Links.=[me/hyperbios/v01/attach/links_to_referenced_standards]
+
+Att.Governance.=[me/hyperbios/v01/attach/governance]
+Att.Operations.=[me/hyperbios/v01/attach/operations_white_listing]
+Att.Technical.=[me/hyperbios/v01/attach/technical_architecture]
+Att.OpenID.=[me/hyperbios/v01/attach/openID_connect_architecture]
+Att.Parties.=[me/hyperbios/v01/attach/directory_of_parties]
+Att.Accreditation.=[me/hyperbios/v01/attach/accreditation_and_certification]
+
+Model.Root={_Body}  {Appendixes}
+
+Appendixes=<h3>APPENDICES and ADDENDA</h3> {Att.Glossary}{Att.Links}{Att.Governance} {Att.Operations} {Att.Technical}{Att.OpenID} {Att.Parties} {Att.Accreditation}
+
+Att.Glossary=<h4>APPENDIX 1:</h4>{Att.Glossary._Body}
+
+Att.Links=<h4>APPENDIX 2:</h4>{Att.Links._Body}
+
+Att.Governance=<h4>Addendum 1:</h4>{Att.Governance._Body}
+
+Att.Operations=<h4>Addendum 2A:</h4>{Att.Operations._Body}
+
+Att.Technical=<h4>Addendum 2B:</h4>{Att.Technical._Body}
+
+Att.OpenID=<h4>Addendum 2C:</h4>{Att.OpenID._Body}
+
+Att.Parties=<h4>Addendum 3:</h4>{Att.Parties._Body}
+
+Att.Accreditation=<h4>Addendum 4:</h4>{Att.Accreditation._Body}

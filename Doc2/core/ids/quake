@@ -1,0 +1,13 @@
+=[core/id/quake_incorporated]
+
+Contact1.=[core/id/roberta_robinson]
+
+Contact2.N/A/T/E/F=<b> </b>
+
+Notice.=[core/id/roberta_robinson]
+
+President.=[core/id/colleen_kendall]
+
+Model.Root=<ol><li>N,E,A:<br>{N,E,A}</li><li>Contact1:<br>{Contact1.Model.Root}</li><li>Contact2:<br>{Contact2.Model.Root}</li><li>Notice:<br>{Notice.Model.Root}</li><li>President.Model.Root:<br>{President.Model.Root}</li></ol>																		
+		
+													

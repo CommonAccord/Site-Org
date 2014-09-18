@@ -1,0 +1,18 @@
+=[event/escrow/Demo_Escrow_Step_1_Parties]
+
+Escrow.Sign.YMD=2014-08-13
+
+Escrow.Effective.YMD={Escrow.Sign.YMD}
+
+Product.Description=eighteen cases of grape preserves
+
+Price.$=$650.00
+
+Pickup.Time.Max=2014-08-15
+
+Delivery-Claim.Delay=24 hours
+
+Delivery-Payment.TimeSpan=48 hours
+
+Escrow.Fee.$=$1.50
+		

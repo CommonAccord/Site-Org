@@ -1,0 +1,23 @@
+=[core/class/ID_He]
+
+=[core/at/USA/MA/Middlesex/Cambridge/Broadway/1/Geo]			
+
+Name.First=Dazza
+
+Name.Middle=(Daniel)
+
+Name.Last=Greenwood
+
+Name.Dr=JD
+
+Addr.1={Addr.Street.#} {Addr.Street}, 14th Floor
+
+Full.Name={Name.FM}
+
+Addr.Type=temporary
+
+Twitter.Followers=524
+
+www=civics.org
+
+		
