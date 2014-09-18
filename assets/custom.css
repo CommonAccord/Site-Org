@@ -1,3 +1,13 @@
+div, p {
+	font-family: "Verdana, Geneva, sans-serif";
+}
+
+#textedit {
+	background-color: snow; 
+	font-family: "Verdana, Geneva, sans-serif";
+	border-radius: 10px;
+}
+
 
 hr 
 {

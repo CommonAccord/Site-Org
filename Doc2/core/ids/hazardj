@@ -1,0 +1,9 @@
+=[core/id/hazardj]
+
+Mail.=[core/at/USA/MA/Middlesex/Cambridge/Broadway/1/Geo]
+
+Reside.=[core/id/hazardj]
+
+Model.Root=<ol><li>N,E,A:<br>{N,E,A}</li><li>Reside:<br>{Reside.Model.Root}</li><li>Mail:<br>{Mail.Model.Root}</li></ol>																		
+		
+																						

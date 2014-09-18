@@ -1,0 +1,18 @@
+Model.Root={ThisIsOurAgreement}	
+
+ThisIsOurAgreement={Prologue}<br>{Date}<br>{Agreement}<br>{Name}
+
+
+Agreement={Gen}<br>{Roles}
+
+Gen=All participants in the System must:
+
+Roles={Role1}<br>{Role2}<br>{Role3}
+
+Role1=The Role 1 Function	
+
+Role2=The Role 2 Function	
+
+Role3=The Role 3 Function	
+
+

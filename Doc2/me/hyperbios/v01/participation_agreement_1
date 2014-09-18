@@ -1,0 +1,11 @@
+Rules.=[me/hyperbios/v01/system_rules_with_attachments]
+
+We can structure the contact info:
+
+OpenID.=[core/ids/mitre_openid]
+
+
+We can reach into a doc and pull out a section
+
+Model.Root={Rules.Model.Root}
+

@@ -1,0 +1,22 @@
+=[core/class/Doc_Table]
+
+
+Model.Root=<center><b>ASSIGNMENT</b></center><br><br>{Assign.Patent}<br><br>{Assign.ForOffices}<br><br>{WillSign}<br><br>{AuthorizeCommissioner}<br><br>{Power}<br><br>{Signature}
+
+
+Assign.Patent=I, <b>{P2.N,A}</b>, in consideration of One Dollar and other valuable consideration paid to me by<br><br><b>{P1.N,E,A}</b>,<br><br>the receipt of which is hereby acknowledged, do hereby sell, assign and transfer unto said<br><br><b>{P1.Name.Full}</b></b><br><br>its successors and assigns, the entire interest for the United States of America and all foreign countries including all rights of priority under the International Convention for the Protection of Industrial Property in a certain invention or improvement in<br><br><b>{Patent.1.Title}</b><br><br>described in:<br><br>Application No. <b>{Patent.1.Application.number}</b> filed on <b>{Patent.1.Filing.date}</b>
+
+Assign.ForOffices=in the United States Patent and Trademark Office, and in all Letters Patent of the United States and all foreign countries which may or shall be granted on said invention, or any parts thereof, or on said application, or any divisional, continuing, reissue or other applications based in whole or in part thereon{.}  
+
+WillSign=And I agree, for myself and my executors and administrators, with said Corporation and its successors and assigns but at its or their expense and charges, hereafter to execute all applications, amended specifications, deed or other instrument, and to do all acts necessary or proper to secure the grant of Letters Patent in the United States and in all other countries to said corporation, with specifications and claims in such form as shall be approved by the counsel of said Corporation and to vest and confirm in said corporation, its successors and assigns, the legal title to all such patents.
+
+AuthorizeCommissioner=And I do hereby authorize and request the Commissioner of Patents and Trademarks of the United States to issue such Letters Patent as shall be granted upon said application or applications based thereon to said corporation, its successors and assigns.
+
+Power=And I do further hereby grant the attorneys/agents of <b>{P1.Atty.N,E,A}</b>, the power to insert on this Assignment the filing date and/or application number of said application.
+ 
+
+
+Signature={ttr25%-}Name:{-td-} <b>{P2.Name.Full}</b>{-tr-}Signature:{-td-}{P2.xSignature}{-td-}Date:{-td-}{P2.Sign.YMD}{-tr-}Residence Address:{-td-}{P2.Reside.Addr.1,2,Nation}{-td-}Citizenship:{-td-}{P2.Nationality}{-tr-}Correspondence Address:{-td-}{P2.Mail.Addr.1,2,Nation}{-tr-}{-tr-}Witnessed by (printed name):{-td}{td25%-}{Witness.N,E,A}{-tr-}Witness Signature:{-td-}{Witness.xSignature}{-td-}Date:{-td-}{Witness.Sign.YMD}{-ttr}  
+
+
+

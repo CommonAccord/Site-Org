@@ -1,0 +1,30 @@
+This is a couple of links for privacy. 
+
+Click "Show the Document" to see the def and the section presented together:
+
+<p>=SectionOnPrivacy
+PersonalInfo.=[core/form/agt/master/PersonalInfo_Library]
+
+<p>=DefinitionsSection
+
+Def.=[core/form/agt/master/Definition_Library]
+
+<p>=Whole Doc
+
+=[core/form/agt/master/Form]
+
+<p>=Example of Use
+
+=[event/master/Acme-Quake_MasterServices_Demo_1_d01]
+
+Privacy is closely related to NDAs:
+
+<p>=From a Research Agreement
+
+Research.=[core/eal/mit/A_Doc_List]
+
+
+Model.Root=<ol><li>Def.Personal_Data:<br> {Def.Personal_Data}</li><li>Def.Proprietary_Information:<br> {Def.Proprietary_Information}</li><li>PersonalInfo._Sec:<br> {PersonalInfo._Sec}
+
+
+							

@@ -1,0 +1,13 @@
+Equity.Rule={Base.Equity.Rule}
+
+Equity.Form.Docs.Stock={Base.Equity.Form.Docs.Stock}
+
+Equity.Form.Stock={Base.Equity.Form.Stock}
+
+Def.Equity_Financing={Base.Def.Equity_Financing}
+
+Def.Liquidity_Price={Base.Def.Liquidity_Price}
+
+Def.Subsequent_Convertible_Securities={_delete_}
+
+Sec.MFN={_delete_}

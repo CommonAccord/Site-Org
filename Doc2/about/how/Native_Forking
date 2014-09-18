@@ -1,0 +1,19 @@
+Forking=<b>Forking</b>. is the software community's work for taking something that exists and doing something new with it.
+
+CopyFork=<b>CopyFork</b>.A fork can be done by making a copy of the content and working on it.  Disconnecting it from the source.  (That, actually, is how the legal community works documents.  Each draft is a complete copy, disconnected from the prior.)
+
+GitFork=<b>GitFork</b>. Git treats all work as a fork.  It makes a copy of the work.  But it keeps a backtrace- a link to the source.  (A link, which, btw, can't become confused.)  So the author of the new work can treat it as a version.  And merge the new work with the source (improving it), or presenting it as the next version.  It eliminates the problems of version control as lawyers know them.
+
+NativeFork=<b>NativeFork</b>.There is a native way to express the relationships among things in CommonAccord.  You reference the source and then override to express the differences.  This has advantages. The relationships are expressly labeled, and can be counted and calculated.  It builds up like a portfolio and is expressed as urls. There is a RESTful aspect to it. 
+
+How=To create a new use, version, or variant of something, create a new file and reference the prior one as
+
+Doc.Meta=Go ahead, make a new page, point at this one and fork it.
+
+Next=[about/how/Native_Forking_Improved]
+
+Model.Root={Doc.Meta}<br>{FeedMe!}<br>{Forking}<br>{CopyFork}<br>{GitFork}<br>{NativeFork}<br>{How} 
+
+
+
+ 			

@@ -1,0 +1,44 @@
+
+=[core/form/agt/startup/500/Delta_KISS_Debt]
+
+=[core/form/agt/startup/500/Form_KISS_Base]
+
+Co.=[core/id/quake_incorporated]
+
+Investor.=[core/id/acme_incorporated]
+
+Co.Handle=Company
+
+Investor.Handle=Investor
+
+Series.X=<b>B</b>
+
+PurchasePrice.$=$60,000
+
+Issuance.YMD=August 29, 2014
+
+Interest.(%)=<b>four percent (4%)</b>
+
+Maturity.Date.Months=<b>18</b>
+
+NextEquity.Financing.$=<b>$1,000,000</b>
+
+Valuation.Cap.$=<b>$25,000,000</b>
+
+MajorInvestor.Threshold.$=<b>$50,000</b>
+
+Corporate_Transaction_Payment.$=$10,000,000
+
+
+
+Co.Sign.YMD=<b>August 22, 2014</b>
+
+Co.xSignature=<b>x C Kendall</b>
+
+Investor.Sign.YMD=August 23, 2014
+
+Investor.xSignature=<b>x A Ang</b>
+
+Share.Discount.%=<b>eight percent (8%)</b>
+
+	

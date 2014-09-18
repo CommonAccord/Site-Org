@@ -1,0 +1,36 @@
+=[core/class/ID_Entity]
+
+Register.Agent.=[core/id/the_corporation_company]
+
+Name.Full=Acme Inc.
+
+
+Email=info@acme.com
+
+entity=Delaware corporation
+
+Register.State=Delaware
+
+Register.Law.Corp.Title=Delaware General Corporation Law
+
+Phone=617.716.4536
+
+Fax=617.345.1234
+
+Addr.1=811 Waterfront Road
+
+Addr.2=Boston, MA  02210
+
+Addr.Type=principal business
+
+Notice.Name.Ms={President.Name.Full}, {President.Title}
+
+SignBy=By: <u>{xSignature}</u><br/>Name: {President.Name.Full}<br/>Its: {President.Title}
+
+President.=[core/id/andrea_ang]
+
+President.Title=President
+
+Notice.Name,Title={President.Name.Full}, {President.Title}
+				
+						
