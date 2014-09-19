@@ -1,6 +1,9 @@
-Model.Root={_Sec}
+See= the set of Defined Terms at [core/form/agt/master/Definition_Terms]
+
+Model.Root={Definition._Sec}
 
 stet.=[core/form/agt/master/Definition_Terms]
+
 Definition._Sec=<u>Definitions</u>.<br>&nbsp {Definition.Intro}:<ol><li>{Def.Affiliate}</li><li>{Def.Company}</li><li>{Def.Company_Affiliate}</li><li>{Def.Company_Personal_Data}</li><li>{Def.Company_Property}</li><li>{Def.Data_Subjects}</li><li>{Def.Intellectual_Property}</li><li>{Def.IP_Rights}</li><li>{Def.Personal_Data}</li><li>{Def.Processing}</li><li>{Def.Proprietary_Information}</li><li>{Def.Software_Materials}</li><li>{Def.Software_Product}</li><li>{Def.Supplier}</li><li>{Def.Supplier_Affiliate}</li><li>{Def.Supplier's_Intellectual_Property}</li><li>{Def.Supplier's_Personnel}</li><li>{Def.Supplier's_Reserved_Intellectual_Property}</li><li>{Def.Third_Party_Intellectual_Propery}</li></ol>
 
 Definition.Intro=The following capitalized terms used in this Agreement have the following meanings

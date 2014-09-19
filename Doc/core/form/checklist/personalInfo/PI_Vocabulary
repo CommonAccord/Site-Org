@@ -1,0 +1,7 @@
+=[core/class/Doc_Table]
+
+Patient=Patient
+
+Provider=Provider
+
+Physician=Physician
