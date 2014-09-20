@@ -1,8 +1,10 @@
-USA.=[core/form/checklist/personalInfo/USA_PI_List]
+Nation.=[core/form/checklist/personalInfo/USA_PI_List]
 
-State=Oregon
+State.=[core/form/checklist/personalInfo/USA_OR_PI_List]
 
-Model.Root={ol-}{USA.Reqs}{-li-}{Reqs}{-ol}
+=[core/class/Doc_Table]
+
+Model.Root={ol-}Nation Reqs:{br}{Nation.Reqs}{br}{Nation.}{-li-}{State.Reqs}{-ol}
 
 Texts={Text1}
 
