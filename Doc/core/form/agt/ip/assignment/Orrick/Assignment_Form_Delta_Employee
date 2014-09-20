@@ -1,0 +1,55 @@
+<b>For Employee</b>=The Orrick docs use the first person.  
+Employee/Consultant=Employee
+
+employment/consulting=employment
+reemploys/reengages=reemploys me or engages me as a consultant
+I/C=I
+I/C+=I
+my/C=my
+My/C=My
+me/C=me
+mine/C-mine
+mine/C=mine
+me/C+=me
+me/C+inRelationship=me
+my/C assigns={my/C} heirs, executors, administrators and other legal representatives, and {my/C} successors and assigns
+/s=
+/es=
+my/its=my
+my/C's=my
+I have/C has=I have
+
+have/has=have
+am/is=am
+y/ies=y
+do/does=do
+us/them=us
+
+relationship=employment
+
+employment/engagement=employment
+
+becoming/continuing=<b>{? becoming/continuing}  employed (or {my/C} employment being continued)</b>
+
+becoming=my becoming employed
+
+continuing=my employment being continued
+
+
+my obligations/C Services=my  obligations to {the Company} under {the Relationship}
+
+I obtain/C obtains=I obtain, access or create
+former employer(s)=former employers and clients
+
+during the period of the Relationship=during the period of {the Relationship}
+
+Invent.Assign.WorkForHire/={Invent.Assign.WorkForHire}
+
+Emp.At-Will._Sec/Consult.NoChange._Sec={Emp.At-Will._Sec}
+
+Rep.NoConflict._Sec={Emp.Rep.NoConflict._Sec}
+
+Misc.Sever._Sec={Emp.Misc.Sever._Sec}
+
+Misc.Entire.Add._cl={Misc.Entire.EmpIsOfficer._cl}
+Agt.Attachment={Emp.Agt.Attachment}

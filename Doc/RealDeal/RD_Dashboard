@@ -1,0 +1,18 @@
+=[core/class/Doc_Table]
+
+RealDeal Dashboard:=
+
+Description of the Company:
+
+BusDev.=[RealDeal/IDs/RD_Luke_Chellis]
+
+CEO.=[RealDeal/IDs/RD_Dazza_Greenwood]
+
+VPEngin.=[RealDeal/IDs/RD_William_Kim]
+
+Secretary.=[RealDeal/IDs/RD_James_Hazard]
+
+Magic.=[RealDeal/IDs/RD_yaoeo]
+
+
+Model.Root={ol-}{CEO.Name.Full}, {CEO.Title}{-li-}{BusDev.Name.Full}, {BusDev.Title}{-li-}{Secretary.Name.Full}, {Secretary.Title}{-li-}{VPEngin.Name.Full}, {VPEngin.Title}{-li-}{Magic.Name.Full}, {Magic.Title}{-ol}

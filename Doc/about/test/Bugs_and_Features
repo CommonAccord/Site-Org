@@ -1,10 +1,16 @@
 Bugs:
 
+Put the page name, not the site name, in the title of the page (so you can see it in the history). 
+
+Could REALLY use an error report when something doesn't render.  1) because there is no Model.Root or 2) bz a file is missing (misspelled, etc.).  Model.Root missing should return {Model.Root}.  Missing page should return the name of the file/page we were looking for. 
+
+
 Get rid of the calls to outside http done in the framing of pages.  
 
 I can't actually use the browser-based editing bz of privileges problem.  Work this out.  Could be far more productive.
 
 Let's keep our eye out for what causes the problem with pull at .Org
+
 
 
 

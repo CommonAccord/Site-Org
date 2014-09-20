@@ -20,7 +20,15 @@ Name,Title={Name.Full}, {Title}
 
 I-we=I
 
-I-W=I
+I-We=I
+
+I/C=I
+
+my/C=my
+
+me/C=me
+
+/s=<b></b>
 
 Model.Root={Addr.Table}<br>{Pronoun.List}
 
