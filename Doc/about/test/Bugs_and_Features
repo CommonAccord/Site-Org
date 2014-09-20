@@ -19,6 +19,12 @@ In rendered view, mark text based on where it comes from.
 UI- Slide a different person (or other file) into a deal.  Take one out. 
 
 
+JH-Did:
 
+Removed second copy Doc2 from the repository.
+
+Moved /about/include.php to /about/vision/include.php to get it out of the way.  Seems to be a duplicate of /explore.php.  Delete?
+
+  
 
 

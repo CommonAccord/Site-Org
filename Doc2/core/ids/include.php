@@ -1,1 +1,0 @@
-<b>Relationships</b>: Combinations of IDs.  The organigram of a company, trading partners, etc.
