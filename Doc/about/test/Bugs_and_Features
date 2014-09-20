@@ -9,7 +9,6 @@ Let's keep our eye out for what causes the problem with pull at .Org
 
 
 
-
 Features:
 
 Get some of the rest of the team making documents.  Will show the strengths and weaknesses.
@@ -24,6 +23,8 @@ In rendered view, mark text based on where it comes from.
 
 UI- Slide a different person (or other file) into a deal.  Take one out. 
 
+Hmmm - think about this for future - I already to symlinks in the data model to a particular file.  (A file that is only =[other_file]) Think about how one would do a symlink to another folder and whether it would be useful.  Seems like it might be very useful.  But not needed for demo.
+
 
 JH-Did:
 
@@ -33,4 +34,7 @@ Moved /about/include.php to /about/vision/include.php to get it out of the way. 
 
   
 
+For the future:  
+
+Render view now takes a couple of steps to see updated.  Refresh page and click Render.  
 
