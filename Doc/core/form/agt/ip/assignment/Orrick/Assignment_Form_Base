@@ -1,10 +1,11 @@
 Model.Root={Orrick.Assign.Doc.Body}
-Orrick.Assign.Doc.Body={Agt.Prologue}{Agt._Secs}<br>{Agt.Signature}<hr>{Agt.Attachment}
+Orrick.Assign.Doc.Body={Agt.Prologue}{Agt._Secs}<br>{Sign.Block}<hr>{Agt.Attachment}
+
 
 q=,
-Agt.Title=CONFIDENTIAL INFORMATION AND INVENTION ASSIGNMENT AGREEMENT
+AGT.Title=CONFIDENTIAL INFORMATION AND INVENTION ASSIGNMENT AGREEMENT
 
-Agt.Prologue=<div align="center"><b><span style="text-transform:uppercase">{P1.Name.Full}</span></b<br><br><b>{Agt.Title}<br><br>{Employee/Consultant} Name: {P2.Name.Full}, ("{Employee/Consultant}")<br>Effective Date: {AGT.Effective.YMD}<br></b><br></div><br>{Agt.Prologue.Intro}:
+Agt.Prologue=<div align="center"><b><span style="text-transform:uppercase">{P1.Name.Full}</span></b><br><br><b>{AGT.Title}<br><br>{Employee/Consultant} Name: {P2.Name.Full}, ("{Employee/Consultant}")<br>Effective Date: {AGT.Effective.YMD}<br></b><br></div><br>{Agt.Prologue.Intro}:
 
 
 
@@ -13,7 +14,7 @@ Agt.Prologue.Intro=As a condition of {becoming/continuing} by {P1.N,E,A}, or any
 Agt._Secs=<ol><li>{Relate._Sec}</li><li>{Duty._Sec}</li><li>{Conf._Sec}</li><li>{Invent._Sec}</li><li>{CompanyProperty._Sec}</li><li>{TerminationCertificate._Sec}</li><li>{Alert3Parties._Sec}</li><li>{Unfair._Sec}</li><li>{NotProlong._Sec}</li><li>{Rep._Sec}</li><li>{eSignPlan._Sec}</li><li>{Misc._Sec}</li></ol>
 
 
-Relate._Sec=<u>Relationship</u>.  This {Agt.Title} (this "{Agreement}") will apply to {P2.my/C} {employment/consulting} relationship with {the Company}.  If that relationship ends and {the Company}, within a year thereafter, either {reemploys/reengages}, {P2.I/C} agree{P2./s} that {this Agreement} will also apply to such later employment or consulting relationship, unless {the Company} and {P2.I/C} otherwise agree in writing.  Any such employment or consulting relationship between the {parties} hereto, whether commenced prior to, upon or after the date of this Agreement, is referred to herein as the "{Relationship}."
+Relate._Sec=<u>Relationship</u>.  This {AGT.Title} (this "{Agreement}") will apply to {P2.my/C} {employment/consulting} relationship with {the Company}.  If that relationship ends and {the Company}, within a year thereafter, either {reemploys/reengages}, {P2.I/C} agree{P2./s} that {this Agreement} will also apply to such later employment or consulting relationship, unless {the Company} and {P2.I/C} otherwise agree in writing.  Any such employment or consulting relationship between the {parties} hereto, whether commenced prior to, upon or after the date of this Agreement, is referred to herein as the "{Relationship}."
 
 
 Duty._Sec=<u>Duties</u>.  {P2.I/C} will perform for {the Company} such duties as may be designated by {the Company} from time to time or that are otherwise within the scope of {the Relationship} and not contrary to instructions from {the Company}.  During {the Relationship}, {P2.I/C} will devote {P2.my/C} entire best business efforts to the interests of {the Company} and will not engage in other employment or in any activities detrimental to the best interests of {the Company} without the prior written consent of {the Company}.
@@ -71,7 +72,7 @@ Invent.StateLaw.Exclusion=<b>{? Invent.StateLaw.Exclusion.Yes/No} (trim to eithe
 
 
 Invent.StateLaw.Exclusion.Yes=, attached hereto as {Exh.Invent.StateLaw.Xref}
-Invent.StateLaw.Exclusion.No=&ensp;
+Invent.StateLaw.Exclusion.No=<b>State Law Exclusions Intentionally Left Blank</b>
 
 Invent.Embed._Sec=<u>Use or Incorporation of {Prior Works}</u>. If in the course of {the Relationship}, {P2.I/C} use{P2./s} or incorporate{P2./s} into a product, service, process or machine any {Prior Work} not covered by Section {Invent.Assign.Xnum} of {this Agreement} in which {P2.I/C} {have/has} an interest, {P2.I/C} will promptly so inform {the Company} in writing. Whether or not {P2.I/C} give{P2./s} such notice, {P2.I/C} hereby irrevocably grant{P2./s} to {the Company} a nonexclusive, fully paid-up, royalty-free, assumable, perpetual, worldwide license, with right to transfer and to sublicense, to practice and exploit such {Prior Work} and to make, have made, copy, modify, make derivative works of, use, sell, import{q} and otherwise distribute such {Prior Work} under all applicable intellectual property laws without restriction of any kind.
 
@@ -144,7 +145,7 @@ Rep.InformedConsent._Sec=<u>Voluntary Execution</u>. {P2.I/C} certif{y/ies} and 
 eSignPlan._Sec=<u>Electronic Delivery</u>. Nothing herein is intended to imply a right to participate in any of {the Company}'s equity incentive plans, however, if {P2.I/C} {do/does} participate in such plan(s), {the Company} may, in its sole discretion, decide to deliver any documents related to {P2.my/C} participation in {the Company}'s equity incentive plan(s) by electronic means or to request {P2.my/C} consent to participate in such plan(s) by electronic means. {P2.I/C} hereby consent{P2./s} to receive such documents by electronic delivery and agree{P2./s}, if applicable, to participate in such plan(s) through an on-line or electronic system established and maintained by {the Company} or a third party designated by {the Company}.
 
 
-Misc.Law._Sec=<u>Governing Law</u>. The validity, interpretation, construction{q} and performance of {this Agreement}, and all acts and transactions pursuant hereto and the rights and obligations of the {parties} hereto shall be governed, construed{q} and interpreted in accordance with the laws of {Dispute.Law.State.the}, without giving effect to the principles of conflict of laws.
+Misc.Law._Sec=<u>Governing Law</u>. The validity, interpretation, construction{q} and performance of {this Agreement}, and all acts and transactions pursuant hereto and the rights and obligations of the {parties} hereto shall be governed, construed{q} and interpreted in accordance with the laws of {Dispute.Law.State.of}, without giving effect to the principles of conflict of laws.
 
 
 Misc.Entire._Sec=<u>Entire Agreement</u>. {Misc.Entire.This/Except} sets forth the entire agreement and understanding between {the Company} and {me/C} relating to its subject matter and merges all prior discussions between {us/them}. No amendment to {this Agreement} will be effective unless in writing signed by both parties to {this Agreement}. {The Company} shall not be deemed hereby to have waived any rights or remedies it may have in law or equity, nor to have given any authorizations or waived any of its rights under {this Agreement}, unless, and only to the extent, it does so by a specific writing signed by a duly authorized officer of {the Company}{Misc.Entire.Add._cl}. Any subsequent change or changes in {P2.my/C} duties, obligations, rights{q} or compensation will not affect the validity or scope of {this Agreement}.
@@ -160,3 +161,77 @@ Misc.Successor._Sec=<u>Successors and Assigns</u>. {This Agreement} will be bind
 Misc.Notice._Sec=<u>Notices</u>. Any notice, demand{q} or request required or permitted to be given under {this Agreement} shall be in writing and shall be deemed sufficient when delivered personally or by overnight courier or sent by email, or 48 hours after being deposited in the U.S. mail as certified or registered mail with postage prepaid, addressed to the {party} to be notified at such {party}'s address as set forth on the signature page, as subsequently modified by written notice, or if no address is specified on the signature page, at the most recent address set forth in {the Company}'s books and records.
 
 Misc.Sever.Base._Sec=<u>Severability</u>. If one or more of the provisions in {this Agreement} are deemed void or unenforceable to any extent in any context, such provisions shall nevertheless be enforced to the fullest extent allowed by law in that and other contexts, and the validity and force of the remainder of {this Agreement} shall not be affected. {The Company} and {P2.I/C} have attempted to limit {P2.my/C} right to use, maintain and disclose {the Company's Confidential Information}, and to limit {P2.my/C} right to solicit employees and customers only to the extent necessary to protect {the Company} from unfair competition. Should a court of competent jurisdiction determine that the scope of the covenants contained in Section {Unfair.Xnum} exceeds the maximum restrictiveness such court deems reasonable and enforceable, the {parties} intend that the court should reform, modify{q} and enforce the provision to such narrower scope as it determines to be reasonable and enforceable under the circumstances existing at that time.
+
+Misc.Sever.ConsultRecharacterizedAsEmployee._Sen=In the event that any court or government agency of competent jurisdiction determines that, notwithstanding the terms of {the Consulting Agreement} specifying {Consultant}'s {Relationship} with {the Company} as that of an independent contractor, {Consultant}'s provision of services to {the Company} is not as an independent contractor but instead as an employee under the applicable laws, then solely to the extent that such determination is applicable, references in {this Agreement} to {the Relationship} between {Consultant} and {the Company} shall be interpreted to include an employment relationship, and {this Agreement} shall not be invalid and unenforceable but shall be read to the fullest extent as may be valid and enforceable under the applicable laws to carry out the intent and purpose of {the Agreement}.
+
+Misc.Sever._Sec=<b>Misc.Sever._Sec</b><ul><li>Emp.Misc.Sever.Base._Sec<br>{Misc.Sever.Base._Sec}</li><li>Consult.Misc.Sever._Sec<br>{Consult.Misc.Sever._Sec}</li></ul>
+
+Emp.Misc.Sever._Sec={Misc.Sever.Base._Sec}
+
+
+Consult.Misc.Sever._Sec={Misc.Sever.Base._Sec}  {Misc.Sever.ConsultRecharacterizedAsEmployee._Sen}
+Misc.Remedy._Sec=<u>Injunctions</u>. {P2.I/C} acknowledge{P2./s} and agree{P2./s} that violation of {this Agreement} by {me/C} may cause {the Company} irreparable harm, and therefore {P2.I/C} agree{P2./s} that {the Company} will be entitled to seek extraordinary relief in court, {including, but not limited to,} temporary restraining orders, preliminary injunctions{q} and permanent injunctions without the necessity of posting a bond or other security (or, where such a bond or security is required, {P2.I/C} agree{P2./s} that a {Injunction.Bond.Amount.$} bond will be adequate), in addition to and without prejudice to any other rights or remedies that {the Company} may have for a breach of {this Agreement}.
+
+Misc.Advice._Sec=<u>Advice of Counsel</u>.  <span style="text-transform:uppercase;">{P2.I/C} acknowledge{P2./s} that, in executing {this Agreement}, {P2.I/C} {have/has} had the opportunity to seek the advice of independent legal counsel, and {P2.I/C} {have/has} read and understood all of the terms and provisions of {this Agreement}.  {This Agreement} shall not be construed against any {party}  by reason of the drafting or preparation hereof.</span>
+
+Misc.Counterpart._Sec=<u>Counterparts</u>. {This Agreement} may be executed in any number of counterparts, each of which when so executed and delivered shall be deemed an original, and all of which together shall constitute one and the same agreement.
+
+Sign.Block={ttr-}{P1.Sign.Block}{-td-}{P2.Sign.Block}{-ttr}
+
+
+<b>Attachments</b>=-
+
+Agt.Attachment=<b>?? Agt.Attachment</b><hr><hr><b>Employee:</b><hr>{Emp.Agt.Attachment}<hr><hr><b>Consultant</b><hr>{Consult.Agt.Attachment}
+
+Emp.Agt.Attachment=<hr>{Exh.PriorInvent.Body}<hr>{Exh.Invent.StateLaw.Body}<hr>{Exh.TerminationCertificate.Body}
+
+Consult.Agt.Attachment=<hr>{Exh.PriorInvent.Body}<hr>{Exh.Invent.StateLaw.Body}<hr>{Exh.TerminationCertificate.Body}<hr>{Exh.ExcludedCompanies.Body}
+
+
+Exh.PriorInvent.Body=<center><b>EXHIBIT {Exh.PriorInvent.Xnum}</b></center><br><br><center><b>LIST OF PRIOR INVENTIONS AND ORIGINAL WORKS OF AUTHORSHIP EXCLUDED UNDER SECTION {Invent.bRetains.Xnum} AND CONFLICTING AGREEMENTS DISCLOSED UNDER SECTION {Rep.NoConflict.Xnum}</b></center><br><br>{Orrick.Start.Assign.Exh.PriorInvent.Intro}<br>{Exh.PriorInvent.Table}<br>{Orrick.Start.Assign.Exh.PriorInvent.Text.Complete}<br>{P2.Exh.xSignature}
+
+Orrick.Start.Assign.Exh.PriorInvent.Intro=The following is a list of (i) all {Prior Works} that, as of {the Effective Date}: (A) {P2.I/C} made, and/or (B) belong solely to {me/C} or belong to {me/C} jointly with others or in which {P2.I/C} {have/has} an interest, and that relate in any way to any of {the Company}'s actual or proposed businesses, products, services, or research and development, and which are not assigned to {the Company} and (ii) all agreements, if any, with a current or former client, employer, or any other person or entity, that may restrict {P2.my/C} ability to accept employment with {the Company} or {P2.my/C} ability to recruit or engage customers or service providers on behalf of {the Company}, or otherwise relate to or restrict {P2.my/C} ability to perform {P2.my/C} duties for {the Company} or any obligation {P2.I/C} may have to {the Company}
+
+
+Orrick.Start.Assign.Exh.PriorInvent.Text.Complete=Except as indicated above on this exhibit, {P2.I/C} {have/has} no inventions, improvements{q} or original works to disclose pursuant to Section {Invent.bRetains.Xnum} of {this Agreement} and no agreements to disclose pursuant to Section {Rep.NoConflict.Xnum} of this Agreement.
+
+
+
+Exh.TerminationCertificate.Body=<center><b>EXHIBIT {Exh.TerminationCertificate.Xnum}</b></center><br><br>{Orrick_Employee_Assignment_Agt_Exh_Termination_Certificate}<br><br><br>{P2.Exh.xSignature}
+
+Orrick_Employee_Assignment_Agt_Exh_Termination_Certificate=<center><b>TERMINATION CERTIFICATION</b></center><br><br>This is to certify that {P2.I/C} do{P2./es} not have in {my/its} possession, nor {have/has} {P2.I/C} failed to return, any devices, records, data, notes, reports, proposals, lists, correspondence, specifications, drawings, blueprints, sketches, laboratory notebooks, flow charts, materials, equipment, other documents or property{q} or copies or reproductions of any aforementioned items belonging to {P1.N,E,A}, its subsidiaries, affiliates, successors{q} or assigns (collectively, the "{Company}").<br><br>{P2.I/C} further certif{y/ies} that {P2.I/C} have complied with all the terms of {the Company}'s {AGT.Title} signed by {me/C}, including the reporting of any {Works} (as defined therein), conceived or made by {me/C} (solely or jointly with others) covered by that agreement, and {P2.I/C} acknowledge{P2./s} {my/C's} continuing obligations under that agreement.<br><br>{P2.I/C} further agree{P2./s} that, in compliance with the {AGT.Title}, {P2.I/C} will preserve as confidential all trade secrets, confidential knowledge, data{q} or other proprietary information relating to products, processes, know-how, designs, formulas, developmental or experimental work, computer programs, data bases, other original works of authorship, customer lists, business plans, financial information{q} or other subject matter pertaining to any business of {the Company} or any of its employees, clients, consultants{q} or licensees.<br><br>{P2.I/C} further agree{P2./s} that for twelve (12) months from the date of this Certification, {P2.I/C} shall not either directly or indirectly solicit, induce, recruit{q} or encourage any of {the Company}'s employees or consultants to terminate their relationship with {the Company}, or attempt to solicit, induce, recruit, encourage{q} or take away employees or consultants of {the Company}, either for myself or for any other person or entity.<br><br>Further, {P2.I/C} agree{P2./s} that {P2.I/C} shall not use any {Confidential Information} of {the Company} to negatively influence any of {the Company}'s clients or customers from purchasing {Company} products or services or to solicit or influence or attempt to influence any client, customer{q} or other person either directly or indirectly, to direct any purchase of products and/or services to any person, firm, corporation, institution{q} or other entity in competition with the business of {the Company}.<br><br>Further, {P2.I/C} acknowledge{P2./s} that {the Company} has valuable {Trade Secrets} (as defined by applicable law from time to time) to which {P2.I/C} {have/has} had access.  {P2.I/C} understand that {the Company} intends to vigorously pursue its rights under applicable {Trade Secrets} law if, during a period of twelve (12) months from the date of this Certification, {P2.I/C} solicit or influence or attempt to influence any client, licensor, licensee, customer{q} or other person either directly or indirectly, to direct any purchase of products and/or services to any person, firm, corporation, institution{q} or other entity in competition with the business of {the Company}.  Thereafter, {the Company} intends to vigorously pursue its rights under applicable {Trade Secrets} law as the circumstances warrant.
+
+Exh.ExcludedCompanies.Body=<center><b>EXHIBIT {Exh.ExcludedCompanies.Xnum}<br><br>LIST OF COMPANIES EXCLUDED UNDER SECTION {Rep.NoConflict.Xnum}</b></center><br><br>{Exh.ExcludedCompanies.Listing}
+
+Exh.Invent.StateLaw.Body=<center><b>EXHIBIT {Exh.Invent.StateLaw.Xnum}</b></center><br><br>{Exh.Invent.StateLaw.Text}
+
+Exh.Invent.StateLaw.Text=<b>{? Exh.Invent.StateLaw.Text} : Select</b><ol><li><b>Exh.Invent.StateLaw.CA.Text (California)</b><br>{Exh.Invent.StateLaw.CA.Text}</li><li><b>Exh.Invent.StateLaw.WA.Text (Washington)</b><br>{Exh.Invent.StateLaw.WA.Text}</li></ol>
+
+Exh.Invent.StateLaw.CA.Text=<b>Section 2870 of the California Labor Code is as follows:</b><br>(a)  Any provision in an employment agreement which provides that an employee shall assign, or offer to assign, any of his or her rights in an invention to his or her employer shall not apply to an invention that the employee developed entirely on his or her own time without using the employer's equipment, supplies, facilities, or trade secret information except for those inventions that either:<br>(1) Relate at the time of conception or reduction to practice of the invention to the employer's business, or actual or demonstrably anticipated research or development of the employer; or<br>(2) Result from any work performed by the employee for the employer.<br>(b)To the extent a provision in an employment agreement purports to require an employee to assign an invention otherwise excluded from being required to be assigned under subdivision (a), the provision is against the public policy of this state and is unenforceable.
+
+Exh.Invent.StateLaw.WA.Text=<b>RCW 49.44.140 of the Revised Code of Washington is as follows:</b><br>(1) A provision in an employment agreement which provides that an employee shall assign or offer to assign any of the employee's rights in an invention to the employer does not apply to an invention for which no equipment, supplies, facilities, or trade secret information of the employer was used and which was developed entirely on the employee's own time, unless (a) the invention relates (i) directly to the business of the employer, or (ii) to the employer's actual or demonstrably anticipated research or development, or (b) the invention results from any work performed by the employee for the employer. Any provision which purports to apply to such an invention is to that extent against the public policy of this state and is to that extent void and unenforceable.<br>(2) An employer shall not require a provision made void and unenforceable by subsection (1) of this section as a condition of employment or continuing employment.<br>(3) If an employment agreement entered into after September 1, 1979, contains a provision requiring the employee to assign any of the employee's rights in any invention to the employer, the employer must also, at the time the agreement is made, provide a written notification to the employee that the agreement does not apply to an invention for which no equipment, supplies, facility, or trade secret information of the employer was used and which was developed entirely on the employee's own time, unless (a) the invention relates (i) directly to the business of the employer,	or (ii) to the employer's actual or demonstrably anticipated research or development, or (b) the invention results from any work performed by the employee for the employer.
+
+P2.Exh.Signature=Date:  {AGT.Effective.YMD}<br>{Employee/Consultant}'s Name:  {P2.Name.Full}<br>{Employee/Consultant}'s Signature:  
+<b>Numbering</b>=-
+
+Duty.Xnum=2
+Conf.Xnum=3
+Conf.3PartyInfo.Xnum={Conf.Xnum}.3
+Invent.Xnum=4
+Invent.bRetains.Xnum={Invent.Xnum}.1
+Invent.Assign.Xnum={Invent.Xnum}.4
+Invent.StateLaw.Xnum={Invent.Xnum}.7
+CompanyProperty.Xnum=5
+TerminationCertificate.Xnum=6
+Unfair.Xnum=8
+Rep.Xnum=10
+Rep.NoConflict.Xnum={Rep.Xnum}.2
+Exh.PriorInvent.Xref=Exhibit A
+Exh.Invent.StateLaw.Xref=Exhibit B
+Exh.TerminationCertificate.Xref=Exhibit C
+Exh.ExcludedCompanies.Xref=Exhibit D
+Exh.PriorInvent.Xnum=A
+Exh.Invent.StateLaw.Xnum=B
+Exh.TerminationCertificate.Xnum=C
+Exh.ExcludedCompanies.Xnum=D
+/=

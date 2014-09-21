@@ -1,0 +1,23 @@
+Message=Prepared and Proposed September 20, 2014
+
+P2.=[RealDeal/ids/RD_Dazza_Greenwood]
+P1.=[RealDeal/id/RealDeal_Inc]
+=[RealDeal/Preferences]
+
+P1.Handle=Employer
+
+P2.Handle=Employee
+
+P1.Sign=[RealDeal/ids/James_Hazard]
+
+=[core/form/agt/ip/assignment/Orrick/Assignment_Form_Employee]
+
+becoming/continuing=becoming
+
+Injunction.Bond.Amount.$=$10,000
+
+Exh.PriorInvent.AddSheets.#=0
+
+Exh.Invent.StateLaw.Text={Invent.StateLaw.Exclusion.No}
+
+P2./es=<b></b>
