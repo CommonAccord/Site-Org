@@ -74,7 +74,7 @@ echo `cd /var/www/www.commonaccord.org/Alpha; git reset --hard HEAD; git pull -f
 }
 
 else if($_REQUEST['action'] == 'graph') {
-	echo `perl tree-parse.pl $dir`;
+	echo `perl tree-parse.pl $dir 2&>1`;
 }
 	
 
