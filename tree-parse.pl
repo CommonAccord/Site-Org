@@ -10,12 +10,11 @@ use strict;
 
 my $path = "./Doc/";
 
-
 my %imports;
 
 sub tree_parse {
 
-	my ($file) = @_; my $f; open $f, $path . $file or die "error opening ($file):  $!\n";
+	my ($file) = @_; my $f; open $f,  $file or die "error opening ($file):  $!\n";
 
 	$imports{$file} = [];
 
@@ -25,9 +24,9 @@ sub tree_parse {
 		
 		 if( ( ($one,$two) = $_ =~m/^([^=]*)=\[(.+?)\]/ ) ) {
 
-                        push @{ $imports{$file} }, $two;
+                        push @{ $imports{$file} }, $path . $two;
 
-                        tree_parse($two);
+                        tree_parse($path. $two);
 		}
 	}
 	
