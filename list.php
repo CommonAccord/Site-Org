@@ -27,7 +27,7 @@ $files = scandir($dir);
 if(file_exists($dir . 'include.php'))
     include $dir . 'include.php';
 
-echo '<br><br><br><div class="listings">';
+echo '<br><div class="listings">';
 echo "<div id='content-list'>";
 foreach($files as $f) {
         if(is_dir($path.$dir.$f)) {
