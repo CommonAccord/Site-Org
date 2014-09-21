@@ -1,0 +1,10 @@
+=[Acme/Doc/Acme_Roberta_Robinson_Assign_Agt_v02]
+
+P1.Sign.=[Acme/IDs/Solomon_Shirley]
+
+AGT.Effective.YMD={P1.Sign.YMD}
+
+P1.xSignature=x SOLOMON
+
+P1.Sign.YMD=September 21, 2014
+    

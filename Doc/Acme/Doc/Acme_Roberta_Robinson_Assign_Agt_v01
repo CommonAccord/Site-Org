@@ -1,7 +1,9 @@
 Message=Prepared and Proposed September 20, 2014
 
-P2.=[Acme/ids/roberta_robinson]
+P2.=[Acme/ids/Roberta_Robinson]
+
 P1.=[Acme/ids/Acme_Inc]
+
 =[Acme/Preferences]
 
 P1.Handle=Employer

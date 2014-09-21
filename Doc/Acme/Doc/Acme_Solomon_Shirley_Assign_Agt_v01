@@ -1,12 +1,16 @@
 Message=Prepared and Proposed September 20, 2014
+P1.Sign.=[Acme/IDs/Roberta_Robinson]
 
-P1.=[Acme/id/RealDeal_Inc]
+P1.=[Acme/ids/Acme_Inc]
 
-P2.=[Acme/ids/RD_Luke_Chellis]
+P2.=[Acme/ids/Solomon_Shirley]
 
-=[Acme/RD_Preferences]
+=[Acme/Preferences]
 
-P1.Sign.=[Acme/IDs/RD_Dazza_Greenwood]
+
+P1.Sign.Name.Full=RR
+
+Prologue.Recital={P1.Handle} intends to hire {P2.Handle}.
 
 AGT.Effective.YMD=September 21, 2014
 
@@ -14,9 +18,7 @@ P1.Handle=Company
 
 P2.Handle=Developer
 
-P1.Sign=[Acme/ids/RD_Dazza_Greenwood]
-
 =[Acme/form/Docracy-48-Technology-Assignment-Agreement-v02]
 
 becoming/continuing=becoming
-               
+                             
