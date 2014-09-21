@@ -10,7 +10,7 @@ P2.Handle=Employee
 
 P1.Sign=[RealDeal/ids/James_Hazard]
 
-=[core/form/agt/ip/assignment/Orrick/Assignment_Form_Employee]
+=[RealDeal/form/Orrick_Assignment_Form_Employee]
 
 becoming/continuing=becoming
 
