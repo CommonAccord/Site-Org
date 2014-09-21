@@ -8,8 +8,8 @@
 use warnings;
 use strict;
 
-my $path = "./Doc/";
-
+#my $path = "./Doc/";
+my $path = "";
 
 my %imports;
 
