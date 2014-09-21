@@ -1,2 +1,7 @@
-=[core/id/abigail_altima]
-Title=VP Finance
+=[core/class/ID_Entity]
+
+=[core/at/USA/MA/Middlesex/Cambridge/Broadway/1/Geo]
+
+Name.Full=Acme Inc.
+
+Addr.Type=principal

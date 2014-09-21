@@ -4,7 +4,7 @@ N/1/2={Name.Full}<br>{Addr.1/2}
 
 N,A={Name.Full}, {Addr.1,2}
 
-N/A={Name.Full}<br>{Addr.1,2}
+N/A={Name.Full}<br>{Addr.1/2}
 
 Addr.1,2={Addr.1}, {Addr.2}
 
@@ -13,6 +13,8 @@ Addr.N/1/2={Name.Full}<br/>{Addr.1/2}
 N/A/T/E/F={Name.Full}<br>{Addr.1/2}<br>{Phone}<br>{Email}<br>{Fax}
 
 Addr.1/2={Addr.1}<br/>{Addr.2}
+
+Letterhead=<center><b>{Name.Full}</b><br>{Addr.1/2}</center>
 
 Notice.Block=Notices to {Handle}:<br>{Addr.N/1/2}<br>Attention: {Notice.Name,Title}
 

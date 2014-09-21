@@ -2,6 +2,14 @@ Note=First shot at automating:
 
 =[Acme/form/non-compete/onboarding_03_ListsMakeItADocument]
 
-P1.=[core/id/Acme_Incorporated]
+P1.=[Acme/Party/Acme_Inc]
+P1.Handle=Company
 
-P2.=[core/id/Roberta_Robinson]
+0.continued=<b></b>
+
+DOC.Re=Employment and Non-Competition
+
+P2.=[Acme/Party/Roberta_Robinson]
+
+        
+    
