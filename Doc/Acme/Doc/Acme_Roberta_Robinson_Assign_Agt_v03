@@ -1,6 +1,6 @@
 =[Acme/Doc/Acme_Roberta_Robinson_Assign_Agt_v02]
 
-P1.Sign.=[Acme/ids/Solomon_Shirley]
+P1.Sign.=[Acme/Party/Solomon_Shirley]
 
 AGT.Effective.YMD={P1.Sign.YMD}
 

@@ -1,8 +1,8 @@
 OptionalMessageToYourPeer=Prepared and Proposed, for start on {AGT.Effective.YMD}
 
-P1.=[Acme/ids/Acme_Inc]
+P1.=[Acme/Party/Acme_Inc]
 
-P2.=[Acme/ids/Solomon_Shirley]
+P2.=[Acme/Party/Solomon_Shirley]
 
 =[Acme/Preferences]
 
