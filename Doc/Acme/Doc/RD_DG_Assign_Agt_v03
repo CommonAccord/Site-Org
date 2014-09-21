@@ -1,6 +1,6 @@
-=[RealDeal/Doc/RD_DG_Assign_Agt_v02]
+=[Acme/Doc/RD_DG_Assign_Agt_v02]
 
-P1.Sign.=[RealDeal/IDs/RD_James_Hazard]
+P1.Sign.=[Acme/IDs/RD_James_Hazard]
 
 AGT.Effective.YMD={P1.Sign.YMD}
 

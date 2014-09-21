@@ -1,0 +1,22 @@
+Message=Prepared and Proposed September 20, 2014
+
+P1.=[Acme/id/RealDeal_Inc]
+
+P2.=[Acme/ids/RD_Luke_Chellis]
+
+=[Acme/RD_Preferences]
+
+P1.Sign.=[Acme/IDs/RD_Dazza_Greenwood]
+
+AGT.Effective.YMD=September 21, 2014
+
+P1.Handle=Company
+
+P2.Handle=Developer
+
+P1.Sign=[Acme/ids/RD_Dazza_Greenwood]
+
+=[Acme/form/Docracy-48-Technology-Assignment-Agreement-v02]
+
+becoming/continuing=becoming
+               

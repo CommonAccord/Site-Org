@@ -4,15 +4,15 @@ RealDeal Dashboard:=
 
 Description of the Company:
 
-BusDev.=[RealDeal/IDs/RD_Luke_Chellis]
+BusDev.=[Acme/IDs/RD_Luke_Chellis]
 
-CEO.=[RealDeal/IDs/RD_Dazza_Greenwood]
+CEO.=[Acme/IDs/RD_Dazza_Greenwood]
 
-VPEngin.=[RealDeal/IDs/RD_William_Kim]
+VPEngin.=[Acme/IDs/RD_William_Kim]
 
-Secretary.=[RealDeal/IDs/RD_James_Hazard]
+Secretary.=[Acme/IDs/RD_James_Hazard]
 
-Magic.=[RealDeal/IDs/RD_yaoeo]
+Magic.=[Acme/IDs/RD_yaoeo]
 
 
 Model.Root={ol-}{CEO.Name.Full}, {CEO.Title}{-li-}{BusDev.Name.Full}, {BusDev.Title}{-li-}{Secretary.Name.Full}, {Secretary.Title}{-li-}{VPEngin.Name.Full}, {VPEngin.Title}{-li-}{Magic.Name.Full}, {Magic.Title}{-ol}

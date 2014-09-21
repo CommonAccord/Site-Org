@@ -1,16 +1,14 @@
 Message=Prepared and Proposed September 20, 2014
 
-P2.=[RealDeal/ids/RD_Dazza_Greenwood]
-P1.=[RealDeal/id/RealDeal_Inc]
-=[RealDeal/Preferences]
+P2.=[Acme/ids/roberta_robinson]
+P1.=[Acme/ids/Acme_Inc]
+=[Acme/Preferences]
 
 P1.Handle=Employer
 
 P2.Handle=Employee
 
-P1.Sign=[RealDeal/ids/James_Hazard]
-
-=[RealDeal/form/Orrick_Assignment_Form_Employee]
+=[Acme/form/Orrick_Assignment_Form_Employee]
 
 becoming/continuing=becoming
 
@@ -21,3 +19,4 @@ Exh.PriorInvent.AddSheets.#=0
 Exh.Invent.StateLaw.Text={Invent.StateLaw.Exclusion.No}
 
 P2./es=<b></b>
+  
