@@ -1,0 +1,7 @@
+=[core/form/agt/startup/yc/safe/Form_YC_SAFE_Cap_NoDiscount]
+P1.=[Acme/Party/Acme_Inc]  
+
+OptionalMessageToYourPeer=Draft Form of Note
+
+SAFE.Valuation_Cap.$=$2,000,000
+State.Of=New York
