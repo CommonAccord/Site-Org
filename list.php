@@ -3,7 +3,7 @@
  <div class = "col-lg-12"  >
 
 <p align="center">
-<img src="assets/cmacc-trans.png"  height="75px" />
+<img src="assets/cmacc-trans.png"  height="50px" />
 </p>
 
 
