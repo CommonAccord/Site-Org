@@ -1,7 +1,7 @@
 Bugs:
 
+Done: hazardj kludged this by removing <title>  could be cleaned up.  
 Put the page name, not the site name, in the title of the page (so you can see it in the history). 
-
 Could REALLY use an error report when something doesn't render.  1) because there is no Model.Root or 2) bz a file is missing (misspelled, etc.).  Model.Root missing should return {Model.Root}.  Missing page should return the name of the file/page we were looking for. 
 
 
