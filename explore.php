@@ -6,7 +6,7 @@
    <h3 class="title">&#10003;  Ready for Personal Data Stores</h3>
      
 
-   <p>Relationships can be expressed and codified as cards.
+   <p>Relationships can be expressed and codified as objects presented as cards.
 <br/><br/>
     <table class="table table-striped table-condensed table-bordered" style="padding:20px">
 
@@ -45,8 +45,8 @@
 <td>"At" is for places.   1 Broadway, Cambridge MA, USA becomes at/usa/ma/middlesex/cambridge/broadway/1/geo.</td></tr>
 <tr>
 <td><img src="http://www.lakelocal.org/forms/PublishingImages/forms-icon.jpg"height="50px"></td>
-<td><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/event/>event</a></td>
-   <td>Events are transactions that connect people.  Making an application, granting a permit, signing a deal, sending a draft.  Each is a connection between some persons, a form and a history. History is the chain of events.</td>
+<td><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/event/>Doc</a></td>
+				 <td>Events in a legal system happen as documents.  Making an application, granting a permit, signing a deal, sending a draft.  Each is a connection between some persons, a form and a history. History is the chain of events, the succession of documents.</td>
 </tr>
 	</table>
 	</table>
