@@ -3,10 +3,9 @@ Source=<a href="http://conventions.coe.int/Treaty/EN/Treaties/Html/108.htm">Sour
 
 Part.2.5=<p class="btTitreB">Article 5 – Quality of data</p><p>Personal data undergoing automatic processing shall be:<ol TYPE="a">    <li>obtained and processed fairly and lawfully;</li>    <li>stored for specified and legitimate purposes and not used in a way incompatible with those purposes;</li>   <li>adequate, relevant and not excessive in relation to the purposes for which they are stored;</li> <li>accurate and, where necessary, kept up to date;</li>  <li>preserved in a form which permits identification of the data subjects for no longer than is required for the purpose for which those data are stored.</li></ol>
 
-Requires={req-}{Process.Obtain.Fair}{-req-}{Process.Fair}{-req-}{Store.SpecifiedPurpose}{-req-}{Store.LegitimatePurpose}{-req-}{Process.Proportionate}{-req-}{Process.Accurate}{-req-}{Process.Current}{-req-}{Store.SubjectPerson}{-req}
+Requires={req-}Process.Obtain.Fair: {Process.Obtain.Fair}{-req-}Process.Fair: {Process.Fair}{-req-}Store.SpecifiedPurpose: {Store.SpecifiedPurpose}{-req-}Store.LegitimatePurpose: {Store.LegitimatePurpose}{-req-}Process.Proportionate: {Process.Proportionate}{-req-}Process.Accurate:  {Process.Accurate}{-req-}Process.Current: {Process.Current}{-req-}Store.SubjectPerson: {Store.SubjectPerson}{-req}
 
 Process.Obtain.Fair=obtained and processed fairly and lawfully;
-
 Process.Fair=obtained and processed fairly and lawfully;
 
 Store.SpecifiedPurpose=stored for specified and legitimate purposes and not used in a way incompatible with those purposes;
@@ -19,4 +18,4 @@ Process.Accurate=accurate and, where necessary, kept up to date;
 Process.Current=accurate and, where necessary, kept up to date;
 
 Store.SubjectPerson=preserved in a form which permits identification of the data subjects for no longer than is required for the purpose for which those data are stored.
-    
+  
