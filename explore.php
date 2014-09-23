@@ -45,7 +45,7 @@
 <td>"At" is for places.   1 Broadway, Cambridge MA, USA becomes at/usa/ma/middlesex/cambridge/broadway/1/geo.</td></tr>
 <tr>
 <td><img src="http://www.lakelocal.org/forms/PublishingImages/forms-icon.jpg"height="50px"></td>
-<td><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/event/>Doc</a></td>
+<td><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/doc/>doc</a></td>
 				 <td>Events in a legal system happen as documents.  Making an application, granting a permit, signing a deal, sending a draft.  Each is a connection between some persons, a form and a history. History is the chain of events, the succession of documents.</td>
 </tr>
 	</table>
