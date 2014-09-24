@@ -6,6 +6,8 @@ Model.Root={Affiliate}
 
 Affiliate={m-}Affiliate{-m}
 
+Change Order={m-}Change Order{-m}
+
 Company={m-}Company{-m}
 
 Company Affiliate={m-}Company Affiliate{-m}
@@ -14,17 +16,23 @@ Company Personal Data={m-}Company Personal Data{-m}
 
 Company Property={m-}Company Property{-m}
 
+CWD={m-}Contingent Workers Database{-m}
+
 Data Subject={m-}Data Subject{-m}
 
 Data Subjects={m-}Data Subjects{-m}
 
 Effective Date={m-}Effective Date{-m}
 
+Expiration Date={m-}Expiration Date{-m}
+
 Intellectual Property={m-}Intellectual Property{-m}
 
 IP Rights={m-}IP Rights{-m}
 
 MSA={m-}MSA{-m}
+
+Other Company Databases}={m-}Other Company Databases}{-m}
 
 Personal Data={m-}Personal Data{-m}
 
@@ -50,11 +58,15 @@ Supplier={m-}Supplier{-m}
 
 Supplier Affiliate={m-}Supplier Affiliate{-m}
 
+Supplier Personnel={m-}Supplier Personnel{-m}
+
 Supplier's Intellectual Property={m-}Supplier's Intellectual Property{-m}
 
 Supplier's Personnel={m-}Supplier's Personnel{-m}
 
 Supplier's Reserved Intellectual Property={m-}Supplier's Reserved Intellectual Property{-m}
+
+Term={m-}Term{-m}
 
 Third Party Intellectual Property={m-}Third Party Intellectual Property{-m}
 	      
