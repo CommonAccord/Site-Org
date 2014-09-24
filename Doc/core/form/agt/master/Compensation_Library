@@ -2,9 +2,9 @@ Model.Root={_Sec}
 
 _Sec=<u>Compensation and Payment Terms</u>. {Intro.NB} <ol><li>{PerSchedule._Sec}</li><li>{Currency._Sec}</li><li>{Taxes._Sec}</li><li>{Due._Sec}</li><li>{EarlyDiscount._Sec}</li><li>{Invoices._Sec}</li><li>{NoExtraCharges._Sec}</li><li>{MFN._Sec}</li><li>{EndOfTerm._Sec}</li><li>{Unlawful._Sec}</li><li>{SetOff._Sec}</li><li>{Audit._Sec}</li></ol>
 
-Intro.NB=<i>If: Supplier is based in France, Services are to be performed in France or this Agreement is governed by French law, please contact the {P1.Handle} Energy Sourcing Finance Manager prior to utilizing the payment terms language set forth below in Section {4.4}.</i>
+Intro.NB=<i>If: {Supplier} is based in France, Services are to be performed in France or this Agreement is governed by French law, please contact the {P1.Handle} Energy Sourcing Finance Manager prior to utilizing the payment terms language set forth below in Section {4.4}.</i>
 
-PerSchedule._Sec=Supplier shall be paid on a time and materials basis according to the Fee Schedule attached hereto as {AGT.Exh.A} or as provided in any applicable PO or SOW with expenses reimbursed in accordance with the {P1.Handle} Travel Policy attached hereto as {AGT.Exh.E}.  The foregoing will be the entire compensation to be paid to Supplier and will be in full discharge of any and all liability in contract or otherwise with respect to all Services rendered by the Supplier and Supplier Personnel.
+PerSchedule._Sec={Supplier} shall be paid on a time and materials basis according to the Fee Schedule attached hereto as {AGT.Exh.A} or as provided in any applicable PO or SOW with expenses reimbursed in accordance with the {P1.Handle} Travel Policy attached hereto as {AGT.Exh.E}.  The foregoing will be the entire compensation to be paid to {Supplier} and will be in full discharge of any and all liability in contract or otherwise with respect to all Services rendered by the {Supplier} and {Supplier Personnel}.
 
 Currency._Sec=All fees will be paid in U.S. Dollars and delivered to Supplier&srquo;s principal place of business specified in the first paragraph of this Agreement.  Supplier warrants that it is authorized to receive payment in the currency stated in this Agreement or any applicable PO or SOW.
 

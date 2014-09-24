@@ -4,7 +4,7 @@ Model.Root={Definition._Sec}
 
 stet.=[core/form/agt/master/Definition_Terms]
 
-Definition._Sec=<u>Definitions</u>.<br>&nbsp {Definition.Intro}:<ol><li>{Def.Affiliate}</li><li>{Def.Company}</li><li>{Def.Company_Affiliate}</li><li>{Def.Company_Personal_Data}</li><li>{Def.Company_Property}</li><li>{Def.Data_Subjects}</li><li>{Def.Intellectual_Property}</li><li>{Def.IP_Rights}</li><li>{Def.Personal_Data}</li><li>{Def.Processing}</li><li>{Def.Proprietary_Information}</li><li>{Def.Software_Materials}</li><li>{Def.Software_Product}</li><li>{Def.Supplier}</li><li>{Def.Supplier_Affiliate}</li><li>{Def.Supplier's_Intellectual_Property}</li><li>{Def.Supplier's_Personnel}</li><li>{Def.Supplier's_Reserved_Intellectual_Property}</li><li>{Def.Third_Party_Intellectual_Propery}</li></ol>
+Definition._Sec=<u>Definitions</u>.<br>&nbsp {Definition.Intro}:<ol><li>{Def.Affiliate}</li><li>{Def.Company}</li><li>{Def.Company_Affiliate}</li><li>{Def.Company_Personal_Data}</li><li>{Def.Company_Property}</li><li>{Def.Data_Subject}</li><li>{Def.Intellectual_Property}</li><li>{Def.IP_Rights}</li><li>{Def.Personal_Data}</li><li>{Def.Processing}</li><li>{Def.Proprietary_Information}</li><li>{Def.Software_Materials}</li><li>{Def.Software_Product}</li><li>{Def.Supplier}</li><li>{Def.Supplier_Affiliate}</li><li>{Def.Supplier's_Intellectual_Property}</li><li>{Def.Supplier's_Personnel}</li><li>{Def.Supplier's_Reserved_Intellectual_Property}</li><li>{Def.Third_Party_Intellectual_Propery}</li></ol>
 
 Definition.Intro=The following capitalized terms used in this Agreement have the following meanings
 
@@ -18,7 +18,7 @@ Def.Company_Personal_Data=<b>&ldquo;{Company Personal Data}&rdquo;</b> includes:
 
 Def.Company_Property=<b>&ldquo;{Company Property}&rdquo;</b> means: <ol><li>{Intellectual Property} incorporated into the Services or any deliverables under this Agreement;</li><li>{Intellectual Property} conceived, produced or developed by {Supplier}, whether directly or indirectly or alone or jointly with others, in connection with or pursuant to {Supplier}&rsquo;s performance of this Agreement; and</li><li>creations and inventions that are otherwise made by {Supplier} through the use of equipment, funds, supplies, facilities, materials and/or {Proprietary Information} of {Company or its Affiliates};</li></ol> provided, however, that any techniques, technology or tools independently developed by {Supplier} and not developed for or paid for by {Company} shall not be {Company Property}.
 
-Def.Data_Subject=<b>&ldquo;{Data Subject}&rdquo; means individuals to whom {Personal Data} pertains.
+Def.Data_Subject=&ldquo;{Data Subject}&rdquo; means individuals to whom {Personal Data} pertains.
 
 Def.Intellectual_Property=<b>&ldquo;Intellectual Property&rdquo;</b> means all intellectual property and proprietary rights including without limitation all rights of inventorship and authorship, inventions, patents, patent applications, and know-how for any product, process, method, machine, manufacture, design, composition of matter, or any new or useful improvement thereof, as well as copyrights, trademark, trade dress and service mark rights and all rights in trade secrets, computer software, data and databases, and mask works. 
 

@@ -2,7 +2,7 @@ Model.Root={_Sec}
 
 _Sec=<u>Confidentiality</u>.<ol><li>{Def._Sec}</li><li>{Engage._Sec}</li><li>{WarnPersonnel._Sec}</li><li>{Injunct._Sec}</li><li>{Endure._Sec}</li><li>{Return._Sec}</li><li>{Except._Sec}</li><li>{OneWay._Sec}</li><li>{Publicity._Sec}</li><li>{Monitor._Sec}</li></ol>
 
-Def._Sec=Supplier and all Supplier Personnel shall maintain in confidence and safeguard all Proprietary Information.
+Def._Sec=Supplier and all {Supplier Personnel} shall maintain in confidence and safeguard all Proprietary Information.
 
 Engage._Sec=Supplier recognizes and acknowledges the confidential and proprietary nature of any Proprietary Information and acknowledges the irreparable harm that could result to {Company} if it is disclosed to a third party or used for unauthorized purposes without {Company}&rsquo;s prior written consent.&nbsp; Therefore, Supplier agrees, except as required by law: <ol><li>{Engage.Protect._cl};</li><li>{Engage.Use._cl}; and</li><li>{Engage.Care._cl}.</li></ol>
 
