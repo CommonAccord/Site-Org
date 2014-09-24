@@ -1,5 +1,6 @@
 =[core/class/AGT_Frame]
 
+=[core/class/Doc_Table]
 =[core/form/agt/master/Xnum_Library]
 
 =[core/form/agt/master/Definition_Terms_Marked]
@@ -69,4 +70,4 @@ Signature.Witness=In Witness Whereof, the parties hereto have caused this Agreem
 
 AGT.Attach=<hr><hr><center><b>Exhibit {AGT.Exh.A}</b></center><hr><hr><center><b>Exhibit {AGT.Exh.B}</b></center><hr><hr><center><b>Exhibit {AGT.Exh.C}</b></center><hr><hr><center><b>Exhibit {AGT.Exh.D}</b></center>
 
-		        
+		          

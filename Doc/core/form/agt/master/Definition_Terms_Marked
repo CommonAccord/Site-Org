@@ -1,4 +1,3 @@
-
 Model.Root={Affiliate}
 
 =[core/class/Doc_Table]
@@ -25,7 +24,11 @@ Intellectual Property={m-}Intellectual Property{-m}
 
 IP Rights={m-}IP Rights{-m}
 
+MSA={m-}MSA{-m}
+
 Personal Data={m-}Personal Data{-m}
+
+PO={m-}PO{-m}
 
 Process={m-}Process{-m}
 
@@ -41,6 +44,8 @@ Software Materials={m-}Software Materials{-m}
 
 Software Product={m-}Software Product{-m}
 
+SOW={m-}SOW{-m}
+
 Supplier Affiliate={m-}Supplier Affiliate{-m}
 
 Supplier's Intellectual Property={m-}Supplier's Intellectual Property{-m}
@@ -50,4 +55,4 @@ Supplier's Personnel={m-}Supplier's Personnel{-m}
 Supplier's Reserved Intellectual Property={m-}Supplier's Reserved Intellectual Property{-m}
 
 Third Party Intellectual Property={m-}Third Party Intellectual Property{-m}
-	
+	    
