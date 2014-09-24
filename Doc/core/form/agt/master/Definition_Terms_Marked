@@ -8,8 +8,6 @@ Affiliate={m-}Affiliate{-m}
 
 Company={m-}Company{-m}
 
-Supplier={m-}Supplier{-m}
-
 Company Affiliate={m-}Company Affiliate{-m}
 
 Company Personal Data={m-}Company Personal Data{-m}
@@ -19,6 +17,8 @@ Company Property={m-}Company Property{-m}
 Data Subject={m-}Data Subject{-m}
 
 Data Subjects={m-}Data Subjects{-m}
+
+Effective Date={m-}Effective Date{-m}
 
 Intellectual Property={m-}Intellectual Property{-m}
 
@@ -46,6 +46,8 @@ Software Product={m-}Software Product{-m}
 
 SOW={m-}SOW{-m}
 
+Supplier={m-}Supplier{-m}
+
 Supplier Affiliate={m-}Supplier Affiliate{-m}
 
 Supplier's Intellectual Property={m-}Supplier's Intellectual Property{-m}
@@ -55,4 +57,4 @@ Supplier's Personnel={m-}Supplier's Personnel{-m}
 Supplier's Reserved Intellectual Property={m-}Supplier's Reserved Intellectual Property{-m}
 
 Third Party Intellectual Property={m-}Third Party Intellectual Property{-m}
-	    
+	      

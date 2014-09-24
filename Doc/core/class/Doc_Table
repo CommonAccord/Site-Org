@@ -26,6 +26,9 @@ m-=<span style="color:{mcolor}">
 
 -m=</span>
 
+spanUC-=<span style="text-transform: uppercase">
+
+-span=</span>
 _=&#8194;
 
 .=.&#8194; 
@@ -47,4 +50,4 @@ st-=<b>
 -stb=</b><br>
 
 br=<br>
-	
+	  

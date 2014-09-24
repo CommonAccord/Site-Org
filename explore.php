@@ -5,7 +5,6 @@
    <h3 class="title">&#10003; Structured Relationships</h3>
    <h3 class="title">&#10003;  Ready for Personal Data Stores</h3>
      
-
    <p>Relationships can be expressed and codified as objects presented as cards.
 <br/><br/>
     <table class="table table-striped table-condensed table-bordered" style="padding:20px">
@@ -21,19 +20,6 @@
 <td><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/core/ids/>ids</a></td>
 				 <td>ID<u>s</u> are combinations of persons.  Parties to a contract.  Suppliers, customers.  Employees, board members, agents, subsidiaries.  Regulators.  Friends with whom you share something important.</td></tr>
 
-
-<tr>
-<td><img src="https://www.manilla.com/wp-content/uploads/2011/06/ph-paperstack.jpg" height="50px"></td>
-<td><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/core/form/>form</a></td><td>Forms are legal documents and their components.  Contracts, permits, pleadings.  Text that describes relationships and transactions.</td>
-</tr>
-
-<tr>
-<td><img src="http://www.lakelocal.org/forms/PublishingImages/forms-icon.jpg"height="50px"></td>
-<td><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/core/gov/>gov</a></td>
-   <td>Government forms.  Applications, permits, reports. Linked to codes, regulations and laws.  Adjacent to at/ and /form.</td>
-</tr>
-
-
 <tr>
 <td><img src="http://be-my-guest.com/static/img/things-to-do-icons.png" height="50px"></td>
 <td><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/core/re/>re</a></td>
@@ -43,10 +29,21 @@
 <td><img src="http://images.clipartpanda.com/world-map-clip-art-worldmap.gif" height="50px"></td>
 <td><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/core/at/>at</a></td>
 <td>"At" is for places.   1 Broadway, Cambridge MA, USA becomes at/usa/ma/middlesex/cambridge/broadway/1/geo.</td></tr>
+
 <tr>
 <td><img src="http://www.lakelocal.org/forms/PublishingImages/forms-icon.jpg"height="50px"></td>
-<td><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/doc/>doc</a></td>
-				 <td>Events in a legal system happen as documents.  Making an application, granting a permit, signing a deal, sending a draft.  Each is a connection between some persons, a form and a history. History is the chain of events, the succession of documents.</td>
+<td><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/core/gov/>gov</a></td>
+   <td>Government forms.  Applications, permits, reports. Linked to codes, regulations and laws.  Adjacent to at/ and /form.</td>
+</tr>
+
+<tr>
+<td><img src="https://www.manilla.com/wp-content/uploads/2011/06/ph-paperstack.jpg" height="50px"></td>
+				 <td><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/core/form/>form</a></td><td>Forms are templates, model documents, boilerplate and other codified text.  Contracts, permits, pleadings, adaptations for particular jurisdictions and the like.</td>
+</tr>
+
+<tr>
+<td><img src="http://www.lakelocal.org/forms/PublishingImages/forms-icon.jpg"height="50px"></td>
+<td><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/doc/>doc</a></td><td>Docs are events in a legal system.  Making an application, granting a permit, signing a deal, sending a draft.  Each is a connection between some persons, a form and a history. History is the chain of events, the succession of documents.</td>
 </tr>
 	</table>
 	</table>
