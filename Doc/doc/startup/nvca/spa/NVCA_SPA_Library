@@ -16,9 +16,7 @@ Ftn1=<a href="#_ftn1" name="_ftnref" title="">[1]</a>
 
 Ftn2=<a href="#_ftn2" name="_ftnref" title="">[2]</a>
 
-1.1.2._sec=Subject to the terms and conditions of this Agreement, each Purchaser agrees to purchase at the Closing and the Company agrees to sell and issue to each Purchaser at the Closing that number of shares of Series&nbsp;A Preferred Stock, $ {A.Par.$} par value per share (the <strong>&ldquo;Series A Preferred Stock</strong>&rdquo;), set forth opposite each Purchaser&rsquo;s name on Exhibit A, at a purchase price of ${A.Price.$} per share.{-sen-} The shares of Series&nbsp;A Preferred Stock issued to the Purchasers pursuant to this Agreement (including any shares issued at the Initial Closing and any {1.2.2.Ins1} Additional Shares, as defined below) shall be referred to in this Agreement as the &ldquo;<strong>Shares</strong>.&rdquo;
-
-1.2.2.Ins1=Milestone Shares or
+1.1.2._sec=Subject to the terms and conditions of this Agreement, each Purchaser agrees to purchase at the Closing and the Company agrees to sell and issue to each Purchaser at the Closing that number of shares of Series&nbsp;A Preferred Stock, $ {ParValue_SeriesA_Shares} par value per share (the <strong>&ldquo;Series A Preferred Stock</strong>&rdquo;), set forth opposite each Purchaser&rsquo;s name on Exhibit A, at a purchase price of ${Purchase_Price_Per_Share_SeriesA} per share.{-sen-} The shares of Series&nbsp;A Preferred Stock issued to the Purchasers pursuant to this Agreement (including any shares issued at the Initial Closing and any {Milestone or Additional Shares}, as defined below) shall be referred to in this Agreement as the &ldquo;<strong>Shares</strong>.&rdquo;
 
 1.2.Title=Closing; Delivery
 
@@ -36,15 +34,15 @@ Ftn5=<a href="#_ftn5" name="_ftnref" title="">[5]</a>
 
 1.3.Title=Sale of Additional Shares of Preferred Stock
 
-1.3.1._sec=After the Initial Closing, the Company may sell, on the same terms and conditions as those contained in this Agreement, up to {_________ additional shares (subject to appropriate adjustment in the event of any stock dividend, stock split, combination or similar recapitalization affecting such shares) of Series A Preferred Stock (the &ldquo;<strong>Additional Shares</strong>&rdquo;), to one or more purchasers (the &ldquo;<strong>Additional Purchasers</strong>&rdquo;) {1.3.1.Ins1}, provided that (i) such subsequent sale is consummated prior to {1.3.1.Ins2} days after the Initial Closing (ii) each Additional Purchaser shall become a party to the Transaction Agreements (as defined below) (other than the Management Rights Letter), by executing and delivering a counterpart signature page to each of the Transaction Agreements{1.3.1.Ins3}.{-sen-} Exhibit A to this Agreement shall be updated to reflect the number of Additional Shares purchased at each such Closing and the parties purchasing such Additional Shares.
+1.3.1._sec=After the Initial Closing, the Company may sell, on the same terms and conditions as those contained in this Agreement, up to {Additional_Shares.#} additional shares (subject to appropriate adjustment in the event of any stock dividend, stock split, combination or similar recapitalization affecting such shares) of Series A Preferred Stock (the &ldquo;<strong>Additional Shares</strong>&rdquo;), to one or more purchasers (the &ldquo;<strong>Additional Purchasers</strong>&rdquo;) {1.3.1.Ins1}, provided that (i) such subsequent sale is consummated prior to {1.3.1.Ins2} days after the Initial Closing (ii) each Additional Purchaser shall become a party to the Transaction Agreements (as defined below) (other than the Management Rights Letter), by executing and delivering a counterpart signature page to each of the Transaction Agreements{1.3.1.Ins3}.{-sen-} Exhibit A to this Agreement shall be updated to reflect the number of Additional Shares purchased at each such Closing and the parties purchasing such Additional Shares.
 
 1.3.1.Ins1=reasonably acceptable to Purchasers holding a {1.3.1. specify percentage} of the then outstanding Shares
 
 1.3.1.Ins2=90
 
-1.3.1.Ins3=; and (iii) [_________], counsel for the Company, provides an opinion dated as of the date of such Closing that the offer, issuance, sale and delivery of the Additional Shares to the Additional Purchasers do not require registration under the Securities Act of 1933, as amended, or applicable state securities laws
+1.3.1.Ins3=; and (iii) {P1.Atty.N,A}, counsel for the Company, provides an opinion dated as of the date of such Closing that the offer, issuance, sale and delivery of the Additional Shares to the Additional Purchasers do not require registration under the Securities Act of 1933, as amended, or applicable state securities laws
 
-1.3.1.Ins1=reasonably acceptable to Purchasers holding a [<em>specify percentage</em>] of the then outstanding Shares
+1.3.1.Ins1=reasonably acceptable to Purchasers holding a {Percentage_of_Shareholders_to_Approve_Additional_Shares} of the then outstanding Shares
 
 Ftn6=<a href="#_ftn6" name="_ftnref" title="">[6]</a>
 
@@ -98,7 +96,7 @@ Ftn11=<a href="#_ftn11" name="_ftnref" title=""><sup>[11]</sup></a>
 
 Ftn12=<a href="#_ftn12" name="_ftnref" title=""><sup>[12]</sup></a>
 
-1.5.9._Sec=&ldquo;<strong>Management Rights Letter</strong>&rdquo; means the agreement between the Company and [Purchaser], dated as of the date of the Initial Closing, in the form of <u>Exhibit F</u> attached to this Agreement.
+1.5.9._Sec=&ldquo;<strong>Management Rights Letter</strong>&rdquo; means the agreement between the Company and {P5.Name.Full}, dated as of the date of the Initial Closing, in the form of <u>Exhibit F</u> attached to this Agreement.
 
 1.5.10._Sec=<strong>Material Adverse Effect</strong>&rdquo; means a material adverse effect on the business, assets (including intangible assets), liabilities, financial condition, property, prospects or results of operations of the Company.
 
@@ -112,9 +110,9 @@ Ftn13=<a href="#_ftn13" name="_ftnref" title=""><sup>[13]</sup></a>
 
 1.5.14._Sec=<strong>Securities Act</strong>&rdquo; means the Securities Act of 1933, as amended, and the rules and regulations promulgated thereunder.
 
-1.5.15._Sec=&ldquo;<strong>Shares</strong>&rdquo; means the shares of Series A Preferred Stock issued at the Initial Closing and any [Milestone Shares or] Additional Shares issued at a subsequent Closing under <u>Subsection </u><u>1.2</u>(b).
+1.5.15._Sec=&ldquo;<strong>Shares</strong>&rdquo; means the shares of Series A Preferred Stock issued at the Initial Closing and any {Milestone Shares or Additional Shares} issued at a subsequent Closing under <u>Subsection </u><u>1.2</u>(b).
 
-1.5.16._Sec=&ldquo;<strong>Transaction Agreements</strong>&rdquo; means this Agreement, the Investors&rsquo; Rights Agreement, the Management Rights Letter, the Right of First Refusal and Co-Sale Agreement, the Voting Agreement and [list any other agreements, instruments or documents entered into in connection with this Agreement].
+1.5.16._Sec=&ldquo;<strong>Transaction Agreements</strong>&rdquo; means this Agreement, the Investors&rsquo; Rights Agreement, the Management Rights Letter, the Right of First Refusal and Co-Sale Agreement, the Voting Agreement and{TransactionAgreements.Other.List}.
 
 1.5.17._Sec=&ldquo;<strong>Voting Agreement</strong>&rdquo; means the agreement among the Company, the Purchasers and certain other stockholders of the Company, dated as of the date of the Initial Closing, in the form of <u>Exhibit H</u> attached to this Agreement.
 
@@ -138,13 +136,17 @@ Ftn16=<a href="#_ftn16" name="_ftnref" title="">[16]</a>
 
 2.2.1.0=The authorized capital of the Company consists, immediately prior to the Initial Closing, of:
 
-2.2.1.1._sec=[__________] shares of common stock, $[____] par value per share (the &ldquo;<strong>Common Stock</strong>&rdquo;), [_________] shares of which are issued and outstanding immediately prior to the Initial Closing.{-sen-} All of the outstanding shares of Common Stock have been duly authorized, are fully paid and nonassessable and were issued in compliance with all applicable federal and state securities laws.{-sen-} [The Company holds no Common Stock in its treasury.]
+2.2.1.1._sec={Quantity_of_Authorized_Common_Shares_PreRound} shares of common stock, ${ParValue_of_Common_Shares_PreRound} par value per share (the &ldquo;<strong>Common Stock</strong>&rdquo;), {Quantity_of_Authorized_Common_Shares_PreRound} shares of which are issued and outstanding immediately prior to the Initial Closing.{-sen-} All of the outstanding shares of Common Stock have been duly authorized, are fully paid and nonassessable and were issued in compliance with all applicable federal and state securities laws. {2.2.1.1.Ins1} 
+
+2.2.1.1.Ins1=The Company holds no Common Stock in its treasury.
 
 Ftn17=<a href="#_ftn17" name="_ftnref" title="">[17]</a>
 
-2.2.1.2._sec=[__________] shares of Preferred Stock, of which [__________] shares have been designated Series&nbsp;A Preferred Stock, none of which are issued and outstanding immediately prior to the Initial Closing.{-sen-} The rights, privileges and preferences of the Preferred Stock are as stated in the Restated Certificate and as provided by the Delaware General Corporation Law.{-sen-} [The Company holds no Preferred Stock in its treasury.]
+2.2.1.2._sec={Quantity_of_Preferred_Shares_PreRound} shares of Preferred Stock, of which {Quantity_of_SeriesA_Shares_PreRound} shares have been designated Series&nbsp;A Preferred Stock, none of which are issued and outstanding immediately prior to the Initial Closing.{-sen-} The rights, privileges and preferences of the Preferred Stock are as stated in the Restated Certificate and as provided by the Delaware General Corporation Law.{-sen-} {2.2.1.2.Ins1}
 
-2.2.2._sec=The Company has reserved [__________] shares of Common Stock for issuance to officers, directors, employees and consultants of the Company pursuant to its [<em>Plan Year</em>] Stock [Option] Plan duly adopted by the Board of Directors and approved by the Company stockholders (the &ldquo;<strong>Stock Plan</strong>&rdquo;).{-sen-} Of such reserved shares of Common Stock, [__________] shares have been issued pursuant to restricted stock purchase agreements, options to purchase [__________] shares have been granted and are currently outstanding, and [__________] shares of Common Stock remain available for issuance to officers, directors, employees and consultants pursuant to the Stock Plan.{-sen-} The Company has furnished to the Purchasers complete and accurate copies of the Stock Plan and forms of agreements used thereunder.
+2.2.1.2.Ins1=The Company holds no Preferred Stock in its treasury.
+
+2.2.2._sec=The Company has reserved {Number_of_Common_Shares_Reserved_for_Employees} shares of Common Stock for issuance to officers, directors, employees and consultants of the Company pursuant to its {Stock Option Plan} duly adopted by the Board of Directors and approved by the Company stockholders (the &ldquo;<strong>Stock Plan</strong>&rdquo;).{-sen-} Of such reserved shares of Common Stock, Number_of_Common_Shares_Issued_to_Employees shares have been issued pursuant to restricted stock purchase agreements, options to purchase {Number_of_Options_Granted_to_Employees} shares have been granted and are currently outstanding, and {Number_of_Common_Shares_Available_for_Issuance_to_Employees} shares of Common Stock remain available for issuance to officers, directors, employees and consultants pursuant to the Stock Plan.{-sen-} The Company has furnished to the Purchasers complete and accurate copies of the Stock Plan and forms of agreements used thereunder.
 
 2.2.3._sec=<u>Subsection </u><u>2.2(b)</u> of the Disclosure Schedule sets forth the capitalization of the Company immediately following the Initial Closing including the number of shares of the following: (i)&nbsp;issued and outstanding Common Stock, including, with respect to restricted Common Stock, vesting schedule and repurchase price; (ii)&nbsp;granted stock options, including vesting schedule and exercise price; (iii)&nbsp;shares of Common Stock reserved for future award grants under the Stock Plan; (iv)&nbsp;each series of Preferred Stock; and (v)&nbsp;warrants or stock purchase rights, if any.{-sen-} Except for (A) the conversion privileges of the Shares to be issued under this Agreement, (B) the rights provided in <u>Section 4</u> of the Investors&rsquo; Rights Agreement, and (C) the securities and rights described in <u>Subsection </u><u>2.2(a)(ii)</u> of this Agreement and <u>Subsection </u><u>2.2(b)</u> of the Disclosure Schedule, there are no outstanding options, warrants, rights (including conversion or preemptive rights and rights of first refusal or similar rights) or agreements, orally or in writing, to purchase or acquire from the Company any shares of Common Stock or Series A Preferred Stock, or any securities convertible into or exchangeable for shares of Common Stock or Series A Preferred Stock.{-sen-} All outstanding shares of the Company&rsquo;s Common Stock and all shares of the Company&rsquo;s Common Stock underlying outstanding options are subject to (i) a right of first refusal in favor of the Company upon any proposed transfer (other than transfers for estate planning purposes); and (ii) a lock-up or market standoff agreement of not less than one hundred eighty (180) days following the Company&rsquo;s initial public offering pursuant to a registration statement filed with the Securities and Exchange Commission under the Securities Act.
 
@@ -174,7 +176,7 @@ Ftn21=<a href="#_ftn21" name="_ftnref" title="">[21]</a>
 
 Ftn22=<a href="#_ftn22" name="_ftnref" title="">[22]</a>
 
-2.5.1._sec=The Shares, when issued, sold and delivered in accordance with the terms and for the consideration set forth in this Agreement, will be validly issued, fully paid and nonassessable and free of restrictions on transfer other than restrictions on transfer under the Transaction Agreements, applicable state and federal securities laws and liens or encumbrances created by or imposed by a Purchaser.{-sen-} Assuming the accuracy of the representations of the Purchasers in <u>Section </u><u>0</u> of this Agreement and subject to the filings described in <u>Subsection&nbsp;</u><u>2.5</u>(b)<u>(ii)</u> below, the Shares will be issued in compliance with all applicable federal and state securities laws.{-sen-} The Common Stock issuable upon conversion of the Shares has been duly reserved for issuance, and upon issuance in accordance with the terms of the Restated Certificate, will be validly issued, fully paid and nonassessable and free of restrictions on transfer other than restrictions on transfer under the Transaction Agreements, applicable federal and state securities laws and liens or encumbrances created by or imposed by a Purchaser.{-sen-} Based in part upon the representations of the Purchasers in <u>Section </u><u>0</u> of this Agreement, and subject to <u>Subsection </u><u>2.5</u>(b) below, the Common Stock issuable upon conversion of the Shares will be issued in compliance with all applicable federal and state securities laws.
+2.5.1._sec=The Shares, when issued, sold and delivered in accordance with the terms and for the consideration set forth in this Agreement, will be validly issued, fully paid and nonassessable and free of restrictions on transfer other than restrictions on transfer under the Transaction Agreements, applicable state and federal securities laws and liens or encumbrances created by or imposed by a Purchaser.{-sen-} Assuming the accuracy of the representations of the Purchasers in <u>Section {2Rep.Xnum}</u> of this Agreement and subject to the filings described in <u>Subsection&nbsp;</u><u>2.5(b)(ii)</u> below, the Shares will be issued in compliance with all applicable federal and state securities laws.{-sen-} The Common Stock issuable upon conversion of the Shares has been duly reserved for issuance, and upon issuance in accordance with the terms of the Restated Certificate, will be validly issued, fully paid and nonassessable and free of restrictions on transfer other than restrictions on transfer under the Transaction Agreements, applicable federal and state securities laws and liens or encumbrances created by or imposed by a Purchaser.{-sen-} Based in part upon the representations of the Purchasers in <u>Section </u><u>0</u> of this Agreement, and subject to <u>Subsection </u><u>2.5</u>(b) below, the Common Stock issuable upon conversion of the Shares will be issued in compliance with all applicable federal and state securities laws.
 
 2.5.2._sec=No &ldquo;bad actor&rdquo; disqualifying event described in Rule 506(d)(1)(i)-(viii) of the Securities Act (a &ldquo;<strong>Disqualification Event</strong>&rdquo;) is applicable to the Company or, to the Company&rsquo;s knowledge, any Company Covered Person, except for a Disqualification Event as to which Rule 506(d)(2)(ii&ndash;iv) or (d)(3), is applicable.
 
@@ -182,13 +184,29 @@ Ftn23=<a href="#_ftn23" name="_ftnref" title="">[23]</a>
 
 2.6.Title=Governmental Consents and Filings
 
-2.6._sec=Assuming the accuracy of the representations made by the Purchasers in Section 0 of this Agreement, no consent, approval, order or authorization of, or registration, qualification, designation, declaration or filing with, any federal, state or local governmental authority is required on the part of the Company in connection with the consummation of the transactions contemplated by this Agreement, except for (i) the filing of the Restated Certificate, which will have been filed as of the Initial Closing, and (ii) filings pursuant to Regulation&nbsp;D of the Securities Act, and applicable state securities laws, which have been made or will be made in a timely manner.
+2.6._sec=Assuming the accuracy of the representations made by the Purchasers in Section {2Rep.Xnum} of this Agreement, no consent, approval, order or authorization of, or registration, qualification, designation, declaration or filing with, any federal, state or local governmental authority is required on the part of the Company in connection with the consummation of the transactions contemplated by this Agreement, except for (i) the filing of the Restated Certificate, which will have been filed as of the Initial Closing, and (ii) filings pursuant to Regulation&nbsp;D of the Securities Act, and applicable state securities laws, which have been made or will be made in a timely manner.
 
 2.7.Title=Litigation
 
 Ftn25=<a href="#_ftn24" name="_ftnref" title="">[24]</a>&nbsp; 
 
-2.7._sec=There is no claim, action, suit, proceeding, arbitration, complaint, charge or investigation pending or to the Company&rsquo;s knowledge, currently threatened [in writing] (i) against the Company or any officer, director or Key Employee of the Company [arising out of their employment or board relationship with the Company][; or] (ii) [to the Company&rsquo;s knowledge,] that questions the validity of the Transaction Agreements or the right of the Company to enter into them, or to consummate the transactions contemplated by the Transaction Agreements[; or (iii) to the Company&rsquo;s knowledge, that would reasonably be expected to have, either individually or in the aggregate, a Material Adverse Effect].{-sen-} Neither the Company nor, to the Company&rsquo;s knowledge, any of its officers, directors or Key Employees is a party or is named as subject to the provisions of any order, writ, injunction, judgment or decree of any court or government agency or instrumentality (in the case of officers, directors or Key Employees, such as would affect the Company).{-sen-} There is no action, suit, proceeding or investigation by the Company pending or which the Company intends to initiate.{-sen-} The foregoing includes, without limitation, actions, suits, proceedings or investigations pending or threatened in writing (or any basis therefor known to the Company) involving the prior employment of any of the Company&rsquo;s employees, their services provided in connection with the Company&rsquo;s business, any information or techniques allegedly proprietary to any of their former employers or their obligations under any agreements with prior employers.
+2.7._sec={2.7.1._Sen}{-sen-}{2.7.2._Sen}
+
+2.7.1._Sen=There is no claim, action, suit, proceeding, arbitration, complaint, charge or investigation pending or to the Company&rsquo;s knowledge, currently threatened {2.7.in writing} {2.7.1.List}
+
+
+2.7.1.List={2.7.1.1}; {2.7.1.2}; or {2.7.1.3}.
+
+2.7.1.1=against the Company or any officer, director or Key Employee of the Company {arising out of their employment or board relationship with the Company 
+2.7.1.2=Choose:<br>2.7.1.2.Knowledge: {2.7.1.2.Knowledge} or <br>2.7.1.2.Knowledge: {2.7.1.2.WithoutKnowledge}
+
+2.7.1.2.Knowledge=to the Company&rsquo;s knowledge, that questions the validity of the Transaction Agreements or the right of the Company to enter into them, or to consummate the transactions contemplated by the Transaction Agreements
+
+2.7.1.2.WithoutKnowledge=that questions the validity of the Transaction Agreements or the right of the Company to enter into them, or to consummate the transactions contemplated by the Transaction Agreements
+
+2.7.1.3=to the Company&rsquo;s knowledge, that would reasonably be expected to have, either individually or in the aggregate, a Material Adverse Effect
+
+2.7.2._Sen=Neither the Company nor, to the Company&rsquo;s knowledge, any of its officers, directors or Key Employees is a party or is named as subject to the provisions of any order, writ, injunction, judgment or decree of any court or government agency or instrumentality (in the case of officers, directors or Key Employees, such as would affect the Company).{-sen-} There is no action, suit, proceeding or investigation by the Company pending or which the Company intends to initiate.{-sen-} The foregoing includes, without limitation, actions, suits, proceedings or investigations pending or threatened in writing (or any basis therefor known to the Company) involving the prior employment of any of the Company&rsquo;s employees, their services provided in connection with the Company&rsquo;s business, any information or techniques allegedly proprietary to any of their former employers or their obligations under any agreements with prior employers.
 
 Ftn25=<a href="#_ftn25" name="_ftnref" title="">[25]</a>
 
@@ -495,9 +513,9 @@ Ftn52=<a href="#_ftn52" name="_ftnref" title="">[52]</a>
 
 4.8._sec=The Company and each Purchaser (other than the Purchaser relying upon this condition to excuse such Purchaser&rsquo;s performance hereunder) [and the other stockholders of the Company named as parties thereto] shall have executed and delivered the Investors&rsquo; Rights Agreement.
 
-4.9.Title=Right of First Refusal and Co‑Sale Agreement
+4.9.Title=Right of First Refusal and Co&#8209;Sale Agreement
 
-4.9._sec=The Company, each Purchaser (other than the Purchaser relying upon this condition to excuse such Purchaser&rsquo;s performance hereunder), and the other stockholders of the Company named as parties thereto shall have executed and delivered the Right of First Refusal and Co‑Sale Agreement.
+4.9._sec=The Company, each Purchaser (other than the Purchaser relying upon this condition to excuse such Purchaser&rsquo;s performance hereunder), and the other stockholders of the Company named as parties thereto shall have executed and delivered the Right of First Refusal and Co&#8209;Sale Agreement.
 
 4.10.Title=Voting Agreement
 
@@ -557,9 +575,9 @@ Ftn55=<a href="#_ftn55" name="_ftnref" title="">[55]</a>
 
 5.4._sec=Each Purchaser shall have executed and delivered the Investors&rsquo; Rights Agreement.
 
-5.5.Title=Right of First Refusal and Co‑Sale Agreement
+5.5.Title=Right of First Refusal and Co&#8209;Sale Agreement
 
-5.5._sec=Each Purchaser and the other stockholders of the Company named as parties thereto shall have executed and delivered the Right of First Refusal and Co‑Sale Agreement.
+5.5._sec=Each Purchaser and the other stockholders of the Company named as parties thereto shall have executed and delivered the Right of First Refusal and Co&#8209;Sale Agreement.
 
 5.6.Title=Voting Agreement
 
