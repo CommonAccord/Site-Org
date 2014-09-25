@@ -5,7 +5,7 @@
    <h3 class="title">&#10003; Structured Relationships</h3>
    <h3 class="title">&#10003;  Ready for Personal Data Stores</h3>
      
-   <p>Relationships can be expressed and codified as objects presented as cards.
+   <p>Legal systems can be codified as "objects" in a "graph."
 <br/><br/>
     <table class="table table-striped table-condensed table-bordered" style="padding:20px">
 
