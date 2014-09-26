@@ -9,29 +9,46 @@ Model.Root={Addr.Table}<br>{Pronoun.List}
 
 SignBy=By: <u>{xSignature}</u><br/>Name: {Sign.Name.Full}<br/>Its: {Sign.Title}
  
-Pronoun.List={male-female}, {He-She}, {he-she}, {Him-Her}, {him-her}, {His-Her}, {his-her}, {His-Hers}, {his-hers}, {Himself-Herself}, {himself-herself}
+Pronoun.List={male/female}, {He/She}, {he/she}, {Him/Her}, {him/her}, {His/Her}, {his/her}, {His/Hers}, {his/hers}, {Himself/Herself}, {himself/herself}
 
-Male-Female=Legal
+Male/Female=Legal
 
-male-female=legal
+male/female=legal
 
-He-She=It
+He/She=It
 
-he-she=it
+he/she=it
 
-Him-Her=It
+Him/Her=It
 
-him-her=it
+him/her=it
 
-His-Her=Its
+His/Her=Its
 
-his-her=its
+his/her=its
 
-His-Hers=its
+His/Hers=its
 
-his-hers=its
+his/hers=its
 
-Himself-Herself=itself
+Himself/Herself=itself
 
-himself-herself=itself
-						
+himself/herself=itself
+					
+I/we=we
+
+I/We=We
+
+I/C=We
+
+my/C=our
+
+me/C=us
+
+me/we=we
+
+me/us=us
+
+my/our=our
+
+	

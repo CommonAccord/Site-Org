@@ -1,25 +1,25 @@
 =[core/class/ID_Individual]
 
-Male-Female=Male
+Male/Female=Male
 
-male-female=male
+male/female=male
 
-He-She=He
+He/She=He
 
-he-she=he
+he/she=he
 
-Him-Her=him
+Him/Her=him
 
-him-her=him
+him/her=him
 
-His-Her=His
+His/Her=His
 
-his-her=his
+his/her=his
 
-His-Hers=His
+His/Hers=His
 
-his-hers=his
+his/hers=his
 
-Himself-Herself=Himself
+Himself/Herself=Himself
 
-himself-herself=himself				
+himself/herself=himself				

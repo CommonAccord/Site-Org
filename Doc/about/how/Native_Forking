@@ -1,10 +1,10 @@
-Forking=<b>Forking</b>. is the software community's work for taking something that exists and doing something new with it.
+Forking=<b>Forking</b> is the software community's word for taking something that exists and doing something new with it.
 
-CopyFork=<b>CopyFork</b>.A fork can be done by making a copy of the content and working on it.  Disconnecting it from the source.  (That, actually, is how the legal community works documents.  Each draft is a complete copy, disconnected from the prior.)
+CopyFork=<b>Copy Fork</b> A fork can be done by making a copy of the content and working on it.  Disconnecting it from the source.  (That is how the legal community works documents.  Each draft is a complete copy, disconnected from the prior.  Redlining is a post-hoc, manual connection of the two.)
 
-GitFork=<b>GitFork</b>. Git treats all work as a fork.  It makes a copy of the work.  But it keeps a backtrace- a link to the source.  (A link, which, btw, can't become confused.)  So the author of the new work can treat it as a version.  And merge the new work with the source (improving it), or presenting it as the next version.  It eliminates the problems of version control as lawyers know them.
+GitFork=<b>Git Fork</b>. Git treats all work as a fork.  It makes a copy (like with Copy Fork) but keeps a backtrace to the source.  So it can be treated as a version and retain a history.  It eliminates the problems of version control and most of the problems of collaboration as lawyers know them.
 
-NativeFork=<b>NativeFork</b>.There is a native way to express the relationships among things in CommonAccord.  You reference the source and then override to express the differences.  This has advantages. The relationships are expressly labeled, and can be counted and calculated.  It builds up like a portfolio and is expressed as urls. There is a RESTful aspect to it. 
+NativeFork=<b>Native Forking</b> A subsequent draft or repurposing of a document is done in CommonAccord by linking to the precedents.  You reference the source and then express the differences as overrides.  This has advantages.  The relationships are expressly labeled, can be counted and calculated.  It builds up like a portfolio, or 3D printing. 
 
 How=To create a new use, version, or variant of something, create a new file and reference the prior one as
 
@@ -16,4 +16,4 @@ Model.Root={Doc.Meta}<br>{FeedMe!}<br>{Forking}<br>{CopyFork}<br>{GitFork}<br>{N
 
 
 
- 			
+ 			  

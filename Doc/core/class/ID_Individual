@@ -18,9 +18,9 @@ Name.L,F={Name.Last}, {Name.First}
 
 Name,Title={Name.Full}, {Title}
 
-I-we=I
+I/we=I
 
-I-We=I
+I/We=I
 
 I/C=I
 
@@ -28,13 +28,11 @@ my/C=my
 
 me/C=me
 
-me-we=me
+me/we=me
 
-me-us=me
+me/us=me
 
-my-our=my
-
-
+my/our=my
 
 /s=<b></b>
 
