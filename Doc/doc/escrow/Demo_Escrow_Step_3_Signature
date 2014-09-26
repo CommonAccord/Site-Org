@@ -1,9 +1,19 @@
 =[doc/escrow/Demo_Escrow_Step_2_Order]
 
-Seller.Signature=xGERRY
+Seller.xSignature=xGERRY
 
-Purchaser.Signature=xROBERTA ROBINSON
+Seller.Sign.YMD=2014-08-13:12:01
 
-Escrow.Signature=xSAFE HANDS
+Purchaser.xSignature=xROBERTA ROBINSON
 
-Arbitrator.Signature=xSOLOMON SHIRLEY	  
+Purchaser.Sign.YMD=2014-08-13:12:04
+
+Escrow.xSignature=xSAFE HANDS
+
+Escrow.Sign.YMD=2014-08-13:12:05
+
+Arbitrator.xSignature=xSOLOMON SHIRLEY
+
+Arbitrator.Sign.YMD=2014-08-13:12:03
+
+

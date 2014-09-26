@@ -1,0 +1,10 @@
+=[core/class/ID_He]
+
+=[core/at/USA/CA/San_Francisco/San_Francisco/Geo]
+
+Name.First=<font color="magenta">Samuel</font>
+
+Name.Last=<font color="magenta">Hardy</font>
+
+Name.Full={Name.FL}
+				
