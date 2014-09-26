@@ -1,0 +1,43 @@
+Model.Root={MCU.Table}
+
+
+MCU.Table={ttr-}<center><b>{MCU.Heading.td}</b></center>{-tr-}{MCU.168.td}{-tr-}{MCU.68.td}{-tr-}{MCU.WhitePlains.td}{-tr-}{MCU.William.td}{-ttr}
+
+MCU.Heading.td=MEDICAL CORRESPONDENCE UNITS{-tr-}SITE{-td-}MAILING ADDRESS{-td-}IN PERSON ADDRESS{-td-}TELEPHONE NUMBER
+
+MCU.168.td={168.Site}{-td-}{168.Mail}{-td-}{168.Foot}{-td-}{168.Phone}
+
+
+168.Site=NewYork-Presbyterian Hospital / Columbia University Medical Center<br>Morgan Stanley Children's Hospital of NewYork-Presbyterian Hospital (CHONY)<br>The Allen Hospital (TAH)
+168.Mail=622 West 168th Street<br>Medical Correspondence Unit<br>New York, NY 10032
+168.Foot=177 Fort Washington Avenue<br>Milstein Lobby<br>New York, NY 10032
+168.Phone=(212) 305-3270 
+                    
+
+MCU.68.td={68.Site}{-td-}{68.Mail}{-td-}{68.Foot}{-td-}{68.Phone}
+
+68.Site=NewYork-Presbyterian Hospital / Weill Cornell Medical Center
+68.Mail=525 East 68th Street<br>Medical Correspondence Unit<br>Box 126<br>New York, NY 10065-4879
+68.Foot=525 East 68th Street<br>Room P-04<br>New York, NY 10065-4879
+68.Phone=(212) 746-0530
+
+MCU.WhitePlains.td={WhitePlains.Site}{-td-}{WhitePlains.Mail}{-td-}{WhitePlains.Foot}{-td-}{WhitePlains.Phone}
+
+WhitePlains.Site=NewYork-Presbyterian Hospital / <br>Westchester Division
+WhitePlains.Mail=21 Bloomingdale Road<br>Medical Correspondence Unit<br>Hall H, Room 006<br>White Plains, NY 10605
+WhitePlains.Foot=21 Bloomingdale Road<br>Main Lobby - See Security<br>White Plains, NY 10605
+WhitePlains.Phone=(914) 997-5725
+
+MCU.William.td={William.Site}{-td-}{William.Mail}{-td-}{William.Foot}{-td-}{William.Phone}
+
+William.Site=NewYork-Presbyterian Hospital / Lower Manhattan
+William.Mail=170 William Street<br>Medical Correspondence Unit<br>Room M92<br>New York, NY 10038
+William.Foot=170 William Street<br>Room M92<br>New York, NY 10038
+William.Phone=(212) 312-5121 and (212) 312-5122
+
+ttr-=<table><tr><td>
+-tr-=</td></tr><tr>{td}
+-ttr=</td></tr></table>
+-td-=</td><td>
+td=<td width="25%">
+    
