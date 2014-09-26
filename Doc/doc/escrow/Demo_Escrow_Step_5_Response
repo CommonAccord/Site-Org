@@ -1,4 +1,4 @@
-Response.=[core/form/agt/escrow/Seller_Response_Form]
+Response.=[core/form/agt/escrow/Response_Form]
 
 Model.Root={Response.Model.Root}
 =[doc/escrow/Demo_Escrow_Step_4_Claim]
