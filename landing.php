@@ -50,9 +50,9 @@
      <div class="col-sm-4 aboutBox" id="more" >
           <h2 class="title">The Challenge</h2>
           <hr>
-   <h4 class="jtitle">To eliminate rehashing and needless inconsistency in law.</h4>
+   <h4 class="jtitle">To eliminate needless work and inconsistency in legal dealings.</h4>
           <hr>
-   <p>The legal system runs on text. Nearly all legal text is a copy or rework of something already existing. Our current technologies fail to make these connections.  This creates needless work, cost, delay, risk and legal confusion.</p>
+   <p>Nearly all legal text is a copy or rework of something already existing. Word processing technologies fail to leverage these connections, creating needless work, cost, delay, risk and legal confusion.</p>
           <br>        
 
     </div> <!--end col-sm-4 !-->
@@ -60,9 +60,9 @@
         <div class="col-sm-4 aboutBox">
           <h2 class="title">A Solution</h2>
           <hr>
-         <h4 class="jtitle">The simplest possible programming language</h4>   
+         <h4 class="jtitle">A simple programming language</h4>   
 <hr>
-   <p>We have created a modular template system of text cards that relies on {expansion} of strings and [expansion] of cards.  Period.  People can program their relationships.  Lawyers can codify boilerplate.  Management can have a data picture of the enterprise's relationships, situation and activities.   Smart contracts can be both technical &ldquo;dry&rdquo; code (i.e. self-contained code snippets) and legal &ldquo;wet&rdquo; code.</p>
+   <p>A modular template system of cards that is the simplest possible programming language, with the key features of modularity and inheritance.  It relies on {expansion} of strings and [expansion] of cards.  Period.  People can program their relationships.  Lawyers can codify boilerplate.  Management gets a data picture of the enterprise's relationships, situation and activities.   Smart contracts can be both technical &ldquo;dry&rdquo; code (i.e. self-contained code snippets) and legal &ldquo;wet&rdquo; code.  Marketplaces can codify their terms of dealing by opt-in iteration.</p>
       <br>
 
         </div><!--end col-sm-4 !-->
