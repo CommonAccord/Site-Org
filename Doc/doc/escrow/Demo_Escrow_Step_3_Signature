@@ -1,9 +1,9 @@
 =[doc/escrow/Demo_Escrow_Step_2_Order]
 
-Seller.Signature=xSeller
+Seller.Signature=xGERRY
 
-Purchaser.Signature=xPurchaser
+Purchaser.Signature=xROBERTA ROBINSON
 
-Agent.Signature=xAgent
+Escrow.Signature=xSAFE HANDS
 
-Arbitrator.Signature=xArbitrator	
+Arbitrator.Signature=xSOLOMON SHIRLEY	  
