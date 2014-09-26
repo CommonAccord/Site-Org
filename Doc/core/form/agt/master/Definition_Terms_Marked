@@ -12,6 +12,10 @@ Company={m-}Company{-m}
 
 Company Affiliate={m-}Company Affiliate{-m}
 
+Company or its Affiliates={m-}Company or its Affiliates{-m}
+
+Company and its Affiliates={m-}Company and its Affiliates{-m}
+
 Company Personal Data={m-}Company Personal Data{-m}
 
 Company Property={m-}Company Property{-m}
@@ -32,7 +36,7 @@ IP Rights={m-}IP Rights{-m}
 
 MSA={m-}MSA{-m}
 
-Other Company Databases}={m-}Other Company Databases}{-m}
+Other Company Databases={m-}Other Company Databases}{-m}
 
 Personal Data={m-}Personal Data{-m}
 
@@ -47,6 +51,8 @@ Processing={m-}Processing{-m}
 Processed={m-}Processed{-m}
 
 Proprietary Information={m-}Proprietary Information{-m}
+
+Services={m-}Services{-m}
 
 Software Materials={m-}Software Materials{-m}
 
@@ -69,4 +75,7 @@ Supplier's Reserved Intellectual Property={m-}Supplier's Reserved Intellectual P
 Term={m-}Term{-m}
 
 Third Party Intellectual Property={m-}Third Party Intellectual Property{-m}
+
+Doc Organization:=
+Schedule A=Schedule A
 	      
