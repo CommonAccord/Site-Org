@@ -1,0 +1,14 @@
+Parent.=[core/id/new_york_presbyterian]
+
+=[core/class/ID_Entity]
+
+Site=NewYork-Presbyterian Hospital / Columbia University Medical Center / Morgan Stanley Children's Hospital of New York-Presbyterian Hospital (CHONY) / The Allen Hospital (TAH)
+
+Mail=622 West 168th Street<br>Medical Correspondence Unit<br>New York, NY 10032
+
+Foot=177 Fort Washington Avenue<br>Milstein Lobby<br>New York, NY 10032
+
+Phone=(212) 305-3270
+
+MCU.Row={Site}{-td-}{Mail}{-td-}{Foot}{-td-}{Phone}
+

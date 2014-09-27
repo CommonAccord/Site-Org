@@ -6,4 +6,6 @@ P2.Witness.=[core/id/solomon_shirley]
 
 P2.=[core/id/hazardj]
 P2.Witness.=[core/id/solomon_shirley]
-P3.=[core/id/acme_incorporated]        
+P3.=[core/id/acme_incorporated]   
+
+P1.=[core/id/new_york_presbyterian]  

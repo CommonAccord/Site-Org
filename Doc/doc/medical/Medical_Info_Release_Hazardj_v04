@@ -1,0 +1,5 @@
+=[doc/medical/Medical_Info_Release_Hazardj_v03]
+
+Reorganizing=the document to correspond more to a letter format, which seems to more clearly reflect the direction of the communication.  Putting the addressee at the top, with complete information, and eliminating the reference to the addressee in the middle of the document.
+AuthorizationForm=<b>From:</b><br> {Patient}<br><b>To:</b>{MCU.Table}<br><b>Re: </b> {Heading}<br>Please make the following transfer of my medical information:<ol><li>{Transferee}</li><li>{Info}</li><li>{Delivery}</li><li>{Purpose}</li><li>{Authorize}</li></ol><br>{Sign.Block}
+                    

@@ -1,5 +1,7 @@
 
-Model.Root={H.Heading}{Form}<br><hr><br>{H.Heading}{MCU.Table}
+Model.Root={AuthorizationForm}
+
+AuthorizationForm={H.Heading}{Form}<br><hr><br>{H.Heading}{MCU.Table.WithTitle}
 
 hx=h5
 site-=<ol><li>
@@ -21,7 +23,7 @@ P1.Site={P1.Site.Select}
 P1.Site.Select=Select {P1.Site } :{site-} 168.Site: {168.Site }{-site-}68.Site: {68.Site }{-site-}WhitePlains.Site: {WhitePlains.Site }{-site-}William.Site: {William.Site }{-site}
 
 
-Info=<b>Specify Information to be released:</b><ol><li>{Info.Time}</li><li>{Info.Source}</li><li>{Info.Report}</li><li>{Info.Sensitive}</li></ol>
+Info=<b>Information to be released:</b><ol><li>{Info.Time}</li><li>{Info.Source}</li><li>{Info.Report}</li><li>{Info.Sensitive}</li></ol>
 
 Info.Time=<b>Period:</b> {Info.Time.Begin.YMD} to:  {Info.Time.End.YMD}
 
@@ -89,7 +91,7 @@ Purpose.Legal=Legal
 Purpose.Other=Describe {Describe Purpose}
 
 
-Authorize=<b>Authorization</b> I, or my authorized representative, request that health information regarding my care and treatment at {P1.Handle} be disclosed as described on this form. I understand that:<ul><li>I may inspect and/or receive a copy of the information described on this Authorization by completing this form and signing below.</li><li>Providers are permitted to charge reasonable fees to recover costs for inspections and/or copying.</li><li>Treatment and payment will not be conditional on whether you sign this authorization. Signing is voluntary, however if you refuse to sign NYP will not release your records.</li><li>By my specifically authorizing the release of HIV/AIDS related alcohol or drug treatment, or mental health treatment information that the recipient is prohibited from re-disclosing such information without my authorization unless permitted to do so under federal or state law. If I experience discrimination because of the release or disclosure of HIV-related information, I may contact {HIV.Complaint.Contact}. These agencies are responsible for protecting my rights.</li><li>Alcohol/drug treatment-related information or confidential HIV/AIDS related information released through this form must be accompanied by the required statements regarding prohibition of re-disclosure.</li><li>I may revoke this authorization at any time by providing written notice to {P1.Handle} except to the extent that action has already been taken based on this authorization.</li><li>I understand that this Authorization will expire on: Date {Expire.YMD} (provide date if less than 1 year) or 1 year after being signed.</li></ul>
+Authorize=<b>Authorization:</b><br> I, or my authorized representative, request that health information regarding my care and treatment at {P1.Handle} be disclosed as described on this form. I understand that:<ul><li>I may inspect and/or receive a copy of the information described on this Authorization by completing this form and signing below.</li><li>Providers are permitted to charge reasonable fees to recover costs for inspections and/or copying.</li><li>Treatment and payment will not be conditional on whether you sign this authorization. Signing is voluntary, however if you refuse to sign NYP will not release your records.</li><li>By my specifically authorizing the release of HIV/AIDS related alcohol or drug treatment, or mental health treatment information that the recipient is prohibited from re-disclosing such information without my authorization unless permitted to do so under federal or state law. If I experience discrimination because of the release or disclosure of HIV-related information, I may contact {HIV.Complaint.Contact}. These agencies are responsible for protecting my rights.</li><li>Alcohol/drug treatment-related information or confidential HIV/AIDS related information released through this form must be accompanied by the required statements regarding prohibition of re-disclosure.</li><li>I may revoke this authorization at any time by providing written notice to {P1.Handle} except to the extent that action has already been taken based on this authorization.</li><li>I understand that this Authorization will expire on: Date {Expire.YMD} (provide date if less than 1 year) or 1 year after being signed.</li></ul>
 
 HIV.Complaint.Contact=the New York State Division of Human Rights at (212) 480-2493 or the New York City Commission of Human Rights at (212) 306-7450
 
@@ -100,9 +102,17 @@ H.Heading=<{hx}>{Heading}</{hx}>
 P2.Account=myNYP.org
 P1.Handle=NYP
 Heading=AUTHORIZATION TO DISCLOSE PROTECTED HEALTH INFORMATION/MEDICAL RECORDS
-MCU.Table={ttr-}<center><b>{MCU.Heading.td}</b></center>{-tr-}{MCU.168.td}{-tr-}{MCU.68.td}{-tr-}{MCU.WhitePlains.td}{-tr-}{MCU.William.td}{-ttr}
+MCU.Table.WithTitle={ttr-}<center><b>{MCU.Title}</b></center>{-tr-}{MCU.Heading.td}{-tr-}{MCU.List}{-ttr}
 
-MCU.Heading.td=MEDICAL CORRESPONDENCE UNITS{-tr-}SITE{-td-}MAILING ADDRESS{-td-}IN PERSON ADDRESS{-td-}TELEPHONE NUMBER
+MCU.Table={ttr-}{MCU.Heading.td}{-tr-}{MCU.List}{-ttr}
+
+MCU.List={MCU.List.All}
+
+MCU.List.All={MCU.168.td}{-tr-}{MCU.68.td}{-tr-}{MCU.WhitePlains.td}{-tr-}{MCU.William.td}
+
+MCU.Title=MEDICAL CORRESPONDENCE UNITS
+
+MCU.Heading.td=SITE{-td-}MAILING ADDRESS{-td-}IN PERSON ADDRESS{-td-}TELEPHONE NUMBER
 
 MCU.168.td={168.Site}{-td-}{168.Mail}{-td-}{168.Foot}{-td-}{168.Phone}
 
