@@ -1,0 +1,9 @@
+=[core/form/policy/health/privacy/NYP_Patient_Authorization]
+
+P2.Rep.=[core/id/roberta_robinson]
+
+P2.Witness.=[core/id/solomon_shirley]
+
+P2.=[core/id/hazardj]
+P2.Witness.=[core/id/solomon_shirley]
+P3.=[core/id/acme_incorporated]        
