@@ -1,0 +1,16 @@
+=[core/class/ID_Entity]
+
+=[core/at/USA/CA/San_Mateo/Menlo_Park/Geo]
+
+Name.Full=<font color="blue">Applied Computer Company</font>
+
+Entity.a=a Delaware corporation
+
+Addr.Type=business
+
+Addr.1=100 Gravel Dell
+			      
+Domain.Com=appliedapp.com
+Privacy.Email=privacy@{Domain.Com}
+State={Addr.State}
+  
