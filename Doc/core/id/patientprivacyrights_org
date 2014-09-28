@@ -4,6 +4,7 @@ app.tou.We.=[core/id/applied_computer_company]
 
 app.tou.=[core/form/agt/web/tou/form_1]
 
+P1.Name.Full={Me.Name.Full}
 
 app.privacypolicy.P2.=[core/id/applied_computer_company]
 
