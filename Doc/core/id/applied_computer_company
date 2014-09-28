@@ -9,7 +9,8 @@ Entity.a=a Delaware corporation
 Addr.Type=business
 
 Addr.1=100 Gravel Dell
-			      
+   
+Addr.Zip=94025
 Domain.Com=appliedapp.com
 Privacy.Email=privacy@{Domain.Com}
 State={Addr.State}
@@ -23,4 +24,5 @@ Network=HealNet
 System=HealOS
 
 Domain.Com=appliedcomputer.com
+  
   

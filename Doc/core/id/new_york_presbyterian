@@ -1,11 +1,11 @@
 Name.Full=NewYork-Presbyterian Hospital
 
-=[core/class/ID_Entity]
+=[core/class/ID_Entity_NFP]
 
 168.=[core/id/new_york_presbyterian_168]
 
 Domain.Com=myNYP.org
 Privacy.Email=privacy@nyp.org
 State=New York State
-
-  
+Privacy.ContactOfficer=Nigel Yalmer, CPO
+      

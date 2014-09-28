@@ -4,7 +4,7 @@ entity=legal person
 
 entity.a=a {entity}
 
-
+Addr.Type=business
 Model.Root={Addr.Table}<br>{Pronoun.List}
 
 SignBy=By: <u>{xSignature}</u><br/>Name: {Sign.Name.Full}<br/>Its: {Sign.Title}
@@ -51,4 +51,4 @@ me/us=us
 
 my/our=our
 
-	
+	  

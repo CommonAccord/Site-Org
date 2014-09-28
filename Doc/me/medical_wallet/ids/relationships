@@ -1,0 +1,31 @@
+RS-P.Privacy.Effective.YMD=September 12, 2014
+RS-P.Privacy.P1.=[me/medical_wallet/id/NYP]
+RS-P.Privacy.P2.=[me/medical_wallet/id/Alice]
+RS-P.Privacy.P1.Handle=Hospital
+RS-P.Privacy.P2.Handle=Patient
+RS-P.Privacy.=[core/gov/usa/hhs/ocr_privacy_hippa_model_notice_english]
+
+
+C-P.Privacy.Effective.YMD=September 28, 2014
+C-P.Privacy.P1.=[me/medical_wallet/id/BobApp]
+C-P.Privacy.P2.=[me/medical_wallet/id/Alice]
+C-P.Privacy.P1.Handle=App Provider
+C-P.Privacy.P2.Handle=Patient
+C-P.Privacy.=[core/gov/usa/hhs/ocr_privacy_hippa_model_notice_english]
+
+Model.Root=<h3>RS-P.Privacy</h3>{RS-P.Privacy.DocBody}<hr><h3>C-P.Privacy</h3> {C-P.Privacy.DocBody}   
+For=future use:
+C.=[me/medical_wallet/id/BobApp]
+
+P.=[me/medical_wallet/id/Alice]
+
+AS.=[me/medical_wallet/id/Applied_App]
+
+RS.=[me/medical_wallet/id/NYP]
+
+RegSt.=[me/medical_wallet/id/MMS]
+
+PPR.=[me/medical_wallet/id/PPR]
+
+RegFed.=[me/medical_wallet/id/HHS]
+  

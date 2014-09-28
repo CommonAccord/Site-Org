@@ -170,7 +170,8 @@ LAYERED SUMMARY TEXT –
 91.6=If your entity is part of an OHCA (organized health care arrangement) that has agreed to a joint notice, use this space to inform your patients of how you share information within the OHCA (such as for treatment, payment, and operations related to the OHCA). Also, describe the other entities covered by this notice and their service locations. For example, “This notice applies to Grace Community Hospitals and Emergency Services Incorporated which operate the emergency services within all Grace hospitals in the greater Dayton area.”
 
 
-Model.Root={0}<ul><li>{1}</li><li>{2}</li><li>{3}</li><li>{4}</li><li>{5}</li><li>{6}</li><li>{7}</li></ul>{91}
+Model.Root={DocBody}
+DocBody=<b><font color="red">{P1.Name.Full} ("{P1.Handle}") and {P2.Name.Full} ("{P2.Handle}")</font></b><br>{0}<ul><li>{1}</li><li>{2}</li><li>{3}</li><li>{4}</li><li>{5}</li><li>{6}</li><li>{7}</li></ul>{91}
 
 0=<b>{0.Title}</b><br>{0.1}
 1=<b>{1.Title}</b><br>{1.0}<ul><li>{1.1}</li><li>{1.2}</li><li>{1.3}</li><li>{1.4}</li><li>{1.5}</li><li>{1.6}</li><li>{1.7}</li><li>{1.8}</li></ul>
@@ -215,4 +216,8 @@ Model.Root={0}<ul><li>{1}</li><li>{2}</li><li>{3}</li><li>{4}</li><li>{5}</li><l
 6.2.7=<b>{6.2.7.0}</b><ul><li>{6.2.7.1}</li></ul>
 6.3=<b>{6.3.Title}</b><ul><li>{6.3.1}</li><li>{6.3.2}</li><li>{6.3.3}</li><li>{6.3.4}</li></ul>{6.3.91}
 7=<b>{7.Title}</b><br>{7.0}
+Implementing=the requirements below.
+91=<b>Other Provisions</b><ul><li>The Effective Date of this Privacy Policy is: <font color="red">{Effective.YMD}</font></li><li>The contact person for {P1.Handle} is <font color="red">{P1.Privacy.ContactOfficer}</font></li></ul>
+
 91=<b>{91.Title}</b><ul><li>{91.1}</li><li>{91.2}</li><li>{91.3}</li><li>{91.4}</li><li>{91.5}</li><li>{91.6}</li></ul>
+                
