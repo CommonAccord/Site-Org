@@ -11,7 +11,7 @@ Title=YOUR RIGHTS
 
 1.1.1=You can ask to see or get an electronic or paper copy of your medical record and other health information we have about you. Ask us how to do this.
 1.1.2=We will provide a copy or a summary of your health in formation, usually within 30 days of your request. We may charge a reasonable, cost-based fee.
-1.1.3=We urge you to use the {P1.Domain.Com} patient portal to see your health information.
+1.1.3=We urge you to use the {P2.Domain.Com} patient portal to see your health information.
 
 
 1.2.Title=Ask us to correct your medical record
@@ -41,7 +41,7 @@ Title=YOUR RIGHTS
 1.7.2=We will make sure the person has this authority and can act for you before we take any action.
 
 1.8.Title=File a complaint if you feel your rights are violated
-1.8.1=You can complain if you feel we have violated your rights by contacting us using {P1.Privacy.Email} or
+1.8.1=You can complain if you feel we have violated your rights by contacting us using {P2.Privacy.Email} or
 by calling {212-746-1644}.
 1.8.2=You can file a complaint with the {P91.Name.Full} by sending a letter to {P91.Addr.1,2}, calling {P91.Phone}, or by visiting the following website
 {P91.Domain.Com/Complaints}
@@ -131,9 +131,9 @@ about your overall health condition.
 4.6.1=We can share health information about you in response to a court or administrative order, or in response to a subpoena.
 
 
-5=In addition we will follow {P1.State} rules regarding health care privacy. We will obtain appropriate authorization before we share information concerning reproductive health, HIV status and certain mental health information.
+5=In addition we will follow {P2.State} rules regarding health care privacy. We will obtain appropriate authorization before we share information concerning reproductive health, HIV status and certain mental health information.
 
-6=In order to access your health information at your convenience, we urge you to access our patient portal at {P1.Domain.Com}. Please ask us for information about how to sign up.
+6=In order to access your health information at your convenience, we urge you to access our patient portal at {P2.Domain.Com}. Please ask us for information about how to sign up.
 
 7.Title=Our Responsibilities
 7.1=We are required by law to maintain the privacy and security of your protected health information.
@@ -165,7 +165,7 @@ about your overall health condition.
 11=Compliance & Privacy Office
 
 
-Model.Root=<center><b>{Title}</b></center><br>{0}<ol><li>{1}</li><li>{2}</li><li>{3}</li><li>{4}</li><li>{5}</li><li>{6}</li><li>{7}</li><li>{8}</li><li>{9}</li><li>{10}</li></ol>{11}
+Model.Root=<center><b>{P1.Name.Full}-{P2.Name.Full}<br>{Title}</b></center><br>{0}<ol><li>{1}</li><li>{2}</li><li>{3}</li><li>{4}</li><li>{5}</li><li>{6}</li><li>{7}</li><li>{8}</li><li>{9}</li><li>{10}</li></ol>{11}
 
 st-=<b>
 -st0-=</b><br>
@@ -233,5 +233,4 @@ st-=<b>
 10={st-}{10.Title}{-stul-}{10.1}{-li-}{10.2}{-li-}{10.3}{-li-}{10.4}{-li-}{10.5}{-li-}{10.6}{-li-}{10.7}{-li-}{10.8}{-ul}
 
 -li=</li><li>
-      
-        
+ 

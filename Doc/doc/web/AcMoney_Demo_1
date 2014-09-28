@@ -10,7 +10,8 @@ Institute=JAMS
 
 Dispute.Forum._cl=the state courts sitting in the County of Suffolk and the federal courts for the District of Massachusetts
 					
-Model.Root=<b>Privacy Policy</b><br>{privacy.Model.Root}<br><br><b>Terms of Use</b><br>{tou.Model.Root}	
+Model.Root=<b>Terms of Use</b><br>{tou.Model.Root}<hr><hr><b>Privacy Policy</b><br>{privacy.Model.Root}
 
 Effective.YMD=September 12, 2014
 
+  

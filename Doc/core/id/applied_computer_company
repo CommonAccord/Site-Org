@@ -13,4 +13,14 @@ Addr.1=100 Gravel Dell
 Domain.Com=appliedapp.com
 Privacy.Email=privacy@{Domain.Com}
 State={Addr.State}
+
+Handle=Applied
+
+App=HealthApp
+
+Network=HealNet
+
+System=HealOS
+
+Domain.Com=appliedcomputer.com
   
