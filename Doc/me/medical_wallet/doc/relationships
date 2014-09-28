@@ -14,7 +14,11 @@ C-P.Privacy.P2.Handle=Patient
 C-P.Privacy.=[core/gov/usa/hhs/ocr_privacy_hippa_model_notice_english]
 
 Model.Root=<h3>RS-P.Privacy</h3>{RS-P.Privacy.DocBody}<hr><h3>C-P.Privacy</h3> {C-P.Privacy.DocBody}   
+
 For=future use:
+
+Release.=[core/form/policy/health/privacy/NYP_Patient_Authorization]
+
 C.=[me/medical_wallet/id/BobApp]
 
 P.=[me/medical_wallet/id/Alice]
@@ -28,4 +32,4 @@ RegSt.=[me/medical_wallet/id/MMS]
 PPR.=[me/medical_wallet/id/PPR]
 
 RegFed.=[me/medical_wallet/id/HHS]
-  
+      
