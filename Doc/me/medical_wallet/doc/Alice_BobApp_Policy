@@ -1,0 +1,9 @@
+Effective.YMD=September 28, 2014
+P1.=[me/medical_wallet/id/BobApp]
+P2.=[me/medical_wallet/id/Alice]
+P1.Handle=App Provider
+P2.Handle=Patient
+=[core/gov/usa/hhs/ocr_privacy_hippa_model_notice_english]
+
+Model.Root=<h3>Privacy</h3>{DocBody}<hr>
+        

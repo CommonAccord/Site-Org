@@ -1,0 +1,6 @@
+RS-P.=[me/medical_wallet/doc/Alice_BobApp_Policy]
+C-P.=[me/medical_wallet/doc/Alice_NYP_Policy]
+
+Model.Root=<h3>RS-P</h3>{RS-P.DocBody}<hr><h3>C-P</h3> {C-P.DocBody}   
+
+    
