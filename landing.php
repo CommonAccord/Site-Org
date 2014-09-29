@@ -19,9 +19,6 @@
                         <b>Bringing</b> = Codifying legal documents to bring
                         </div>
 !-->
-<div id="code" align="center">
-<a href="<?=$_SERVER['PHP_SELF']?>?action=demo"><img  src="assets/learn.jpg"></a>
-</div>
 
     <div id="info-more">
         <h4 class="subtitle">Explore <a href=<?=$_SERVER['PHP_SELF']?>?action=explore>the objects of law</a></h4>
@@ -30,8 +27,6 @@
         <h4 class="subtitle">See <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/doc/>some deals</a>.</h4>
         <h4 class="subtitle">Browse <a href="https://github.com/CommonAccord/commonaccord/tree/master/Doc">the Github repo</a>.</h4>
 
-                        <br/><a href="#more"><img src="assets/more.png" height=75></a>
-                        <br/><br /><br />
 
 
 </div> 

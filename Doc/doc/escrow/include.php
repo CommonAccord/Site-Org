@@ -8,6 +8,6 @@ An escrow to assure that the online seller of goods gets paid only after the pur
 	<li>Purchaser <a href="http://www.commonaccord.org/index.php?action=source&file=Doc/core/id/roberta_robinson">Roberta Robinson</a> adds her name and specifies the goods, creating an <a href="http://www.commonaccord.org/index.php?action=source&file=Doc/doc/escrow/Demo_Escrow_Step_2_Order">Order</a> that is a second version of the Agreement (step 2)</li>
 	<li>The parties sign the contract and get a <a href="http://www.commonaccord.org/index.php?action=source&file=Doc/doc/escrow/Demo_Escrow_Step_3_Signature">final version</a> of the Agreement (step 3)</li>
 <li>There is a problem with the goods and Roberta files a <a href="http://www.commonaccord.org/index.php?action=source&file=Doc/doc/escrow/Demo_Escrow_Step_4_Claim">claim (step 4)</a></li> 
-</ol>
+<li>Gerry <a href="http://www.commonaccord.org/index.php?action=source&file=Doc/doc/escrow/Demo_Escrow_Step_5_Response">responds (step 5)</a></li> </ol>
  </div>
 </div>
