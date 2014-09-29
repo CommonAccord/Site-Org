@@ -2,6 +2,10 @@
 
 DocBody={AuthorizationForm}
 
+P1.=[core/id/new_york_presbyterian] 
+
+P1.Site={168.Site}
+
 P2.Rep.=[core/id/roberta_robinson]
 
 P2.Rep.Relationship=friend
@@ -12,10 +16,6 @@ P2.=[me/medical_wallet/id/Alice]
 
 P3.=[me/medical_wallet/id/BobApp]   
 
-P1.=[core/id/new_york_presbyterian] 
-
-P1.Site={168.Site}
-
 Info.Time.Begin.YMD=May 31, 2014
 Info.Time.End.YMD=August 31, 2014
 Info.Source.List={Source.Admission}; {Source.Surgery}; and {Source.Outpatient}
@@ -25,7 +25,7 @@ Info.Sensitive.List=NONE
 
 Delivery.Format.List={Electronic}
 
-Delivery.Account.Confirm=CONFIRM
+Delivery.Account.Confirm=CONFIRMED
 
 Purpose.List={Purpose.Insurance}
 
@@ -43,4 +43,4 @@ P2.Witness.xSignature=xROBERTA
 
 
 
-                                       
+                                           
