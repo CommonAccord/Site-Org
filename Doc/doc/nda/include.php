@@ -1,0 +1,1 @@
+These are examples based on a couple of documents by Gunderson Dettmar hosted by Docracy, that have had some traction there. 
