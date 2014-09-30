@@ -41,8 +41,16 @@ parties=Parties
 
 Effective Date=Effective Date
 
+L-=<ol><li>
+;L=,</li><li>
+;andL=, and</li><li>
+;orL=, or</li><li>
+.L=.</li></ol>
+Note=for lists of sentences
+-L-=</li><li>
+-L=</li></ol>
 
 _delete!_=&#8194;
 EOF
 	
-    
+      

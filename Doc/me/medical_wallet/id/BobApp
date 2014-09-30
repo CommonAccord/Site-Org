@@ -1,11 +1,5 @@
-Owner.=[me/medical_wallet/id/BobClinic]
-=[me/medical_wallet/id/BobClinic]
-
-Author.=[me/medical_wallet/id/Applied_App]
-
-Name.Full={Owner.Name.Full} <b>App</b>
-
-Model.Root=Owner: <br>{Owner.N/1/2} <br>Author:<br> {Author.N/1/2}
-
+Author.=[me/medical_wallet/id/Applied]
+Name.Full=BobApp
 Privacy.ContactOfficer=Bellina Bethart, Administrator
                 
+    
