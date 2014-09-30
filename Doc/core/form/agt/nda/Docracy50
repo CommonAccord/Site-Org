@@ -6,9 +6,10 @@ Prologue.Recital=To explore the possibility of a business relationship between {
 
 AGT.Secs._Lost=<ol><li>{1}</li><li>{2}</li><li>{3}</li><li>{4}</li><li>{5}</li><li>{6}</li><li>{7}</li></ol>
 
-1=<u>Definition</u>.  The term “Proprietary Information” means, to the extent previously, presently or subsequently disclosed by or for Discloser to Recipient, all financial, business, legal and technical information of Discloser or any of its affiliates, suppliers, customers and employees (including information about research, development, operations, marketing, transactions, regulatory affairs, discoveries, inventions, methods, processes, articles, materials, algorithms, software, specifications, designs, drawings, data, strategies, plans, prospects, know-how and ideas, whether tangible or intangible, and including all copies, abstracts, summaries, analyses and other derivatives thereof), that is marked or otherwise identified as proprietary or confidential at the time of disclosure, or that by its nature would be understood by a reasonable person to be proprietary or confidential. Proprietary Information shall not include any information that {Conf.Except.List}. Discloser represents and warrants to Recipient that it is authorized to disclose any and all Proprietary Information made available to Recipient under this Agreement.
+1=<b>Definition</b>.  The term “Proprietary Information” means, to the extent previously, presently or subsequently disclosed by or for Discloser to Recipient, all financial, business, legal and technical information of Discloser or any of its affiliates, suppliers, customers and employees (including information about research, development, operations, marketing, transactions, regulatory affairs, discoveries, inventions, methods, processes, articles, materials, algorithms, software, specifications, designs, drawings, data, strategies, plans, prospects, know-how and ideas, whether tangible or intangible, and including all copies, abstracts, summaries, analyses and other derivatives thereof), that is marked or otherwise identified as proprietary or confidential at the time of disclosure, or that by its nature would be understood by a reasonable person to be proprietary or confidential. Proprietary Information shall not include any information that: {Conf.Except.List} Discloser represents and warrants to Recipient that it is authorized to disclose any and all Proprietary Information made available to Recipient under this Agreement.
 
-Conf.Except.List={L-}{Conf.Except.Has};{-L-}{Conf.Except.Finds};{-L-}{Conf.Except.Public}; or{-L-}{Conf.Except.Makes}{-L}
+Conf.Except.List={L-}{Conf.Except.Has}{;L}{Conf.Except.Finds}{;L}{Conf.Except.Public}{;orL}{Conf.Except.Makes}{.L}
+
 Conf.Except.Has=was rightfully known to Recipient without restriction before receipt from Discloser
 
 Conf.Except.Finds=is rightfully disclosed to Recipient without restriction by a third party
@@ -17,9 +18,9 @@ Conf.Except.Public=is or becomes generally known to the public without violation
 
 Conf.Except.Makes=is independently developed by Recipient or its employees without access to or reliance on such information
 
-2=<b>Restrictions.</b>  As to the other party’s Proprietary Information, Recipient agrees {Conf.Engage.List}
+2=<b>Restrictions.</b>  As to the other party’s Proprietary Information, Recipient agrees: {Conf.Engage.List}
 
-Conf.Engage.List={L-}{Conf.Engage.UseForPurpose}{-L-}{Conf.Engage.Preserve}{-L-}{Conf.Engage.NoCopy}{-L-}{Conf.Engage.NotDisclose}{-L-}{Conf.Engage.NotDecompile}{-L-}{Conf.Engage.NotExport}{-L}. The terms and conditions of any transaction or possible transaction between the parties, the fact that disclosures, evaluations or discussions are taking place, and the status and results thereof will also be held in confidence by both parties and not disclosed to any third party. Each party shall be responsible for any breach of its confidentiality obligations by its respective employees and agents.
+Conf.Engage.List={L-}{Conf.Engage.UseForPurpose}{;L}{Conf.Engage.Preserve}{;L}{Conf.Engage.NoCopy}{;L}{Conf.Engage.NotDisclose}{;L}{Conf.Engage.NotDecompile}{;andL}{Conf.Engage.NotExport}{.L}  The terms and conditions of any transaction or possible transaction between the parties, the fact that disclosures, evaluations or discussions are taking place, and the status and results thereof will also be held in confidence by both parties and not disclosed to any third party. Each party shall be responsible for any breach of its confidentiality obligations by its respective employees and agents.
 
 
 Conf.Engage.UseForPurpose=to use the Proprietary Information only for its consideration internally of a business relationship or transaction between the parties, and its performance in any resulting arrangement, but not for any other purpose
@@ -36,9 +37,11 @@ Conf.Engage.NotExport=not to export or re-export any Proprietary Information or 
 
 3=<b>Compelled Disclosures.</b>  These restrictions will not prevent either party from complying with any law, regulation, court order or other legal requirement that purports to compel disclosure of any Proprietary Information. Recipient will promptly notify Discloser upon learning of any such legal requirement, and cooperate with Discloser in the exercise of its right to protect the confidentiality of the Proprietary Information before any tribunal or governmental agency.
 
-4=<b>No Warranties or Licenses.</b>  All Proprietary Information is provided “AS IS.” Discloser will not be liable to Recipient for damages arising from any use of the Proprietary Information, from errors, omissions or otherwise. All of Discloser’s rights in and to its Proprietary Information remain the exclusive property of Discloser. Neither this Agreement, nor any disclosure of Proprietary Information hereunder {Limit.List}
+4=<b>No Warranties or Licenses.</b>  All Proprietary Information is provided “AS IS.” Discloser will not be liable to Recipient for damages arising from any use of the Proprietary Information, from errors, omissions or otherwise. All of Discloser’s rights in and to its Proprietary Information remain the exclusive property of Discloser. Neither this Agreement, nor any disclosure of Proprietary Information hereunder: {Limit.List}
+
 Note=Limits are phrased positively but denied in the intro.  This leads to odd labels. 
-Limit.List={L-}{Limit.NoGrant}{-L-}{Limit.NotPursue}{-L-}{Limit.Products}{-L-}{Limit.Personnel}{-L-}{Limit.OtherBusiness}{-L}
+
+Limit.List={L-}{Limit.NoGrant}{;L}{Limit.NotPursue}{;L}{Limit.Products}{;L}{Limit.Personnel}{;orL}{Limit.OtherBusiness}{.L}
 
 Limit.NoGrant=grants to Recipient any right or license under any copyright, patent, mask work, trade secret or other intellectual property right, except solely for the use expressly permitted herein
 
@@ -86,6 +89,13 @@ Misc.Notice=Any notice hereunder will be effective upon receipt and shall be giv
 
 Sign.InWitness=IN WITNESS WHEREOF, the parties hereto have executed this Agreement as a sealed instrument, effective as of {AGT.Effective.YMD}.
 
+Note=for lists of clauses
 L-=<ol><li>
+;L=,</li><li>
+;andL=, and</li><li>
+;orL=, or</li><li>
+.L=.</li></ol>
+Note=for lists of sentences
 -L-=</li><li>
 -L=</li></ol>
+                
