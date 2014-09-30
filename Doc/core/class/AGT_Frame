@@ -2,22 +2,22 @@ Model.Root={Doc.Body}
 
 Doc.Body={Doc.Meta}{AGT.Doc.Body}
 
-Doc.Meta={OptionalMessageToYourPeer}
+Doc.Meta={MessageToTheReader}
 
 AGT.Doc.Body={AGT.Prologue}{AGT.Secs._Lost}{AGT.Sign}<br>{AGT.Attach}
 
-/Backward Compatibility=switching to a &ldquo;lossless&rdquo; notion of list concatenation.
+/Backward Compatibility=switching to a “lossless” notion of list concatenation.
 
 AGT.Secs._Lost=<ol><li>{AGT._Secs}</li></ol>
 
 
 AGT.Prologue=<div><center>{Prologue.Heading}</center></div>	<p><br>{Prologue.Intro}</p>
 
-Prologue.Heading=<strong>{AGT.Title}</strong><br> as of: {AGT.Effective.YMD} (&ldquo;{Effective Date}&rdquo;)<br>between {P1.Name.Full} and {P2.Name.Full}
+Prologue.Heading=<strong>{AGT.Title}</strong><br> as of: {AGT.Effective.YMD} (“{Effective Date}”)<br>between {P1.Name.Full} and {P2.Name.Full}
 
 Prologue.Intro={Prologue.ThisAgreement}<ul style="list-style-type:none"><li>{Prologue.Recital}</li></ul>{Prologue.NowTherefore}
 
-Prologue.ThisAgreement=This {AGT.Title} (this &ldquo;{Agreement}&rdquo;) is entered into as of {AGT.Effective.YMD} by and between {P1.N,E,A} (&ldquo;{P1.Handle}&rdquo;) and {P2.N,E,A} (&ldquo;{P2.Handle}&rdquo;) (collectively, the &ldquo;{parties}&rdquo;).
+Prologue.ThisAgreement=This {AGT.Title} (this “{Agreement}”) is entered into as of {AGT.Effective.YMD} by and between {P1.N,E,A} (“{P1.Handle}”) and {P2.N,E,A} (“{P2.Handle}”) (collectively, the “{parties}”).
 
 Prologue.NowTherefore=NOW THEREFORE, in consideration of the premises and promises of {this Agreement}, the {parties} hereby agree:
 
@@ -42,6 +42,7 @@ parties=Parties
 Effective Date=Effective Date
 
 
-_delete!_=&ensp;
+_delete!_=&#8194;
 EOF
 	
+  
