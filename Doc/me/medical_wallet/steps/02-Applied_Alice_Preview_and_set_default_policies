@@ -1,0 +1,7 @@
+P2.=[me/medical_wallet/id/Alice]
+
+P1.=[me/medical_wallet/id/Applied]
+
+=[me/medical_wallet/doc/General_Library]
+
+DocBody={Preview_and_set_default_Policies}

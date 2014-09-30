@@ -10,11 +10,13 @@ Note=deleting the second-source exception {Conf.Except.Finds}
 Conf.Except.List={L-}{Conf.Except.Has}{;L}{Conf.Except.Public}{;orL}{Conf.Except.Makes}{.L}
 
 MessageToReader=Draft 1
-AGT.Effective.YMD=September 30, 2014
+AGT.Effective.YMD=September 1, 2014
 End-Of-Communication-Period=December 31, 2014
 Dispute.Law.State.of=California
 Forum.City=Redwood City, CA
-xSignature=
-Sign.YMD=
+P1.xSignature=xANDREA ANG
+P1.Sign.YMD=September 8, 2014
+P2.xSignature=xROBERTA
+P2.Sign.YMD=September 9, 2014
 AGT.Attach=<b></b>
-            
+              
