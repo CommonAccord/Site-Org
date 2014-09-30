@@ -2,7 +2,7 @@ Model.Root={Doc.Body}
 
 Doc.Body={Doc.Meta}{AGT.Doc.Body}
 
-Doc.Meta={MessageToTheReader}
+Doc.Meta={MessageToReader}
 
 AGT.Doc.Body={AGT.Prologue}{AGT.Secs._Lost}{AGT.Sign}<br>{AGT.Attach}
 
@@ -45,4 +45,4 @@ Effective Date=Effective Date
 _delete!_=&#8194;
 EOF
 	
-  
+    

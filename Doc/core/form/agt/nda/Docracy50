@@ -1,7 +1,8 @@
 =[core/class/AGT_Frame]
 
-Note=From Docracy/50/mutual-nondisclosure-agreement  Gunderson Dettmar
+MessageToReader=From Docracy/50/mutual-nondisclosure-agreement  Gunderson Dettmar
 
+AGT.Title=Mutual Non-Disclosure Agreement
 Prologue.Recital=To explore the possibility of a business relationship between {P1.Handle} and {P2.Handle}, each party (“Discloser”) may disclose sensitive information to the other (“Recipient”).
 
 AGT.Secs._Lost=<ol><li>{1}</li><li>{2}</li><li>{3}</li><li>{4}</li><li>{5}</li><li>{6}</li><li>{7}</li></ol>
@@ -98,4 +99,4 @@ L-=<ol><li>
 Note=for lists of sentences
 -L-=</li><li>
 -L=</li></ol>
-                
+                  
