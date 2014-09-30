@@ -1,4 +1,4 @@
-=[core/form/agt/nda/Docracy50]
+=[core/form/agt/nda/docracy50/Current]
 
 P1.=[core/id/acme_incorporated]
 P1.Handle=Acme
@@ -17,4 +17,4 @@ Forum.City=Redwood City, CA
 xSignature=
 Sign.YMD=
 AGT.Attach=<b></b>
-          
+            
