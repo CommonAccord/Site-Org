@@ -1,15 +1,21 @@
 Model.Root={DocBody}
 
-P1P2=<center><b>{P1.N,E,A} ("{P1.Handle}") and <br>{P2.N,E,A} ("{P2.Handle}") </b></center><br><br>
+Heading=<center><b>{P1.N,E,A} ("{P1.Handle}") and <br>{P2.N,E,A} ("{P2.Handle}") </b></center><br><br>
 
-Sign.P1P2=<br><br><table><tr><td valign="top">{P1.Sign.Block}</td><td valign="top">{P2.Sign.Block}</tr></td></table>
+Sign.Block=<br><br><table><tr><td valign="top">{P1.Sign.Block}</td><td valign="top">{P2.Sign.Block}</tr></td></table>
 
-Preview_and_set_default_Policies={P1P2}Preview_and_set_default_Policies {Sign.P1P2}
+Preview_and_set_default_Policies={Heading}Preview_and_set_default_Policies {Sign.Block}
 
-Register_with_UMA_AS={P1P2} Register_with_UMA_AS {Sign.P1P2}
+Register_with_UMA_AS={Heading} Register_with_UMA_AS {Sign.Block}
 
-Registers_and_points_to_her_AS={P1P2} Registers_and_points_to_her_AS {Sign.P1P2} 
+Registers_and_points_to_her_AS={Heading} Registers_and_points_to_her_AS {Sign.Block} 
 
-Proposes_Consent_Directive={P1P2} Proposes_Consent_Directive {Sign.P1P2}
+Proposes_Consent_Directive={Heading} Proposes_Consent_Directive {Sign.Block}
 
-    
+Signs_Consent_Directive={Heading} Signs_Consent_Directive {Sign.Block}
+
+Applied_UMA_Resource_Registation={Heading} Applied_UMA_Resource_Registation {Sign.Block}
+
+Query_for_Resource_Owner_Info={Heading}  Query_for:<br>RO Name:{P3.Name.Full}<br>Record Number: {P3.MedicalRecordNumber}<br>DOB: {P3.DOB}  {Sign.Block}
+
+Request_Authorization={Heading} Request_Authorization {Sign.Block}        
