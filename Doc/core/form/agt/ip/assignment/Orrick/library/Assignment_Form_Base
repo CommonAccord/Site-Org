@@ -1,11 +1,11 @@
 Model.Root={Orrick.Assign.Doc.Body}
 Orrick.Assign.Doc.Body={Agt.Prologue}{Agt._Secs}<br>{Sign.Block}<hr>{Agt.Attachment}
 
-
+P1.Handle=Company
 q=,
 AGT.Title=CONFIDENTIAL INFORMATION AND INVENTION ASSIGNMENT AGREEMENT
 
-Agt.Prologue=<div align="center"><b><span style="text-transform:uppercase">{P1.Name.Full}</span></b><br><br><b>{AGT.Title}<br><br>{Employee/Consultant} Name: {P2.Name.Full}, ("{Employee/Consultant}")<br>Effective Date: {AGT.Effective.YMD}<br></b><br></div><br>{Agt.Prologue.Intro}:
+Agt.Prologue=<div align="center"><b><span style="text-transform:uppercase">{P1.Name.Full}</span></b><br><br><b>{AGT.Title}<br><br>{Employee/Consultant} Name: {P2.Name.Full}, ("{P2.Handle}")<br>Effective Date: {AGT.Effective.YMD}<br></b><br></div><br>{Agt.Prologue.Intro}:
 
 
 
@@ -22,7 +22,7 @@ Duty._Sec=<u>Duties</u>.  {P2.I/C} will perform for {the Company} such duties as
 Conf._Sec=<u>Confidential Information</u>.<ol><li>{Conf.Engage._Sec}</li><li>{Conf.Def._Sec}</li><li>{Conf.3PartyInfo._Sec}</li><li>{Conf.Additive._Sec}</li></ol>
 
 
-Conf.Engage._Sec=<u>Protection of Information</u>.  {P2.I/C} understand{P2./s} that during {the Relationship}, {the Company} intends to provide {P2.me/C} with information, including {Confidential Information} (as defined below), without which {P2.I/C} would not be able to perform {P2.my/C} duties to {the Company}.  {P2.I/C} agree{P2./s}, at all times during the term of {the Relationship} and thereafter, to hold in strictest confidence, and not to use, except for the benefit of {the Company} to the extent necessary to perform {my obligations/C Services}, and not to disclose to any person, firm, corporation or other entity, without written authorization from {the Company} in each instance, any {Confidential Information} that {P2.I obtain/C obtains} during the term of {the Relationship}, whether or not during working hours, until such {Confidential Information} becomes publicly and widely known and made generally available through no wrongful act of {P2.mine/C} or of others who were under confidentiality obligations as to the item or items involved.  {P2.I/C} further agree{P2./s} not to make copies of such {Confidential Information} except as authorized by {the Company}.
+Conf.Engage._Sec=<u>Protection of Information</u>.  {P2.I/C} understand{P2./s} that during {the Relationship}, {the Company} intends to provide {P2.me/C} with information, including {Confidential Information} (as defined below), without which {P2.I/C} would not be able to perform {P2.my/C} duties to {the Company}.  {P2.I/C} agree{P2./s}, at all times during the term of {the Relationship} and thereafter, to hold in strictest confidence, and not to use, except for the benefit of {the Company} to the extent necessary to perform {P2.my obligations/C Services}, and not to disclose to any person, firm, corporation or other entity, without written authorization from {the Company} in each instance, any {Confidential Information} that {P2.I obtain/C obtains} during the term of {the Relationship}, whether or not during working hours, until such {Confidential Information} becomes publicly and widely known and made generally available through no wrongful act of {P2.mine/C} or of others who were under confidentiality obligations as to the item or items involved.  {P2.I/C} further agree{P2./s} not to make copies of such {Confidential Information} except as authorized by {the Company}.
 
 Conf.Def._Sec=<u>Confidential Information</u>.  {P2.I/C} understand{P2./s} that "{Confidential Information}" means information and physical material not generally known or available outside {the Company} and information and physical material entrusted to {the Company} in confidence by third parties.  {Confidential Information} includes, without limitation: {Conf.Def.List}.
 
@@ -84,7 +84,7 @@ Invent.Embed._Sec=<u>Use or Incorporation of {Prior Works}</u>. If in the course
 
 
 Unfair._Sec=<u>Solicitation of Employees, Consultants and Other Parties</u>.  {Unfair.Intro}:<ol><li>{Unfair.SolicitEmployee._Sec}</li><li>{Unfair.Solicit3Party._Sec}</li></ol>
-CompanyProperty._Sec=Company Property; Returning {Company} Documents. {P2.I/C} acknowledge{P2./s} and agree{P2./s} that {P2.I/C} {P2.have/has} no expectation of privacy with respect to {the Company}'s telecommunications, networking or information processing systems (including, without limitation, files, e-mail messages, and voice messages) and that {P2.my/C} activity and any files or messages on or using any of those systems may be monitored or reviewed at any time without notice. {P2.I/C} further agree{P2./s} that any property situated on {the Company}'s premises and owned by {the Company}, including disks and other storage media, filing cabinets or other work areas, is subject to inspection by {Company} personnel at any time with or without notice. {P2.I/C} agree{P2./s} that, at the time of termination of {the Relationship}, {P2.I/C} will deliver to {the Company} (and will not keep in {P2.my/C} possession, recreate or deliver to anyone else) any and all devices, records, data, notes, reports, proposals, lists, correspondence, specifications, drawings, blueprints, sketches, laboratory notebooks, materials, flow charts, equipment, other documents or property, or reproductions of any of the aforementioned items developed by {P2.me/C+} pursuant to {the Relationship} or otherwise belonging to {the Company}, its successors or assigns.
+CompanyProperty._Sec=<u>Company Property; Returning {Company} Documents</u>. {P2.I/C} acknowledge{P2./s} and agree{P2./s} that {P2.I/C} {P2.have/has} no expectation of privacy with respect to {the Company}'s telecommunications, networking or information processing systems (including, without limitation, files, e-mail messages, and voice messages) and that {P2.my/C} activity and any files or messages on or using any of those systems may be monitored or reviewed at any time without notice. {P2.I/C} further agree{P2./s} that any property situated on {the Company}'s premises and owned by {the Company}, including disks and other storage media, filing cabinets or other work areas, is subject to inspection by {Company} personnel at any time with or without notice. {P2.I/C} agree{P2./s} that, at the time of termination of {the Relationship}, {P2.I/C} will deliver to {the Company} (and will not keep in {P2.my/C} possession, recreate or deliver to anyone else) any and all devices, records, data, notes, reports, proposals, lists, correspondence, specifications, drawings, blueprints, sketches, laboratory notebooks, materials, flow charts, equipment, other documents or property, or reproductions of any of the aforementioned items developed by {P2.me/C+} pursuant to {the Relationship} or otherwise belonging to {the Company}, its successors or assigns.
 
 
 TerminationCertificate._Sec=<u>Termination Certification</u>. In the event of the termination of {the Relationship}, {P2.I/C} agree{P2./s} to sign and deliver the "{Termination Certification}" attached hereto as {Exh.TerminationCertificate.Xref}; however, {P2.my/C} failure to sign and deliver the {Termination Certification} shall in no way diminish {P2.my/C} continuing obligations under {this Agreement}.
@@ -205,7 +205,7 @@ Exh.ExcludedCompanies.Body=<center><b>EXHIBIT {Exh.ExcludedCompanies.Xnum}<br><b
 
 Exh.Invent.StateLaw.Body=<center><b>EXHIBIT {Exh.Invent.StateLaw.Xnum}</b></center><br><br>{Exh.Invent.StateLaw.Text}
 
-Exh.Invent.StateLaw.Text=<b>{? Exh.Invent.StateLaw.Text} : Select</b><ol><li><b>Exh.Invent.StateLaw.CA.Text (California)</b><br>{Exh.Invent.StateLaw.CA.Text}</li><li><b>Exh.Invent.StateLaw.WA.Text (Washington)</b><br>{Exh.Invent.StateLaw.WA.Text}</li></ol>
+Exh.Invent.StateLaw.Text=<b>{? Exh.Invent.StateLaw.Text} : Select</b><ol><li><b>{Exh.Invent.StateLaw.CA.Text } (California)</b><br>{Exh.Invent.StateLaw.CA.Text}</li><li><b>{Exh.Invent.StateLaw.WA.Text } (Washington)</b><br>{Exh.Invent.StateLaw.WA.Text}</li></ol>
 
 Exh.Invent.StateLaw.CA.Text=<b>Section 2870 of the California Labor Code is as follows:</b><br>(a)  Any provision in an employment agreement which provides that an employee shall assign, or offer to assign, any of his or her rights in an invention to his or her employer shall not apply to an invention that the employee developed entirely on his or her own time without using the employer's equipment, supplies, facilities, or trade secret information except for those inventions that either:<br>(1) Relate at the time of conception or reduction to practice of the invention to the employer's business, or actual or demonstrably anticipated research or development of the employer; or<br>(2) Result from any work performed by the employee for the employer.<br>(b)To the extent a provision in an employment agreement purports to require an employee to assign an invention otherwise excluded from being required to be assigned under subdivision (a), the provision is against the public policy of this state and is unenforceable.
 
@@ -234,4 +234,4 @@ Exh.PriorInvent.Xnum=A
 Exh.Invent.StateLaw.Xnum=B
 Exh.TerminationCertificate.Xnum=C
 Exh.ExcludedCompanies.Xnum=D
-/=              
+/=                            
