@@ -1,8 +1,28 @@
-P1.=[me/medical_wallet/id/Applied]
+CD.P1.=[me/medical_wallet/id/Applied]
 
-P2.=[me/medical_wallet/id/NYP]
+CD.P3.=[me/medical_wallet/id/NYP]
+
+CD.P2.=[me/medical_wallet/id/Alice]
 
 =[me/medical_wallet/doc/General_Library]
 
-DocBody={Proposes_Consent_Directive}
+DocBody={CD.DocBody}
 
+CD.P1.Site={CD.168.Site}
+
+CD.Info.Source.List={CD.Source.Admission}
+ 
+CD.Info.Time.Begin.YMD=July 1, 2014
+
+CD.Info.Time.End.YMD=August 31, 2014
+
+CD.Info.Report.List={CD.Lab} and {CD.Radiology}
+
+CD.Info.Sensitive.List=NONE
+
+CD.Delivery.Format.List={CD.Electronic}
+
+CD.Purpose.List ={CD.Purpose.Insurance}
+
+CD.Expire.YMD=September 30, 2014
+            

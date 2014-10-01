@@ -19,7 +19,8 @@ Transferee=<b>Person To Whom Information Will be Sent:</b><ol><li><b>Name:</b> {
 
 Transferor=<b>Person Who Will Disclose Information:</b><ol><li>{P1.Site}</li></ol>
 
-P1.Site={P1.Site.Select}
+Specify the site
+//P1.Site={P1.Site.Select}
 
 P1.Site.Select=Select {P1.Site } :{site-} 168.Site: {168.Site }{-site-}68.Site: {68.Site }{-site-}WhitePlains.Site: {WhitePlains.Site }{-site-}William.Site: {William.Site }{-site}
 
@@ -96,7 +97,9 @@ Authorize=<b>Authorization:</b><br> I, or my authorized representative, request 
 
 HIV.Complaint.Contact=the New York State Division of Human Rights at (212) 480-2493 or the New York City Commission of Human Rights at (212) 306-7450
 
-Sign.Block=<b>Signature</b> <br>{P2.Name.Full}: {P2.xSignature} or <br>Patient/personal representative (e.g., legal guardian) <br>{P2.Rep.Name.Full}: {P2.Rep.xSignature}<br>{P2.Sign.YMD}<br>If personal representative, print name and relationship to patient:<br> {P2.Rep.Relationship}<br>Witness or Notary {P2.Witness.Name.Full} {P2.Witness.xSignature} 
+Sign.Block=<b>Signature</b> <br>{P2.Name.Full}: {P2.xSignature} {P2.Representative}<br>{P2.Sign.YMD}<br>Witness or Notary {P2.Witness.Name.Full} {P2.Witness.xSignature} 
+
+P2.Representative=<br>Patient/personal representative (e.g., legal guardian) <br>{P2.Rep.Name.Full}: <br>{P2.Rep.xSignature}<br>Relationship to patient:<br> {P2.Rep.Relationship}<br>
 
 H.Heading=<{hx}>{Heading}</{hx}>
 
@@ -157,4 +160,4 @@ td-=<td width="25%" valign="top">
 ol-=<ol><li>
 -li-=</li><li>
 -ol=</li></ol>
-        
+              

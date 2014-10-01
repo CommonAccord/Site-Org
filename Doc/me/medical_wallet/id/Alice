@@ -1,6 +1,9 @@
 =[core/class/ID_She]
 =[core/at/USA/MA/Middlesex/Watertown/Geo]
 
+Rep.=[core/id/roberta_robinson]
+Rep.Relationship=friend
+
 Handle=Resource Owner
 
 Addr.1=100 Central Street
@@ -20,4 +23,6 @@ MedicalRecordNumber=MR-123456
 
 Addr.Type=home
 
-                    
+Account=BobApp - Medical Wallet
+
+                              

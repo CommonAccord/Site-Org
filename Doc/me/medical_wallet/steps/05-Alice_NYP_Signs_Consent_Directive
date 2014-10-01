@@ -1,9 +1,11 @@
-P1.=[me/medical_wallet/id/Alice]
+=[me/medical_wallet/steps/04-Applied_NYP_Proposes_Consent_Directive]
 
-P2.=[me/medical_wallet/id/NYP]
+P2.xSignature=xALICE
 
-=[me/medical_wallet/doc/General_Library]
+CD.Delivery.Account.Confirm=CONFIRMED
+P2.Sign.YMD=September 1, 2014
+P2.Witness.=[core/id/andrea_ang]
+P2.Witness.xSignature=xANDREA ANG
+CD.P2.Representative=N/A
 
-DocBody={Signs_Consent_Directive}
-
-  
+              
