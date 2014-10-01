@@ -18,4 +18,11 @@ Resource_Registation={Heading} Resource_Registation {Sign.Block}
 
 Query_for_Resource_Owner_Info={Heading}  Query_for:<br>RO Name:{P3.Name.Full}<br>Record Number: {P3.MedicalRecordNumber}<br>DOB: {P3.DOB}  {Sign.Block}
 
-Request_Authorization={Heading} Request_Authorization for {P3.N,E,A} {Sign.Block}        
+Request_Authorization={Heading} Request_Authorization for {P3.N,E,A} {Sign.Block}
+
+Authorization_Token={Heading} Authorization_Token {Sign.Block}
+
+
+Request_Information={Heading} Request_Information <br>About: {P3.N,E,A} {Sign.Block}
+
+Send_Information={Heading} Send_Information <br><br>RO: {Record1.RO.N,E,A}<br>Record: {Record1.Summary}{Sign.Block}

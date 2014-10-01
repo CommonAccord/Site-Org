@@ -1,0 +1,7 @@
+Title=Cranial Xray
+Time=2014-07-28H07:55
+RO.=[me/medical_wallet/id/Alice]
+
+Summary={Title}<br>{Time}
+
+        
