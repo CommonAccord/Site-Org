@@ -1,6 +1,8 @@
 =[core/class/ID_She]
 =[core/at/USA/MA/Middlesex/Watertown/Geo]
 
+Handle=Resource Owner
+
 Addr.1=100 Central Street
 
 Name.First=Alice
@@ -18,4 +20,4 @@ MedicalRecordNumber=MR-123456
 
 Addr.Type=home
 
-                  
+                    

@@ -1,9 +1,15 @@
 Model.Root={DocBody}
 
-P1P2=<center><b>{P1.N,E,A} ("Party 1") and {P2.N,E,A} ("Party 2") </b></center><br>
+P1P2=<center><b>{P1.N,E,A} ("{P1.Handle}") and <br>{P2.N,E,A} ("{P2.Handle}") </b></center><br><br>
 
-Preview_and_set_default_Policies={P1P2}Preview_and_set_default_Policies
+Sign.P1P2=<br><br><table><tr><td valign="top">{P1.Sign.Block}</td><td valign="top">{P2.Sign.Block}</tr></td></table>
 
-Register_with_UMA_AS={P1P2} Register_with_UMA_AS
+Preview_and_set_default_Policies={P1P2}Preview_and_set_default_Policies {Sign.P1P2}
 
-Registers_and_points_to_her_AS={P1P2} Registers_and_points_to_her_AS
+Register_with_UMA_AS={P1P2} Register_with_UMA_AS {Sign.P1P2}
+
+Registers_and_points_to_her_AS={P1P2} Registers_and_points_to_her_AS {Sign.P1P2} 
+
+Proposes_Consent_Directive={P1P2} Proposes_Consent_Directive {Sign.P1P2}
+
+    
