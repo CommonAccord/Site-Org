@@ -1,4 +1,4 @@
-_Sec=<b>General.</b>  {L-}{Entire._sec}{-L-}{Counterpart._sec}{-L-}{Fax._sec}{-L-}{Amend._sec}{-L-}{Waive._sec}{-L-}{Cumulative._sec}{-L-}{Sever._sec}{-L-}{Law._sec}{-L-}{Forum._sec}{-L-}{AttyFee._sec}{-L-}{Notice._sec}{-L}
+_Sec=<b>General.</b>  {L-}{Entire._sec}{-L-}{Counterpart._sec}{-L-}{Fax._sec}{-L-}{Amend._sec}{-L-}{Waive._sec}{-L-}{Cumulative._sec}{-L-}{Sever._sec}{-L-}{Law._sec}{-L-}{Forum._sec}{-L-}{AttyFee._sec}{-L-}{Heading._sec}{-L-}{Notice._sec}{-L}
 
 Entire._sec=This Agreement constitutes the entire agreement, and supersedes all prior negotiations, understandings or agreements (oral or written), between the parties concerning the subject matter hereof.
 
@@ -20,6 +20,8 @@ Forum._sec=Exclusive jurisdiction and venue for any action arising under this Ag
 
 AttyFee._sec=In any action or proceeding to enforce or interpret this Agreement, the prevailing party will be entitled to recover from the other party its costs and expenses (including reasonable attorneys' fees) incurred in connection with such action or proceeding and enforcing any judgment or order obtained.
 
+Heading._sec=Headings herein are for convenience of reference only and shall in no way affect interpretation of the Agreement.
+
 Notice._sec=Any notice hereunder will be effective upon receipt and shall be given in writing, in English and delivered to the other party at its address given herein or at such other address designated by written notice.
 
-Model.Root={_Sec}  
+Model.Root={_Sec}    
