@@ -1,0 +1,7 @@
+To run=you will need to get a local webserver going.  It will need to have perl and php enabled.  You will need to make a copy of the index.php page and put your own path in it.  You should then be able to browse to it locally.  
+
+Mac1=https://discussions.apple.com/docs/DOC-3083
+
+Mac2=If Mac says you don't have privileges:  http://coolestguidesontheplanet.com/forbidden-403-you-dont-have-permission-to-access-username-on-this-server/
+
+Thanks=to Kevin Hu of the Media Lab.
