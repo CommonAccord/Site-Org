@@ -1,8 +1,8 @@
 CD.P1.=[me/medical_wallet/id/Applied]
 
-CD.P3.=[me/medical_wallet/id/BobApp]
-
 CD.P2.=[me/medical_wallet/id/Alice]
+
+CD.P3.=[me/medical_wallet/id/BobApp]
 
 =[me/medical_wallet/doc/General_Library]
 
@@ -25,4 +25,4 @@ CD.Delivery.Format.List={CD.Electronic}
 CD.Purpose.List ={CD.Purpose.Insurance}
 
 CD.Expire.YMD=September 30, 2014
-              
+                

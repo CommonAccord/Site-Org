@@ -11,6 +11,8 @@ Addr.Type=business
 Addr.1=100 Gravel Dell
    
 Addr.Zip=94025
+
+Phone=650.666.5555
 Domain.Com=appliedapp.com
 Privacy.Email=privacy@{Domain.Com}
 State={Addr.State}
@@ -25,4 +27,4 @@ System=HealOS
 
 Domain.Com=appliedcomputer.com
   
-  
+    
