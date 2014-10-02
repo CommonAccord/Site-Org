@@ -8,7 +8,7 @@ Network=AcMoney
 
 System=AcMagora
 
-takedown@we.com=takedown@acme.com
+takedown@we.com=takedown@{Domain.Com}
 
 Dispute.Laws.State.of=the Commonwealth of Massachusetts
 
@@ -19,7 +19,7 @@ Web=<b>Stuff</b>
 
 info@we.com=info@acme.com
 
-www=acme.com
+Domain.Com=acme.com
 
 Web=<b>Stuff</b>
 
@@ -31,13 +31,13 @@ webService={App}
 
 infoUse=use your information for the purposes described in our Terms of Use
 
-optout@www=optout@{www}
+optout@www=optout@{Domain.Com}
 
-www.privacy=privacy@{www}
+www.privacy=privacy@{Domain.Com}
 
 DA.=[core/id/abigail_altima]
 
 DA.Email={takedown@we.com}
 
 DA.Fax={Fax}
-			
+			  

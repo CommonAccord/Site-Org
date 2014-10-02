@@ -170,7 +170,7 @@ Misc.ExculpPeers._Sec=<u>Exculpation Among Holders</u>.  Each Holder acknowledge
 
 Approval._Sec=<u>Approval</u>.  The Company hereby represents that its Board of Directors, in the exercise of its fiduciary duty, has approved the Company's execution of this KISS based upon a reasonable belief that the Purchase Price provided hereunder is appropriate for the Company after reasonable inquiry concerning the Company's financing objectives and financial situation.  In addition, the Company hereby represents that it intends to use the Purchase Price primarily for the operations of its business, and not for any personal, family or household purpose.
 
-Signature=<table><tr><td>{Co.Sign.Block}</td><td>ACKNOWLEDGED AND AGREED:<br>{Investor.Sign.Block}</td></tr></table>
+Signature=<table><tr><td valign='top'>{Co.Sign.Block}</td><td valign='top'>ACKNOWLEDGED AND AGREED:<br>{Investor.Sign.Block}</td></tr></table>
 
 <b>Parameters for Debt/Equity</br>=We’re putting the materials for both alternatives here.  They are selected (for dept or equity) in the Delta pages.
 
@@ -202,4 +202,4 @@ Debt.Misc.PariPassu._Sec={_delete_}
 
 Equity.Misc.PariPassu._Sec=<u>Priority</u>.  This KISS shall rank pari passu in all respects (including right of payment) to all other KISSes and all convertible indebtedness of the Company, now or hereafter existing.
 
-	
+	  

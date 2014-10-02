@@ -1,11 +1,10 @@
-
 =[core/form/agt/startup/500/Delta_KISS_Debt]
 
 =[core/form/agt/startup/500/Form_KISS_Base]
 
-Co.=[core/id/quake_incorporated]
+Co.=[core/id/acme_incorporated]
 
-Investor.=[core/id/acme_incorporated]
+Investor.=[core/id/quake_incorporated]
 
 Co.Handle=Company
 
@@ -42,3 +41,4 @@ Investor.xSignature=<b>x A Ang</b>
 Share.Discount.%=<b>eight percent (8%)</b>
 
 	
+  
