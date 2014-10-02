@@ -2,9 +2,15 @@
 
 =[core/at/USA/CA/San_Francisco/San_Francisco/Geo]
 
+Addr.1=1101 Mission Street
+
+Addr.Zip=94103
+
+Addr.Type=business
+
 Name.First=<font color="magenta">Samuel</font>
 
 Name.Last=<font color="magenta">Hardy</font>
 
 Name.Full={Name.FL}
-				
+				    

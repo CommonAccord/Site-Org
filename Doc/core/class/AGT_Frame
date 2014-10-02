@@ -25,7 +25,7 @@ AGT.Sign={Sign.Witness}<br>{Sign.Block}
 
 Sign.Witness=IN WITNESS WHEREOF, the {parties} have executed {this Agreement} to be effective as of {AGT.Effective.YMD}.
 
-Sign.Block=<table><tr><td>{P1.Sign.Block}</td><td></td><td>{P2.Sign.Block}</td></tr></table>
+Sign.Block=<table><tr><td valign='top'>{P1.Sign.Block}</td><td></td><td valign='top'>{P2.Sign.Block}</td></tr></table>
 
 <strong>Vocabulary</strong>= Defined terms.
 
@@ -53,4 +53,4 @@ Note=for lists of sentences
 _delete!_=&#8194;
 EOF
 	
-      
+        

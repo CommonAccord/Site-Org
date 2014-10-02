@@ -1,0 +1,17 @@
+=[core/form/agt/nda/docracy50/v02]
+P1.=[core/id/acme_incorporated]
+P2.=[core/id/solomon_shirley]
+
+AGT.Effective.YMD=October 1, 2014
+
+P1.Handle=Acme
+P2.Handle=Shirley
+End-Of-Communication-Period=March 30, 2015
+Dispute.Law.State.of=California
+Forum.City=Redwood City, California
+P1.xSignature=xANDREA ANG
+P2.xSignature=xSOLOMON SHIRLEY
+P1.Sign.YMD=2014-09-25
+P2.Sign.YMD=2014-09-26
+AGT.Attach=<b></b>
+      
