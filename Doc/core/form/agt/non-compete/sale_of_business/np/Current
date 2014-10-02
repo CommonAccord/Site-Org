@@ -4,7 +4,7 @@ Model.Root={Intro.Sec}{1-N.Secs}{Sign.Sec}<br><br>{100.Sec}
 
 Importing= the Misc sections and making a choice for provision on advice of counsel that only is directed to P2. 
  
-Misc.=[core/form/agt/non-compete/Misc_Library]
+Misc.=[core/form/agt/sec/misc/np/Current]
 
 Misc.Advised.Sec={Misc.P2Advised.Sec}
 
@@ -87,4 +87,4 @@ Sign.Sec={Sign.Witness.Sec}<br>{Sign.Block}
 Sign.Witness.Sec=IN WITNESS WHEREOF, the Company and {P4.Handle} have caused this Agreement to be signed by their respective duly authorized officers, and the {P2.Handle} has hereunto set {P2.Handle}’s hand on the day and year first above written.
 
 Sign.Block=<table><tr><td>{P1.Sign.Block}</td><td>{P4.Sign.Block}</td><td>{P2.Sign.Block}</td></tr></table>
-                            
+                              

@@ -1,6 +1,6 @@
 Note=First shot at automating:
 
-=[core/form/agt/non-compete/Employee_04]
+=[core/form/agt/non-compete/employee/np/Current]
 
 P1.=[Acme/Party/Acme_Inc]
 P1.Handle=Company
