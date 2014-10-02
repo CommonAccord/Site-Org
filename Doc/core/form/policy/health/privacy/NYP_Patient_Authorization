@@ -1,6 +1,8 @@
-Model.Root={DocBody}
+Model.Root={DocBody}<br><br>{EntityTable}
 
-DocBody={AuthorizationForm}<br><hr><br>{H.Heading}{MCU.Table.WithTitle}
+DocBody={AuthorizationForm}
+
+EntityTable={H.Heading}{MCU.Table.WithTitle}
 
 AuthorizationForm={H.Heading}{Form}
 
@@ -93,7 +95,7 @@ Purpose.Legal=Legal
 Purpose.Other=Describe {Describe Purpose}
 
 
-Authorize=<b>Authorization:</b><br> I, or my authorized representative, request that health information regarding my care and treatment at {P1.Handle} be disclosed as described on this form. I understand that:<ul><li>I may inspect and/or receive a copy of the information described on this Authorization by completing this form and signing below.</li><li>Providers are permitted to charge reasonable fees to recover costs for inspections and/or copying.</li><li>Treatment and payment will not be conditional on whether you sign this authorization. Signing is voluntary, however if you refuse to sign NYP will not release your records.</li><li>By my specifically authorizing the release of HIV/AIDS related alcohol or drug treatment, or mental health treatment information that the recipient is prohibited from re-disclosing such information without my authorization unless permitted to do so under federal or state law. If I experience discrimination because of the release or disclosure of HIV-related information, I may contact {HIV.Complaint.Contact}. These agencies are responsible for protecting my rights.</li><li>Alcohol/drug treatment-related information or confidential HIV/AIDS related information released through this form must be accompanied by the required statements regarding prohibition of re-disclosure.</li><li>I may revoke this authorization at any time by providing written notice to {P1.Handle} except to the extent that action has already been taken based on this authorization.</li><li>I understand that this Authorization will expire on: Date {Expire.YMD} (provide date if less than 1 year) or 1 year after being signed.</li></ul>
+Authorize=<b>Authorization:</b><br> I, or my authorized representative, request that health information regarding my care and treatment at {P1.Handle} be disclosed as described on this form. I understand that:<ul><li>I may inspect and/or receive a copy of the information described on this Authorization by completing this form and signing below.</li><li>Providers are permitted to charge reasonable fees to recover costs for inspections and/or copying.</li><li>Treatment and payment will not be conditional on whether you sign this authorization. Signing is voluntary, however if you refuse to sign {P1.Handle} will not release your records.</li><li>By my specifically authorizing the release of HIV/AIDS related alcohol or drug treatment, or mental health treatment information that the recipient is prohibited from re-disclosing such information without my authorization unless permitted to do so under federal or state law. If I experience discrimination because of the release or disclosure of HIV-related information, I may contact {HIV.Complaint.Contact}. These agencies are responsible for protecting my rights.</li><li>Alcohol/drug treatment-related information or confidential HIV/AIDS related information released through this form must be accompanied by the required statements regarding prohibition of re-disclosure.</li><li>I may revoke this authorization at any time by providing written notice to {P1.Handle} except to the extent that action has already been taken based on this authorization.</li><li>I understand that this Authorization will expire on: Date {Expire.YMD} (provide date if less than 1 year) or 1 year after being signed.</li></ul>
 
 HIV.Complaint.Contact=the New York State Division of Human Rights at (212) 480-2493 or the New York City Commission of Human Rights at (212) 306-7450
 
@@ -160,4 +162,4 @@ td-=<td width="25%" valign="top">
 ol-=<ol><li>
 -li-=</li><li>
 -ol=</li></ol>
-              
+                  
