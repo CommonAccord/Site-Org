@@ -2,7 +2,7 @@ P1.=[me/medical_wallet/id/Applied]
 
 P2.=[me/medical_wallet/id/BobApp]
 
-=[me/medical_wallet/doc/General_Library]
+=[me/medical_wallet/form/General_Library]
 
 DocBody={Authorization_Token}
 

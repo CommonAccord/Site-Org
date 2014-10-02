@@ -1,9 +1,0 @@
-P1.=[me/medical_wallet/id/NYP]
-P1.Handle=Hospital
-Effective.YMD=September 3, 2014
-P2.=[me/medical_wallet/id/Alice]
-P2.Handle=Patient
-=[core/gov/usa/hhs/ocr_privacy_hippa_model_notice_english]
-
-Model.Root=<h3>Privacy</h3>{DocBody}<hr>
-                        
