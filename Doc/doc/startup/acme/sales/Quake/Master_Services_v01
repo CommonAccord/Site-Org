@@ -1,3 +1,4 @@
+mcolor=brown
 Confidential.Engage.Duration=three years
 =[core/form/agt/master/Current]
 =[core/form/agt/master/config/Finance_Type1]
@@ -18,8 +19,4 @@ ClaimForAdjustment.days=sixty days
 CWD.Full=Contingent Worker Database
 email.CWD.com=cwd.personnel@quake.com
 CWD.Addr.1,2=Contingent Worker Database, {P1.N,A}
-P1.xSignature=xCOLLEEN KENDALL
-P1.Sign.YMD=September 25, 2014
-P2.xSignature=xANDREA ANG
-P2.Handle=September 27, 2014
-            
+                

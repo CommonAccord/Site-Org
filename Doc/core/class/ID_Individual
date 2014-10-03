@@ -18,6 +18,13 @@ Name.L,F={Name.Last}, {Name.First}
 
 Name,Title={Name.Full}, {Title}
 
+
+I am/We are=I am
+
+I am/we are=I am
+
+am I/are we=am I
+
 I/we=I
 
 I/We=I
@@ -42,4 +49,4 @@ Model.Root={Addr.Table}<br>{Pronoun.List}
  
 
 SignBy=By: <u>{xSignature}</u>
-																    
+																      
