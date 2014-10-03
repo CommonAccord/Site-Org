@@ -3,10 +3,10 @@
 <br>=So instead of rendering the whole doc, I want to render only the relevant parts.  I also include a complete copy of the Environmental section in case of need.
 <br>=
 I attach the MSA:
-Doc.=[core/form/agt/Master/Form]
+Doc.=[core/form/agt/master/Current]
 <br>=
 I then render just the parts I want, separately and then the whole section:
 <br>=
 Model.Root=<ol><li>Chemical.Good._Lost:<br>{Doc.Environment.Chemical.Good._Lost}<br><br></li><li>Chemical.Bad.A-Z:<br><b>{Doc.Environment.Chemical.Bad.A-Z}</b></li></ol><br><br><ol><li>{Doc.Environment._Sec}</li></ol>
 
-																																
+																																  

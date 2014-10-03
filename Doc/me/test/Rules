@@ -1,7 +1,7 @@
 =[me/test/Aggregate]
 =[?http://commonaccord.org/test.cmacc]
 
-Master.=[core/form/agt/master/Form]
+Master.=[core/form/agt/master/Current]
 
 
 Model.Root={ThisIsOurAgreement}	
@@ -28,4 +28,4 @@ Rules = {01.P1}<br>{01.P2}<br>{01.P3}
 
 01.P3 = I agree to incorporate the following rules into all of my contractual agreements with users: <br> {Master.PersonalData._Sec}
 
-              
+                

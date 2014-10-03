@@ -1,4 +1,4 @@
-See= the set of Defined Terms at [core/form/agt/master/Definition_Terms]
+See= the set of Defined Terms at [core/form/agt/master/sec/Definition_Terms]
 
 Model.Root={Definition._Sec}
 
@@ -47,4 +47,4 @@ Def.Supplier's_Personnel=<b>“{Supplier's Personnel}”</b> means all persons provi
 Def.Supplier's_Reserved_Intellectual_Property=<b>“{Supplier's Reserved Intellectual Property}”</b> means {Supplier's Intellectual Property} listed as such on {Schedule F}, {Supplier's Reserved Intellectual Property}.
 
 
-Def.Third_Party_Intellectual_Propery=<b>“{Third Party Intellectual Property}”</b> means any software, applications, or components or other materials subject to {IP Rights} owned by any party (including {Supplier}) other than {Company}.  
+Def.Third_Party_Intellectual_Propery=<b>“{Third Party Intellectual Property}”</b> means any software, applications, or components or other materials subject to {IP Rights} owned by any party (including {Supplier}) other than {Company}.    

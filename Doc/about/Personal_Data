@@ -1,6 +1,6 @@
 Personal Data:
 		
-MasterServices.=[core/form/agt/master/personaldata/PD_Sec]
+MasterServices.=[core/form/agt/master/sec/personaldata/PD_Sec]
 
 TermsOfUse.=[core/form/agt/web/tou/userContent/UC_Sec]
   

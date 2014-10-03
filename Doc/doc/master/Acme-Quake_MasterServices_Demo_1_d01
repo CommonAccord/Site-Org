@@ -1,4 +1,4 @@
-=[core/form/agt/master/Form]
+=[core/form/agt/master/Current]
 
 P1.=[core/id/acme_incorporated]
 
@@ -44,29 +44,7 @@ Dispute.Forum._cl=the state courts sitting in the County of Suffolk and the fede
 
 Dispute.Law.State.of=the Commonwealth of Massachusetts
 
-Payment.DueAfter.Days=180 days
-
-EarlyPaymentDiscount.%=0.0333%
-
-EarlyPaymentDiscount.Example.1.%=3.5%
-
-EarlyPaymentDiscount.Example.1.Days=one hundred and five (105) days
-
-EarlyPaymentDiscount.Example.2.%=0.333%
-
-EarlyPaymentDiscount.Example.2.Days=ten (10) days
-
-Base.Prime.Rate.%=3.25%
-
-EarlyPaymentDiscount.Example.3.%=0.34%
-
-Assure.General.Occur.$=$3,000,000
-
-Assure.General.Total.$=$5,000,000
-
-Assure.Auto.Occur.$=$2,000,000
-
-Assure.Prof.Occur.$=$5,000,000
+Fin.=[core/form/agt/master/config/Finance_Type1]
 
 P1.xSignature=x Andrea Ang
 
