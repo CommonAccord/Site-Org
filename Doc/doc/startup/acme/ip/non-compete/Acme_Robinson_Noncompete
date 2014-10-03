@@ -12,6 +12,7 @@ DOC.Re=Employment and Non-Competition
 P2.=[core/id/roberta_robinson]
 
 new.continued=new
+Ban.Business=providing data analytic services useful for insurance underwriting
 
 Compete.Ban.Period.AfterEmployment=one year
 Ban.GeographicScope=within 100 miles of Boston, Massachusetts
@@ -21,4 +22,4 @@ Law.State.the=Massachusetts
 P2.Dear=Dear Roberta:
 P1.xSignature=xANDREA ANG
 P1.Sign.YMD=September 1, 2014
-          
+            
