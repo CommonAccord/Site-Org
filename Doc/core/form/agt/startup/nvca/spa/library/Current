@@ -1,4 +1,4 @@
-See=one of the forms - foundersrep or nofounderrep
+&#64257;P2.See=one of the forms - foundersrep or nofounderrep
 
 AGT.Title=SERIES A PREFERRED STOCK PURCHASE AGREEMENT
 
@@ -238,7 +238,7 @@ Ftn26=<a href="#_ftn26" name="_ftnref" title="">[26]</a>
 
 2.8.8._Sen=<u>Subsection </u><u>{DS.2.8.Xnum}</u> of the Disclosure Schedule lists all Company Intellectual Property.
 
-2.8.9._SenThe Company has not embedded any open source, copyleft or community source code in any of its products generally available or in development, including but not limited to any libraries or code licensed under any General Public License, Lesser General Public License or similar license arrangement.
+2.8.9._Sen=The Company has not embedded any open source, copyleft or community source code in any of its products generally available or in development, including but not limited to any libraries or code licensed under any General Public License, Lesser General Public License or similar license arrangement.
 
 2.8.10._Sen=For purposes of this <u>Subsection </u><u>0</u>, the Company shall be deemed to have knowledge of a patent right if the Company has actual knowledge of the patent right or would be found to be on notice of such patent right as determined by reference to United States patent laws.
 
@@ -348,18 +348,18 @@ Ftn35<a href="#_ftn35" name="_ftnref" title="">[35]</a>
 
 2.16.Title=Employee Matters
 
-2.16.1._sec={2.16.1._Sen}{-sen-}{2.16.2._sec}
+2.16.1._sec={2.16.1.1._Sen}{-sen-}{2.16.1.2._Sen}
 
-2.16.1._Sen=As of the date hereof, the Company employs {FullTimeEmployees-Quantity} full-time employees and {PartTimeEmployees-Quantity} part-time employees and engages {Consultants-Quantity} consultants or independent contractors.
+2.16.1.1._Sen=As of the date hereof, the Company employs {FullTimeEmployees-Quantity} full-time employees and {PartTimeEmployees-Quantity} part-time employees and engages {Consultants-Quantity} consultants or independent contractors.
 
-2.16.2._Sen=<u>Subsection </u><u>2.12</u>(n) of] the Disclosure Schedule sets forth a detailed description of all compensation, including salary, bonus, severance obligations and deferred compensation paid or payable for each officer, employee, consultant and independent contractor of the Company who received compensation in excess of $[________] for the fiscal year ended [____ __, 20_] or is anticipated to receive compensation in excess of $[________] for the fiscal year ending [____ __, 20_].
+2.16.1.2._Sen=<u>Subsection </u><u>2.12</u>(n) of] the Disclosure Schedule sets forth a detailed description of all compensation, including salary, bonus, severance obligations and deferred compensation paid or payable for each officer, employee, consultant and independent contractor of the Company who received compensation in excess of $[________] for the fiscal year ended [____ __, 20_] or is anticipated to receive compensation in excess of $[________] for the fiscal year ending [____ __, 20_].
 
 Ftn36=<a href="#_ftn36" name="_ftnref" title="">[36]</a>
 
 
-2.16.2._Sen=To the Company’s knowledge, none of its employees is obligated under any contract (including licenses, covenants or commitments of any nature) or other agreement, or subject to any judgment, decree or order of any court or administrative agency, that would materially interfere with such employee’s ability to promote the interest of the Company or that would conflict with the Company’s business.{-sen-} Neither the execution or delivery of the Transaction Agreements, nor the carrying on of the Company’s business by the employees of the Company, nor the conduct of the Company’s business as now conducted and as presently proposed to be conducted, will, to the Company’s knowledge, conflict with or result in a breach of the terms, conditions, or provisions of, or constitute a default under, any contract, covenant or instrument under which any such employee is now obligated.
+2.16.2._sec=To the Company’s knowledge, none of its employees is obligated under any contract (including licenses, covenants or commitments of any nature) or other agreement, or subject to any judgment, decree or order of any court or administrative agency, that would materially interfere with such employee’s ability to promote the interest of the Company or that would conflict with the Company’s business.{-sen-} Neither the execution or delivery of the Transaction Agreements, nor the carrying on of the Company’s business by the employees of the Company, nor the conduct of the Company’s business as now conducted and as presently proposed to be conducted, will, to the Company’s knowledge, conflict with or result in a breach of the terms, conditions, or provisions of, or constitute a default under, any contract, covenant or instrument under which any such employee is now obligated.
 
-2.16.3._Sec={2.16.3.1._Sen}{-sen-}{2.16.3.2._Sen}{-sen-}{2.16.3.3._Sen}
+2.16.3._sec={2.16.3.1._Sen}{-sen-}{2.16.3.2._Sen}{-sen-}{2.16.3.3._Sen}
 
 2.16.3.1._Sen=The Company is not delinquent in payments to any of its employees, consultants, or independent contractors for any wages, salaries, commissions, bonuses, or other direct compensation for any service performed for it to the date hereof or amounts required to be reimbursed to such employees, consultants or independent contractors. 
 
@@ -678,7 +678,7 @@ Ftn58-<a href="#_ftn58" name="_ftnref" title="">[58]</a>
 
 6.8.Title=Fees and Expenses
 
-6.8._sec=At the Closing, the Company shall pay the reasonable fees and expenses of {P2.Atty.Name.Full}, the counsel for {P2.Handle}, in an amount not to exceed, in the aggregate, {P2.Atty.Fee.Max.$}.
+6.8._sec=At the Closing, the Company shall pay the reasonable fees and expenses of {P1.Atty.Name.Full}, the counsel for {P1.Handle}, in an amount not to exceed, in the aggregate, {P1.Atty.Fee.Max.$}.
 
 6.9.Title=Attorneys’ Fees
 
@@ -720,7 +720,7 @@ Ftn62=<a href="#_ftn62" name="_ftnref" title="">[62]</a>
 
 6.15.0.3._Sen=<em>Alternative</em>:  Any unresolved controversy or claim arising out of or relating to this Agreement, except as (i) otherwise provided in this Agreement, or (ii) any such controversies or claims arising out of either party’s intellectual property rights for which a provisional remedy or equitable relief is sought, shall be submitted to arbitration by one arbitrator mutually agreed upon by the parties, and if no agreement can be reached within thirty (30) days after names of potential arbitrators have been proposed by the American Arbitration Association (the “<strong>AAA</strong>”), then by one arbitrator having reasonable experience in corporate finance transactions of the type provided for in this Agreement and who is chosen by the AAA.{-sen-} The arbitration shall take place in [<em>location</em>], in accordance with the AAA rules then in effect, and judgment upon any award rendered in such arbitration will be binding and may be entered in any court having jurisdiction thereof.{-sen-} There shall be limited discovery prior to the arbitration hearing as follows: (a) exchange of witness lists and copies of documentary evidence and documents relating to or arising out of the issues to be arbitrated, (b) depositions of all party witnesses, and (c) such other depositions as may be allowed by the arbitrators upon a showing of good cause.{-sen-} Depositions shall be conducted in accordance with the [<em>state</em>] Code of Civil Procedure, the arbitrator shall be required to provide in writing to the parties the basis for the award or order of such arbitrator, and a court reporter shall record all hearings, with such record constituting the official transcript of such proceedings.
 
-6.15.0.4._Sen=[Each party will bear its own costs in respect of any disputes arising under this Agreement.] [The prevailing party shall be entitled to reasonable attorney’s fees, costs, and necessary disbursements in addition to any other relief to which such party may be entitled.]  Each of the parties to this Agreement consents to personal jurisdiction for any equitable action sought in the U.S. District Court for the District of [_____] or any court of the [State][Commonwealth] of [<em>state</em>] having subject matter jurisdiction.]
+6.15.0.4._Sen=[Each party will bear its own costs in respect of any disputes arising under this Agreement.] [The prevailing party shall be entitled to reasonable attorney’s fees, costs, and necessary disbursements in addition to any other relief to which such party may be entitled.]  Each of the parties to this Agreement consents to personal jurisdiction for any equitable action sought in {Dispute.Forum._cl} having subject matter jurisdiction.]
 
 6.16.Title=No Commitment for Additional Financing
 
@@ -728,7 +728,7 @@ Ftn62=<a href="#_ftn62" name="_ftnref" title="">[62]</a>
 
 6.17.Title=Waiver of Conflicts
 
-6.17._sec=Each party to this Agreement acknowledges that [<em>insert name of Company counsel</em>], counsel for the Company, has in the past performed and may continue to perform legal services for certain of the Purchasers in matters unrelated to the transactions described in this Agreement, including the representation of such Purchasers in venture capital financings and other matters.{-sen-} Accordingly, each party to this Agreement hereby (a) acknowledges that they have had an opportunity to ask for information relevant to this disclosure; and (b) gives its informed consent to [<em>insert name of Company counsel</em>]’s representation of certain of the Purchasers in such unrelated matters and to [<em>insert name of Company counsel</em>]’s representation of the Company in connection with this Agreement and the transactions contemplated hereby.]
+6.17._sec=Each party to this Agreement acknowledges that {P1.Atty.Handle}, counsel for the Company, has in the past performed and may continue to perform legal services for certain of the Purchasers in matters unrelated to the transactions described in this Agreement, including the representation of such Purchasers in venture capital financings and other matters.{-sen-} Accordingly, each party to this Agreement hereby (a) acknowledges that they have had an opportunity to ask for information relevant to this disclosure; and (b) gives its informed consent to {P1.Atty.Handle}’s representation of certain of the Purchasers in such unrelated matters and to {P1.Atty.Handle}’s representation of the Company in connection with this Agreement and the transactions contemplated hereby.
 
 AGT.Signature.InWitness=IN WITNESS WHEREOF, the parties have executed this Series A Preferred Stock Purchase Agreement as of the date first written above.
 
@@ -1092,4 +1092,4 @@ xx=If there are to be subsequent closings, consider whether all of the closing c
 <div id="ftn">
 <a href="#_ftnref" name="_ftn63" title="">[63]</a> Investors should consider whether cash is an acceptable remedy; the cash value of the shares is likely to be low, particularly if there has been a breach of a rep or warranty.  In addition, if the Investors require the surrender of shares rather than cash, they should also consider whether to include Preferred Stock, as well, if the Founder owns shares of Preferred Stock.  
 </div>
-              
+                    

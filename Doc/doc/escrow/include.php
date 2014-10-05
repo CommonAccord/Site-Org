@@ -2,7 +2,7 @@
 <div class="col-md-4"><img height=300 src="assets/escrow.png"></div>
 <div class="col-md-6"> 
 
-An escrow to assure that the online seller of goods gets paid only after the purchaser has received the goods and has had a certain time to inspect them.  Subdivided into four steps:<br>
+   An escrow to assure that the online seller of goods gets paid only after the purchaser has received the goods and has had a certain time to inspect them.  Subdivided into five steps, each building on the previous one:<br>
 <ol>
 	<li> Seller <a href="http://www.commonaccord.org/index.php?action=source&file=Doc/core/id/gerrys_grapes_llc"> Gerry's Grapes</a> uses a <a href="http://www.commonaccord.org/index.php?action=source&file=Doc/core/form/agt/escrow/Form">Template Agreement</a> and <a href="http://www.commonaccord.org/index.php?action=source&file=Doc/core/form/agt/escrow/JAMS_Arbitration_Chicago">Arbitration Rules</a> in a <a href="http://www.commonaccord.org/index.php?action=source&file=Doc/doc/escrow/Demo_Escrow_Step_1_Parties">form Agreement</a> (step 1)</li>
 	<li>Purchaser <a href="http://www.commonaccord.org/index.php?action=source&file=Doc/core/id/roberta_robinson">Roberta Robinson</a> adds her name and specifies the goods, creating an <a href="http://www.commonaccord.org/index.php?action=source&file=Doc/doc/escrow/Demo_Escrow_Step_2_Order">Order</a> that is a second version of the Agreement (step 2)</li>
@@ -11,3 +11,4 @@ An escrow to assure that the online seller of goods gets paid only after the pur
 <li>Gerry <a href="http://www.commonaccord.org/index.php?action=source&file=Doc/doc/escrow/Demo_Escrow_Step_5_Response">responds (step 5)</a></li> </ol>
  </div>
 </div>
+	 <h1>A more complex example is <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/me/startup/acme/>a startup in a box</a></h1>
