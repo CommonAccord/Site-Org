@@ -1,16 +1,16 @@
 Message=Prepared and Proposed September 20, 2014
 
-P2.=[Acme/Party/Roberta_Robinson]
-
-P1.=[Acme/Party/Acme_Inc]
-
-=[Acme/Preferences]
+=[me/hackme/form/Orrick_Assignment_Form_Employee]
 
 P1.Handle=Employer
 
 P2.Handle=Employee
 
-=[Acme/form/Orrick_Assignment_Form_Employee]
+P2.=[me/hackme/Party/Roberta_Robinson]
+
+P1.=[me/hackme/Party/Acme_Inc]
+
+=[me/hackme/Preferences]
 
 becoming/continuing=becoming
 
@@ -20,5 +20,4 @@ Exh.PriorInvent.AddSheets.#=0
 
 Exh.Invent.StateLaw.Text={Invent.StateLaw.Exclusion.No}
 
-P2./es=<b></b>
-  
+    

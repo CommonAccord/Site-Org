@@ -1,10 +1,10 @@
 OptionalMessageToYourPeer=Prepared and Proposed, for start on {AGT.Effective.YMD}
 
-P1.=[Acme/Party/Acme_Inc]
+P1.=[me/hackme/Party/Acme_Inc]
 
-P2.=[Acme/Party/Solomon_Shirley]
+P2.=[me/hackme/Party/Solomon_Shirley]
 
-=[Acme/Preferences]
+=[me/hackme/Preferences]
 
 Prologue.Recital={P1.Handle} intends to hire {P2.Handle}.
 
@@ -14,7 +14,7 @@ P1.Handle=Company
 
 P2.Handle=Developer
 
-=[Acme/form/Docracy-48-Technology-Assignment-Agreement-v02]
+=[me/hackme/form/Docracy-48-Technology-Assignment-Agreement-v02]
 
 becoming/continuing=becoming
                                  
