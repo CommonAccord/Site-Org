@@ -2,6 +2,8 @@
 
 Register.Agent.=[core/id/the_corporation_company]
 
+Atty.=[core/id/andrews_and_applegate_pllc]
+
 Name.Full=Acme Inc.
 
 
@@ -33,4 +35,4 @@ President.Title=President
 
 Notice.Name,Title={President.Name.Full}, {President.Title}
 				
-						
+						    

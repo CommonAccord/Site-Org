@@ -2,6 +2,8 @@
 
 =[core/at/USA/CA/San_Mateo/Menlo_Park/Geo]
 
+Atty.=[core/id/quade_and_quinn]
+
 <b>Quake Info</b>
 
 Name.Full=Quake Inc.
@@ -36,4 +38,4 @@ Sign.Title={President.Title}
 Email=Kendall@quake.com
 
 entity=Delaware corporation
-						
+						    
