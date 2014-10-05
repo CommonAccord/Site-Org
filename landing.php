@@ -22,7 +22,7 @@
 
     <div id="info-more">
         <h4 class="subtitle">Explore <a href=<?=$_SERVER['PHP_SELF']?>?action=explore>the objects of law</a></h4>
-   <h4 class="subtitle">Startup in a Box <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/me/startup/>an "object for a startup company</a></h4>
+   <h4 class="subtitle">Startup in a Box <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/me/startup/>an "object" for a startup company</a></h4>
 <h4 class="subtitle">Privacy <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/me/medical_wallet/steps/>medical patient's document wallet</a></h4>
 
    <h4 class="subtitle">Code the Deal <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/Acme/>Acme - Company in a Box</a></h4>
