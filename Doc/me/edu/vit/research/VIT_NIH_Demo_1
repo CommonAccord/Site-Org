@@ -1,10 +1,10 @@
 =[core/form/agt/research/sponsored/Form_MIT_Edu_OSP_USA]
 
-=[core/ids/mit_quake]
+P1.=[core/id/vit_edu]
 
 AGT.Title=Sponsored Research Agreement
 
-P1.Handle=MIT
+P1.Handle=VIT
 
 P2.Handle=Quake
 
@@ -20,7 +20,7 @@ Project.Period.End=<b>August 31, 2015</b>
 
 Project.Cost.Max=<b>$65,000</b>
 
-Laws.Of=the Commonwealth of Massachusetts
+Laws.Of=the Commonwealth of Virginia
 
 P1.xSignature=x S Shirley
 
@@ -30,4 +30,4 @@ Sign.YMD=September 1, 2014
 
 
 
-						
+						    

@@ -8,7 +8,7 @@
 	 <p align="center"><img src="assets/cmacc-trans.png" style="width:65%" /></p>
 <br/>
 <hr>
-<h1 class="title">CommonAccord is an open source software<br/> and law project.</h1>
+<h3 class="title">CommonAccord is an open source software<br/> and law project.</h1>
 <hr>
 <h3 class="title">We are lawyers and programmers working together<br/> to create a global template system of codified legal texts.</h4>
 <br/><br/>
@@ -22,7 +22,7 @@
 
     <div id="info-more">
         <h4 class="subtitle">Explore <a href=<?=$_SERVER['PHP_SELF']?>?action=explore>the objects of law</a></h4>
-   <h4 class="subtitle">Startup in a Box <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/doc/startup/>beginning a library of docs for startups</a></h4>
+   <h4 class="subtitle">Startup in a Box <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/me/startup/>an "object for a startup company</a></h4>
 <h4 class="subtitle">Privacy <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/me/medical_wallet/steps/>medical patient's document wallet</a></h4>
 
    <h4 class="subtitle">Code the Deal <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/Acme/>Acme - Company in a Box</a></h4>

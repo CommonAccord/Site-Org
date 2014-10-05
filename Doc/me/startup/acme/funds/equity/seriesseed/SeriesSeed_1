@@ -1,0 +1,8 @@
+ts.=[core/form/agt/startup/seriesseed/ts/Current]
+
+invest.=[core/form/agt/startup/seriesseed/invest/Current]
+incorp.=[core/form/agt/startup/seriesseed/incorp/Current]
+
+Co.=[core/id/acme_incorporated]
+
+Model.Root={ts.DocBody}<hr><hr>{invest.DocBody}<hr><hr>{incorp.DocBody}      
