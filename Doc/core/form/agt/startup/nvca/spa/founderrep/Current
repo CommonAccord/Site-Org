@@ -1,6 +1,8 @@
-=[core/form/agt/startup/nvca/spa/NVCA_SPA_Library]
+=[core/form/agt/startup/nvca/spa/library/Current]
 
-Model.Root={AGT.Prologue}<br><br><ol><li>{AGT._Secs}</li></ol><br>{AGT.Signature}<br><hr><hr>{AGT.Exhibits}
+Model.Root={DocBody}
+
+DocBody={AGT.Prologue}<br><br><ol><li>{AGT._Secs}</li></ol><br>{AGT.Signature}<br><hr><hr>{AGT.Exhibits}
 
 AGT.Prologue=<center><b>{AGT.Title}</b></center><br><br>{Prologue.ThisAgreement}<br><br>{Prologue.NowTherefore}	
 
@@ -193,7 +195,8 @@ Note=_sec bz no headings
 
 6.15._sec={6.15.0.1._Sen}{br} {6.15.0.2_Sen}{br}  {6.15.0.3._Sen}{br}  {6.15.0.4._Sen}
 
-AGT.Signature={AGT.Signature.InWitness}<br><br>{Co.Sign.Block}<br><br>{Founders.Sign.Block}<br><br>{Purchasers.Sign.Block}
+AGT.Signature={AGT.Signature.InWitness}<br><br>{Co.Sign.Block}
+<br><br>{Founders.Sign.Block}<br><br>{Purchasers.Sign.Block}
 
 AGT.Exhibits={Exhibit.A._Doc}<hr>{Exhibit.B._Doc}<hr>{Exhibit.C._Doc}<hr>
 
@@ -220,4 +223,4 @@ ol-=<ol><li>
 
 br=<br>
 brr=<br><br>
--sen-=.&ensp;
+-sen-=.&#8194;                                                                      

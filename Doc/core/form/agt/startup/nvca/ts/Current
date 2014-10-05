@@ -1,8 +1,8 @@
-Model.Root={_Body}
+Model.Root={DocBody}
 
 =[core/class/Doc_Table]
 
-_Body=<center>{Heading}</center>{secbr}{Intro}{secbr}{Summary._Table}{secbr}{Charter._Table}{secbr}{SPA._Table}{secbr}{IRA._Table}{RoFR._Table}{secbr}{Voting._Table}{secbr}{OtherMatters._Table}{secbr}{AGT.Signature}
+DocBody=<center>{Heading}</center>{secbr}{Intro}{secbr}{Summary._Table}{secbr}{Charter._Table}{secbr}{SPA._Table}{secbr}{IRA._Table}{RoFR._Table}{secbr}{Voting._Table}{secbr}{OtherMatters._Table}{secbr}{AGT.Signature}
 
 secbr=<br><hr><br>
 
@@ -27,4 +27,4 @@ OtherMatters.=[core/form/agt/startup/nvca/ts/sec/NVCA_TS_OtherMatters]
 AGT.Signature=<p >EXECUTED this {AGT.Effective.YMD}.<br><br>{Sign.Block}</p></body></html>
           
 
-                 
+                   

@@ -1,10 +1,11 @@
 Co.=[core/id/acme_incorporated]
 Inv.1.=[core/id/quake_incorporated]
 
-=[core/form/agt/startup/nvca/ts/NVCA_TS]
+ts.=[core/form/agt/startup/nvca/ts/Current]
+spa.=[core/form/agt/startup/nvca/spa/nofounderrep/Current]
 
 BARELY A STUB=just a start on parameterizing
-Model.Root={_Body}
+Model.Root={ts.DocBody}<hr><hr>{spa.DocBody}
 
 Dispute.Law.State.of=the Commonwealth of Massachusetts
 
@@ -64,4 +65,4 @@ NoShop.LiqDamages.Unless.Offers=????
 NoShop.LiqDam.$=$100,000
 TS.Expire.Fixed.YMD=November 30, 2014
 AGT.Effective.YMD=September 10, 2014
-Sign.Block=<table><tr><td>{Co.Sign.Block}</td><td>{Inv.1.Sign.Block}</td></tr></table>				
+Sign.Block=<table><tr><td>{Co.Sign.Block}</td><td>{Inv.1.Sign.Block}</td></tr></table>				        

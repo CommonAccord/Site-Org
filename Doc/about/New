@@ -10,7 +10,7 @@ particularly=[core/form/agt/master/sec/ip/IP_Sec]
 and=[core/form/agt/master/sec/personaldata/PD_Sec]
 
 Working= on the NVCA - Term Sheet.  This is very complex work.
-=[core/form/agt/startup/nvca/ts/NVCA_TS]
+=[core/form/agt/startup/nvca/ts/Current]
 Going=deep into the structure of the /nvca/ts/NVCA_TS_IRA
 Creating=a vocabulary to simplify the html stuff.  Also automating replacements.  Likely there are other, perhaps better, approaches.  This has the virtue of being native. 
   

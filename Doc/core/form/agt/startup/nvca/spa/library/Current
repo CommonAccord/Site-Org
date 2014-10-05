@@ -1,3 +1,5 @@
+See=one of the forms - foundersrep or nofounderrep
+
 AGT.Title=SERIES A PREFERRED STOCK PURCHASE AGREEMENT
 
 Prologue.ThisAgreement=THIS SERIES A PREFERRED STOCK PURCHASE AGREEMENT (this “<strong>Agreement</strong>”), is made as of {AGT.Effective.YMD} by and among {Co.Name.Full}, a Delaware corporation (the “<strong>Company</strong>”), the investors listed on <u>Exhibit A</u> attached to this Agreement (each a “<strong>Purchaser</strong>” and together the “<strong>Purchasers</strong>”) {Prologue.ThisAgreement.Ins1}
@@ -190,14 +192,15 @@ Ftn23=<a href="#_ftn23" name="_ftnref" title="">[23]</a>
 
 Ftn25=<a href="#_ftn24" name="_ftnref" title="">[24]</a>  
 
-2.7._sec={2.7.1._Sen}{-sen-}{2.7.2._Sen}
+2.7._sec={2.7.1._Sen}{-sen-}{2.7.2._Sen}{-sen-}{2.7.3._Sen}{-sen-}{2.7.4._Sen}
 
 2.7.1._Sen=There is no claim, action, suit, proceeding, arbitration, complaint, charge or investigation pending or to the Company’s knowledge, currently threatened {2.7.in writing} {2.7.1.List}
 
 
 2.7.1.List={2.7.1.1}; {2.7.1.2}; or {2.7.1.3}.
 
-2.7.1.1=against the Company or any officer, director or Key Employee of the Company {arising out of their employment or board relationship with the Company 
+2.7.1.1=against the Company or any officer, director or Key Employee of the Company {2.7.1.1.arising}
+2.7.1.1.arising=arising out of their employment or board relationship with the Company 
 2.7.1.2=Choose:<br>2.7.1.2.Knowledge: {2.7.1.2.Knowledge} or <br>2.7.1.2.Knowledge: {2.7.1.2.WithoutKnowledge}
 
 2.7.1.2.Knowledge=to the Company’s knowledge, that questions the validity of the Transaction Agreements or the right of the Company to enter into them, or to consummate the transactions contemplated by the Transaction Agreements
@@ -206,7 +209,11 @@ Ftn25=<a href="#_ftn24" name="_ftnref" title="">[24]</a> 
 
 2.7.1.3=to the Company’s knowledge, that would reasonably be expected to have, either individually or in the aggregate, a Material Adverse Effect
 
-2.7.1._Sen=Neither the Company nor, to the Company’s knowledge, any of its officers, directors or Key Employees is a party or is named as subject to the provisions of any order, writ, injunction, judgment or decree of any court or government agency or instrumentality (in the case of officers, directors or Key Employees, such as would affect the Company).{-sen-} There is no action, suit, proceeding or investigation by the Company pending or which the Company intends to initiate.{-sen-} The foregoing includes, without limitation, actions, suits, proceedings or investigations pending or threatened in writing (or any basis therefor known to the Company) involving the prior employment of any of the Company’s employees, their services provided in connection with the Company’s business, any information or techniques allegedly proprietary to any of their former employers or their obligations under any agreements with prior employers.
+2.7.2._Sen=Neither the Company nor, to the Company’s knowledge, any of its officers, directors or Key Employees is a party or is named as subject to the provisions of any order, writ, injunction, judgment or decree of any court or government agency or instrumentality (in the case of officers, directors or Key Employees, such as would affect the Company).
+
+2.7.3._Sen=There is no action, suit, proceeding or investigation by the Company pending or which the Company intends to initiate.
+
+2.7.4._Sen=The foregoing includes, without limitation, actions, suits, proceedings or investigations pending or threatened in writing (or any basis therefor known to the Company) involving the prior employment of any of the Company’s employees, their services provided in connection with the Company’s business, any information or techniques allegedly proprietary to any of their former employers or their obligations under any agreements with prior employers.
 
 Ftn25=<a href="#_ftn25" name="_ftnref" title="">[25]</a>
 
@@ -1040,4 +1047,4 @@ xx=If there are to be subsequent closings, consider whether all of the closing c
 <a href="#_ftnref" name="_ftn63" title="">[63]</a> Investors should consider whether cash is an acceptable remedy; the cash value of the shares is likely to be low, particularly if there has been a breach of a rep or warranty.  In addition, if the Investors require the surrender of shares rather than cash, they should also consider whether to include Preferred Stock, as well, if the Founder owns shares of Preferred Stock.  
 </div>
 </div>
-  
+        
