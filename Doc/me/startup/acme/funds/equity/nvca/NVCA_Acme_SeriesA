@@ -51,7 +51,7 @@ Grey.Debt.Except.BDVote.Directors.#=
 
 From TS Charter Mandatory:
 Mand.firm commitment=firm commitment
-Mand.Multiple=2 times
+Mand.Multiple=2
 MandatoryConvert.net/gross=gross
 MandatoryConvert-QPO-Min-Proceeds-$=$50 million
 MandatoryConvert.Consent-of-A-Holders.%=50%
@@ -88,4 +88,4 @@ NoShop.LiqDamages.Unless.Offers=????
 NoShop.LiqDam.$=$100,000
 TS.Expire.Fixed.YMD=November 30, 2014
 AGT.Effective.YMD=September 10, 2014
-Sign.Block=<table><tr><td>{Co.Sign.Block}</td><td>{P1.Sign.Block}</td></tr></table>				                                          
+Sign.Block=<table><tr><td>{Co.Sign.Block}</td><td>{P1.Sign.Block}</td></tr></table>				                                            
