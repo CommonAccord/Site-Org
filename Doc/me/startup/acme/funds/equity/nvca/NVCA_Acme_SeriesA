@@ -36,10 +36,30 @@ Charter.Liq.Alternative={Charter.Liq.Alternative1}
 
 Liq.PriceMultiple=2
 
+Div.Cumulative.Preference.%=
+Div.NonCumulative.Preference.$=
+priceMultiple=
+Liq.PriceMultiple=
+Liq.Trigger.Except.%=
+Vote.DirA.Threshold=
+Vote.DirA.#=
+PortionOfShares=
+A.Vote.%=
+Grey.Redeem.Except.BDVote.Directors.#=
+Grey.Debt.IfExceed.$=
+Grey.Debt.Except.BDVote.Directors.#=
+
+From TS Charter Mandatory:
+Mand.firm commitment=firm commitment
+Mand.Multiple=2 times
+MandatoryConvert.net/gross=gross
+MandatoryConvert-QPO-Min-Proceeds-$=$50 million
+MandatoryConvert.Consent-of-A-Holders.%=50%
+
 Grey.Redeem.Except.BDVote.Directors.#={m-}two-thirds{-m}
 Grey.Debt.IfExceed.$=$50,000
 Grey.Debt.Except.BDVote.Directors.#={m-}two-thirds{-m}
-Atty.Fee.Max=$15,000
+P2.Atty.Fee.Max=$15,000
 Period-Following-IPO-When-May-Demand-Registration=one year
 Min-Percentage-of-Securities-To-Make-Demand=25%
 Number-Of-Times-May-Request-Registration=two
@@ -56,8 +76,8 @@ Amount-Of-Corporate-Transaction-Requiring-Investor-Director-Approval=$200,000
 ESO.AddToPool.Share.#=200,000
 ESO.TotalPool.#=400,000
 BD.Size.#=5
-Inv.1.Director.Name.Full=Samantha Sangel
-Inv.2-N.Director.Name.Full=Terrance Tengen
+P1.Director.Name.Full=Samantha Sangel
+P2-N.Director.Name.Full=Terrance Tengen
 Founder.All.Director.Name.Full=Fred Ferron
 Independent.Directors.#=Ulf Uellendorf and Victor Vento
 Drag.FutureCommon.%=10%
@@ -68,4 +88,4 @@ NoShop.LiqDamages.Unless.Offers=????
 NoShop.LiqDam.$=$100,000
 TS.Expire.Fixed.YMD=November 30, 2014
 AGT.Effective.YMD=September 10, 2014
-Sign.Block=<table><tr><td>{Co.Sign.Block}</td><td>{P1.Sign.Block}</td></tr></table>				                                      
+Sign.Block=<table><tr><td>{Co.Sign.Block}</td><td>{P1.Sign.Block}</td></tr></table>				                                          
