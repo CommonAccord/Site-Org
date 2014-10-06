@@ -2,6 +2,10 @@
 
 =[core/at/USA/CA/San_Mateo/Menlo_Park/Geo]
 
+President.Title=President and Chairman 
+
+President.=[core/id/colleen_kendall]
+
 Atty.=[core/id/quade_and_quinn]
 
 <b>Quake Info</b>
@@ -23,10 +27,6 @@ Addr.Type=business
 
 BusinessDomain=information services consulting
 
-President.Name.Full=Colleen Kendall
-
-President.Title=President and Chairman 
-
 Notice.Name,Title={President.Name.Full}, {President.Title}
 
 SignBy=By: <u>{xSignature}</u><br/>Name: {President.Name.Full}<br/>Its: {President.Title}
@@ -38,4 +38,4 @@ Sign.Title={President.Title}
 Email=Kendall@quake.com
 
 entity=Delaware corporation
-						    
+						      

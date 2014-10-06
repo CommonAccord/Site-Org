@@ -1,27 +1,30 @@
+Co.Handle=Company
 Co.=[core/id/acme_incorporated]
-Inv.1.=[core/id/quake_incorporated]
-
+P1.Handle=Lead Investor
+P1.=[core/id/quake_incorporated]
+P1.Director.=[core/id/colleen_kendall]
+P2.=[core/id/roberta_robinson]
+ts.Summary.Round.Raise.BridgeLoan=<b></b>
 ts.=[core/form/agt/startup/nvca/ts/Current]
 spa.=[core/form/agt/startup/nvca/spa/nofounderrep/Current]
-
+ts.Charter.Protect.PortionOfShares=10% of
 BARELY A STUB=just a start on parameterizing
 Model.Root={ts.DocBody}<hr><hr>{spa.DocBody}
 
 Dispute.Law.State.of=the Commonwealth of Massachusetts
 
-Inv.1.A.#=1,000
-Inv.1.A.%=10%
-Inv.1.A.$=$100,000
-Inv.2.A.#=500
-Inv.2.A.%=5%
-Inv.2.A.$=$50,000
+P1.Shares.#=1,000
+P1.Shares.%=30%
+P1.Shares.$=$300,000
+P2.Shares.#=500
+P2.Shares.%=15%
+P2.Shares.$=$150,000
 
-Round.A.Total.$=
-Amount.Ins1.$= from the conversion of principal {and interest} on bridge notes
-Round.A.Price.$=$100
-PreR.Valuation.$=$1,000,000
-
-PostR.Valuation.$=$1,000,000
+Round.Raise.Total.$=$1,000,000
+Round.Price.$=$100
+PreR.Valuation.$=$4,000,000
+Round.Raise.BridgeLoan=<b></b>
+PostR.Valuation.$=$10,000,000
 
 PostR.Emp.Valuation.%=$100,000
 
@@ -65,4 +68,4 @@ NoShop.LiqDamages.Unless.Offers=????
 NoShop.LiqDam.$=$100,000
 TS.Expire.Fixed.YMD=November 30, 2014
 AGT.Effective.YMD=September 10, 2014
-Sign.Block=<table><tr><td>{Co.Sign.Block}</td><td>{Inv.1.Sign.Block}</td></tr></table>				        
+Sign.Block=<table><tr><td>{Co.Sign.Block}</td><td>{P1.Sign.Block}</td></tr></table>				                                      

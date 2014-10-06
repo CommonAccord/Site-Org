@@ -5,8 +5,8 @@ _row=Protective Provisions:</td><td>{While}addition to any other vote or approva
 <hr>
 Eliminate this insert by making Protect.While=In
 <hr>
-While=So long as {insert fixed number, or %, or "any"} shares of Series A Preferred are outstanding, in 
-
+While=So long as {PortionOfShares} shares of Series A Preferred are outstanding, in 
+/PortionOfShares=insert fixed number, or %, or "any"
 <hr>
 
 Grey.List=(i) {Grey.Liquidate}; (ii) {Grey.Amend}; (iii) {Grey.Dilute}; (iv) {Grey.Redeem}; (v) {Grey.Debt}; (vi) {Grey.Subsidiary}; or (vii) {Grey.Board}.
@@ -40,3 +40,4 @@ Grey.Subsidiary=create or hold capital stock in any subsidiary that is not a who
 
 Grey.Board=increase or decrease the size of the Board of Directors
 
+  

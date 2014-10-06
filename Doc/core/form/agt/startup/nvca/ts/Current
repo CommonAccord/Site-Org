@@ -1,7 +1,8 @@
 Model.Root={DocBody}
-
 =[core/class/Doc_Table]
 
+Co.Handle=Company
+P1.Handle=Lead Investor
 DocBody=<center>{Heading}</center>{secbr}{Intro}{secbr}{Summary._Table}{secbr}{Charter._Table}{secbr}{SPA._Table}{secbr}{IRA._Table}{RoFR._Table}{secbr}{Voting._Table}{secbr}{OtherMatters._Table}{secbr}{AGT.Signature}
 
 secbr=<br><hr><br>
@@ -25,6 +26,8 @@ Voting.=[core/form/agt/startup/nvca/ts/sec/NVCA_TS_Voting]
 OtherMatters.=[core/form/agt/startup/nvca/ts/sec/NVCA_TS_OtherMatters]
 
 AGT.Signature=<p >EXECUTED this {AGT.Effective.YMD}.<br><br>{Sign.Block}</p></body></html>
+
+Sign.Block=<table width="80%"><tr><td valign='top'>{Co.Sign.Block}</td><td width='20%'></td><td valign='top'>{P1.Sign.Block}</td></tr></table>
           
 
-                   
+                           

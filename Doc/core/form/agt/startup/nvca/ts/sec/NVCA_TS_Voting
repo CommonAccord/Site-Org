@@ -8,11 +8,11 @@ Heading._row=<p style="text-align:center" align="center">VOTING AGREEMENT</p>
 
 Board._row=Board of Directors:{-td-}At the initial Closing, the Board shall consist of {BD.Size.#} members comprised of:{ol-}{Directors.List}{-ol}
 
-Directors.List={Inv.1.Directors}{-li-}{Inv.2-N.Directors}{-li-}{Founder.All.Directors}{-li-}{CEO.Director}{-li-}{Independent.Directors}
+Directors.List={P1.Directors}{-li-}{P2-N.Directors}{-li-}{Founder.All.Directors}{-li-}{CEO.Director}{-li-}{Independent.Directors}
 
-Inv.1.Directors={Inv.1.Director.Name.Full} as the representative designated by {Inv.1.Name.Full}, as the lead Investor
+P1.Directors={P1.Director.Name.Full} as the representative designated by {P1.Name.Full}, as the lead Investor
 
-Inv.2-N.Directors={Inv.2-N.Director.Name.Full} as the representative designated by the remaining Investors
+P2-N.Directors={P2-N.Director.Name.Full} as the representative designated by the remaining Investors
 
 Founder.All.Directors={Founder.All.Director.Name.Full} as the representative designated by the Founders
 
@@ -30,3 +30,4 @@ Drag.Include.FutureCommon=and all future holders of greater than {Drag.FutureCom
 Drag.ApprovedBy=the Board of Directors and the holders of {Vote.Drag.Pref.%} of the outstanding shares of Preferred Stock, on an as-converted basis (the "Electing Holders")
 
 SaleRights._row=Sale Rights:{-td-}Upon written notice to the Company from the Electing Holders, the Company shall initiate a process intended to result in a sale of the Company.
+  
