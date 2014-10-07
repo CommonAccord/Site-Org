@@ -21,3 +21,8 @@ AGT._Secs=<ol><li>{1._Sec}</li><li>{2._Sec}</li><li>{3._Sec}</li><li>{4._Sec}</l
 6._Sec=<b>IM Security Guidelines</b><br>I shall be bound by any additional password or security documents, NT guidelines, UNIX guidelines, software licenses and IM security guidelines provided by Company.
 
 AGT.Sign=My signature below indicates my intent to be personally bound by this document.<br><br>AGREED:<table width='80%'><tr><td valign='top'>{P2.Employee.Sign.Block}</td><td valign='top'>{P2.Sign.Block}</td></tr></table>
+
+P2.Employee.Sign.Block=<table border="0" cellpadding="1" cellspacing="1" style="width:300px"><tr><td><strong>Name:</strong></td></tr><tr><td>(“Employee”)</td></tr><tr><td><br>     __________________________</td></tr><tr><td>Date: ____________________</td></tr><tr><td>Address:<br>__________________________<br>__________________________</td></tr.></table>
+P2.Sign.YMD=_____________________
+P2.SignBy=______________________
+      

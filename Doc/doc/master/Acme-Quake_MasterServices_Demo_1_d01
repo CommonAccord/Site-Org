@@ -1,9 +1,12 @@
 =[core/form/agt/master/Current]
 
+=[core/form/agt/master/config/Finance_Type1]
+
 P1.=[core/id/acme_incorporated]
 
 P2.=[core/id/quake_incorporated]
 
+mcolor=brown
 <b>P1 - Company</br>=
 
 P1.ParentAndSub={P1.N,E,A} on behalf of itself and its affiliates
@@ -30,11 +33,15 @@ Confidential.Engage.Duration=three (3) years from the date of each disclosure of
 
 P1.Guidelines=Acme Supplier Guidelines
 
-CWD.Full=Contigent Workers Database
+CWD.Full=Contingent Workers Database
 
 email.CWD.com=admin@contingentworkers.com
 
 CWD.Addr.1,2=111 Main Street, Indianapolis, Indiana 46077
+
+P1.FinanceWing.Handle=Acme Financial
+
+P1.EmploymentDataPolicyURL=acme.com/employeedatastandards.html
 
 Compensation.Intro.NB={_delete!_}
 
@@ -44,8 +51,6 @@ Dispute.Forum._cl=the state courts sitting in the County of Suffolk and the fede
 
 Dispute.Law.State.of=the Commonwealth of Massachusetts
 
-Fin.=[core/form/agt/master/config/Finance_Type1]
-
 P1.xSignature=x Andrea Ang
 
 P2.xSignature=x C Kendall
@@ -53,4 +58,4 @@ P2.xSignature=x C Kendall
 Sign.YMD=September 2, 2014
 				
 
-				
+				      

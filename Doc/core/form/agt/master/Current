@@ -51,7 +51,7 @@ Miscellaneous.=[core/form/agt/master/sec/Miscellaneous_Library]
 
 =[core/form/agt/master/sec/Definition_Library]
 
-Exh.B.=[core/form/agt/master/attach/B_NDA]
+Attach.B.=[core/form/agt/master/attach/B_NDA]
 
 Model.Root={AGT.DocBody}
 
@@ -72,6 +72,6 @@ AGT.Sign={Sign.Witness}<br>{Sign.Block}
 
 Signature.Witness=In Witness Whereof, the parties hereto have caused this Agreement to be executed by their respective authorized representatives as of the date first written above.
 
-AGT.Attach=<hr><hr><center><b>Exhibit {AGT.Exh.A}</b></center><hr><hr><center><b>Exhibit {AGT.Exh.B}</b></center>{Exh.B.DocBody}<hr><hr><center><b>Exhibit {AGT.Exh.C}</b></center><hr><hr><center><b>Exhibit {AGT.Exh.D}</b></center>
+AGT.Attach=<hr><hr><center><b>Exhibit {AGT.Exh.A}</b></center><hr><hr><center><b>Exhibit {AGT.Exh.B}</b></center>{Attach.B.DocBody}<hr><hr><center><b>Exhibit {AGT.Exh.C}</b></center><hr><hr><center><b>Exhibit {AGT.Exh.D}</b></center>
 
-		                      
+		                        

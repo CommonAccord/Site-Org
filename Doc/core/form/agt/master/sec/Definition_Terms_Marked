@@ -6,6 +6,8 @@ Model.Root={Affiliate}
 
 Affiliate={m-}Affiliate{-m}
 
+Affiliates={m-}Affiliates{-m}
+
 Change Order={m-}Change Order{-m}
 
 Company={m-}Company{-m}
@@ -13,6 +15,8 @@ Company={m-}Company{-m}
 Company Affiliate={m-}Company Affiliate{-m}
 
 Company or its Affiliates={m-}Company or its Affiliates{-m}
+
+Company or one of its Affiliates={m-}Company or one of its Affiliates{-m}
 
 Company and its Affiliates={m-}Company and its Affiliates{-m}
 
@@ -79,5 +83,6 @@ Term={m-}Term{-m}
 Third Party Intellectual Property={m-}Third Party Intellectual Property{-m}
 
 Doc Organization:=
+
 Schedule A=Schedule A
-	        
+	            
