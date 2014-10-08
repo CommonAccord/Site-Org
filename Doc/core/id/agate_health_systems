@@ -2,7 +2,7 @@
 
 =[core/at/USA/CA/San_Mateo/Menlo_Park/Geo]
 
-Name.Full=<font color="blue">Applied Computer Company</font>
+Name.Full=<font color="blue">Agate Health Systems, Incorporated</font>
 
 Entity.a=a Delaware corporation
 
@@ -13,18 +13,16 @@ Addr.1=100 Gravel Dell
 Addr.Zip=94025
 
 Phone=650.666.5555
-Domain.Com=appliedapp.com
+Domain.Com=agateapp.com
 Privacy.Email=privacy@{Domain.Com}
 State={Addr.State}
 
-Handle=Applied
+Handle=Agate
 
 App=HealthApp
 
 Network=HealNet
 
 System=HealOS
-
-Domain.Com=appliedcomputer.com
   
     

@@ -1,4 +1,4 @@
-=[me/medical_wallet/steps/04-Applied_NYP_Proposes_Consent_Directive]
+=[me/medical_wallet/steps/03-Alice_NYP_Proposes_Consent_Directive]
 
 P2.xSignature=xALICE
 
@@ -8,4 +8,4 @@ P2.Witness.=[core/id/andrea_ang]
 P2.Witness.xSignature=xANDREA ANG
 CD.P2.Representative=N/A
 
-              
+                

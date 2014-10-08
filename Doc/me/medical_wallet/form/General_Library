@@ -11,7 +11,7 @@ Preview_and_set_default_Policies={Heading}Preview_and_set_default_Policies {Sign
 
 Register_with_UMA_AS={Heading} Register_with_UMA_AS {Sign.Block}
 
-Registers_and_points_to_her_AS={Heading} Registers_and_points_to_her_AS {Sign.Block} 
+Registers_and_points_to_her_AS={Heading} Registers_and_points_to {P3.N,E,A}  {Sign.Block} 
 
 Proposes_Consent_Directive={Heading} Proposes_Consent_Directive {Sign.Block}
 
@@ -28,4 +28,4 @@ Authorization_Token={Heading} Authorization_Token {Sign.Block}
 
 Request_Information={Heading} Request_Information <br>About: {P3.N,E,A} {Sign.Block}
 
-Send_Information={Heading} Send_Information <br><br>RO: {Record1.RO.N,E,A}<br>Record: {Record1.Summary}{Sign.Block}        
+Send_Information={Heading} Send_Information <br><br>RO: {Record1.RO.N,E,A}<br>Record: {Record1.Summary}{Sign.Block}          

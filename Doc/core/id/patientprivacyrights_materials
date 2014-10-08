@@ -1,12 +1,12 @@
 Model.Root={app.tou.Model.Root}<hr>{app.privacypolicy.Model.Root}
 
-app.tou.We.=[core/id/applied_computer_company]
+app.tou.We.=[core/id/agate_health_systems]
 
 app.tou.=[core/form/agt/web/tou/form_1]
 
 P1.Name.Full={Me.Name.Full}
 
-app.privacypolicy.P2.=[core/id/applied_computer_company]
+app.privacypolicy.P2.=[core/id/agate_health_systems]
 
 app.privacypolicy.=[core/form/policy/health/privacy/NYP_Patient_Brochure]
 

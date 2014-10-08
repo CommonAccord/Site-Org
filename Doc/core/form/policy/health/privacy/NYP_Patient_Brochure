@@ -1,8 +1,12 @@
 P91.=[core/id/gov_hhs_ocr]
+
 booklet=booklet   
 
+Source=gov - hhs - ocr - right of access
+Source=http://www.hhs.gov/ocr/privacy/hipaa/understanding/consumers/righttoaccessmemo.pdf
+
 Title=YOUR RIGHTS
-0=When it comes to your health information, you have certain rights.  This booklet explains your rights and some of our responsibilities to help you.
+0=When it comes to your health information, you have certain rights.  This {booklet} explains your rights and some of our responsibilities to help you.
 
 1.Title=When it comes to your health information, you have certain rights.
 1.0=This section explains your rights and some of our responsibilities to help you.
@@ -24,7 +28,7 @@ Title=YOUR RIGHTS
 
 1.4.Title=Ask us to limit what we use or share
 1.4.1=You can ask us not to use or share certain health information for treatment, payment, or our operations. We are not required to agree to your request, and we may say “no” if it would affect your care.
-Ã¢â‚¬Â¢
+
 1.4.2=If you pay for a service or health care item out-of-pocket in full, you can ask us not to share that Information for the purpose of payment or our operations with your health insurer. We will say “yes” unless a law requires us to share that information
 
 
@@ -233,4 +237,4 @@ st-=<b>
 10={st-}{10.Title}{-stul-}{10.1}{-li-}{10.2}{-li-}{10.3}{-li-}{10.4}{-li-}{10.5}{-li-}{10.6}{-li-}{10.7}{-li-}{10.8}{-ul}
 
 -li=</li><li>
- 
+     
