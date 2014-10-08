@@ -25,7 +25,7 @@
    <h4 class="subtitle">Startup in a Box <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/me/startup/>an "object" for a startup company</a></h4>
 <h4 class="subtitle">Privacy <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/me/medical_wallet/steps/>medical patient's document wallet</a></h4>
 
-   <h4 class="subtitle">From Code the Deal Hackathon<a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/me/hackme/>Acme - Company in a Box</a></h4>
+   <h4 class="subtitle">From Code the Deal Hackathon <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/me/hackme/>Acme - Company in a Box</a></h4>
    
  
        <h4 class="subtitle">Learn <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/about/how/>how it works</a>.</h4>
