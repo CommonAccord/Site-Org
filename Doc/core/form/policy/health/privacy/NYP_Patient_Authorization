@@ -44,8 +44,9 @@ Info.Report=<b>Report Types</b>:  {Info.Report.List}
 
 Info.Report.List={Info.Report.List.Select}
 
-Info.Report.List.Select={Info.Report.List } Select : {Lab } Lab tests, {Radiology } Radiology Reports, {Operative } Operative Reports, {Discharge } Discharge Summary, etc.)
+Info.Report.List.Select={Info.Report.List } Select : {ListOfAvailableInfo } ListOfAvailableInfo, {Lab } Lab tests, {Radiology } Radiology Reports, {Operative } Operative Reports, {Discharge } Discharge Summary, etc.)
 
+ListOfAvailableInfo=The list of information that {P1.Handle} has that may be disclosed.
 Lab=Lab tests
 Radiology=Radiology Reports
 Operative=Operative Reports
@@ -162,4 +163,4 @@ td-=<td width="25%" valign="top">
 ol-=<ol><li>
 -li-=</li><li>
 -ol=</li></ol>
-                  
+                    

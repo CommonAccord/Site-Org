@@ -4,4 +4,4 @@ P2.=[me/medical_wallet/id/Agate]
 
 =[me/medical_wallet/form/General_Library]
 
-DocBody={Register_with_UMA_AS}
+DocBody={Register_with_UMA_AS} <hr>{PP.DocBody}   

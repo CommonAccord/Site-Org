@@ -1,5 +1,5 @@
 Model.Root={DocBody}
-
+PP.=[core/form/policy/health/privacy/NYP_Patient_Brochure]
 CD.=[core/form/policy/health/privacy/NYP_Patient_Authorization]
 CD.Transferor=<b>Person Who Will Disclose Information:</b><ol><li><b>Name:</b> {CD.P1.Name.Full}</li><li><b>Address:</b> {CD.P1.Addr.1,2}</li><li><b>Phone:</b> {CD.P1.Phone}</li></ol>
 
@@ -28,4 +28,4 @@ Authorization_Token={Heading} Authorization_Token {Sign.Block}
 
 Request_Information={Heading} Request_Information <br>About: {P3.N,E,A} {Sign.Block}
 
-Send_Information={Heading} Send_Information <br><br>RO: {Record1.RO.N,E,A}<br>Record: {Record1.Summary}{Sign.Block}          
+Send_Information={Heading} Send_Information <br><br>RO: {Record1.RO.N,E,A}<br>Record: {Record1.Summary}{Sign.Block}            
