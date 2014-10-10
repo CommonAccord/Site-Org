@@ -1,5 +1,6 @@
 Personal Data:
 		
+Example=[me/medical_wallet/steps/include.php]
 MasterServices.=[core/form/agt/master/sec/personaldata/PD_Sec]
 
 TermsOfUse.=[core/form/agt/web/tou/userContent/UC_Sec]
@@ -8,4 +9,4 @@ PrivacyPolicy.=[core/form/agt/web/privacy/form_1]
 
 Model.Root=<ol><li>{MasterServices._Sec}</li><li>{TermsOfUse._Sec}</li><li>{PrivacyPolicy.Model.Root}</li></ol>
 
-			
+			  

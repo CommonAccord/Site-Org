@@ -1,7 +1,16 @@
-P1.=[me/medical_wallet/id/Alice]
+P1.xSignature=xANDREA ANG
 
-P2.=[me/medical_wallet/id/Agate]
+P1.Sign.YMD=August 3, 2014
+
+P2.xSignature=xALICE
+
+P2.Sign.YMD=August 4, 2014
+
+P1.=[me/medical_wallet/id/Agate]
+
+P2.=[me/medical_wallet/id/Alice]
 
 =[me/medical_wallet/form/General_Library]
 
-DocBody={Register_with_UMA_AS} <hr>{PP.DocBody}   
+DocBody={Register_with_UMA_AS} 
+           

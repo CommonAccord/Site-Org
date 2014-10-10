@@ -9,9 +9,9 @@ Sign.Block=<br><br><table><tr><td valign="top">{P1.Sign.Block}</td><td valign="t
 
 Preview_and_set_default_Policies={Heading}Preview_and_set_default_Policies {Sign.Block}
 
-Register_with_UMA_AS={Heading} Register_with_UMA_AS {Sign.Block}
+Register_with_UMA_AS={Heading} We at {P1.Name.Full} thank you for registering with us as your authorization agent.  <br><br><table><tr><td valign="top">{P1.Sign.Block}</td><td valign="top">ACKNOWLEDGED AND AGREED:<br>{P2.Sign.Block}</tr></td></table><hr>{PP.DocBody} 
 
-Registers_and_points_to_her_AS={Heading} Registers_and_points_to {P3.N,E,A}  {Sign.Block} 
+Registers_and_points_to_her_AS={Heading} We at {P1.Name.Full} thank you for registering with us as your health care provider and specifying {P3.Name.Full} as your authorization agent.<br><br><table><tr><td valign="top">{P1.Sign.Block}</td><td valign="top">ACKNOWLEDGED AND AGREED:<br>{P2.Sign.Block}</tr></td></table><hr>{PP.DocBody} 
 
 Proposes_Consent_Directive={Heading} Proposes_Consent_Directive {Sign.Block}
 
@@ -28,4 +28,4 @@ Authorization_Token={Heading} Authorization_Token {Sign.Block}
 
 Request_Information={Heading} Request_Information <br>About: {P3.N,E,A} {Sign.Block}
 
-Send_Information={Heading} Send_Information <br><br>RO: {Record1.RO.N,E,A}<br>Record: {Record1.Summary}{Sign.Block}            
+Send_Information={Heading} Send_Information <br><br>RO: {Record1.RO.N,E,A}<br>Record: {Record1.Summary}{Sign.Block}                      

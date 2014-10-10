@@ -1,6 +1,6 @@
-P1.=[me/medical_wallet/id/Alice]
+P1.=[me/medical_wallet/id/NYP]
 
-P2.=[me/medical_wallet/id/NYP]
+P2.=[me/medical_wallet/id/Alice]
 
 P3.=[me/medical_wallet/id/Agate]
 
@@ -8,4 +8,4 @@ P3.=[me/medical_wallet/id/Agate]
 
 DocBody={Registers_and_points_to_her_AS}
 
-  
+    
