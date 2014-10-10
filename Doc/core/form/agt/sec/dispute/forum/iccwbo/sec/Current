@@ -1,5 +1,7 @@
 Note=This is a place to try out multilingual naming etc.  Obviously, language is a divider as well as uniter. In most commercial documents there will be demand for international equivalents, for comprehension and so that our international dealings dovetail with our local ones.
 
+Note=This also speaks to the issue of linguistic equivalence.  While no translation can be exact (in part because text is never exact), the ICC will give the same meaning to these different formulations.  Which is the way it should be. 
+
 Note=This presents the same texts in three formats -- tabular side-by-side, columns, and sequential (a list).  
 
 Note=For examples of how to automate choice in docs:
@@ -76,4 +78,4 @@ DE.ARB.2={DE.ARB.1}  Die Bestimmungen zum Eilschiedsrichterverfahren finden kein
 DE.ADR.1=Die Parteien vereinbaren, im Falle aller Streitigkeiten, die sich aus oder in Zusammenhang mit dem vorliegenden Vertrag ergeben, ein Streitbeilegungsverfahren nach den ICC-ADR-Regeln durchzuführen. Wird die Streitigkeiten nicht innerhalb einer Frist von {ADR.45} Tagen ab dem Tag des Einreichens des Antrags auf Durchführung eines ICC-ADR-Verfahrens oder innerhalb einer anderen, von den Parteien schriftlich vereinbarten Frist im Einklang mit den ICC-ADR-Regeln beigelegt, wird die Streitigkeit nach der Schiedsgerichtsordnung der Internationalen Handelskammer (ICC) von {DE.ARB.#} endgültig entschieden.
 
 DE.EXP.1=<b>Nicht zu finden zu ICCWBO !</b> 
-          
+              
