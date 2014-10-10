@@ -1,0 +1,10 @@
+Note=One arbitrator - quicker.  More arbitrary.  And reducing the time from 45 to 30. If you want more deliberation, try 3 arbitrators.  
+=[core/form/agt/sec/dispute/forum/iccwbo/sec/Current] 
+=[core/class/Doc_Table]
+mcolor=purple
+EN.ARB.#={m-}{EN.ARB.#.3}{-m}
+FR.ARB.#={m-}{FR.ARB.#.3}{-m}
+ES.ARB.#={m-}{ES.ARB.#.3}{-m}
+DE.ARB.#={m-}{DE.ARB.#.3}{-m}
+ADR.45={m-}30{-m}
+                    
