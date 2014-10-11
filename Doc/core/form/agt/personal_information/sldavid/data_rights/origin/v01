@@ -1,7 +1,11 @@
-Prologue.Heading=<p>STANDARD DATA RIGHTS DISTRIBUTED MANAGEMENT SERVICES AGREEMENT</p><p>BETWEEN</p><p>DATA RIGHTS OWNER</p><p>AND</p><p>{P1.Name.Full}</p>
+Heading=<p>STANDARD DATA RIGHTS DISTRIBUTED MANAGEMENT SERVICES AGREEMENT</p><p>BETWEEN</p><p>DATA RIGHTS OWNER</p><p>AND</p><p>{P1.Name.Full}</p>
 
+Model.Root=<center>{Heading}</center><br>{0}<ol><li>{1}</li><li>{2}</li><li>{3}</li><li>{4}</li><li>{5}</li><li>{6}</li><li>{7}</li><li>{8}</li><li>{9}</li><li>{10}</li><li>{11}</li><li>{12}</li><li>{13}</li><li>{14}</li><li>{15}</li><li>{16}</li><li>{17}</li><li>{18}</li><li>{19}</li><li>{20}</li><li>{21}</li><li>{22}</li><li>{23}</li><li>{24}</li></ol>
+AGT._Secs=
 
-0.0=<p>This Standard Data Rights Distributed Management Services Agreement (&quot;Agreement&quot;) is effective as to any [Party] on the date of [Acceptance]of the [Online Registration] of any such Party (the &ldquo;Effective Date&rdquo;)(such party a &ldquo;Registered Party&rdquo;).</p>
+0={0.0}<br>{0.1}<br>{0.2}<br>{0.3}<br>{0.4}<br>{0.5}<br>{0.6}
+
+0.0=This Standard Data Rights Distributed Management Services Agreement (&quot;Agreement&quot;) is effective as to any [Party] on the date of [Acceptance]of the [Online Registration] of any such Party (the &ldquo;Effective Date&rdquo;)(such party a &ldquo;Registered Party&rdquo;).
 
 <a href="#_edn1" name="_ednref" title="">[i]</a>
 <a href="#_edn2" name="_ednref" title="">[ii]</a> 
@@ -9,120 +13,158 @@ Prologue.Heading=<p>STANDARD DATA RIGHTS DISTRIBUTED MANAGEMENT SERVICES AGREEME
 <a href="#_edn4" name="_ednref" title="">[iv]</a> 
 <a href="#_edn5" name="_ednref" title="">[v]</a>
 
-0.1=<p><u>Registered Party Rights and Obligations:</u> From and after the Effective Date, and until the [Termination Date], any Registered Party in [Good Standing] under this Agreement shall enjoy the rights of a &ldquo;Data Rights Owner,&rdquo; and be subject to the obligations and affirmative duties of a &ldquo;Data User&rdquo; as the context requires, all as provided herein.&nbsp;</p>
 
-<p>[DRAFTING NOTE:&nbsp; Consider moving following narrative paragraphs out of the body of the Agreement to the endnotes, or editing the narrative for use with individual-facing version of Agreement and educational materials].&nbsp;</p>
+0.1=<u>{0.1.Title}</u><br>{0.1.1}<br>{0.1.2}
+0.1.Title=Registered Party Rights and Obligations:
 
-0.1.1=<p>Hence, each Registered Party hereunder will have the status of a &ldquo;Data Rights Owner&rdquo; and &ldquo;Data User&rdquo; under this Agreement, but its rights and duties recognized under this Agreement will vary, as required, from those associated with one or the other status depending upon their roles in a particular [Data Action Event.].&nbsp;References to &ldquo;Data Rights Owner&rdquo; and &ldquo;Data User&rdquo; hereunder are intended to convey such status differences as the context requires, and both terms are used alternately with references to &ldquo;Registered Party&rdquo; as the context requires.</p>
+0.1.1=From and after the Effective Date, and until the [Termination Date], any Registered Party in [Good Standing] under this Agreement shall enjoy the rights of a &ldquo;Data Rights Owner,&rdquo; and be subject to the obligations and affirmative duties of a &ldquo;Data User&rdquo; as the context requires, all as provided herein.&nbsp;
+
+<p>[DRAFTING NOTE:&nbsp; Consider moving following narrative paragraphs out of the body of the Agreement to the endnotes, or editing the narrative for use with individual-facing version of Agreement and educational materials].&nbsp;
+
+0.1.2=Hence, each Registered Party hereunder will have the status of a &ldquo;Data Rights Owner&rdquo; and &ldquo;Data User&rdquo; under this Agreement, but its rights and duties recognized under this Agreement will vary, as required, from those associated with one or the other status depending upon their roles in a particular [Data Action Event.].&nbsp;References to &ldquo;Data Rights Owner&rdquo; and &ldquo;Data User&rdquo; hereunder are intended to convey such status differences as the context requires, and both terms are used alternately with references to &ldquo;Registered Party&rdquo; as the context requires.
 
 <a href="#_edn6" name="_ednref" title="">[vi]</a> 
-0.2=<p><u>Registered Party in Its Role as Data Rights Owner Enjoys Distributed Data Rights Management Services:</u> &nbsp;The satisfactory performance by Registered Parties of their various duties under this Agreement in their capacity as Data Users, and their accountability therefor through mechanisms of enforcement under this Agreement (or cross referenced in the schedules hereof), [makes real][gives effect to] the rights of Data Rights Owners under this Agreement, and carries into effect the system of distributed Data Rights Management &ldquo;Services&rdquo; (including the sub-categories of Services set forth in Section 3 hereof).&nbsp;</p>
-<a href="#_edn7" name="_ednref" title="">[vii]</a>
-0.2.1=<p>These Services are, in turn, enjoyed by Registered Parties in their respective capacities as Data Rights Owners in consideration of their provisional and conditional granting of various specific data rights under this Agreement to other Registered Parties acting as Data Users hereunder in order to secure such satisfactory performance.&nbsp;</p>
 
-0.2.2=<p>The rights and duties hereunder are mutually dependent and are enforceable pursuant to this standard form contract, and each Registered Party is therefore [expected][understood] to assume alternating roles under this Agreement. &nbsp;This Agreement documents an integrated and distributed network of dependencies in which it is in every Registered Party&rsquo;s self interest to perform the duties under the Agreement (in its capacity as both a Data User, and also those duties assigned to Registered Parties as Data Rights Owners) as an integrated legal structure designed to help auto-catalyze otherwise-unattainable security and leverage benefits for Registered Parties acting both as Data Rights Owners and as Data Users under this Agreement.&nbsp;</p>
+0.2=<u>{0.2.Title}</u><br>{0.2.1}<br>{0.2.2}<br>{0.2.3}
+
+0.2.Title=Registered Party in Its Role as Data Rights Owner Enjoys Distributed Data Rights Management Services:
+0.2.1=The satisfactory performance by Registered Parties of their various duties under this Agreement in their capacity as Data Users, and their accountability therefor through mechanisms of enforcement under this Agreement (or cross referenced in the schedules hereof), [makes real][gives effect to] the rights of Data Rights Owners under this Agreement, and carries into effect the system of distributed Data Rights Management &ldquo;Services&rdquo; (including the sub-categories of Services set forth in Section 3 hereof).
+<a href="#_edn7" name="_ednref" title="">[vii]</a>
+0.2.2=These Services are, in turn, enjoyed by Registered Parties in their respective capacities as Data Rights Owners in consideration of their provisional and conditional granting of various specific data rights under this Agreement to other Registered Parties acting as Data Users hereunder in order to secure such satisfactory performance.&nbsp;
+
+0.2.3=The rights and duties hereunder are mutually dependent and are enforceable pursuant to this standard form contract, and each Registered Party is therefore [expected][understood] to assume alternating roles under this Agreement. &nbsp;This Agreement documents an integrated and distributed network of dependencies in which it is in every Registered Party&rsquo;s self interest to perform the duties under the Agreement (in its capacity as both a Data User, and also those duties assigned to Registered Parties as Data Rights Owners) as an integrated legal structure designed to help auto-catalyze otherwise-unattainable security and leverage benefits for Registered Parties acting both as Data Rights Owners and as Data Users under this Agreement.&nbsp;
 <a href="#_edn8" name="_ednref" title="">[viii]</a>
 <a href="#_edn9" name="_ednref" title="">[ix]</a>
 
-0.3=<p><u>Registered Party in the Role of Data User Enjoys Data Access, Cost Reduction and Risk/Liability Mitigation:</u>&nbsp; Not only does the satisfactory performance by a Registered Party of its various duties under this Agreement in its role as Data User qualify such Registered User for the protection of their rights as a Data Rights Owner hereunder; it also qualifies such Data User for the rights and benefits provided to Data Users under this Agreement.&nbsp;</p>
+0.3=<u>{0.3.Title}</u><br>{0.3.1}<br>{0.3.2}
 
-0.3.1=<p>Data User rights include, without limitation, (i) enhanced, co-managed access to higher quality Circulating Data and Vault Data under the terms hereof, (ii) various contractual &ldquo;safe harbors&rdquo; described herein, (iii) the benefits of conditional covenants by Registered Parties not to sue other Registered Parties in their respective capacities as Data Users with respect to objectively-testable, Agreement-conformant behavior, and (iv) other standards that can help to reduce the risk and cost to Data Users of interacting with data, and enhance access to valuable Circulating and Vault Data for Registered Parties as Data Users (consistent with and in furtherance of Data Rights Owners enforceable interests), all as provided further in this Agreement.</p>
+0.3.Title=Registered Party in the Role of Data User Enjoys Data Access, Cost Reduction and Risk/Liability Mitigation:
+
+0.3.1=Not only does the satisfactory performance by a Registered Party of its various duties under this Agreement in its role as Data User qualify such Registered User for the protection of their rights as a Data Rights Owner hereunder; it also qualifies such Data User for the rights and benefits provided to Data Users under this Agreement.
+
+0.3.2=Data User rights include, without limitation, (i) enhanced, co-managed access to higher quality Circulating Data and Vault Data under the terms hereof, (ii) various contractual &ldquo;safe harbors&rdquo; described herein, (iii) the benefits of conditional covenants by Registered Parties not to sue other Registered Parties in their respective capacities as Data Users with respect to objectively-testable, Agreement-conformant behavior, and (iv) other standards that can help to reduce the risk and cost to Data Users of interacting with data, and enhance access to valuable Circulating and Vault Data for Registered Parties as Data Users (consistent with and in furtherance of Data Rights Owners enforceable interests), all as provided further in this Agreement.
 
 <a href="#_edn10" name="_ednref" title="">[x]</a>
+0.4=<u>{0.4.Title}</u><br>{0.4.1}<br>{0.4.2}<br>{0.4.3}
 
-0.4=<p><u>Registered Parties are All Mutually Bound:</u>&nbsp; Upon Registration Acceptance (which follows the act of Registration for Registered Party [Applications] that meet [Acceptance Criteria], which includes an affirmative agreement to the terms of this Agreement) each Registered Party is bound to all other Registered Parties to this Agreement, and hence into direct contractual &ldquo;privity&rdquo; with every other Registered Party.&nbsp; There are no third party beneficiary rights under the Agreement, which means that only Registered Parties can enjoy the contract rights under this Agreement, and only Registered Parties are bound to its terms.&nbsp;</p>
+0.4=<u>Registered Parties are All Mutually Bound:</u>&nbsp; Upon Registration Acceptance (which follows the act of Registration for Registered Party [Applications] that meet [Acceptance Criteria], which includes an affirmative agreement to the terms of this Agreement) each Registered Party is bound to all other Registered Parties to this Agreement, and hence into direct contractual &ldquo;privity&rdquo; with every other Registered Party.&nbsp; There are no third party beneficiary rights under the Agreement, which means that only Registered Parties can enjoy the contract rights under this Agreement, and only Registered Parties are bound to its terms.&nbsp;
 
 <a href="#_edn11" name="_ednref" title="">[xi]</a>
 
-0.4.1=<p>To enjoy such rights, a party must agree to be bound to the duties of a Data User [and also the duties of a Data Rights Owner] hereunder, knowing that any and all Registered Parties in the entire population of Registered Parties can enforce this Agreement against any other Registered Party, including them, under the terms of this Agreement and as otherwise provided by applicable law.</p>
+0.4.1=To enjoy such rights, a party must agree to be bound to the duties of a Data User [and also the duties of a Data Rights Owner] hereunder, knowing that any and all Registered Parties in the entire population of Registered Parties can enforce this Agreement against any other Registered Party, including them, under the terms of this Agreement and as otherwise provided by applicable law.
 <a href="#_edn12" name="_ednref" title="">[xii]</a>
 
-0.4.2=<p>Thus, when a party becomes a Registered Party, it owes duties under this Agreement to take actions relating to Vault Data and Circulating Data pursuant to described duties-of-care which conform to the obligations and responsibilities of a &ldquo;Data User&rdquo; hereunder, and they simultaneously become a beneficiary of the conformant performance by other Registered Parties to those standards-of-care.&nbsp; The conformant performance of such duties gives life to the legal rights of Data Rights Owner hereunder.&nbsp;&nbsp; [The use of a standard form agreement (such as this Agreement) across the entire population of Registered Parties assures that the rights and duties will extend to both bind and benefit all other Registered Parties, even those that a particular Registered Party will never meet in person.</p>
+0.4.2=Thus, when a party becomes a Registered Party, it owes duties under this Agreement to take actions relating to Vault Data and Circulating Data pursuant to described duties-of-care which conform to the obligations and responsibilities of a &ldquo;Data User&rdquo; hereunder, and they simultaneously become a beneficiary of the conformant performance by other Registered Parties to those standards-of-care.&nbsp; The conformant performance of such duties gives life to the legal rights of Data Rights Owner hereunder.&nbsp;&nbsp; [The use of a standard form agreement (such as this Agreement) across the entire population of Registered Parties assures that the rights and duties will extend to both bind and benefit all other Registered Parties, even those that a particular Registered Party will never meet in person.
 
 <a href="#_edn13" name="_ednref" title="">[xiii]</a>
 
-0.4.3=<p>In the distributed legal architecture of this Agreement, the standardized, auditable, accountable, enforceable rights and duties connect each Registered Party to every other Registered Party, and create behavioral reliability that is the precursor to formalized, scalable &ldquo;trust&rdquo; among all Registered Parties and every other Registered Party.&nbsp; The system&rsquo;s reliability is built upon the distributed sources of a form of &ldquo;neighborhood watch&rdquo; constructed from the natural attentiveness of the stakeholders (borne of self-interest) regarding their respective rights under this Agreement (whether such rights are characterized as related to fundamental, civil, contractual, statutory, regulatory, or other rights in a given jurisdiction) and their ability to exercise private rights of action under this Agreement to enforce those rights.&nbsp;</p>
+0.4.3=In the distributed legal architecture of this Agreement, the standardized, auditable, accountable, enforceable rights and duties connect each Registered Party to every other Registered Party, and create behavioral reliability that is the precursor to formalized, scalable &ldquo;trust&rdquo; among all Registered Parties and every other Registered Party.&nbsp; The system&rsquo;s reliability is built upon the distributed sources of a form of &ldquo;neighborhood watch&rdquo; constructed from the natural attentiveness of the stakeholders (borne of self-interest) regarding their respective rights under this Agreement (whether such rights are characterized as related to fundamental, civil, contractual, statutory, regulatory, or other rights in a given jurisdiction) and their ability to exercise private rights of action under this Agreement to enforce those rights.&nbsp;
 
 <a href="#_edn14" name="_ednref" title="">[xiv]</a>
 <a href="#_edn15" name="_ednref" title="">[xv]</a>
 <a href="#_edn16" name="_ednref" title="">[xvi]</a>
 
-0.5=<p><u>Supplemental Rights Permitted:</u> The various rights that are fostered by this Agreement, and are manifested in the Services under section 3, are each intended to deliver real benefit to realize the Data Rights Owners&rsquo; interests in the two general categories of &ldquo;data security/privacy&rdquo; and &ldquo;data leverage.&rdquo; &nbsp;The performance of the bundle of Data User duties by Registered Parties under this Agreement in their respective capacities as Data Users is enjoyed by Data Rights Owners as distributed Data Rights Management Services.</p>
+0.5=<u>{0.5.Title}</u><br>{0.5.1}<br>{0.5.2}
+
+0.5.Title=Supplemental Rights Permitted:
+
+0.5.1=The various rights that are fostered by this Agreement, and are manifested in the Services under section 3, are each intended to deliver real benefit to realize the Data Rights Owners&rsquo; interests in the two general categories of &ldquo;data security/privacy&rdquo; and &ldquo;data leverage.&rdquo; &nbsp;The performance of the bundle of Data User duties by Registered Parties under this Agreement in their respective capacities as Data Users is enjoyed by Data Rights Owners as distributed Data Rights Management Services.
 
 <a href="#_edn17" name="_ednref" title="">[xvii]</a>
 <a href="#_edn18" name="_ednref" title="">[xviii]</a>
 <a href="#_edn19" name="_ednref" title="">[xix]</a>
-0.5.1=<p>All Registered Parties will be equally bound to the obligations and duties set forth in this Agreement, provided that any sub-group of Registered Owners may agree to additional rights and duties that apply only to such sub-group, so long as they are not inconsistent with [(and promote)] those provided under this Agreement.</p>
+0.5.2=All Registered Parties will be equally bound to the obligations and duties set forth in this Agreement, provided that any sub-group of Registered Owners may agree to additional rights and duties that apply only to such sub-group, so long as they are not inconsistent with [(and promote)] those provided under this Agreement.
 
 <a href="#_edn20" name="_ednref" title="">[xx]</a>
 
-0.5.2=<p>Thus, for example, commercial, governmental or civil society entities that institutionalize the provision of some or all of such &ldquo;Supplemental Services&rdquo; hereunder in their role as [Data User Intermediaries], may offer various additional incentives, such as monetary payments and service enhancements, to attract Registered Parties to a particular set of Supplemental Services.&nbsp; In such a case, both Registered Parties will be aware that such Supplemental Services are required to be provided in a manner that is consistent with the Services hereunder, which Services are more broadly recognized beyond any such sub-group of Registered Parties to which such Supplemental Services apply, and which Services reflect the population-cohering behavioral artifact of a basic distributed legal infrastructure, documented in this Agreement, to support the distributed data architecture of the Internet.</p>
+0.5.2=Thus, for example, commercial, governmental or civil society entities that institutionalize the provision of some or all of such &ldquo;Supplemental Services&rdquo; hereunder in their role as [Data User Intermediaries], may offer various additional incentives, such as monetary payments and service enhancements, to attract Registered Parties to a particular set of Supplemental Services.&nbsp; In such a case, both Registered Parties will be aware that such Supplemental Services are required to be provided in a manner that is consistent with the Services hereunder, which Services are more broadly recognized beyond any such sub-group of Registered Parties to which such Supplemental Services apply, and which Services reflect the population-cohering behavioral artifact of a basic distributed legal infrastructure, documented in this Agreement, to support the distributed data architecture of the Internet.
 
-<p>[DRAFTING NOTE:&nbsp; End of narrative paragraphs to consider moving to notes]</p>
+<p>[DRAFTING NOTE:&nbsp; End of narrative paragraphs to consider moving to notes]
 
-0.6=<p>For and in consideration of the mutual promises and covenants contained herein, the receipt, sufficiency, and adequacy of which are hereby acknowledged, the Registered Parties, intending to be legally bound, hereby contract and agree as follows:</p>
+
+0.6=For and in consideration of the mutual promises and covenants contained herein, the receipt, sufficiency, and adequacy of which are hereby acknowledged, the Registered Parties, intending to be legally bound, hereby contract and agree as follows:
 
 <a href="#_edn21" name="_ednref" title="">[xxi]</a>
 
-1.Title=<p>Background and Purpose; Agreement Standardizes a Set of Data Usage Duties and Supplements Other Agreements.</p>
+1=<u>{1.Title}</u><br>{1.1}<br>{1.2}<br>{1.3}<br>{1.4}<br>{1.5}
+
+
+1.Title=Background and Purpose; Agreement Standardizes a Set of Data Usage Duties and Supplements Other Agreements
 
 <a href="#_edn22" name="_ednref" title="">[xxii]</a>
-<p>[DRAFTING NOTE:&nbsp; Consider moving the following narrative paragraphs to the notes.]</p>
+<p>[DRAFTING NOTE:&nbsp; Consider moving the following narrative paragraphs to the notes.]
 
-1.1=<p>This Agreement documents a set of mutually-dependent agreements associated with data-related exchanges and interactions between and among multiple Registered Parties, including both individuals and institutions, each of which is called a &ldquo;Registered Party&rdquo; and each of which alternately acts as a &quot;Data Rights Owner&quot; and [&quot;Data User&quot;][&ldquo;Data Handler&rdquo;] (both as defined below), sometimes in both roles even within a related series of interactions..</p>
+1.1=This Agreement documents a set of mutually-dependent agreements associated with data-related exchanges and interactions between and among multiple Registered Parties, including both individuals and institutions, each of which is called a &ldquo;Registered Party&rdquo; and each of which alternately acts as a &quot;Data Rights Owner&quot; and [&quot;Data User&quot;][&ldquo;Data Handler&rdquo;] (both as defined below), sometimes in both roles even within a related series of interactions..
 <a href="#_edn23" name="_ednref" title="">[xxiii]</a>
 <a href="#_edn24" name="_ednref" title="">[xxiv]</a>
 
-1.2=<p>The &ldquo;dual role&rdquo; of every Registered Party provides the incentive, balanced with obligation, that is a stabilizing influence in this data infrastructure for other economic/legal/social architectures upon which co-managed data rights management depends.&nbsp; Under this Agreement structure, to reduce one&rsquo;s own risk, a Registered Party must act in a way to help other Registered Parties to reduce their respective risks.&nbsp; The opportunity of a Party to enjoy the rights provided under this Agreement is conditioned upon their performance of duties under this Agreement.&nbsp; The interdependence of these contractual rights and duties in this document is intended to reflect and make reliable and enforceable their functional mutual interdependence so that data system reliability can be established as a foundation for online &ldquo;trust.&rdquo;</p>
+1.2=The &ldquo;dual role&rdquo; of every Registered Party provides the incentive, balanced with obligation, that is a stabilizing influence in this data infrastructure for other economic/legal/social architectures upon which co-managed data rights management depends.&nbsp; Under this Agreement structure, to reduce one&rsquo;s own risk, a Registered Party must act in a way to help other Registered Parties to reduce their respective risks.&nbsp; The opportunity of a Party to enjoy the rights provided under this Agreement is conditioned upon their performance of duties under this Agreement.&nbsp; The interdependence of these contractual rights and duties in this document is intended to reflect and make reliable and enforceable their functional mutual interdependence so that data system reliability can be established as a foundation for online &ldquo;trust.&rdquo;
 
 <a href="#_edn25" name="_ednref" title="">[xxv]</a>
 <a href="#_edn26" name="_ednref" title="">[xxvi]</a>
 
-1.3=<p>The Agreement structure seeks to create and deploy a distributed legal architecture to serve the needs of stakeholders engaging in data exchanges across data networks that depend upon a distributed data architecture, such as the Internet.&nbsp; Accordingly, under this Agreement, each Registered Party in its role as Data User shall, in consideration for enjoying its rights as Data User as set forth herein, abide by certain conditions and requirements associated with its access to such data (&ldquo;Data User Duties&rdquo;).&nbsp;</p>
+1.3=The Agreement structure seeks to create and deploy a distributed legal architecture to serve the needs of stakeholders engaging in data exchanges across data networks that depend upon a distributed data architecture, such as the Internet.&nbsp; Accordingly, under this Agreement, each Registered Party in its role as Data User shall, in consideration for enjoying its rights as Data User as set forth herein, abide by certain conditions and requirements associated with its access to such data (&ldquo;Data User Duties&rdquo;).
 
-1.4=<p>Every Registered Party&rsquo;s&rsquo; fulfillment of its promise to perform the duties assigned to it under this Agreement constitutes the successful &ldquo;recruitment&rdquo; of Registered Parties as Data Users to help achieve Registered Party&rsquo;s goals to enjoy rights (such as &ldquo;privacy&rdquo; and other data integrity rights) as Data Rights Owners.&nbsp; The performance of these standard duties by populations of Registered Parties/Data Users achieves risk and cost reduction at large scale for all Registered Parties, in ways that they cannot achieve unilaterally (and cannot even achieve among existing online data/identity standards consortia), and more effectively provides Data Rights Owner and Data Rights Owner&#39;s Affiliates (if that option is selected by Data Rights Owner) with functional, enforceable, accountable, &ldquo;crowd sourced,&rdquo; data rights management services (and related identity information-technology services) received from any party that comes into possession of Vault Data and Circulating Data in which Data Rights Owner has an interest, all on the terms and conditions set forth below.</p>
+1.4=Every Registered Party&rsquo;s&rsquo; fulfillment of its promise to perform the duties assigned to it under this Agreement constitutes the successful &ldquo;recruitment&rdquo; of Registered Parties as Data Users to help achieve Registered Party&rsquo;s goals to enjoy rights (such as &ldquo;privacy&rdquo; and other data integrity rights) as Data Rights Owners.&nbsp; The performance of these standard duties by populations of Registered Parties/Data Users achieves risk and cost reduction at large scale for all Registered Parties, in ways that they cannot achieve unilaterally (and cannot even achieve among existing online data/identity standards consortia), and more effectively provides Data Rights Owner and Data Rights Owner&#39;s Affiliates (if that option is selected by Data Rights Owner) with functional, enforceable, accountable, &ldquo;crowd sourced,&rdquo; data rights management services (and related identity information-technology services) received from any party that comes into possession of Vault Data and Circulating Data in which Data Rights Owner has an interest, all on the terms and conditions set forth below.
+
 
 <a href="#_edn27" name="_ednref" title="">[xxvii]</a>
 <a href="#_edn28" name="_ednref" title="">[xxviii]</a>
 
-1.5=<p>To the extent that either the Data Rights Owner or Data User are, at any time while they are a party to this Agreement, parties to a separate legal agreement (or other legal obligation) through which Data User collects, stores, handles, uses, transfers, processes [other verbs here to cover standard set of &ldquo;Data Actions?&rdquo;] or otherwise has possession or access to data from, relating to or relatable to Data Rights Owner in accordance with that agreement and applicable local law or pursuant to which data about Data Rights Owner is shared with third-parties (whether such sharing is done on behalf of Data Rights Owner or Data User), as the case may be (each an &ldquo;Existing Agreement&rdquo;), the Registered Parties that are also the Parties thereto wish to continue to be bound by such Existing Agreements to define their legal relationships external to those set forth in this Agreement, and to supplement such Existing Agreements with the terms of this Agreement.&nbsp; The Parties mutually acknowledge and agree that the terms of this Agreement are supplemental to those of the Existing Agreement(s), and to the extent of any conflict between the terms of such agreements, the terms of this Agreement replace and supersede the terms and conditions of the Existing Agreements.</p>
+1.5=To the extent that either the Data Rights Owner or Data User are, at any time while they are a party to this Agreement, parties to a separate legal agreement (or other legal obligation) through which Data User collects, stores, handles, uses, transfers, processes [other verbs here to cover standard set of &ldquo;Data Actions?&rdquo;] or otherwise has possession or access to data from, relating to or relatable to Data Rights Owner in accordance with that agreement and applicable local law or pursuant to which data about Data Rights Owner is shared with third-parties (whether such sharing is done on behalf of Data Rights Owner or Data User), as the case may be (each an &ldquo;Existing Agreement&rdquo;), the Registered Parties that are also the Parties thereto wish to continue to be bound by such Existing Agreements to define their legal relationships external to those set forth in this Agreement, and to supplement such Existing Agreements with the terms of this Agreement.&nbsp; The Parties mutually acknowledge and agree that the terms of this Agreement are supplemental to those of the Existing Agreement(s), and to the extent of any conflict between the terms of such agreements, the terms of this Agreement replace and supersede the terms and conditions of the Existing Agreements.
 
 <a href="#_edn29" name="_ednref" title="">[xxix]</a>
 <a href="#_edn30" name="_ednref" title="">[xxx]</a>
 <a href="#_edn31" name="_ednref" title="">[xxxi]</a>
 
-2.Title=<p>DEFINITIONS</p>
 
-2.0=<p>The words and phrases set forth in Schedule 2 hereof, when used in this Agreement, shall have the indicated meanings.&nbsp; (Terms capitalized within a particular definition have been defined elsewhere within this Agreement.)</p>
+2=<u>{2.Title}</u><br>{2.0}
 
-<p>[REVIEW NOTE:&nbsp; Schedule 2 is under development.&nbsp; Various definitions are currently being drafted.&nbsp; Also, we are in the process of working with various folks at Massachusetts Institute of Technology and other institutions to harmonize the language of this legal agreement with terminology that is more familiar to technology-oriented system architects.&nbsp; The intention is to use these definitional toe-holds in the Agreement make the legal tools for dealing with system user reliability issues more accessible to technology folks, and vice versa.&nbsp; Until such later time as they are integrated into the Agreement, please ignore those definitions, and the accompanying footnotes, that are highlighted in green, since they are not yet integrated into the text.]</p>
+2.Title=DEFINITIONS
 
-3.Title=<p>SERVICES</p>
+2.0=The words and phrases set forth in Schedule 2 hereof, when used in this Agreement, shall have the indicated meanings.&nbsp; (Terms capitalized within a particular definition have been defined elsewhere within this Agreement.)
 
-3.0.1=<p>From and after the Effective Date, Registered Party shall perform the duties, and abide by the terms and conditions, applicable to Data Users hereunder (the performance of which is collectively referred to as the &ldquo;Services&rdquo; hereunder) to and for the benefit of all other Registered Parties in their capacities as Data Rights Owners, as the context requires.</p>
+[REVIEW NOTE:&nbsp; Schedule 2 is under development.&nbsp; Various definitions are currently being drafted.&nbsp; Also, we are in the process of working with various folks at Massachusetts Institute of Technology and other institutions to harmonize the language of this legal agreement with terminology that is more familiar to technology-oriented system architects.&nbsp; The intention is to use these definitional toe-holds in the Agreement make the legal tools for dealing with system user reliability issues more accessible to technology folks, and vice versa.&nbsp; Until such later time as they are integrated into the Agreement, please ignore those definitions, and the accompanying footnotes, that are highlighted in green, since they are not yet integrated into the text.]
+
+3=<u>{3.Title}</u><br>{3.0}<ol><li>{3.1}</li><li>{3.2}</li><li>{3.3}</li><li>{3.4}</li><li>{3.5}</li><li>{3.6}</li><li>{3.7}</li><li>{3.8}</li></ol>
+
+3.Title=SERVICES
+
+3.0={3.0.1}<br>{3.0.2}
+
+3.0.1=From and after the Effective Date, Registered Party shall perform the duties, and abide by the terms and conditions, applicable to Data Users hereunder (the performance of which is collectively referred to as the &ldquo;Services&rdquo; hereunder) to and for the benefit of all other Registered Parties in their capacities as Data Rights Owners, as the context requires.
+
 <a href="#_edn32" name="_ednref" title="">[xxxii]</a>
 <a href="#_edn33" name="_ednref" title="">[xxxiii]</a>
 
-3.0.2=<p>The Services include:</p>
+3.0.2={3.0.2.0}<ol><li>{3.0.2.1}</li><li>{3.0.2.2}</li><li>{3.0.2.3}</li><li>{3.0.2.4}</li><li>{3.0.2.5}</li><li>{3.0.2.6}</li></ol>
+
+3.0.2.0=The Services include:
+
 <a href="#_edn34" name="_ednref" title="">[xxxiv]</a>
 
-3.0.2.1=<p><u>Collection</u> - Data Acquisition and Collection Services (see Section 3.2 and Schedule 3.2),</p>
+3.0.2.1=<u>Collection</u> - Data Acquisition and Collection Services (see Section 3.2 and Schedule 3.2),
 
-3.0.2.2=<p><u>Holding</u> - Vault Data Warehousing and Data Integrity Services (see Section 3.3 and Schedule 3.3),</p>
+3.0.2.2=<u>Holding</u> - Vault Data Warehousing and Data Integrity Services (see Section 3.3 and Schedule 3.3),
 
-3.0.2.3=<p><u>Sharing</u> - Vault Data Sharing Services (including various identity management and attribute-related services, credentialing services, etc.) (see Section 3.4 and Schedule 3.4),</p>
+3.0.2.3=<u>Sharing</u> - Vault Data Sharing Services (including various identity management and attribute-related services, credentialing services, etc.) (see Section 3.4 and Schedule 3.4),
 
-3.0.2.4=<p><u>De-Identification and Leverage</u> - Circulating Data Leverage Services (see Section 3.5 and Schedule 3.5),</p>
+3.0.2.4=<u>De-Identification and Leverage</u> - Circulating Data Leverage Services (see Section 3.5 and Schedule 3.5),
 
-3.0.2.5=<p><u>Portability</u> - Data Portability Services (see Section 3.6 and Schedule 3.6), and</p>
+3.0.2.5=<u>Portability</u> - Data Portability Services (see Section 3.6 and Schedule 3.6), and
 
-3.0.2.6=<p><u>Data Recovery</u> - Vault Data Unauthorized Access Recovery Services (see Section 3.7 and Schedule 3.7).</p>
+3.0.2.6=<u>Data Recovery</u> - Vault Data Unauthorized Access Recovery Services (see Section 3.7 and Schedule 3.7).
+
+3.1=<u>{3.1.Title}</u><br>{3.1.0}
 
 3.1.Title=Provision of Services
 
 3.1.0=Commencing on the Effective Date, and at all times thereafter during the Term, except as otherwise expressly stated herein, Data User shall perform all of the Services described in this Section 3 in accordance with the requirements and in conformity with the standards set forth in the relevant subsections of this Section 3, and in the several service schedules of this Section 3.
 
 <a href="#_edn35" name="_ednref" title="">[xxxv]</a>
+
+
+3.2=<u>{3.2.Title}</u><br>{3.2.0}
 
 3.2.Title=Data Acquisition and Collection Services
 
@@ -132,59 +174,71 @@ Prologue.Heading=<p>STANDARD DATA RIGHTS DISTRIBUTED MANAGEMENT SERVICES AGREEME
 
 <a href="#_edn36" name="_ednref" title="">[xxxvi]</a>
 
+3.3=<u>{3.3.Title}</u><br>{3.3.0}
+
 3.3.Title=Vault Data Warehousing and Data Integrity Services
 
 3.3.0=During the Term, Data User shall provide Vault Data Warehousing and Data Integrity Services as described in Schedule 3.3 hereto. &nbsp;&nbsp;[Drafting Note:&nbsp; Consider inclusion of additional general terms applicable only to Services in this section]
 
 <a href="#_edn37" name="_ednref" title="">[xxxvii]</a>
+3.4=<u>{3.4.Title}</u><br>{3.4.0.1}<br>{3.4.0.2}
 
-3.4.Title=<u>Vault Data Sharing Services</u></p>
+3.4.Title=<u>Vault Data Sharing Services</u>
 
-3.4.1=<p>During the Term, Data User shall provide Vault Data Sharing Services pursuant to the Vault Data Sharing Services [Agency] Agreement set forth in Schedule 3.4 hereto.&nbsp;</p>
+3.4.0.1=During the Term, Data User shall provide Vault Data Sharing Services pursuant to the Vault Data Sharing Services [Agency] Agreement set forth in Schedule 3.4 hereto.
 
 <a href="#_edn38" name="_ednref" title="">[xxxviii]</a>
 
-3.4.2=<p>Other than a transfer pursuant to a Data Portability Event described in section __, in no event will Data User transfer or provide access to any Vault Data to any third party that is not a Registered Party, even upon the request of any one or more Data Rights Owners.
+3.4.0.2=Other than a transfer pursuant to a Data Portability Event described in section __, in no event will Data User transfer or provide access to any Vault Data to any third party that is not a Registered Party, even upon the request of any one or more Data Rights Owners.
 
-[Drafting Note:&nbsp; Consider inclusion of additional general terms applicable only to Services in this section]</p>
+[Drafting Note:&nbsp; Consider inclusion of additional general terms applicable only to Services in this section]
 <a href="#_edn39" name="_ednref" title="">[xxxix]</a>
 <a href="#_edn40" name="_ednref" title="">[xl]</a>
 
-3.5.Title=<p>3.5 Circulating Data Leverage Services.&nbsp;</p>
+3.5=<u>{3.5.Title}</u><br>{3.5.0.1}<br>{3.5.0.2}<br>{3.5.0.3}
 
-3.5.1=<p>During the Term, Data User shall provide Circulating Data Leverage Services as described in Schedule 3.5 hereto. &nbsp;</p>
+3.5.Title=Circulating Data Leverage Services
+
+3.5.0.1=During the Term, Data User shall provide Circulating Data Leverage Services as described in Schedule 3.5 hereto.
 
 <a href="#_edn41" name="_ednref" title="">[xli]</a>
 
-3.5.2=<p>In no event will Data User transfer or provide access to any Circulating Data to any party that is not a Registered Party, even upon the request of any one or more Data Rights Owners of the Vault Data from which such Circulating Data was derived.&nbsp;</p>
+3.5.0.2=In no event will Data User transfer or provide access to any Circulating Data to any party that is not a Registered Party, even upon the request of any one or more Data Rights Owners of the Vault Data from which such Circulating Data was derived.
 <a href="#_edn42" name="_ednref" title="">[xlii]</a>
-3.5.3=<p>To the extent that Data User satisfies the &ldquo;safe harbor&rdquo; elements described in Schedule 3.5 in its processes and protocols for deriving Circulating Data from Vault Data, such Data User will be held harmless from and against any claims of Data Rights Owners associated with the Services described in Schedule 3.5. [Drafting Note:&nbsp; Consider inclusion of additional general terms applicable only to Services in this section].</p>
 
-3.6.Title=<p>3.6.&nbsp; Data Portability Services</p>
+3.5.0.3=To the extent that Data User satisfies the &ldquo;safe harbor&rdquo; elements described in Schedule 3.5 in its processes and protocols for deriving Circulating Data from Vault Data, such Data User will be held harmless from and against any claims of Data Rights Owners associated with the Services described in Schedule 3.5. [Drafting Note:&nbsp; Consider inclusion of additional general terms applicable only to Services in this section].
 
-3.6.1=<p>Following the Effective Date, Data User shall provide Data Portability Services as set forth in Schedule 3.6 hereto. &nbsp;Such Services shall be available to Data Rights Owner at all times during the term, and upon Termination of the Agreement with or without cause.&nbsp;</p>
+3.6=<u>{3.6.Title}</u><br>{3.6.0.1}<br>{3.6.0.2}
+
+3.6.Title=Data Portability Services
+
+3.6.0.1=Following the Effective Date, Data User shall provide Data Portability Services as set forth in Schedule 3.6 hereto. &nbsp;Such Services shall be available to Data Rights Owner at all times during the term, and upon Termination of the Agreement with or without cause.
 
 <a href="#_edn43" name="_ednref" title="">[xliii]</a>
 
-3.6.2=<p>Where such Services are made available in the context of a Termination of the Agreement due to Data User default, such Services are in addition to, and not in substitution for the payments received and other remedies available under section __ hereof.
+3.6.0.2=Where such Services are made available in the context of a Termination of the Agreement due to Data User default, such Services are in addition to, and not in substitution for the payments received and other remedies available under section __ hereof.
 
-[Drafting Note:&nbsp; Consider inclusion of additional general terms applicable only to Services in this section].</p>
+[Drafting Note:&nbsp; Consider inclusion of additional general terms applicable only to Services in this section].
 <a href="#_edn44" name="_ednref" title="">[xliv]</a>
 <a href="#_edn45" name="_ednref" title="">[xlv]</a>
 
-3.7=<p>3.7 Vault Data Unauthorized Access Recovery Services</p>
+3.7=<u>{3.7.Title}</u><br>{3.7.0.1}<br>{3.7.0.2}<br>{3.7.0.3}
 
-3.7.1=<p>Following the Effective Date, Data User shall provide Vault Data Unauthorized Access Recovery Services as set forth in Schedule 3.7 hereto. &nbsp;</p>
+3.7=Vault Data Unauthorized Access Recovery Services
+
+3.7.0.1=Following the Effective Date, Data User shall provide Vault Data Unauthorized Access Recovery Services as set forth in Schedule 3.7 hereto.
 
 <a href="#_edn46" name="_ednref" title="">[xlvi]</a>
 
-3.7.2=<p>Where these Services are provided in the context of an Unauthorized Access to Vault Data or Vault Meta Data held by Data User, such services are in addition to, and not in substitution for the payments received and other remedies available to Data Rights Owner under section __ hereof.&nbsp;</p>
+3.7.0.2=Where these Services are provided in the context of an Unauthorized Access to Vault Data or Vault Meta Data held by Data User, such services are in addition to, and not in substitution for the payments received and other remedies available to Data Rights Owner under section __ hereof.
 
 <a href="#_edn47" name="_ednref" title="">[xlvii]</a>
 
-3.7.3=<p>Such Services will include, but not be limited to, Data User&rsquo;s obligation to maintain full and complete records and details of all actions taken with respect to all Vault Data and all Circulating Data, and all granting of access permissions and other information necessary to enable the full and complete accounting of all Vault Data AND Circulating Data use.&nbsp;</p>
+3.7.0.3=Such Services will include, but not be limited to, Data User&rsquo;s obligation to maintain full and complete records and details of all actions taken with respect to all Vault Data and all Circulating Data, and all granting of access permissions and other information necessary to enable the full and complete accounting of all Vault Data AND Circulating Data use.
 
-<p>[DRAFTING NOTE:&nbsp; The following paragraph is an effort to craft a legal description of a persistent data permission architecture that can reliably function for data action accounting, without the necessity of &ldquo;attaching&rdquo; metadata to data, which can be burdensome on system resources.&nbsp; The accounting meta data is external to the core data stream and is like a meter on a valve on a pipe.]&nbsp; Such records and details will be maintained in a manner that has the effect of virtually, but provably, &ldquo;attaching&rdquo; the metadata to all Vault Data used or transferred, not with an actual physical or file based joining of such data and meta data, but rather through the maintenance of a data and information system that permits the persistent, non-destructible maintenance of the metadata information in any manner that permits the verifiably accurate reconstruction of such metadata by the Data Users, the Data Rights Owner and any other party authorized to have access to such data under contract or public law. [Drafting Note:&nbsp; Consider inclusion of additional general terms applicable only to Services in this section]</p>
+<p>[DRAFTING NOTE:&nbsp; The following paragraph is an effort to craft a legal description of a persistent data permission architecture that can reliably function for data action accounting, without the necessity of &ldquo;attaching&rdquo; metadata to data, which can be burdensome on system resources.&nbsp; The accounting meta data is external to the core data stream and is like a meter on a valve on a pipe.]&nbsp; Such records and details will be maintained in a manner that has the effect of virtually, but provably, &ldquo;attaching&rdquo; the metadata to all Vault Data used or transferred, not with an actual physical or file based joining of such data and meta data, but rather through the maintenance of a data and information system that permits the persistent, non-destructible maintenance of the metadata information in any manner that permits the verifiably accurate reconstruction of such metadata by the Data Users, the Data Rights Owner and any other party authorized to have access to such data under contract or public law. [Drafting Note:&nbsp; Consider inclusion of additional general terms applicable only to Services in this section]
+
+3.8=<u>{3.8.Title}</u><br>{3.8.0}
 
 3.8.Title=Future Services
 
@@ -192,51 +246,62 @@ Prologue.Heading=<p>STANDARD DATA RIGHTS DISTRIBUTED MANAGEMENT SERVICES AGREEME
 
 <a href="#_edn48" name="_ednref" title="">[xlviii]</a>
 
+4=<u>{4.Title}</u><br>{4.0.1}<br>{4.0.2}<br>{4.0.3}<br>{4.0.4}<br>{4.0.5}<br>{4.0.6}
+
 4.Title=Expected Service Levels (&ldquo;ESLs&rdquo;)
 
 <a href="#_edn49" name="_ednref" title="">[xlix]</a>
 
-4.0.1=<p>ESLs may be established for one or more of the following categories of services:</p>
+4.0={4.0.1}<ol><li>{4.0.1}</li><li>{4.0.2}</li><li>{4.0.3}</li><li>{4.0.4}</li><li>{4.0.5}</li><li>{4.0.6}</li></ol>
 
-4.0.1.1=<p>Data Acquisition and Collection Services,</p>
+4.0.1=ESLs may be established for one or more of the following categories of services:
 
-4.0.1.2=<p>Vault Data Warehousing and Data Integrity Services,</p>
+4.0.1.1=Data Acquisition and Collection Services,
 
-4.0.1.3=<p>Vault Data Sharing Services</p>
+4.0.1.2=Vault Data Warehousing and Data Integrity Services,
 
-4.0.1.4=<p>Data Portability Services</p>
+4.0.1.3=Vault Data Sharing Services
 
-4.0.1.5=<p>Vault Data Unauthorized Access Recovery Services</p>
+4.0.1.4=Data Portability Services
 
-4.0.1.6=<p>Other Services made available by Data User to Data Rights owner from time to time.</p>
+4.0.1.5=Vault Data Unauthorized Access Recovery Services
 
-4.0.2=<p>ESLs are not anticipated to be established for Circulating Data Leverage Services, since the Data User activities that are associated with such Services are performed by Data User on its own behalf, not on behalf of a Data Rights Owner (notwithstanding the Data User&rsquo;s obligation to account to Data Rights Owner for revenues generated through its Circulating Data Leverage Services activities).</p>
+4.0.1.6=Other Services made available by Data User to Data Rights owner from time to time.
+
+4.0.2=ESLs are not anticipated to be established for Circulating Data Leverage Services, since the Data User activities that are associated with such Services are performed by Data User on its own behalf, not on behalf of a Data Rights Owner (notwithstanding the Data User&rsquo;s obligation to account to Data Rights Owner for revenues generated through its Circulating Data Leverage Services activities).
 
 <a href="#_edn50" name="_ednref" title="">[l]</a>
 
-4.0.3=<p>ESLs are established for the express purpose of creating a threshold of performance for some aspect of the relevant Service for which the ESL is provided.&nbsp; In the event that Data User fails to provide and perform the relevant Service at a level that is equivalent to that called for in a particular ESL, Data Rights Owner can pursue remedies through the Fee Reduction Mechanism provided for in section __ of this Agreement, and other remedies provided for herein.&nbsp;</p>
+4.0.3=ESLs are established for the express purpose of creating a threshold of performance for some aspect of the relevant Service for which the ESL is provided.&nbsp; In the event that Data User fails to provide and perform the relevant Service at a level that is equivalent to that called for in a particular ESL, Data Rights Owner can pursue remedies through the Fee Reduction Mechanism provided for in section __ of this Agreement, and other remedies provided for herein.
 
 <a href="#_edn51" name="_ednref" title="">[li]</a>
 
-4.0.4=<p>ESLs are not intended to provide comprehensive &ldquo;specifications&rdquo; for duties-of-care associated with performance of Services by Data Users; this entire Agreement and the Schedules set forth a more comprehensive set of requirements associated with Data User performance hereunder.&nbsp;</p>
+4.0.4=ESLs are not intended to provide comprehensive &ldquo;specifications&rdquo; for duties-of-care associated with performance of Services by Data Users; this entire Agreement and the Schedules set forth a more comprehensive set of requirements associated with Data User performance hereunder.
 
-4.0.5=<p>Instead, the ESLs are only intended to identify those Service elements for which (i) performance is sufficiently empirically and objectively measurable, and (ii) for which the damages due to harm is the most directly calculable, that ESL performance failures can lend themselves to contractual liquidated damages structures that can be deployed effectively by automated, scalable dispute resolution systems, such as those that support this Agreement.&nbsp;</p>
+4.0.5=Instead, the ESLs are only intended to identify those Service elements for which (i) performance is sufficiently empirically and objectively measurable, and (ii) for which the damages due to harm is the most directly calculable, that ESL performance failures can lend themselves to contractual liquidated damages structures that can be deployed effectively by automated, scalable dispute resolution systems, such as those that support this Agreement.
 
-4.0.6=<p>Thus, only a subset of the rights of Data Rights Owners will lend themselves to treatment under the ESL arrangements of this section 4.&nbsp; It is, however, anticipated that the proportion of Services that lend themselves to ESL treatment will increase over time, as candidate &ldquo;best practices&rdquo; for emerging Data User standards of care are shared, and rules and expected Vault Data and Circulating Data behaviors are normalized and harmonized across jurisdictions and sectors.&nbsp; Any such ESL-market advancement will be documented pursuant to the terms of this Agreement.</p>
+4.0.6=Thus, only a subset of the rights of Data Rights Owners will lend themselves to treatment under the ESL arrangements of this section 4.&nbsp; It is, however, anticipated that the proportion of Services that lend themselves to ESL treatment will increase over time, as candidate &ldquo;best practices&rdquo; for emerging Data User standards of care are shared, and rules and expected Vault Data and Circulating Data behaviors are normalized and harmonized across jurisdictions and sectors.&nbsp; Any such ESL-market advancement will be documented pursuant to the terms of this Agreement.
+
+
+4.1=<u>{4.1.Title}</u><br>{4.1.0}
 
 4.1.Title=Specification of ESLs
 
 4.1.0=All ESL&rsquo;s shall be performed as specified in the ESL section of the relevant Service schedule for that Service identified in section 3 as amended from time to time.
 
+
+4.2=<u>{4.2.Title}</u><ol><li>{4.2.1}</li><li>{4.2.2}</li></ol>
+
 4.2.Title=ESL Measurement and Reporting; Accounting
 
-4.2.1=Data User shall make available to Data Rights Owners reports and statistics regarding its performance of the various Services with respect to any Vault Data and Circulating Data for any other Registered Parties in their respective capacities as Data Rights Owners against the ESLs during each calendar month, by the fifteenth (15th) business day of the following month.</p>
+4.2.1=Data User shall make available to Data Rights Owners reports and statistics regarding its performance of the various Services with respect to any Vault Data and Circulating Data for any other Registered Parties in their respective capacities as Data Rights Owners against the ESLs during each calendar month, by the fifteenth (15th) business day of the following month.
 
 <a href="#_edn52" name="_ednref" title="">[lii]</a>
 <a href="#_edn53" name="_ednref" title="">[liii]</a>
 
 4.2.2=Measurements of system availability that are included in the reports under this Agreement shall exclude (i) scheduled downtime, (ii) delays in the provision of a Service schedule requested by or caused by Data Rights Owner, and (iii) unscheduled downtime to the extent attributable to (x) Force Majeure Events, or (y) the acts or omissions of Data Rights Owner or its employees, agents, third-party contractors, and suppliers.
 
+4.3=<u>{4.3.Title}</u><br>{4.3.0}
 
 4.3.Title=Adoption of &ldquo;Best Practices&rdquo; in ESLs
 
@@ -245,16 +310,25 @@ Prologue.Heading=<p>STANDARD DATA RIGHTS DISTRIBUTED MANAGEMENT SERVICES AGREEME
 <a href="#_edn54" name="_ednref" title="">[liv]</a>
 <a href="#_edn55" name="_ednref" title="">[lv]</a>
 
+4.4=<u>{4.4.Title}</u><br>{4.4.0}
+
 4.4.Title=Limited Suspension of ESLs to Accommodate Data Rights Owner
 
 4.4.0=If and to the extent that Data User fails to meet a specific ESL as a result of material actions, errors, or omissions of Data Rights Owner, such ESL will be deemed to be suspended for an amount of time as is reasonably necessary for Data User to again achieve conformity to such ESL.&nbsp; Data User may take such reasonable precautions as it deems necessary to prevent the recurrence of any such event.
 
+5=<u>{5.Title}</u><ol><li>{5.1}</li><li>{5.2}</li><li>{5.3}</li><li>{5.4}</li></ol>
+
 5.Title=DATA USER RESOURCES
 
+5.1=<u>{5.1.Title}</u><br>{5.1.0}
+
 5.1.Title=General
+
 5.1.0=With the exception of those [hardware, software, telecommunications, educational, network, and other] product and service resources for which the Data Rights Owner is explicitly responsible as described in Schedule 5.1, Data User shall be fully and entirely responsible for obtaining and gaining access to all software (including licenses to necessary third party software), hardware, documentation, services, and other resources that it requires to perform the Services, including but not limited to the performance in conformity with the relevant ESLs [and CESLS to which the Data User has committed under this Agreement].
 
 <a href="#_edn56" name="_ednref" title="">[lvi]</a>
+
+5.2=<u>{5.2.Title}</u><br>{5.2.0}
 
 5.2.Title=Unpermitted Uses of Data User Services
 
@@ -262,33 +336,41 @@ Prologue.Heading=<p>STANDARD DATA RIGHTS DISTRIBUTED MANAGEMENT SERVICES AGREEME
 
 <a href="#_edn57" name="_ednref" title="">[lvii]</a>
 
+5.3=<u>{5.3.Title}</u><br>{5.3.0.1}<br>{5.3.0.2}<br>{5.3.0.3}<br>{5.3.0.4}<br>{5.3.0.5}<br>{5.3.0.6}
+
 5.3.Title=<u>Customized Use of Data User Services</u>
 <a href="#_edn58" name="_ednref" title="">[lviii]</a>
 
-5.3.1=Data Rights Owner (and groups of Data Rights Owners) may request, and Data User may separately agree to provide customized ESL services (&ldquo;CESLS&rdquo;) to accommodate and address particular Data Rights Owners&rsquo; needs, all on the terms and conditions separately agreed to by the parties to such CESLS from time to time. Examples (by way of illustration and not exclusion) of the CESLS that may be requested by the Data Rights Owner are increased and additional requirements relating to any one or more of the Services and any other additional obligation or duty relating to the collection, storage, use, transmission and handling of Vault Data and Shared Vault Data by Data User.
+5.3.0.1=Data Rights Owner (and groups of Data Rights Owners) may request, and Data User may separately agree to provide customized ESL services (&ldquo;CESLS&rdquo;) to accommodate and address particular Data Rights Owners&rsquo; needs, all on the terms and conditions separately agreed to by the parties to such CESLS from time to time. Examples (by way of illustration and not exclusion) of the CESLS that may be requested by the Data Rights Owner are increased and additional requirements relating to any one or more of the Services and any other additional obligation or duty relating to the collection, storage, use, transmission and handling of Vault Data and Shared Vault Data by Data User.
 
 <a href="#_edn59" name="_ednref" title="">[lix]</a>
 
-5.3.2=A Registered Party acting as a Data User shall be required to use in connection with its provision of services under a CESLS, and cause its suppliers to use, the third party services, networks, applications and other functionality offered by such other parties as it agrees to provide to Data Rights Owner pursuant to such CESLS.
+5.3.0.2=A Registered Party acting as a Data User shall be required to use in connection with its provision of services under a CESLS, and cause its suppliers to use, the third party services, networks, applications and other functionality offered by such other parties as it agrees to provide to Data Rights Owner pursuant to such CESLS.
 
 <a href="#_edn60" name="_ednref" title="">[lx]</a>
 
-5.3.3=Each Data Rights Owner agrees and acknowledges that CESLSs entered into between a particular Registered Party acting as a Data User and other Registered Parties as Data Rights Owners are only binding on such Data User with respect to the Data Rights Owner(s) that are explicitly covered under each such CESLS, and that such Data User&rsquo;s duties and obligations under any one or more CESLSs do not establish an &ldquo;industry practice&rdquo; or &ldquo;standard of care&rdquo; that affects the rights of any such other Data Rights Owners, or the Services provided by any Data User to such Data Rights Owners, or any ESL that is not a CESLS, provided that any Data User may agree to adopt and abide by any CESLS of another Data User (either through normative cross reference, or by inclusion of &ldquo;mirror&rdquo; CESLS terms directly in its arrangements with Data Rights Owners with which it interacts.&nbsp;</p>
+5.3.0.3=Each Data Rights Owner agrees and acknowledges that CESLSs entered into between a particular Registered Party acting as a Data User and other Registered Parties as Data Rights Owners are only binding on such Data User with respect to the Data Rights Owner(s) that are explicitly covered under each such CESLS, and that such Data User&rsquo;s duties and obligations under any one or more CESLSs do not establish an &ldquo;industry practice&rdquo; or &ldquo;standard of care&rdquo; that affects the rights of any such other Data Rights Owners, or the Services provided by any Data User to such Data Rights Owners, or any ESL that is not a CESLS, provided that any Data User may agree to adopt and abide by any CESLS of another Data User (either through normative cross reference, or by inclusion of &ldquo;mirror&rdquo; CESLS terms directly in its arrangements with Data Rights Owners with which it interacts.&nbsp;
 
-5.3.4=<p>Registered Party in its capacity as Data Rights Owner also acknowledges and agrees that Data User may, in its sole and exclusive discretion, choose to offer any part or all of the services under any CESLS to one or more other Data Rights Owners, and others, and may establish new Services that offer such services, except as the Data Rights Owner and such Data User have previously agreed, and that Data Rights Owner shall have no right in any such new services, and shall receive no compensation therefore, except to the extent otherwise explicitly set forth in a CESLS, or other law or agreement applicable to the parties and to a particular CESLS in to which they have entered.</p>
+5.3.0.4=Registered Party in its capacity as Data Rights Owner also acknowledges and agrees that Data User may, in its sole and exclusive discretion, choose to offer any part or all of the services under any CESLS to one or more other Data Rights Owners, and others, and may establish new Services that offer such services, except as the Data Rights Owner and such Data User have previously agreed, and that Data Rights Owner shall have no right in any such new services, and shall receive no compensation therefore, except to the extent otherwise explicitly set forth in a CESLS, or other law or agreement applicable to the parties and to a particular CESLS in to which they have entered.
 
-5.3.5=<p>A Data Rights Owner that has entered a CESLS with Data User will reasonably cooperate with Data User in causing any third party services identified by Data Rights Owner to be made interoperable with the Services. [Subject to the applicable CESLS, Data Rights Owner will reimburse and hold Data User harmless from and against all costs paid by Data User with respect to third party charges incurred on Data Rights Owner&#39;s behalf, and at Data Rights Owner&rsquo;s request, in Data User&rsquo;s fulfillment of such CESLS.]&nbsp;</p>
+5.3.0.5=A Data Rights Owner that has entered a CESLS with Data User will reasonably cooperate with Data User in causing any third party services identified by Data Rights Owner to be made interoperable with the Services. [Subject to the applicable CESLS, Data Rights Owner will reimburse and hold Data User harmless from and against all costs paid by Data User with respect to third party charges incurred on Data Rights Owner&#39;s behalf, and at Data Rights Owner&rsquo;s request, in Data User&rsquo;s fulfillment of such CESLS.]&nbsp;
 
 <a href="#_edn61" name="_ednref" title="">[lxi]</a>
 
-5.3.6=<p>A Data User may use and apply any such third party connection or arrangement that was originally established for one Data Rights Owner to also interoperate with any other Data Rights Owner without the prior written consent of Data Rights Owner, provided however, that it shall provide notice of such use to the Data Rights Owner with which it entered the CESLS covering such connection, and shall reduce or eliminate any future payments required to be paid by such Data Rights Owner to reflect the equitable sharing of such expenses across the group of Data Rights Owners for which the connection or arrangement offers an advantage.</p>
+5.3.0.6=A Data User may use and apply any such third party connection or arrangement that was originally established for one Data Rights Owner to also interoperate with any other Data Rights Owner without the prior written consent of Data Rights Owner, provided however, that it shall provide notice of such use to the Data Rights Owner with which it entered the CESLS covering such connection, and shall reduce or eliminate any future payments required to be paid by such Data Rights Owner to reflect the equitable sharing of such expenses across the group of Data Rights Owners for which the connection or arrangement offers an advantage.
 <a href="#_edn62" name="_ednref" title="">[lxii]</a>
+
+5.4=<u>{5.4.Title}</u><br>{5.4.0}
 
 5.4.Title=Non-Exclusivity
 
 5.4.0=Nothing herein shall prevent (i) The Data User from providing services (including the Services as defined herein) to any Data Rights Owner (or any third party in the case of generic services that are not &ldquo;Services&rdquo; under this Agreement, or (ii) the Data Rights Owner from obtaining any type of services (including Services) from any other Party.
 
+6=<u>{6.Title}</u><ol><li>{6.1}</li><li>{6.2}</li><li>{6.3}</li></ol>
+
 6.Title=Security Obligations
+
+6.1=<u>{6.1.Title}</u><ol><li>{6.1.1}</li><li>{6.1.2}</li><li>{6.1.3}</li><li>{6.1.4}</li></ol>
 
 6.1=As an integral part of each of the Services provided hereunder, Data User shall be fully and solely responsible to Data Rights Owner for taking reasonable precautions and actions to ensure the security and integrity of Vault Data at a level that is no less than (but may exceed) the standards of care established by __________ or the standards of care that are conformant to the standards set forth in Schedule 6), whichever are greater, applicable to a particular element of each set of standards.&nbsp; The relevant standards of care that are intended to be applied are those relating to:
 
@@ -302,7 +384,7 @@ Prologue.Heading=<p>STANDARD DATA RIGHTS DISTRIBUTED MANAGEMENT SERVICES AGREEME
 
 6.1.4=[other?]
 
-6.2=<p>The security obligations that are imposed on Data User by this section 6 shall not extend to Circulating Data, provided, however, that the Data User shall keep and maintain confidential those non-public elements of its protocols, techniques, and processes used to achieve the de-identification of Vault Data necessary to create Circulating Data, to the extent that the revealing of such processes would enable Data Users of Circulating Data to &ldquo;reverse engineer&rdquo; Vault Data from Circulating Data, provided however, that Data User are obligated to be transparent about their de-identification processes to a degree sufficient to be able to demonstrate that they have satisfied the objective tests necessary to qualify for the Circulating Data safe harbor set forth in section ___, and provided further that Data Rights Owner will indemnify and hold Data User harmless from and against any liability for [Transferee Data User] [Re-identification] of Circulating Data that was not the result of [Transferor Data User] negligence in the process of De-identification or Data User failure to keep confidential its De-identification processes.
+6.2=The security obligations that are imposed on Data User by this section 6 shall not extend to Circulating Data, provided, however, that the Data User shall keep and maintain confidential those non-public elements of its protocols, techniques, and processes used to achieve the de-identification of Vault Data necessary to create Circulating Data, to the extent that the revealing of such processes would enable Data Users of Circulating Data to &ldquo;reverse engineer&rdquo; Vault Data from Circulating Data, provided however, that Data User are obligated to be transparent about their de-identification processes to a degree sufficient to be able to demonstrate that they have satisfied the objective tests necessary to qualify for the Circulating Data safe harbor set forth in section ___, and provided further that Data Rights Owner will indemnify and hold Data User harmless from and against any liability for [Transferee Data User] [Re-identification] of Circulating Data that was not the result of [Transferor Data User] negligence in the process of De-identification or Data User failure to keep confidential its De-identification processes.
 
 <a href="#_edn64" name="_ednref" title="">[lxiv]</a>
 
@@ -311,17 +393,23 @@ Prologue.Heading=<p>STANDARD DATA RIGHTS DISTRIBUTED MANAGEMENT SERVICES AGREEME
 
 <a href="#_edn65" name="_ednref" title="">[lxv]</a>
 
+7=<u>{7.Title}</u><ol><li>{7.1}</li><li>{7.2}</li></ol>
+
 7.Title=Data Rights Owner-Retained Authority and Obligations
+
+7.1=<u>{7.1.Title}</u><br>{7.1.0.1}<br>{7.1.0.2}
 
 7.1.Title=Data Rights Owner Authority
 
-7.1.1=Data Rights Owner shall retain all of its pre-existing intellectual property and proprietary rights [in addition to its fundamental rights that are in no event assignable] in Vault Data relating to such Data Rights Owner that comes into the possession or control or is made accessible to any Registered Party acting as a Data User, or that is transferred to any Data User on their behalf, and all fundamental and other rights, if any, that they have in Vault Data with which Data User interacts that relates to Data Rights Owner.&nbsp; Data Rights Owner shall also exercise decision-making authority, as provided in this Agreement, with respect to the overall application of the Services with respect to the Vault Data, provided that Data Rights Owner may delegate part of such authority to one or more Registered Parties in their capacities as Data Users, or another Registered Party acting as intermediary, as necessary for it to enjoy the Services, or under one or more CESLS arrangements.
+7.1.0.1=Data Rights Owner shall retain all of its pre-existing intellectual property and proprietary rights [in addition to its fundamental rights that are in no event assignable] in Vault Data relating to such Data Rights Owner that comes into the possession or control or is made accessible to any Registered Party acting as a Data User, or that is transferred to any Data User on their behalf, and all fundamental and other rights, if any, that they have in Vault Data with which Data User interacts that relates to Data Rights Owner.&nbsp; Data Rights Owner shall also exercise decision-making authority, as provided in this Agreement, with respect to the overall application of the Services with respect to the Vault Data, provided that Data Rights Owner may delegate part of such authority to one or more Registered Parties in their capacities as Data Users, or another Registered Party acting as intermediary, as necessary for it to enjoy the Services, or under one or more CESLS arrangements.
 
 <a href="#_edn66" name="_ednref" title="">[lxvi]</a>
 
-7.1.2=Data Rights Owner acknowledges and agrees that Data User will apply de-identification processes that are consistent with those processes set forth in relevant portions of the Schedules to any Vault Data to generate Circulating Data, and that such Circulating Data is not subject to this section 7.1 or any of the other provisions of this Agreement applicable to Vault Data.&nbsp; Under this Agreement, while Data Rights Owner will continue to retain its rights in Vault Data, its rights regarding Circulating Data under this Agreement are limited solely to the receipt of such compensation for the use of such data as is made explicitly available from time to time by Data User under this Agreement, and any such other rights as are explicitly established for Data Rights Owner hereunder.
+7.1.0.2=Data Rights Owner acknowledges and agrees that Data User will apply de-identification processes that are consistent with those processes set forth in relevant portions of the Schedules to any Vault Data to generate Circulating Data, and that such Circulating Data is not subject to this section 7.1 or any of the other provisions of this Agreement applicable to Vault Data.&nbsp; Under this Agreement, while Data Rights Owner will continue to retain its rights in Vault Data, its rights regarding Circulating Data under this Agreement are limited solely to the receipt of such compensation for the use of such data as is made explicitly available from time to time by Data User under this Agreement, and any such other rights as are explicitly established for Data Rights Owner hereunder.
 
 <a href="#_edn67" name="_ednref" title="">[lxvii]</a>
+
+7.2=<u>{7.2.Title}</u><br>{7.2.0}
 
 7.2.Title=Access to Data and Cooperation
 
@@ -329,7 +417,12 @@ Prologue.Heading=<p>STANDARD DATA RIGHTS DISTRIBUTED MANAGEMENT SERVICES AGREEME
 
 <a href="#_edn68" name="_ednref" title="">[lxviii]</a>
 
+8=<u>{8.Title}</u><br>{8.0}<ol><li>{8.1}</li><li>{8.2}</li><li>{8.3}</li><li>{8.4}</li><li>{8.5}</li><li>{8.6}</li><li>{8.7}</li><li>{8.8}</li><li>{8.9}</li><li>{8.10}</li><li>{8.11}</li><li>{8.12}</li><li>{8.13}</li><li>{8.14}</li><li>{8.15}</li><li>{8.16}</li></ol>
+
+
 8.Title=Financial Terms
+
+8.0={8.0.1}<br>{8.0.2}<br>{8.0.3}<br>{8.0.4}
 
 8.0.1=This Agreement anticipates a variety of sub-types of Services (as set forth in Section 3) each of which has different values and economics for different Registered Parties, and the Schedules for each of which sets forth a structure of payment terms to reflect and support those economics.
 
@@ -341,19 +434,26 @@ Prologue.Heading=<p>STANDARD DATA RIGHTS DISTRIBUTED MANAGEMENT SERVICES AGREEME
 
 8.0.4=The accounting obligations of Data Users under this Agreement support these payment systems, and make possible the netting processes that are set forth in relevant Schedules to this Agreement.
 
+8.1=<u>{8.1.Title}</u><br>{8.1.0}
+
 8.1.Title=Fees for Data Acquisition and Collection Services
 
 8.1.0=Data Acquisition and Collection Services are provided to Data Rights Owners without charge by Data User.
 
 <a href="#_edn70" name="_ednref" title="">[lxx]</a>
 
+8.2=<u>{8.2.Title}</u><br>{8.2.0.1}<br>{8.2.0.2}
+
 8.2.Title=Fees for Vault Data Warehousing and Data Integrity Services
 
-8.2.1=Nature of Services: See description of services in section 3.____.
+8.2.0.1=Nature of Services: See description of services in section 3.____.
 
-8.2.2=Fees:&nbsp; Vault Data Warehousing and Data Integrity Services are provided for a fee that is equal to the average daily &ldquo;cloud-based storage index&rdquo; that is calculated in the manner set forth in Schedule 8.2.
+8.2.0.2=Fees:&nbsp; Vault Data Warehousing and Data Integrity Services are provided for a fee that is equal to the average daily &ldquo;cloud-based storage index&rdquo; that is calculated in the manner set forth in Schedule 8.2.
 
 <a href="#_edn71" name="_ednref" title="">[lxxi]</a>
+
+
+8.3=<u>{8.3.Title}</u><ol><li>{8.3.1}</li><li>{8.3.2}</li></ol>
 
 8.3.Title=Commissions for Vault Data Sharing Services
 
@@ -361,30 +461,40 @@ Prologue.Heading=<p>STANDARD DATA RIGHTS DISTRIBUTED MANAGEMENT SERVICES AGREEME
 
 8.3.1.1=Nature of Services:&nbsp; As provided in section 3, Data Users may not share Vault Data with any third party without Data Rights Owner&rsquo;s permission.&nbsp; That permission may be granted by Data Rights Owners: (i) on a per-sharing-event basis, (ii) by reference to categories of data, (iii) by identification of limited sets of permitted Observer Users, or (iv) any other method agreed upon by the Data User and the Data Rights Owner from time to time under this Agreement that reflects, carries forward and helps make viable Data Rights Owner co-management of Vault Data under this Agreement.
 
-8.3.1.2=Data Users may only share Vault Data in a manner that reflects and carries into effect the rights of Data Rights Owner, [acting in a capacity as a data version of a &ldquo;data agent&rdquo; pursuant to the Agency Terms set forth under section 3.___] with respect to any such third party use.&nbsp; In all sharing activities involving Vault Data, and in recognition of Data Rights Owner&rsquo;s primacy in determining the use and disposition of Vault Data, the Data User will act in a way that is consistent with the interests of Data Rights Owner under this Agreement and is in the best interests of the Data Rights Owner when engaging in any Vault Data Sharing Services.</p>
+8.3.1.2=Data Users may only share Vault Data in a manner that reflects and carries into effect the rights of Data Rights Owner, [acting in a capacity as a data version of a &ldquo;data agent&rdquo; pursuant to the Agency Terms set forth under section 3.___] with respect to any such third party use.&nbsp; In all sharing activities involving Vault Data, and in recognition of Data Rights Owner&rsquo;s primacy in determining the use and disposition of Vault Data, the Data User will act in a way that is consistent with the interests of Data Rights Owner under this Agreement and is in the best interests of the Data Rights Owner when engaging in any Vault Data Sharing Services.
 
 8.3.2=Fees: &nbsp;Data User[, acting in capacity as agent for Data Rights Owner pursuant to the Agency Terms set forth under section 3.____,] shall generate and earn a &ldquo;Shared Vault Data Commission&rdquo; from providing Vault Data Sharing Services.&nbsp; The commission shall be calculated in the manner provided in Schedule 8.3 (b).
 
+
+8.4=<u>{8.4.Title}</u><ol><li>{8.4.1}</li><li>{8.4.2}</li></ol>
+
 8.4.Title=Payments for Circulating Data Leverage
+
+8.4.1=<u>{8.4.1.Title}</u><br>{8.2.1.0.1}<br>{8.2.1.0.2}<br>{8.2.1.0.3}<br>{8.2.1.0.4}
 
 8.4.1.Title=Nature of Services
 
-8.4.1.1=A Registered Party acting in its capacity as a Data User may share, transfer, license, exploit, monetize and otherwise use Circulating Data (collectively &ldquo;Circulating Data Actions&rdquo;) freely and without any Data Rights Owner&rsquo;s permission or consent.&nbsp; Registered Parties in their capacities as Data Rights Owners acknowledges and agree that, because Circulating Data is de-identified data, (i) no direct interests of Data Rights Owner in Vault Data are <em>per se </em>negatively affected solely by such Circulating Data Actions, including but not limited to interests in the nature of those protected by misappropriation and other similar equitable &ldquo;unjust enrichment&rdquo; concepts, and (ii) there is no risk of direct identity intrusion harm solely as a result of the making available of or sharing with third parties of such Circulating Data.
+8.4.1.0.1=A Registered Party acting in its capacity as a Data User may share, transfer, license, exploit, monetize and otherwise use Circulating Data (collectively &ldquo;Circulating Data Actions&rdquo;) freely and without any Data Rights Owner&rsquo;s permission or consent.&nbsp; Registered Parties in their capacities as Data Rights Owners acknowledges and agree that, because Circulating Data is de-identified data, (i) no direct interests of Data Rights Owner in Vault Data are <em>per se </em>negatively affected solely by such Circulating Data Actions, including but not limited to interests in the nature of those protected by misappropriation and other similar equitable &ldquo;unjust enrichment&rdquo; concepts, and (ii) there is no risk of direct identity intrusion harm solely as a result of the making available of or sharing with third parties of such Circulating Data.
 
 <a href="#_edn72" name="_ednref" title="">[lxxii]</a>
 
-8.4.1.2=Notwithstanding the acknowledgement in the prior sentence, Registered Parties also recognize that the Data Rights Owner is a source of Circulating Data (alone or in combination with other Data Rights Owners from which Vault Data is made available to Data User).
+8.4.1.0.2=Notwithstanding the acknowledgement in the prior sentence, Registered Parties also recognize that the Data Rights Owner is a source of Circulating Data (alone or in combination with other Data Rights Owners from which Vault Data is made available to Data User).
 
-8.4.1.3=Thus, while the Data User may use and transfer Circulating Data in its discretion, it must also account to and compensate the Data Rights Owner for a portion of the value realized by Data User attributable to the Vault Data of each Data Rights Owner from which the Circulating Data was derived.&nbsp; This payment is roughly analogous to that made by an oil refining company to a drilling company (or the owner of a well, etc.) for unrefined crude oil, except that payment obligation of a Data User arises, not upon the creation of such Circulating Data, but upon its subsequent use for monetary value.&nbsp; The Vault Data that is made available by Registered Parties in their respective capacities as Data Rights Owners is the &ldquo;feedstock&rdquo; of the data leverage (multiple users) in the Circulating Data markets. &nbsp;This Agreement is intended to provide a mechanism for Registered Parties to more explicitly experience the benefits and burdens associated with Circulating Data markets, and to participate, through the choices they make in interacting with other Registered Parties as Data Users, in their co-management and design, development and deployment.
+8.4.1.0.3=Thus, while the Data User may use and transfer Circulating Data in its discretion, it must also account to and compensate the Data Rights Owner for a portion of the value realized by Data User attributable to the Vault Data of each Data Rights Owner from which the Circulating Data was derived.&nbsp; This payment is roughly analogous to that made by an oil refining company to a drilling company (or the owner of a well, etc.) for unrefined crude oil, except that payment obligation of a Data User arises, not upon the creation of such Circulating Data, but upon its subsequent use for monetary value.&nbsp; The Vault Data that is made available by Registered Parties in their respective capacities as Data Rights Owners is the &ldquo;feedstock&rdquo; of the data leverage (multiple users) in the Circulating Data markets. &nbsp;This Agreement is intended to provide a mechanism for Registered Parties to more explicitly experience the benefits and burdens associated with Circulating Data markets, and to participate, through the choices they make in interacting with other Registered Parties as Data Users, in their co-management and design, development and deployment.
 
 <a href="#_edn73" name="_ednref" title="">[lxxiii]</a>
 
-8.4.1.4=The parties also recognize that de-identified data can be brought together with other data, or can be applied in contexts (or by Registered Parties with subjective prior knowledge) where it can become &ldquo;personal information&rdquo; (and therefore once-again classify as &ldquo;Vault Data&rdquo; under this Agreement) that can &ldquo;inform&rdquo; one or more parties about a Registered Party or other party, as a result of which such data becomes &ldquo;re-identified data&rdquo; (and therefore &ldquo;Vault Data&rdquo;).&nbsp; If and to the extent that any such re-identification event results in the creation of Vault Data, any Registered Party that comes into contact with such Vault Data, whether or not be intention or design, shall have the rights and obligations of a Data User with respect to such Vault Data, which results in the Data Rights Owner automatically receiving &ldquo;Vault Data&rdquo; Service levels of duty of care, automatically upon such re-identification event, without the requirement of further action by Data Rights Owner, all as dealt with elsewhere in this Agreement.</p>
+8.4.1.0.4=The parties also recognize that de-identified data can be brought together with other data, or can be applied in contexts (or by Registered Parties with subjective prior knowledge) where it can become &ldquo;personal information&rdquo; (and therefore once-again classify as &ldquo;Vault Data&rdquo; under this Agreement) that can &ldquo;inform&rdquo; one or more parties about a Registered Party or other party, as a result of which such data becomes &ldquo;re-identified data&rdquo; (and therefore &ldquo;Vault Data&rdquo;).&nbsp; If and to the extent that any such re-identification event results in the creation of Vault Data, any Registered Party that comes into contact with such Vault Data, whether or not be intention or design, shall have the rights and obligations of a Data User with respect to such Vault Data, which results in the Data Rights Owner automatically receiving &ldquo;Vault Data&rdquo; Service levels of duty of care, automatically upon such re-identification event, without the requirement of further action by Data Rights Owner, all as dealt with elsewhere in this Agreement.
+
+8.4.2=<u>{8.4.2.Title}</u><br>{8.4.2.0}
 
 8.4.2.Title=Fees:
+
 8.4.2.0=Data Users shall pay to (or credit against the charges imposed on) Data Rights Owner a periodic fee calculated in the manner set forth in Schedule 8.4(b) in recognition of the portion of revenue generated from the data leverage of Circulating Data originated and derived from Vault Data received from [or about] Data Rights Owner, less allocable direct and indirect costs of providing the Service, and less Data User profit (the &ldquo;Circulating Data Origination Fee&rdquo;).
 
 <a href="#_edn74" name="_ednref" title="">[lxxiv]</a>
+
+8.5=<u>{8.5.Title}</u><ol><li>{8.5.1}</li><li>{8.5.2}</li></ol>
 
 8.5.Title=Fees for Data Portability Services
 
@@ -392,19 +502,27 @@ Prologue.Heading=<p>STANDARD DATA RIGHTS DISTRIBUTED MANAGEMENT SERVICES AGREEME
 
 8.5.2=Fees:&nbsp; Data User shall not charge any fee to Data Rights Owner for any Data Portability Services
 
+
+8.6=<u>{8.6.Title}</u><ol><li>{8.6.1}</li><li>{8.6.2}</li></ol>{8.6.91}
+
 8.6.Title=Fees for Vault Data Unauthorized Access Recovery Services
 
 8.6.1=Nature of Services:&nbsp; See section 3.___for a description of the Vault Data Unauthorized Access Recovery Services provided by Data User hereunder.
 
 8.6.2=Fees:&nbsp; Data User shall not charge any fee to Data Rights Owner for any Vault Data Unauthorized Access Recovery Services.
 
-8.6.91=<p>Data User may be required under this Agreement to pay or credit a Fee Reduction to Data Rights Owners with respect to incidents of Unauthorized Access Recovery that also constitute a breach of this Agreement or one or more ESLs or CESLS.</p>
+8.6.91=Data User may be required under this Agreement to pay or credit a Fee Reduction to Data Rights Owners with respect to incidents of Unauthorized Access Recovery that also constitute a breach of this Agreement or one or more ESLs or CESLS.
 
 <a href="#_edn75" name="_ednref" title="">[lxxv]</a>
+
+8.7=<u>{8.7.Title}</u><br>{8.7.0}
 
 8.7.Title=Shared Savings - Other Costs
 
 8.7.0=As part of the Services provided by it hereunder, Data User will use commercial best efforts to continue to increase the efficiency of the systems through which the Service is provided and to reduce the costs of such services, all without reduction in the quality or availability of its Services or violation of the terms of this Agreement and any ESL or CESL.
+
+
+8.7=<u>{8.7.Title}</u><ol><li>{8.7.1}</li><li>{8.7.2}</li></ol>
 
 8.8.Title=Third-Party Service Costs
 
@@ -415,6 +533,8 @@ Prologue.Heading=<p>STANDARD DATA RIGHTS DISTRIBUTED MANAGEMENT SERVICES AGREEME
 8.8.2=Any such costs will be invoiced by Data User to Data Rights Owner, and shall be payable by Data Rights Owner without any increases, surcharges, service fees, or other additions added as line items to a Data Rights Owner invoice, provided however, that the Data User may recover its operational, administrative and other costs associated with administering such Services through the mechanism of including such costs in the overall overhead costs that are included in its fee calculations for the Services.
 
 MISNUMBERED IN THE ORIGINAL:
+
+8.9=<u>{8.9.Title}</u><ol><li>{8.9.1}</li><li>{8.9.2}</li><li>{8.9.3}</li></ol>
 
 8.9.Title=Accounting and Audit
 
@@ -431,6 +551,9 @@ MISNUMBERED IN THE ORIGINAL:
 
 <a href="#_edn80" name="_ednref" title="">[lxxx]</a>
 
+
+8.10=<u>{8.10.Title}</u><ol><li>{8.10.1}</li><li>{8.10.2}</li><li>{8.10.3}</li></ol>{8.10.91}
+
 8.10.Title=Taxes
 
 <a href="#_edn81" name="_ednref" title="">[lxxxi]</a>
@@ -445,11 +568,15 @@ MISNUMBERED IN THE ORIGINAL:
 
 8.10.91=In no event shall Data User be required to pay any Data Rights Owner Tax that is has not collected from Data Rights Owner, and Data Rights Owner shall hold Data User harmless against and remit to Data User an amount equal to any such actual payment made by Data User to the relevant taxing authority, as well as the amount of any fees, penalties or late charges related thereto, as a result of any determination in connection with any contest with taxing authorities. Data Rights Owner shall not be responsible for any tax penalties, interest or other charges assessed due to Data User&#39;s negligence.
 
+8.11=<u>{8.11.Title}</u><br>{8.11.0}
+
 8.11.Title=Services Benchmarking
 
-8.11.1=As part of the Services, Registered Parties acting as Data Users shall organize and operate a program to enable comparison of its Services to those of other similar Data Users offering [similar services][Services under the same form of Agreement and the same Agreement Schedules] (the &ldquo;Benchmarking Program&rdquo;).&nbsp; The Benchmarking Program will be designed, developed and deployed in a manner that can best enable Data Rights Owners to compare Service quality, fees structures, and data leverage monetization results for both Vault Data and Circulating Data across different offerings of Data User services.
+8.11.0=As part of the Services, Registered Parties acting as Data Users shall organize and operate a program to enable comparison of its Services to those of other similar Data Users offering [similar services][Services under the same form of Agreement and the same Agreement Schedules] (the &ldquo;Benchmarking Program&rdquo;).&nbsp; The Benchmarking Program will be designed, developed and deployed in a manner that can best enable Data Rights Owners to compare Service quality, fees structures, and data leverage monetization results for both Vault Data and Circulating Data across different offerings of Data User services.
 
 <a href="#_edn83" name="_ednref" title="">[lxxxiii]</a>
+
+8.12=<u>{8.12.Title}</u><ol><li>{8.12.1}</li><li>{8.12.2}</li><li>{8.12.3}</li></ol>
 
 8.12.Title=Fee Reductions
 
@@ -464,14 +591,17 @@ MISNUMBERED IN THE ORIGINAL:
 <a href="#_edn85" name="_ednref" title="">[lxxxv]</a>
 
 
-8.13.Title=Payment Netting and Fee Offsets
+8.13=Payment Netting and Fee Offsets
 
 <a href="#_edn86" name="_ednref" title="">[lxxxvi]</a>
+
+8.14=<u>{8.14.Title}</u><br>{8.14.0}
 
 8.14.Title=Exclusive Payments; Responsibility for Costs
 
 8.14.0=The fees set forth in this Section 8 are the only payments to be made by any Registered Party to another under this Agreement. Except as explicitly provided for in this Agreement, a Registered Party acting as a Data User shall be solely responsible for, and shall indemnify and hold Data Rights Owner harmless against, all costs and expenses incurred by Data User that are necessary to meet Data User&#39;s obligations arising under this Agreement.
 
+8.15=<u>{8.15.Title}</u><br>{8.15.0}
 
 8.15.Title=Invoices
 
@@ -479,11 +609,16 @@ MISNUMBERED IN THE ORIGINAL:
 
 <a href="#_edn87" name="_ednref" title="">[lxxxvii]</a>
 
+8.16=<u>{8.16.Title}</u><br>{8.16.0}
+
+
 8.16.Title=Reports
 
 8.16.0=All invoices shall be prepared by Data User in a manner that shall provide Data Rights Owner with sufficiently detailed information to enable Data Rights Owner to trace the status of all payments under section 8, and to identify the types of data sources and data leverage opportunities that create the greatest value for Data Rights Owner and Data User, and shall present at least as much information as set forth in the sample Invoice and Data Leverage Report set forth at Schedule 8.16.
 
 <a href="#_edn88" name="_ednref" title="">[lxxxviii]</a>
+
+
 
 9.Title=Data User Resources
 
@@ -499,7 +634,7 @@ MISNUMBERED IN THE ORIGINAL:
 
 9.2.Title=Minimum Proficiency Levels
 
-9.2.0=Data User&#39;s personnel, if any, assigned by Data User to perform Data User&#39;s obligations under this Agreement shall have the training, experience, and expertise at least equal to the greater of (i) the highest commercial standards then currently applicable to such personnel for their responsibilities in the types of Service businesses in which Data User is engaged or (ii) the standards set forth at Schedule 9.2. &nbsp;[All such personnel shall also be required to be Registered Parties in their respective individual capacities before they can handle Vault Data and Circulating Data under this Agreement.]&nbsp; In addition, the Services overall shall conform to the highest commercial standards applicable to such Services in the business in which Data User is engaged.</p>
+9.2.0=Data User&#39;s personnel, if any, assigned by Data User to perform Data User&#39;s obligations under this Agreement shall have the training, experience, and expertise at least equal to the greater of (i) the highest commercial standards then currently applicable to such personnel for their responsibilities in the types of Service businesses in which Data User is engaged or (ii) the standards set forth at Schedule 9.2. &nbsp;[All such personnel shall also be required to be Registered Parties in their respective individual capacities before they can handle Vault Data and Circulating Data under this Agreement.]&nbsp; In addition, the Services overall shall conform to the highest commercial standards applicable to such Services in the business in which Data User is engaged.
 
 <a href="#_edn91" name="_ednref" title="">[xci]</a>
 <a href="#_edn92" name="_ednref" title="">[xcii]</a>
@@ -567,7 +702,7 @@ MISNUMBERED IN THE ORIGINAL:
 
 10.1.Title=Third Party Rights
 
-10.1.0.1=It shall be the responsibility of Data User to obtain all rights and licenses from third parties that are required for it to perform the Services. Data User grants to Data Rights Owner, and will cause to be granted, without cost to Data Rights Owner, such rights, permissions, licenses and sublicenses as may be necessary in order for Data Rights Owner to use the Services.</p>
+10.1.0.1=It shall be the responsibility of Data User to obtain all rights and licenses from third parties that are required for it to perform the Services. Data User grants to Data Rights Owner, and will cause to be granted, without cost to Data Rights Owner, such rights, permissions, licenses and sublicenses as may be necessary in order for Data Rights Owner to use the Services.
 
 10.1.0.2=In addition, following a Vault Data Portability Event [and Vault Data Release], Data User shall use its commercially reasonable best efforts to provide, or cause to be provided, to Data Rights Owner, such rights, licenses (including third party licenses, if sub licensable), and permissions as are necessary for Data Rights Owner to enjoy the use of the Services provided by another Data User.
 
@@ -613,7 +748,7 @@ MISNUMBERED IN THE ORIGINAL:
 
 11.6.1=This Agreement binds Registered Parties into a community as both Data Rights Owners and Data Users.&nbsp; As in any community, relationships vary among community members, and are occasionally terminated between particular members.&nbsp; Under this Agreement, Registered Parties can choose the parties with which they choose to interact pursuant to the Agreement terms.&nbsp; When those relationships don&rsquo;t work out, a Registered Party can choose to terminate their relationship with a particular Registered Party under this Agreement, while still maintaining such relationships with other Registered Parties.
 
-11.6.2=A Registered Party may choose to terminate their relationship with another particular Registered Party in its capacity as either a Data Rights Owner or a Data User.&nbsp; With respect to a particular terminating Registered Party, this Agreement will remain in effect, notwithstanding the occurrence of a Termination Event, with respect to any other Registered Party, until all duties and obligations of such Parties associated with Termination have been performed, discharged, or excused.&nbsp;</p>
+11.6.2=A Registered Party may choose to terminate their relationship with another particular Registered Party in its capacity as either a Data Rights Owner or a Data User.&nbsp; With respect to a particular terminating Registered Party, this Agreement will remain in effect, notwithstanding the occurrence of a Termination Event, with respect to any other Registered Party, until all duties and obligations of such Parties associated with Termination have been performed, discharged, or excused.&nbsp;
 <a href="#_edn108" name="_ednref" title="">[cviii]</a>
 
 11.6.3=In the event of a termination of this Agreement for any reason set forth in this section 11 or the expiration of the term of this Agreement, all Vault Data and Vault Meta Data shall be handled in the manner provided in section 12, and all payments shall be finalized pursuant to section __.
@@ -622,7 +757,7 @@ MISNUMBERED IN THE ORIGINAL:
 
 12.Title=Vault Data Portability Event and Vault Data Release
 
-12.0.1=Acknowledgement of Rights: To the extent that a Registered Party holds or has control of data that is Vault Data (including but not limited to Vault Meta-Data), the parties acknowledge and agree that all such Vault Data is held, maintained, managed, applied, transferred and otherwise used by Data User on a co-managed basis, on behalf of and for the benefit of Data Rights Owner.&nbsp;</p>
+12.0.1=Acknowledgement of Rights: To the extent that a Registered Party holds or has control of data that is Vault Data (including but not limited to Vault Meta-Data), the parties acknowledge and agree that all such Vault Data is held, maintained, managed, applied, transferred and otherwise used by Data User on a co-managed basis, on behalf of and for the benefit of Data Rights Owner.&nbsp;
 
 12.0.2=By contrast, to the extent that Data User holds or controls Circulating Data, the parties acknowledge and agree that all such Circulating Data is held by Data User on its own behalf, and that Data Rights Owner has no right, title or interest in or to such Circulating Data (subject to the responsibility of Data User to pay amounts to Data Rights Owner for its use of Circulating Data that was generated with Vault Data, calculated as set forth in section ___ of this Agreement), unless and until such Circulating data is subjected to &ldquo;re-identification&rdquo; processes, once again becoming Vault Data .
 
@@ -671,9 +806,9 @@ MISNUMBERED IN THE ORIGINAL:
 13.2.Title=Limitation of Liability
 
 
-13.0.1=IN NO EVENT SHALL ANY REGISTERED PARTY BE LIABLE TO THE OTHER FOR ANY PUNITIVE, SPECIAL, INDIRECT, INCIDENTAL OR CONSEQUENTIAL DAMAGES, INCLUDING, BUT NOT LIMITED TO, LOST PROFITS, LOST INCOME OR LOST REVENUE.</p>
+13.0.1=IN NO EVENT SHALL ANY REGISTERED PARTY BE LIABLE TO THE OTHER FOR ANY PUNITIVE, SPECIAL, INDIRECT, INCIDENTAL OR CONSEQUENTIAL DAMAGES, INCLUDING, BUT NOT LIMITED TO, LOST PROFITS, LOST INCOME OR LOST REVENUE.
 
-13.0.2=EXCEPT AS OTHERWISE EXPRESSLY PROVIDED BELOW, EACH REGISTERED PARTY&#39;S AGGREGATE CUMULATIVE LIABILITY HEREUNDER FOR ALL DIRECT DAMAGES ARISING UNDER OR RELATING TO THIS AGREEMENT NOTWITHSTANDING THE FORM &nbsp;OF SUCH ACTION (WHETHER IN CONTRACT, TORT, OR OTHERWISE), SHALL BE LIMITED TO DATA USER&#39;S NET REVENUE GENERATED BY DATA USER WITH RESPECT TO DATA (INCLUDING VAULT DATA, VAULT META DATA AND CIRCULATING DATA) THAT IS ASSOCIATED WITH DATA MADE AVAILABLE TO DATA USER AS A RESULT OF THE MAINTENANCE OF DATA RIGHTS OWNER&rsquo;S ACCOUNT.&nbsp; THE FOREGOING LIMITATION ON DATA USER&rsquo;S LIABILITY SHALL NOT APPLY TO CLAIMS FOR WHICH DATA USER OWES A PAYMENT TO DATA RIGHTS OWNER FOR BREACH OF A PARTICULAR ELS or CELS, CLAIMS THAT ARE SUBJECT TO INDEMNIFICATION BY DATA USER UNDER SECTION 20, OR CLAIMS WITH RESPECT TO A BREACH OF CONFIDENTIALITY OF VAULT DATA UNDER SECTION 17.8.</p>
+13.0.2=EXCEPT AS OTHERWISE EXPRESSLY PROVIDED BELOW, EACH REGISTERED PARTY&#39;S AGGREGATE CUMULATIVE LIABILITY HEREUNDER FOR ALL DIRECT DAMAGES ARISING UNDER OR RELATING TO THIS AGREEMENT NOTWITHSTANDING THE FORM &nbsp;OF SUCH ACTION (WHETHER IN CONTRACT, TORT, OR OTHERWISE), SHALL BE LIMITED TO DATA USER&#39;S NET REVENUE GENERATED BY DATA USER WITH RESPECT TO DATA (INCLUDING VAULT DATA, VAULT META DATA AND CIRCULATING DATA) THAT IS ASSOCIATED WITH DATA MADE AVAILABLE TO DATA USER AS A RESULT OF THE MAINTENANCE OF DATA RIGHTS OWNER&rsquo;S ACCOUNT.&nbsp; THE FOREGOING LIMITATION ON DATA USER&rsquo;S LIABILITY SHALL NOT APPLY TO CLAIMS FOR WHICH DATA USER OWES A PAYMENT TO DATA RIGHTS OWNER FOR BREACH OF A PARTICULAR ELS or CELS, CLAIMS THAT ARE SUBJECT TO INDEMNIFICATION BY DATA USER UNDER SECTION 20, OR CLAIMS WITH RESPECT TO A BREACH OF CONFIDENTIALITY OF VAULT DATA UNDER SECTION 17.8.
 
 13.3.Title=Force Majeure Events
 
@@ -773,7 +908,7 @@ MISNUMBERED IN THE ORIGINAL:
 
 19.1.1.Title= Performance of the Services
 
-19.1.1.0=Each Registered Party acting in their capacity as a Data User warrants that all Services provided hereunder will be performed in a good workmanlike manner and that materials and Services provided by Data User will conform to and perform in accordance with the specifications stated herein and in each Schedule, if applicable, and in all associated documentation.</p>
+19.1.1.0=Each Registered Party acting in their capacity as a Data User warrants that all Services provided hereunder will be performed in a good workmanlike manner and that materials and Services provided by Data User will conform to and perform in accordance with the specifications stated herein and in each Schedule, if applicable, and in all associated documentation.
 
 19.1.2.Title=Proprietary Rights Infringement
 
@@ -881,15 +1016,15 @@ MISNUMBERED IN THE ORIGINAL:
 <a href="#_edn136" name="_ednref" title="">[cxxxvi]</a>
 
 <p>SCHEDULES<br />
-&nbsp;</p>
+&nbsp;
 
-<p>SCHEDULE 2</p>
+<p>SCHEDULE 2
 
-<p>DEFINITIONS</p>
+<p>DEFINITIONS
 
-<p>[PLEASE NOTE:&nbsp; DEFINITIONS ARE NOT YET COMPLETED.&nbsp; THE DEFINITIONS IDENTIFIED TO DATE HAVE BEEN ALPHABETIZED AND HAVE STARTED TO BE MODIFIED, BUT ARE STILL IN DRAFT FORM.</p>
+<p>[PLEASE NOTE:&nbsp; DEFINITIONS ARE NOT YET COMPLETED.&nbsp; THE DEFINITIONS IDENTIFIED TO DATE HAVE BEEN ALPHABETIZED AND HAVE STARTED TO BE MODIFIED, BUT ARE STILL IN DRAFT FORM.
 
-<p>[PLEASE ALSO NOTE:&nbsp; DEFINITIONS HIGHLIGHTED IN GREEN ARE PART OF A SEPARATE PROCESS OF TECHNICAL SYSTEM INTEGRATION THAT IS INTENDED TO ENABLE AUTOMATION OF CONTRACT ADMINISTRATION PROCESSES FOR FUTURE SYSTEM MODIFICATIONS.&nbsp; FOR CURRENT REVIEW PURPOSES, PLEASE IGNORE THE GREEN HIGHLIGHTS]</p>
+<p>[PLEASE ALSO NOTE:&nbsp; DEFINITIONS HIGHLIGHTED IN GREEN ARE PART OF A SEPARATE PROCESS OF TECHNICAL SYSTEM INTEGRATION THAT IS INTENDED TO ENABLE AUTOMATION OF CONTRACT ADMINISTRATION PROCESSES FOR FUTURE SYSTEM MODIFICATIONS.&nbsp; FOR CURRENT REVIEW PURPOSES, PLEASE IGNORE THE GREEN HIGHLIGHTS]
 
 <p>A</p>
 
