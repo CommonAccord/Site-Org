@@ -1,0 +1,14 @@
+Model.Root={Sec}
+
+Sec=<u>Term and Termination</u>.&nbsp; <ol><li>{DurationOfDiscussion.Sec}</li><li>{DurationOfConfidentiality.Sec}</li><li>{Renewal.Sec}</li><li>{Stop.Sec}</li><li>{After.Sec}</li></ol>
+
+DurationOfDiscussion.Sec=<u>Period of Communication</u>.&nbsp;  The {Confidentiality Engagement} applies to {Confidential Information} revealed between the dates of {Conf.Begin.YMD} and {Conf.End.YMD}.
+
+DurationOfConfidentiality.Sec=<u>Duration of Confidentiality Engagement</u>. The {Confidentiality Engagement} will continue in effect until: <ol><li>all of the {Confidential Information} has become subject to a {Confidentiality Exception}; or</li><li>{Conf.Engage.End.YMD}, whichever comes first.</li></ol>
+
+Renewal.Sec=<u>Renewal</u>. {This Agreement} may be renewed by written mutual consent of the {parties} that clearly evidences that intent and specifies a term of the renewal.
+
+Stop.Sec=<u>Voluntary Termination</u>.  Either {party} may terminate {this Agreement} by giving a notice to the other {parties} in accordance with the notice provisions of {this Agreement}. The notice will be effective {Stop.Notice.Period} after it has been given.
+
+Stop.Sec=<u>Effect of Termination</u>.&nbsp; Following termination:<ol><li>the {Confidentiality Engagement}s do not apply to {Confidential Information} revealed after termination;</li><li>the {Confidentiality Engagement} continues to apply to {Confidential Information} revealed prior to termination; and</li><li>the following provisions of {this Agreement} survive and continue to apply even after termination: {Terms.Survive.Xrefs}.</ol>
+  

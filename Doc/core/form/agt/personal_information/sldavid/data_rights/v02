@@ -7,3 +7,8 @@ Misc.=[core/form/agt/personal_information/sldavid/data_rights/sec/Misc_Library]
 21=<u>DISPUTES</u><br><i>{Dispute.EN.ADR.1}</i>
 
 24=<i>{Misc._Sec}</i>
+
+Note=Eliminating the second sentence of Misc.Law, which was a sentence regarding the forum.
+
+Misc.Forum._Sen=<b></b>
+

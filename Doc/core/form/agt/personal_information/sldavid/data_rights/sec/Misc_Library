@@ -52,11 +52,13 @@ Sever.Title=Severability
 Sever.Intro=If any provision of this Agreement is determined to be invalid or unenforceable, that provision shall be considered to be removed from the Agreement and the remainder of the Agreement will continue in full force and effect insofar as it can still be interpreted to accomplish the original intent of the Parties.
 
 
-Law=<u>{Law.Title}</u><br>{Law.Intro}
+Law=<u>{Law.Title}</u><br>{Law._Sen} {Forum._Sen}
 
 Law.Title=Governing Law
 
-Law.Intro=This Agreement and the performance of the Parties hereunder shall be governed and construed in accordance with the substantive laws of {Dispute.Law.State.of}.&nbsp; All actions or proceedings arising out of, or related to, this Agreement shall be brought only in {Dispute.Forum._cl} and the Parties hereby consent to the jurisdiction of such courts over themselves and the subject matter of such actions or proceedings.
+Law._Sen=This Agreement and the performance of the Parties hereunder shall be governed and construed in accordance with the substantive laws of {Dispute.Law.State.of}.
+
+Forum._Sen=All actions or proceedings arising out of, or related to, this Agreement shall be brought only in {Dispute.Forum._cl} and the Parties hereby consent to the jurisdiction of such courts over themselves and the subject matter of such actions or proceedings.
 
 
 3Party=<u>{3Party.Title}</u><br>{3Party.Intro}

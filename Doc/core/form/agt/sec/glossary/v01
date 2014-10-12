@@ -1,0 +1,62 @@
+3.suit.or=claim, suit, action, demand{q} or proceeding
+
+
+Agreement={m-}Agreement{-m}
+
+This Agreement={m-}This Agreement{-m}
+
+this Agreement={m-}this Agreement{-m}
+
+
+Confidential Information={m-}Confidential Information{-m}
+
+The Confidential Information=The {Confidential Information}
+
+the Confidential Information=the {Confidential Information}
+
+Confidentiality Engagement={m-}Confidentiality Engagement{-m}
+
+Confidentiality Exception={m-}Confidentiality Exception{-m}
+
+Copyright={m-}Copyright{-m}
+
+Disclosing Party={m-}Disclosing Party{-m}
+
+The Disclosing Party=The {Disclosing Party}
+
+the Disclosing Party=the {Disclosing Party}
+
+Effective Date={m-}Effective Date{-m}
+
+Invention Disclosure={m-}Invention Disclosure{-m}
+
+IP Right={m-}IP Right{-m}
+
+Mark={m-}Mark{-m}
+
+Patent={m-}Patent{-m}
+
+Party={m-}Party{-m}
+
+party={m-}Party{-m}
+
+Parties={m-}Parties{-m}
+
+parties={m-}Parties{-m}
+
+Receiving Party={m-}Receiving Party{-m}
+
+The Receiving Party=The {Receiving Party}
+
+the Receiving Party=the {Receiving Party}
+
+Software={m-}Software{-m}
+
+Trade Secret={m-}Trade Secret{-m}
+
+mcolor=magenta
+
+m-=<font color="{mcolor}">
+
+-m=</font>
+                  
