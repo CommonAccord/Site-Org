@@ -1,0 +1,7 @@
+
+Kit.=[core/form/agt/model/NDA_DisputeSolutions_Current]
+
+=[doc/nda/Acme_Robinson_Model_NDA]
+
+
+Dispute.Forum.Sec={Kit.Dispute.ICC.1Arb.EN.ARB.1}
