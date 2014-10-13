@@ -32,11 +32,15 @@ Invention Disclosure={m-}Invention Disclosure{-m}
 
 IP Right={m-}IP Right{-m}
 
+Legal Requirement={m-}Legal Requirement{-m}
+
 Mark={m-}Mark{-m}
 
 Note={m-}Note{-m}
 
 Patent={m-}Patent{-m}
+
+Purpose={m-}Purpose{-m}
 
 Party={m-}Party{-m}
 
@@ -72,3 +76,4 @@ m-=<font color="{mcolor}">
 
 -m=</font>
                   
+  

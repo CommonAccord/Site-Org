@@ -14,7 +14,7 @@ WarnPersonnel.Sec={The Receiving Party} further agrees that prior to disclosing 
 
 Injunct.Sec={The Receiving Party} agrees to be responsible for any breach of {this Agreement} by it or {the Receiving Party's Personnel}.  {The Receiving Party} acknowledges that money damages would not be a sufficient remedy for any breach of this Section.  Accordingly, in the event of any such breach, in addition to any other remedies at law or in equity that {the Disclosing Party} may have, it shall be entitled to equitable relief, including injunctive relief or specific performance or both.
 
-Endure.Sec=Obligations in this Section shall, with respect to each disclosure of {Confidential Information} hereunder, continue for {Engage.Duration}.  Nothing herein is intended to limit or abridge the protection of trade secrets under applicable trade secrets law, and trade secrets shall be maintained as such until they fall into the public domain.
+Endure.Sec=Nothing herein is intended to limit or abridge the protection of trade secrets under applicable trade secrets law, and trade secrets shall be maintained as such until they fall into the public domain.
 
 Return.Sec=Upon completion or termination of {this Agreement} or upon request of {the Disclosing Party}, {the Receiving Party} shall promptly: <ol><li>return all {Confidential Information} disclosed to it; and</li><li>destroy (with such destruction certified in writing by {the Receiving Party}) all {Note}s, without retaining any copy thereof.</li></ol> No such termination of the Agreement or return or destruction of the {Confidential Information} and/or {Note}s will affect the confidentiality obligations of {the Receiving Party} all of which will continue in effect as provided in {this Agreement}.
 
@@ -35,4 +35,4 @@ Except.Compelled.Sec=<u>Compelled Disclosure</u>.  If a {Receiving Party} is sub
 Publicity.Sec=<u>Publicity</u>.  {The Receiving Party} shall not make any announcement or release any information concerning {this Agreement} or any part thereof or with respect to its business relationship with {the Disclosing Party}.
 
 
-            
+              

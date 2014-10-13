@@ -18,7 +18,7 @@ Prologue.NowTherefore=NOW THEREFORE, in consideration of the premises and promis
 
 AGT.Sign={Sign.Witness}<br>{Sign.Block}
 
-Sign.Witness=IN WITNESS WHEREOF, the {parties} have executed {this Agreement} to be effective as of {Agt.Effective.YMD}.
+Sign.Witness=IN WITNESS WHEREOF, the {parties} have executed {this Agreement} to be effective as of {AGT.Effective.YMD}.
 
 Sign.Block=<table><tr><td valign='top'>{P1.Sign.Block}</td><td></td><td valign='top'>{P2.Sign.Block}</td></tr></table>
-        
+          

@@ -1,0 +1,30 @@
+=[core/form/agt/model/NDA_US_Litigation]
+
+P1.=[core/id/acme_incorporated]
+P1.Handle=Acme
+
+P2.=[core/id/quake_incorporated]
+P2.Handle=Quake
+mcolor=black
+ncolor=magenta
+Prologue.Recital=<font color='{ncolor}'>{P1.Handle} and {P2.Handle} wish to discuss a business collaboration in which {P2.Handle} will commercialize {P1.Handle}'s products (the "{Purpose}")<br>In connection with the {Purpose}, they anticipate sharing {Confidential Information}.  Each {party} is a {Receiving Party} with respect to the information of the other {party}.</font>
+
+MessageToReader=Final
+
+AGT.Effective.YMD=<font color='{ncolor}'>October 13, 2014</font>
+
+Conf.Discuss.Begin.YMD=<font color='{ncolor}'>October 1, 2014</font>
+Conf.Discuss.End.YMD=<font color='{ncolor}'>December 31, 2014</font>
+Conf.Engage.End.YMD=<font color='{ncolor}'>December 31, 2017</font>
+Term.End.YMD=<font color='{ncolor}'>December 31, 2015</font>
+Stop.Notice.Period=<font color='{ncolor}'>three business days</font>
+ 
+Dispute.Law.State.of=<font color='{ncolor}'>the Commonwealth of Massachusetts</font>
+Dispute.Forum._cl=<font color='{ncolor}'>the state and federal courts with jurisdiction for Suffolk County, Massachusetts</font>
+
+P1.xSignature=xANDREA ANG
+P1.Sign.YMD=September 8, 2014
+
+P2.xSignature=xROBERTA
+P2.Sign.YMD=September 9, 2014
+                                                
