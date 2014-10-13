@@ -2,6 +2,8 @@ Kit.=[core/form/agt/model/NDA_DisputeSolutions_Current]
 
 =[doc/nda/Acme_Robinson_Model_NDA]
 
-
-Dispute.Forum.Sec={m-}{Kit.Dispute.ICC.1Arb.FR.ARB.1}{-m}
-  
+MessageToReader=French!
+ncolor=black
+ocolor=magenta
+Dispute.Forum.Sec=<font color='{ocolor}'>{Kit.Dispute.ICC.1Arb.FR.ARB.1}</font>
+      
