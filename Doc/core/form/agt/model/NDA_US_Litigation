@@ -1,0 +1,7 @@
+=[core/form/agt/model/Current]
+
+Dispute.Forum.=[core/form/agt/sec/dispute/forum/court_us/Current]
+
+AGT.Secs={Conf.Sec}</li><li>{Time.Sec}</li><li>{Limit.Sec}</li><li>{Dispute.Sec}</li><li>{Remedy.Sec}</li><li>{Misc.Sec}
+
+                                      
