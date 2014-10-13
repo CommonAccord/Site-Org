@@ -6,11 +6,11 @@ P2.xSignature=xALICE
 
 P2.Sign.YMD=August 4, 2014
 
-P1.=[me/medical_wallet/id/Agate]
+P1.=[doc/roi/id/Agate]
 
-P2.=[me/medical_wallet/id/Alice]
+P2.=[doc/roi/id/Alice]
 
-=[me/medical_wallet/form/General_Library]
+=[doc/roi/ppr/General_Library]
 
 DocBody={Register_with_UMA_AS} 
            

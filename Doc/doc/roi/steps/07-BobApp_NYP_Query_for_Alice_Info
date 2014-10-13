@@ -1,0 +1,11 @@
+=[doc/roi/ppr/General_Library]
+
+P1.=[doc/roi/id/BobApp]
+
+P2.=[doc/roi/id/NYP]
+
+P3.=[doc/roi/id/Alice]
+
+DocBody={Query_for_Resource_Owner_Info}
+
+    

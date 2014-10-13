@@ -1,7 +1,7 @@
 Personal Data:
 		
 Intro=Managing personal information is a major responsibility for organizations.  There are complex legal requirements, technical infrastructures and use-cases.  The legal side of this can be made more tractable by sharing and structuring text.  It can be used to get all of the relevant actors "on the same page."  That would include the direct participants - the managers, employees, clients and suppliers of the organization.  By sharing text, it could also include peer organizations, trade groups and regulators. 
-Example=<a href="http://www.commonaccord.org/index.php?action=list&file=Doc/me/medical_wallet/steps/">me/medical_wallet/steps</a>
+Example=<a href="http://www.commonaccord.org/index.php?action=list&file=Doc/doc/roi/steps/">doc/roi/steps</a>
 MasterServices.=[core/form/agt/master/sec/personaldata/PD_Sec]
 
 TermsOfUse.=[core/form/agt/web/tou/userContent/UC_Sec]

@@ -1,6 +1,6 @@
 Title=Cranial Xray
 Time=2014-07-28H07:55
-RO.=[me/medical_wallet/id/Alice]
+RO.=[doc/roi/id/Alice]
 Data=0101101101110110101010100001011
 Summary={Title}<br>{Time}
 

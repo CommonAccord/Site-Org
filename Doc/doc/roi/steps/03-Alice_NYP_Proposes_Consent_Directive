@@ -1,10 +1,10 @@
-CD.P1.=[me/medical_wallet/id/NYP]
+CD.P1.=[doc/roi/id/NYP]
 
-CD.P2.=[me/medical_wallet/id/Alice]
+CD.P2.=[doc/roi/id/Alice]
 
-CD.P3.=[me/medical_wallet/id/Agate]
+CD.P3.=[doc/roi/id/Agate]
 
-=[me/medical_wallet/form/General_Library]
+=[doc/roi/ppr/General_Library]
 
 DocBody={CD.DocBody}
 
