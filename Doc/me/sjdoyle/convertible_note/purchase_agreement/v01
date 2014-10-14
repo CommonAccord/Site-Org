@@ -4,8 +4,6 @@ DocBody=<center><b>{AGT.Title}</b></center><br><br>{0}<ol><li>{1}</li><li>{2}</l
 
 AGT.Title=NOTE PURCHASE AGREEMENT
 
-Co.Handle=Company
-
 0={Prologue.ThisAgreement}<ul><li>{Recital}</li></ul>{NowTherefore}
 
 Prologue.ThisAgreement=THIS NOTE PURCHASE AGREEMENT (as amended, restated or otherwise modified from time to time, this “Agreement”) is made as of {AGT.Effective.YMD}, by and among {Co.N,E,A} (the “Company”), and the Lenders (as defined below). </p>
@@ -44,11 +42,11 @@ NowTherefore=The parties hereto desire to set forth the terms and conditions rel
 3.0=As an inducement to the Lenders to enter into the transactions contemplated by this Agreement, the Company hereby represents and warrants to each Lender as follows
 
 
-3.1=<u>{3.1.Title}</u><br>{3.1.0}<ol><li>{3.1.1};</li><li>{3.1.2}; and</li><li>{3.1.3}.</li></ol> 
+3.1=<u>{3.1.Title}</u><br>{3.1.0}:<ol><li>{3.1.1};</li><li>{3.1.2}; and</li><li>{3.1.3}.</li></ol> 
 
 3.1.Title=Organization and Standing
 
-3.1.0=The Company:
+3.1.0=The Company
 
 3.1.1=is a corporation duly organized, validly existing and in good standing under the laws of the State of Delaware
 
@@ -133,7 +131,7 @@ NowTherefore=The parties hereto desire to set forth the terms and conditions rel
 
 6.Title=Conditions of the Company’s Obligations at the Closings
 
-6.0=The obligations of the Company under Section 1 of this Agreement at each Closing are subject to the fulfillment at or before such Closing of the following condition, which may be waived in writing by the Company:
+6.0=The obligations of the Company under Section 1 of this Agreement at each Closing are subject to the fulfillment at or before such Closing of the following condition, which may be waived in writing by the Company
 
 6.1=<u>Representations and Warranties</u><br>The representations and warranties of the Lenders contained in Section 4 shall be true on and as of the applicable Closing, with the same effect as if made on and as of the applicable Closing.
 
@@ -154,7 +152,7 @@ NowTherefore=The parties hereto desire to set forth the terms and conditions rel
 
 8.1=<u>Expenses</u><br>Each party hereto will pay its own expenses in connection with the transactions contemplated hereby.
 
-8.2=<u>Governing Law</u><br>This Agreement shall be governed by, and be construed in accordance with, the laws of the Commonwealth of Massachusetts, excluding those laws that direct the application of the laws of another jurisdiction.
+8.2=<u>Governing Law</u><br>This Agreement shall be governed by, and be construed in accordance with, the laws of the {Dispute.Law.State.of}, excluding those laws that direct the application of the laws of another jurisdiction.
 
 8.3=<u>Successors and Assigns</u><br>Except as otherwise provided herein, the provisions hereof shall inure to the benefit of and be binding upon the successors, assigns, heirs, executors and administrators of the parties hereto.
 
@@ -179,9 +177,9 @@ NowTherefore=The parties hereto desire to set forth the terms and conditions rel
 
 8.6.Title=Legends
 
-8.6.1={8.6.1.0}<br><span style="text-transform: uppercase">{8.6.1.1}</span>
+8.6.1={8.6.1.0}:<br><span style="text-transform: uppercase">{8.6.1.1}</span>
 
-8.6.1.0=All certificates for the Securities shall bear a legend substantially similar to the following:
+8.6.1.0=All certificates for the Securities shall bear a legend substantially similar to the following
 
 8.6.1.1=The securities represented hereby have not been registered under the Securities Act of 1933, as amended (“Act”).  Such securities may not be transferred unless a Registration Statement under the Act is in effect as to such transfer or, in the opinion of counsel for the Company, registration under the Act is unnecessary in order for such transfer to comply with the Act or unless sold pursuant to Rule 144 of the Act.”
 
@@ -192,4 +190,4 @@ NowTherefore=The parties hereto desire to set forth the terms and conditions rel
 AGT.Sign={Sign.Witness}<br>{Co.Sign.Block}
 Sign.Witness=IN WITNESS WHEREOF, the parties have executed this Agreement as of the day and year first above written.
 
-                            
+                                  
