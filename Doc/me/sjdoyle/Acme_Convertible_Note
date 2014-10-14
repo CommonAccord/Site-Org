@@ -1,0 +1,16 @@
+=[me/sjdoyle/convertible_note/purchase_agreement/v01]
+Co.=[core/id/acme_incorporated]
+
+
+AGT.Effective.YMD={Co.Sign.YMD}
+Note.Principal.Aggregate.$=$1,000,000
+Co.Cap.Common.Authorized.Shares.Quantity=Ten Million
+Co.Cap.Common.Par.$=$0.01
+Co.Cap.Common.Outstanding.Shares.Quantity=Two Million
+Co.Cap.Preferred.Authorized.Shares.Quantity=One Million
+Co.Cap.Preferred.Par.$=$0.01
+Co.Cap.Preferred.Outstanding.Shares.Quantity=Five Hundred Thousand
+Co.BalanceSheet.YMD=June 30, 2014
+Co.xSignature=xANDREA ANG
+Co.Sign.YMD=October 14, 2014
+          

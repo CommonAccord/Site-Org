@@ -58,7 +58,7 @@ The Receiving Party=The {Receiving Party}
 
 the Receiving Party=the {Receiving Party}
 
-the Receiving Party's Personnel={m-}the Receiving Party's Personnel{-m}
+the Receiving Party's Personnel={m-}{the Receiving Party}'s Personnel{-m}
 
 Secrecy and Inventions Agreement={m-}Secrecy and Inventions Agreement{-m}
 
@@ -76,4 +76,4 @@ m-=<font color="{mcolor}">
 
 -m=</font>
                   
-  
+        
