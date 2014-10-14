@@ -9,13 +9,6 @@ Co.Handle=Company
 
 Inv.Handle=Holder
 
-This Note=-
-Note.Principal.$=$100,000
-Note.Issue.YMD=October 15, 2014
-Note.Sequence.#=1
-Inv.xSignature=xCOLLEEN KENDALL
-Inv.Sign.YMD=October 15, 2014
-
 The Offering=-
 Note.Interest.%=8%
 Note.Maturity.YMD=September 30, 2016
@@ -40,4 +33,4 @@ Co.BalanceSheet.YMD=June 30, 2014
 Co.xSignature=xANDREA ANG
 Co.Sign.YMD=October 14, 2014
 
-                            
+                              
