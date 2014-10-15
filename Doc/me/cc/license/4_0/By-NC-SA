@@ -1,11 +1,5 @@
 Title=Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License
-  
-m-=<font color='{acolor}'>
-
--m=</font>
-
-acolor=magenta      
-
+ 
 
 Model.Root={DocBody}
 
@@ -61,9 +55,9 @@ s2a1={s2a1.0}:<ol type='A'><li>{s2a1A}; and</li><li>{s2a1B}.</li></ol>
 
 s2a1.0=Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to
 
-s2a1A=reproduce and Share the Licensed Material, in whole or in part{m-}, for NonCommercial purposes only{-m}
+s2a1A=reproduce and Share the Licensed Material, in whole or in part, for NonCommercial purposes only
 
-s2a1B=produce, reproduce, and Share Adapted Material{m-} for NonCommercial purposes only{-m}
+s2a1B=produce, reproduce, and Share Adapted Material for NonCommercial purposes only
 
 s2a2=<span style="text-decoration: underline;">Exceptions and Limitations</span>. For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.
 
@@ -226,4 +220,11 @@ s8b=To the extent possible, if any provision of this Public License is deemed un
 s8c=No term or condition of this Public License will be waived and no failure to comply consented to unless expressly agreed to by the Licensor.
 
 s8d=Nothing in this Public License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to the Licensor or You, including from the legal processes of any jurisdiction or authority.
-                
+
+m-=<font color='{acolor}'>
+
+-m=</font>
+
+acolor=magenta      
+
+                  
