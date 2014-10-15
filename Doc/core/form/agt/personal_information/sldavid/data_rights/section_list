@@ -1,0 +1,3 @@
+Model.Root={DocBody}
+
+DocBody=<center>{Heading}</center><br>{0}<ol><li>{Purpose}</li><li>{Def}</li><li>{Services}</li><li>{ServiceLevels}</li><li>{DataUserResources}</li><li>{SecurityObligations}</li><li>{RightsOwnerAuthority}</li><li>{Financial}</li><li>{DataUserResources}</li><li>{VaultOwnershipRights}</li><li>{Term}</li><li>{VaultPortability}</li><li>{Default}</li><li>{Insurance}</li><li>{ReportsToDataRightsOwner}</li><li>{Records}</li><li>{Confidentiality}</li><li>{Compliance}</li><li>{Reps}</li><li>{Indemnification}</li><li>{Dispute}</li><li>{Publicity}</li><li>{Affiliates}</li><li>{Miscellaneous}</li></ol>
