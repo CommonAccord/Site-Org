@@ -1,12 +1,19 @@
-/Note=From Google's Privacy Policy -  http://www.google.com/policies/privacy/ (visited 2014-10-15)<br>The first commit of this is simply a scrape of the major headings (with some additions bz of what seemed to me  to be variations in the use of headings. 
+/Note=Intended to inform a taxonomy for privacy agreements.
 
-infocollect=Information we collect
-infouse=How we use information we collect
-infochoices=Transparency and choice
-infosharing=Information you share
+/Note=From Google's Privacy Policy -  http://www.google.com/policies/privacy/ (visited 2014-10-15)
+
+Model.Root={DocBody}
+DocBody={Heading}{SectionList}
+
+SectionList=<ol><li>{collect}</li><li>{use}</li><li>{choices}</li><li>{sharing}</li><li>{access}</li><li>{nosharing}</li><li>{security}</li><li>{application}</li><li>{enforcement}</li><li>{policychanges}</li><li>{products}</li><li>{related}</li><li>{example}</li><li>{safe}</li><li>{more}</li></ol>
+  
+collect=<u>Information we collect</u><ol><li>{collect.youProvide}</li><li>{collect.weObserve}</li></ol>
+use=How we use information we collect
+choices=Transparency and choice
+sharing=Information you share
 access=Accessing and updating your personal information
 nosharing=Information we share
-infosecurity=Information security
+security=Information security
 application=When this Privacy Policy applies
 enforcement=Compliance and cooperation with regulatory authorities
 policychanges=Changes
@@ -15,3 +22,4 @@ related=Other useful privacy and security related materials
 example=Example
 safe=Keeping the web safe for everyone is a shared responsibility. 
 more=More information
+    

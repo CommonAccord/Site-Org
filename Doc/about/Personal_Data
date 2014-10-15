@@ -1,13 +1,18 @@
 Personal Data:
 		
-Intro=Managing personal information is a major responsibility for organizations.  There are complex legal requirements, technical infrastructures and use-cases.  The legal side of this can be made more tractable by sharing and structuring text.  It can be used to get all of the relevant actors "on the same page."  That would include the direct participants - the managers, employees, clients and suppliers of the organization.  By sharing text, it could also include peer organizations, trade groups and regulators. 
+Intro=Managing personal information is a major responsibility for organizations.  There are complex legal requirements, technical infrastructures and use-cases.  The legal side of this can be made more tractable by sharing and structuring text.  Structured text can be used to get all of the relevant actors "on the same page."  That would include the direct participants - the managers, employees, clients and suppliers of the organization.  By sharing text, it could also include peer organizations, trade groups and regulators. 
 Example=<a href="http://www.commonaccord.org/index.php?action=list&file=Doc/doc/roi/steps/">doc/roi/steps</a>
+
 MasterServices.=[core/form/agt/master/sec/personaldata/PD_Sec]
 
-TermsOfUse.=[core/form/agt/web/tou/userContent/UC_Sec]
+Terms of Use.=[core/form/agt/web/tou/userContent/UC_Sec]
   
-PrivacyPolicy.=[core/form/agt/web/privacy/form_1]
+Privacy Policy.=[core/form/agt/web/privacy/form_1]
 
-Model.Root=<ol><li>{MasterServices._Sec}</li><li>{TermsOfUse._Sec}</li><li>{PrivacyPolicy.Model.Root}</li></ol>
+An Outline=[core/form/policy/personal_information/com_google/Privacy]
 
-			      
+Distributed MSA=<a href="http://www.commonaccord.org/index.php?action=list&file=Doc/core/form/agt/personal_information/sldavid/">form/agt/personal_information/sldavid/</a>
+
+Model.Root=<ol><li>{MasterServices._Sec}</li><li>{Terms of Use._Sec}</li><li>{Privacy Policy.Model.Root}</li></ol>
+
+			          
