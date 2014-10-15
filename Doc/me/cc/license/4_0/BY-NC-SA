@@ -66,10 +66,6 @@ s2a3=<span style="text-decoration: underline;">Term</span>. The term of this Pub
 s2a4=<span style="text-decoration: underline;">Media and formats; technical modifications allowed</span>. The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section 2(a)(4) never produces Adapted Material.
 
 
-s2a5b=<span style="text-decoration: underline;">Additional offer from the Licensor - Adapted Material</span>. Every recipient of Adapted Material from You automatically receives an  offer from the Licensor to exercise the Licensed Rights in the Adapted Material under the conditions of the Adapter's License You apply.
-
-
-
 s2a5={s2a5.0}<ol type='A'><li>{s2a5A}</li><li>{s2a5B}</li><li>{s2a5C}</li></ol>
 
 s2a5.0=<span style="text-decoration: underline;">Downstream recipients</span>.
@@ -227,4 +223,4 @@ m-=<font color='{acolor}'>
 
 acolor=magenta      
 
-                    
+                      
