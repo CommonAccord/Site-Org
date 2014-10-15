@@ -1,6 +1,7 @@
-Model.Root={ListOfDuties}
+=[core/form/agt/personal_information/sldavid/map/support]
+EU.=[core/form/agt/personal_information/sldavid/map/EU]
 
-Nation=Sweden
+Source=Sweden
 
 Duty.1={Shall} is only processed if it is lawful.
 Duty.2={Shall} is processed in a proper manner and in accordance
@@ -14,5 +15,5 @@ Duty.9={Shall} is not kept for a longer period than is necessary.
 
 Shall=The controller shall, inter alia, ensure that personal data
 
-ListOfDuties=<ol><li>{Duty.1}</li><li>{Duty.2}</li><li>{Duty.3}</li><li>{Duty.4}</li><li>{Duty.5}</li><li>{Duty.6}</li><li>{Duty.7}</li><li>{Duty.8}</li></ol>
-  
+Duty.List={Duty.0-9}<hr>{EU.1.Duty.List}
+    
