@@ -10,7 +10,7 @@
 <hr>
 <h3 class="title">CommonAccord is an open source software<br/> and law project.</h1>
 <hr>
-<h3 class="title">We are lawyers and programmers working together<br/> to create a global template system of codified legal texts.</h4>
+<h3 class="title">lawyers and programmers collaborating on<br/> a global system of codified law.</h4>
 <br/><br/>
 
 <!--
@@ -22,8 +22,9 @@
 
     <div id="info-more">
         <h4 class="subtitle">Explore <a href=<?=$_SERVER['PHP_SELF']?>?action=explore>the objects of law</a></h4>
+<h4 class="subtitle">Applying source methods to open source licenses <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/me/cc/license/4_0/>Creative Commons Licenses</a></h4>   
    <h4 class="subtitle">Startup in a Box <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/me/startup/>an "object" for a startup company</a></h4>
-<h4 class="subtitle">Privacy <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/me/medical_wallet/steps/>medical patient's document wallet</a></h4>   
+<h4 class="subtitle">Privacy <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/doc/roi/steps/>medical patient's document wallet</a></h4>   
  
        <h4 class="subtitle">Learn <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/about/how/>how it works</a>.</h4>
         <h4 class="subtitle">See <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/doc/>some deals</a>.</h4>
