@@ -1,0 +1,27 @@
+=[me/cc/license/4_0/By]
+
+Title=Creative Commons Attribution-NoDerivatives 4.0 International Public License
+  
+/Note=removing sec s1b:
+s1=<u>{s1.Title}</u><ol type='a'><li>{s1a}</li><li>{s1c}</li><li>{s1d}</li><li>{s1e}</li><li>{s1f}</li><li>{s1g}</li><li>{s1h}</li><li>{s1i}</li><li>{s1j}</li><li>{s1k}</li></ol>
+
+/Note=was produce, reproduce, and Share Adapted Material.
+s2a1B={m-}produce and reproduce, but not Share, Adapted Material{-m}
+
+/Note=was: If You Share the Licensed Material (including in modified form), You must
+s3a1.0={m-}If You Share the Licensed Material, You must{-m}
+
+s3a1.91=For the avoidance of doubt, You do not have permission under this Public License to Share Adapted Material.
+
+/Note=eliminating s3a4
+
+s3a=<u>{s3a.Title}</u><ol><li>{s3a1}</li><li>{s3a2}</li><li>{s3a3}</li></ol>
+
+/Note=adding the phrase ", provided You do not Share Adapted Material"
+
+s4a=for the avoidance of doubt, Section 2(a)(1) grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database{m-}, provided You do not Share Adapted Material{-m}
+
+m-=<font color='{acolor}'>
+
+-m=</font>
+acolor=magenta      

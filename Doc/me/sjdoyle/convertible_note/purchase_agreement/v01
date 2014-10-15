@@ -1,4 +1,6 @@
 Model.Root={DocBody}
+m-=<font color='{acolor}'>
+-m=</font>
 
 DocBody=<center><b>{AGT.Title}</b></center><br><br>{0}<ol><li>{1}</li><li>{2}</li><li>{3}</li><li>{4}</li><li>{5}</li><li>{6}</li><li>{7}</li><li>{8}</li></ol> {AGT.Sign}
 
@@ -6,13 +8,13 @@ AGT.Title=NOTE PURCHASE AGREEMENT
 
 0={Prologue.ThisAgreement}<ul><li>{Recital}</li></ul>{NowTherefore}
 
-Prologue.ThisAgreement=THIS NOTE PURCHASE AGREEMENT (as amended, restated or otherwise modified from time to time, this “Agreement”) is made as of {AGT.Effective.YMD}, by and among {Co.N,E,A} (the “Company”), and the Lenders (as defined below). </p>
+Prologue.ThisAgreement=THIS NOTE PURCHASE AGREEMENT (as amended, restated or otherwise modified from time to time, this “Agreement”) is made as of {m-}{AGT.Effective.YMD}{-m}, by and among {m-}{Co.N,E,A}{-m} (the “Company”), and the Lenders (as defined below). </p>
 
 Recital=<u>{Recital.Title}</u><br>{Recital.1}
 
 Recital.Title=RECITALS
 
-Recital.1=The Company is issuing to the Lenders pursuant to the terms of this Agreement convertible secured promissory notes, in substantially the form set forth on <u>Exhibit A</u> hereto, in an aggregate principal amount of up to {Note.Principal.Aggregate.$} (as amended, restated or otherwise modified from time to time, the “Notes”).
+Recital.1=The Company is issuing to the Lenders pursuant to the terms of this Agreement convertible secured promissory notes, in substantially the form set forth on <u>Exhibit A</u> hereto, in an aggregate principal amount of up to {m-}{Note.Principal.Aggregate.$}{-m} (as amended, restated or otherwise modified from time to time, the “Notes”).
 
 NowTherefore=The parties hereto desire to set forth the terms and conditions relating to the issuance of the Notes.
 
@@ -64,16 +66,16 @@ NowTherefore=The parties hereto desire to set forth the terms and conditions rel
 
 3.3.0=The Company has a total authorized capitalization consisting of
 
-3.3.1={Co.Cap.Common.Authorized.Shares.Quantity} shares of Common Stock, {Co.Cap.Common.Par.$} par value per share (“Common Stock”), of which {Co.Cap.Common.Outstanding.Shares.Quantity} shares are issued and outstanding
+3.3.1={m-}{Co.Cap.Common.Authorized.Shares.Quantity}{-m} shares of Common Stock, {m-}{Co.Cap.Common.Par.$}{-m} par value per share (“Common Stock”), of which {m-}{Co.Cap.Common.Outstanding.Shares.Quantity}{-m} shares are issued and outstanding
 
-3.3.2={Co.Cap.Preferred.Authorized.Shares.Quantity} shares of Preferred Stock,  {Co.Cap.Preferred.Par.$} par value per share, all of which shares are designated as Series A Cumulative Redeemable Convertible Preferred Stock (“Series A Preferred Stock”), of which {Co.Cap.Preferred.Outstanding.Shares.Quantity} are issued and outstanding on the date hereof
+3.3.2={m-}{Co.Cap.Preferred.Authorized.Shares.Quantity}{-m} shares of Preferred Stock,  {m-}{Co.Cap.Preferred.Par.$}{-m} par value per share, all of which shares are designated as Series A Cumulative Redeemable Convertible Preferred Stock (“Series A Preferred Stock”), of which {m-}{Co.Cap.Preferred.Outstanding.Shares.Quantity}{-m} are issued and outstanding on the date hereof
 
 
 3.4=<u>{3.4.Title}</u><br>{3.4.1.Sen}  {3.4.2.Sen}
 
 3.4.Title=Financial Statements
 
-3.4.1.Sen= The Company has delivered to the Lenders the unaudited balance sheet of the Company as of {Co.BalanceSheet.YMD}, and the related unaudited consolidated statements of operations, cash flows and stockholders’ equity for the twelve months then ended (the “Financial Statements”).
+3.4.1.Sen= The Company has delivered to the Lenders the unaudited balance sheet of the Company as of {m-}{Co.BalanceSheet.YMD}{-m}, and the related unaudited consolidated statements of operations, cash flows and stockholders’ equity for the twelve months then ended (the “Financial Statements”).
 
 3.4.2.Sen=The Financial Statements fairly and accurately present the Company’s financial position as of those dates and the results of operations and changes in its financial position for such periods then ended, and have been prepared in accordance with United States generally accepted accounting principles applied on a consistent basis.  Except as disclosed in writing to the Lenders and for economic factors generally, there has been no material adverse change in the Company’s business or results of operations since the date of the most recent Financial Statements. 
 
@@ -152,7 +154,7 @@ NowTherefore=The parties hereto desire to set forth the terms and conditions rel
 
 8.1=<u>Expenses</u><br>Each party hereto will pay its own expenses in connection with the transactions contemplated hereby.
 
-8.2=<u>Governing Law</u><br>This Agreement shall be governed by, and be construed in accordance with, the laws of the {Dispute.Law.State.of}, excluding those laws that direct the application of the laws of another jurisdiction.
+8.2=<u>Governing Law</u><br>This Agreement shall be governed by, and be construed in accordance with, the laws of the {m-}{Dispute.Law.State.of}{-m}, excluding those laws that direct the application of the laws of another jurisdiction.
 
 8.3=<u>Successors and Assigns</u><br>Except as otherwise provided herein, the provisions hereof shall inure to the benefit of and be binding upon the successors, assigns, heirs, executors and administrators of the parties hereto.
 
@@ -190,4 +192,4 @@ NowTherefore=The parties hereto desire to set forth the terms and conditions rel
 AGT.Sign={Sign.Witness}<br>{Co.Sign.Block}
 Sign.Witness=IN WITNESS WHEREOF, the parties have executed this Agreement as of the day and year first above written.
 
-                                  
+                                      
