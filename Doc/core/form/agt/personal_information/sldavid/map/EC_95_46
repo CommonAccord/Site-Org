@@ -14,4 +14,6 @@ Duty.4={StateShall} accurate and, where necessary, kept up to date; every reason
  
 Duty.5={StateShall} kept in a form which permits identification of data subjects for no longer than is necessary for the purposes for which the data were collected or for which they are further processed. Member States shall lay down appropriate safeguards for personal data stored for longer periods for historical, statistical or scientific use.
 
-StateShall=Member States shall provide that personal data must be 
+StateShall={m-}Member States shall provide that personal data must be{-m}
+
+  
