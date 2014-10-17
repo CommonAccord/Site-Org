@@ -1,12 +1,3 @@
-=[core/form/agt/master/sec/Xnum_Library]
-
-=[core/form/agt/master/sec/Definition_Terms_Marked]
-
-=[core/class/Doc_Table]
-
-=[core/class/AGT_Frame]
-
-mcolor=red
 Engage.=[core/form/agt/master/sec/Engage_Library]
 
 Term.=[core/form/agt/master/sec/Term_Library]
@@ -49,6 +40,16 @@ Notice.=[core/form/agt/master/sec/Notice_Library]
 
 Miscellaneous.=[core/form/agt/master/sec/Miscellaneous_Library]
 
+=[core/form/agt/master/sec/Xnum_Library]
+
+=[core/form/agt/master/sec/Definition_Terms_Marked]
+
+=[core/class/Doc_Table]
+
+=[core/class/AGT_Frame]
+
+mcolor=red
+
 =[core/form/agt/master/sec/Definition_Library]
 
 Attach.B.=[core/form/agt/master/attach/B_NDA]
@@ -74,4 +75,4 @@ Signature.Witness=In Witness Whereof, the parties hereto have caused this Agreem
 
 AGT.Attach=<hr><hr><center><b>Exhibit {AGT.Exh.A}</b></center><hr><hr><center><b>Exhibit {AGT.Exh.B}</b></center>{Attach.B.DocBody}<hr><hr><center><b>Exhibit {AGT.Exh.C}</b></center><hr><hr><center><b>Exhibit {AGT.Exh.D}</b></center>
 
-		                        
+		                          
