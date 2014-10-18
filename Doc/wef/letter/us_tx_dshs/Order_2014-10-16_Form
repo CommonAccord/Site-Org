@@ -1,12 +1,12 @@
 /Note=From < href="http://www.nytimes.com/interactive/2014/10/18/us/ebola-doc-healthcare.html">Original</a>
 /Moved specific info to=[wef/letter/us_tx_dshs/Order_2014-10-16_By_DSHS]
-/Note=in the original there is no place to print the name of the HCW. 
+/Note=Added name of HCW. 
 /Note=in the original there is instability in the use of ; and .
 /Note=P2 is the party to whom addressed, P3 is the witness.  On the form these appear in reverse sequence.
 
 P1.Sign=<table width="60%"><tr><td width="45%">{P1.xSignature}<br>{P1.Best.Name.Full}<br>{P1.Best.Title}<br>{P1.Name.Full}</td><td valign="top" width="15%">{P1.Sign.YMD}</td></tr></table>
-P3.Sign=Presented to HCW by:  {P3.Name,Title} Name and title<br> {P3.xSignature} Signature {P3.Sign.YMD} Date
-P2.Sign={P2.xSignature}  Acknowledgement of Receipt by HCW<br>{P2.Sign.YMD} Date<br>
+P3.Sign=Presented to HCW by (Name and title):  {P3.Name,Title}<br> Signature:  {P3.xSignature}<br>Date:{P3.Sign.YMD}
+P2.Sign=Acknowledgement of Receipt by HCW: {P2.Name.Full}<br> Signature:  {P2.xSignature}<br>Date: {P2.Sign.YMD}
 
 =[core/class/Doc_Table]
 
@@ -35,4 +35,4 @@ Measure.Enforcement=Any HCW that does not adhere to monitoring or any of these o
 
 
   
-                                                        
+                                                              
