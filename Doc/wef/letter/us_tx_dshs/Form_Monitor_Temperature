@@ -1,7 +1,7 @@
-DocBody={Monitor.Letterhead}<br><br>{Report}<br><br>{Best.Sign.Block}
+DocBody={Monitor.Letterhead}<br><br>{Report}<br><br>{Signature}
 
 Report=As of {YMD:T}, the patient {P2.Name.Full} has a body temperature of {Temperature.F}.   
 
-Best.Sign.Block=Name: {Best.Name.Full}<br>{Best.Title}<br>Time: {YMD:T}
+Signature=Name: {Best.Name.Full}<br>{Best.Title}<br>Time: {YMD:T}
 
-                        
+                            
