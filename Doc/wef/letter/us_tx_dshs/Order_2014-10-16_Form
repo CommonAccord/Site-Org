@@ -28,11 +28,11 @@ Measure.Compel.Monitoring=All HCW involved in the direct care of {the AffectedPe
 
 Measure.Ban.Places=No individual HCW who entered {the AffectedPeople's} room can go to any location where members of the public congregate which includes but is not limited to, {Ban.Place.List}, throughout the entire 21 day time period that follows the individual's last exposure.
 
-Measure.Shelter=All HCWs who provide direct care in {the AffectedPeople's} room will be given the opportunity to stay at {Shelter.Name} on a non-admission status in order to facilitate monitoring; and 
+Measure.Shelter=All HCWs who provide direct care in {the AffectedPeople's} room will be given the opportunity to stay at {Shelter.Name.Full} on a non-admission status in order to facilitate monitoring; and 
 
 Measure.Enforcement=Any HCW that does not adhere to monitoring or any of these other measures may be subject to a communicable disease control order.
 
 
 
   
-                                                      
+                                                        
