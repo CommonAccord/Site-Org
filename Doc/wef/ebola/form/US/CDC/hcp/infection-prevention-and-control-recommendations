@@ -1,5 +1,5 @@
-/Redoing the structure as an outline (same content, but easier to manage). 
-
+/Note=Redoing the structure as an outline (same content, but easier to manage). 
+/Note=Numbered because that permits easy reference to the specific provision. 
 /Note=An experiment.  By making policy available in codified form - with rapid collaboration through modularity and versioning - might we be able to improve coordination?
 
 Source=<a href="http://www.cdc.gov/vhf/ebola/hcp/infection-prevention-and-control-recommendations.html">CDC Guidelines</a>
@@ -66,7 +66,7 @@ PatientPlace.Title=Patient Placement
 
 PatientPlace.Guide=<ol><li>Single patient room (containing a private bathroom) with the door closed</li><li>Facilities should maintain a log of all persons entering the patient's room</li></ol>
 
-PatientPlace.Comment=Consider posting personnel at the patientâ€™s door to ensure appropriate and consistent use of PPE by all persons entering the patient room
+PatientPlace.Comment=Consider posting personnel at the patient’s door to ensure appropriate and consistent use of PPE by all persons entering the patient room
 
 
 PPE.Title=Personal Protective Equipment (PPE)
@@ -78,7 +78,7 @@ PPE.Guide.1=PPE Recommendations are forthcoming  (the next two parts were commen
 
 PPE.Guide.2=All persons entering the patient room should wear at least:<ol><li>Gloves</li><li>Gown (fluid resistant or impermeable)</li><li>Eye protection (goggles or face shield)</li><li>Facemask</li></ol></li><li>Additional PPE might be required in certain situations (e.g., copious amounts of blood, other body fluids, vomit, or feces present in the environment), including but not limited to:<ol><li>Double gloving</li><li>Disposable shoe covers</li><li>Leg coverings</li></ol>
 
-PPE.Guide.3=Recommended PPE should be worn by HCP upon entry into patient rooms or care areas. Upon exit from the patient room or care area, PPE should be carefully removed without contaminating oneâ€™s eyes, mucous membranes, or clothing with potentially infectious materials, and either<ol><li>Discarded, or</li><li>For re-useable PPE, cleaned and disinfected according to the manufacturer's reprocessing instructions and hospital policies.</li></ol></li><li><a href="http://wcms.cdc.gov/Rhythmyx/assembler/render?sys_contentid=432954&sys_revision=1&sys_folderid=394320&sys_context=0&sys_siteid=305&sys_variantid=1241&sys_authtype=0" inlinetype="rxhyperlink" rxinlineslot="103" sys_dependentid="432954" sys_dependentvariantid="1241" sys_folderid="394320" sys_relationshipid="3837763" sys_siteid="305">Instructions for donning and removing PPE have been published</a></li><li>Hand hygiene should be performed immediately after removal of PPE
+PPE.Guide.3=Recommended PPE should be worn by HCP upon entry into patient rooms or care areas. Upon exit from the patient room or care area, PPE should be carefully removed without contaminating one’s eyes, mucous membranes, or clothing with potentially infectious materials, and either<ol><li>Discarded, or</li><li>For re-useable PPE, cleaned and disinfected according to the manufacturer’s reprocessing instructions and hospital policies.</li></ol></li><li><a href="http://wcms.cdc.gov/Rhythmyx/assembler/render?sys_contentid=432954&sys_revision=1&sys_folderid=394320&sys_context=0&sys_siteid=305&sys_variantid=1241&sys_authtype=0" inlinetype="rxhyperlink" rxinlineslot="103" sys_dependentid="432954" sys_dependentvariantid="1241" sys_folderid="394320" sys_relationshipid="3837763" sys_siteid="305">Instructions for donning and removing PPE have been published</a></li><li>Hand hygiene should be performed immediately after removal of PPE
 
 
 Equipment.Title=Patient Care Equipment
@@ -140,4 +140,4 @@ PPE.Comment=None
 Equipment.Comment=None
 PatientCare.Comment=None
             		
-                      
+                          
