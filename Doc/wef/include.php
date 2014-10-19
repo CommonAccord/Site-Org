@@ -11,6 +11,7 @@ Texas Health Presbyterian Hospital Dallas - Press Release:
 
 The CDC:
 <a href="http://commonaccord.org/index.php?action=source&file=Doc/wef/ebola/form/US/CDC/hcp/infection-prevention-and-control-recommendations">form/US/CDC/hcp/infection-prevention-and-control-recommendations</a> <br>
-See also the example of a patient interaction with privacy policies and an authorization app, at 
+  See also:<br> the example of a patient interaction with privacy policies and an authorization app, at 
 <a href="http://commonaccord.org/index.php?action=list&file=Doc/doc/roi/steps/">doc/roi/steps/</a><br>
-
+  A Master Services Agreement that includes provisions regarding the transfer of personal information.  This could be build out, and include "break the glass" provisions.<br>
+<a href="http://commonaccord.org/index.php?action=list&file=Doc/doc/master/">doc/master/</a><br>
