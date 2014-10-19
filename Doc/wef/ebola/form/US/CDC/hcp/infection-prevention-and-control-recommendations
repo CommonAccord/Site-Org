@@ -44,7 +44,7 @@ Link.Isolation=For full details of standard, contact, and droplet precautions se
 Link.Symptoms=For information on symptoms of Ebola Virus Disease infection and modes of transmission, see the <a href="/vhf/ebola/index.html">CDC Ebola Virus Disease Website</a>.
 
 
-Guide.List=<b>{Guide.Title}</b><ol><li>{PatientPlace}</li><li>{PPE}</li><li>{Equipment}</li><li>{PatientCare}</li><li>{AGP}</li><li>{Hands}</li><li>{EnvironmentInfection}</li><li>{Injection}</li><li>{Duration}</li><li>{Visitor}</li><ol>
+Guide.List=<b>{Guide.Title}</b><ol><li>{PatientPlace}</li><li>{PPE}</li><li>{Equipment}</li><li>{PatientCare}</li><li>{AGP}</li><li>{Hands}</li><li>{EnvironmentInfection}</li><li>{Injection}</li><li>{Duration}</li><li>{Hero}</li><li>{Visitor}</li><ol>
 
 PatientPlace=<b>{PatientPlace.Title}</b><ul><li><b>Recommendation</b>.<br>{PatientPlace.Guide}</li><li><b>Comments</b>. <br>{PatientPlace.Comment}</li></ul>
 PPE=<b>{PPE.Title}</b><ul><li><b>Recommendation</b>.<br>{PPE.Guide}</li><li><b>Comments</b>. <br>{PPE.Comment}</li></ul>
@@ -55,7 +55,7 @@ Hands=<b>{Hands.Title}</b><ul><li><b>Recommendation</b>.<br>{Hands.Guide}</li><l
 EnvironmentInfection=<b>{EnvironmentInfection.Title}</b><ul><li><b>Recommendation</b>.<br>{EnvironmentInfection.Guide}</li><li><b>Comments</b>. <br>{EnvironmentInfection.Comment}</li></ul>
 Injection=<b>{Injection.Title}</b><ul><li><b>Recommendation</b>.<br>{Injection.Guide}</li><li><b>Comments</b>. <br>{Injection.Comment}</li></ul>
 Duration=<b>{Duration.Title}</b><ul><li><b>Recommendation</b>.<br>{Duration.Guide}</li><li><b>Comments</b>. <br>{Duration.Comment}</li></ul>
-PExP=<b>{PExP.Title}</b><ul><li><b>Recommendation</b>.<br>{PExP.Guide}</li><li><b>Comments</b>. <br>{PExP.Comment}</li></ul>
+Hero=<b>{Hero.Title}</b><ul><li><b>Recommendation</b>.<br>{Hero.Guide}</li><li><b>Comments</b>. <br>{Hero.Comment}</li></ul>
 Visitor=<b>{Visitor.Title}</b><ul><li><b>Recommendation</b>.<br>{Visitor.Guide}</li><li><b>Comments</b>. <br>{Visitor.Comment}</li></ul>
 
 
@@ -72,7 +72,7 @@ PatientPlace.Comment=Consider posting personnel at the patient’s door to ensure 
 PPE.Title=Personal Protective Equipment (PPE)
 
 /Note=why is this commented out in the original? - AHH, now we see why. The agency was not ready.  Leaving them in. 
-PPE.Guide={PPE.Guide.1}<br>{PPE.Guide.2}<br>{PPE.Guide.3} 
+PPE.Guide=<ol><li>{PPE.Guide.1}</li><li>{PPE.Guide.2}</li><li>{PPE.Guide.3}</li></ol> 
 
 PPE.Guide.1=PPE Recommendations are forthcoming  (the next two parts were commented out):
 
@@ -92,16 +92,35 @@ PatientCare.Guide=<ol><li>Limit the use of needles and other sharps as much as p
 
 AGP.Title=Aerosol Generating Procedures (AGPs)
 
-AGP.Guide=<ol><li>Avoid AGPs for patients with EVD.</li><li>If performing AGPs, use a combination of measures to reduce exposures from aerosol-generating procedures when performed on Ebola HF patients.</li><li>Visitors should not be present during aerosol-generating procedures.</li><li>Limiting the number of HCP present during the procedure to only those essential for patient-care and support.</li><li>Conduct the procedures in a private room and ideally in an Airborne Infection Isolation Room (AIIR) when feasible. Room doors should be kept closed during the procedure except when entering or leaving the room, and entry and exit should be minimized during and shortly after the procedure.</li><li>HCP should wear gloves, a gown, disposable shoe covers, and either a face shield that fully covers the front and sides of the face or goggles, and respiratory protection that is at least as protective as a NIOSH certified fit-tested N95 filtering facepiece respirator or higher (e.g., powered air purifying respiratory or elastomeric respirator) during aerosol generating procedures.</li><li>Conduct environmental surface cleaning following procedures (see section below on environmental infection control).</li><li>PPE Recommendations are forthcoming</li></ol>
+AGP.Guide=<ol><li>{AGP.Don't}</li><li>{AGP.Contain}</li><li>{AGP.NoVisitors}</li><li>{AGP.FewFellows}</li><li>{AGP.AIIR}</li><li>{AGP.Cover}</li><li>{AGP.Scrub}</li><li>PPE Recommendations are forthcoming</li></ol>
+
+AGP.Don't=Avoid AGPs for patients with EVD.
+
+AGP.Contain=If performing AGPs, use a combination of measures to reduce exposures from aerosol-generating procedures when performed on Ebola HF patients.
+
+AGP.NoVisitors=Visitors should not be present during aerosol-generating procedures.
+
+AGP.FewFellows=Limiting the number of HCP present during the procedure to only those essential for patient-care and support.
+
+AGP.AIIR=Conduct the procedures in a private room and ideally in an Airborne Infection Isolation Room (AIIR) when feasible. Room doors should be kept closed during the procedure except when entering or leaving the room, and entry and exit should be minimized during and shortly after the procedure.
+
+AGP.Scrub=Conduct environmental surface cleaning following procedures (see section below on environmental infection control).
+
+AGP.Cover=HCP should wear gloves, a gown, disposable shoe covers, and either a face shield that fully covers the front and sides of the face or goggles, and respiratory protection that is at least as protective as a NIOSH certified fit-tested N95 filtering facepiece respirator or higher (e.g., powered air purifying respiratory or elastomeric respirator) during aerosol generating procedures.
+
 
 AGP.Comment=<ol><li>Although there are limited data available to definitively define a list of AGPs, procedures that are usually included are Bilevel Positive Airway Pressure (BiPAP), bronchoscopy, sputum induction, intubation and extubation, and open suctioning of airways.</li><li>Because of the potential risk to individuals reprocessing reusable respirators, disposable filtering face piece respirators are preferred.</li></ol>
 
 
 Hands.Title=Hand Hygiene
 
-Hands.Guide=<ol><li>HCP should perform hand hygiene frequently, including before and after all patient contact, contact with potentially infectious material, and before putting on and upon removal of PPE, including gloves.</li><li>Healthcare facilities should ensure that supplies for performing hand hygiene are available.</li></ol>
+Hands.Guide=<ol><li>{Hands.Wash}</li><li>{Hands.Soap}</li></ol>
 
-Hands.Comment=Hand hygiene in healthcare settings can be performed by washing with soap and water or using alcohol-based hand rubs. If hands are visibly soiled, use soap and water, not alcohol-based hand rubs.
+Hands.Wash=HCP should perform hand hygiene frequently, including before and after all patient contact, contact with potentially infectious material, and before putting on and upon removal of PPE, including gloves.
+
+Hands.Soap=Healthcare facilities should ensure that supplies for performing hand hygiene are available.
+
+Hands.Comment=Hand hygiene in healthcare settings can be performed by washing with soap and water or using alcohol-based hand rubs.  If hands are visibly soiled, use soap and water, not alcohol-based hand rubs.
 
 
 EnvironmentInfection.Title=Environmental Infection Control
@@ -124,11 +143,40 @@ Duration.Guide=Duration of precautions should be determined on a case-by-case ba
 Duration.Comment=Factors that should be considered include, but are not limited to: presence of symptoms related to EVD, date symptoms resolved, other conditions that would require specific precautions (e.g., tuberculosis, <em>Clostridium difficile</em>) and available laboratory information
 
 
-PExP.Title=Monitoring and Management of Potentially Exposed Personnel
+Hero.Title=Monitoring and Management of Potentially Exposed Personnel
 
-PExP.Guide=Facilities should develop policies for monitoring and management of potentially exposed HCP</li><li>Facilities should develop sick leave policies for HCP that are non-punitive, flexible and consistent with public health guidance <ol><li>Ensure that all HCP, including staff who are not directly employed by the healthcare facility but provide essential daily services, are aware of the sick leave policies.</li></ol></li><li>Persons with percutaneous or mucocutaneous exposures to blood, body fluids, secretions, or excretions from a patient with suspected EVD should <ol><li>Stop working and immediately wash the affected skin surfaces with soap and water. Mucous membranes (e.g., conjunctiva) should be irrigated with copious amounts of water or eyewash solution</li><li>Immediately contact occupational health/supervisor for assessment and access to postexposure management services for all appropriate pathogens (e.g., Human Immunodeficiency Virus, Hepatitis C, etc.)</li></ol></li><li>HCP who develop sudden onset of fever, intense weakness or muscle pains, vomiting, diarrhea, or any signs of hemorrhage after an unprotected exposure (i.e. not wearing recommended PPE at the time of patient contact or through direct contact to blood or body fluids) to a patient with EVD should <ol><li>Not report to work or should immediately stop working</li><li>Notify their supervisor</li><li>Seek prompt medical evaluation and testing</li><li>Notify local and state health departments</li><li>Comply with work exclusion until they are deemed no longer infectious to others</li></ol></li><li>For asymptomatic HCP who had an unprotected exposure (i.e. not wearing recommended PPE at the time of patient contact or through direct contact to blood or body fluids) to a patient with Ebola HF <ol><li>Should receive medical evaluation and follow-up care including fever monitoring twice daily for 21 days after the last known exposure.</li><li>Hospitals should consider policies ensuring twice daily contact with exposed personnel to discuss potential symptoms and document fever checks</li></ol></li></ol>
+Hero.Guide=<ol><li>{Hero.Management}</li><li>{Hero.SickLeave.Fair}<ol><li>{Hero.SickLeave.Known}</li></ol></li><li>{Hero.Exposed.Intro}<ol><li>{Hero.Exposed.StopAndWash}</li><li>{Hero.Exposed.Treat}</li></ol></li><li>{Hero.Sick.Intro}<ol><li>{Hero.Sick.Stop}</li><li>{Hero.Sick.Declare}</li><li>{Hero.Sick.Treat}</li><li>{Hero.Sick.Notify}</li><li>{Hero.Sick.StayHome}</li></ol></li><li>{Hero.Exposed2.Intro}<ol><li>{Hero.Exposed2.Monitor}</li><li>{Hero.Exposed2.HospitalPolicy}</li></ol></li></ol>
 
 
+Hero.Management=Facilities should develop policies for monitoring and management of potentially exposed HCP
+
+Hero.SickLeave.Fair=Facilities should develop sick leave policies for HCP that are non-punitive, flexible and consistent with public health guidance
+
+Hero.SickLeave.Known=Ensure that all HCP, including staff who are not directly employed by the healthcare facility but provide essential daily services, are aware of the sick leave policies.
+
+Hero.Exposed.Intro=Persons with percutaneous or mucocutaneous exposures to blood, body fluids, secretions, or excretions from a patient with suspected EVD should
+
+Hero.Exposed.StopAndWash=Stop working and immediately wash the affected skin surfaces with soap and water.  Mucous membranes (e.g., conjunctiva) should be irrigated with copious amounts of water or eyewash solution
+
+Hero.Exposed.Treat=Immediately contact occupational health/supervisor for assessment and access to postexposure management services for all appropriate pathogens (e.g., Human Immunodeficiency Virus, Hepatitis C, etc.)
+
+Hero.Sick.Intro=HCP who develop sudden onset of fever, intense weakness or muscle pains, vomiting, diarrhea, or any signs of hemorrhage after an unprotected exposure (i.e. not wearing recommended PPE at the time of patient contact or through direct contact to blood or body fluids) to a patient with EVD should 
+
+Hero.Sick.Stop=Not report to work or should immediately stop working
+
+Hero.Sick.Declare=Notify their supervisor
+
+Hero.Sick.Treat=Seek prompt medical evaluation and testing
+
+Hero.Sick.Notify=Notify local and state health departments
+
+Hero.Sick.StayHome=Comply with work exclusion until they are deemed no longer infectious to others
+
+Hero.Exposed2.Intro=For asymptomatic HCP who had an unprotected exposure (i.e. not wearing recommended PPE at the time of patient contact or through direct contact to blood or body fluids) to a patient with Ebola HF 
+
+Hero.Exposed2.Monitor=Should receive medical evaluation and follow-up care including fever monitoring twice daily for 21 days after the last known exposure.
+
+Hero.Exposed2.HospitalPolicy=Hospitals should consider policies ensuring twice daily contact with exposed personnel to discuss potential symptoms and document fever checks
 
 Visitor.Title=Monitoring, Management, and Training of Visitors
 
@@ -139,5 +187,6 @@ Visitor.Comment=Visitors who have been in contact with the EVD patient before an
 PPE.Comment=None
 Equipment.Comment=None
 PatientCare.Comment=None
+Hero.Comment=None
             		
-                          
+                                            
