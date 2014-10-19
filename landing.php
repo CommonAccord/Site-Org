@@ -19,8 +19,8 @@
                         <b>Bringing</b> = Codifying legal documents to bring
                         </div>
 !-->
-
-    <div id="info-more">
+<div id="info-more">
+   <h4>NO MENTION OF ANY PERSON ON THE SITE SHOULD BE UNDERSTOOD TO INDICATE ANY ENDORSEMENT OR APPROVAL.  NOR THE TRUTH OF ANY STATEMENT OR RELATIONSHIP.  SOME PUBLIC FIGURES ARE MENTIONED AND SOME OF THE INFORMATION ABOUT THEM IS DRAWN FROM PUBLIC RECORDS.  BUT OTHER PARTS ARE INVENTED.  DO NOT TREAT ANY OF THIS INFORMATION AS TRUE.  SIMILARLY, DO NOT TREAT THIS AS LEGAL ADVICE OR EVEN AS RELIABLE PRECEDENTS.</h4>
         <h4 class="subtitle">Explore <a href=<?=$_SERVER['PHP_SELF']?>?action=explore>the objects of law</a></h4>
 <h4 class="subtitle">Applying source methods to open source licenses <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/me/cc/license/4_0/>Creative Commons Licenses</a></h4>   
    <h4 class="subtitle">Startup in a Box <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/me/startup/>an "object" for a startup company</a></h4>

@@ -19,7 +19,7 @@ Intro.EmployeeRelations={P1.Name.Full} is committed to working together with its
 
 Intro.NonRetaliation=In the pursuit of open feedback, {P1.Handle} has a strict nonretaliation policy. Employees are encouraged to raise issues and concerns via the chain of command. This process is a core tenet of our culture and values. It is documented in our Code of Business Ethics.
 
-Intro.EmployeeComplaintSystem=In addition,{P1.Handle} employees have two mechanisms available to anonymously raise issues about safety concerns or related matters. It is important to note that no {P1.Handle} employee did so concerning their care of {P2.Handle} or our two co-workers.
+Intro.EmployeeComplaintSystem=In addition, {P1.Handle} employees have two mechanisms available to anonymously raise issues about safety concerns or related matters. It is important to note that no {P1.Handle} employee did so concerning their care of {P2.Handle} or our two co-workers.
 
 Measures.List=<ul><li>{Measure.Isolation}</li><li>{Measure.Notification}</li><li>{Measure.SpecimenHandling.1}</li><li>{Measure.SpecimenHandling.2}</li><li>{Measure.Covering.1}</li><li>{Measure.Covering.2}</li><li>{Measure.Covering.3}</li><li>{Measure.HCW.TreatOtherPatients}</li><li>{Measure.OtherPatients}</li><li>{Measure.TrashHandling}</li><li>{Measure.Improvised}</li></ul>
 
@@ -58,4 +58,4 @@ Closing={P1.Handle} remains a safe place for employees and patients. We support 
 
 
 Contact=Contact: {Best.Name.Full}<br>{Best.Phone}<br>{Best.Email}
-                              
+                                
