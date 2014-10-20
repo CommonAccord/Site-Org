@@ -1,4 +1,0 @@
-Do.BorrowCar={P1.Name} will borrow a car from {P2.Name}.
-
-Do.SendLunch={P1.Name} will buy lunch from {P2.Name}, delivered to {P1.Addr.1,2}.
-
