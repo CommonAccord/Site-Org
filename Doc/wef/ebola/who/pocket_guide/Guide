@@ -1,0 +1,5 @@
+1.=[wef/ebola/who/pocket_guide/principle/00]
+
+Model.Root={DocBody}
+
+DocBody=<ol><li>{1.DocBody}</li></ol>

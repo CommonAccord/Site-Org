@@ -1,10 +1,11 @@
-0.=[wef/ebola/who/pocket_guide/principle/0_General]
 1.=[wef/ebola/who/pocket_guide/principle/1_Screen]
 2.=[wef/ebola/who/pocket_guide/principle/2_Suspect]
 3.=[wef/ebola/who/pocket_guide/principle/3_Educate]
 4.=[wef/ebola/who/pocket_guide/principle/4_Isolate]
 5.=[wef/ebola/who/pocket_guide/principle/5_Refer]
+6.=[wef/ebola/who/pocket_guide/principle/6_General]
 
 Model.Root={DocBody}
 
-DocBody=<ol start='0'><li>{0.DocBody}</li><li>{1.DocBody}</li><li>{2.DocBody}</li><li>{3.DocBody}</li><li>{4.DocBody}</li><li>{5.DocBody}</li></ol>
+DocBody=<b>Principles</b><ol><li>{1.DocBody}</li><li>{2.DocBody}</li><li>{3.DocBody}</li><li>{4.DocBody}</li><li>{5.DocBody}</li><li>{6.DocBody}</li></ol>
+  

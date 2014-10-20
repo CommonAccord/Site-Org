@@ -4,4 +4,6 @@ Report=As of {YMD:T}, the patient {P2.Name.Full} has a body temperature of {Temp
 
 Signature=Name: {Best.Name.Full}<br>{Best.Title}<br>Time: {YMD:T}
 
-                            
+Model.Root={DocBody}
+
+                              
