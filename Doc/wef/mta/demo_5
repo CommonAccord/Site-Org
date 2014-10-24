@@ -11,8 +11,9 @@ P2.Scientist.=[core/id/abigail_altima]
 P2.=[core/id/mit]
 
 Material.=[wef/mta/sample/re_bio_human_blood_54321]
+P2.Research_Project.Description=investigate the connection between mutation type and location
+Data.Description=list of the patient's contacts over previous 21 days
 
-Data.Description=
 4={4.NO}
 P1.Officer.xSignature=xQUENTIN QUADE
 P1.Officer.Sign.YMD=October 25, 2014
@@ -28,4 +29,4 @@ P2.Notice.Title={P2.Officer.Title}
 P2.Scientist.xSignature=xABIGAIL ALTIMA
 P2.Scientist.YMD=October 26, 2014
 
-                    
+                        
