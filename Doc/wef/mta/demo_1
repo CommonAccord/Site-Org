@@ -1,6 +1,6 @@
-=[wef/mta/ott_nih_gov_sla_form]
+=[wef/mta/form/ott_nih_gov_sla]
 
-Material.=[wef/mta/re_bio_terastio_kaki]
+Material.=[wef/mta/sample/re_bio_terastio_kaki]
 Fee.$=GRATIS
 has/has not=has not
   

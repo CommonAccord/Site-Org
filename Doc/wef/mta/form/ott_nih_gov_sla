@@ -1,4 +1,4 @@
-Source=http://www.ott.nih.gov/sites/default/files/documents/pdfs/slaform.pdf
+Source=<a href="http://www.ott.nih.gov/sites/default/files/documents/pdfs/slaform.pdf">NIH Form (pdf)</a>
 
 Model.Root={DocBody}
 
@@ -41,4 +41,6 @@ P2.Scientist.Certify=Certification of Recipient Scientist: I have read and under
 m-=<font color="{mcolor}">
 -m=</font>
 mcolor=magenta
-    
+n-=<font color="{ncolor}">
+-n=</font>
+ncolor=red
