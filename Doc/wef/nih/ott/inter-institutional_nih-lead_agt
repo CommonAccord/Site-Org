@@ -1,0 +1,216 @@
+Source=<a href="http://www.ott.nih.gov/sites/default/files/documents/docs/nih-iia-nih-lead-model-102005.docx">Word Doc</a>
+
+Model.Root={DocBody}
+
+DocBody={Agt.Heading}<br>{Agt.Intro}<br>{Agt.Secs}<br>{Agt.Sign}
+
+Agt.Heading=<center><b>{Agt.Title}</b></center>
+
+Agt.Title=THE NATIONAL INSTITUTES OF HEALTH INTERINSTITUTIONAL AGREEMENT NIH-LEAD
+
+Agt.Intro=This Agreement is entered into between the National Institutes of Health (“NIH”) within the Department of Health and Human Services (“HHS”) through the Office of Technology Transfer, NIH, having an address at 6011 Executive Boulevard, Suite 325, Rockville, Maryland 20852 3804, U.S.A and ________________________________, hereinafter referred to as the “Institution”, having an address at ________________________________.
+
+Agt.Secs=Agt.Secs=<ol><li>{1}</li><li>{2}</li><li>{3}</li><li>{4}</li><li>{5}</li><li>{6}</li><li>{7}</li><li>{8}</li><li>{9}</li><li>{10}</li><li>{11}</li></ol>
+
+1=<b>{1.Title}</b><ol><li>{1.1}</li><li>{1.2}</li></ol>
+
+1.Title=BACKGROUND
+
+1.1=In the course of fundamental research programs at the NIH or the Food and Drug Administration and by the Institution, ____________________ (hereinafter referred to as the “Inventor(s)”) made or reduced to practice certain inventions, which are included within the Patent Rights, as defined in Paragraph 2.1.
+
+1.2=It is the mutual desire of the Institution and the NIH that their respective undivided interests in the Patent Rights be administered in a manner to ensure the rapid commercialization of the Patent Rights and to make their benefits widely available to the public.  Therefore, the Institution is granting an exclusive license under the Institution's rights in the Patent Rights to the NIH under the conditions set forth herein.
+
+
+2=<b>{2.Title}</b><ol type"none"><li>{2.1}</li><li>{2.2}</li><li>{2.3}</li><li>{2.4}</li><li>{2.5}</li></ol>
+
+2.Title=DEFINITIONS
+
+2.1=“Government” means the government of the United States of America.
+2.2=“FDA” means the Food and Drug Administration.
+2.3=“Patent Rights” means:<ol type="a"><li>{2.3.1}</li><li>{2.3.2}</li><li>{2.3.3}</li><li>{2.3.4}</li></ol>
+
+2.3.1=Patent applications (including provisional patent applications and PCT patent applications) or patents as follows: U.S. Patent Application Serial No./U.S. Provisional Patent Application Serial No. ____/______,______, filed ________________, entitled ________________________, and any patent application(s) claiming the benefit of priority thereof including all divisions and continuations of these applications, all patents issuing from such applications, divisions, and continuations, and any reissues, reexaminations, and extensions of all such patents to the extent that at least one Inventor from the Institution is an Inventor thereon;
+
+2.3.2=to the extent that the following contain one or more claims directed to the invention or inventions disclosed in 2.3(a) and to the extent that at least one Inventor from the Institution is an Inventor:<ol><li>{2.3.2.1};</li><li>{2.3.2.2};</li><li>{2.3.2.3};</li><li>{2.3.2.4}; and</li><li>{2.3.2.5}</li></ol>
+2.3.2.1=continuations in part of 2.3(a)
+2.3.2.2=all divisions and continuations of these continuations in part
+2.3.2.3=all patents issuing from these continuations in part, divisions, and continuations
+2.3.2.4=priority patent application(s) of 2.3(a)
+2.3.2.5=any reissues, reexaminations, and extensions of all these patents; and
+
+2.3.3=to the extent that the following contain one or more claims directed to the invention or inventions disclosed in 2.3(a) and to the extent that at least one Inventor from the Institution is an Inventor: all counterpart foreign and U.S. patent applications and patents to 2.3(a) and 2.3(b); and
+2.3.4=Patent Rights shall not include 2.3(b) or 2.3(c) to the extent that they contain one or more claims directed to new matter which is not the subject matter disclosed in 2.3(a).
+
+2.4=“Net Revenues” means all consideration received by the NIH from the licensing of the Patent Rights pursuant to this Agreement less (a) Expenses and then (b) fifteen percent (15%) of the remaining consideration for administrative overhead.  In the event that a license is executed by the NIH with a third party wherein the Patent Rights are licensed together with other technologies not falling under the definition of the Patent Rights, all consideration received by the NIH from the licensing of the Patent Rights pursuant to this Agreement through the third-party executed license shall correspond to the Patent Rights’ percentage contribution to the total amount received for all licensed technologies as determined by the NIH.
+2.5=“Expenses” means all reasonable and actual out-of-pocket costs, excluding those reimbursed by a third party, paid by the NIH for the preparation, filing, prosecution, and licensing of United States and foreign patent applications, extraordinary expenses as provided in Paragraph 4.6, and the maintenance of the resulting patents or patent applications, exclusive of any salaries, administrative, or other indirect costs.
+
+
+3=<b>{3.Title}</b><ol><li>{3.1}</li><li>{3.2}</li></ol>
+
+3.Title=GRANT AND RESERVATION OF RIGHTS
+
+3.1=The Institution hereby grants and the NIH accepts, subject to the terms and conditions of this Agreement, an exclusive license including the right to sublicense, under the Patent Rights to make and have made, to use and have used, to sell and have sold, to offer to sell, and to import any tangible embodiment of the Patent Rights and to practice and have practiced any process(es) included within the Patent Rights.
+
+3.2=The Government shall have the irrevocable, royalty-free, paid-up right to practice and have practiced the Patent Rights throughout the world by or on behalf of the Government and on behalf of any foreign government or international organization pursuant to any existing or future treaty or agreement to which the Government is a signatory.
+
+
+4=<b>{4.Title}</b><ol><li>{4.1}</li><li>{4.2}</li><li>{4.3}</li><li>{4.4}</li><li>{4.5}</li><li>{4.6}</li></ol>
+
+4.Title=PATENT PROSECUTION AND PROTECTION
+
+4.1=The NIH shall file, prosecute, and maintain patent application(s) relating to the Patent Rights and shall promptly provide to the Institution all serial numbers and filing dates, together with copies of all the applications, including copies of all Patent Office actions, responses, and all other Patent Office communications.  In addition, the Institution shall be granted Power of Attorney for all such patent applications.  The NIH shall consult with the Institution, when so requested, prior to communicating with any Patent Office with respect to the Patent Rights.
+
+4.2=The NIH shall make an election with respect to foreign filing, upon consultation with the Institution.  If any foreign patent applications are filed, the NIH shall promptly provide to the Institution all serial numbers and filing dates.  The NIH also shall provide to the Institution copies of foreign patent applications and Patent Office actions.  The NIH shall consult with the Institution, when so requested, prior to communication with any Patent Office with respect to the Patent Rights. 
+
+4.3=The NIH shall promptly record Assignments of domestic patent rights in the United States Patent and Trademark Office and shall promptly provide the Institution with a photocopy of each recorded Assignment(s) to the Institution.
+
+4.4=Notwithstanding any other provision of this Agreement, the NIH shall not abandon the prosecution of any patent application, including provisional patent applications (except for purposes of filing continuation application(s)) or the maintenance of any patent contemplated by this Agreement, without prior written notice to the Institution.  Upon receiving the written notice, the Institution may, at its sole option and expense, take over the prosecution of any patent application, or the maintenance of any patent.
+
+4.5=The NIH shall promptly provide the Institution with copies of all issued patents under this Agreement.
+
+4.6=In the event that the NIH anticipates the possibility of any extraordinary expenditures arising from the preparation, filing, prosecution, licensing, or defense of any patent application or patent contemplated by this Agreement, including, without limitation, interferences, reexaminations, reissues and oppositions, the NIH shall provide the Institution with all relevant information and these extraordinary expenditures shall be included as Expenses only upon written agreement of the Institution.  The NIH and the Institution shall agree on a mutually acceptable course of action prior to incurring these expenditures.
+
+5=<b>{5.Title}</b><ol><li>{5.1}</li><li>{5.2}</li></ol>
+
+5.Title=LICENSING
+5.1=The NIH shall diligently seek licensees for the commercial development of the Patent Rights and shall administer the Patent Rights for the mutual benefit of the parties and in the public interest.
+
+5.2=The NIH shall promptly provide the Institution with copies of all licenses and sublicenses granted for the Patent Rights.
+
+
+6=<b>{6.Title}</b><ol><li>{6.1}</li><li>{6.2}</li><li>{6.3}</li><li>{6.4}</li></ol>
+
+6.Title=ROYALTIES AND EXPENSES
+
+6.1=The NIH shall distribute Net Revenues to the Institution concurrently with distributions it makes under the NIH's patent policy on the following basis: (a) ______ percent (X%) of the Net Revenues as a royalty to the Institution and (b) ______ percent (X%) of the Net Revenues as a royalty to the NIH.  All payments to the Institution, required under this Agreement, shall be in U.S. dollars and shall be made by check or bank draft drawn on a United States bank and made payable to ________________________.  All payments shall be sent to the following address:  ________________________.
+
+6.2=The NIH shall submit to the Institution annual statements of itemized Expenses, as defined in Paragraph 2.5, and shall deduct the Expenses as provided for in Paragraph 2.4, except where the Institution has identified discrepancies in billing by the NIH, in which case, deduction of the contested item(s), as a part of Expenses as provided for in Paragraph 2.4, shall be delayed pending resolution thereof.
+
+6.3=In no event shall the Institution be obligated to bear any costs for the Expenses under this Agreement.
+
+6.4=Each party shall be solely responsible for calculating and distributing to its respective Inventor(s) of the Patent Rights any share of the Net Revenues in accordance with its respective patent policy, royalty policy, or Federal law during the term of this Agreement.
+
+7=<b>{7.Title}</b><ol><li>{7.1}</li><li>{7.2}</li></ol>
+
+7.Title=RECORDS AND REPORTS
+
+7.1=The NIH shall keep complete, true, and accurate accounts of all Expenses and of all Net Revenues received by it from each licensee of the Patent Rights and shall permit the Institution or the Institution's designated agent to examine its books and records in order to verify the payments due or owed under this Agreement.  This examination shall not occur more than one (1) time in any single calendar year.
+
+7.2=Upon request by the Institution, the NIH shall submit to the Institution a report, not later than April 1 of each year, setting forth the status of all patent prosecution, commercial development, and licensing activity relating to the Patent Rights for the preceding calendar year.
+
+8=<b>{8.Title}</b><ol><li>{8.1}</li><li>{8.2}</li><li>{8.3}</li><li>{8.4}</li><li>{8.5}</li></ol>
+
+8.Title=PATENT INFRINGEMENT
+
+8.1=In the event the NIH or the Institution, including its licensees, shall learn of the substantial infringement of any patent subject to this Agreement, the party who learns of the infringement shall promptly notify the other party in writing and shall provide the other party with all available evidence of the infringement.  The NIH and its licensees, in cooperation with the Institution, shall use their best efforts to eliminate the infringement without litigation.  If the efforts of the parties are not successful in eliminating the infringement within ninety (90) days after the infringing party has been formally notified of the infringement by the NIH, the NIH shall have the right, after consulting with the Institution, to commence suit on its own account.  The Institution may commence its own suit after consultation with the NIH.
+
+8.2=The NIH may permit its licensees to bring suit on their own account, and the NIH shall retain the right to join any licensee's suit.
+
+8.3=The Institution shall take no action to compel the NIH either to initiate or to join in any suit for patent infringement.  Should the Government be made a party to any such suit by motion or any other action of the Institution, the Institution shall reimburse the Government for any costs, expenses, or fees which the Government incurs as a result of the motion or other action, including all costs incurred by the NIH in opposing any joinder action.
+
+8.4=Legal action or suits to eliminate infringement or recover damages pursuant to Paragraph 8.1 shall be at the full expense of the party by whom suit is brought.  All damages recovered thereby shall first be used to reimburse each party for its expenses related to the legal action or suit, and the remainder of the damages shall be considered Net Revenues.
+
+8.5=Each party agrees to cooperate with the other in litigation proceedings.  The NIH may be represented, at its expense, by counsel of its choice in any suit.
+
+9=<b>{9.Title}</b><ol><li>{9.1}</li><li>{9.2}</li></ol>
+
+9.Title=GOVERNING LAWS, SETTLING DISPUTES
+
+9.1=This Agreement shall be construed in accordance with U.S. Federal law, as interpreted and applied by the U.S. Federal courts in the District of Columbia.  Federal law and regulations shall preempt any conflicting or inconsistent provisions in this Agreement.  The Institution agrees to be subject to the jurisdiction of U.S. courts.
+
+9.2=Any controversy or any disputed claim by either party against the other arising under or related to this Agreement shall be submitted jointly to the Institution’s President or designee and to the Director of the NIH or designee for resolution.  The Institution and the NIH shall be free after written decisions are issued by those officials to pursue any and all administrative or judicial remedies which may be available.
+
+10=<b>{10.Title}</b><ol><li>{10.1}</li><li>{10.2}</li><li>{10.3}</li><li>{10.4}</li></ol>
+
+10.Title=TERM AND TERMINATION
+
+10.1=This Agreement is effective when signed by all parties, unless the provisions of Paragraph 11.8 are not fulfilled, and shall extend to the expiration of the last to expire of the patents included within the Patent Rights unless otherwise terminated by operation of law or by acts of the parties in accordance with the terms of this Agreement.
+
+10.2=The NIH may terminate this Agreement upon at least sixty (60) days written notice to the Institution, but in any event, not less than sixty (60) days prior to the date on which any pending Patent Office actions need be taken to preserve patent rights for the benefit of the parties hereto.
+
+10.3=The Institution may terminate this Agreement in whole or in part if:<ol><li>{10.3.1}</li><li>{10.3.2}</li><li>{10.3.3}</li></ol>
+
+10.3.1=the  NIH fails to make payments or periodic reports required by this Agreement;
+
+10.3.2=the  NIH has committed a substantial breach of a covenant or duty contained in this Agreement; or
+
+10.3.3=the NIH and the Institution are involved in a dispute under this Agreement which cannot be resolved under the procedures specified in Paragraph 9.2.
+
+10.4=If the Agreement is terminated under Paragraph 10.3, the Institution agrees to provide all affected licensees an opportunity to license the Patent Rights under such terms as may have been agreed to by the NIH.
+
+
+11=<b>{11.Title}</b><ol><li>{11.1}</li><li>{11.2}</li><li>{11.3}</li><li>{11.4}</li><li>{11.5}</li><li>{11.6}</li><li>{11.7}</li><li>{11.8}</li></ol>
+
+11.Title=GENERAL
+
+11.1=All Agreement notices required or permitted by this Agreement shall be given by prepaid, first class, registered or certified mail or by an express/overnight delivery service provided by a commercial carrier, properly addressed to the other party at the address designated on the following Signature Page, or to such other address as may be designated in writing by the other party.  Agreement notices shall be considered timely if the notices are received on or before the established deadline date or sent on or before the deadline date as verifiable by U.S. Postal Service postmark or dated receipt from a commercial carrier.  Parties should request a legibly dated U.S. Postal Service postmark or obtain a dated receipt from a commercial carrier or the U.S. Postal Service.  Private metered postmarks shall not be acceptable as proof of timely mailing.
+
+11.2=The Agreement shall not be construed to confer on any person any immunity from or defenses under the antitrust laws or from a charge of patent misuse, and the acquisition and use of rights pursuant to this Agreement shall not be immunized from the operation of state or Federal law by reason of the source of the grant.
+
+11.3=It is agreed that no waiver by either party hereto of any breach or default of any of the covenants or agreements herein set forth shall be deemed a waiver as to any subsequent or similar breach or default.
+
+11.4=This Agreement is binding upon and shall inure to the benefit of the parties hereto, their successors or assigns, but this Agreement may not be assigned by either party without the prior written consent of the other party.
+
+11.5=This Agreement confers no license or rights by implication, estoppel, or otherwise under any patent applications or patents of the NIH other than the Patent Rights regardless of whether such patents are dominant or subordinate to the Patent Rights.
+
+11.6=Any modification to this Agreement must be in writing and agreed to by both parties.
+
+11.7=It is understood and agreed by the Institution and the NIH that this Agreement constitutes the entire agreement, both written and oral, between the parties, and that all prior agreements respecting the subject matter hereof, either written or oral, expressed or implied, shall be abrogated, canceled, and are null and void and of no effect.
+
+11.8=The terms and conditions of this Agreement shall, at the NIH’s sole option, be considered by the NIH to be withdrawn from Institution’s consideration and the terms and conditions of this Agreement, and the Agreement itself to be null and void, unless this Agreement is executed by the Institution and a fully executed original is received by the NIH within sixty (60) days from the date of the NIH’s signature found at the Signature Page.
+
+
+Agt.Sign.Intro=IN WITNESS WHEREOF, the parties hereto have executed this Agreement in duplicate originals by their respective duly authorized officers hereunto, on the day and year hereinafter written.  Any communication or notice to be given shall be forwarded to the respective addresses listed below.
+
+
+
+For the NIH:
+_______________ DRAFT ____________________________	_______________
+Richard U. Rodriguez	Date
+Director, Division of Technology Development and Transfer
+Office of Technology Transfer
+National Institutes of Health
+Mailing Address or E-mail Address for Agreement notices and reports:
+Chief, Monitoring & Enforcement Branch
+Office of Technology Transfer
+National Institutes of Health
+6011 Executive Boulevard, Suite 325
+Rockville, Maryland  20852-3804 U.S.A.
+E-mail: LicenseNotices_Reports@mail.nih.gov
+For the Institution (Upon information and belief, the undersigned expressly certifies or affirms that the contents of any statements of the Institution made or referred to in this Agreement are truthful and accurate.)
+by:
+________________ DRAFT ___________________________	_______________
+Signature of Authorized Official		Date
+	
+Printed Name
+	
+Title
+Official and Mailing Address for Agreement notices:
+	
+Name
+	
+Title
+Mailing Address:
+	
+	
+	
+	
+Email Address:		
+Phone:		
+Fax:		
+Official and Mailing Address for Financial notices (The Institution’s contact person for royalty payments)
+	
+Name
+	
+Title
+Mailing Address:
+	
+	
+	
+	
+Email Address:		
+Phone:		
+Fax:		
+
+Any false or misleading statements made, presented, or submitted to the Government, including any relevant omissions, under this Agreement and during the course of negotiation of this Agreement are subject to all applicable civil and criminal statutes including Federal statutes 31 U.S.C. §§3801-3812 (civil liability) and 18 U.S.C. §1001 (criminal liability including fine(s) or imprisonment).
+    
