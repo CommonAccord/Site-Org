@@ -1,0 +1,50 @@
+Agt.Title=MATERIAL TRANSFER AGREEMENT
+
+Intro.ThisAgreement=THIS MATERIAL TRANSFER AGREEMENT (this “Agreement”) is made and entered into as of the __ day of 2014 (the “Effective Date”), by and between _______________________, located at ________________(“Institution”) and GlaxoSmithKline Intellectual Property Development Limited, 980 Great West Road, Brentford, Middlesex, TW8 9GS, England (“GSK”). Each of GSK and Institution may be referred to herein as a “Party” or collectively as the “Parties.” 
+
+Recital.Title=W I T N E S S E T H:
+
+Recital.1=WHEREAS, Institution and Institution’s Investigator (defined below) elected to enter the Discovery Fast Track Challenge sponsored by GSK on the challenge terms and conditions as established by GSK and accepted by Institution and Institution’s Investigator; 
+Recital.2=WHEREAS, the challenge was held for the purpose of validating targets and biological hypothesis provided by the Institution, with the goal of ultimately identifying possible compounds and products to be researched under the terms and conditions set forth herein, and, if applicable, to be developed, and commercialized by GSK according to the terms and conditions set forth in a separately negotiated DPAc Agreement (defined below); 
+Recital.3=WHEREAS, Institution and Institution’s Investigator have been selected in the Discovery Fast Track Challenge and have agreed to the terms and conditions under which to progress into the conduct of the Research (as defined below) for such challenge by GSK; 
+Recital.4=WHEREAS, Institution agrees to transfer to GSK certain Material (defined below) which may be proprietary to Institution, such Material to be provided in the quantity set forth in the Research Plan and such additional quantities as may be necessary and reasonably requested by GSK for use to complete the Research; and 
+Recital.5=WHEREAS, the Parties now desire to enter into this Agreement to confirm the terms and conditions upon which the Parties agree to conduct the Research and to affect the transfer of the Material to GSK for that purpose; in each case on the terms and conditions as set forth herein. 
+
+Intro.NowTherefore=NOW, THEREFORE, in consideration of the mutual promises contained herein, and other valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the Parties, intending to be legally bound, hereby agree as follows:
+
+
+Def.Sec=<b>{Def.Title}</b><ol type="none"><li>{Def.Affiliate}</li><li>{Def.Confidential_Information}</li><li>{Def.Confirmed_Hit}</li><li>{Def.DPAc_Agreement}</li><li>{Def.P1_Results}</li><li>{Def.P1_Transfer_Contract}</li><li>{Def.Institution's_Investigator}</li><li>{Def.P2_Results}</li><li>{Def.Material}</li><li>{Def.Material_Transfer_Record}</li><li>{}</li><li>{Def.Research}</li><li>{Def.Research_Plan}</li></ol>
+
+
+Def.Title=Definitions.
+
+Def.Affiliate=“Affiliate” means any corporation or non-corporate entity which controls, is controlled by or is under common control with GSK. A corporation or non-corporate entity, as applicable, will be regarded as in control of another corporation if it owns or directly or indirectly controls at least fifty percent (50%) of the voting stock of the other corporation or (i) in the absence of the ownership of at least fifty percent (50%) of the voting stock of a corporation or (ii) in the case of a non-corporate entity, if it possesses, directly or indirectly, the power to direct or cause the direction of the management and policies of such corporation or non-corporate entity, as applicable.
+
+
+
+
+Def.Confidential_Information=“Confidential Information” has the meaning ascribed to such term in Section 5.1 below. 
+
+
+Def.Confirmed_Hit="Confirmed Hit” means any hit with demonstrated in vitro activity described here: Robust, dose-responsive activity in the primary screen assay; appropriate specificity and/or selectivity in control assays; Lack of non-specific pan-active effect; Validated chemical structure with acceptable purity; Preferably, activity in one or more secondary cell-based assays. 
+
+Def.DPAc_Agreement=“DPAc Agreement” means an agreement entered into between Institution and GSK to further research, develop and commercialize the results of the Research under Institution’s and GSK’s mutually approved terms and conditions applicable to GSK’s Discovery Partnership with Academia. A summary of the core agreed-upon financial terms for the DPAc Agreement to be entered into between GSK and Institution in the event that Parties desire to further progress the Research conducted hereunder is attached hereto as Schedule 4. 
+
+Def.P1_Results="GSK Results" has the meaning ascribed to such term in Section 2.4. 
+
+Def.P1_Transfer_Contract="GSK Transfer Contract" has the meaning ascribed to that term in Section 2.3. 
+
+Def.Institution's_Investigator=“Institution’s Investigator” means the individual responsible for conducting and overseeing the Research on behalf of the Institution.
+
+Def.P2_Results=“Institution Results” has the meaning ascribed to that term in Section 2.4
+
+Def.Material="Material" means a protein, protein fragment, fusion protein, recombinant protein; a cell line; a gene of interest, a specific genetic mutation, a nucleic acid insert, transgene or lesion, and any other similar material in any form in which any of the foregoing materials are provided, any progeny of or descendant from the foregoing material (e.g. cell from cell, virus from virus or organism from organism), any direct or indirect descendant or progeny containing the same gene of interest, genetic mutation, nucleic acid insert, transgene or lesion as the original material, and any substance which contains an unmodified functional sub-unit or an expression product of the original material (e.g. sub-clones of unmodified cell lines, purified or fractionated sub-sets of the original material, proteins expressed by DNA/RNA, monoclonal antibodies secreted by a hybridoma cell line, or sub-sets of the original material such as novel plasmids or vectors, primary screen assay, control assay and secondary assay, as appropriate, that is specifically transferred from Institution to GSK. The specific Material initially transferred to GSK from the Institution under this Agreement, including the amounts of each such Material provided to GSK, are set forth on the attached Research Plan. 
+
+
+Def.Material_Transfer_Record=“Material Transfer Record” or "MTR" has the meaning ascribed to that term in Section 2.1. 
+
+
+Def.Research=“Research” means the conduct of molecular discovery campaign activities by GSK alone and/or with input from Institution’s Investigator, in accordance with the Research Plan. The Research may include, without limitation, configuration of any assays included in the Material, production of reagents at scale, conduct of high through-put screens, identification and confirmation of “hits” based on screening data, evaluation of Confirmed Hits, and testing of Confirmed Hits in appropriate biological assays or models.
+
+
+Def.Research_Plan="Research Plan" means the research plan as set forth in Schedule 1, attached hereto and incorporated herein by reference. 
