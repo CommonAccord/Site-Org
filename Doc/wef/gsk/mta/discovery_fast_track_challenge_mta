@@ -1,4 +1,6 @@
 Model.Root={DocBody}
+P1.Handle=GSK
+P2.Handle=Institution
 
 DocBody=<center><b>{Agt.Title}</b></center>{Agt.Intro}{Agt.Secs}{Agt.Sign}{Agt.Attach}
 
@@ -6,52 +8,52 @@ Agt.Intro={Intro.ThisAgreement}<br>{Intro.Recital}
 
 Agt.Title=MATERIAL TRANSFER AGREEMENT
 
-Intro.ThisAgreement=THIS MATERIAL TRANSFER AGREEMENT (this “Agreement”) is made and entered into as of the __ day of 2014 (the “Effective Date”), by and between _______________________, located at ________________(“Institution”) and GlaxoSmithKline Intellectual Property Development Limited, 980 Great West Road, Brentford, Middlesex, TW8 9GS, England (“GSK”). Each of GSK and Institution may be referred to herein as a “Party” or collectively as the “Parties.”
+Intro.ThisAgreement=THIS MATERIAL TRANSFER AGREEMENT (this “Agreement”) is made and entered into as of the __ day of 2014 (the “Effective Date”), by and between _______________________, located at ________________(“{P2.Handle}”) and GlaxoSmithKline Intellectual Property Development Limited, 980 Great West Road, Brentford, Middlesex, TW8 9GS, England (“{P1.Handle}”). Each of {P1.Handle} and {P2.Handle} may be referred to herein as a “Party” or collectively as the “Parties.”
 
 Intro.Recital=<center>{Recital.Title}</center>{Recital.List}
 Recital.Title=W I T N E S S E T H:
 
 Recital.List=<ul type="none"><li>{Recital.1}</li><li>{Recital.2}</li><li>{Recital.3}</li><li>{Recital.4}</li><li>{Recital.5}</li></ul>
 
-Recital.1=WHEREAS, Institution and Institution’s Investigator (defined below) elected to enter the Discovery Fast Track Challenge sponsored by GSK on the challenge terms and conditions as established by GSK and accepted by Institution and Institution’s Investigator;
+Recital.1=WHEREAS, {P2.Handle} and {P2.Handle}’s Investigator (defined below) elected to enter the Discovery Fast Track Challenge sponsored by {P1.Handle} on the challenge terms and conditions as established by {P1.Handle} and accepted by {P2.Handle} and {P2.Handle}’s Investigator;
 
-Recital.2=WHEREAS, the challenge was held for the purpose of validating targets and biological hypothesis provided by the Institution, with the goal of ultimately identifying possible compounds and products to be researched under the terms and conditions set forth herein, and, if applicable, to be developed, and commercialized by GSK according to the terms and conditions set forth in a separately negotiated DPAc Agreement (defined below);
+Recital.2=WHEREAS, the challenge was held for the purpose of validating targets and biological hypothesis provided by the {P2.Handle}, with the goal of ultimately identifying possible compounds and products to be researched under the terms and conditions set forth herein, and, if applicable, to be developed, and commercialized by {P1.Handle} according to the terms and conditions set forth in a separately negotiated DPAc Agreement (defined below);
 
-Recital.3=WHEREAS, Institution and Institution’s Investigator have been selected in the Discovery Fast Track Challenge and have agreed to the terms and conditions under which to progress into the conduct of the Research (as defined below) for such challenge by GSK;
+Recital.3=WHEREAS, {P2.Handle} and {P2.Handle}’s Investigator have been selected in the Discovery Fast Track Challenge and have agreed to the terms and conditions under which to progress into the conduct of the Research (as defined below) for such challenge by {P1.Handle};
 
-Recital.4=WHEREAS, Institution agrees to transfer to GSK certain Material (defined below) which may be proprietary to Institution, such Material to be provided in the quantity set forth in the Research Plan and such additional quantities as may be necessary and reasonably requested by GSK for use to complete the Research; and
+Recital.4=WHEREAS, {P2.Handle} agrees to transfer to {P1.Handle} certain Material (defined below) which may be proprietary to {P2.Handle}, such Material to be provided in the quantity set forth in the Research Plan and such additional quantities as may be necessary and reasonably requested by {P1.Handle} for use to complete the Research; and
 
-Recital.5=WHEREAS, the Parties now desire to enter into this Agreement to confirm the terms and conditions upon which the Parties agree to conduct the Research and to affect the transfer of the Material to GSK for that purpose; in each case on the terms and conditions as set forth herein.
+Recital.5=WHEREAS, the Parties now desire to enter into this Agreement to confirm the terms and conditions upon which the Parties agree to conduct the Research and to affect the transfer of the Material to {P1.Handle} for that purpose; in each case on the terms and conditions as set forth herein.
 
-Agt.Secs={Secs.Intro}<ol><li>{Def.Sec}</li><li>{2.Sec}</li><li>{3.Sec}</li><li>{4.Sec}</li><li>{5.Sec}</li><li>{6.Sec}</li><li>{Misc.Sec}</li></ol>
+Agt.Secs={Secs.Intro}<ol><li>{Def.Sec}</li><li>{2.Sec}</li><li>{3.Sec}</li><li>{IP.Sec}</li><li>{Conf.Sec}</li><li>{Rep.Sec}</li><li>{Misc.Sec}</li></ol>
 
 Secs.Intro=NOW, THEREFORE, in consideration of the mutual promises contained herein, and other valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the Parties, intending to be legally bound, hereby agree as follows:
 
-Def.Sec=<b>{Def.Title}</b><ul type="none"><li>{Def.Affiliate}</li><li>{Def.Confidential_Information}</li><li>{Def.Confirmed_Hit}</li><li>{Def.DPAc_Agreement}</li><li>{Def.P1_Results}</li><li>{Def.P1_Transfer_Contract}</li><li>{Def.Institution's_Investigator}</li><li>{Def.P2_Results}</li><li>{Def.Material}</li><li>{Def.Material_Transfer_Record}</li><li>{Def.Research}</li><li>{Def.Research_Plan}</li></ul>
+Def.Sec=<b>{Def.Title}</b><ul type="none"><li>{Def.Affiliate}</li><li>{Def.Confidential_Information}</li><li>{Def.Confirmed_Hit}</li><li>{Def.DPAc_Agreement}</li><li>{Def.P1_Results}</li><li>{Def.P1_Transfer_Contract}</li><li>{Def.P2's_Investigator}</li><li>{Def.P2_Results}</li><li>{Def.Material}</li><li>{Def.Material_Transfer_Record}</li><li>{Def.Research}</li><li>{Def.Research_Plan}</li></ul>
 
 Def.Title=Definitions
 
-Def.Affiliate=“Affiliate” means any corporation or non-corporate entity which controls, is controlled by or is under common control with GSK. A corporation or non-corporate entity, as applicable, will be regarded as in control of another corporation if it owns or directly or indirectly controls at least fifty percent (50%) of the voting stock of the other corporation or (i) in the absence of the ownership of at least fifty percent (50%) of the voting stock of a corporation or (ii) in the case of a non-corporate entity, if it possesses, directly or indirectly, the power to direct or cause the direction of the management and policies of such corporation or non-corporate entity, as applicable.
+Def.Affiliate=“Affiliate” means any corporation or non-corporate entity which controls, is controlled by or is under common control with {P1.Handle}. A corporation or non-corporate entity, as applicable, will be regarded as in control of another corporation if it owns or directly or indirectly controls at least fifty percent (50%) of the voting stock of the other corporation or (i) in the absence of the ownership of at least fifty percent (50%) of the voting stock of a corporation or (ii) in the case of a non-corporate entity, if it possesses, directly or indirectly, the power to direct or cause the direction of the management and policies of such corporation or non-corporate entity, as applicable.
 
 Def.Confidential_Information=“Confidential Information” has the meaning ascribed to such term in Section 5.1 below.
 
 Def.Confirmed_Hit="Confirmed Hit” means any hit with demonstrated in vitro activity described here: Robust, dose-responsive activity in the primary screen assay; appropriate specificity and/or selectivity in control assays; Lack of non-specific pan-active effect; Validated chemical structure with acceptable purity; Preferably, activity in one or more secondary cell-based assays.
 
-Def.DPAc_Agreement=“DPAc Agreement” means an agreement entered into between Institution and GSK to further research, develop and commercialize the results of the Research under Institution’s and GSK’s mutually approved terms and conditions applicable to GSK’s Discovery Partnership with Academia. A summary of the core agreed-upon financial terms for the DPAc Agreement to be entered into between GSK and Institution in the event that Parties desire to further progress the Research conducted hereunder is attached hereto as Schedule 4.
+Def.DPAc_Agreement=“DPAc Agreement” means an agreement entered into between {P2.Handle} and {P1.Handle} to further research, develop and commercialize the results of the Research under {P2.Handle}’s and {P1.Handle}’s mutually approved terms and conditions applicable to {P1.Handle}’s Discovery Partnership with Academia. A summary of the core agreed-upon financial terms for the DPAc Agreement to be entered into between {P1.Handle} and {P2.Handle} in the event that Parties desire to further progress the Research conducted hereunder is attached hereto as Schedule 4.
 
-Def.P1_Results="GSK Results" has the meaning ascribed to such term in Section 2.4.
+Def.P1_Results="{P1.Handle} Results" has the meaning ascribed to such term in Section 2.4.
 
-Def.P1_Transfer_Contract="GSK Transfer Contract" has the meaning ascribed to that term in Section 2.3.
+Def.P1_Transfer_Contract="{P1.Handle} Transfer Contract" has the meaning ascribed to that term in Section 2.3.
 
-Def.Institution's_Investigator=“Institution’s Investigator” means the individual responsible for conducting and overseeing the Research on behalf of the Institution.
+Def.P2's_Investigator=“{P2.Handle}’s Investigator” means the individual responsible for conducting and overseeing the Research on behalf of the {P2.Handle}.
 
-Def.P2_Results=“Institution Results” has the meaning ascribed to that term in Section 2.4
+Def.P2_Results=“{P2.Handle} Results” has the meaning ascribed to that term in Section 2.4
 
-Def.Material="Material" means a protein, protein fragment, fusion protein, recombinant protein; a cell line; a gene of interest, a specific genetic mutation, a nucleic acid insert, transgene or lesion, and any other similar material in any form in which any of the foregoing materials are provided, any progeny of or descendant from the foregoing material (e.g. cell from cell, virus from virus or organism from organism), any direct or indirect descendant or progeny containing the same gene of interest, genetic mutation, nucleic acid insert, transgene or lesion as the original material, and any substance which contains an unmodified functional sub-unit or an expression product of the original material (e.g. sub-clones of unmodified cell lines, purified or fractionated sub-sets of the original material, proteins expressed by DNA/RNA, monoclonal antibodies secreted by a hybridoma cell line, or sub-sets of the original material such as novel plasmids or vectors, primary screen assay, control assay and secondary assay, as appropriate, that is specifically transferred from Institution to GSK. The specific Material initially transferred to GSK from the Institution under this Agreement, including the amounts of each such Material provided to GSK, are set forth on the attached Research Plan.
+Def.Material="Material" means a protein, protein fragment, fusion protein, recombinant protein; a cell line; a gene of interest, a specific genetic mutation, a nucleic acid insert, transgene or lesion, and any other similar material in any form in which any of the foregoing materials are provided, any progeny of or descendant from the foregoing material (e.g. cell from cell, virus from virus or organism from organism), any direct or indirect descendant or progeny containing the same gene of interest, genetic mutation, nucleic acid insert, transgene or lesion as the original material, and any substance which contains an unmodified functional sub-unit or an expression product of the original material (e.g. sub-clones of unmodified cell lines, purified or fractionated sub-sets of the original material, proteins expressed by DNA/RNA, monoclonal antibodies secreted by a hybridoma cell line, or sub-sets of the original material such as novel plasmids or vectors, primary screen assay, control assay and secondary assay, as appropriate, that is specifically transferred from {P2.Handle} to {P1.Handle}. The specific Material initially transferred to {P1.Handle} from the {P2.Handle} under this Agreement, including the amounts of each such Material provided to {P1.Handle}, are set forth on the attached Research Plan.
 
 Def.Material_Transfer_Record=“Material Transfer Record” or "MTR" has the meaning ascribed to that term in Section 2.1.
 
-Def.Research=“Research” means the conduct of molecular discovery campaign activities by GSK alone and/or with input from Institution’s Investigator, in accordance with the Research Plan. The Research may include, without limitation, configuration of any assays included in the Material, production of reagents at scale, conduct of high through-put screens, identification and confirmation of “hits” based on screening data, evaluation of Confirmed Hits, and testing of Confirmed Hits in appropriate biological assays or models.
+Def.Research=“Research” means the conduct of molecular discovery campaign activities by {P1.Handle} alone and/or with input from {P2.Handle}’s Investigator, in accordance with the Research Plan. The Research may include, without limitation, configuration of any assays included in the Material, production of reagents at scale, conduct of high through-put screens, identification and confirmation of “hits” based on screening data, evaluation of Confirmed Hits, and testing of Confirmed Hits in appropriate biological assays or models.
 
 Def.Research_Plan="Research Plan" means the research plan as set forth in Schedule 1, attached hereto and incorporated herein by reference.
 
@@ -60,27 +62,27 @@ Def.Research_Plan="Research Plan" means the research plan as set forth in Schedu
 
 2.Title=Terms of Use; Reporting of Results
 
-2.1.Sec=<b>Provision of Material to GSK. </b> Institution agrees to provide the Material to GSK in  the quantity set forth in the Research Plan. In the event that additional quantities of Material  may be needed by GSK in order to complete the Research, GSK will notify the Institution in  writing and the Parties will discuss in good faith whether additional Material may be made  available to GSK; provided, that, if Institution is in possession of additional amounts of such  requested Material, Institution will use its best efforts to provide the requested amounts of such  Material to GSK. All Material provided to GSK under this Agreement shall be accompanied by a  Material Transfer Record (“MTR”) in the form attached as Schedule 2, which will be signed by  Institution when sent, and signed by GSK upon receipt of such Material.
+2.1.Sec=<b>Provision of Material to {P1.Handle}. </b> {P2.Handle} agrees to provide the Material to {P1.Handle} in  the quantity set forth in the Research Plan. In the event that additional quantities of Material  may be needed by {P1.Handle} in order to complete the Research, {P1.Handle} will notify the {P2.Handle} in  writing and the Parties will discuss in good faith whether additional Material may be made  available to {P1.Handle}; provided, that, if {P2.Handle} is in possession of additional amounts of such  requested Material, {P2.Handle} will use its best efforts to provide the requested amounts of such  Material to {P1.Handle}. All Material provided to {P1.Handle} under this Agreement shall be accompanied by a  Material Transfer Record (“MTR”) in the form attached as Schedule 2, which will be signed by  {P2.Handle} when sent, and signed by {P1.Handle} upon receipt of such Material.
 
 2.2.Sec=<b>{2.2.Intro}</b><ol type="a"><li>{2.2.1}</li><li>{2.2.2}</li><li>{2.2.3}</li><li>{2.2.4}</li><li>{2.2.5}</li></ol>
 
-2.2.Intro=Restrictions on use of Material. GSK agrees that the Material
+2.2.Intro=Restrictions on use of Material. {P1.Handle} agrees that the Material
 
 2.2.1=is to be used solely for the Research in accordance with the Research Plan  during the term of the Agreement as described herein;
 
 2.2.2=is to be used in compliance with all applicable statutes and regulations;
 
-2.2.3=will not be used in human subjects, in clinical trials, or for diagnostic purposes  involving human subjects without the written consent of Institution;
+2.2.3=will not be used in human subjects, in clinical trials, or for diagnostic purposes  involving human subjects without the written consent of {P2.Handle};
 
-2.2.4=is to be used only under the direction of employees, agents or consultants of  GSK or its Affiliates; and
+2.2.4=is to be used only under the direction of employees, agents or consultants of  {P1.Handle} or its Affiliates; and
 
-2.2.5=will not be provided to any third party by GSK without the prior written consent of  Institution, except that GSK may provide the Material to its employees, agents, consultants and  Affiliates, provided that such employees, agents, consultants and Affiliates are obligated  (whether in a written agreement or otherwise) to comply with the terms and conditions of this  Agreement.
+2.2.5=will not be provided to any third party by {P1.Handle} without the prior written consent of  {P2.Handle}, except that {P1.Handle} may provide the Material to its employees, agents, consultants and  Affiliates, provided that such employees, agents, consultants and Affiliates are obligated  (whether in a written agreement or otherwise) to comply with the terms and conditions of this  Agreement.
 
-2.3.Sec=<b>Provision of Confirmed Hits to Institution or Institution’s Investigator; Institution Results. </b> The Parties recognize that the Institution may have unique systems, assays or models  that may be useful or necessary to further confirm or validate the Confirmed Hits obtained by  GSK during its conduct of the Research. Depending on the specific GSK Results (as defined  below) obtained by GSK during the conduct of such Research activities, if the Parties determine  that it would be advantageous for GSK to transfer to the Institution or the Institution’s  Investigator such Confirmed Hits for the purpose of allowing the Institution or Institution’s  Investigator to conduct any such further testing of such Confirmed Hits in the Institution’s  biological systems or assays, the Parties will negotiate and execute a "GSK Transfer Contract"  a form template of which is attached hereto as Schedule 3. The GSK Transfer Contract will  include an attached work plan setting forth the specific activities to be conducted by the  Institution and/or Institution’s Investigator with the Confirmed Hits, including a timeline for the  conduct of such activities, said timeline shall not extend beyond the term of this agreement.
+2.3.Sec=<b>Provision of Confirmed Hits to {P2.Handle} or {P2.Handle}’s Investigator; {P2.Handle} Results. </b> The Parties recognize that the {P2.Handle} may have unique systems, assays or models  that may be useful or necessary to further confirm or validate the Confirmed Hits obtained by  {P1.Handle} during its conduct of the Research. Depending on the specific {P1.Handle} Results (as defined  below) obtained by {P1.Handle} during the conduct of such Research activities, if the Parties determine  that it would be advantageous for {P1.Handle} to transfer to the {P2.Handle} or the {P2.Handle}’s  Investigator such Confirmed Hits for the purpose of allowing the {P2.Handle} or {P2.Handle}’s  Investigator to conduct any such further testing of such Confirmed Hits in the {P2.Handle}’s  biological systems or assays, the Parties will negotiate and execute a "{P1.Handle} Transfer Contract"  a form template of which is attached hereto as Schedule 3. The {P1.Handle} Transfer Contract will  include an attached work plan setting forth the specific activities to be conducted by the  {P2.Handle} and/or {P2.Handle}’s Investigator with the Confirmed Hits, including a timeline for the  conduct of such activities, said timeline shall not extend beyond the term of this agreement.
 
-2.4.Sec=<b>{P1.Handle} Results. </b> Within the later of: (a) sixty (60) days following the conclusion of  the Research by GSK, or, (b) in the event that the Parties have entered into a GSK Transfer  Contract pursuant to Section 2.3 above, then within forty-five (45) days following receipt by GSK of the results of the testing conducted by Institution or the Institution's Investigator under the GSK Transfer Contract (the "Institution Results"), GSK shall provide Institution with a summary of the results of the Research relating to the Material that were generated solely by  GSK in the conduct of the Research activities allocated to GSK under this Agreement (the “GSK  Results”). The GSK Results shall be considered GSK Confidential Information and shall be  kept confidential by the Institution. Because the GSK Results includes information on the GSK  proprietary compounds that were identified by GSK during the conduct of the Research,  Institution shall not publish or otherwise disclose the GSK Results to any third party or use the  GSK Results except for the Institution’s own internal research purposes (excluding any such  internal research conducted with, for, or on behalf of a third party commercial entity in the event  of Research Outcome 2, Section 3.2, below) without first obtaining GSK’s prior written consent  to such disclosure or use. Nothing set forth in this Section 2.4 shall prevent Institution from  exercising the Institution’s publication rights as specifically set forth in Section 5.4 below,  provided that such publications do not contain the GSK Results.
+2.4.Sec=<b>{P1.Handle} Results. </b> Within the later of: (a) sixty (60) days following the conclusion of  the Research by {P1.Handle}, or, (b) in the event that the Parties have entered into a {P1.Handle} Transfer  Contract pursuant to Section 2.3 above, then within forty-five (45) days following receipt by {P1.Handle} of the results of the testing conducted by {P2.Handle} or the {P2.Handle}'s Investigator under the {P1.Handle} Transfer Contract (the "Institution Results"), {P1.Handle} shall provide {P2.Handle} with a summary of the results of the Research relating to the Material that were generated solely by  {P1.Handle} in the conduct of the Research activities allocated to {P1.Handle} under this Agreement (the “{P1.Handle}  Results”). The {P1.Handle} Results shall be considered {P1.Handle} Confidential Information and shall be  kept confidential by the {P2.Handle}. Because the {P1.Handle} Results includes information on the {P1.Handle}  proprietary compounds that were identified by {P1.Handle} during the conduct of the Research,  {P2.Handle} shall not publish or otherwise disclose the {P1.Handle} Results to any third party or use the  {P1.Handle} Results except for the {P2.Handle}’s own internal research purposes (excluding any such  internal research conducted with, for, or on behalf of a third party commercial entity in the event  of Research Outcome 2, Section 3.2, below) without first obtaining {P1.Handle}’s prior written consent  to such disclosure or use. Nothing set forth in this Section 2.4 shall prevent {P2.Handle} from  exercising the {P2.Handle}’s publication rights as specifically set forth in Section 5.4 below,  provided that such publications do not contain the {P1.Handle} Results.
 
-2.5.Sec=<b>Acknowledgement of Prior Activities. </b> Institution understands and acknowledges  that prior to the Effective Date, GSK and/or its Affiliates may have performed or engaged in, or  otherwise arranged for the conducting of, research, development and commercialization  activities relating to performing a molecular discovery campaign and/or conducting activities or  otherwise evaluating biological materials which may include the Materials. Further, Institution acknowledges and agrees that nothing contained in this Agreement will be construed, by  implication or otherwise, as prohibiting GSK and/or its Affiliates, during the Term and thereafter,  from performing or engaging in, or otherwise arranging for the conducting of, research,  development or commercialization activities relating in whole or in part to molecular discovery  campaigns, independent and without the use of Materials or Confidential Information.
+2.5.Sec=<b>Acknowledgement of Prior Activities. </b> {P2.Handle} understands and acknowledges  that prior to the Effective Date, {P1.Handle} and/or its Affiliates may have performed or engaged in, or  otherwise arranged for the conducting of, research, development and commercialization  activities relating to performing a molecular discovery campaign and/or conducting activities or  otherwise evaluating biological materials which may include the Materials. Further, {P2.Handle} acknowledges and agrees that nothing contained in this Agreement will be construed, by  implication or otherwise, as prohibiting {P1.Handle} and/or its Affiliates, during the Term and thereafter,  from performing or engaging in, or otherwise arranging for the conducting of, research,  development or commercialization activities relating in whole or in part to molecular discovery  campaigns, independent and without the use of Materials or Confidential Information.
 
 
 3.Sec=<b>{3.Title}</b> {3.Intro}<ol><li>{3.1.Sec}</li><li>{3.2.Sec}</li><li>{3.3.Sec}</li><li>{3.4.Sec}</li></ol>
@@ -91,139 +93,149 @@ Def.Research_Plan="Research Plan" means the research plan as set forth in Schedu
 
 3.1.Sec=<b>{3.1.Title}</b> {3.1.Intro}:<ol type="a"><li>{3.1.1}</li><li>{3.1.2}</li><li>{3.1.3}</li></ol>
 
-3.1.Title=Research Outcome 1 - GSK and Institution Mutually Agree to Continue and  Expand the Research
+3.1.Title=Research Outcome 1 - {P1.Handle} and {P2.Handle} Mutually Agree to Continue and  Expand the Research
 
-3.1.Intro=If, based on each Party’s review of the GSK Results, and/or the  Institution Results, if applicable, the Parties mutually agree that it would be advantageous to  further evaluate the Materials and/or the Confirmed Hits resulting from the use of the Materials  in the Research, then
+3.1.Intro=If, based on each Party’s review of the {P1.Handle} Results, and/or the  Institution Results, if applicable, the Parties mutually agree that it would be advantageous to  further evaluate the Materials and/or the Confirmed Hits resulting from the use of the Materials  in the Research, then
 
-3.1.1=The Parties will, in good faith, negotiate a DPAc Agreement to govern the  conduct of additional research, development, and potential commercialization by GSK of  the Materials and/or Confirmed Hits resulting from the use of the Materials in the  Research; such DPAc Agreement to include the principle financial terms as set forth on  the attached Schedule 4, attached hereto and incorporated herein by reference.
+3.1.1=The Parties will, in good faith, negotiate a DPAc Agreement to govern the  conduct of additional research, development, and potential commercialization by {P1.Handle} of  the Materials and/or Confirmed Hits resulting from the use of the Materials in the  Research; such DPAc Agreement to include the principle financial terms as set forth on  the attached Schedule 4, attached hereto and incorporated herein by reference.
 
-3.1.2=If the Parties enter into a DPAc Agreement, all data and results obtained under  the Research pursuant to this Agreement, including results obtained from the conduct of  activities by Institution pursuant to Section 2.3 herein, will, unless otherwise mutually agreed by the Parties, be used in connection with activities under such DPAc  Agreement, and further work related thereto will be carried out and governed by the  terms set forth in the DPAc Agreement. In the event of a conflict between terms in this  Agreement and any future DPAc Agreement negotiated pursuant to the Research  performed under this Agreement, the terms of the DPAc Agreement control.
+3.1.2=If the Parties enter into a DPAc Agreement, all data and results obtained under  the Research pursuant to this Agreement, including results obtained from the conduct of  activities by {P2.Handle} pursuant to Section 2.3 herein, will, unless otherwise mutually agreed by the Parties, be used in connection with activities under such DPAc  Agreement, and further work related thereto will be carried out and governed by the  terms set forth in the DPAc Agreement. In the event of a conflict between terms in this  Agreement and any future DPAc Agreement negotiated pursuant to the Research  performed under this Agreement, the terms of the DPAc Agreement control.
 
-3.1.3=If the Parties are unable to reach agreement on the terms of a DPAc Agreement  within a reasonable period of time, not to exceed one hundred and eighty (180) days  from the date they begin negotiating, then GSK may elect to proceed under the terms of  Section 3.3, Research Outcome 3, herein.
+3.1.3=If the Parties are unable to reach agreement on the terms of a DPAc Agreement  within a reasonable period of time, not to exceed one hundred and eighty (180) days  from the date they begin negotiating, then {P1.Handle} may elect to proceed under the terms of  Section 3.3, Research Outcome 3, herein.
 
 
 3.2.Sec=<b>{3.2.Title}</b> {3.2.Intro}<ol type="a"><li>{3.2.1}</li><li>{3.2.2}</li></ol>
 
-3.2.Title=Research Outcome 2 - Institution Desires to Continue the Research, but GSK  determines that GSK Results and/or Institution Results are not of sufficient interest to enter into  a DPAc Agreement.
+3.2.Title=Research Outcome 2 - {P2.Handle} Desires to Continue the Research, but {P1.Handle}  determines that {P1.Handle} Results and/or Institution Results are not of sufficient interest to enter into  a DPAc Agreement.
 
-3.2.Intro=In the event that, based on the GSK Results and/or Institution Results, as  applicable, the Institution desires to continue the Research but GSK does not, then
+3.2.Intro=In the event that, based on the {P1.Handle} Results and/or Institution Results, as  applicable, the {P2.Handle} desires to continue the Research but {P1.Handle} does not, then
 
-3.2.1=GSK will either, at GSK’s sole discretion, (i) provide to the Institution, or (ii) jointly  publish with Institution, the structures for one (1) to three (3) compounds from the Research that  GSK has determined (iii) are not included in or related to an internal GSK research program,  and (iv) are not encumbered by any external third party obligations or restrictions on GSK (such  compounds the “Presented Compounds”). Institution may use the Presented Compounds for  any and all purposes, and may create derivatives, analogs, or modified versions of the  Presented Compounds. For the avoidance of doubt, GSK will not have an obligation to conduct,  and does not warrant that it has conducted, a freedom to operate analysis with respect to the  Presented Compounds.
+3.2.1={P1.Handle} will either, at {P1.Handle}’s sole discretion, (i) provide to the {P2.Handle}, or (ii) jointly  publish with {P2.Handle}, the structures for one (1) to three (3) compounds from the Research that  {P1.Handle} has determined (iii) are not included in or related to an internal {P1.Handle} research program,  and (iv) are not encumbered by any external third party obligations or restrictions on {P1.Handle} (such  compounds the “Presented Compounds”). {P2.Handle} may use the Presented Compounds for  any and all purposes, and may create derivatives, analogs, or modified versions of the  Presented Compounds. For the avoidance of doubt, {P1.Handle} will not have an obligation to conduct,  and does not warrant that it has conducted, a freedom to operate analysis with respect to the  Presented Compounds.
 
 3.2.2={3.2.2.Intro}:<ol type="i"><li>{3.2.2.1}</li><li>{3.2.2.2}</li><li>{3.2.2.3}</li></ol>
-3.2.2.Intro=Pursuant to this Section 3.2, GSK agrees to negotiate in good faith an agreement  with the Institution to allow the Institution to progress research and development efforts with  respect to the Presented Compounds, on its own, or with, or for the benefit of a third party, such  agreement to include the following minimum terms
+3.2.2.Intro=Pursuant to this Section 3.2, {P1.Handle} agrees to negotiate in good faith an agreement  with the {P2.Handle} to allow the {P2.Handle} to progress research and development efforts with  respect to the Presented Compounds, on its own, or with, or for the benefit of a third party, such  agreement to include the following minimum terms
 
-3.2.2.1=The Institution will have the right to progress the research and development of  the Presented Compounds and to commercialize any such Presented Compounds, and  any derivatives, analogs, or modified versions of the Presented Compounds made by  the Institution, on fair and reasonable terms, which will include the terms set forth in the  attached Schedule 4;
+3.2.2.1=The {P2.Handle} will have the right to progress the research and development of  the Presented Compounds and to commercialize any such Presented Compounds, and  any derivatives, analogs, or modified versions of the Presented Compounds made by  the {P2.Handle}, on fair and reasonable terms, which will include the terms set forth in the  attached Schedule 4;
 
-3.2.2.2=GSK will retain a worldwide, fully paid-up, non-exclusive, perpetual, irrevocable  right and license to make and use the Presented Compounds solely for research and  development (but not for commercial) purposes. For clarity, such research and  development purposes would allow Presented Compounds to remain in the GSK  compound library, to be used in other GSK screens, and to form the basis for medicinal chemistry research and development programs at GSK. Further, such license would be sublicenseable to GSK's Affiliates and collaborators; and
+3.2.2.2={P1.Handle} will retain a worldwide, fully paid-up, non-exclusive, perpetual, irrevocable  right and license to make and use the Presented Compounds solely for research and  development (but not for commercial) purposes. For clarity, such research and  development purposes would allow Presented Compounds to remain in the {P1.Handle}  compound library, to be used in other {P1.Handle} screens, and to form the basis for medicinal chemistry research and development programs at {P1.Handle}. Further, such license would be sublicenseable to {P1.Handle}'s Affiliates and collaborators; and
 
-3.2.2.3=Institution will have the right to seek intellectual property protection for the  Presented Compounds and any derivatives, analogs or modified versions thereof that  are made by the Institution.
+3.2.2.3={P2.Handle} will have the right to seek intellectual property protection for the  Presented Compounds and any derivatives, analogs or modified versions thereof that  are made by the {P2.Handle}.
 
 
 3.3.Sec=<b>{3.3.Title}</b><ol type="a"><li>{3.3.1}</li><li>{3.3.2}</li><li>{3.3.3}</li><li>{3.3.4}</li></ol>
 
-3.3.Title=Research Outcome 3 - GSK Desires to Continue the Research and enter into a DPAc  Agreement, but the Institution does not elect to enter into a DPAc Agreement
+3.3.Title=Research Outcome 3 - {P1.Handle} Desires to Continue the Research and enter into a DPAc  Agreement, but the {P2.Handle} does not elect to enter into a DPAc Agreement
 
-3.3.Intro=In the event that,  based on the GSK Results and/or the Institution Results, as applicable, GSK desires to continue  the Research and to enter into a DPAc Agreement with the Institution for reasonable funding of  further research and development activities, but the Institution elects not to proceed to negotiate  and enter into a DPAc Agreement, then
+3.3.Intro=In the event that,  based on the {P1.Handle} Results and/or the Institution Results, as applicable, {P1.Handle} desires to continue  the Research and to enter into a DPAc Agreement with the {P2.Handle} for reasonable funding of  further research and development activities, but the {P2.Handle} elects not to proceed to negotiate  and enter into a DPAc Agreement, then
 
-3.3.1=GSK will have the right to continue with the Research and to progress any hits,  Confirmed Hits, or derivatives, analogs, or modified versions of the foregoing, identified during  the conduct of the Research under this Agreement to be treated in the same way as if such hits  or Confirmed Hits arose from a GSK internal research and development program;
+3.3.1={P1.Handle} will have the right to continue with the Research and to progress any hits,  Confirmed Hits, or derivatives, analogs, or modified versions of the foregoing, identified during  the conduct of the Research under this Agreement to be treated in the same way as if such hits  or Confirmed Hits arose from a {P1.Handle} internal research and development program;
 
-3.3.2=Effective upon notice by Institution in writing that it will not elect to negotiate a  DPAc Agreement, to the extent legally able, Institution shall grant to GSK a non-exclusive,  royalty-free, worldwide, right and license, with a right to grant sublicenses to GSK Affiliates and collaborators, under Institution’s rights in any existing and/or arising intellectual property claiming the Material ;
+3.3.2=Effective upon notice by {P2.Handle} in writing that it will not elect to negotiate a  DPAc Agreement, to the extent legally able, {P2.Handle} shall grant to {P1.Handle} a non-exclusive,  royalty-free, worldwide, right and license, with a right to grant sublicenses to {P1.Handle} Affiliates and collaborators, under {P2.Handle}’s rights in any existing and/or arising intellectual property claiming the Material ;
 
-3.3.3=GSK will not have an obligation to provide to the Institution or to publish any  structures of any of the Confirmed Hits from the Research; and
+3.3.3={P1.Handle} will not have an obligation to provide to the {P2.Handle} or to publish any  structures of any of the Confirmed Hits from the Research; and
 
-3.3.4=Within sixty (60) days following the grant in Section 3.3(b), GSK agrees to  negotiate an agreement with Institution which will set forth milestone payments payable to  Institution by GSK in consideration for the aforementioned license grant. For clarity, no royalties  will be owed.
+3.3.4=Within sixty (60) days following the grant in Section 3.3(b), {P1.Handle} agrees to  negotiate an agreement with {P2.Handle} which will set forth milestone payments payable to  {P2.Handle} by {P1.Handle} in consideration for the aforementioned license grant. For clarity, no royalties  will be owed.
 
 
 3.4.Sec=<b>{3.4.Title}</b>:<ol type="a"><li>{3.4.1}</li><li>{3.4.2}</li><li>{3.4.3}</li></ol>
 
 3.4.Title=Research Outcome 4 - Neither Party Desires to Continue the Research
 
-3.4.Intro+In the  event that GSK determines that the Research has not generated any Confirmed Hits, or in the  event that based on the GSK Results and/or Institution Results neither Party desires to continue  the Research and expand the research relationship, then
+3.4.Intro+In the  event that {P1.Handle} determines that the Research has not generated any Confirmed Hits, or in the  event that based on the {P1.Handle} Results and/or Institution Results neither Party desires to continue  the Research and expand the research relationship, then
 
-3.4.1=GSK will not have an obligation to provide to the Institution or to publish any  structures of any of the Confirmed Hits from the Research;
+3.4.1={P1.Handle} will not have an obligation to provide to the {P2.Handle} or to publish any  structures of any of the Confirmed Hits from the Research;
 
-3.4.2=if the Research generated any Confirmed Hits, GSK will not, for a period of three  (3) years following the Effective Date of this Agreement, conduct any activities using any such  Confirmed Hits in connection with the specific target identified by Institution in the Materials,  unless GSK exercises its rights pursuant to Section 3.4(c) below;
+3.4.2=if the Research generated any Confirmed Hits, {P1.Handle} will not, for a period of three  (3) years following the Effective Date of this Agreement, conduct any activities using any such  Confirmed Hits in connection with the specific target identified by {P2.Handle} in the Materials,  unless {P1.Handle} exercises its rights pursuant to Section 3.4(c) below;
 
-3.4.3=if the Research generated any Confirmed Hits, GSK may, for a period of three (3)  years following the Effective Date of this Agreement, elect to continue the Research by  providing written notice to Institution and allowing Institution the option to enter into a DPAc  Agreement with GSK for such purpose. If within forty-five (45) days following receipt of such  notice from GSK Institution provides written notice to GSK of its election to negotiate and enter  into a DPAc Agreement, the terms of Section 3.1 above shall apply. If within forty-five (45) days  following receipt of such notice from GSK Institution does not elect in writing to GSK to  negotiate a DPAc Agreement for the purpose of continuing the Research, then GSK may elect  to unilaterally progress any Confirmed Hits identified in the Research in accordance with the  terms set forth in Section 3.3 above, and all of the terms set forth in Section 3.3 above would  apply.
-
-
-4.Sec=<b>{4.Title}</b><ol ><li>{4.1.Sec}</li><li>{4.2.Sec}</li><li>{4.3.Sec}</li><li>{4.4.Sec}</li><li>{4.5.Sec}</li></ol>
-
-4.Title=Intellectual Property
-
-4.1.Sec=<b>Pre-Existing Rights. </b> Institution will retain ownership in its intellectual and  industrial property rights in the Material. GSK will retain ownership in its intellectual and  industrial property rights in any materials and compounds that are owned or controlled by GSK.
-
-4.2.Sec=<b>Material Arising Intellectual Property. </b> Arising intellectual property that relatesdirectly to the Material will be owned by the Institution ("Material Inventions"). Institution shall,  and shall ensure that the Institution’s Investigator, as well as the Institution's employees, agents,  and consultants, shall, sign, execute, make, and do all such further deeds, documents, and acts  as reasonably required to give effect to the provisions of this Section 4.2. GSK shall, and shall  ensure that its employees, agents and consultants shall, sign, execute, make, and do all such  further deeds, documents, and acts as reasonably required to give effect to the provisions of  this Section 4.2.
-
-4.3.Sec=<b>GSK Arising Intellectual Property. </b> GSK will own all rights in the GSK Results, and  in any information, data and results that GSK generates on any GSK compounds identified from  GSK’s proprietary compound library during the conduct of the Research under this Agreement and any GSK-generated derivates or analogs thereto. Subject to Section 4.2, GSK will own all  inventions and related intellectual property (including know-how, patents and copyrights), that  as between GSK and Institution, GSK discovers or makes during the course of the Research.
-
-4.4.Sec=<b>Other Inventions. </b> Inventorship of all other arising intellectual property rights,  except as set forth in Section 4.2 and Section 4.3. above, will be determined by applicable  patent law, and ownership will follow inventorship.
-
-4.5.Sec=<b>No Further Rights. </b> Except as provided in this Agreement, no express or implied  licenses or other rights are provided to GSK, to Institution, or to Institution’s Investigator under  any patents, patent applications, trade secrets or other proprietary rights of Institution or GSK,  as applicable.
+3.4.3=if the Research generated any Confirmed Hits, {P1.Handle} may, for a period of three (3)  years following the Effective Date of this Agreement, elect to continue the Research by  providing written notice to {P2.Handle} and allowing {P2.Handle} the option to enter into a DPAc  Agreement with {P1.Handle} for such purpose. If within forty-five (45) days following receipt of such  notice from {P1.Handle} {P2.Handle} provides written notice to {P1.Handle} of its election to negotiate and enter  into a DPAc Agreement, the terms of Section 3.1 above shall apply. If within forty-five (45) days  following receipt of such notice from {P1.Handle} {P2.Handle} does not elect in writing to {P1.Handle} to  negotiate a DPAc Agreement for the purpose of continuing the Research, then {P1.Handle} may elect  to unilaterally progress any Confirmed Hits identified in the Research in accordance with the  terms set forth in Section 3.3 above, and all of the terms set forth in Section 3.3 above would  apply.
 
 
-5.Sec=<b>{5.Title}</b><ol><li>{5.1.Sec}</li><li>{5.2.Sec}</li><li>{5.3.Sec}</li><li>{5.4.Sec}</li></ol>
+IP.Sec=<b>{IP.Title}</b><ol ><li>{IP.1.Sec}</li><li>{IP.2.Sec}</li><li>{IP.3.Sec}</li><li>{IP.4.Sec}</li><li>{IP.5.Sec}</li></ol>
 
-5.Title=Confidentiality; Publication
+IP.Title=Intellectual Property
 
-5.1.Sec={5.1.Intro}:<ol type="a"><li>{5.1.1}</li><li>{5.1.2}</li><li>{5.1.3}</li><li>{5.1.4}</li><li>{5.1.5}</li></ol>
+IP.1.Sec=<b>Pre-Existing Rights. </b> {P2.Handle} will retain ownership in its intellectual and  industrial property rights in the Material. {P1.Handle} will retain ownership in its intellectual and  industrial property rights in any materials and compounds that are owned or controlled by {P1.Handle}.
 
-5.1.Intro=The term “Confidential Information” means any and all confidential or proprietary  information clearly marked as “Confidential” disclosed by or on behalf of one Party (oral  information reduced to writing within 30 days), on or after the Effective Date, to the other Party  in connection with this Agreement. However, Confidential Information does not include any  portion of the Confidential Information which
+IP.2.Sec=<b>Material Arising Intellectual Property. </b> Arising intellectual property that relatesdirectly to the Material will be owned by the {P2.Handle} ("Material Inventions"). {P2.Handle} shall,  and shall ensure that the Institution’s Investigator, as well as the {P2.Handle}'s employees, agents,  and consultants, shall, sign, execute, make, and do all such further deeds, documents, and acts  as reasonably required to give effect to the provisions of this Section 4.2. {P1.Handle} shall, and shall  ensure that its employees, agents and consultants shall, sign, execute, make, and do all such  further deeds, documents, and acts as reasonably required to give effect to the provisions of  this Section 4.2.
 
-5.1.1=at the time of disclosure is in the public domain;
+IP.3.Sec=<b>{P1.Handle} Arising Intellectual Property. </b> {P1.Handle} will own all rights in the {P1.Handle} Results, and  in any information, data and results that {P1.Handle} generates on any {P1.Handle} compounds identified from  {P1.Handle}’s proprietary compound library during the conduct of the Research under this Agreement and any {P1.Handle}-generated derivates or analogs thereto. Subject to Section 4.2, {P1.Handle} will own all  inventions and related intellectual property (including know-how, patents and copyrights), that  as between {P1.Handle} and {P2.Handle}, {P1.Handle} discovers or makes during the course of the Research.
 
-5.1.2=after disclosure becomes in the public domain, except through breach of this Agreement by the receiving Party;
+IP.4.Sec=<b>Other Inventions. </b> Inventorship of all other arising intellectual property rights,  except as set forth in Section 4.2 and Section 4.3. above, will be determined by applicable  patent law, and ownership will follow inventorship.
 
-5.1.3=was in the receiving Party’s possession prior to the time of disclosure by or on  behalf of the disclosing Party, and was not acquired directly or indirectly from the disclosing  Party;
-
-5.1.4=becomes available to the receiving Party from a third party that is not legally  prohibited from disclosing such Confidential Information;
-
-5.1.5=was developed by or for the receiving Party independently of the disclosure of  Confidential Information by the disclosing Party or its Affiliates.
-
-5.2.Sec=<b>Protection of Confidential Information. </b> For a period of five (5) years after the  Effective Date of the Agreement, the receiving Party shall keep the Confidential Information  strictly confidential and, except as otherwise permitted herein, shall not disclose such  Confidential Information to any third party without first obtaining the disclosing Party’s prior  written consent. The standard of care required of the receiving Party in protecting the  confidentiality of Confidential Information is the same standard of care that the receiving Party uses in protecting its own confidential information of a similar nature, but in no event shall the  receiving Party use less than a reasonable standard of care. The receiving Party may disclose  Confidential Information only to its Affiliates, employees or consultants on a need-to-know basis,  provided that the receiving Party will have executed or shall execute appropriate written  agreements with such Affiliates, and consultants sufficient to enable the receiving Party to  comply with all the provisions of this Agreement.
-
-5.3.Sec=<b>Permitted Disclosure. </b> Notwithstanding any provision herein to the contrary, in the  event that the receiving Party hereafter becomes obligated by mandatory applicable law, regulatory rule or judicial or administrative order to disclose such Confidential Information or any portion thereof, to any governmental authority or court or other party to the extent required by  statute, the receiving Party shall immediately notify the disclosing Party of each such  requirement and identify the Confidential Information so required thereby, so that the disclosing  Party may seek an appropriate protective order or other remedy with respect to narrowing the  scope of such requirement and/or waive compliance by the receiving Party with the provisions  of this Agreement. If, in the absence of such protective order or other remedy, the receiving  Party is nonetheless required by mandatory applicable law to disclose any part of the  Confidential Information, the receiving Party may disclose such Confidential Information without  liability hereunder, provided, that, the receiving Party shall furnish only such portion of the  Confidential Information which is legally required to be disclosed and only to the extent required  by applicable law.
-
-5.4.Sec=<b>Publication Rights. </b> Institution shall have the right to publish the results of any  research activities conducted by the Institution using the Materials or the Presented Compounds (i.e. those GSK compounds presented to Institution under Section 3.2 (“Research Scenario  #2”)), without the prior written consent of GSK. To the extent that the GSK Results are provided  to the Institution, publication of any such GSK Results by the Institution shall be governed by  Section 2.4 of this Agreement. If the Institution and GSK enter into a DPAc Agreement as set  forth in Section 3.1, publication rights with respect to the project will be governed by the terms of  such DPAc Agreement.
+IP.5.Sec=<b>No Further Rights. </b> Except as provided in this Agreement, no express or implied  licenses or other rights are provided to {P1.Handle}, to {P2.Handle}, or to Institution’s Investigator under  any patents, patent applications, trade secrets or other proprietary rights of {P2.Handle} or {P1.Handle},  as applicable.
 
 
-6.Sec=<b>{6.Title}</b><ol><li>{6.1.Sec}</li><li>{6.2.Sec}</li><li>{6.3.Sec}</li><li>{6.4.Sec}</li></ol>
+Conf.Sec=<b>{Conf.Title}</b><ol><li>{Conf.Def.Sec}</li><li>{Conf.Except.sec}</li><li>{Conf.Care.Sec}</li><li>{Conf.Except.Compelled.Sec}</li><li>{Conf.Publication.Sec}</li></ol>
 
-6.Title=Representations and Warranties
-
-6.1.Sec=Any Material delivered pursuant to this Agreement is understood to be  experimental in nature and may have hazardous properties. INSTITUTION MAKES NO  REPRESENTATIONS OR WARRANTIES OF ANY KIND RELATING TO THE MATERIAL,  EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF  MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, OR THAT THE USE OF  THE MATERIAL WILL NOT INFRINGE ANY PATENT, COPYRIGHT, TRADEMARK OR  OTHER PROPRIETARY RIGHTS.
-
-6.2.Sec=GSK assumes all liability for damages, which may arise from its use, storage or  disposal of the Material. Institution will not be liable to GSK for any loss, claim or demand made  by GSK, or made against GSK by any other Party, due to or arising from the use, storage or  disposal of the Material by GSK, except to the extent permitted by law when caused by the  negligence or willful misconduct of Institution.
-
-6.3.Sec=Institution represents and certifies that, for any Material which is comprised of or  derived from human biological material, such human biological material was lawfully obtained by  Institution, including any applicable requirements for the informed consent of the donor of such  materials.
-
-6.4.Sec=THE STRUCTURES FOR ALL PRESENTED COMPOUNDS PROVIDED BY  GSK TO INSTITUTION OR INSTITUTION’S INVESTIGATOR UNDER THIS AGREEMENT  ARE PROVIDED “AS IS” WITHOUT REPRESENTATIONS OR WARRANTIES OF ANY KIND,  INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS  FOR A PARTICULAR PURPOSE, FREEDOM TO OPERATE OR THAT THE USE OF THE  PRESENTED COMPOUNDS WILL NOT INFRINGE ANY PATENT, COPYRIGHT,  TRADEMARK OR OTHER PROPRIETARY RIGHTS.
+Conf.Title=Confidentiality; Publication
 
 
-Misc.Sec=<b>{Misc.Title}</b><ol><li>{Misc.Time.Sec}</li><li>{Misc.Return.Sec}</li><li>{Misc.Survive.Sec}</li><li>{Misc.Notice.Sec}</li><li>{Misc.Assign.Sec}</li><li>{Misc.Entire.Sec}</li><li>{Misc.Amend.Sec}</li><li>{Misc.Waiver.Sec}</li><li>{Misc.Publicity.Sec}</li><li>{Misc.Law.Sec}</li><li>{Misc.Counterpart.Sec}</li></ol>
+
+Conf.Def.Sec=<b> "Confidential Information"</b> The term “Confidential Information” means any and all confidential or proprietary  information clearly marked as “Confidential” disclosed by or on behalf of one Party (oral  information reduced to writing within 30 days), on or after the Effective Date, to the other Party  in connection with this Agreement. However, 
+
+
+Conf.Except.sec=<b>{Conf.Except.Title}. </b> {Conf.Except.Intro}:<ol type="a"><li>{Conf.Except.WasPublic}</li><li>{Conf.Except.BecomesPublic}</li><li>{Conf.Except.Has}</li><li>{Conf.Except.Finds}</li><li>{Conf.Except.Makes}</li></ol>
+
+Conf.Except.Title=Exceptions to Confidentiality
+
+Conf.Except.Intro=Confidential Information does not include any  portion of the Confidential Information which
+
+Conf.Except.WasPublic=at the time of disclosure is in the public domain;
+
+Conf.Except.BecomesPublic=after disclosure becomes in the public domain, except through breach of this Agreement by the receiving Party;
+
+Conf.Except.Has=was in the receiving Party’s possession prior to the time of disclosure by or on  behalf of the disclosing Party, and was not acquired directly or indirectly from the disclosing  Party;
+
+Conf.Except.Finds=becomes available to the receiving Party from a third party that is not legally  prohibited from disclosing such Confidential Information;
+
+Conf.Except.Makes=was developed by or for the receiving Party independently of the disclosure of  Confidential Information by the disclosing Party or its Affiliates.
+
+Conf.Care.Sec=<b>Protection of Confidential Information. </b> For a period of five (5) years after the  Effective Date of the Agreement, the receiving Party shall keep the Confidential Information  strictly confidential and, except as otherwise permitted herein, shall not disclose such  Confidential Information to any third party without first obtaining the disclosing Party’s prior  written consent. The standard of care required of the receiving Party in protecting the  confidentiality of Confidential Information is the same standard of care that the receiving Party uses in protecting its own confidential information of a similar nature, but in no event shall the  receiving Party use less than a reasonable standard of care. The receiving Party may disclose  Confidential Information only to its Affiliates, employees or consultants on a need-to-know basis,  provided that the receiving Party will have executed or shall execute appropriate written  agreements with such Affiliates, and consultants sufficient to enable the receiving Party to  comply with all the provisions of this Agreement.
+
+Conf.Except.Compelled.Sec=<b>Permitted Disclosure. </b> Notwithstanding any provision herein to the contrary, in the  event that the receiving Party hereafter becomes obligated by mandatory applicable law, regulatory rule or judicial or administrative order to disclose such Confidential Information or any portion thereof, to any governmental authority or court or other party to the extent required by  statute, the receiving Party shall immediately notify the disclosing Party of each such  requirement and identify the Confidential Information so required thereby, so that the disclosing  Party may seek an appropriate protective order or other remedy with respect to narrowing the  scope of such requirement and/or waive compliance by the receiving Party with the provisions  of this Agreement. If, in the absence of such protective order or other remedy, the receiving  Party is nonetheless required by mandatory applicable law to disclose any part of the  Confidential Information, the receiving Party may disclose such Confidential Information without  liability hereunder, provided, that, the receiving Party shall furnish only such portion of the  Confidential Information which is legally required to be disclosed and only to the extent required  by applicable law.
+
+Conf.Publication.Sec=<b>Publication Rights. </b> {P2.Handle} shall have the right to publish the results of any  research activities conducted by the {P2.Handle} using the Materials or the Presented Compounds (i.e. those {P1.Handle} compounds presented to {P2.Handle} under Section 3.2 (“Research Scenario  #2”)), without the prior written consent of {P1.Handle}. To the extent that the {P1.Handle} Results are provided  to the {P2.Handle}, publication of any such {P1.Handle} Results by the {P2.Handle} shall be governed by  Section 2.4 of this Agreement. If the {P2.Handle} and {P1.Handle} enter into a DPAc Agreement as set  forth in Section 3.1, publication rights with respect to the project will be governed by the terms of  such DPAc Agreement.
+
+
+
+Rep.Sec=<b>{Rep.Title}</b><ol><li>{Rep.P2.Disclaim.Sec}</li><li>{Rep.P1.Handling.Sec}</li><li>{Rep.P2.LawfullyObtained.Sec}</li><li>{Rep.P1.Disclaim.Sec}</li></ol>
+
+Rep.Title=Representations and Warranties
+
+Rep.P2.Disclaim.Sec=Any Material delivered pursuant to this Agreement is understood to be  experimental in nature and may have hazardous properties. INSTITUTION MAKES NO  REPRESENTATIONS OR WARRANTIES OF ANY KIND RELATING TO THE MATERIAL,  EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF  MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, OR THAT THE USE OF  THE MATERIAL WILL NOT INFRINGE ANY PATENT, COPYRIGHT, TRADEMARK OR  OTHER PROPRIETARY RIGHTS.
+
+Rep.P1.Handling.Sec={P1.Handle} assumes all liability for damages, which may arise from its use, storage or  disposal of the Material. {P2.Handle} will not be liable to {P1.Handle} for any loss, claim or demand made  by {P1.Handle}, or made against {P1.Handle} by any other Party, due to or arising from the use, storage or  disposal of the Material by {P1.Handle}, except to the extent permitted by law when caused by the  negligence or willful misconduct of {P2.Handle}.
+
+Rep.P2.LawfullyObtained.Sec={P2.Handle} represents and certifies that, for any Material which is comprised of or  derived from human biological material, such human biological material was lawfully obtained by  {P2.Handle}, including any applicable requirements for the informed consent of the donor of such  materials.
+
+Rep.P1.Disclaim.Sec=THE STRUCTURES FOR ALL PRESENTED COMPOUNDS PROVIDED BY  {P1.Handle} TO INSTITUTION OR INSTITUTION’S INVESTIGATOR UNDER THIS AGREEMENT  ARE PROVIDED “AS IS” WITHOUT REPRESENTATIONS OR WARRANTIES OF ANY KIND,  INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS  FOR A PARTICULAR PURPOSE, FREEDOM TO OPERATE OR THAT THE USE OF THE  PRESENTED COMPOUNDS WILL NOT INFRINGE ANY PATENT, COPYRIGHT,  TRADEMARK OR OTHER PROPRIETARY RIGHTS.
+
+
+Misc.Sec=<b>{Misc.Title}</b><ol><li>{Misc.Expire.Sec}</li><li>{Misc.Return.Sec}</li><li>{Misc.Survive.Sec}</li><li>{Misc.Notice.Sec}</li><li>{Misc.Assign.Sec}</li><li>{Misc.Entire.Sec}</li><li>{Misc.Amend.Sec}</li><li>{Misc.Waiver.Sec}</li><li>{Misc.Publicity.Sec}</li><li>{Misc.Law.Sec}</li><li>{Misc.Counterpart.Sec}</li></ol>
 
 Misc.Title=Miscellaneous
 
-Misc.Time.Sec=<b>Term; Termination. </b> This Agreement will commence as of the Effective Date and  will continue in full force and effect (the "Term") until the occurrence of one of the following  events:
+Misc.Expire.Sec=<b>{Misc.Expire.Title}.</b> {Misc.Expire.Intro}<ol><li>{Misc.Expire.Outcome1}</li><li>{Misc.Expire.Outcome2}</li><li>{Misc.Expire.Outcome3}</li><li>{Misc.Expire.Outcome4}</li><li>{Misc.Expire.Notice}</li></ol>
 
-Misc.Time.1=the effective date of a DPAc Agreement between the Parties pursuant to Section 3.1,  Research Outcome 1;
+Misc.Expire.Title=Term; Termination
 
-Misc.Time.2=the election of the Parties to proceed under the terms set forth in Section 3.2,  Research Outcome 2, in which case this Agreement will terminate upon the effective date of the  agreement described in Section 3.2(b);
+Misc.Expire.Intro=This Agreement will commence as of the Effective Date and  will continue in full force and effect (the "Term") until the occurrence of one of the following  events:
 
-Misc.Time.3=the election of the Parties to proceed under the terms set forth in Section 3.3,  Research Outcome 3, in which case this Agreement will terminate upon the effective date of the  agreement described in Section 3.3(d);
+Misc.Expire.Outcome1=the effective date of a DPAc Agreement between the Parties pursuant to Section 3.1,  Research Outcome 1;
 
-Misc.Time.4=the election of the Parties to proceed under the terms set forth in Section 3.4,  Research Outcome 4, in which case this Agreement will terminate upon either (i) the effective  date of the DPAc Agreement as detailed in Section 3.4(c), or (ii) would revert to the terms set  forth in Section 3.3, terminating in accordance with the terms in Section 7.1(c) above; or
+Misc.Expire.Outcome2=the election of the Parties to proceed under the terms set forth in Section 3.2,  Research Outcome 2, in which case this Agreement will terminate upon the effective date of the  agreement described in Section 3.2(b);
+Misc.Expire.Outcome3=the election of the Parties to proceed under the terms set forth in Section 3.3,  Research Outcome 3, in which case this Agreement will terminate upon the effective date of the  agreement described in Section 3.3(d);
+Misc.Expire.Outcome4=the election of the Parties to proceed under the terms set forth in Section 3.4,  Research Outcome 4, in which case this Agreement will terminate upon either (i) the effective  date of the DPAc Agreement as detailed in Section 3.4(c), or (ii) would revert to the terms set  forth in Section 3.3, terminating in accordance with the terms in Section 7.1(c) above; or
 
-Misc.Time.5=upon thirty (30) days written notice by Institution to GSK, for adequate cause, such  as material breach by GSK or imminent health risk or patent infringement related to use of the  Material by GSK.
+Misc.Expire.Notice=upon thirty (30) days written notice by {P2.Handle} to {P1.Handle}, for adequate cause, such as material breach by {P1.Handle} or imminent health risk or patent infringement related to use of the  Material by {P1.Handle}.
 
-Misc.Return.Sec=<b>Return or Destroy Materials. </b> Upon termination pursuant to Section {Misc.Time.5.Xnum} above,  GSK will discontinue its use of the Material and will, upon direction of Institution, return or  destroy (and certify destruction of) any remaining Material or Institution's Confidential  Information in its possession or under its control.
+Misc.Return.Sec=<b>Return or Destroy Materials. </b> Upon termination pursuant to Section {Misc.Time.5.Xnum} above,  {P1.Handle} will discontinue its use of the Material and will, upon direction of {P2.Handle}, return or  destroy (and certify destruction of) any remaining Material or {P2.Handle}'s Confidential  Information in its possession or under its control.
 
 Misc.Survive.Sec=<b>Survival. </b> Termination of this Agreement shall terminate all outstanding  obligations and liabilities between the Parties arising from this Agreement except those  described in Articles 4 – 6 as well as Sections 2.4, 2.5, 7.3 and 7.7. Additionally, any other  provision required to interpret and enforce the Parties’ rights and obligations under this  Agreement shall also survive, but only to the extent required for the full observation and  performance of this Agreement.
 
 Misc.Notice.Sec=<b>Notices. </b> All notices given pursuant to this Agreement will be in writing and will be  deemed to have been given: (a) three (3) days after mailing when mailed by registered or  certified mail, postage paid, (b) on the date sent when made by facsimile transmission with  confirmation of receipt (with hard copy to follow by mail, registered or certified, postage paid) or  (c) on the date actually received when delivered in person or by reputable over-night courier to  the address set forth below or such other place as such Party may from time to time designate  in writing. Each Party may change its address set forth below by notice in writing to the other  Party. Notices will be sent to the following addresses: {P1.Notice.Block}<br>{P2.Notice.Block}<br>{P1.Scientist.Notice.Block}  
 
-Misc.Assign.Sec=<b>Assignment. </b> This Agreement is binding upon and will inure to the benefit of the Parties hereto  and their respective successors and assigns. This Agreement may not be assigned by GSK  without the prior written consent of Institution, which consent will not be unreasonably withheld,  and any purported assignment without such consent will be void.
+Misc.Assign.Sec=<b>Assignment. </b> This Agreement is binding upon and will inure to the benefit of the Parties hereto  and their respective successors and assigns. This Agreement may not be assigned by {P1.Handle}  without the prior written consent of {P2.Handle}, which consent will not be unreasonably withheld,  and any purported assignment without such consent will be void.
 
 Misc.Entire.Sec=<b>Entire Agreement. </b> This Agreement contains the entire understanding between  the Parties hereto with respect to the subject matter contained herein and supersedes all prior  written or oral communications, negotiations, understandings or agreements of any kind with  respect to such subject matter. This Agreement shall not be construed, by implication or  otherwise, as an obligation by either Party to enter into any further agreements, including a  DPAc Agreement, relating to the Research.
 
@@ -242,4 +254,4 @@ Agt.Sign={Sign.Intro}<br>{Sign.Block}
 Agt.Sign.Intro=IN WITNESS WHEREOF, the Parties hereto have duly executed this Agreement as of the  Effective Date by their authorized representatives.  
 
 Sign.Block={P1.Sign.Block}<br><br>{P2.Sign.Block}
-                              
+                                        
