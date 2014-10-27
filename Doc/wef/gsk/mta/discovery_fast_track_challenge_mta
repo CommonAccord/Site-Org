@@ -34,7 +34,7 @@ Recital.WillTransfer=WHEREAS, {P2.Handle} agrees to transfer to {P1.Handle} cert
 Recital.OnTheseTerms=WHEREAS, the Parties now desire to enter into this Agreement to confirm the terms and conditions upon which the Parties agree to conduct the Research and to affect the transfer of the Material to {P1.Handle} for that purpose; in each case on the terms and conditions as set forth herein.
 
 
-Agt.Secs={Secs.Intro}<ol><li>{Def.Sec}</li><li>{Submit.Sec}</li><li>{3.Sec}</li><li>{IP.Sec}</li><li>{Conf.Sec}</li><li>{Rep.Sec}</li><li>{Misc.Sec}</li></ol>
+Agt.Secs={Secs.Intro}<ol><li>{Def.Sec}</li><li>{Submit.Sec}</li><li>{Outcome.Sec}</li><li>{IP.Sec}</li><li>{Conf.Sec}</li><li>{Rep.Sec}</li><li>{Misc.Sec}</li></ol>
 
 Secs.Intro=NOW, THEREFORE, in consideration of the mutual promises contained herein, and other valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the Parties, intending to be legally bound, hereby agree as follows:
 
@@ -94,69 +94,69 @@ Submit.P1Report.Sec=<b>{P1_Results}. </b> Within the later of: (a) sixty (60) da
 Submit.P1Free.Sec=<b>Acknowledgement of Prior Activities. </b> {P2.Handle} understands and acknowledges that prior to the Effective Date, {P1.Handle} and/or its Affiliates may have performed or engaged in, or otherwise arranged for the conducting of, research, development and commercialization  activities relating to performing a molecular discovery campaign and/or conducting activities or  otherwise evaluating biological materials which may include the Materials. Further, {P2.Handle} acknowledges and agrees that nothing contained in this Agreement will be construed, by  implication or otherwise, as prohibiting {P1.Handle} and/or its Affiliates, during the Term and thereafter,  from performing or engaging in, or otherwise arranging for the conducting of, research,  development or commercialization activities relating in whole or in part to molecular discovery  campaigns, independent and without the use of Materials or {Confidential Information}.
 
 
-3.Sec=<b>{3.Title}</b> {3.Intro}<ol><li>{3.1.Sec}</li><li>{3.2.Sec}</li><li>{3.3.Sec}</li><li>{3.4.Sec}</li></ol>
+Outcome.Sec=<b>{Outcome.Title}</b> {Outcome.Intro}<ol><li>{Outcome.1.Sec}</li><li>{Outcome.2.Sec}</li><li>{Outcome.3.Sec}</li><li>{Outcome.4.Sec}</li></ol>
 
-3.Title=Outcome of Research; Further Actions.
+Outcome.Title=Outcome of Research; Further Actions.
 
-3.Intro=The Parties acknowledge and agree that one (1) of the four (4) following options (each a  "Research Outcome") will result from the conduct of the Research pursuant to this Agreement.  For Research Outcomes 1, 2 or 3, the Parties will negotiate and enter into a separate  agreement as further specified below that will govern any further use, publication rights,  ownership, and development of Confirmed Hits identified in the conduct of the Research under  this Agreement.
+Outcome.Intro=The Parties acknowledge and agree that one (1) of the four (4) following options (each a  "Research Outcome") will result from the conduct of the Research pursuant to this Agreement.  For Research Outcomes 1, 2 or 3, the Parties will negotiate and enter into a separate  agreement as further specified below that will govern any further use, publication rights,  ownership, and development of Confirmed Hits identified in the conduct of the Research under  this Agreement.
 
-3.1.Sec=<b>{3.1.Title}</b> {3.1.Intro}:<ol type="a"><li>{3.1.1}</li><li>{3.1.2}</li><li>{3.1.3}</li></ol>
+Outcome.1.Sec=<b>{Outcome.1.Title}</b> {Outcome.1.Intro}:<ol type="a"><li>{Outcome.1.Negotiate}</li><li>{Outcome.1.UseOfData}</li><li>{Outcome.1.FailureOfNegotiation}</li></ol>
 
-3.1.Title=Research Outcome 1 - {P1.Handle} and {P2.Handle} Mutually Agree to Continue and  Expand the Research
+Outcome.1.Title=Research Outcome 1 - {P1.Handle} and {P2.Handle} Mutually Agree to Continue and  Expand the Research
 
-3.1.Intro=If, based on each Party’s review of the {P1_Results}, and/or the  Institution Results, if applicable, the Parties mutually agree that it would be advantageous to  further evaluate the Materials and/or the Confirmed Hits resulting from the use of the Materials  in the Research, then
+Outcome.1.Intro=If, based on each Party’s review of the {P1_Results}, and/or the  Institution Results, if applicable, the Parties mutually agree that it would be advantageous to  further evaluate the Materials and/or the Confirmed Hits resulting from the use of the Materials  in the Research, then
 
-3.1.1=The Parties will, in good faith, negotiate a DPAc Agreement to govern the  conduct of additional research, development, and potential commercialization by {P1.Handle} of  the Materials and/or Confirmed Hits resulting from the use of the Materials in the  Research; such DPAc Agreement to include the principle financial terms as set forth on  the attached Schedule 4, attached hereto and incorporated herein by reference.
+Outcome.1.Negotiate=The Parties will, in good faith, negotiate a DPAc Agreement to govern the  conduct of additional research, development, and potential commercialization by {P1.Handle} of  the Materials and/or Confirmed Hits resulting from the use of the Materials in the  Research; such DPAc Agreement to include the principle financial terms as set forth on  the attached Schedule 4, attached hereto and incorporated herein by reference.
 
-3.1.2=If the Parties enter into a DPAc Agreement, all data and results obtained under  the Research pursuant to this Agreement, including results obtained from the conduct of  activities by {P2.Handle} pursuant to Section 2.3 herein, will, unless otherwise mutually agreed by the Parties, be used in connection with activities under such DPAc  Agreement, and further work related thereto will be carried out and governed by the  terms set forth in the DPAc Agreement. In the event of a conflict between terms in this  Agreement and any future DPAc Agreement negotiated pursuant to the Research  performed under this Agreement, the terms of the DPAc Agreement control.
+Outcome.1.UseOfData=If the Parties enter into a DPAc Agreement, all data and results obtained under  the Research pursuant to this Agreement, including results obtained from the conduct of  activities by {P2.Handle} pursuant to Section 2.3 herein, will, unless otherwise mutually agreed by the Parties, be used in connection with activities under such DPAc  Agreement, and further work related thereto will be carried out and governed by the  terms set forth in the DPAc Agreement. In the event of a conflict between terms in this  Agreement and any future DPAc Agreement negotiated pursuant to the Research  performed under this Agreement, the terms of the DPAc Agreement control.
 
-3.1.3=If the Parties are unable to reach agreement on the terms of a DPAc Agreement  within a reasonable period of time, not to exceed one hundred and eighty (180) days  from the date they begin negotiating, then {P1.Handle} may elect to proceed under the terms of  Section 3.3, Research Outcome 3, herein.
-
-
-3.2.Sec=<b>{3.2.Title}</b> {3.2.Intro}<ol type="a"><li>{3.2.1}</li><li>{3.2.2}</li></ol>
-
-3.2.Title=Research Outcome 2 - {P2.Handle} Desires to Continue the Research, but {P1.Handle}  determines that {P1_Results} and/or Institution Results are not of sufficient interest to enter into  a DPAc Agreement.
-
-3.2.Intro=In the event that, based on the {P1_Results} and/or Institution Results, as  applicable, {P2.Handle} desires to continue the Research but {P1.Handle} does not, then
-
-3.2.1={P1.Handle} will either, at {P1.Handle}’s sole discretion, (i) provide to {P2.Handle}, or (ii) jointly  publish with {P2.Handle}, the structures for one (1) to three (3) compounds from the Research that  {P1.Handle} has determined (iii) are not included in or related to an internal {P1.Handle} research program,  and (iv) are not encumbered by any external third party obligations or restrictions on {P1.Handle} (such  compounds the “Presented Compounds”). {P2.Handle} may use the Presented Compounds for  any and all purposes, and may create derivatives, analogs, or modified versions of the  Presented Compounds. For the avoidance of doubt, {P1.Handle} will not have an obligation to conduct,  and does not warrant that it has conducted, a freedom to operate analysis with respect to the  Presented Compounds.
-
-3.2.2={3.2.2.Intro}:<ol type="i"><li>{3.2.2.1}</li><li>{3.2.2.2}</li><li>{3.2.2.3}</li></ol>
-3.2.2.Intro=Pursuant to this Section 3.2, {P1.Handle} agrees to negotiate in good faith an agreement  with {P2.Handle} to allow {P2.Handle} to progress research and development efforts with  respect to the Presented Compounds, on its own, or with, or for the benefit of a third party, such  agreement to include the following minimum terms
-
-3.2.2.1={P2.Handle} will have the right to progress the research and development of  the Presented Compounds and to commercialize any such Presented Compounds, and  any derivatives, analogs, or modified versions of the Presented Compounds made by  {P2.Handle}, on fair and reasonable terms, which will include the terms set forth in the  attached Schedule 4;
-
-3.2.2.2={P1.Handle} will retain a worldwide, fully paid-up, non-exclusive, perpetual, irrevocable  right and license to make and use the Presented Compounds solely for research and  development (but not for commercial) purposes. For clarity, such research and  development purposes would allow Presented Compounds to remain in the {P1.Handle}  compound library, to be used in other {P1.Handle} screens, and to form the basis for medicinal chemistry research and development programs at {P1.Handle}. Further, such license would be sublicenseable to {P1.Handle}'s Affiliates and collaborators; and
-
-3.2.2.3={P2.Handle} will have the right to seek intellectual property protection for the  Presented Compounds and any derivatives, analogs or modified versions thereof that  are made by {P2.Handle}.
+Outcome.1.FailureOfNegotiation=If the Parties are unable to reach agreement on the terms of a DPAc Agreement  within a reasonable period of time, not to exceed one hundred and eighty (180) days from the date they begin negotiating, then {P1.Handle} may elect to proceed under the terms of  Section 3.3, Research Outcome 3, herein.
 
 
-3.3.Sec=<b>{3.3.Title}</b><ol type="a"><li>{3.3.1}</li><li>{3.3.2}</li><li>{3.3.3}</li><li>{3.3.4}</li></ol>
+Outcome.2.Sec=<b>{Outcome.2.Title}</b> {Outcome.2.Intro}<ol type="a"><li>{Outcome.2.1}</li><li>{Outcome.2.2}</li></ol>
 
-3.3.Title=Research Outcome 3 - {P1.Handle} Desires to Continue the Research and enter into a DPAc  Agreement, but {P2.Handle} does not elect to enter into a DPAc Agreement
+Outcome.2.Title=Research Outcome 2 - {P2.Handle} Desires to Continue the Research, but {P1.Handle}  determines that {P1_Results} and/or Institution Results are not of sufficient interest to enter into  a DPAc Agreement.
 
-3.3.Intro=In the event that,  based on the {P1_Results} and/or the Institution Results, as applicable, {P1.Handle} desires to continue  the Research and to enter into a DPAc Agreement with {P2.Handle} for reasonable funding of  further research and development activities, but {P2.Handle} elects not to proceed to negotiate  and enter into a DPAc Agreement, then
+Outcome.2.Intro=In the event that, based on the {P1_Results} and/or Institution Results, as  applicable, {P2.Handle} desires to continue the Research but {P1.Handle} does not, then
 
-3.3.1={P1.Handle} will have the right to continue with the Research and to progress any hits,  Confirmed Hits, or derivatives, analogs, or modified versions of the foregoing, identified during  the conduct of the Research under this Agreement to be treated in the same way as if such hits  or Confirmed Hits arose from a {P1.Handle} internal research and development program;
+Outcome.2.1={P1.Handle} will either, at {P1.Handle}’s sole discretion, (i) provide to {P2.Handle}, or (ii) jointly  publish with {P2.Handle}, the structures for one (1) to three (3) compounds from the Research that  {P1.Handle} has determined (iii) are not included in or related to an internal {P1.Handle} research program,  and (iv) are not encumbered by any external third party obligations or restrictions on {P1.Handle} (such  compounds the “Presented Compounds”). {P2.Handle} may use the Presented Compounds for  any and all purposes, and may create derivatives, analogs, or modified versions of the  Presented Compounds. For the avoidance of doubt, {P1.Handle} will not have an obligation to conduct,  and does not warrant that it has conducted, a freedom to operate analysis with respect to the  Presented Compounds.
 
-3.3.2=Effective upon notice by {P2.Handle} in writing that it will not elect to negotiate a  DPAc Agreement, to the extent legally able, {P2.Handle} shall grant to {P1.Handle} a non-exclusive,  royalty-free, worldwide, right and license, with a right to grant sublicenses to {P1.Handle} Affiliates and collaborators, under {P2.Handle}’s rights in any existing and/or arising intellectual property claiming the Material ;
+Outcome.2.2={Outcome.2.2.Intro}:<ol type="i"><li>{Outcome.2.2.1}</li><li>{Outcome.2.2.2}</li><li>{Outcome.2.2.3}</li></ol>
+Outcome.2.2.Intro=Pursuant to this Section 3.2, {P1.Handle} agrees to negotiate in good faith an agreement  with {P2.Handle} to allow {P2.Handle} to progress research and development efforts with  respect to the Presented Compounds, on its own, or with, or for the benefit of a third party, such  agreement to include the following minimum terms
 
-3.3.3={P1.Handle} will not have an obligation to provide to {P2.Handle} or to publish any  structures of any of the Confirmed Hits from the Research; and
+Outcome.2.2.1={P2.Handle} will have the right to progress the research and development of  the Presented Compounds and to commercialize any such Presented Compounds, and  any derivatives, analogs, or modified versions of the Presented Compounds made by  {P2.Handle}, on fair and reasonable terms, which will include the terms set forth in the  attached Schedule 4;
 
-3.3.4=Within sixty (60) days following the grant in Section 3.3(b), {P1.Handle} agrees to  negotiate an agreement with {P2.Handle} which will set forth milestone payments payable to  {P2.Handle} by {P1.Handle} in consideration for the aforementioned license grant. For clarity, no royalties  will be owed.
+Outcome.2.2.2={P1.Handle} will retain a worldwide, fully paid-up, non-exclusive, perpetual, irrevocable  right and license to make and use the Presented Compounds solely for research and  development (but not for commercial) purposes. For clarity, such research and  development purposes would allow Presented Compounds to remain in the {P1.Handle}  compound library, to be used in other {P1.Handle} screens, and to form the basis for medicinal chemistry research and development programs at {P1.Handle}. Further, such license would be sublicenseable to {P1.Handle}'s Affiliates and collaborators; and
+
+Outcome.2.2.3={P2.Handle} will have the right to seek intellectual property protection for the  Presented Compounds and any derivatives, analogs or modified versions thereof that  are made by {P2.Handle}.
 
 
-3.4.Sec=<b>{3.4.Title}</b>:<ol type="a"><li>{3.4.1}</li><li>{3.4.2}</li><li>{3.4.3}</li></ol>
+Outcome.3.Sec=<b>{Outcome.3.Title}</b><ol type="a"><li>{Outcome.3.1}</li><li>{Outcome.3.2}</li><li>{Outcome.3.3}</li><li>{Outcome.3.4}</li></ol>
 
-3.4.Title=Research Outcome 4 - Neither Party Desires to Continue the Research
+Outcome.3.Title=Research Outcome 3 - {P1.Handle} Desires to Continue the Research and enter into a DPAc  Agreement, but {P2.Handle} does not elect to enter into a DPAc Agreement
 
-3.4.Intro+In the  event that {P1.Handle} determines that the Research has not generated any Confirmed Hits, or in the  event that based on the {P1_Results} and/or Institution Results neither Party desires to continue  the Research and expand the research relationship, then
+Outcome.3.Intro=In the event that,  based on the {P1_Results} and/or the Institution Results, as applicable, {P1.Handle} desires to continue  the Research and to enter into a DPAc Agreement with {P2.Handle} for reasonable funding of  further research and development activities, but {P2.Handle} elects not to proceed to negotiate  and enter into a DPAc Agreement, then
 
-3.4.1={P1.Handle} will not have an obligation to provide to {P2.Handle} or to publish any  structures of any of the Confirmed Hits from the Research;
+Outcome.3.1={P1.Handle} will have the right to continue with the Research and to progress any hits,  Confirmed Hits, or derivatives, analogs, or modified versions of the foregoing, identified during  the conduct of the Research under this Agreement to be treated in the same way as if such hits  or Confirmed Hits arose from a {P1.Handle} internal research and development program;
 
-3.4.2=if the Research generated any Confirmed Hits, {P1.Handle} will not, for a period of three  (3) years following the Effective Date of this Agreement, conduct any activities using any such  Confirmed Hits in connection with the specific target identified by {P2.Handle} in the Materials,  unless {P1.Handle} exercises its rights pursuant to Section 3.4(c) below;
+Outcome.3.2=Effective upon notice by {P2.Handle} in writing that it will not elect to negotiate a  DPAc Agreement, to the extent legally able, {P2.Handle} shall grant to {P1.Handle} a non-exclusive,  royalty-free, worldwide, right and license, with a right to grant sublicenses to {P1.Handle} Affiliates and collaborators, under {P2.Handle}’s rights in any existing and/or arising intellectual property claiming the Material ;
 
-3.4.3=if the Research generated any Confirmed Hits, {P1.Handle} may, for a period of three (3)  years following the Effective Date of this Agreement, elect to continue the Research by  providing written notice to {P2.Handle} and allowing {P2.Handle} the option to enter into a DPAc  Agreement with {P1.Handle} for such purpose. If within forty-five (45) days following receipt of such  notice from {P1.Handle} {P2.Handle} provides written notice to {P1.Handle} of its election to negotiate and enter  into a DPAc Agreement, the terms of Section 3.1 above shall apply. If within forty-five (45) days  following receipt of such notice from {P1.Handle} {P2.Handle} does not elect in writing to {P1.Handle} to  negotiate a DPAc Agreement for the purpose of continuing the Research, then {P1.Handle} may elect  to unilaterally progress any Confirmed Hits identified in the Research in accordance with the  terms set forth in Section 3.3 above, and all of the terms set forth in Section 3.3 above would  apply.
+Outcome.3.3={P1.Handle} will not have an obligation to provide to {P2.Handle} or to publish any  structures of any of the Confirmed Hits from the Research; and
+
+Outcome.3.4=Within sixty (60) days following the grant in Section 3.3(b), {P1.Handle} agrees to  negotiate an agreement with {P2.Handle} which will set forth milestone payments payable to  {P2.Handle} by {P1.Handle} in consideration for the aforementioned license grant. For clarity, no royalties  will be owed.
+
+
+Outcome.4.Sec=<b>{Outcome.4.Title}</b>:<ol type="a"><li>{Outcome.4.1}</li><li>{Outcome.4.2}</li><li>{Outcome.4.3}</li></ol>
+
+Outcome.4.Title=Research Outcome 4 - Neither Party Desires to Continue the Research
+
+Outcome.4.Intro+In the  event that {P1.Handle} determines that the Research has not generated any Confirmed Hits, or in the  event that based on the {P1_Results} and/or Institution Results neither Party desires to continue  the Research and expand the research relationship, then
+
+Outcome.4.1={P1.Handle} will not have an obligation to provide to {P2.Handle} or to publish any  structures of any of the Confirmed Hits from the Research;
+
+Outcome.4.2=if the Research generated any Confirmed Hits, {P1.Handle} will not, for a period of three  (3) years following the Effective Date of this Agreement, conduct any activities using any such  Confirmed Hits in connection with the specific target identified by {P2.Handle} in the Materials,  unless {P1.Handle} exercises its rights pursuant to Section 3.4(c) below;
+
+Outcome.4.3=if the Research generated any Confirmed Hits, {P1.Handle} may, for a period of three (3)  years following the Effective Date of this Agreement, elect to continue the Research by  providing written notice to {P2.Handle} and allowing {P2.Handle} the option to enter into a DPAc  Agreement with {P1.Handle} for such purpose. If within forty-five (45) days following receipt of such  notice from {P1.Handle} {P2.Handle} provides written notice to {P1.Handle} of its election to negotiate and enter  into a DPAc Agreement, the terms of Section 3.1 above shall apply. If within forty-five (45) days  following receipt of such notice from {P1.Handle} {P2.Handle} does not elect in writing to {P1.Handle} to  negotiate a DPAc Agreement for the purpose of continuing the Research, then {P1.Handle} may elect  to unilaterally progress any Confirmed Hits identified in the Research in accordance with the  terms set forth in Section 3.3 above, and all of the terms set forth in Section 3.3 above would  apply.
 
 
 IP.Sec=<b>{IP.Title}</b><ol ><li>{IP.1.Sec}</li><li>{IP.2.Sec}</li><li>{IP.3.Sec}</li><li>{IP.4.Sec}</li><li>{IP.5.Sec}</li></ol>
@@ -264,4 +264,4 @@ Agt.Sign.Intro=IN WITNESS WHEREOF, the Parties hereto have duly executed this Ag
 
 Sign.Block={P1.Sign.Block}<br><br>{P2.Sign.Block}
                                                 
-    
+        
