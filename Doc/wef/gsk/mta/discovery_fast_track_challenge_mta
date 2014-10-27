@@ -1,3 +1,4 @@
+Source=<a href="http://www.openinnovation.gsk.com/downloads/Discovery_Fast_Track_Challenge_MTA.pdf">GSK Open Innovation PDF</a>
 Model.Root={DocBody}
 P1.Handle=GSK
 P2.Handle=Institution
@@ -256,4 +257,4 @@ Agt.Sign={Agt.Sign.Intro}<br>{Sign.Block}
 Agt.Sign.Intro=IN WITNESS WHEREOF, the Parties hereto have duly executed this Agreement as of the  Effective Date by their authorized representatives.  
 
 Sign.Block={P1.Sign.Block}<br><br>{P2.Sign.Block}
-                                              
+                                                
