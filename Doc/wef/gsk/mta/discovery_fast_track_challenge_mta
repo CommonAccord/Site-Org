@@ -1,17 +1,24 @@
-P1_Transfer_Contract={P1.Handle} Transfer Contract
-
-
 Source=<a href="http://www.openinnovation.gsk.com/downloads/Discovery_Fast_Track_Challenge_MTA.pdf">GSK Open Innovation PDF</a>
 
+Agt.Secs={Secs.Intro}:<ol><li>{Def.Sec}</li><li>{Submit.Sec}</li><li>{Outcome.Sec}</li><li>{IP.Sec}</li><li>{Conf.Sec}</li><li>{Rep.Sec}</li><li>{Misc.Sec}</li></ol>
+
+Recital.List=<ul type="none"><li>{Recital.Entered};</li><li>{Recital.Purpose};</li><li>{Recital.Selected};</li><li>{Recital.WillTransfer}; and</li><li>{Recital.OnTheseTerms}.</li></ul>
+
+Def.Sec=<b>{Def.Title}</b><ul type="none"><li>{Def.Affiliate}</li><li>{Def.Confidential_Information}</li><li>{Def.Confirmed_Hit}</li><li>{Def.DPAc_Agreement}</li><li>{Def.P1_Results}</li><li>{Def.P1_Transfer_Contract}</li><li>{Def.P2's_Investigator}</li><li>{Def.P2_Results}</li><li>{Def.Material}</li><li>{Def.Material_Transfer_Record}</li><li>{Def.Research}</li><li>{Def.Research_Plan}</li></ul>
+
+Submit.Sec=<b>{Submit.Title}</b><ol><li>{Submit.PerPlan.Sec}</li><li>{Submit.Limit.Sec}</li><li>{Submit.Hits.Sec}</li><li>{Submit.P1Report.Sec}</li><li>{Submit.P1Free.Sec}</li></ol>
+
+Outcome.Sec=<b>{Outcome.Title}</b> {Outcome.Intro}<ol><li>{Outcome.1.Sec}</li><li>{Outcome.2.Sec}</li><li>{Outcome.3.Sec}</li><li>{Outcome.4.Sec}</li></ol>
+
+IP.Sec=<b>{IP.Title}</b><ol ><li>{IP.Prior.Sec}</li><li>{IP.P2.Sec}</li><li>{IP.P1.Sec}</li><li>{IP.Other.Sec}</li><li>{IP.Disclaim.Sec}</li></ol>
+
+Conf.Sec=<b>{Conf.Title}</b><ol><li>{Conf.Def.Sec}</li><li>{Conf.Except.sec}</li><li>{Conf.Care.Sec}</li><li>{Conf.Except.Compelled.Sec}</li><li>{Conf.Publication.Sec}</li></ol>
+
+Rep.Sec=<b>{Rep.Title}</b><ol><li>{Rep.P2.Disclaim.Sec}</li><li>{Rep.P1.Handling.Sec}</li><li>{Rep.P2.LawfullyObtained.Sec}</li><li>{Rep.P1.Disclaim.Sec}</li></ol>
+
+Misc.Sec=<b>{Misc.Title}</b><ol><li>{Misc.Expire.Sec}</li><li>{Misc.Return.Sec}</li><li>{Misc.Survive.Sec}</li><li>{Misc.Notice.Sec}</li><li>{Misc.Assign.Sec}</li><li>{Misc.Entire.Sec}</li><li>{Misc.Amend.Sec}</li><li>{Misc.Waiver.Sec}</li><li>{Misc.Publicity.Sec}</li><li>{Misc.Law.Sec}</li><li>{Misc.Counterpart.Sec}</li></ol>
+
 Model.Root={DocBody}
-
-P1.Handle=GSK
-
-P2.Handle=Institution
-
-Confidential Information=Confidential Information
-
-P2.Investigator=Institution's Investigator
 
 DocBody=<center><b>{Agt.Title}</b></center>{Agt.Intro}{Agt.Secs}{Agt.Sign}{Agt.Attach}
 
@@ -24,24 +31,19 @@ Intro.ThisAgreement=THIS MATERIAL TRANSFER AGREEMENT (this “Agreement”) is made 
 Intro.Recital=<center>{Recital.Title}</center>{Recital.List}
 Recital.Title=W I T N E S S E T H:
 
-Recital.List=<ul type="none"><li>{Recital.Entered};</li><li>{Recital.Purpose};</li><li>{Recital.Selected};</li><li>{Recital.WillTransfer}; and</li><li>{Recital.OnTheseTerms}.</li></ul>
 
 Recital.Entered=WHEREAS, {P2.Handle} and {P2.Investigator} (defined below) elected to enter the Discovery Fast Track Challenge sponsored by {P1.Handle} on the challenge terms and conditions as established by {P1.Handle} and accepted by {P2.Handle} and {P2.Investigator}
 
-Recital.Purpose=WHEREAS, the challenge was held for the purpose of validating targets and biological hypothesis provided by {P2.Handle}, with the goal of ultimately identifying possible compounds and products to be researched under the terms and conditions set forth herein, and, if applicable, to be developed, and commercialized by {P1.Handle} according to the terms and conditions set forth in a separately negotiated DPAc Agreement (defined below)
+Recital.Purpose=WHEREAS, the challenge was held for the purpose of validating targets and biological hypothesis provided by {P2.Handle}, with the goal of ultimately identifying possible compounds and products to be researched under the terms and conditions set forth herein, and, if applicable, to be developed, and commercialized by {P1.Handle} according to the terms and conditions set forth in a separately negotiated {DPAc Agreement} (defined below)
 
 Recital.Selected=WHEREAS, {P2.Handle} and {P2.Investigator} have been selected in the Discovery Fast Track Challenge and have agreed to the terms and conditions under which to progress into the conduct of the Research (as defined below) for such challenge by {P1.Handle}
 
-Recital.WillTransfer=WHEREAS, {P2.Handle} agrees to transfer to {P1.Handle} certain Material (defined below) which may be proprietary to {P2.Handle}, such Material to be provided in the quantity set forth in the Research Plan and such additional quantities as may be necessary and reasonably requested by {P1.Handle} for use to complete the Research
+Recital.WillTransfer=WHEREAS, {P2.Handle} agrees to transfer to {P1.Handle} certain {Material} (defined below) which may be proprietary to {P2.Handle}, such {Material} to be provided in the quantity set forth in the Research Plan and such additional quantities as may be necessary and reasonably requested by {P1.Handle} for use to complete the Research
 
-Recital.OnTheseTerms=WHEREAS, the Parties now desire to enter into this Agreement to confirm the terms and conditions upon which the Parties agree to conduct the Research and to affect the transfer of the Material to {P1.Handle} for that purpose; in each case on the terms and conditions as set forth herein
-
-
-Agt.Secs={Secs.Intro}:<ol><li>{Def.Sec}</li><li>{Submit.Sec}</li><li>{Outcome.Sec}</li><li>{IP.Sec}</li><li>{Conf.Sec}</li><li>{Rep.Sec}</li><li>{Misc.Sec}</li></ol>
+Recital.OnTheseTerms=WHEREAS, the Parties now desire to enter into this Agreement to confirm the terms and conditions upon which the Parties agree to conduct the Research and to affect the transfer of the {Material} to {P1.Handle} for that purpose; in each case on the terms and conditions as set forth herein
 
 Secs.Intro=NOW, THEREFORE, in consideration of the mutual promises contained herein, and other valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the Parties, intending to be legally bound, hereby agree as follows
 
-Def.Sec=<b>{Def.Title}</b><ul type="none"><li>{Def.Affiliate}</li><li>{Def.Confidential_Information}</li><li>{Def.Confirmed_Hit}</li><li>{Def.DPAc_Agreement}</li><li>{Def.P1_Results}</li><li>{Def.P1_Transfer_Contract}</li><li>{Def.P2's_Investigator}</li><li>{Def.P2_Results}</li><li>{Def.Material}</li><li>{Def.Material_Transfer_Record}</li><li>{Def.Research}</li><li>{Def.Research_Plan}</li></ul>
 
 Def.Title=Definitions
 
@@ -51,7 +53,7 @@ Def.Confidential_Information=“{Confidential Information}” has the meaning ascrib
 
 Def.Confirmed_Hit="Confirmed Hit” means any hit with demonstrated in vitro activity described here: Robust, dose-responsive activity in the primary screen assay; appropriate specificity and/or selectivity in control assays; Lack of non-specific pan-active effect; Validated chemical structure with acceptable purity; Preferably, activity in one or more secondary cell-based assays.
 
-Def.DPAc_Agreement=“DPAc Agreement” means an agreement entered into between {P2.Handle} and {P1.Handle} to further research, develop and commercialize the results of the Research under {P2.Handle}’s and {P1.Handle}’s mutually approved terms and conditions applicable to {P1.Handle}’s Discovery Partnership with Academia. A summary of the core agreed-upon financial terms for the DPAc Agreement to be entered into between {P1.Handle} and {P2.Handle} in the event that Parties desire to further progress the Research conducted hereunder is attached hereto as {Schedule.DPAc.Xref}.
+Def.DPAc_Agreement=“{DPAc Agreement}” means an agreement entered into between {P2.Handle} and {P1.Handle} to further research, develop and commercialize the results of the Research under {P2.Handle}’s and {P1.Handle}’s mutually approved terms and conditions applicable to {P1.Handle}’s Discovery Partnership with Academia. A summary of the core agreed-upon financial terms for the {DPAc Agreement} to be entered into between {P1.Handle} and {P2.Handle} in the event that Parties desire to further progress the Research conducted hereunder is attached hereto as {Schedule.DPAc.Xref}.
 
 Def.P1_Results="{P1_Results}" has the meaning ascribed to such term in Section {Submit.P1Report.Xnum}.
 
@@ -61,30 +63,21 @@ Def.P2's_Investigator=“{P2.Investigator}” means the individual responsible for c
 
 Def.P2_Results=“{P2_Results}” has the meaning ascribed to that term in Section {Submit.P1Report.Xnum}
 
-Def.Material="Material" means a protein, protein fragment, fusion protein, recombinant protein; a cell line; a gene of interest, a specific genetic mutation, a nucleic acid insert, transgene or lesion, and any other similar material in any form in which any of the foregoing materials are provided, any progeny of or descendant from the foregoing material (e.g. cell from cell, virus from virus or organism from organism), any direct or indirect descendant or progeny containing the same gene of interest, genetic mutation, nucleic acid insert, transgene or lesion as the original material, and any substance which contains an unmodified functional sub-unit or an expression product of the original material (e.g. sub-clones of unmodified cell lines, purified or fractionated sub-sets of the original material, proteins expressed by DNA/RNA, monoclonal antibodies secreted by a hybridoma cell line, or sub-sets of the original material such as novel plasmids or vectors, primary screen assay, control assay and secondary assay, as appropriate, that is specifically transferred from {P2.Handle} to {P1.Handle}. The specific Material initially transferred to {P1.Handle} from {P2.Handle} under this Agreement, including the amounts of each such Material provided to {P1.Handle}, are set forth on the attached Research Plan.
+Def.Material="{Material}" means a protein, protein fragment, fusion protein, recombinant protein; a cell line; a gene of interest, a specific genetic mutation, a nucleic acid insert, transgene or lesion, and any other similar material in any form in which any of the foregoing materials are provided, any progeny of or descendant from the foregoing material (e.g. cell from cell, virus from virus or organism from organism), any direct or indirect descendant or progeny containing the same gene of interest, genetic mutation, nucleic acid insert, transgene or lesion as the original material, and any substance which contains an unmodified functional sub-unit or an expression product of the original material (e.g. sub-clones of unmodified cell lines, purified or fractionated sub-sets of the original material, proteins expressed by DNA/RNA, monoclonal antibodies secreted by a hybridoma cell line, or sub-sets of the original material such as novel plasmids or vectors, primary screen assay, control assay and secondary assay, as appropriate, that is specifically transferred from {P2.Handle} to {P1.Handle}. The specific {Material} initially transferred to {P1.Handle} from {P2.Handle} under this Agreement, including the amounts of each such {Material} provided to {P1.Handle}, are set forth on the attached Research Plan.
 
-Def.Material_Transfer_Record=“Material Transfer Record” or "MTR" has the meaning ascribed to that term in Section {Submit.PerPlan.Xnum}.
+Def.Material_Transfer_Record=“Material Transfer Record” or "{MTR}" has the meaning ascribed to that term in Section {Submit.PerPlan.Xnum}.
 
-Def.Research=“Research” means the conduct of molecular discovery campaign activities by {P1.Handle} alone and/or with input from {P2.Investigator}, in accordance with the Research Plan. The Research may include, without limitation, configuration of any assays included in the Material, production of reagents at scale, conduct of high through-put screens, identification and confirmation of “hits” based on screening data, evaluation of Confirmed Hits, and testing of Confirmed Hits in appropriate biological assays or models.
+Def.Research=“Research” means the conduct of molecular discovery campaign activities by {P1.Handle} alone and/or with input from {P2.Investigator}, in accordance with the Research Plan. The Research may include, without limitation, configuration of any assays included in the {Material}, production of reagents at scale, conduct of high through-put screens, identification and confirmation of “hits” based on screening data, evaluation of Confirmed Hits, and testing of Confirmed Hits in appropriate biological assays or models.
 
 Def.Research_Plan="Research Plan" means the research plan as set forth in {Schedule.Plan.Xref}, attached hereto and incorporated herein by reference.
 
-Schedule.Plan.Xref=Schedule 1
-
-Submit.Sec=<b>{Submit.Title}</b><ol><li>{Submit.PerPlan.Sec}</li><li>{Submit.Limit.Sec}</li><li>{Submit.Hits.Sec}</li><li>{Submit.P1Report.Sec}</li><li>{Submit.P1Free.Sec}</li></ol>
-
-Submit.PerPlan.Xnum=2.1
-Submit.Hits.Xnum=2.3
-Submit.P1Report.Xnum=2.4
-
 Submit.Title=Terms of Use; Reporting of Results
 
-Submit.PerPlan.Sec=<b>Provision of Material to {P1.Handle}. </b> {P2.Handle} agrees to provide the Material to {P1.Handle} in the quantity set forth in the Research Plan. In the event that additional quantities of Material may be needed by {P1.Handle} in order to complete the Research, {P1.Handle} will notify {P2.Handle} in writing and the Parties will discuss in good faith whether additional Material may be made available to {P1.Handle}; provided, that, if {P2.Handle} is in possession of additional amounts of such requested Material, {P2.Handle} will use its best efforts to provide the requested amounts of such Material to {P1.Handle}. All Material provided to {P1.Handle} under this Agreement shall be accompanied by a Material Transfer Record (“MTR”) in the form attached as {Schedule.MTR.Xref}, which will be signed by {P2.Handle} when sent, and signed by {P1.Handle} upon receipt of such Material.
+Submit.PerPlan.Sec=<b>Provision of {Material} to {P1.Handle}. </b> {P2.Handle} agrees to provide the {Material} to {P1.Handle} in the quantity set forth in the Research Plan. In the event that additional quantities of {Material} may be needed by {P1.Handle} in order to complete the Research, {P1.Handle} will notify {P2.Handle} in writing and the Parties will discuss in good faith whether additional {Material} may be made available to {P1.Handle}; provided, that, if {P2.Handle} is in possession of additional amounts of such requested {Material}, {P2.Handle} will use its best efforts to provide the requested amounts of such {Material} to {P1.Handle}. All {Material} provided to {P1.Handle} under this Agreement shall be accompanied by a Material Transfer Record (“{MTR}”) in the form attached as {Schedule.MTR.Xref}, which will be signed by {P2.Handle} when sent, and signed by {P1.Handle} upon receipt of such {Material}.
 
-Schedule.MTR.Xref=Schedule 2
 Submit.Limit.Sec=<b>{Submit.Limit.Intro}</b><ol type="a"><li>{Submit.Limit.UsePerPlan}</li><li>{Submit.Limit.UsePerLaw}</li><li>{Submit.Limit.NoHuman}</li><li>{Submit.Limit.UseByP1}</li><li>{Submit.Limit.No3Party}</li></ol>
 
-Submit.Limit.Intro=Restrictions on use of Material. {P1.Handle} agrees that the Material
+Submit.Limit.Intro=Restrictions on use of {Material}. {P1.Handle} agrees that the {Material}
 
 Submit.Limit.UsePerPlan=is to be used solely for the Research in accordance with the Research Plan during the term of the Agreement as described herein;
 
@@ -94,22 +87,14 @@ Submit.Limit.NoHuman=will not be used in human subjects, in clinical trials, or 
 
 Submit.Limit.UseByP1=is to be used only under the direction of employees, agents or consultants of {P1.Handle} or its Affiliates; and
 
-Submit.Limit.No3Party=will not be provided to any third party by {P1.Handle} without the prior written consent of {P2.Handle}, except that {P1.Handle} may provide the Material to its employees, agents, consultants and Affiliates, provided that such employees, agents, consultants and Affiliates are obligated (whether in a written agreement or otherwise) to comply with the terms and conditions of this Agreement.
+Submit.Limit.No3Party=will not be provided to any third party by {P1.Handle} without the prior written consent of {P2.Handle}, except that {P1.Handle} may provide the {Material} to its employees, agents, consultants and Affiliates, provided that such employees, agents, consultants and Affiliates are obligated (whether in a written agreement or otherwise) to comply with the terms and conditions of this Agreement.
 
 Submit.Hits.Sec=<b>Provision of Confirmed Hits to {P2.Handle} or {P2.Investigator}; {P1_Results}. </b> The Parties recognize that {P2.Handle} may have unique systems, assays or models that may be useful or necessary to further confirm or validate the Confirmed Hits obtained by {P1.Handle} during its conduct of the Research. Depending on the specific {P1_Results} (as defined below) obtained by {P1.Handle} during the conduct of such Research activities, if the Parties determine that it would be advantageous for {P1.Handle} to transfer to {P2.Handle} or {P2.Investigator} such Confirmed Hits for the purpose of allowing {P2.Handle} or {P2.Investigator} to conduct any such further testing of such Confirmed Hits in {P2.Handle}’s biological systems or assays, the Parties will negotiate and execute a "{P1_Transfer_Contract}" a form template of which is attached hereto as {Schedule.P1_Transfer_Contract}. The {P1_Transfer_Contract} will include an attached work plan setting forth the specific activities to be conducted by the {P2.Handle} and/or {P2.Investigator} with the Confirmed Hits, including a timeline for the conduct of such activities, said timeline shall not extend beyond the term of this agreement.
-Schedule.P1_Transfer_Contract=Schedule 3
-Submit.P1Report.Sec=<b>{P1_Results}. </b> Within the later of: (a) sixty (60) days following the conclusion of the Research by {P1.Handle}, or, (b) in the event that the Parties have entered into a {P1_Transfer_Contract} pursuant to Section {Submit.Hits.Xnum} above, then within forty-five (45) days following receipt by {P1.Handle} of the results of the testing conducted by {P2.Handle} or {P2.Handle}'s Investigator under the {P1_Transfer_Contract} (the "Institution Results"), {P1.Handle} shall provide {P2.Handle} with a summary of the results of the Research relating to the Material that were generated solely by {P1.Handle} in the conduct of the Research activities allocated to {P1.Handle} under this Agreement (the “{P1_Results}”). The {P1_Results} shall be considered {P1.Handle} {Confidential Information} and shall be kept confidential by {P2.Handle}. Because the {P1_Results} includes information on the {P1.Handle} proprietary compounds that were identified by {P1.Handle} during the conduct of the Research, {P2.Handle} shall not publish or otherwise disclose the {P1_Results} to any third party or use the {P1_Results} except for {P2.Handle}’s own internal research purposes (excluding any such internal research conducted with, for, or on behalf of a third party commercial entity in the event of Research Outcome 2, Section {Outcome.2.Xnum}, below) without first obtaining {P1.Handle}’s prior written consent to such disclosure or use. Nothing set forth in this Section {Submit.P1Report.Xnum} shall prevent {P2.Handle} from exercising {P2.Handle}’s publication rights as specifically set forth in Section 5.4 below, provided that such publications do not contain the {P1_Results}.
 
-Submit.P1Free.Sec=<b>Acknowledgement of Prior Activities. </b> {P2.Handle} understands and acknowledges that prior to the Effective Date, {P1.Handle} and/or its Affiliates may have performed or engaged in, or otherwise arranged for the conducting of, research, development and commercialization activities relating to performing a molecular discovery campaign and/or conducting activities or otherwise evaluating biological materials which may include the Materials. Further, {P2.Handle} acknowledges and agrees that nothing contained in this Agreement will be construed, by implication or otherwise, as prohibiting {P1.Handle} and/or its Affiliates, during the Term and thereafter, from performing or engaging in, or otherwise arranging for the conducting of, research, development or commercialization activities relating in whole or in part to molecular discovery campaigns, independent and without the use of Materials or {Confidential Information}.
+Submit.P1Report.Sec=<b>{P1_Results}. </b> Within the later of: (a) sixty (60) days following the conclusion of the Research by {P1.Handle}, or, (b) in the event that the Parties have entered into a {P1_Transfer_Contract} pursuant to Section {Submit.Hits.Xnum} above, then within forty-five (45) days following receipt by {P1.Handle} of the results of the testing conducted by {P2.Handle} or {P2.Investigator} under the {P1_Transfer_Contract} (the "{P2_Results}"), {P1.Handle} shall provide {P2.Handle} with a summary of the results of the Research relating to the {Material} that were generated solely by {P1.Handle} in the conduct of the Research activities allocated to {P1.Handle} under this Agreement (the “{P1_Results}”). The {P1_Results} shall be considered {P1.Handle} {Confidential Information} and shall be kept confidential by {P2.Handle}. Because the {P1_Results} includes information on the {P1.Handle} proprietary compounds that were identified by {P1.Handle} during the conduct of the Research, {P2.Handle} shall not publish or otherwise disclose the {P1_Results} to any third party or use the {P1_Results} except for {P2.Handle}’s own internal research purposes (excluding any such internal research conducted with, for, or on behalf of a third party commercial entity in the event of Research Outcome 2, Section {Outcome.2.Xnum}, below) without first obtaining {P1.Handle}’s prior written consent to such disclosure or use. Nothing set forth in this Section {Submit.P1Report.Xnum} shall prevent {P2.Handle} from exercising {P2.Handle}’s publication rights as specifically set forth in Section 5.4 below, provided that such publications do not contain the {P1_Results}.
 
+Submit.P1Free.Sec=<b>Acknowledgement of Prior Activities. </b> {P2.Handle} understands and acknowledges that prior to the Effective Date, {P1.Handle} and/or its Affiliates may have performed or engaged in, or otherwise arranged for the conducting of, research, development and commercialization activities relating to performing a molecular discovery campaign and/or conducting activities or otherwise evaluating biological materials which may include the {Material}s. Further, {P2.Handle} acknowledges and agrees that nothing contained in this Agreement will be construed, by implication or otherwise, as prohibiting {P1.Handle} and/or its Affiliates, during the Term and thereafter, from performing or engaging in, or otherwise arranging for the conducting of, research, development or commercialization activities relating in whole or in part to molecular discovery campaigns, independent and without the use of {Material}s or {Confidential Information}.
 
-Outcome.Sec=<b>{Outcome.Title}</b> {Outcome.Intro}<ol><li>{Outcome.1.Sec}</li><li>{Outcome.2.Sec}</li><li>{Outcome.3.Sec}</li><li>{Outcome.4.Sec}</li></ol>
-
-
-Outcome.1.Xnum=3.1
-Outcome.2.Xnum=3.2
-Outcome.2.Agreement.Xnum=3.2(b)
-Outcome.4.Xnum=3.4
 Outcome.Title=Outcome of Research; Further Actions.
 
 Outcome.Intro=The Parties acknowledge and agree that one (1) of the four (4) following options (each a "Research Outcome") will result from the conduct of the Research pursuant to this Agreement. For Research Outcomes 1, 2 or 3, the Parties will negotiate and enter into a separate agreement as further specified below that will govern any further use, publication rights, ownership, and development of Confirmed Hits identified in the conduct of the Research under this Agreement.
@@ -118,20 +103,20 @@ Outcome.1.Sec=<b>{Outcome.1.Title}</b> {Outcome.1.Intro}:<ol type="a"><li>{Outco
 
 Outcome.1.Title=Research Outcome 1 - {P1.Handle} and {P2.Handle} Mutually Agree to Continue and Expand the Research
 
-Outcome.1.Intro=If, based on each Party’s review of the {P1_Results}, and/or the Institution Results, if applicable, the Parties mutually agree that it would be advantageous to further evaluate the Materials and/or the Confirmed Hits resulting from the use of the Materials in the Research, then
+Outcome.1.Intro=If, based on each Party’s review of the {P1_Results}, and/or the {P2_Results}, if applicable, the Parties mutually agree that it would be advantageous to further evaluate the {Material}s and/or the Confirmed Hits resulting from the use of the {Material}s in the Research, then
 
-Outcome.1.Negotiate=The Parties will, in good faith, negotiate a DPAc Agreement to govern the conduct of additional research, development, and potential commercialization by {P1.Handle} of the Materials and/or Confirmed Hits resulting from the use of the Materials in the Research; such DPAc Agreement to include the principle financial terms as set forth on the attached {Schedule.DPAc.Xref}, attached hereto and incorporated herein by reference.
+Outcome.1.Negotiate=The Parties will, in good faith, negotiate a {DPAc Agreement} to govern the conduct of additional research, development, and potential commercialization by {P1.Handle} of the {Material}s and/or Confirmed Hits resulting from the use of the {Material}s in the Research; such {DPAc Agreement} to include the principle financial terms as set forth on the attached {Schedule.DPAc.Xref}, attached hereto and incorporated herein by reference.
 
-Outcome.1.UseOfData=If the Parties enter into a DPAc Agreement, all data and results obtained under the Research pursuant to this Agreement, including results obtained from the conduct of activities by {P2.Handle} pursuant to Section {Submit.Hits.Xnum} herein, will, unless otherwise mutually agreed by the Parties, be used in connection with activities under such DPAc Agreement, and further work related thereto will be carried out and governed by the terms set forth in the DPAc Agreement. In the event of a conflict between terms in this Agreement and any future DPAc Agreement negotiated pursuant to the Research performed under this Agreement, the terms of the DPAc Agreement control.
+Outcome.1.UseOfData=If the Parties enter into a {DPAc Agreement}, all data and results obtained under the Research pursuant to this Agreement, including results obtained from the conduct of activities by {P2.Handle} pursuant to Section {Submit.Hits.Xnum} herein, will, unless otherwise mutually agreed by the Parties, be used in connection with activities under such {DPAc Agreement}, and further work related thereto will be carried out and governed by the terms set forth in the {DPAc Agreement}. In the event of a conflict between terms in this Agreement and any future {DPAc Agreement} negotiated pursuant to the Research performed under this Agreement, the terms of the {DPAc Agreement} control.
 
-Outcome.1.FailureOfNegotiation=If the Parties are unable to reach agreement on the terms of a DPAc Agreement within a reasonable period of time, not to exceed one hundred and eighty (180) days from the date they begin negotiating, then {P1.Handle} may elect to proceed under the terms of Section {Outcome.3.Xnum}, Research Outcome 3, herein.
+Outcome.1.FailureOfNegotiation=If the Parties are unable to reach agreement on the terms of a {DPAc Agreement} within a reasonable period of time, not to exceed one hundred and eighty (180) days from the date they begin negotiating, then {P1.Handle} may elect to proceed under the terms of Section {Outcome.3.Xnum}, Research Outcome 3, herein.
 
 
 Outcome.2.Sec=<b>{Outcome.2.Title}</b> {Outcome.2.Intro}:<ol type="a"><li>{Outcome.2.Expose}</li><li>{Outcome.2.Agreement}</li></ol>
 
-Outcome.2.Title=Research Outcome 2 - {P2.Handle} Desires to Continue the Research, but {P1.Handle} determines that {P1_Results} and/or Institution Results are not of sufficient interest to enter into a DPAc Agreement.
+Outcome.2.Title=Research Outcome 2 - {P2.Handle} Desires to Continue the Research, but {P1.Handle} determines that {P1_Results} and/or {P2_Results} are not of sufficient interest to enter into a {DPAc Agreement}.
 
-Outcome.2.Intro=In the event that, based on the {P1_Results} and/or Institution Results, as applicable, {P2.Handle} desires to continue the Research but {P1.Handle} does not, then
+Outcome.2.Intro=In the event that, based on the {P1_Results} and/or {P2_Results}, as applicable, {P2.Handle} desires to continue the Research but {P1.Handle} does not, then
 
 Outcome.2.Expose={P1.Handle} will either, at {P1.Handle}’s sole discretion, (i) provide to {P2.Handle}, or (ii) jointly publish with {P2.Handle}, the structures for one (1) to three (3) compounds from the Research that {P1.Handle} has determined (iii) are not included in or related to an internal {P1.Handle} research program, and (iv) are not encumbered by any external third party obligations or restrictions on {P1.Handle} (such compounds the “Presented Compounds”). {P2.Handle} may use the Presented Compounds for any and all purposes, and may create derivatives, analogs, or modified versions of the Presented Compounds. For the avoidance of doubt, {P1.Handle} will not have an obligation to conduct, and does not warrant that it has conducted, a freedom to operate analysis with respect to the Presented Compounds.
 
@@ -141,9 +126,6 @@ Outcome.2.Agreement.Intro=Pursuant to this Section {Outcome.2.Xnum}, {P1.Handle}
 
 Outcome.2.Agreement.1={P2.Handle} will have the right to progress the research and development of the Presented Compounds and to commercialize any such Presented Compounds, and any derivatives, analogs, or modified versions of the Presented Compounds made by {P2.Handle}, on fair and reasonable terms, which will include the terms set forth in the attached {Schedule.DPAc.Xref}
 
-Schedule.DPAc.Xref=Schedule 4
-Conf.Def.Xnum=5.1
-
 Outcome.2.Agreement.2={P1.Handle} will retain a worldwide, fully paid-up, non-exclusive, perpetual, irrevocable right and license to make and use the Presented Compounds solely for research and development (but not for commercial) purposes. For clarity, such research and development purposes would allow Presented Compounds to remain in the {P1.Handle} compound library, to be used in other {P1.Handle} screens, and to form the basis for medicinal chemistry research and development programs at {P1.Handle}. Further, such license would be sublicenseable to {P1.Handle}'s Affiliates and collaborators
 
 Outcome.2.Agreement.3={P2.Handle} will have the right to seek intellectual property protection for the Presented Compounds and any derivatives, analogs or modified versions thereof that are made by {P2.Handle}
@@ -151,16 +133,13 @@ Outcome.2.Agreement.3={P2.Handle} will have the right to seek intellectual prope
 
 Outcome.3.Sec=<b>{Outcome.3.Title}</b> {Outcome.3.Intro}:<ol type="a"><li>{Outcome.3.Progress}</li><li>{Outcome.3.License}</li><li>{Outcome.3.NotExpose}</li><li>{Outcome.3.Payments}</li></ol>
 
-Outcome.3.Xnum=3.3
-Outcome.3.Payments.Xnum=3.3(d)
+Outcome.3.Title=Research Outcome 3 - {P1.Handle} Desires to Continue the Research and enter into a {DPAc Agreement}, but {P2.Handle} does not elect to enter into a {DPAc Agreement}
 
-Outcome.3.Title=Research Outcome 3 - {P1.Handle} Desires to Continue the Research and enter into a DPAc Agreement, but {P2.Handle} does not elect to enter into a DPAc Agreement
-
-Outcome.3.Intro=In the event that, based on the {P1_Results} and/or the Institution Results, as applicable, {P1.Handle} desires to continue the Research and to enter into a DPAc Agreement with {P2.Handle} for reasonable funding of further research and development activities, but {P2.Handle} elects not to proceed to negotiate and enter into a DPAc Agreement, then
+Outcome.3.Intro=In the event that, based on the {P1_Results} and/or the {P2_Results}, as applicable, {P1.Handle} desires to continue the Research and to enter into a {DPAc Agreement} with {P2.Handle} for reasonable funding of further research and development activities, but {P2.Handle} elects not to proceed to negotiate and enter into a {DPAc Agreement}, then
 
 Outcome.3.Progress={P1.Handle} will have the right to continue with the Research and to progress any hits, Confirmed Hits, or derivatives, analogs, or modified versions of the foregoing, identified during the conduct of the Research under this Agreement to be treated in the same way as if such hits or Confirmed Hits arose from a {P1.Handle} internal research and development program;
 
-Outcome.3.License=Effective upon notice by {P2.Handle} in writing that it will not elect to negotiate a DPAc Agreement, to the extent legally able, {P2.Handle} shall grant to {P1.Handle} a non-exclusive, royalty-free, worldwide, right and license, with a right to grant sublicenses to {P1.Handle} Affiliates and collaborators, under {P2.Handle}’s rights in any existing and/or arising intellectual property claiming the Material;
+Outcome.3.License=Effective upon notice by {P2.Handle} in writing that it will not elect to negotiate a {DPAc Agreement}, to the extent legally able, {P2.Handle} shall grant to {P1.Handle} a non-exclusive, royalty-free, worldwide, right and license, with a right to grant sublicenses to {P1.Handle} Affiliates and collaborators, under {P2.Handle}’s rights in any existing and/or arising intellectual property claiming the {Material};
 
 Outcome.3.NotExpose={P1.Handle} will not have an obligation to provide to {P2.Handle} or to publish any structures of any of the Confirmed Hits from the Research; and
 
@@ -171,27 +150,19 @@ Outcome.4.Sec=<b>{Outcome.4.Title}</b> {Outcome.4.Intro}:<ol type="a"><li>{Outco
 
 Outcome.4.Title=Research Outcome 4 - Neither Party Desires to Continue the Research
 
-Outcome.4.Intro=In the event that {P1.Handle} determines that the Research has not generated any Confirmed Hits, or in the event that based on the {P1_Results} and/or Institution Results neither Party desires to continue the Research and expand the research relationship, then
+Outcome.4.Intro=In the event that {P1.Handle} determines that the Research has not generated any Confirmed Hits, or in the event that based on the {P1_Results} and/or {P2_Results} neither Party desires to continue the Research and expand the research relationship, then
 
 Outcome.4.Expose={P1.Handle} will not have an obligation to provide to {P2.Handle} or to publish any structures of any of the Confirmed Hits from the Research;
 
-Outcome.4.ProgressRefrain=if the Research generated any Confirmed Hits, {P1.Handle} will not, for a period of three (3) years following the Effective Date of this Agreement, conduct any activities using any such Confirmed Hits in connection with the specific target identified by {P2.Handle} in the Materials, unless {P1.Handle} exercises its rights pursuant to Section {Outcome.4.ProgressOption.Xnum} below;
+Outcome.4.ProgressRefrain=if the Research generated any Confirmed Hits, {P1.Handle} will not, for a period of three (3) years following the Effective Date of this Agreement, conduct any activities using any such Confirmed Hits in connection with the specific target identified by {P2.Handle} in the {Material}s, unless {P1.Handle} exercises its rights pursuant to Section {Outcome.4.ProgressOption.Xnum} below;
 
-Outcome.4.ProgressOption.Xnum=3.4(c)
-
-Outcome.4.ProgressOption=if the Research generated any Confirmed Hits, {P1.Handle} may, for a period of three (3) years following the Effective Date of this Agreement, elect to continue the Research by providing written notice to {P2.Handle} and allowing {P2.Handle} the option to enter into a DPAc Agreement with {P1.Handle} for such purpose. If within forty-five (45) days following receipt of such notice from {P1.Handle} {P2.Handle} provides written notice to {P1.Handle} of its election to negotiate and enter into a DPAc Agreement, the terms of Section {Outcome.1.Xnum} above shall apply. If within forty-five (45) days following receipt of such notice from {P1.Handle} {P2.Handle} does not elect in writing to {P1.Handle} to negotiate a DPAc Agreement for the purpose of continuing the Research, then {P1.Handle} may elect to unilaterally progress any Confirmed Hits identified in the Research in accordance with the terms set forth in Section {Outcome.3.Xnum} above, and all of the terms set forth in Section {Outcome.3.Xnum} above would apply.
-
-
-IP.Sec=<b>{IP.Title}</b><ol ><li>{IP.Prior.Sec}</li><li>{IP.P2.Sec}</li><li>{IP.P1.Sec}</li><li>{IP.Other.Sec}</li><li>{IP.Disclaim.Sec}</li></ol>
-
-IP.P2.Xnum=4.2
-IP.P1.Xnum=4.3
+Outcome.4.ProgressOption=if the Research generated any Confirmed Hits, {P1.Handle} may, for a period of three (3) years following the Effective Date of this Agreement, elect to continue the Research by providing written notice to {P2.Handle} and allowing {P2.Handle} the option to enter into a {DPAc Agreement} with {P1.Handle} for such purpose. If within forty-five (45) days following receipt of such notice from {P1.Handle} {P2.Handle} provides written notice to {P1.Handle} of its election to negotiate and enter into a {DPAc Agreement}, the terms of Section {Outcome.1.Xnum} above shall apply. If within forty-five (45) days following receipt of such notice from {P1.Handle} {P2.Handle} does not elect in writing to {P1.Handle} to negotiate a {DPAc Agreement} for the purpose of continuing the Research, then {P1.Handle} may elect to unilaterally progress any Confirmed Hits identified in the Research in accordance with the terms set forth in Section {Outcome.3.Xnum} above, and all of the terms set forth in Section {Outcome.3.Xnum} above would apply.
 
 IP.Title=Intellectual Property
 
-IP.Prior.Sec=<b>Pre-Existing Rights. </b> {P2.Handle} will retain ownership in its intellectual and industrial property rights in the Material. {P1.Handle} will retain ownership in its intellectual and industrial property rights in any materials and compounds that are owned or controlled by {P1.Handle}.
+IP.Prior.Sec=<b>Pre-Existing Rights. </b> {P2.Handle} will retain ownership in its intellectual and industrial property rights in the {Material}. {P1.Handle} will retain ownership in its intellectual and industrial property rights in any materials and compounds that are owned or controlled by {P1.Handle}.
 
-IP.P2.Sec=<b>Material Arising Intellectual Property. </b> Arising intellectual property that relates directly to the Material will be owned by {P2.Handle} ("Material Inventions"). {P2.Handle} shall, and shall ensure that the {P2.Investigator}, as well as {P2.Handle}'s employees, agents, and consultants, shall, sign, execute, make, and do all such further deeds, documents, and acts as reasonably required to give effect to the provisions of this Section {IP.P2.Xnum}. {P1.Handle} shall, and shall ensure that its employees, agents and consultants shall, sign, execute, make, and do all such further deeds, documents, and acts as reasonably required to give effect to the provisions of this Section {IP.P2.Xnum}.
+IP.P2.Sec=<b>Material Arising Intellectual Property. </b> Arising intellectual property that relates directly to the {Material} will be owned by {P2.Handle} ("Material Inventions"). {P2.Handle} shall, and shall ensure that the {P2.Investigator}, as well as {P2.Handle}'s employees, agents, and consultants, shall, sign, execute, make, and do all such further deeds, documents, and acts as reasonably required to give effect to the provisions of this Section {IP.P2.Xnum}. {P1.Handle} shall, and shall ensure that its employees, agents and consultants shall, sign, execute, make, and do all such further deeds, documents, and acts as reasonably required to give effect to the provisions of this Section {IP.P2.Xnum}.
 
 IP.P1.Sec=<b>{P1.Handle} Arising Intellectual Property. </b> {P1.Handle} will own all rights in the {P1_Results}, and in any information, data and results that {P1.Handle} generates on any {P1.Handle} compounds identified from {P1.Handle}’s proprietary compound library during the conduct of the Research under this Agreement and any {P1.Handle}-generated derivates or analogs thereto. Subject to Section {IP.P2.Xnum}, {P1.Handle} will own all inventions and related intellectual property (including know-how, patents and copyrights), that as between {P1.Handle} and {P2.Handle}, {P1.Handle} discovers or makes during the course of the Research.
 
@@ -199,15 +170,9 @@ IP.Other.Sec=<b>Other Inventions. </b> Inventorship of all other arising intelle
 
 IP.Disclaim.Sec=<b>No Further Rights. </b> Except as provided in this Agreement, no express or implied licenses or other rights are provided to {P1.Handle}, to {P2.Handle}, or to {P2.Investigator} under any patents, patent applications, trade secrets or other proprietary rights of {P2.Handle} or {P1.Handle}, as applicable.
 
-
-Conf.Sec=<b>{Conf.Title}</b><ol><li>{Conf.Def.Sec}</li><li>{Conf.Except.sec}</li><li>{Conf.Care.Sec}</li><li>{Conf.Except.Compelled.Sec}</li><li>{Conf.Publication.Sec}</li></ol>
-
 Conf.Title=Confidentiality; Publication
 
-
-
-Conf.Def.Sec=<b> "{Confidential Information}"</b> The term “{Confidential Information}” means any and all confidential or proprietary information clearly marked as “Confidential” disclosed by or on behalf of one Party (oral information reduced to writing within 30 days), on or after the Effective Date, to the other Party in connection with this Agreement. However, 
-
+Conf.Def.Sec=<b> "{Confidential Information}"</b> The term “{Confidential Information}” means any and all confidential or proprietary information clearly marked as “Confidential” disclosed by or on behalf of one Party (oral information reduced to writing within 30 days), on or after the Effective Date, to the other Party in connection with this Agreement.
 
 Conf.Except.sec=<b>{Conf.Except.Title}. </b> {Conf.Except.Intro}:<ol type="a"><li>{Conf.Except.WasPublic}</li><li>{Conf.Except.BecomesPublic}</li><li>{Conf.Except.Has}</li><li>{Conf.Except.Finds}</li><li>{Conf.Except.Makes}</li></ol>
 
@@ -229,62 +194,53 @@ Conf.Care.Sec=<b>Protection of {Confidential Information}. </b> For a period of 
 
 Conf.Except.Compelled.Sec=<b>Permitted Disclosure. </b> Notwithstanding any provision herein to the contrary, in the event that the receiving Party hereafter becomes obligated by mandatory applicable law, regulatory rule or judicial or administrative order to disclose such {Confidential Information} or any portion thereof, to any governmental authority or court or other party to the extent required by statute, the receiving Party shall immediately notify the disclosing Party of each such requirement and identify the {Confidential Information} so required thereby, so that the disclosing Party may seek an appropriate protective order or other remedy with respect to narrowing the scope of such requirement and/or waive compliance by the receiving Party with the provisions of this Agreement. If, in the absence of such protective order or other remedy, the receiving Party is nonetheless required by mandatory applicable law to disclose any part of the {Confidential Information}, the receiving Party may disclose such {Confidential Information} without liability hereunder, provided, that, the receiving Party shall furnish only such portion of the {Confidential Information} which is legally required to be disclosed and only to the extent required by applicable law.
 
-Conf.Publication.Sec=<b>Publication Rights. </b> {P2.Handle} shall have the right to publish the results of any research activities conducted by {P2.Handle} using the Materials or the Presented Compounds (i.e. those {P1.Handle} compounds presented to {P2.Handle} under Section {Outcome.2.Xnum} (“Research Scenario #2”)), without the prior written consent of {P1.Handle}. To the extent that the {P1_Results} are provided to {P2.Handle}, publication of any such {P1_Results} by {P2.Handle} shall be governed by Section {Submit.P1Report.Xnum} of this Agreement. If {P2.Handle} and {P1.Handle} enter into a DPAc Agreement as set forth in Section {Outcome.1.Xnum}, publication rights with respect to the project will be governed by the terms of such DPAc Agreement.
-
-
-
-Rep.Sec=<b>{Rep.Title}</b><ol><li>{Rep.P2.Disclaim.Sec}</li><li>{Rep.P1.Handling.Sec}</li><li>{Rep.P2.LawfullyObtained.Sec}</li><li>{Rep.P1.Disclaim.Sec}</li></ol>
+Conf.Publication.Sec=<b>Publication Rights. </b> {P2.Handle} shall have the right to publish the results of any research activities conducted by {P2.Handle} using the {Material}s or the Presented Compounds (i.e. those {P1.Handle} compounds presented to {P2.Handle} under Section {Outcome.2.Xnum} (“Research Scenario #2”)), without the prior written consent of {P1.Handle}. To the extent that the {P1_Results} are provided to {P2.Handle}, publication of any such {P1_Results} by {P2.Handle} shall be governed by Section {Submit.P1Report.Xnum} of this Agreement. If {P2.Handle} and {P1.Handle} enter into a {DPAc Agreement} as set forth in Section {Outcome.1.Xnum}, publication rights with respect to the project will be governed by the terms of such {DPAc Agreement}.
 
 Rep.Title=Representations and Warranties
 
-Rep.P2.Disclaim.Sec=Any Material delivered pursuant to this Agreement is understood to be experimental in nature and may have hazardous properties. INSTITUTION MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND RELATING TO THE MATERIAL, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, OR THAT THE USE OF THE MATERIAL WILL NOT INFRINGE ANY PATENT, COPYRIGHT, TRADEMARK OR OTHER PROPRIETARY RIGHTS.
+Rep.P2.Disclaim.Sec=Any {Material} delivered pursuant to this Agreement is understood to be experimental in nature and may have hazardous properties. INSTITUTION MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND RELATING TO THE MATERIAL, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, OR THAT THE USE OF THE MATERIAL WILL NOT INFRINGE ANY PATENT, COPYRIGHT, TRADEMARK OR OTHER PROPRIETARY RIGHTS.
 
-Rep.P1.Handling.Sec={P1.Handle} assumes all liability for damages, which may arise from its use, storage or disposal of the Material. {P2.Handle} will not be liable to {P1.Handle} for any loss, claim or demand made by {P1.Handle}, or made against {P1.Handle} by any other Party, due to or arising from the use, storage or disposal of the Material by {P1.Handle}, except to the extent permitted by law when caused by the negligence or willful misconduct of {P2.Handle}.
+Rep.P1.Handling.Sec={P1.Handle} assumes all liability for damages, which may arise from its use, storage or disposal of the {Material}. {P2.Handle} will not be liable to {P1.Handle} for any loss, claim or demand made by {P1.Handle}, or made against {P1.Handle} by any other Party, due to or arising from the use, storage or disposal of the {Material} by {P1.Handle}, except to the extent permitted by law when caused by the negligence or willful misconduct of {P2.Handle}.
 
-Rep.P2.LawfullyObtained.Sec={P2.Handle} represents and certifies that, for any Material which is comprised of or derived from human biological material, such human biological material was lawfully obtained by {P2.Handle}, including any applicable requirements for the informed consent of the donor of such materials.
+Rep.P2.LawfullyObtained.Sec={P2.Handle} represents and certifies that, for any {Material} which is comprised of or derived from human biological material, such human biological material was lawfully obtained by {P2.Handle}, including any applicable requirements for the informed consent of the donor of such materials.
 
-Rep.P1.Disclaim.Sec=THE STRUCTURES FOR ALL PRESENTED COMPOUNDS PROVIDED BY {P1.Handle} TO INSTITUTION OR INSTITUTION’S INVESTIGATOR UNDER THIS AGREEMENT ARE PROVIDED “AS IS” WITHOUT REPRESENTATIONS OR WARRANTIES OF ANY KIND, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, FREEDOM TO OPERATE OR THAT THE USE OF THE PRESENTED COMPOUNDS WILL NOT INFRINGE ANY PATENT, COPYRIGHT, TRADEMARK OR OTHER PROPRIETARY RIGHTS.
-
-
-Misc.Sec=<b>{Misc.Title}</b><ol><li>{Misc.Expire.Sec}</li><li>{Misc.Return.Sec}</li><li>{Misc.Survive.Sec}</li><li>{Misc.Notice.Sec}</li><li>{Misc.Assign.Sec}</li><li>{Misc.Entire.Sec}</li><li>{Misc.Amend.Sec}</li><li>{Misc.Waiver.Sec}</li><li>{Misc.Publicity.Sec}</li><li>{Misc.Law.Sec}</li><li>{Misc.Counterpart.Sec}</li></ol>
+Rep.P1.Disclaim.Sec=<span style="text-transform: uppercase">
+THE STRUCTURES FOR ALL PRESENTED COMPOUNDS PROVIDED BY {P1.Handle} TO {P2.Handle} OR {P2.Investigator} UNDER THIS AGREEMENT ARE PROVIDED “AS IS” WITHOUT REPRESENTATIONS OR WARRANTIES OF ANY KIND, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, FREEDOM TO OPERATE OR THAT THE USE OF THE PRESENTED COMPOUNDS WILL NOT INFRINGE ANY PATENT, COPYRIGHT, TRADEMARK OR OTHER PROPRIETARY RIGHTS.</span>
 
 Misc.Title=Miscellaneous
 
-Misc.Expire.Sec=<b>{Misc.Expire.Title}.</b> {Misc.Expire.Intro}<ol><li>{Misc.Expire.Outcome.1}</li><li>{Misc.Expire.Outcome.2}</li><li>{Misc.Expire.Outcome.3}</li><li>{Misc.Expire.Outcome.4}</li><li>{Misc.Expire.Notice}</li></ol>
+Misc.Expire.Sec=<b>{Misc.Expire.Title}.</b> {Misc.Expire.Intro}<ol type="a"><li>{Misc.Expire.Outcome.1}</li><li>{Misc.Expire.Outcome.2}</li><li>{Misc.Expire.Outcome.3}</li><li>{Misc.Expire.Outcome.4}</li><li>{Misc.Expire.Notice}</li></ol>
 
 Misc.Expire.Title=Term; Termination
 
 Misc.Expire.Intro=This Agreement will commence as of the Effective Date and will continue in full force and effect (the "Term") until the occurrence of one of the following events:
 
-Misc.Expire.Outcome.1=the effective date of a DPAc Agreement between the Parties pursuant to Section {Outcome.1.Xnum}, Research Outcome 1;
+Misc.Expire.Outcome.1=the effective date of a {DPAc Agreement} between the Parties pursuant to Section {Outcome.1.Xnum}, Research Outcome 1;
 
 Misc.Expire.Outcome.2=the election of the Parties to proceed under the terms set forth in Section {Outcome.2.Xnum}, Research Outcome 2, in which case this Agreement will terminate upon the effective date of the agreement described in Section {Outcome.2.Agreement.Xnum};
 
 Misc.Expire.Outcome.3=the election of the Parties to proceed under the terms set forth in Section {Outcome.3.Xnum}, Research Outcome 3, in which case this Agreement will terminate upon the effective date of the agreement described in Section {Outcome.3.Payments.Xnum};
 
-Misc.Expire.Outcome.4=the election of the Parties to proceed under the terms set forth in Section {Outcome.4.Xnum}, Research Outcome 4, in which case this Agreement will terminate upon either (i) the effective date of the DPAc Agreement as detailed in Section {Outcome.4.ProgressOption.Xnum}, or (ii) would revert to the terms set forth in Section {Outcome.3.Xnum}, terminating in accordance with the terms in Section {Outcome.3.Xnum} above; or
+Misc.Expire.Outcome.4=the election of the Parties to proceed under the terms set forth in Section {Outcome.4.Xnum}, Research Outcome 4, in which case this Agreement will terminate upon either (i) the effective date of the {DPAc Agreement} as detailed in Section {Outcome.4.ProgressOption.Xnum}, or (ii) would revert to the terms set forth in Section {Outcome.3.Xnum}, terminating in accordance with the terms in Section {Outcome.3.Xnum} above; or
 
-Outcome.3.Xnum=7.1(c)
+Misc.Expire.Notice=upon thirty (30) days written notice by {P2.Handle} to {P1.Handle}, for adequate cause, such as material breach by {P1.Handle} or imminent health risk or patent infringement related to use of the {Material} by {P1.Handle}.
 
-Misc.Expire.Notice=upon thirty (30) days written notice by {P2.Handle} to {P1.Handle}, for adequate cause, such as material breach by {P1.Handle} or imminent health risk or patent infringement related to use of the Material by {P1.Handle}.
-
-Misc.Return.Sec=<b>Return or Destroy Materials. </b> Upon termination pursuant to Section {Misc.Time.5.Xnum} above, {P1.Handle} will discontinue its use of the Material and will, upon direction of {P2.Handle}, return or destroy (and certify destruction of) any remaining Material or {P2.Handle}'s Confidential Information in its possession or under its control.
+Misc.Return.Sec=<b>Return or Destroy {Material}s. </b> Upon termination pursuant to Section {Misc.Expire.Notice.Xnum} above, {P1.Handle} will discontinue its use of the {Material} and will, upon direction of {P2.Handle}, return or destroy (and certify destruction of) any remaining {Material} or {P2.Handle}'s Confidential Information in its possession or under its control.
 
 Misc.Survive.Sec=<b>Survival. </b> Termination of this Agreement shall terminate all outstanding obligations and liabilities between the Parties arising from this Agreement except those described in {Survive.Xrefs}. Additionally, any other provision required to interpret and enforce the Parties’ rights and obligations under this Agreement shall also survive, but only to the extent required for the full observation and performance of this Agreement.
 
-Survive.Xrefs=Articles 4 – 6 as well as Sections 2.4, 2.5, 7.3 and 7.7
 
 Misc.Notice.Sec=<b>Notices. </b> All notices given pursuant to this Agreement will be in writing and will be deemed to have been given: (a) three (3) days after mailing when mailed by registered or certified mail, postage paid, (b) on the date sent when made by facsimile transmission with confirmation of receipt (with hard copy to follow by mail, registered or certified, postage paid) or (c) on the date actually received when delivered in person or by reputable over-night courier to the address set forth below or such other place as such Party may from time to time designate in writing. Each Party may change its address set forth below by notice in writing to the other Party. Notices will be sent to the following addresses: {P1.Notice.Block}<br>{P2.Notice.Block}<br>{P1.Scientist.Notice.Block} 
 
 Misc.Assign.Sec=<b>Assignment. </b> This Agreement is binding upon and will inure to the benefit of the Parties hereto and their respective successors and assigns. This Agreement may not be assigned by {P1.Handle} without the prior written consent of {P2.Handle}, which consent will not be unreasonably withheld, and any purported assignment without such consent will be void.
 
-Misc.Entire.Sec=<b>Entire Agreement. </b> This Agreement contains the entire understanding between the Parties hereto with respect to the subject matter contained herein and supersedes all prior written or oral communications, negotiations, understandings or agreements of any kind with respect to such subject matter. This Agreement shall not be construed, by implication or otherwise, as an obligation by either Party to enter into any further agreements, including a DPAc Agreement, relating to the Research.
+Misc.Entire.Sec=<b>Entire Agreement. </b> This Agreement contains the entire understanding between the Parties hereto with respect to the subject matter contained herein and supersedes all prior written or oral communications, negotiations, understandings or agreements of any kind with respect to such subject matter. This Agreement shall not be construed, by implication or otherwise, as an obligation by either Party to enter into any further agreements, including a {DPAc Agreement}, relating to the Research.
 
 Misc.Amend.Sec=<b>Amendment. </b> No amendment or modification of this Agreement will be effective unless made or agreed to in a written agreement that explicitly refers to this Agreement that is signed by authorized representatives of both Parties hereto.
 
 Misc.Waiver.Sec=<b>Waiver of Rights. </b> Failure by either Party hereto to enforce any rights under this Agreement shall not be construed as a waiver of such rights nor shall a waiver by either Party hereto in one or more instances be construed as constituting a continuing waiver or as a waiver in other instances.
 
-Misc.Publicity.Sec=<b>No Publicity. </b> No oral or written release of any statement, information, advertisement, press release or publicity matter having any reference to either Party, express or implied, shall be used by the other Party or on the other Party's behalf, unless and until such matter shall have first been submitted to and received the approval in writing of the Party whose name is being used. This includes information relating to the Material and the nature of and existence of this Agreement.
+Misc.Publicity.Sec=<b>No Publicity. </b> No oral or written release of any statement, information, advertisement, press release or publicity matter having any reference to either Party, express or implied, shall be used by the other Party or on the other Party's behalf, unless and until such matter shall have first been submitted to and received the approval in writing of the Party whose name is being used. This includes information relating to the {Material} and the nature of and existence of this Agreement.
 
 Misc.Law.Sec=<b>Governing Law. </b> This Agreement shall be governed by and construed in accordance with the laws of {Dispute.Law.State.of}, without regard to principles of conflicts of laws applicable in such jurisdiction. Any dispute under this Agreement shall be decided in {Dispute.Forum.cl}.
 
@@ -295,5 +251,76 @@ Agt.Sign={Agt.Sign.Intro}<br>{Sign.Block}
 Agt.Sign.Intro=IN WITNESS WHEREOF, the Parties hereto have duly executed this Agreement as of the Effective Date by their authorized representatives. 
 
 Sign.Block={P1.Sign.Block}<br><br>{P2.Sign.Block}
-                        
-       
+
+
+
+
+Submit.Hits.Xnum={m-}2.3{-m}
+
+Submit.P1Report.Xnum={m-}2.4{-m}
+
+Submit.PerPlan.Xnum={m-}2.1{-m}
+
+Outcome.1.Xnum={m-}3.1{-m}
+
+Outcome.2.Agreement.Xnum={m-}3.2(b){-m}
+
+Outcome.2.Xnum={m-}3.2{-m}
+
+Outcome.3.License.Xnum={m-}3.3(b){-m}
+
+Outcome.3.Payments.Xnum={m-}3.3(d){-m}
+
+Outcome.3.Xnum={m-}3.3{-m}
+
+Outcome.3.Xnum={m-}7.1(c){-m}
+
+Outcome.4.ProgressOption.Xnum={m-}3.4(c){-m}
+
+Outcome.4.Xnum={m-}3.4{-m}
+
+IP.P1.Xnum={m-}4.3{-m}
+
+IP.P2.Xnum={m-}4.2{-m}
+
+Conf.Def.Xnum={m-}5.1{-m}
+
+Confidential Information={m-}Confidential Information{-m}
+
+Misc.Expire.Notice.Xnum={m-}7.1(e){-m}
+
+Survive.Xrefs={m-}Articles 4 – 6 as well as Sections 2.4, 2.5, 7.3 and 7.7{-m}
+
+
+DPAc Agreement={m-}DPAc Agreement{-m}
+
+MTR={m-}MTR{-m}
+
+Material={m-}Material{-m}
+
+P2_Results={m-}Institution Results{-m}
+
+P1.Handle={m-}GSK{-m}
+
+P1_Results={m-}{P1.Handle} Results{-m}
+
+P1_Transfer_Contract={m-}{P1.Handle} Transfer Contract{-m}
+
+P2.Handle={m-}Institution{-m}
+
+P2.Investigator={m-}Institution's Investigator{-m}
+
+P2_Results={m-}{P2.Handle} Results{-m}
+
+Schedule.DPAc.Xref={m-}Schedule 4{-m}
+
+Schedule.MTR.Xref={m-}Schedule 2{-m}
+
+Schedule.P1_Transfer_Contract={m-}Schedule 3{-m}
+
+Schedule.Plan.Xref={m-}Schedule 1{-m}
+
+m-=<font color="{mcolor}"> 
+-m=</font>
+mcolor=red                       
+                           
