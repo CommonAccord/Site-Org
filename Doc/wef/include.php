@@ -1,6 +1,11 @@
-Materials for World Economic Forum - Data-Driven Development - initiative on emergency response.  
+Materials for World Economic Forum - Data-Driven Development - initiative on emergency response.
+
+
 <ol><li>
-<a href="http://commonaccord.org/index.php?action=list&file=Doc/wef/mta/">Materials Transfer Agreements</a>  
+<a href="http://commonaccord.org/index.php?action=list&file=Doc/wef/mta/">Standard Materials Transfer Agreements</a>  
+</li><li>
+
+<a href="http://commonaccord.org/index.php?action=list&file=Doc/wef/gsk/mta/">GSK Open Innovation Challenge - Model MTA</a>  
 </li><li>
    <a href="http://commonaccord.org/index.php?action=list&file=Doc/wef/letter/us_tx_dshs/">Texas Department of State Health Services - Order, Contact, Temperature Reading</a><br>
 </li><li>
