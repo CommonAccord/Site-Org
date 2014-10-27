@@ -5,7 +5,6 @@ Agt.Secs={Secs.Intro}:<ol><li>{Def.Sec}</li><li>{Submit.Sec}</li><li>{Outcome.Se
 Recital.List=<ul type="none"><li>{Recital.Entered};</li><li>{Recital.Purpose};</li><li>{Recital.Selected};</li><li>{Recital.WillTransfer}; and</li><li>{Recital.OnTheseTerms}.</li></ul>
 
 Def.Sec=<b>{Def.Title}</b><ul type="none"><li>{Def.Affiliate}</li><li>{Def.Confidential_Information}</li><li>{Def.Confirmed_Hit}</li><li>{Def.DPAc_Agreement}</li><li>{Def.P1_Results}</li><li>{Def.P1_Transfer_Contract}</li><li>{Def.P2's_Investigator}</li><li>{Def.P2_Results}</li><li>{Def.Material}</li><li>{Def.Material_Transfer_Record}</li><li>{Def.Research}</li><li>{Def.Research_Plan}</li></ul>
-
 Submit.Sec=<b>{Submit.Title}</b><ol><li>{Submit.PerPlan.Sec}</li><li>{Submit.Limit.Sec}</li><li>{Submit.Hits.Sec}</li><li>{Submit.P1Report.Sec}</li><li>{Submit.P1Free.Sec}</li></ol>
 
 Outcome.Sec=<b>{Outcome.Title}</b> {Outcome.Intro}<ol><li>{Outcome.1.Sec}</li><li>{Outcome.2.Sec}</li><li>{Outcome.3.Sec}</li><li>{Outcome.4.Sec}</li></ol>
@@ -47,7 +46,7 @@ Secs.Intro=NOW, THEREFORE, in consideration of the mutual promises contained her
 
 Def.Title=Definitions
 
-Def.Affiliate=“Affiliate” means any corporation or non-corporate entity which controls, is controlled by or is under common control with {P1.Handle}. A corporation or non-corporate entity, as applicable, will be regarded as in control of another corporation if it owns or directly or indirectly controls at least fifty percent (50%) of the voting stock of the other corporation or (i) in the absence of the ownership of at least fifty percent (50%) of the voting stock of a corporation or (ii) in the case of a non-corporate entity, if it possesses, directly or indirectly, the power to direct or cause the direction of the management and policies of such corporation or non-corporate entity, as applicable.
+Def.Affiliate=“{Affiliate}” means any corporation or non-corporate entity which controls, is controlled by or is under common control with {P1.Handle}. A corporation or non-corporate entity, as applicable, will be regarded as in control of another corporation if it owns or directly or indirectly controls at least fifty percent (50%) of the voting stock of the other corporation or (i) in the absence of the ownership of at least fifty percent (50%) of the voting stock of a corporation or (ii) in the case of a non-corporate entity, if it possesses, directly or indirectly, the power to direct or cause the direction of the management and policies of such corporation or non-corporate entity, as applicable.
 
 Def.Confidential_Information=“{Confidential Information}” has the meaning ascribed to such term in Section {Conf.Def.Xnum} below.
 
@@ -85,19 +84,19 @@ Submit.Limit.UsePerLaw=is to be used in compliance with all applicable statutes 
 
 Submit.Limit.NoHuman=will not be used in human subjects, in clinical trials, or for diagnostic purposes involving human subjects without the written consent of {P2.Handle};
 
-Submit.Limit.UseByP1=is to be used only under the direction of employees, agents or consultants of {P1.Handle} or its Affiliates; and
+Submit.Limit.UseByP1=is to be used only under the direction of employees, agents or consultants of {P1.Handle} or its {Affiliates}; and
 
-Submit.Limit.No3Party=will not be provided to any third party by {P1.Handle} without the prior written consent of {P2.Handle}, except that {P1.Handle} may provide the {Material} to its employees, agents, consultants and Affiliates, provided that such employees, agents, consultants and Affiliates are obligated (whether in a written agreement or otherwise) to comply with the terms and conditions of this Agreement.
+Submit.Limit.No3Party=will not be provided to any third party by {P1.Handle} without the prior written consent of {P2.Handle}, except that {P1.Handle} may provide the {Material} to its employees, agents, consultants and {Affiliates}, provided that such employees, agents, consultants and {Affiliates} are obligated (whether in a written agreement or otherwise) to comply with the terms and conditions of this Agreement.
 
 Submit.Hits.Sec=<b>Provision of {Confirmed Hits} to {P2.Handle} or {P2.Investigator}; {P1_Results}. </b> The Parties recognize that {P2.Handle} may have unique systems, assays or models that may be useful or necessary to further confirm or validate the {Confirmed Hits} obtained by {P1.Handle} during its conduct of the {Research}. Depending on the specific {P1_Results} (as defined below) obtained by {P1.Handle} during the conduct of such {Research} activities, if the Parties determine that it would be advantageous for {P1.Handle} to transfer to {P2.Handle} or {P2.Investigator} such {Confirmed Hits} for the purpose of allowing {P2.Handle} or {P2.Investigator} to conduct any such further testing of such {Confirmed Hits} in {P2.Handle}’s biological systems or assays, the Parties will negotiate and execute a "{P1_Transfer_Contract}" a form template of which is attached hereto as {Schedule.P1_Transfer_Contract}. The {P1_Transfer_Contract} will include an attached work plan setting forth the specific activities to be conducted by the {P2.Handle} and/or {P2.Investigator} with the {Confirmed Hits}, including a timeline for the conduct of such activities, said timeline shall not extend beyond the term of this agreement.
 
-Submit.P1Report.Sec=<b>{P1_Results}. </b> Within the later of: (a) sixty (60) days following the conclusion of the {Research} by {P1.Handle}, or, (b) in the event that the Parties have entered into a {P1_Transfer_Contract} pursuant to Section {Submit.Hits.Xnum} above, then within forty-five (45) days following receipt by {P1.Handle} of the results of the testing conducted by {P2.Handle} or {P2.Investigator} under the {P1_Transfer_Contract} (the "{P2_Results}"), {P1.Handle} shall provide {P2.Handle} with a summary of the results of the {Research} relating to the {Material} that were generated solely by {P1.Handle} in the conduct of the {Research} activities allocated to {P1.Handle} under this Agreement (the “{P1_Results}”). The {P1_Results} shall be considered {P1.Handle} {Confidential Information} and shall be kept confidential by {P2.Handle}. Because the {P1_Results} includes information on the {P1.Handle} proprietary compounds that were identified by {P1.Handle} during the conduct of the {Research}, {P2.Handle} shall not publish or otherwise disclose the {P1_Results} to any third party or use the {P1_Results} except for {P2.Handle}’s own internal research purposes (excluding any such internal research conducted with, for, or on behalf of a third party commercial entity in the event of Research Outcome 2, Section {Outcome.2.Xnum}, below) without first obtaining {P1.Handle}’s prior written consent to such disclosure or use. Nothing set forth in this Section {Submit.P1Report.Xnum} shall prevent {P2.Handle} from exercising {P2.Handle}’s publication rights as specifically set forth in Section 5.4 below, provided that such publications do not contain the {P1_Results}.
+Submit.P1Report.Sec=<b>{P1_Results}. </b> Within the later of: (a) sixty (60) days following the conclusion of the {Research} by {P1.Handle}, or, (b) in the event that the Parties have entered into a {P1_Transfer_Contract} pursuant to Section {Submit.Hits.Xnum} above, then within forty-five (45) days following receipt by {P1.Handle} of the results of the testing conducted by {P2.Handle} or {P2.Investigator} under the {P1_Transfer_Contract} (the "{P2_Results}"), {P1.Handle} shall provide {P2.Handle} with a summary of the results of the {Research} relating to the {Material} that were generated solely by {P1.Handle} in the conduct of the {Research} activities allocated to {P1.Handle} under this Agreement (the “{P1_Results}”). The {P1_Results} shall be considered {P1.Handle} {Confidential Information} and shall be kept confidential by {P2.Handle}. Because the {P1_Results} includes information on the {P1.Handle} proprietary compounds that were identified by {P1.Handle} during the conduct of the {Research}, {P2.Handle} shall not publish or otherwise disclose the {P1_Results} to any third party or use the {P1_Results} except for {P2.Handle}’s own internal research purposes (excluding any such internal research conducted with, for, or on behalf of a third party commercial entity in the event of {Research Outcome} 2, Section {Outcome.2.Xnum}, below) without first obtaining {P1.Handle}’s prior written consent to such disclosure or use. Nothing set forth in this Section {Submit.P1Report.Xnum} shall prevent {P2.Handle} from exercising {P2.Handle}’s publication rights as specifically set forth in Section 5.4 below, provided that such publications do not contain the {P1_Results}.
 
-Submit.P1Free.Sec=<b>Acknowledgement of Prior Activities. </b> {P2.Handle} understands and acknowledges that prior to the Effective Date, {P1.Handle} and/or its Affiliates may have performed or engaged in, or otherwise arranged for the conducting of, research, development and commercialization activities relating to performing a molecular discovery campaign and/or conducting activities or otherwise evaluating biological materials which may include the {Material}s. Further, {P2.Handle} acknowledges and agrees that nothing contained in this Agreement will be construed, by implication or otherwise, as prohibiting {P1.Handle} and/or its Affiliates, during the Term and thereafter, from performing or engaging in, or otherwise arranging for the conducting of, research, development or commercialization activities relating in whole or in part to molecular discovery campaigns, independent and without the use of {Material}s or {Confidential Information}.
+Submit.P1Free.Sec=<b>Acknowledgement of Prior Activities. </b> {P2.Handle} understands and acknowledges that prior to the Effective Date, {P1.Handle} and/or its {Affiliates} may have performed or engaged in, or otherwise arranged for the conducting of, research, development and commercialization activities relating to performing a molecular discovery campaign and/or conducting activities or otherwise evaluating biological materials which may include the {Material}s. Further, {P2.Handle} acknowledges and agrees that nothing contained in this Agreement will be construed, by implication or otherwise, as prohibiting {P1.Handle} and/or its {Affiliates{, during the {Term} and thereafter, from performing or engaging in, or otherwise arranging for the conducting of, research, development or commercialization activities relating in whole or in part to molecular discovery campaigns, independent and without the use of {Material}s or {Confidential Information}.
 
 Outcome.Title=Outcome of Research; Further Actions.
 
-Outcome.Intro=The Parties acknowledge and agree that one (1) of the four (4) following options (each a "Research Outcome") will result from the conduct of the {Research} pursuant to this Agreement. For Research Outcomes 1, 2 or 3, the Parties will negotiate and enter into a separate agreement as further specified below that will govern any further use, publication rights, ownership, and development of {Confirmed Hits} identified in the conduct of the {Research} under this Agreement.
+Outcome.Intro=The Parties acknowledge and agree that one (1) of the four (4) following options (each a "{Research Outcome}") will result from the conduct of the {Research} pursuant to this Agreement. For {Research Outcome}s 1, 2 or 3, the Parties will negotiate and enter into a separate agreement as further specified below that will govern any further use, publication rights, ownership, and development of {Confirmed Hits} identified in the conduct of the {Research} under this Agreement.
 
 Outcome.1.Sec=<b>{Outcome.1.Title}</b> {Outcome.1.Intro}:<ol type="a"><li>{Outcome.1.Negotiate}</li><li>{Outcome.1.UseOfData}</li><li>{Outcome.1.FailureOfNegotiation}</li></ol>
 
@@ -126,7 +125,7 @@ Outcome.2.Agreement.Intro=Pursuant to this Section {Outcome.2.Xnum}, {P1.Handle}
 
 Outcome.2.Agreement.1={P2.Handle} will have the right to progress the research and development of the Presented Compounds and to commercialize any such Presented Compounds, and any derivatives, analogs, or modified versions of the Presented Compounds made by {P2.Handle}, on fair and reasonable terms, which will include the terms set forth in the attached {Schedule.DPAc.Xref}
 
-Outcome.2.Agreement.2={P1.Handle} will retain a worldwide, fully paid-up, non-exclusive, perpetual, irrevocable right and license to make and use the Presented Compounds solely for research and development (but not for commercial) purposes. For clarity, such research and development purposes would allow Presented Compounds to remain in the {P1.Handle} compound library, to be used in other {P1.Handle} screens, and to form the basis for medicinal chemistry research and development programs at {P1.Handle}. Further, such license would be sublicenseable to {P1.Handle}'s Affiliates and collaborators
+Outcome.2.Agreement.2={P1.Handle} will retain a worldwide, fully paid-up, non-exclusive, perpetual, irrevocable right and license to make and use the Presented Compounds solely for research and development (but not for commercial) purposes. For clarity, such research and development purposes would allow Presented Compounds to remain in the {P1.Handle} compound library, to be used in other {P1.Handle} screens, and to form the basis for medicinal chemistry research and development programs at {P1.Handle}. Further, such license would be sublicenseable to {P1.Handle}'s {Affiliates} and collaborators
 
 Outcome.2.Agreement.3={P2.Handle} will have the right to seek intellectual property protection for the Presented Compounds and any derivatives, analogs or modified versions thereof that are made by {P2.Handle}
 
@@ -139,7 +138,7 @@ Outcome.3.Intro=In the event that, based on the {P1_Results} and/or the {P2_Resu
 
 Outcome.3.Progress={P1.Handle} will have the right to continue with the {Research} and to progress any hits, {Confirmed Hits}, or derivatives, analogs, or modified versions of the foregoing, identified during the conduct of the {Research} under this Agreement to be treated in the same way as if such hits or {Confirmed Hits} arose from a {P1.Handle} internal research and development program;
 
-Outcome.3.License=Effective upon notice by {P2.Handle} in writing that it will not elect to negotiate a {DPAc Agreement}, to the extent legally able, {P2.Handle} shall grant to {P1.Handle} a non-exclusive, royalty-free, worldwide, right and license, with a right to grant sublicenses to {P1.Handle} Affiliates and collaborators, under {P2.Handle}’s rights in any existing and/or arising intellectual property claiming the {Material};
+Outcome.3.License=Effective upon notice by {P2.Handle} in writing that it will not elect to negotiate a {DPAc Agreement}, to the extent legally able, {P2.Handle} shall grant to {P1.Handle} a non-exclusive, royalty-free, worldwide, right and license, with a right to grant sublicenses to {P1.Handle} {Affiliates} and collaborators, under {P2.Handle}’s rights in any existing and/or arising intellectual property claiming the {Material};
 
 Outcome.3.NotExpose={P1.Handle} will not have an obligation to provide to {P2.Handle} or to publish any structures of any of the {Confirmed Hits} from the {Research}; and
 
@@ -188,9 +187,9 @@ Conf.Except.Has=was in the receiving Party’s possession prior to the time of dis
 
 Conf.Except.Finds=becomes available to the receiving Party from a third party that is not legally prohibited from disclosing such {Confidential Information};
 
-Conf.Except.Makes=was developed by or for the receiving Party independently of the disclosure of {Confidential Information} by the disclosing Party or its Affiliates.
+Conf.Except.Makes=was developed by or for the receiving Party independently of the disclosure of {Confidential Information} by the disclosing Party or its {Affiliates}.
 
-Conf.Care.Sec=<b>Protection of {Confidential Information}. </b> For a period of five (5) years after the Effective Date of the Agreement, the receiving Party shall keep the {Confidential Information} strictly confidential and, except as otherwise permitted herein, shall not disclose such {Confidential Information} to any third party without first obtaining the disclosing Party’s prior written consent. The standard of care required of the receiving Party in protecting the confidentiality of {Confidential Information} is the same standard of care that the receiving Party uses in protecting its own confidential information of a similar nature, but in no event shall the receiving Party use less than a reasonable standard of care. The receiving Party may disclose {Confidential Information} only to its Affiliates, employees or consultants on a need-to-know basis, provided that the receiving Party will have executed or shall execute appropriate written agreements with such Affiliates, and consultants sufficient to enable the receiving Party to comply with all the provisions of this Agreement.
+Conf.Care.Sec=<b>Protection of {Confidential Information}. </b> For a period of five (5) years after the Effective Date of the Agreement, the receiving Party shall keep the {Confidential Information} strictly confidential and, except as otherwise permitted herein, shall not disclose such {Confidential Information} to any third party without first obtaining the disclosing Party’s prior written consent. The standard of care required of the receiving Party in protecting the confidentiality of {Confidential Information} is the same standard of care that the receiving Party uses in protecting its own confidential information of a similar nature, but in no event shall the receiving Party use less than a reasonable standard of care. The receiving Party may disclose {Confidential Information} only to its {Affiliates}, employees or consultants on a need-to-know basis, provided that the receiving Party will have executed or shall execute appropriate written agreements with such {Affiliates}, and consultants sufficient to enable the receiving Party to comply with all the provisions of this Agreement.
 
 Conf.Except.Compelled.Sec=<b>Permitted Disclosure. </b> Notwithstanding any provision herein to the contrary, in the event that the receiving Party hereafter becomes obligated by mandatory applicable law, regulatory rule or judicial or administrative order to disclose such {Confidential Information} or any portion thereof, to any governmental authority or court or other party to the extent required by statute, the receiving Party shall immediately notify the disclosing Party of each such requirement and identify the {Confidential Information} so required thereby, so that the disclosing Party may seek an appropriate protective order or other remedy with respect to narrowing the scope of such requirement and/or waive compliance by the receiving Party with the provisions of this Agreement. If, in the absence of such protective order or other remedy, the receiving Party is nonetheless required by mandatory applicable law to disclose any part of the {Confidential Information}, the receiving Party may disclose such {Confidential Information} without liability hereunder, provided, that, the receiving Party shall furnish only such portion of the {Confidential Information} which is legally required to be disclosed and only to the extent required by applicable law.
 
@@ -213,7 +212,7 @@ Misc.Expire.Sec=<b>{Misc.Expire.Title}.</b> {Misc.Expire.Intro}<ol type="a"><li>
 
 Misc.Expire.Title=Term; Termination
 
-Misc.Expire.Intro=This Agreement will commence as of the Effective Date and will continue in full force and effect (the "Term") until the occurrence of one of the following events:
+Misc.Expire.Intro=This Agreement will commence as of the Effective Date and will continue in full force and effect (the "{Term}") until the occurrence of one of the following events:
 
 Misc.Expire.Outcome.1=the effective date of a {DPAc Agreement} between the Parties pursuant to Section {Outcome.1.Xnum}, Research Outcome 1;
 
@@ -285,6 +284,10 @@ IP.P2.Xnum={m-}4.2{-m}
 
 Conf.Def.Xnum={m-}5.1{-m}
 
+Affiliate={m-}Affiliate{-m}
+
+Affiliates={m-}Affiliates{-m}
+
 Confidential Information={m-}Confidential Information{-m}
 
 Misc.Expire.Notice.Xnum={m-}7.1(e){-m}
@@ -302,6 +305,11 @@ MTR={m-}MTR{-m}
 Material={m-}Material{-m}
 
 Research={m-}Research{-m}
+Research Plan={m-}Research Plan{-m}
+
+Research Outcome={m-}Research Outcome{-m}
+
+ Term={m-}Term{-m}
 
 P2_Results={m-}Institution Results{-m}
 
@@ -325,8 +333,8 @@ Schedule.P1_Transfer_Contract={m-}Schedule 3{-m}
 
 Schedule.Plan.Xref={m-}Schedule 1{-m}
 
-m-=<font color="{mcolor}"> 
+m-=<font color="{mcolor}">
 -m=</font>
 mcolor=red
                        
-              
+                        
