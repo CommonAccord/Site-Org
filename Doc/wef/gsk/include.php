@@ -1,1 +1,0 @@
-This is a long-form Materials Transfer Agreement done by GSK in connection with their Open Innovation Challenge.  Notice the scope of the legal friction that they deal with:  <a href="http://www.openinnovation.gsk.com/eu/ttos.php">What do Technology Transfer Offices (TTOs) need to know?</a> 
