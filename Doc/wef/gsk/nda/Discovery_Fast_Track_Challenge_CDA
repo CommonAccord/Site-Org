@@ -1,3 +1,4 @@
+Source=<a href="http://www.openinnovation.gsk.com/downloads/Discovery_Fast_Track_Challenge_CDA.pdf">CDA (PDF)</a> - 
 Model.Root={DocBody}
 
 DocBody={Heading}<br>{Intro}<ol><li>{Def.Sec}</li><li>{Purpose.Sec}</li><li>{Engage.Sec}</li><li>{NonExclusive.Sec}</li><li>{Except.Sec}</li><li>{Except.Compelled.Sec}</li><li>{Term.Sec}</li><li>{Rep.Sec}</li><li>{NoDeal.Sec}</li><li>{Return.Sec}</li><li>{Publicity.Sec}</li><li>{Notice.Sec}</li><li>{Assign.Sec}</li><li>{Sever.Sec}</li><li>{Entire.Sec}</li><li>{Amend.Sec}</li><li>{Waive.Sec}</li><li>{Law.Sec}</li><li>{Heading.Sec}</li><li>{Counterpart.Sec}</li><li>{Injunction.Sec}</li></ol>
@@ -136,4 +137,4 @@ m-=<font color="{mcolor}">
 -m=</font>
 mcolor=magenta
                 
-        
+          
