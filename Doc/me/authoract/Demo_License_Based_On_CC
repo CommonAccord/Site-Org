@@ -16,7 +16,7 @@ Def.Licensor={m-}<b>Licensor</b> means {P1.N,E,A}.{-m}
 
 Def.You={m-}<b>You</b> means {P2.N,E,A}. Your has a corresponding meaning.{-m}
 
-Comp.Sec={m-}<u>Compensation</u>.  You will receive one copy of the Licensed Material on the terms of the Crowd-Sourcing.  You may order additional copies for {Book.Copy.$} per copy.{-m}
+Comp.Sec={m-}<u>Compensation</u>.  You will receive {Quantity} of the Licensed Material on the terms of the Crowd-Sourcing.  You may order additional copies for {Book.Copy.$} per copy.{-m}
 
 m-=<font color="{mcolor}">
 -m=</font>
