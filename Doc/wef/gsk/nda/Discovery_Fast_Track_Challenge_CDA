@@ -1,0 +1,128 @@
+Model.Root={DocBody}
+
+DocBody={Heading}<br>{Intro}<ol><li>{Def.Sec}</li><li>{Purpose.Sec}</li><li>{Engage.Sec}</li><li>{NonExclusive.Sec}</li><li>{Except.Sec}</li><li>{Except.Compelled.Sec}</li><li>{Term.Sec}</li><li>{Rep.Sec}</li><li>{NoDeal.Sec}</li><li>{Return.Sec}</li><li>{Publicity.Sec}</li><li>{Notice.Sec}</li><li>{Assign.Sec}</li><li>{Sever.Sec}</li><li>{Entire.Sec}</li><li>{Amend.Sec}</li><li>{Waive.Sec}</li><li>{Law.Sec}</li><li>{Heading.Sec}</li><li>{Counterpart.Sec}</li><li>{Injunction.Sec}</li></ol>
+
+Heading=<center><b>{Agt.Title}</b></center>
+
+Agt.Title=Confidential Disclosure Agreement
+
+Intro=THIS {Agt.Title} (this “Agreement”) is made and entered into as of the date of last signature below (the “{Effective Date}”), by and between {P2.N,E,A} (“{P2.Handle}”) and  {P2.N,E,A} (“{P2.Handle}”). 
+
+Def.Sec=<b>{Def.Title}.</b><ul type="none"><li>{Def.Affiliate}</li><li>{Def.Confidential_Information}</li></ul>
+
+Def.Title=Definitions
+
+Def.Affiliate=<b>“Affiliate”</b> means any corporation or non-corporate entity which controls, is controlled by or is under common control with a party. A corporation or non-corporate entity, as applicable, will be regarded as in control of another corporation if it owns or directly or indirectly controls at least fifty percent (50%) of the voting stock of the other corporation or (i) in the absence of the ownership of at least fifty percent (50%) of the voting stock of a corporation or (ii) in the case of a non-corporate entity, if it possesses, directly or indirectly, the power to direct or cause the direction of the management and policies of such corporation or non-corporate entity, as applicable. 
+
+Def.Confidential_Information=<b>“{Confidential Information}”</b> means any and all information clearly marked as “Confidential” that is disclosed on or after the Effective Date whether orally (and reduced to writing within 30 days) or in written, electronic or other tangible form by a party hereunder, or any of its {Affiliates} (the “{Disclosing Party}”) to the other party hereunder, or any of its {Affiliates} (the “{Receiving Party}”), and: <ol type="i"><li>{Def.Conf.SubjectMatter.P1}; and</li><li>{Def.Conf.SubjectMatter.P2}</li></ol>
+
+Def.Conf.SubjectMatter.P1=With respect to the {Confidential Information} disclosed by {P1.Handle}, such information shall relate to certain {P1.Handle} research and development activities, programs, and competition initiatives sponsored by GSK's Discovery Partnership with Academia group (Discovery Fast Track Competition)
+
+Def.Conf.SubjectMatter.P2=With respect to the {Confidential Information} disclosed by {P2.Handle}, such information shall relate to certain {P2.Handle} research activities, programs and proposals involving the {P2.Handle}’s submission to GSK’s Discovery Fast Track Competition, more specifically, information disclosed by the {P2.Investigator}, {P2.Scientist.Name.Full}, related to the proposal for “{Proposal.Title}”
+
+Purpose.Sec=<b>Purpose of Disclosure.</b> The {Confidential Information} is being disclosed by each party for the purposes of discussion and evaluation relating to the parties’ interest in entering into a potential business relationship (hereinafter, the “Purpose”).
+
+Engage.Sec=<b>{Engage.Title}.</b><ol><li>{Engage.sec}</li><li>{Use.sec}</li></ol>
+
+Engage.Title=Maintenance of Confidentiality; Nonuse Obligations
+
+Engage.sec={Engage.NotDisclose}  {Care}  {Circulate}  {ActsOfAgents}
+
+Engage.NotDisclose=The Disclosing Party’s {Confidential Information} shall be kept confidential by Receiving Party and, except as otherwise permitted herein, shall not be disclosed by the Receiving Party to any third party without first obtaining the Disclosing Party’s prior written consent to such disclosure.
+
+Care=The Receiving Party shall protect the {Confidential Information} of the Disclosing Party in the same manner it protects its own confidential information of a similar nature, which shall be at least a reasonable standard of care.
+
+Circulate= The Receiving Party may disclose the Disclosing Party’s {Confidential Information} only to the Receiving Party’s officers, employees, consultants or agents and/or officers, employees, consultants or agents of its Affiliates (“Representatives”) on a need-to-know basis, provided that the Receiving Party will ensure that its Representatives are obligated (whether in a written agreement or otherwise) to use and maintain the Disclosing Party’s {Confidential Information} in a manner that is sufficient to enable the Receiving Party to comply with all the provisions of this Agreement with respect to the Disclosing Party’s {Confidential Information}.
+
+ActsOfAgents=The Receiving Party shall be liable for any damage caused by or resulting from any unauthorized disclosure of the Disclosing Party’s {Confidential Information} by the Receiving Party’s Representatives.
+
+Use.sec=The {Confidential Information} shall not be utilized by the Receiving Party except for the Purpose permitted herein without first obtaining the Disclosing Party’s prior written consent to such use. 
+
+
+NonExclusive.Sec=<b>{NonExclusive.Title}.</b><br>{NonExclusive}
+
+NonExclusive.Title=Acknowledgment of Activities
+
+NonExclusive=The Disclosing Party understands and acknowledges that prior to the Effective Date, the Receiving Party and/or its Affiliates may have in the past, currently or in the future, either internally or with a third party, engaged in research, development and commercialization activities relating to the subject matter of the Disclosing Party’s {Confidential Information}. Accordingly, the Disclosing Party acknowledges and agrees that nothing in this Agreement will be construed by implication or otherwise as preventing the Receiving Party or its Affiliates, during the term of this Agreement or thereafter, from (a) either internally or with a third party, engaging in research, development and commercialization activities relating to the subject matter of the Disclosing Party’s {Confidential Information}, and (b) evaluating such programs, compounds and capabilities of third parties relating to the subject matter of the Disclosing Party’s {Confidential Information}, provided, that in each case of (a) and (b), the Receiving Party does not use the Disclosing Party’s {Confidential Information} in connection therewith. 
+
+
+Except.Sec=<b>{Except.Title}.</b> {Except.Intro}:<ol type="a"><li>{Except.WasPublic}</li><li>{Except.BecomesPublic}</li><li>{Except.Has}</li><li>{Except.Makes}</li><li>{Except.Finds}</li></ol>
+
+Except.Title=Excluded Information
+
+Except.Intro={Confidential Information} does not include any information which
+
+Except.WasPublic=at the time of disclosure is in the public domain
+
+Except.BecomesPublic=after disclosure becomes part of the public domain, except through breach of this Agreement by the Receiving Party
+
+Except.Has=the Receiving Party can demonstrate by reasonable proof was in the Receiving Party’s or any of its Affiliates’ possession prior to the time of disclosure by the Disclosing Party, and was not acquired directly or indirectly from the Disclosing Party
+
+Except.Makes=the Receiving Party can demonstrate by reasonable proof was developed by or on behalf of the Receiving Party or its Affiliates independent of and without reference to the {Confidential Information} 
+
+Except.Finds=becomes available to the Receiving Party or its Affiliates from a third party who did not acquire such information directly or indirectly from the Disclosing Party and who is not otherwise prohibited from disclosing such information
+
+
+Except.Compelled.Sec=<b>{Except.Compelled.Title}.</b><ol type="a"><li>{Except.Compelled.Notify}</li><li>{Except.Compelled.Disclose}</li></ol>
+
+Except.Compelled.Title=Notification of Mandatory Disclosure
+
+Except.Compelled.Notify=The Receiving Party may disclose that portion of the Disclosing Party’s {Confidential Information} that is required by law to be disclosed, provided that, to the extent practicable, the Disclosing Party is first given notice of the required disclosure and an adequate opportunity to seek appropriate legal relief to prevent such disclosure or limit use and further disclosure of the Disclosing Party’s {Confidential Information}. 
+
+Except.Compelled.Disclose=If, in the absence of such legal relief or other remedy, the Receiving Party is nonetheless required to disclose any part of the Disclosing Party’s {Confidential Information}, the Receiving Party may disclose such {Confidential Information} of the Disclosing Party without liability hereunder, provided that, the Receiving Party shall furnish only such portion of the Disclosing Party’s {Confidential Information} which the Receiving Party is legally required to be disclosed. 
+
+
+Term.Sec=<b>Term.</b> This Agreement shall commence on the Effective Date and shall expire five (5) years after the Effective Date. Either party may terminate this Agreement upon written notice to the other party; however, notwithstanding any early termination of this Agreement, each party’s confidentiality and non-use obligations hereunder shall remain in effect for {Term_of_Confidentiality}.
+
+Term_of_Confidentiality=five (5) years after the Effective Date
+
+Rep.Sec=<b>{Rep.Title}</b>.  {Rep.Intro}: {Rep.List}.
+
+Rep.Title=Representation and Warranty
+
+Rep.Intro=To the actual knowledge of the contracting officer, each party represents and warrants to the other party that
+
+Rep.List={Rep.RightToDisclose}; (b) {Rep.NoBreach}; and {Rep.NotDebarred}
+
+Rep.RightToDisclose=it has all rights title and ownership interest in and to its {Confidential Information} and/or it has the right to disclose such {Confidential Information} to the other party
+
+Rep.NoBreach=by entering into this Agreement, it is not breaching any obligation in any agreement or to any third party
+
+Rep.NotDebarred=it is not currently debarred, suspended or otherwise excluded by any government agency from receiving federal contracts
+
+
+NoDeal.Sec=<b>{NoDeal.Title}.</b>  {NoDeal.Confidential_Information}  {NoDeal.License} 
+
+NoDeal.Title=No Other Obligation; No License
+
+NoDeal.Confidential_Information=This Agreement shall not be construed, by implication or otherwise, as an obligation by either party to enter into any further agreement relating to the other party’s {Confidential Information}.
+
+NoDeal.License=Further, this Agreement shall not convey to {P1.Handle} or {P2.Handle} the grant of a license or other ownership rights to the other party’s {Confidential Information} other than to use the other party’s {Confidential Information} for the Purpose. 
+
+
+Return.Sec=<b>Return of {Confidential Information}.</b> Upon completion of the Purpose, and in the absence of any further written agreement between the parties, {P1.Handle} and {P2.Handle} each shall cease all use of the other party’s {Confidential Information} and shall, upon written request, promptly return, destroy or delete all of the other party’s {Confidential Information} which is in tangible form, except that {P1.Handle} and {P2.Handle} shall be permitted to retain one (1) copy of the other party’s {Confidential Information} so that any continuing obligations may be determined.
+
+Publicity.Sec=<b>No Publicity.</b> Neither party shall directly or indirectly cause or permit (a) the oral or written release of any public statement referring to the existence or terms of this Agreement, or (b) any use of the other party’s name, trade name, logo or trademarks, without the other party’s prior written consent.
+
+Notice.Sec=<b>Notices.</b> Notices or other communications required to be sent to {P1.Handle} under this Agreement shall be addressed in writing to {P1.N,A,UK,Attn}.  Notices or other communications required to be sent to {P2.Handle} under this Agreement shall be addressed to {P2.N,A,UK,Attn}.
+
+Assign.Sec=<b>Assignment.</b> This Agreement shall not be assigned by either party hereto without the prior written consent of the other party hereto, which consent may be withheld in either party’s sole discretion, and any purported assignment without such consent shall be void; provided, however, either party hereto may without such consent assign this Agreement in connection with the sale or transfer of all or substantially all of its business or in connection with a merger or other consolidation with another entity. 
+
+Sever.Sec=<b>Severability.</b> If any provision of this Agreement is found to be invalid, illegal or unenforceable by a court of competent jurisdiction, the validity, legality and enforceability of the remaining provisions shall in no way be affected or impaired thereby. 
+
+Entire.Sec=<b>Entire Agreement.</b> This Agreement contains the entire understanding between the parties hereto with respect to the subject matter contained herein and supersedes all prior written or oral communications, negotiations, understandings or agreements of any kind with respect to such subject matter.
+
+Amend.Sec=<b>Amendments.</b>  No amendment or modification of this Agreement shall be effective except by a written instrument referring to this Agreement and signed by authorized representatives of both parties.
+
+Waive.Sec=<b>Waiver.</b> Failure by either party to enforce any rights under this Agreement shall not be construed as a waiver of such rights nor operate as a waiver in other instances. 
+
+Law.Sec=<b>Governing Law.</b>  This Agreement shall be governed by and construed in accordance with the laws [to be determined] without regard to the conflicts of laws applicable in such jurisdiction.
+
+Heading.Sec=<b>Headings.</b> The headings in this Agreement are for convenience of reference only and shall not affect its interpretation. 
+
+Counterpart.Sec=<b>Counterparts.</b> REDUNDANT! This Agreement and any amendment hereto may be executed in counterparts and all of such counterparts taken together shall be deemed to constitute one and the same instrument. This Agreement and any amendment hereto may be executed in counterparts and all of such counterparts taken together shall be deemed to constitute one and the same instrument and may be executed by facsimile or electronically (including PDF). The parties agree that facsimile or PDF copies of signatures have the same effect as original signatures 
+
+Injunction.Sec=<b>Remedies for Breach.</b> Both parties hereto agree that should this Agreement be breached, money damages may be inadequate to remedy any such breach. As a result, the non-breaching party shall be entitled to seek, and a court of competent jurisdiction may grant, specific performance and injunctive or other equitable relief as a remedy for any breach of this Agreement. Such remedy shall be in addition to all other remedies, including money damages, available to a non-breaching party at law or in equity. 
+
+IN WITNESS WHEREOF, the parties hereto have executed this Confidential Disclosure Agreement as of the Effective Date by their duly authorized representatives.
+              
