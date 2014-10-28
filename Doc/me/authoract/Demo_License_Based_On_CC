@@ -1,22 +1,23 @@
 /Note=A first cut.  Proof of concept.  Can be more tightly integrated into the data from the crowd-sourcing platform.
 
-P2.=[core/id/roberta_robinson]
 =[me/cc/license/4_0/BY-NC-SA]
 
-DocBody=<center><b>{Title}</b></center><br>{s0}<ol><li>{s1}</li><li>{s2}</li><li>{s3}</li><li>{s4}</li><li>{s5}</li><li>{Comp.Sec}</li><li>{s6}</li><li>{s7}</li><li>{s8}</li></ol>
+Title=License by {P1.Name.Full} to {P2.Name.Full}
+
+DocBody=<center><b>{Title}</b></center><br>{s0}<ol><li>{s1}</li><li>{Comp.Sec}</li><li>{s2}</li><li>{s3}</li><li>{s4}</li><li>{s5}</li><li>{s6}</li><li>{s7}</li><li>{s8}</li></ol>
 
 s1=<u>{s1.Title}</u><ol type='a'><li>{Def.Adapted Material}</li><li>{Def.Adaptor's License}</li><li>{Def.BY-NC-SA Compatible License}</li><li>{Def.Copyright and Similar Rights}</li><li>{Def.Crowd-Sourcing}</li><li>{Def.Effective Technological Measures}</li><li>{Def.Exceptions and Limitations}</li><li>{Def.License Elements}</li><li>{Def.Licensed Material}</li><li>{Def.Licensed Rights}</li><li>{Def.Licensor}</li><li>{Def.NonCommercial}</li><li>{Def.Share}</li><li>{Def.Sui Generis Database Rights}</li><li>{Def.You}</li></ol>
 
 Def.Crowd-Sourcing={m-}<b>Crowd-Sourcing</b> means Your participation in the crowd-source financing of the Licensed Material on authorsdo.com, begun on October 15, 2014.{-m}
 
-Def.Licensed Material={m-}<b>Licensed Material</b> means the book "My Little Planet," by Licensor.{-m}
+Def.Licensed Material={m-}<b>Licensed Material</b> means the book "{Book.Name}," by Licensor.{-m}
 
-Def.Licensor={m-}<b>Licensor</b> means Ellen Autone, an individual whose business address is 111 Moan St., Cambridge, MA 02144.{-m}
+Def.Licensor={m-}<b>Licensor</b> means {P1.N,E,A}.{-m}
 
 Def.You={m-}<b>You</b> means {P2.N,E,A}. Your has a corresponding meaning.{-m}
 
-Comp.Sec={m-}<u>Compensation</u>.  You will receive one copy of the Licensed Material on the terms of the Crowd-Sourcing.  You may order additional copies for $7.50 per copy.{-m}
+Comp.Sec={m-}<u>Compensation</u>.  You will receive one copy of the Licensed Material on the terms of the Crowd-Sourcing.  You may order additional copies for {Book.Copy.$} per copy.{-m}
 
 m-=<font color="{mcolor}">
 -m=</font>
-mcolor=magenta    
+mcolor=magenta        
