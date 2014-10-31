@@ -20,9 +20,9 @@
                         </div>
 !-->
 <div id="info-more">
-   <h4>NO MENTION OF ANY PERSON ON THE SITE SHOULD BE UNDERSTOOD TO INDICATE ANY ENDORSEMENT OR APPROVAL.  NOR THE TRUTH OF ANY STATEMENT OR RELATIONSHIP.  SOME PUBLIC FIGURES ARE MENTIONED AND SOME OF THE INFORMATION ABOUT THEM IS DRAWN FROM PUBLIC RECORDS.  BUT OTHER PARTS ARE INVENTED.  DO NOT TREAT ANY OF THIS INFORMATION AS TRUE.  SIMILARLY, DO NOT TREAT THIS AS LEGAL ADVICE OR EVEN AS RELIABLE PRECEDENTS.</h4>
-        <h4 class="subtitle">Explore <a href=<?=$_SERVER['PHP_SELF']?>?action=explore>the objects of law</a></h4>
 <h4 class="subtitle">Ebola response <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/wef/>Experiments with sample documents</a></h4>
+<h4 class="subtitle"><a href="reponse.commonaccord.org/Main_Page">Ebola response wiki</a></h4>
+        <h4 class="subtitle">Explore <a href=<?=$_SERVER['PHP_SELF']?>?action=explore>the objects of law</a></h4>
 <h4 class="subtitle">Applying source methods to open source licenses <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/me/cc/license/4_0/>Creative Commons Licenses</a></h4>   
    <h4 class="subtitle">Startup in a Box <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/me/startup/>an "object" for a startup company</a></h4>
 <h4 class="subtitle">Privacy <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/doc/roi/steps/>medical patient's document wallet</a></h4>   
@@ -31,7 +31,8 @@
         <h4 class="subtitle">See <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/doc/>some deals</a>.</h4>
         <h4 class="subtitle">Browse <a href="https://github.com/CommonAccord/commonaccord/tree/master/Doc">the Github repo</a>.</h4>
 
-
+ <h4>NO MENTION OF ANY PERSON ON THE SITE SHOULD BE UNDERSTOOD TO INDICATE ANY ENDORSEMENT OR APPROVAL.  NOR THE TRUTH OF ANY STATEMENT OR RELATIONSHIP.  SOME PUBLIC FIGURES ARE MENTIONED AND SOME OF THE INFORMATION ABOUT THEM IS DRAWN FROM PUBLIC RECORDS.  BUT OTHER PARTS ARE INVENTED.  DO NOT TREAT ANY OF THIS INFORMATION AS TRUE.  SIMILARLY, DO NOT TREAT THIS AS LEGAL ADVICE OR EVEN AS RELIABLE PRECEDENTS.</h4>
+  
 
 </div> 
 
