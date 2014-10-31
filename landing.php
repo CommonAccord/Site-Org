@@ -21,7 +21,7 @@
 !-->
 <div id="info-more">
 <h4 class="subtitle">Ebola response <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/wef/>Experiments with sample documents</a></h4>
-<h4 class="subtitle"><a href="http://reponse.commonaccord.org/Main_Page">Ebola response wiki</a></h4>
+<h4 class="subtitle"><a href="http://response.commonaccord.org/Main_Page">Ebola response wiki</a></h4>
         <h4 class="subtitle">Explore <a href=<?=$_SERVER['PHP_SELF']?>?action=explore>the objects of law</a></h4>
 <h4 class="subtitle">Applying source methods to open source licenses <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/me/cc/license/4_0/>Creative Commons Licenses</a></h4>   
    <h4 class="subtitle">Startup in a Box <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/me/startup/>an "object" for a startup company</a></h4>
