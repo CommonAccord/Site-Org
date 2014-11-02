@@ -1,0 +1,17 @@
+The whole MSA from which this is excerpted is at - [http://commonaccord.org/index.php?action=list&file=Doc/doc/master/ commonaccord.org ... doc/master/]
+
+The Personal Data provisions are included as an indication of how sections can be codified.
+
+<binder>
+=[response/01:Agt:Frame]
+=[response/01:Agt:Sec:Conf:MSA]
+=[response/01:Agt:Sec:Conf:Except:Library]
+=[response/01:Agt:Sec:IP:MSA]
+=[response/01:Agt:Sec:PersonalData:MSA]
+=[response/01:Agt:Sec:Misc:Library]
+=[response/01:Agt:Phrase:MSA]
+</binder>
+<field>
+Agt.Secs=<ol><li>{Engage.Sec}</li><li>{Term.Sec}</li><li>{Staff.Sec}</li><li>{Comp.Sec}</li><li>{Conf.Sec}</li><li>{IP.Sec}</li><li>{PersonalData.Sec}</li><li>{TangibleProperty.Sec}</li><li>{Test.Sec}</li><li>{Warrant.Sec}</li><li>{Assure.Sec}</li><li>{Relate.Sec}</li><li>{Comply.Sec}</li><li>{Environ.Sec}</li><li>{Conflict.Sec}</li><li>{Time.Sec}</li><li>{Limit.Sec}</li><li>{Release.Sec}</li><li>{Notice.Sec}</li><li>{Dispute.Sec}</li><li>{Misc.Sec}</li><li>{Def.Sec}</ol>
+</field>
+    

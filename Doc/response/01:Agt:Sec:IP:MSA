@@ -1,0 +1,48 @@
+Model.Root=Requires!: {!Requires}<br>{IP.Sec}
+
+!Requires={Def.Intellectual_Property} {Def.Proprietary_Information} {Def.P1_Information}
+
+IP.Sec=<b>Intellectual Property.</b> <ol><li>{IP.P1.Property.Sec}</li><li>{IP.P2.Property.Sec}</li><li>{IP.3Party.Sec}</li><li>{IP.CodeEscrow.Sec}</li></ol>
+
+IP.P1.Property.Sec=<b>{P1 Property}.</b> <ol><li>{IP.P1.Property.Reserve.Sec}</li><li>{IP.P2.Property.Assign.Sec}</li></ol>
+
+IP.P1.Property.Reserve.Sec=<b>Acknowledgement.</b>&ensp; {P2.Handle} acknowledges that {P1.Handle} claims and reserves all rights and benefits afforded under federal and international intellectual property laws in all {Intellectual Property} and {Proprietary Information} furnished by {P1.Handle} to {P2.Handle} hereunder and that {P2.Handle} is granted only a limited right of use of such {Intellectual Property} and {Proprietary Information} as set forth in {this Agreement}.
+
+IP.P2.Property.Assign.Sec=<b>Assignment and Recordation of {P1 Property}.</b>&ensp; {P2.Handle} agrees that: <ol><li>{IP.P2.Property.Assign.WorkForHire.Cl};</li><li>{IP.P2.Property.Assign.Grant.Cl};</li><li>{IP.P2.Property.Assign.Further.Cl}: and</li><li>{IP.P2.Property.Assign.NotRegister.Cl}.</li></ol>
+
+IP.P2.Property.Assign.WorkForHire.Cl=All copyrightable {Intellectual Property}, which are created by {P2.Handle} pursuant to {this Agreement}, shall be deemed &ldquo;Works Made for Hire&rdquo;, as that phrase is defined in Section 101 of the United States Copyright Act, 17 U.S.C. &sect; 101, and used in 17 U.S.C. &sect; 201, on behalf of {P1.Handle}, and {P1.Handle} shall own all right, title and interest, including the worldwide copyright, in and to such materials
+
+IP.P2.Property.Assign.Grant.Cl={P2.Handle} hereby assigns and agrees to assign to {P1.Handle} all of its respective rights, title, and interest in {P1 Property}, including all {IP Rights}
+
+IP.P2.Property.Assign.Further.Cl={P2.Handle} and {P2.Handle}&rsquo;s successors in interest will, at {P1.Handle}&rsquo;s request and without further consideration, communicate to {P1.Handle} any facts known to them respecting {P1 Property}, and testify in any legal proceedings, make all rightful oaths, sign all lawful papers and other instruments and generally do everything possible for title to the {IP Rights} in the {P1 Property} to be clearly and exclusively held by {P1.Handle}
+
+IP.P2.Property.Assign.NotRegister.Cl={P2.Handle} agrees that it will not apply for any state, federal or other U.S. or foreign jurisdiction&rsquo;s registration of rights in any of the {P1 Property} and that it will not oppose or object in any way to applications for registration of same by {P1.Handle} or others designated by {P1.Handle}
+
+IP.P2.Property.Sec=<b>{P2 Property}.</b>&ensp; The assignment in Section {IP.P1.Property.Assign.Xnum} above does not include {P2 Reserved Intellectual Property} properly listed on {Agt.Attach.IP.P2.ReserveProperty}.&ensp; {P2.Handle} will obtain a {P1.Handle} representative&rsquo;s signature on {Agt.Attach.IP.P2.ReserveProperty} before incorporating any of {P2 Intellectual Property} into the {Services} and/or any deliverables under {this Agreement}.&ensp; {P2.Handle} will own {P2 Reserved Intellectual Property} reflected on a properly executed {Agt.Attach.IP.P2.ReserveProperty}.&ensp; However, {P2.Handle} grants {P1.Handle} a fully-paid, perpetual, irrevocable, world-wide, non-exclusive license to: {IP.P2.License.List}
+
+IP.P2.License.List=<ol><li>{IP.P2.License.Derivative.cl};</li><li>{IP.P2.License.Reproduce.cl}; and</li><li>{IP.P2.License.MUDPDTSub.cl}.</ol>
+
+IP.P2.License.Derivative.cl=prepare derivative works from {P2 Reserved Intellectual Property} (using either {P1.Handle}&rsquo;s own employees or independent contractors)
+
+IP.P2.License.Reproduce.cl=reproduce {P2 Reserved Intellectual Property} and derivative works therefrom
+
+IP.P2.License.MUDPDTSub.cl=make, use, distribute, perform, display and transmit {P2 Reserved Intellectual Property} and derivative works and reproductions thereof, and to sublicense the rights granted to {P1.Handle} in this paragraph
+
+IP.3Party.Sec=<b>{Third Party Intellectual Property}.</b>&ensp; {P2.Handle} shall not, without {P1.Handle}&rsquo;s written authorization, disclose or use in {P2.Handle}&rsquo;s work with {P1.Handle}, any secret or confidential information of others, nor incorporate into the {Services} and/or any deliverables to {P1.Handle} under {this Agreement}: {IP.3Party.BarredIP.List}  {IP.3Party.Cont}
+
+IP.3Party.BarredIP.List=<ol><li>{Third Party Intellectual Property}; or</li><li>any software, applications, or components or other materials, which are functionally dependent upon {P1.Handle}&rsquo;s use of {Third Party Intellectual Property}.</ol> 
+
+IP.3Party.Cont=If {P1.Handle} provides such written authorization, {P2.Handle} shall, in the absence of written agreement to the contrary, provide, at no expense to {P1.Handle}, all licenses to such {Third Party Intellectual Property} and which {P1.Handle} does not already have and which are reasonably necessary for {P1.Handle} to lawfully make all uses of the {Services} and/or any deliverables contemplated in {this Agreement}
+
+IP.CodeEscrow.Sec=<b>Escrow of Code.</b>&ensp; To the extent that any deliverables provided by {P2.Handle} under {this Agreement} include software, upon {P1.Handle}&rsquo;s request, {P2.Handle} agrees to deposit any and all {Software Materials} in escrow: {IP.CodeEscrow.List} {IP.CodeEscrow.Cont}
+
+IP.CodeEscrow.List=<ol><li>with an escrow agent designated by {P1.Handle}; and</li><li>pursuant to a written escrow agreement to be approved by {P1.Handle} in writing.</ol>
+
+IP.CodeEscrow.Cont={IP.CodeEscrow.Expense.Sen}&ensp; {IP.CodeEscrow.Default.Sen}&ensp; {IP.CodeEscrow.License.Sen}
+
+IP.CodeEscrow.Expense.Sen={P1.Handle} agrees to pay any amount necessary to create such escrow account and/or any related deposit fees.
+
+IP.CodeEscrow.Default.Sen=The escrow agreement shall provide, among other things, that in the event {this Agreement} is terminated for insolvency or default as provided in Sections {Time.4.Xnum} or {Time.5.Xnum} below, the escrowed {Software Materials} shall be delivered to {P1.Handle}.
+
+IP.CodeEscrow.License.Sen={P1.Handle} is hereby granted a license to use the {Software Materials}, when delivered to repair, modify, improve upon and use the deliverables under {this Agreement} as contemplated under {this Agreement}, including but not limited to the rights to reproduce, prepare derivative works, distribute, perform, display and transmit.
+    

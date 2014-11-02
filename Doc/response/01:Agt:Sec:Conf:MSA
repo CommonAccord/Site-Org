@@ -1,0 +1,42 @@
+Model.Root={Conf.Sec}
+
+/Conf.Note=Setting this up for Mutual disclosures.  
+
+/Conf.Note=Reconstituting it as a one-way:
+
+RP={P2.Handle}
+
+RP Personnel={P2 Personnel}
+
+/Conf.Note=eliminated use of "RP's Personnel" as redundant/confused
+
+RP Representatives={P2 Representatives}
+
+Conf.Sec=<b>Confidentiality.</b><ol><li>{Conf.Def.Sec}</li><li>{Conf.Engage.Sec}</li><li>{Conf.WarnPersonnel.Sec}</li><li>{Conf.Injunct.Sec}</li><li>{Conf.Endure.Sec}</li><li>{Conf.Return.Sec}</li><li>{Conf.Except.Sec}</li><li>{Conf.OneWay.Sec}</li><li>{Conf.Publicity.Sec}</li><li>{Conf.Monitor.Sec}</li></ol>
+
+Conf.Def.Sec=<b>Proprietary Information.</b>&ensp; {RP} and all {RP Personnel} shall maintain in confidence and safeguard all {Proprietary Information}.
+
+Conf.Engage.Sec=<b>Confidentiality Engagement.</b>&ensp; {RP} recognizes and acknowledges the confidential and proprietary nature of any {Proprietary Information} and acknowledges the irreparable harm that could result to {DP} if it is disclosed to a third party or used for unauthorized purposes without {DP}&rsquo;s prior written consent.&ensp; Therefore, {RP} agrees, except as required by law: <ol><li>{Conf.Engage.Protect.cl};</li><li>{Conf.Engage.Use.cl}; and</li><li>{Conf.Engage.Care.cl}.</li></ol>
+
+Conf.Note=Inconsistent use of "{DP}&rsquo;s {Proprietary Information}" as opposed to "{Proprietary Information}".  Likely not a big deal, but not good either.
+
+Conf.Engage.Protect.cl=to protect the confidentiality of {DP}&rsquo;s {Proprietary Information} (including any notes, summaries, reports, analyses or other material derived by {RP} or {RP Personnel} in whole or in part from the {Proprietary Information} in whatever form maintained (collectively, &ldquo;{Notes}&rdquo;))
+
+Conf.Engage.Use.cl=to use the {Proprietary Information} and/or {Notes} only for the purposes of conducting business with {DP} in a manner contemplated by {this Agreement}
+
+Conf.Engage.Care.cl=to use the same degree of care as with its own confidential information, which shall be at least a reasonable standard of care, to prevent disclosure of the {Proprietary Information} and/or {Notes}, except to {RP Personnel} to the extent necessary to permit them to perform the {Services} as set forth in {this Agreement}
+
+Conf.WarnPersonnel.Sec=<b>Advise Personnel.</b>&ensp;{RP} further agrees that prior to disclosing any {Proprietary Information} to {RP Personnel} as set forth above, {RP} will: <ol><li>advise such {RP Personnel} of the confidential and proprietary nature of the {Proprietary Information} and {Notes}; and</li><li>require them to sign the {Secrecy and Inventions Agreement} attached hereto as {Agt.Attach.NDA}.</li></ol>
+
+Conf.Injunct.Sec=<b>Assume Responsibility for Personnel.</b>&ensp;{RP} agrees to be responsible for any breach of {this Agreement} by it or {RP Personnel}.&ensp; {RP} acknowledges that money damages would not be a sufficient remedy for any breach of this Section.&ensp; Accordingly, in the event of any such breach, in addition to any other remedies at law or in equity that {DP} may have, it shall be entitled to equitable relief, including injunctive relief or specific performance or both.
+
+Conf.Endure.Sec=<b>Duration of Confidentiality Engagement.</b>&ensp;Obligations in this Section shall, with respect to each disclosure of {Proprietary Information} hereunder, continue for {Conf.Engage.Duration}.&ensp; Nothing herein is intended to limit or abridge the protection of trade secrets under applicable trade secrets law, and trade secrets shall be maintained as such until they fall into the public domain.
+
+Conf.Return.Sec=<b>Return of Information.</b>&ensp; Upon completion or termination of {this Agreement} or upon request of {DP}, {RP} shall promptly: <ol><li>return all {Proprietary Information} disclosed to it; and</li><li>destroy (with such destruction certified in writing by {RP}) all {Notes}, without retaining any copy thereof.</li></ol> No such termination of the Agreement or return or destruction of the {Proprietary Information} and/or {Notes} will affect the confidentiality obligations of {RP} or {RP Personnel} all of which will continue in effect as provided in {this Agreement}.
+
+Conf.OneWay.Sec=<b>{RP} Information.</b>&ensp; Knowledge or information of any kind disclosed to {DP} shall be deemed to have been disclosed without financial or other obligation on the part of {DP} to hold the same in confidence, and {DP} shall have full right to use and disclose such information without any compensation beyond that specifically provided by {this Agreement}.
+
+Conf.Publicity.Sec=<b>Publicity.</b>&ensp; In addition to the other confidentiality obligations under {this Agreement}, {RP} shall not make any announcement, take or release any photographs (except for its internal operation purposes for performing the {Services}) or release any information concerning {this Agreement} or any part thereof or with respect to its business relationship with {DP} to any member of the public or press, any business entity or official body except as required by applicable law, rule, injunction or administrative order, unless prior written consent is obtained from {DP}.&ensp; If {RP} determines it is obligated by law or a governmental authority to make any such announcement or release, {RP} shall promptly notify {DP} and cooperate with {DP} to ensure that suitable confidentiality obligations are afforded such information.
+
+Conf.Monitor.Sec=<b>System Monitoring.</b>&ensp; {RP} agrees that the {DP} may, at any time, without further consent, access and monitor any usage by {RP} or {RP Personnel} of any {DP} information, systems and resources, including without limitation: computers, computer software, electronic mail, online services, voicemail, facsimile machines, telephones and photocopiers.
+    
