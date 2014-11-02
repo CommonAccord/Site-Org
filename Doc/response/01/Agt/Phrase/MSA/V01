@@ -1,3 +1,6 @@
+[[01/Agt/Phrase/]]
+
+<field>
 Affiliate={m-}Affiliate{-m}
 
 Affiliates={m-}Affiliates{-m}
@@ -117,3 +120,5 @@ this Agreement={m-}this Agreement{-m}
 m-=<font color='{mcolor}'>
 -m=</font>
 mcolor=brown
+
+</field>
