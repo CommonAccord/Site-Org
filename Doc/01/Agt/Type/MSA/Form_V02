@@ -4,4 +4,36 @@ P1.Handle={m-}Acme{-m}
 P1.=[core/id/acme_incorporated]
 P2.=[core/id/quake_incorporated]  
 =[core/form/agt/master/config/Finance_Type1]
-    
+
+
+Agt.Attach=<hr>{Agt.Attach.Personnel}<hr><hr>{Agt.Attach.NDA}<hr><hr>{Agt.Attach.Guidelines}<hr><hr>{Agt.Attach.PersonalDataConsent}<hr><hr>{Agt.Attach.Travel}<hr><hr>{Agt.Attach.IP.Reserved}
+
+Agt.Attach.Personnel.Xref={m-}Schedule A{-m}
+Agt.Attach.NDA.Xref={m-}Schedule B{-m}
+Agt.Attach.Guidelines.Xref={m-}Schedule C{-m}
+Agt.Attach.PersonalDataConsent.Xref={m-}Schedule D{-m}
+Agt.Attach.Travel.Xref={m-}Schedule E{-m}
+Agt.Attach.IP.Reserved.Xref={m-}Schedule F{-m}
+
+
+Agt.Attach.Personnel=<center>{Agt.Attach.Personnel.Xref}<br>{Agt.Attach.Personnel.Title}</center><hr>{Agt.Attach.Personnel.DocBody}        
+Agt.Attach.NDA=<center>{Agt.Attach.NDA.Xref}<br>{Agt.Attach.NDA.Title}</center><hr>{Agt.Attach.NDA.DocBody}
+Agt.Attach.Guidelines=<center>{Agt.Attach.Guidelines.Xref}<br>{Agt.Attach.Guidelines.Title}</center><hr>{Agt.Attach.Guidelines.DocBody}
+Agt.Attach.PersonalDataConsent=<center>{Agt.Attach.PersonalDataConsent.Xref}<br>{Agt.Attach.PersonalDataConsent.Title}</center><hr>{Agt.Attach.PersonalDataConsent.DocBody}
+Agt.Attach.Travel=<center>{Agt.Attach.Travel.Xref}<br>{Agt.Attach.Travel.Title}</center><hr>{Agt.Attach.Travel.DocBody}
+Agt.Attach.IP.Reserved=<center>{Agt.Attach.IP.Reserved.Xref}<br>{Agt.Attach.IP.Reserved.Title}</center><hr>{Agt.Attach.IP.Reserved.DocBody}
+
+
+Agt.Attach.Personnel.Title={m-}Schedule of Fees for {P2.Handle}'s Personnel{-m}
+
+Agt.Attach.NDA.Title={m-}Secrecy and Inventions Agreement{-m}
+
+Agt.Attach.Guidelines.Title={m-}Guidelines for Workers Assigned to "Security Sensitive" Positions{-m}
+
+Agt.Attach.PersonalDataConsent.Title={m-}Example Personal Data Notice and Consent Form{-m}
+
+Agt.Attach.Travel.Title={m-}{P1.Handle} Travel and Living Policies{-m}
+
+Agt.Attach.IP.Reserved.Title={m-}{P2.Handle}'s Reserved Intellectual Property{-m}
+
+          
