@@ -1,9 +1,18 @@
 [[01/Agt/Phrase/]]
 
 <field>
+
 Affiliate={m-}Affiliate{-m}
 
 Affiliates={m-}Affiliates{-m}
+
+Agreement={m-}Agreement{-m}
+
+This Agreement={m-}This Agreement{-m}
+
+this Agreement={m-}this Agreement{-m}
+
+Base Prime Rate={m-}Base Prime Rate{-m}
 
 capacity.and={m-}right, power, authority{q} and capacity{-m}
 
@@ -14,6 +23,10 @@ Change Order={m-}Change Order{-m}
 Company Employment Data Protection Standards={m-}Company Employment Data Protection Standards{-m}
 
 CWD={m-}Contingent Workers Database{-m}
+
+Daily Discount Rate={m-}Daily Discount Rate{-m}
+
+Daily Base Discount Rate={m-}Daily Base Discount Rate{-m}
 
 Data Subject={m-}Data Subject{-m}
 
@@ -27,6 +40,8 @@ Employment Data={m-}Employment Data{-m}
 
 Expiration Date={m-}Expiration Date{-m}
 
+Fee Schedule={m-}Fee Schedule{-m}
+
 Intellectual Property={m-}Intellectual Property{-m}
 
 IP Rights={m-}IP Rights{-m}
@@ -35,9 +50,13 @@ MSA={m-}MSA{-m}
 
 Notes={m-}Notes{-m}
 
-Other Company Databases={m-}Other Company Databases}{-m}
+Other P1 Databases={m-}Other Company Databases}{-m}
+
+Payment Start Date={m-}Payment Start Date{-m}
 
 P1 Affiliate={m-}Company Affiliate{-m}
+
+P1 Affiliates={m-}Company Affiliates{-m}
 
 P1 and its Affiliates={m-}Company and its Affiliates{-m}
 
@@ -45,11 +64,22 @@ P1 or Affiliates={m-}Company or its Affiliates{-m}
 
 P1 or one of its Affiliates={m-}Company or one of its Affiliates{-m}
 
+P1 Guidelines={m-}Company Guidelines{-m}
+
 P1 PersonalData={m-}Company Personal Data{-m}
 
 P1 Property={m-}Company Property{-m}
 
 P1.Handle={m-}Company{-m}
+
+P1 Energy Sourcing Finance Manager={m-}{-m}
+
+P1 Travel Policy={m-}Company Travel Policy{-m}
+
+P1 3Party Guide={m-}Company 3Party Guide{-m}
+
+P1 Energy Guide={m-}Company Energy Guide{-m}
+
 
 P2 Affiliate={m-}Supplier Affiliate{-m}
 
@@ -78,6 +108,8 @@ PO={m-}PO{-m}
 power.and={m-}right, power{q} and privilege{-m}
 
 power.or={m-}right, power{q} or privilege{-m}
+
+Prime Rate={m-}Prime Rate{-m}
 
 Process={m-}Process{-m}
 
@@ -112,10 +144,6 @@ SOW={m-}SOW{-m}
 Term={m-}Term{-m}
 
 Third Party Intellectual Property={m-}Third Party Intellectual Property{-m}
-
-This Agreement={m-}This Agreement{-m}
-
-this Agreement={m-}this Agreement{-m}
 
 m-=<font color='{mcolor}'>
 -m=</font>
