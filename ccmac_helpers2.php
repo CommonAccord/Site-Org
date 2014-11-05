@@ -8,6 +8,7 @@ if(!isset($_REQUEST['action'])) {
 
 if(isset($_REQUEST['file'])) {
 	$dir = $_REQUEST['file'];
+	$dir = str_replace('..', '', $dir);
 } else {
 	$dir = 'Doc/'; 
 }
