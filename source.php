@@ -33,7 +33,7 @@ foreach($contents as $n) {
         }
 
         else if(preg_match('/\[(.+?)\]/', $v, $matches)) {
-                $v = "<a href=$_SERVER[PHP_SELF]?action=source&file=Doc/$matches[1]>$v</a>";
+                $v = "<a href=$_SERVER[PHP_SELF]?action=source&file=$matches[1]>$v</a>";
         }
 
         echo "<tr>";
