@@ -1,6 +1,6 @@
 <?php
 error_reporting(E_ALL);
-$path = './';
+$path = './Doc';
 
 if(!isset($_REQUEST['action'])) { 
 	$_REQUEST['action'] = "landing"; 
@@ -17,8 +17,10 @@ if(isset($_REQUEST['file'])) {
 	fwrite($fff, "$dir\n\n");
 	fclose($fff);
 } else {
-	$dir = 'Doc/'; 
+	$dir = ''; 
 }
+$dir = $path.$dir;
+
 
 if($_REQUEST['action'] == 'list') {
 
