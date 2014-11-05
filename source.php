@@ -49,6 +49,7 @@ foreach($contents as $n) {
 
 <div id="tabs-2">
 <? 
+	echo "playing with $dir<br>";
 
 	echo `perl parser2.pl $path/$dir`;
 	#system("perl parser2.pl $path/$dir  > $path/Output999.html");
@@ -65,7 +66,7 @@ foreach($contents as $n) {
 echo "
 <form action=$_SERVER[PHP_SELF] method='post'>
         <textarea id='textedit' cols=125 rows=30 name='newcontent' style='padding:20px;'>";
-echo file_get_contents($dir, FILE_USE_INCLUDE_PATH);
+echo file_get_contents($path.$dir, FILE_USE_INCLUDE_PATH);
 
 echo '  </textarea><br>
         <input class="btn btn-info" type="submit" name="submit" value="Save">

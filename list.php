@@ -8,7 +8,7 @@
 
 
 <?
-if(! ($dir == 'Doc/')) {
+if(! ($dir == './')) {
         $rootdir = pathinfo($dir);
         //doc_list.php cotntains layout
         //      include("doc_list.php");
@@ -19,10 +19,10 @@ if(! ($dir == 'Doc/')) {
  echo "<hr><div id='updir'><img src='assets/arrowup.png' height=25><h3 class='sc subtitle'><a href=$_SERVER[PHP_SELF]?action=list&file=".$rootdir['dirname']."/>".$rootdir['dirname']."</a><h3></div>";
 
    echo "<h2 class='sc subtitle2'> $dir</h3>";
-}
+} 
 
 
-$files = scandir($dir);
+$files = scandir($path.$dir);
 
 if(file_exists($dir . 'include.php'))
     include $dir . 'include.php';
