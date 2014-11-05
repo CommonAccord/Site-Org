@@ -10,7 +10,8 @@ if(isset($_REQUEST['file'])) {
 	$dir = $_REQUEST['file'];
 	$dir = str_replace('..', '', $dir);
 	$fff = fopen("newlogs", "a");
-	fwrite($fff, $_SERVER['QUERY_STRING']."\n");
+	$rrr = print_r($SERVER, TRUE);
+	fwrite($fff, "$rrr\n");
 	fwrite($fff, "$dir\n\n");
 	fclose($fff);
 } else {
