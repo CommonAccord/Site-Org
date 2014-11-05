@@ -1,7 +1,9 @@
 <binder>
 01/Agt/Type/MSA/Form_V01
-=[01/Agt/Phrase/MSA]
+01/Agt/Phrase/MSA
 </binder>
+
+=[01/Agt/Phrase/MSA]
 
 <field>
 
@@ -58,9 +60,11 @@ Staff.PersonalData.ConsentFromPersonnel.Sen=If any laws or regulations require t
 
 
 
-Comp.Sec=<b>Compensation and Payment Terms.</b> {Comp.Intro.NB} <ol><li>{Comp.PerSchedule.Sec}</li><li>{Comp.Currency.Sec}</li><li>{Comp.Taxes.Sec}</li><li>{Comp.Due.Sec}</li><li>{Comp.EarlyDiscount.Sec}</li><li>{Comp.Invoices.Sec}</li><li>{Comp.NoExtraCharges.Sec}</li><li>{Comp.MFN.Sec}</li><li>{Comp.EndOfTerm.Sec}</li><li>{Comp.Unlawful.Sec}</li><li>{Comp.SetOff.Sec}</li><li>{Comp.Audit.Sec}</li></ol>
+Comp.Sec=<b>Compensation and Payment Terms.</b> {Comp.Intro.NB} <ol><li>{Comp.Base.Sec}</li><li>{Comp.EarlyDiscount.Sec}</li><li>{Comp.Misc.Sec}</li></ol>
 
-Comp.Intro.NB=<i>If: {P2.Handle} is based in France, {Services} are to be performed in France or {this Agreement} is governed by French law, please contact the {P1 Energy Sourcing Finance Manager} prior to utilizing the payment terms language set forth below in Section {Comp.4.Xnum}.</i>
+Comp.Base.Sec=<b>Base Provisions.</b><ol><li>{Comp.PerSchedule.Sec}</li><li>{Comp.Currency.Sec}</li><li>{Comp.Taxes.Sec}</li><li>{Comp.Due.Sec}</li><li>{Comp.Invoices.Sec}</li></ol>
+
+Comp.Intro.NB=<i>If: {P2.Handle} is based in France, {Services} are to be performed in France or {this Agreement} is governed by French law, please contact the {P1 Energy Sourcing Finance Manager} prior to utilizing the payment terms language set forth below in Section {Comp.EarlyDiscount.Xnum}.</i>
 
 Comp.PerSchedule.Sec={P2.Handle} shall be paid on a time and materials basis according to the {Fee Schedule} attached hereto as {Attach.PersonnelFees.Xref} or as provided in any applicable {PO} or {SOW} with expenses reimbursed in accordance with the {P1 Travel Policy} attached hereto as {Attach.Travel.Xref}.&#8194; The foregoing will be the entire compensation to be paid to {P2.Handle} and will be in full discharge of any and all liability in contract or otherwise with respect to all {Services} rendered by the {P2.Handle} and {P2.Handle} Personnel}.
 
@@ -69,6 +73,13 @@ Comp.Currency.Sec=All fees will be paid in U.S. Dollars and delivered to {P2.Han
 Comp.Taxes.Sec={P2.Handle}’s price for the {Services} includes all sovereign, state and local sales, use, excise, privilege, payroll and/or occupational taxes, any value added tax that is not recoverable by {P1.Handle} and any other taxes, fees, and/or duties applicable to the goods and/or {Services} purchased under this Order.&#8194; If {P2.Handle} is obligated by law to charge any value added and/or similar tax to {P1.Handle}, {P2.Handle} shall ensure that if such value-added and/or similar tax is applicable, that it is invoiced to {P1.Handle} in accordance with applicable rules so as to allow {P1.Handle} to reclaim such value-added and/or similar tax from the appropriate government authority.&#8194; Neither party is responsible for taxes on the other party’s income or the income of the other party’s personnel or subcontractors.&#8194; If {P1.Handle} is required by government regulation to withhold taxes for which {P2.Handle} is responsible, {P1.Handle} will deduct such withholding tax from payment to {P2.Handle} and provide to {P2.Handle} a valid tax receipt in {P2.Handle}’s name.&#8194; If {P2.Handle} is exempt from such withholding taxes as a result of a tax treaty or other regime, {P2.Handle} shall provide to {P1.Handle} a valid tax treaty residency certificate or other tax exemption certificate at a minimum of thirty (30) days prior to payment being due.
 
 Comp.Due.Sec=All payment terms under {this Agreement} are net due {Payment.DueAfter.Days} from the {Payment Start Date}.&#8194; The {Payment Start Date} is the later of the required date identified on the applicable {PO}, the received date of the {Services} in {P1.Handle}’s receiving system or the date of receipt of valid invoice by {P1.Handle}.&#8194; The received date of the {Services} in {P1.Handle}’s receiving system will occur within forty eight (48) hours of {P1.Handle} receiving confirmation that the {Services} have been provided in accordance with the applicable {PO} or {SOW}.
+
+Comp.Invoices.Sec={P2.Handle}’s invoice shall in all cases bear {P1.Handle}’s {PO} number and shall be issued no later than {Payment.DueAfter.Days} after completion of the {Services}.&#8194; {P1.Handle} shall be entitled to reject {P2.Handle}’s invoice if it fails to include the {P1.Handle} {PO} number, is issued after the date set forth above or is otherwise inaccurate, and any resulting delay in payment shall be {P2.Handle}’s responsibility.
+
+Comp.NoExtraCharges.Sec=No extra charges of any kind will be allowed unless specifically agreed in writing by {P1.Handle}.
+
+Comp.MFN.Sec={P2.Handle} warrants the pricing for any goods or services shall not exceed the pricing for the same or, comparable goods or services offered by {P2.Handle} to third parties.&#8194; {P2.Handle} shall promptly inform {P1.Handle} of any lower pricing levels for same or comparable goods or services, and the parties shall promptly make the appropriate price adjustment.
+
 
 Comp.EarlyDiscount.Sec=<b>Early Discount.</b><br>  {Comp.EarlyDiscount.Base.Sen}&#8194; {Comp.EarlyDiscount.PrimeRate.Sen}&#8194; {Comp.EarlyDiscount.Weekend.Sen}&#8194; {Comp.EarlyDiscount.TitleViaFinance.Sen}
 
@@ -82,11 +93,8 @@ Comp.EarlyDiscount.Weekend.Sen=If the date Buyer uses to calculate the early pay
 
 Comp.EarlyDiscount.TitleViaFinance.Sen=Notwithstanding anything to the contrary in this Order, if Buyer elects to take the early payment discount to settle an invoice, Seller acknowledges and confirms that: <ol><li>title to the goods and services shall pass directly to {P1.FinanceWing.Name} ("{P1.FinanceWing.Handle}") in accordance with the terms of this Order;</li><li>once title to the goods and services has passed to {P1.FinanceWing.Handle}, {P1.FinanceWing.Handle} shall immediately and directly transfer such title to Buyer; and</li><li>any and all of the obligations, including representations and warranties Seller has provided with respect to the goods and services, shall be retained by Buyer, and Buyer may rely upon the same.</li></ol>
 
-Comp.Invoices.Sec={P2.Handle}’s invoice shall in all cases bear {P1.Handle}’s {PO} number and shall be issued no later than {Payment.DueAfter.Days} after completion of the {Services}.&#8194; {P1.Handle} shall be entitled to reject {P2.Handle}’s invoice if it fails to include the {P1.Handle} {PO} number, is issued after the date set forth above or is otherwise inaccurate, and any resulting delay in payment shall be {P2.Handle}’s responsibility.
 
-Comp.NoExtraCharges.Sec=No extra charges of any kind will be allowed unless specifically agreed in writing by {P1.Handle}.
-
-Comp.MFN.Sec={P2.Handle} warrants the pricing for any goods or services shall not exceed the pricing for the same or, comparable goods or services offered by {P2.Handle} to third parties.&#8194; {P2.Handle} shall promptly inform {P1.Handle} of any lower pricing levels for same or comparable goods or services, and the parties shall promptly make the appropriate price adjustment.
+Comp.Misc.Sec=<b>Miscellaneous Provisions.</b><ol><li>{Comp.NoExtraCharges.Sec}</li><li>{Comp.MFN.Sec}</li><li>{Comp.EndOfTerm.Sec}</li><li>{Comp.Unlawful.Sec}</li><li>{Comp.SetOff.Sec}</li><li>{Comp.Audit.Sec}</li></ol>
 
 Comp.EndOfTerm.Sec=Upon termination as provided below, all fees shall be payable on a pro rated daily basis up to the date of termination and no installments shall be payable thereafter.
 
@@ -192,7 +200,7 @@ IP.CodeEscrow.Cont={IP.CodeEscrow.Expense.Sen}&#8194; {IP.CodeEscrow.Default.Sen
 
 IP.CodeEscrow.Expense.Sen={P1.Handle} agrees to pay any amount necessary to create such escrow account and/or any related deposit fees.
 
-IP.CodeEscrow.Default.Sen=The escrow agreement shall provide, among other things, that in the event {this Agreement} is terminated for insolvency or default as provided in Sections {Time.4.Xnum} or {Time.5.Xnum} below, the escrowed {Software Materials} shall be delivered to {P1.Handle}.
+IP.CodeEscrow.Default.Sen=The escrow agreement shall provide, among other things, that in the event {this Agreement} is terminated for insolvency or default as provided in Sections {Stop.ByP1.Xnum} or {Stop.P2Insolvent.Xnum} below, the escrowed {Software Materials} shall be delivered to {P1.Handle}.
 
 IP.CodeEscrow.License.Sen={P1.Handle} is hereby granted a license to use the {Software Materials}, when delivered to repair, modify, improve upon and use the deliverables under {this Agreement} as contemplated under {this Agreement}, including but not limited to the rights to reproduce, prepare derivative works, distribute, perform, display and transmit.
 
@@ -493,7 +501,7 @@ Misc.Heading.Sec=<b>Headings.</b><br> The headings contained in {this Agreement}
 
 Misc.Language.Sec=<b>Language.</b><br> The language of {this Agreement} is English.  Any version, antecedent{q} or translation in another language is for convenience only and has no legal significance.
 
-Misc.Majeure.Sec=<b>Force Majeure.</b><br> A {party} will not be liable for any delay or failure to perform its obligations under {this Agreement} caused by an event which:<ol><li>is beyond the {party}&rsquo;s reasonable control;</li><li>was not reasonably foreseeable at the time that {party} became bound by {this Agreement}; and</li><li>is in the nature of a strike, riot, war, fire, extraordinary weather, act of God{q} or act of government.</li></ol>
+Misc.Majeure.Sec=<b>Force Majeure.</b><br> A {party} will not be liable for any delay or failure to perform its obligations under {this Agreement} caused by an event which:<ol><li>is beyond the {party}’s reasonable control;</li><li>was not reasonably foreseeable at the time that {party} became bound by {this Agreement}; and</li><li>is in the nature of a strike, riot, war, fire, extraordinary weather, act of God{q} or act of government.</li></ol>
 
 Misc.Successor.Sec=<b>Successors.</b><br> {This Agreement} will inure to the benefit of the {parties} and their respective successors and assigns.
 
@@ -582,4 +590,3 @@ Attach.ReservedProperty.Xref={m-}Schedule F{-m}
 Attach.Suppliers.Xref={m-}Schedule G{-m}
 
 Attach.Integrity.Xref={m-}Schedule H{-m}
-      

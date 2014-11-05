@@ -1,0 +1,7 @@
+=[01/Agt/Type/MSA/Form_V01]
+
+P1.Handle={m-}Acme{-m}
+P1.=[core/id/acme_incorporated]
+P2.=[core/id/quake_incorporated]  
+=[core/form/agt/master/config/Finance_Type1]
+

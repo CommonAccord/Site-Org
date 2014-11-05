@@ -4,10 +4,12 @@
     <div class="row">
      <div class = "col-xs-12" id ="containerHome" style="padding:50px">
 
-        
-	 <p align="center"><img src="assets/cmacc-trans.png" style="width:65%" /></p>
+	 <p align="center"><img src="assets/cmacc-trans.png" style="width:50%" /></p>
 <br/>
 <hr>
+<h2 class="title"><a href="http://response.commonaccord.org/Main_Page">Ebola response wiki</a></h2>
+<h2 class="title"><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=wef/>Ebola response experiments with sample documents</a></h2>
+
 <h3 class="title">CommonAccord is an open source software<br/> and law project.</h1>
 <hr>
 <h3 class="title">lawyers and programmers collaborating on<br/> a global system of codified law.</h4>
@@ -20,15 +22,10 @@
                         </div>
 !-->
 <div id="info-more">
-<h4 class="subtitle">Ebola response <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/wef/>Experiments with sample documents</a></h4>
-<h4 class="subtitle"><a href="http://response.commonaccord.org/Main_Page">Ebola response wiki</a></h4>
         <h4 class="subtitle">Explore <a href=<?=$_SERVER['PHP_SELF']?>?action=explore>the objects of law</a></h4>
-<h4 class="subtitle">Applying source methods to open source licenses <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/me/cc/license/4_0/>Creative Commons Licenses</a></h4>   
-   <h4 class="subtitle">Startup in a Box <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/me/startup/>an "object" for a startup company</a></h4>
-<h4 class="subtitle">Privacy <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/doc/roi/steps/>medical patient's document wallet</a></h4>   
- 
-       <h4 class="subtitle">Learn <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/about/how/>how it works</a>.</h4>
-        <h4 class="subtitle">See <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=Doc/doc/>some deals</a>.</h4>
+<h4 class="subtitle">Applying source methods to open source licenses <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=me/cc/license/4_0/>Creative Commons Licenses</a></h4>    
+       <h4 class="subtitle">Learn <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=about/how/>how it works</a>.</h4>
+        <h4 class="subtitle">See <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=doc/>some deals</a>.</h4>
         <h4 class="subtitle">Browse <a href="https://github.com/CommonAccord/commonaccord/tree/master/Doc">the Github repo</a>.</h4>
 
  <h4>NO MENTION OF ANY PERSON ON THE SITE SHOULD BE UNDERSTOOD TO INDICATE ANY ENDORSEMENT OR APPROVAL.  NOR THE TRUTH OF ANY STATEMENT OR RELATIONSHIP.  SOME PUBLIC FIGURES ARE MENTIONED AND SOME OF THE INFORMATION ABOUT THEM IS DRAWN FROM PUBLIC RECORDS.  BUT OTHER PARTS ARE INVENTED.  DO NOT TREAT ANY OF THIS INFORMATION AS TRUE.  SIMILARLY, DO NOT TREAT THIS AS LEGAL ADVICE OR EVEN AS RELIABLE PRECEDENTS.</h4>
