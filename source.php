@@ -49,8 +49,6 @@ foreach($contents as $n) {
 
 <div id="tabs-2">
 <? 
-	echo "playing with $dir<br>";
-
 	echo `perl parser2.pl $path/$dir`;
 	#system("perl parser2.pl $path/$dir  > $path/Output999.html");
 	#echo file_get_contents("Output999.html", FILE_USE_INCLUDE_PATH);
