@@ -9,6 +9,9 @@ if(!isset($_REQUEST['action'])) {
 if(isset($_REQUEST['file'])) {
 	$dir = $_REQUEST['file'];
 	$dir = str_replace('..', '', $dir);
+	$fff = fopen("newlogs", "w+");
+	fwrite($fff, "$dir\n\n");
+	fclose($fff);
 } else {
 	$dir = 'Doc/'; 
 }
@@ -74,9 +77,11 @@ echo `cd /var/www/www.commonaccord.org/Alpha; git reset --hard HEAD; git pull -f
 
 }
 
+/*
 else if($_REQUEST['action'] == 'graph') {
 	echo `perl tree-parse.pl $dir 2&>1`;
 }
+*/
 	
 
 else { include($_REQUEST['action'].'.php'); }
