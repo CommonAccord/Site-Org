@@ -42,7 +42,7 @@ Expiration Date={m-}Expiration Date{-m}
 
 Fee Schedule={m-}Fee Schedule{-m}
 
-Integrity  Guide={m-}{P1.Handle} Integrity Guide{-m}
+Integrity Guide={m-}{P1.Handle} Integrity Guide{-m}
 
 Intellectual Property={m-}Intellectual Property{-m}
 
@@ -130,6 +130,8 @@ representatives.or={m-}representatives or agents{-m}
 
 RP={m-}Receiving Party{-m}
 
+Security Guide={m-}Security Guide{-m}
+
 Secrecy and Inventions Agreement={m-}Secrecy and Inventions Agreement{-m}
 
 Services={m-}Services{-m}
@@ -152,4 +154,4 @@ m-=<font color='{mcolor}'>
 mcolor=brown
 
 </field>
-  
+      

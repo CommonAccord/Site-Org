@@ -46,7 +46,7 @@ Staff.Sensitive.Sec=<b>Security Sensitive Work.</b><br>If the scope of the {Serv
 
 Staff.Web.Sec=<b>Contingent Workers.</b> <ol><li>{Staff.Web.Register.Sec}</li><li>{Staff.PersonalData.Sec}</li></ol>
 
-Staff.Web.Register.Sec=<b>Web Registration.</b><br> The {CWD.Full} (the “{CWD}”) is a global, web-based application that houses basic information on all contingent workers providing services to {P1.Handle}.&#8194; Immediately upon receipt of a {PO} or {SOW} for {Services} under {this Agreement} and prior to the commencement of work for {P1.Handle}, {P2.Handle} shall initiate the registration process for the {CWD} by sending an email to {email.CWD.com} with “New {P2.Handle} MSA” in the subject line.&#8194; Thereafter, {P2.Handle} will receive instructions on registering to use and populating the {CWD}.&#8194; {P2.Handle} shall populate the {CWD} with the required information for all of {P2 Personnel} that are providing {Services} under {this Agreement} for more than ten (10) consecutive business days.&#8194; {P2.Handle} shall enter the required information for the applicable {P2 Personnel} prior to the start of each {P2 Personnel}’s assignment with the {P1.Handle}, and {P2.Handle} shall update the {CWD} to reflect the end of each {P2 Personnel}’s assignment as soon as such assignment ends.&#8194; {P1.Handle} may audit {P2.Handle}’s compliance with its obligations regarding the population and maintenance of accurate data in the {CWD} at any time.
+Staff.Web.Register.Sec=<b>Web Registration.</b><br> The {P1.CWD.Full} (the “{CWD}”) is a global, web-based application that houses basic information on all contingent workers providing services to {P1.Handle}.&#8194; Immediately upon receipt of a {PO} or {SOW} for {Services} under {this Agreement} and prior to the commencement of work for {P1.Handle}, {P2.Handle} shall initiate the registration process for the {CWD} by sending an email to {P1.email.CWD.com} with “New {P2.Handle} MSA” in the subject line.&#8194; Thereafter, {P2.Handle} will receive instructions on registering to use and populating the {CWD}.&#8194; {P2.Handle} shall populate the {CWD} with the required information for all of {P2 Personnel} that are providing {Services} under {this Agreement} for more than ten (10) consecutive business days.&#8194; {P2.Handle} shall enter the required information for the applicable {P2 Personnel} prior to the start of each {P2 Personnel}’s assignment with the {P1.Handle}, and {P2.Handle} shall update the {CWD} to reflect the end of each {P2 Personnel}’s assignment as soon as such assignment ends.&#8194; {P1.Handle} may audit {P2.Handle}’s compliance with its obligations regarding the population and maintenance of accurate data in the {CWD} at any time.
 
 Staff.PersonalData.Sec=<b>{Personal Data} received from {P2.Handle}.</b><br>  {Staff.PersonalData.SupplierComply.Sen}&#8194; {Staff.PersonalData.P1Use.Sen}&#8194; {Staff.PersonalData.P1Care.Sen}&#8194; {Staff.PersonalData.ConsentFromPersonnel.Sen}
 
@@ -56,7 +56,7 @@ Staff.PersonalData.P1Use.Sen={P2.Handle} understands and agrees that {P1.Handle}
 
 Staff.PersonalData.P1Care.Sen={Personal Data} relating to {P2 Personnel} will not be shared beyond {P1.Handle}, its {Affiliates} and their contractors, who will be contractually bound to use the information only as reasonably necessary for the purposes of performing under their contractual obligations with {P1 and its Affiliates}.&#8194; {P1.Handle} will take appropriate measures to ensure that {Personal Data} relating to {P2 Personnel} is stored securely and in conformity with applicable data protection laws.
 
-Staff.PersonalData.ConsentFromPersonnel.Sen=If any laws or regulations require that any of {P2 Personnel} whose {Personal Data} is entered into the {CWD} or other {P1.Handle} databases receive notice of or consent to such processing of his/her {Personal Data}, then {P2.Handle}: <ol><li>shall provide notice to and obtain consent from such {P2 Personnel};</li><li>upon {P1.Handle}’s request, shall provide {P1.Handle} with a copy of such notice and consent to Contingent Worker Database Administrator; {CWD.Addr.1,2}.</li></ol> By way of example only, an Example Personal Data Notice and Consent Form is attached hereto as {Attach.PersonalDataConsent.Xref}.
+Staff.PersonalData.ConsentFromPersonnel.Sen=If any laws or regulations require that any of {P2 Personnel} whose {Personal Data} is entered into the {CWD} or other {P1.Handle} databases receive notice of or consent to such processing of his/her {Personal Data}, then {P2.Handle}: <ol><li>shall provide notice to and obtain consent from such {P2 Personnel};</li><li>upon {P1.Handle}’s request, shall provide {P1.Handle} with a copy of such notice and consent to Contingent Worker Database Administrator; {P1.CWD.Addr.1,2}.</li></ol> By way of example only, a {Attach.PersonalDataConsent.Title} is attached hereto as {Attach.PersonalDataConsent.Xref}.
 
 
 
@@ -241,7 +241,7 @@ PersonalData.Engage.Comply.Sec=<b>Compliance.</b><br> {PersonalData.Engage.Compl
 
 PersonalData.Engage.Comply.Law.Sen={P2.Handle} shall comply with all applicable laws and regulations on personal data protection.
 
-PersonalData.Engage.Comply.EmploymentDataPolicy.Sen={P2.Handle} will process “{Employment Data}” consistent with the {P1 Employment Data Protection Standards}, a copy of which are located at {P1.EmploymentDataPolicyURL} and may be requested from {P1.Handle}.
+PersonalData.Engage.Comply.EmploymentDataPolicy.Sen={P2.Handle} will process “{Employment Data}” consistent with the {P1.EmploymentDataProtectionStandards}, a copy of which are located at {P1.EmploymentDataPolicyURL} and may be requested from {P1.Handle}.
 
 PersonalData.Engage.Comply.Collect.Sen=In particular, if during the performance of {this Agreement} {P2.Handle} seeks to obtain {P1 PersonalData} directly from {Data Subjects}:
 
@@ -590,3 +590,25 @@ Attach.ReservedProperty.Xref={m-}Schedule F{-m}
 Attach.Suppliers.Xref={m-}Schedule G{-m}
 
 Attach.Integrity.Xref={m-}Schedule H{-m}
+  
+Comp.Xnum=3
+IP.Xnum=5
+Warrant.Xnum=9
+Assure.Xnum=10
+Time.Xnum=15
+Def.Xnum=20
+Survive.Xrefs=4, 5 ,6 and 9 through 20
+
+Comp.EarlyDiscount.Xnum={Comp.Xnum}.2
+IP.P2.Property.Assign.Xnum={IP.Xnum}.2
+Assure.Insurance.Xnum={Assure.Xnum}.3
+IP.P1.Property.Assign.Xnum={IP.Xnum}.1.2
+Stop.ByP1.Xnum={Time.Xnum}.4
+Stop.P2Insolvent.Xnum={Time.Xnum}.5
+Warrant.That.Xnum={Warrant.Xnum}.1
+
+Assure.3.2-4.Xnum={Assure.Insurance.Xnum} 2-4  
+IP.P1.Property.Assign.Xnum={IP.Xnum}.1.2
+Integrity Guide={m-}Integrity Guide{-m}
+Stop.ForDefault.Xnum={Time.Xnum}.6
+          
