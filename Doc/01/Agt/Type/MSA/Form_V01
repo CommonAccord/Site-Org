@@ -32,7 +32,7 @@ Engage.Affiliate.Sec=<b>Extension to Affiliates.</b><br>Any {P1 Affiliate} may i
 
 Staff.Sec=<b>{P2 Personnel}.</b><ol><li>{Staff.General.Sec}</li><li>{Staff.Screen.Sec}</li><li>{Staff.Immigrant.Sec}</li><li>{Staff.Sensitive.Sec}</li><li>{Staff.Web.Sec}</li></ol>
 
-Staff.General.Sec=<b>General</b><br>If requested by {P1.Handle}, {P2.Handle} shall list the names of all {P2 Personnel} in {Agt.Attach.P2.Personnel.Xref} hereto, indicating the relationship between {P2.Handle} and any person who is not {P2.Handle}’s full-time employee.&#8194; Without {P1.Handle}’s prior written approval, {P2.Handle} shall not use any person to render {Services} who is not listed on {Agt.Attach.P2.Personnel.Xref} and/or who has been employed by the {P1.Handle} less than six (6) months prior to the start date of such person’s performance under {this Agreement}.&#8194; {P1.Handle} shall have the right to approve each such {P2 Personnel} before assignment to any effort to be undertaken by {P2.Handle}, the granting of access to any {P1.Handle} facility and the disclosure of any {P1.Handle} information.&#8194; All {P2 Personnel} participating in the furnishing of any {Services} shall sign a copy of {Agt.Attach.NDA.Xref} hereto, Secrecy and Inventions Agreement, which shall be forwarded to {P1.Handle} by {P2.Handle} to the address listed on such document.
+Staff.General.Sec=<b>General</b><br>If requested by {P1.Handle}, {P2.Handle} shall list the names of all {P2 Personnel} in {Attach.PersonnelFees.Xref} hereto, indicating the relationship between {P2.Handle} and any person who is not {P2.Handle}’s full-time employee.&#8194; Without {P1.Handle}’s prior written approval, {P2.Handle} shall not use any person to render {Services} who is not listed on {Attach.PersonnelFees.Xref} and/or who has been employed by the {P1.Handle} less than six (6) months prior to the start date of such person’s performance under {this Agreement}.&#8194; {P1.Handle} shall have the right to approve each such {P2 Personnel} before assignment to any effort to be undertaken by {P2.Handle}, the granting of access to any {P1.Handle} facility and the disclosure of any {P1.Handle} information.&#8194; All {P2 Personnel} participating in the furnishing of any {Services} shall sign a copy of {Attach.NDA.Xref} hereto, Secrecy and Inventions Agreement, which shall be forwarded to {P1.Handle} by {P2.Handle} to the address listed on such document.
 
 Staff.Screen.Sec=<b>Screening</b><br>{P2.Handle} shall, before engaging in work and after securing written authorization from all {P2 Personnel}, screen against the following lists: {Screen.Against.List} No person or entity on any of these lists may provide any {Services} to {P1.Handle}.
 
@@ -40,7 +40,7 @@ Staff.Screen.Against.List=<ol><li>United States (“U.S.”) Department of Commerce 
 
 Staff.Immigrant.Sec=<b>Immigration Status</b><br>{P2.Handle} will also ensure compliance with the U.S. Immigration and Naturalization Service’s I-9 process.
 
-Staff.Sensitive.Sec=<b>Security Sensitive Work.</b><br>If the scope of the {Services} to be provided under {this Agreement} require {P2 Personnel} to perform work that is “security sensitive” (defined below), {P1.Handle} will designate the security sensitive work to be performed in the applicable {PO} or {SOW}.&#8194; Prior to {P2.Handle} or {P2 Personnel} engaging in any security sensitive work, {P2.Handle} shall, after securing written authorization from {P2 Personnel} and at its expense, perform criminal conviction screening consistent with the {P1 Guidelines} attached hereto as {Agt.Attach.Guidelines.Xref}.&#8194; This screening will include the prior seven (7) year period, will include all locations in which {P2 Personnel} resided and will verify employment details during this period.&#8194; {P2.Handle} shall retain a copy of this report for {P1.Handle}’s inspection for at least one (1) year following the performance of such security sensitive work by {P2 Personnel}.&#8194; {P1.Handle} reserves the right to determine, in its sole discretion, the type of work that will be designated as “security sensitive” under {this Agreement}.&#8194; Such work may include, but shall not be limited to, work: <ol><li>directly related to the operation or security of a {P1.Handle} facility, a piece of equipment, an electronic data system and/or a financial/accounting system;</li><li>that involves placement of {P2 Personnel} at a {P1.Handle} worksite that is designated by the {P1.Handle} as security sensitive; or</li><li>that involves access by {P2 Personnel} to operations or facilities that are designated by the {P1.Handle} as security sensitive.</li></ol>
+Staff.Sensitive.Sec=<b>Security Sensitive Work.</b><br>If the scope of the {Services} to be provided under {this Agreement} require {P2 Personnel} to perform work that is “security sensitive” (defined below), {P1.Handle} will designate the security sensitive work to be performed in the applicable {PO} or {SOW}.&#8194; Prior to {P2.Handle} or {P2 Personnel} engaging in any security sensitive work, {P2.Handle} shall, after securing written authorization from {P2 Personnel} and at its expense, perform criminal conviction screening consistent with the {Security Guide} attached hereto as {Attach.Security.Xref}.&#8194; This screening will include the prior seven (7) year period, will include all locations in which {P2 Personnel} resided and will verify employment details during this period.&#8194; {P2.Handle} shall retain a copy of this report for {P1.Handle}’s inspection for at least one (1) year following the performance of such security sensitive work by {P2 Personnel}.&#8194; {P1.Handle} reserves the right to determine, in its sole discretion, the type of work that will be designated as “security sensitive” under {this Agreement}.&#8194; Such work may include, but shall not be limited to, work: <ol><li>directly related to the operation or security of a {P1.Handle} facility, a piece of equipment, an electronic data system and/or a financial/accounting system;</li><li>that involves placement of {P2 Personnel} at a {P1.Handle} worksite that is designated by the {P1.Handle} as security sensitive; or</li><li>that involves access by {P2 Personnel} to operations or facilities that are designated by the {P1.Handle} as security sensitive.</li></ol>
 
 Staff.Web.Sec=<b>Contingent Workers.</b> <ol><li>{Staff.Web.Register.Sec}</li><li>{Staff.PersonalData.Sec}</li></ol>
 
@@ -50,11 +50,11 @@ Staff.PersonalData.Sec=<b>{Personal Data} received from {P2.Handle}.</b><br>  {S
 
 Staff.PersonalData.SupplierComply.Sen=Some jurisdictions impose restrictions on the collection and use of such information.&#8194; {P2.Handle} agrees that it will be responsible for complying with any applicable laws or regulations applying to {P2.Handle}’s loading of {Personal Data} into the {CWD} and/or any other databases or tools of {P1.Handle} or its Affiliates (collective “{Other P1 Databases}”) and to any other disclosures of {Personal Data} by {P2.Handle} to {P1.Handle}.
 
-Staff.PersonalData.P1Use.Sen={P2.Handle} understands and agrees that {P1.Handle} may use the information in the {CWD} for purposes reasonably related to the performance of {this Agreement}, including those identified in {Agt.Attach.PersonalDataConsent.Xref}.&#8194; {P2.Handle} also understands and agrees that contact information for {P2 Personnel} may be transferred to and stored in other global databases located in the United States of America and maintained by {P1 or one of its Affiliates}, and used for purposes reasonably related to {this Agreement}, including but not limited to supplier administration and payment administration.
+Staff.PersonalData.P1Use.Sen={P2.Handle} understands and agrees that {P1.Handle} may use the information in the {CWD} for purposes reasonably related to the performance of {this Agreement}, including those identified in {Attach.PersonalDataConsent.Xref}.&#8194; {P2.Handle} also understands and agrees that contact information for {P2 Personnel} may be transferred to and stored in other global databases located in the United States of America and maintained by {P1 or one of its Affiliates}, and used for purposes reasonably related to {this Agreement}, including but not limited to supplier administration and payment administration.
 
 Staff.PersonalData.P1Care.Sen={Personal Data} relating to {P2 Personnel} will not be shared beyond {P1.Handle}, its {Affiliates} and their contractors, who will be contractually bound to use the information only as reasonably necessary for the purposes of performing under their contractual obligations with {P1 and its Affiliates}.&#8194; {P1.Handle} will take appropriate measures to ensure that {Personal Data} relating to {P2 Personnel} is stored securely and in conformity with applicable data protection laws.
 
-Staff.PersonalData.ConsentFromPersonnel.Sen=If any laws or regulations require that any of {P2 Personnel} whose {Personal Data} is entered into the {CWD} or other {P1.Handle} databases receive notice of or consent to such processing of his/her {Personal Data}, then {P2.Handle}: <ol><li>shall provide notice to and obtain consent from such {P2 Personnel};</li><li>upon {P1.Handle}’s request, shall provide {P1.Handle} with a copy of such notice and consent to Contingent Worker Database Administrator; {CWD.Addr.1,2}.</li></ol> By way of example only, an Example Personal Data Notice and Consent Form is attached hereto as {Agt.Attach.PersonalDataConsent.Xref}.
+Staff.PersonalData.ConsentFromPersonnel.Sen=If any laws or regulations require that any of {P2 Personnel} whose {Personal Data} is entered into the {CWD} or other {P1.Handle} databases receive notice of or consent to such processing of his/her {Personal Data}, then {P2.Handle}: <ol><li>shall provide notice to and obtain consent from such {P2 Personnel};</li><li>upon {P1.Handle}’s request, shall provide {P1.Handle} with a copy of such notice and consent to Contingent Worker Database Administrator; {CWD.Addr.1,2}.</li></ol> By way of example only, an Example Personal Data Notice and Consent Form is attached hereto as {Attach.PersonalDataConsent.Xref}.
 
 
 
@@ -62,7 +62,7 @@ Comp.Sec=<b>Compensation and Payment Terms.</b> {Comp.Intro.NB} <ol><li>{Comp.Pe
 
 Comp.Intro.NB=<i>If: {P2.Handle} is based in France, {Services} are to be performed in France or {this Agreement} is governed by French law, please contact the {P1 Energy Sourcing Finance Manager} prior to utilizing the payment terms language set forth below in Section {Comp.4.Xnum}.</i>
 
-Comp.PerSchedule.Sec={P2.Handle} shall be paid on a time and materials basis according to the {Fee Schedule} attached hereto as {Agt.Attach.FeeSchedule.Xref} or as provided in any applicable {PO} or {SOW} with expenses reimbursed in accordance with the {P1 Travel Policy} attached hereto as {Agt.Attach.TravelPolicy.Xref}.&#8194; The foregoing will be the entire compensation to be paid to {P2.Handle} and will be in full discharge of any and all liability in contract or otherwise with respect to all {Services} rendered by the {P2.Handle} and {P2.Handle} Personnel}.
+Comp.PerSchedule.Sec={P2.Handle} shall be paid on a time and materials basis according to the {Fee Schedule} attached hereto as {Attach.PersonnelFees.Xref} or as provided in any applicable {PO} or {SOW} with expenses reimbursed in accordance with the {P1 Travel Policy} attached hereto as {Attach.Travel.Xref}.&#8194; The foregoing will be the entire compensation to be paid to {P2.Handle} and will be in full discharge of any and all liability in contract or otherwise with respect to all {Services} rendered by the {P2.Handle} and {P2.Handle} Personnel}.
 
 Comp.Currency.Sec=All fees will be paid in U.S. Dollars and delivered to {P2.Handle}’s principal place of business specified in the first paragraph of {this Agreement}.  {P2.Handle} warrants that it is authorized to receive payment in the currency stated in {this Agreement} or any applicable {PO} or {SOW}.
 
@@ -123,7 +123,7 @@ Conf.Engage.Use.cl=to use the {Proprietary Information} and/or {Notes} only for 
 
 Conf.Engage.Care.cl=to use the same degree of care as with its own confidential information, which shall be at least a reasonable standard of care, to prevent disclosure of the {Proprietary Information} and/or {Notes}, except to {RP Personnel} to the extent necessary to permit them to perform the {Services} as set forth in {this Agreement}
 
-Conf.WarnPersonnel.Sec=<b>Advise Personnel.</b><br>{RP} further agrees that prior to disclosing any {Proprietary Information} to {RP Personnel} as set forth above, {RP} will: <ol><li>advise such {RP Personnel} of the confidential and proprietary nature of the {Proprietary Information} and {Notes}; and</li><li>require them to sign the {Secrecy and Inventions Agreement} attached hereto as {Agt.Attach.NDA.Xref}.</li></ol>
+Conf.WarnPersonnel.Sec=<b>Advise Personnel.</b><br>{RP} further agrees that prior to disclosing any {Proprietary Information} to {RP Personnel} as set forth above, {RP} will: <ol><li>advise such {RP Personnel} of the confidential and proprietary nature of the {Proprietary Information} and {Notes}; and</li><li>require them to sign the {Secrecy and Inventions Agreement} attached hereto as {Attach.NDA.Xref}.</li></ol>
 
 Conf.Injunct.Sec=<b>Assume Responsibility for Personnel.</b><br>{RP} agrees to be responsible for any breach of {this Agreement} by it or {RP Personnel}.&#8194; {RP} acknowledges that money damages would not be a sufficient remedy for any breach of this Section.&#8194; Accordingly, in the event of any such breach, in addition to any other remedies at law or in equity that {DP} may have, it shall be entitled to equitable relief, including injunctive relief or specific performance or both.
 
@@ -168,7 +168,7 @@ IP.P2.Property.Assign.Further.Cl={P2.Handle} and {P2.Handle}’s successors in int
 
 IP.P2.Property.Assign.NotRegister.Cl={P2.Handle} agrees that it will not apply for any state, federal or other U.S. or foreign jurisdiction’s registration of rights in any of the {P1 Property} and that it will not oppose or object in any way to applications for registration of same by {P1.Handle} or others designated by {P1.Handle}
 
-IP.P2.Property.Sec=<b>{P2 Property}.</b><br> The assignment in Section {IP.P1.Property.Assign.Xnum} above does not include {P2 Reserved Intellectual Property} properly listed on {Agt.Attach.IP.P2.ReserveProperty.Xref}.&#8194; {P2.Handle} will obtain a {P1.Handle} representative’s signature on {Agt.Attach.IP.P2.ReserveProperty} before incorporating any of {P2 Intellectual Property} into the {Services} and/or any deliverables under {this Agreement}.&#8194; {P2.Handle} will own {P2 Reserved Intellectual Property} reflected on a properly executed {Agt.Attach.IP.P2.ReserveProperty}.&#8194; However, {P2.Handle} grants {P1.Handle} a fully-paid, perpetual, irrevocable, world-wide, non-exclusive license to: {IP.P2.License.List}
+IP.P2.Property.Sec=<b>{P2 Property}.</b><br> The assignment in Section {IP.P1.Property.Assign.Xnum} above does not include {P2 Reserved Intellectual Property} properly listed on {Attach.ReservedProperty.Xref}.&#8194; {P2.Handle} will obtain a {P1.Handle} representative’s signature on {Attach.ReservedProperty.Xref} before incorporating any of {P2 Intellectual Property} into the {Services} and/or any deliverables under {this Agreement}.&#8194; {P2.Handle} will own {P2 Reserved Intellectual Property} reflected on a properly executed {Attach.ReservedProperty.Title}.&#8194; However, {P2.Handle} grants {P1.Handle} a fully-paid, perpetual, irrevocable, world-wide, non-exclusive license to: {IP.P2.License.List}
 
 IP.P2.License.List=<ol><li>{IP.P2.License.Derivative.cl};</li><li>{IP.P2.License.Reproduce.cl}; and</li><li>{IP.P2.License.MUDPDTSub.cl}.</ol>
 
@@ -225,7 +225,7 @@ PersonalData.Engage.CareByStaff.SupplierEnsures.Sen={P2.Handle} shall implement 
 
 PersonalData.Engage.CareByStaff.ObtainNDA.Sen={P2.Handle} shall require {P2 Personnel}, as a condition of having access to {P1 PersonalData}, to sign individual confidentiality agreements in which they each agree individually to comply with the obligations of this Section of the Agreement.
 
-PersonalData.Engage.CareByStaff.FormOfNDA.Sen={Agt.Attach.NDA.Xref} of {this Agreement} shall be deemed an adequate form of confidentiality agreement.
+PersonalData.Engage.CareByStaff.FormOfNDA.Sen={Attach.NDA.Xref} of {this Agreement} shall be deemed an adequate form of confidentiality agreement.
 
 PersonalData.Engage.CareByStaff.SpecialNDA.Sen={P1.Handle} may also require {P2.Handle} to require {P2 Personnel}, as a condition of participating in specific assignments, to sign individual confidentiality agreements that are tailored for specific assignments.
 
@@ -297,7 +297,7 @@ Warrant.Duration.Sec=The warranties in Section {Warrant.That.Xnum} shall apply f
 
 Assure.Sec=<b>Indemnities and Insurance.</b> <ol><li>{Assure.General.Sec}</li><li>{Assure.IP.Sec}</li><li>{Assure.Insurance.Sec}</li><li>{Assure.AdditionalInsured.Sec}</li></ol>
 
-Assure.General.Sec=<b>General.</b><br> {P2.Handle} shall take all necessary precautions to prevent the occurrence of any injury to persons, property or the environment during the progress of work and ensure that its Personnel neither pose a threat to {P1.Handle}’s safe work environment nor the integrity of its business operations.&#8194; Except to the extent that any injury or damage is due solely and directly to {P1.Handle}, {P2.Handle} shall release, defend, hold harmless and indemnify {P1.Handle}, its directors, officers, employees, agents, representatives, successors and assigns against any and all suits, actions or proceedings, at law or in equity, and from any and all claims, demands, losses, judgments, damages, costs (including reasonable attorneys’ fees), fines, penalties, expenses or liabilities, including without limitation claims for personal injury or property or environmental damage, resulting from or in any way connected with any act or omission of {P2.Handle}’s Personnel, {P2.Handle}, its agents, employees or subcontractors, whether acting in the course of their employment or otherwise, in connection with, but not limited to, all of the representations, warranties or covenants contained in {this Agreement}.&#8194; In addition, {P2.Handle} shall indemnify, defend and hold {P1.Handle} harmless from and against any claims, costs or expenses, including, but not limited to, reasonable attorneys’ fees, arising out of or in connection with any employment claims, i.e., workers compensation, harassment or discrimination claims, or breaches of Sections 5.1 5.7, 14 or 15 or {Agt.Attach.NDA.Xref} hereto by {P2.Handle} or {P2.Handle}’s Personnel.&#8194; {P2.Handle} agrees to include this clause in all related subcontracts.&#8194; {P2.Handle} further agrees to indemnify {P1.Handle} for any attorneys’ fees or other costs {P1.Handle} incurs in the event that {P1.Handle} has to file a lawsuit to enforce any indemnity or additional insured provisions of {this Agreement}.
+Assure.General.Sec=<b>General.</b><br> {P2.Handle} shall take all necessary precautions to prevent the occurrence of any injury to persons, property or the environment during the progress of work and ensure that its Personnel neither pose a threat to {P1.Handle}’s safe work environment nor the integrity of its business operations.&#8194; Except to the extent that any injury or damage is due solely and directly to {P1.Handle}, {P2.Handle} shall release, defend, hold harmless and indemnify {P1.Handle}, its directors, officers, employees, agents, representatives, successors and assigns against any and all suits, actions or proceedings, at law or in equity, and from any and all claims, demands, losses, judgments, damages, costs (including reasonable attorneys’ fees), fines, penalties, expenses or liabilities, including without limitation claims for personal injury or property or environmental damage, resulting from or in any way connected with any act or omission of {P2.Handle}’s Personnel, {P2.Handle}, its agents, employees or subcontractors, whether acting in the course of their employment or otherwise, in connection with, but not limited to, all of the representations, warranties or covenants contained in {this Agreement}.&#8194; In addition, {P2.Handle} shall indemnify, defend and hold {P1.Handle} harmless from and against any claims, costs or expenses, including, but not limited to, reasonable attorneys’ fees, arising out of or in connection with any employment claims, i.e., workers compensation, harassment or discrimination claims, or breaches of Sections 5.1 5.7, 14 or 15 or {Attach.NDA.Xref} hereto by {P2.Handle} or {P2.Handle}’s Personnel.&#8194; {P2.Handle} agrees to include this clause in all related subcontracts.&#8194; {P2.Handle} further agrees to indemnify {P1.Handle} for any attorneys’ fees or other costs {P1.Handle} incurs in the event that {P1.Handle} has to file a lawsuit to enforce any indemnity or additional insured provisions of {this Agreement}.
 
 Assure.IP.Sec=<b>Intellectual Property.</b><br> {P2.Handle} shall indemnify, defend and hold {P1.Handle} harmless from any suit or proceeding brought against {P1.Handle} or its customers based on any claim that any {Services}, systems, article or apparatus, or any part thereof constituting {Services} and/or any deliverables furnished under {this Agreement}, as well as any device or process necessarily resulting from the use thereof, constitutes an infringement of any patent, copyright or other Intellectual Property right.&#8194; If notified promptly in writing and given authority, information and assistance, at {P2.Handle}’s expense, for the defense of same, {P2.Handle} shall pay all damages, costs and expenses incurred or awarded therein, including, but not limited to, reasonable attorneys’ fees.&#8194; If use of any systems, article, apparatus, part, device, process, Service and/or any deliverable is enjoined, {P2.Handle} shall, at its own expense and in the following order, subject to commercial practicality, either: a) procure for {P1.Handle} the right to continue using such Service, system, article or apparatus, part, device, process or deliverable; b) replace same with a non infringing equivalent; or c) remove such system, article or apparatus, part, device, process or deliverable or halt such Service and refund the purchase price and, if applicable, the transportation and installation costs thereof.
 
@@ -412,7 +412,7 @@ Conflict.Sec=<b>Conflict of Interest; {P1.Handle} Policies.</b> <ol><li>{Conflic
 
 Conflict.HasNo.Sec=<b>Absence of Conflict.</b><br> {P2.Handle} represents and warrants that: <ol><li>it has no conflict of interest which would prevent {P2.Handle} from acting in the best interests of {P1.Handle} and that such a situation will not exist during the {Term};</li><li>it has not entered into any contract or agreement, or executed any document whatsoever, that will in any manner prevent it from: <ol> <li>giving {P1.Handle} the exclusive benefit of services under this Agreement;</li> <li>disclosing and assigning ideas, inventions, computer software, trade secrets and other Intellectual Property as provided in Section {IP.P2.Property.Assign.Xnum} of this Agreement; or</li> <li>performing any other provision of this Agreement;</li> </ol></li><li>it will not enter into any contract or agreement, or execute any document, which will create a conflict of interest or which will prevent it from freely performing any provision of this Agreement; and</li><li>it will not knowingly incorporate confidential information of any person or entity not a party to this Agreement into any {Services} or deliverables furnished to {P1.Handle} without prior written notice to {P1.Handle}.</li></ol>
 
-Conflict.ReadPolicies.Sec=<b>Policies.</b><br> {P2.Handle} acknowledges that it has received a copy of the following documents: <ol><li>{P1 3Party Guide} (the “Guidelines”), attached hereto as {Agt.Attach.Guidelines.Xref}, and</li><li>the {P1 Energy Guide} (the “Guide”), attached hereto as {Agt.Attach.Guide.Xref}.</li></ol> {P2.Handle} agrees that it will: <ol><li>comply fully with the Guidelines and the Guide in the performance of the {Services};</li><li>provide a copy of the Guide to {P2 Personnel};</li><li>instruct {P2 Personnel} to comply with such documents; and</li><li>be responsible for any failure of {P2 Personnel} to comply with such documents.</li></ol> {P2.Handle} further agrees that it and {P2 Personnel} shall, upon reasonable notice, attend and participate in compliance briefings conducted by {P1.Handle} representatives; and
+Conflict.ReadPolicies.Sec=<b>Policies.</b><br> {P2.Handle} acknowledges that it has received a copy of the following documents: <ol><li>{P1 3Party Guide} (the “{Supplier Guide}”), attached hereto as {Attach.Suppliers.Xref}, and</li><li>the {Attach.Integrity.Title} (the “{Integrity Guide}”), attached hereto as {Attach.Integrity.Xref}.</li></ol> {P2.Handle} agrees that it will: <ol><li>comply fully with the {Supplier Guide} and the {Integrity Guide} in the performance of the {Services};</li><li>provide a copy of the {Integrity Guide} to {P2 Personnel};</li><li>instruct {P2 Personnel} to comply with such documents; and</li><li>be responsible for any failure of {P2 Personnel} to comply with such documents.</li></ol> {P2.Handle} further agrees that it and {P2 Personnel} shall, upon reasonable notice, attend and participate in compliance briefings conducted by {P1.Handle} representatives; and
 
 Conflict.GovtCommunication.Sec=<b>Government Contacts.</b><br> {P2.Handle} agrees that neither it nor any of {P2 Personnel} shall communicate in any manner with: <ol><li>any officer or employee of any Federal agency of the United States for or on behalf of {P1.Handle} with respect to any contract or federal procurement; or</li><li>any member of Congress or any employee of a member of Congress for or on behalf of {P1.Handle} with respect to any matter.</li></ol>
   
@@ -420,7 +420,7 @@ Conflict.GovtCommunication.Sec=<b>Government Contacts.</b><br> {P2.Handle} agree
 Time.Sec=<b>Term; Expiration; Termination; Suspension.</b> <ol><li>{Term.Sec}</li><li>{Stop.AtTerm.Sec}</li><li>{Stop.ByConsent.Sec}</li><li>{Stop.ByP1.Sec}</li><li>{Stop.P2Insolvent.Sec}</li><li>{Stop.ForDefault.Sec}</li><li>{Suspend.Sec}</li><li>{After.Sec}</li></ol>
 
 
-Term.Sec=<b>Term.</b><br> The term of {this Agreement} (“{Term}”) shall begin on the “{Effective Date}” and end on {Term.End.YMD} (“{Expiration Date}”), unless sooner terminated as provided in Section {Time.Xnum}.  If signed after the {Effective Date}, {this Agreement} shall be deemed retroactive to the {Effective Date}.&#8194; The {parties} further agree that if any {PO} or {SOW} is in effect at the time of the expiration of {this Agreement}, then as it applies to such {PO} or {SOW} only, the {Term} of {this Agreement} will be extended until the expiration or termination of such {PO} or {SOW}.
+Term.Sec=<b>Term.</b><br> The term of {this Agreement} (“{Term}”) shall begin on the “{Effective Date}” and end on {Term.End.YMD} (“{Expiration Date}”), unless sooner terminated as provided in Section {Time.Xnum}.&ensp; If signed after the {Effective Date}, {this Agreement} shall be deemed retroactive to the {Effective Date}.&#8194; The {parties} further agree that if any {PO} or {SOW} is in effect at the time of the expiration of {this Agreement}, then as it applies to such {PO} or {SOW} only, the {Term} of {this Agreement} will be extended until the expiration or termination of such {PO} or {SOW}.
 
 Stop.AtTerm.Sec=<b>Expiration.</b><br>{This Agreement} shall automatically expire at the {Expiration Date} unless specifically renewed prior thereto by mutual written consent by the {parties}.
 
@@ -527,4 +527,59 @@ Sign.Witness=IN WITNESS WHEREOF, the {parties} have executed {this Agreement} to
 
 Sign.Block=<table><tr><td valign='top'>{P1.Sign.Block}</td><td></td><td valign='top'>{P2.Sign.Block}</td></tr></table>
 </field>
-            
+
+
+
+Agt.Attach=<hr>{Attach.PersonnelFees}<hr><hr>{Attach.NDA}<hr><hr>{Attach.Security}<hr><hr>{Attach.PersonalDataConsent}<hr><hr>{Attach.Travel}<hr><hr>{Attach.ReservedProperty}<hr><hr>{Attach.Suppliers}<hr><hr>{Attach.Integrity}
+
+
+Attach.PersonnelFees=<center>{Attach.PersonnelFees.Xref}<br>{Attach.PersonnelFees.Title}</center><hr>{Attach.PersonnelFees.DocBody}        
+
+Attach.NDA=<center>{Attach.NDA.Xref}<br>{Attach.NDA.Title}</center><hr>{Attach.NDA.DocBody}
+
+Attach.Security=<center>{Attach.Security.Xref}<br>{Attach.Security.Title}</center><hr>{Attach.Security.DocBody}
+
+Attach.PersonalDataConsent=<center>{Attach.PersonalDataConsent.Xref}<br>{Attach.PersonalDataConsent.Title}</center><hr>{Attach.PersonalDataConsent.DocBody}
+
+Attach.Travel=<center>{Attach.Travel.Xref}<br>{Attach.Travel.Title}</center><hr>{Attach.Travel.DocBody}
+
+Attach.ReservedProperty=<center>{Attach.Reserved.Xref}<br>{Attach.Reserved.Title}</center><hr>{Attach.Reserved.DocBody}
+
+Attach.Suppliers=<center>{Attach.Suppliers.Xref}<br>{Attach.Suppliers.Title}</center><hr>{Attach.Suppliers.DocBody}
+
+Attach.Integrity=<center>{Attach.Integrity.Xref}<br>{Attach.Integrity.Title}</center><hr>{Attach.Integrity.DocBody}
+
+
+Attach.PersonnelFees.Title={m-}Schedule of Fees for {P2.Handle}'s Personnel{-m}
+
+Attach.NDA.Title={m-}Secrecy and Inventions Agreement{-m}
+
+Attach.Security.Title={m-}Guidelines for Workers Assigned to "Security Sensitive" Positions{-m}
+
+Attach.PersonalDataConsent.Title={m-}Example Personal Data Notice and Consent Form{-m}
+
+Attach.Travel.Title={m-}{P1.Handle} Travel and Living Policies{-m}
+
+Attach.Reserved.Title={m-}{P2.Handle}'s Reserved Intellectual Property{-m}
+
+Attach.Suppliers.Title={m-}Guide - Third Party Suppliers{-m}
+
+Attach.Integrity.Title={m-}{P1.Handle} Integrity Guide for Suppliers, Contractors and Consultants{-m}
+
+
+Attach.PersonnelFees.Xref={m-}Schedule A{-m}
+
+Attach.NDA.Xref={m-}Schedule B{-m}
+
+Attach.Security.Xref={m-}Schedule C{-m}
+
+Attach.PersonalDataConsent.Xref={m-}Schedule D{-m}
+
+Attach.Travel.Xref={m-}Schedule E{-m}
+
+Attach.Reserved.Xref={m-}Schedule F{-m}
+
+Attach.Suppliers.Xref={m-}Schedule G{-m}
+
+Attach.Integrity.Xref={m-}Schedule H{-m}
+  

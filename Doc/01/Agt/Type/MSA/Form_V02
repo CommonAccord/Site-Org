@@ -6,34 +6,48 @@ P2.=[core/id/quake_incorporated]
 =[core/form/agt/master/config/Finance_Type1]
 
 
-Agt.Attach=<hr>{Agt.Attach.Personnel}<hr><hr>{Agt.Attach.NDA}<hr><hr>{Agt.Attach.Guidelines}<hr><hr>{Agt.Attach.PersonalDataConsent}<hr><hr>{Agt.Attach.Travel}<hr><hr>{Agt.Attach.IP.Reserved}
+Agt.Attach=<hr>{Attach.PersonnelFees}<hr><hr>{Attach.NDA}<hr><hr>{Attach.Security}<hr><hr>{Attach.PersonalDataConsent}<hr><hr>{Attach.Travel}<hr><hr>{Attach.IP.P2.ReservedProperty}<hr><hr>{Attach.3P.Suppliers}<hr><hr>{Attach.Integrity}
 
-Agt.Attach.Personnel.Xref={m-}Schedule A{-m}
-Agt.Attach.NDA.Xref={m-}Schedule B{-m}
-Agt.Attach.Guidelines.Xref={m-}Schedule C{-m}
-Agt.Attach.PersonalDataConsent.Xref={m-}Schedule D{-m}
-Agt.Attach.Travel.Xref={m-}Schedule E{-m}
-Agt.Attach.IP.Reserved.Xref={m-}Schedule F{-m}
-
-
-Agt.Attach.Personnel=<center>{Agt.Attach.Personnel.Xref}<br>{Agt.Attach.Personnel.Title}</center><hr>{Agt.Attach.Personnel.DocBody}        
-Agt.Attach.NDA=<center>{Agt.Attach.NDA.Xref}<br>{Agt.Attach.NDA.Title}</center><hr>{Agt.Attach.NDA.DocBody}
-Agt.Attach.Guidelines=<center>{Agt.Attach.Guidelines.Xref}<br>{Agt.Attach.Guidelines.Title}</center><hr>{Agt.Attach.Guidelines.DocBody}
-Agt.Attach.PersonalDataConsent=<center>{Agt.Attach.PersonalDataConsent.Xref}<br>{Agt.Attach.PersonalDataConsent.Title}</center><hr>{Agt.Attach.PersonalDataConsent.DocBody}
-Agt.Attach.Travel=<center>{Agt.Attach.Travel.Xref}<br>{Agt.Attach.Travel.Title}</center><hr>{Agt.Attach.Travel.DocBody}
-Agt.Attach.IP.Reserved=<center>{Agt.Attach.IP.Reserved.Xref}<br>{Agt.Attach.IP.Reserved.Title}</center><hr>{Agt.Attach.IP.Reserved.DocBody}
+Attach.PersonnelFees.Xref={m-}Schedule A{-m}
+Attach.NDA.Xref={m-}Schedule B{-m}
+Attach.Security.Xref={m-}Schedule C{-m}
+Attach.PersonalDataConsent.Xref={m-}Schedule D{-m}
+Attach.Travel.Xref={m-}Schedule E{-m}
+Attach.IP.P2.ReservedProperty.Xref={m-}Schedule F{-m}
+Attach.3P.Suppliers.Xref={m-}Schedule G{-m}
+Attach.Integrity.Xref={m-}Schedule H{-m}
 
 
-Agt.Attach.Personnel.Title={m-}Schedule of Fees for {P2.Handle}'s Personnel{-m}
+Attach.PersonnelFees=<center>{Attach.PersonnelFees.Xref}<br>{Attach.PersonnelFees.Title}</center><hr>{Attach.PersonnelFees.DocBody}        
 
-Agt.Attach.NDA.Title={m-}Secrecy and Inventions Agreement{-m}
+Attach.NDA=<center>{Attach.NDA.Xref}<br>{Attach.NDA.Title}</center><hr>{Attach.NDA.DocBody}
 
-Agt.Attach.Guidelines.Title={m-}Guidelines for Workers Assigned to "Security Sensitive" Positions{-m}
+Attach.Security=<center>{Attach.Security.Xref}<br>{Attach.Security.Title}</center><hr>{Attach.Security.DocBody}
 
-Agt.Attach.PersonalDataConsent.Title={m-}Example Personal Data Notice and Consent Form{-m}
+Attach.PersonalDataConsent=<center>{Attach.PersonalDataConsent.Xref}<br>{Attach.PersonalDataConsent.Title}</center><hr>{Attach.PersonalDataConsent.DocBody}
 
-Agt.Attach.Travel.Title={m-}{P1.Handle} Travel and Living Policies{-m}
+Attach.Travel=<center>{Attach.Travel.Xref}<br>{Attach.Travel.Title}</center><hr>{Attach.Travel.DocBody}
 
-Agt.Attach.IP.Reserved.Title={m-}{P2.Handle}'s Reserved Intellectual Property{-m}
+Attach.IP.P2.ReservedProperty=<center>{Attach.IP.P2.ReservedProperty.Xref}<br>{Attach.IP.P2.ReservedProperty.Title}</center><hr>{Attach.IP.P2.ReservedProperty.DocBody}
 
-          
+Attach.3P.Suppliers=<center>{Attach.3P.Suppliers.Xref}<br>{Attach.3P.Suppliers.Title}</center><hr>{Attach.3P.Suppliers.DocBody}
+
+Attach.Integrity=<center>{Attach.Integrity.Xref}<br>{Attach.Integrity.Title}</center><hr>{Attach.Integrity.DocBody}
+
+
+Attach.PersonnelFees.Title={m-}Schedule of Fees for {P2.Handle}'s Personnel{-m}
+
+Attach.NDA.Title={m-}Secrecy and Inventions Agreement{-m}
+
+Attach.Security.Title={m-}Guidelines for Workers Assigned to "Security Sensitive" Positions{-m}
+
+Attach.PersonalDataConsent.Title={m-}Example Personal Data Notice and Consent Form{-m}
+
+Attach.Travel.Title={m-}{P1.Handle} Travel and Living Policies{-m}
+
+Attach.IP.P2.ReservedProperty.Title={m-}{P2.Handle}'s Reserved Intellectual Property{-m}
+
+Attach.3P.Suppliers.Title={m-}Guidelines - Third Party Suppliers{-m}
+
+Attach.Integrity.Title={m-}{P1.Handle} Integrity Guide for Suppliers, Contractors and Consultants{-m}
+    

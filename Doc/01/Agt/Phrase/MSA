@@ -42,6 +42,8 @@ Expiration Date={m-}Expiration Date{-m}
 
 Fee Schedule={m-}Fee Schedule{-m}
 
+Integrity  Guide={m-}{P1.Handle} Integrity Guide{-m}
+
 Intellectual Property={m-}Intellectual Property{-m}
 
 IP Rights={m-}IP Rights{-m}
@@ -64,8 +66,6 @@ P1 or Affiliates={m-}Company or its Affiliates{-m}
 
 P1 or one of its Affiliates={m-}Company or one of its Affiliates{-m}
 
-P1 Guidelines={m-}Company Guidelines{-m}
-
 P1 PersonalData={m-}Company Personal Data{-m}
 
 P1 Property={m-}Company Property{-m}
@@ -74,11 +74,10 @@ P1.Handle={m-}Company{-m}
 
 P1 Energy Sourcing Finance Manager={m-}{-m}
 
-P1 Travel Policy={m-}Company Travel Policy{-m}
+P1 Travel Policy={m-}Travel Policy{-m}
 
-P1 3Party Guide={m-}Company 3Party Guide{-m}
+P1 3Party Guide={m-}Supplier Guide{-m}
 
-P1 Energy Guide={m-}Company Energy Guide{-m}
 
 
 P2 Affiliate={m-}Supplier Affiliate{-m}
@@ -141,6 +140,9 @@ Software Product={m-}Software Product{-m}
 
 SOW={m-}SOW{-m}
 
+Supplier Guide={m-}{P1.Handle} Supplier Guide{-m}
+
+
 Term={m-}Term{-m}
 
 Third Party Intellectual Property={m-}Third Party Intellectual Property{-m}
@@ -150,3 +152,4 @@ m-=<font color='{mcolor}'>
 mcolor=brown
 
 </field>
+  
