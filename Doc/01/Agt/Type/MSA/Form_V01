@@ -420,7 +420,7 @@ Conflict.GovtCommunication.Sec=<b>Government Contacts.</b><br> {P2.Handle} agree
 Time.Sec=<b>Term; Expiration; Termination; Suspension.</b> <ol><li>{Term.Sec}</li><li>{Stop.AtTerm.Sec}</li><li>{Stop.ByConsent.Sec}</li><li>{Stop.ByP1.Sec}</li><li>{Stop.P2Insolvent.Sec}</li><li>{Stop.ForDefault.Sec}</li><li>{Suspend.Sec}</li><li>{After.Sec}</li></ol>
 
 
-Term.Sec=<b>Term.</b><br> The term of {this Agreement} (“{Term}”) shall begin on the “{Effective Date}” and end on {Term.End.YMD} (“{Expiration Date}”), unless sooner terminated as provided in Section {Time.Xnum}.&ensp; If signed after the {Effective Date}, {this Agreement} shall be deemed retroactive to the {Effective Date}.&#8194; The {parties} further agree that if any {PO} or {SOW} is in effect at the time of the expiration of {this Agreement}, then as it applies to such {PO} or {SOW} only, the {Term} of {this Agreement} will be extended until the expiration or termination of such {PO} or {SOW}.
+Term.Sec=<b>Term.</b><br> The term of {this Agreement} (“{Term}”) shall begin on the “{Effective Date}” and end on {Term.End.YMD} (“{Expiration Date}”), unless sooner terminated as provided in Section {Time.Xnum}.&#8194; If signed after the {Effective Date}, {this Agreement} shall be deemed retroactive to the {Effective Date}.&#8194; The {parties} further agree that if any {PO} or {SOW} is in effect at the time of the expiration of {this Agreement}, then as it applies to such {PO} or {SOW} only, the {Term} of {this Agreement} will be extended until the expiration or termination of such {PO} or {SOW}.
 
 Stop.AtTerm.Sec=<b>Expiration.</b><br>{This Agreement} shall automatically expire at the {Expiration Date} unless specifically renewed prior thereto by mutual written consent by the {parties}.
 
@@ -493,7 +493,7 @@ Misc.Heading.Sec=<b>Headings.</b><br> The headings contained in {this Agreement}
 
 Misc.Language.Sec=<b>Language.</b><br> The language of {this Agreement} is English.  Any version, antecedent{q} or translation in another language is for convenience only and has no legal significance.
 
-Misc.Majeure.Sec=<b>Force Majeure.</b><br> A {party} will not be liable for any delay or failure to perform its obligations under {this Agreement} caused by an event which:<ol><li>is beyond the {party}'s reasonable control;</li><li>was not reasonably foreseeable at the time that {party} became bound by {this Agreement}; and</li><li>is in the nature of a strike, riot, war, fire, extraordinary weather, act of God{q} or act of government.</li></ol>
+Misc.Majeure.Sec=<b>Force Majeure.</b><br> A {party} will not be liable for any delay or failure to perform its obligations under {this Agreement} caused by an event which:<ol><li>is beyond the {party}&rsquo;s reasonable control;</li><li>was not reasonably foreseeable at the time that {party} became bound by {this Agreement}; and</li><li>is in the nature of a strike, riot, war, fire, extraordinary weather, act of God{q} or act of government.</li></ol>
 
 Misc.Successor.Sec=<b>Successors.</b><br> {This Agreement} will inure to the benefit of the {parties} and their respective successors and assigns.
 
@@ -543,7 +543,7 @@ Attach.PersonalDataConsent=<center>{Attach.PersonalDataConsent.Xref}<br>{Attach.
 
 Attach.Travel=<center>{Attach.Travel.Xref}<br>{Attach.Travel.Title}</center><hr>{Attach.Travel.DocBody}
 
-Attach.ReservedProperty=<center>{Attach.Reserved.Xref}<br>{Attach.Reserved.Title}</center><hr>{Attach.Reserved.DocBody}
+Attach.ReservedProperty=<center>{Attach.ReservedProperty.Xref}<br>{Attach.ReservedProperty.Title}</center><hr>{Attach.ReservedProperty.DocBody}
 
 Attach.Suppliers=<center>{Attach.Suppliers.Xref}<br>{Attach.Suppliers.Title}</center><hr>{Attach.Suppliers.DocBody}
 
@@ -560,7 +560,7 @@ Attach.PersonalDataConsent.Title={m-}Example Personal Data Notice and Consent Fo
 
 Attach.Travel.Title={m-}{P1.Handle} Travel and Living Policies{-m}
 
-Attach.Reserved.Title={m-}{P2.Handle}'s Reserved Intellectual Property{-m}
+Attach.ReservedProperty.Title={m-}{P2.Handle}'s Reserved Intellectual Property{-m}
 
 Attach.Suppliers.Title={m-}Guide - Third Party Suppliers{-m}
 
@@ -577,9 +577,9 @@ Attach.PersonalDataConsent.Xref={m-}Schedule D{-m}
 
 Attach.Travel.Xref={m-}Schedule E{-m}
 
-Attach.Reserved.Xref={m-}Schedule F{-m}
+Attach.ReservedProperty.Xref={m-}Schedule F{-m}
 
 Attach.Suppliers.Xref={m-}Schedule G{-m}
 
 Attach.Integrity.Xref={m-}Schedule H{-m}
-  
+      
