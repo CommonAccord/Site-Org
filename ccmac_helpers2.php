@@ -19,7 +19,6 @@ if(isset($_REQUEST['file'])) {
 } else {
 	$dir = ''; 
 }
-$dir = $path.$dir;
 
 
 if($_REQUEST['action'] == 'list') {
@@ -34,7 +33,7 @@ include('list.php');
 else if($_REQUEST['action'] == 'source') {
 
 if(isset($_REQUEST['submit'])) {
-	$fp = fopen($dir, "w");
+	$fp = fopen($path.$dir, "w");
 	$data = $_REQUEST['newcontent'];
 	$data = preg_replace('/\r\n/', "\n", $data);
 	fwrite($fp, $data);
