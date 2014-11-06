@@ -1,5 +1,3 @@
-=[01/Agt/Frame/Library]
-
 table-=<table>
 
 -table=</table>
@@ -52,4 +50,4 @@ st-=<b>
 -stb=</b><br>
 
 br=<br>
-	    
+	      
