@@ -7,8 +7,9 @@
 	 <p align="center"><img src="assets/cmacc-trans.png" style="width:50%" /></p>
 <br/>
 <hr>
-<h2 class="title"><a href="http://response.commonaccord.org/Main_Page">Ebola response wiki</a></h2>
+<h2 class="title"><a href="http://response.commonaccord.org/Main_Page">response.commonaccord.org - Ebola response wiki</a></h2>
 <h2 class="title"><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=wef/>Ebola response experiments with sample documents</a></h2>
+<h2 class="title"><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=01/>Outline of a legal operating system</a></h2>
 
 <h3 class="title">CommonAccord is an open source software<br/> and law project.</h1>
 <hr>
