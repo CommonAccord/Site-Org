@@ -1,21 +1,16 @@
 Source=<a href="http://www.ott.nih.gov/sites/default/files/documents/docs/nih-iia-nih-lead-model-102005.docx">Word Doc</a>
 
-Model.Root={DocBody}
+=[01/Agt/Frame/Library_Plus1]
+P1.the={m-}the NIH{-m}
+P1.The={m-}The NIH{-m}
+P2.the={m-}the Institition{-m}
+P2.The={m-}The Institition{-m}
 
-DocBody={Agt.Heading}<br>{Agt.Intro}<br>{Agt.Secs}<br>{Agt.Sign}
 
-P1.the=the NIH
-P1.The=The NIH
-P2.the=the Institition
-P2.The=The Institition
 
-Agt.Heading=<center><b>{Agt.Title}</b></center>
+Agt.Title=Inter-Institutional Agreement - {P1.Handle}-Lead
 
-Agt.Title=THE NATIONAL INSTITUTES OF HEALTH INTERINSTITUTIONAL AGREEMENT NIH-LEAD
-
-Agt.Intro=This Agreement is entered into between {P1.N,E,A} (“{P1.Handle}”) and {P2.N,E,A} (“{P2.Handle}”).
-
-Agt.Secs=Agt.Secs=<ol><li>{1}</li><li>{2}</li><li>{3}</li><li>{4}</li><li>{5}</li><li>{6}</li><li>{7}</li><li>{8}</li><li>{9}</li><li>{10}</li><li>{11}</li></ol>
+Agt.Secs=<ol><li>{1}</li><li>{2}</li><li>{3}</li><li>{4}</li><li>{5}</li><li>{6}</li><li>{7}</li><li>{8}</li><li>{9}</li><li>{10}</li><li>{11}</ol>
 
 1=<b>{1.Title}</b><ol><li>{1.1}</li><li>{1.2}</li></ol>
 
@@ -170,6 +165,7 @@ Agt.Secs=Agt.Secs=<ol><li>{1}</li><li>{2}</li><li>{3}</li><li>{4}</li><li>{5}</l
 Agt.Sign.Intro=IN WITNESS WHEREOF, the parties hereto have executed this Agreement in duplicate originals by their respective duly authorized officers hereunto, on the day and year hereinafter written.  Any communication or notice to be given shall be forwarded to the respective addresses listed below.
 
 
+TO BE COMPLETED:
 
 For {P1.the}:
 _______________ DRAFT ____________________________	_______________
@@ -220,4 +216,4 @@ Phone:
 Fax:		
 
 Any false or misleading statements made, presented, or submitted to the Government, including any relevant omissions, under this Agreement and during the course of negotiation of this Agreement are subject to all applicable civil and criminal statutes including Federal statutes 31 U.S.C. §§3801-3812 (civil liability) and 18 U.S.C. §1001 (criminal liability including fine(s) or imprisonment).
-        
+                
