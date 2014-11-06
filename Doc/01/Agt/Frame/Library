@@ -5,7 +5,7 @@
 <field>
 Model.Root={DocBody}
 
-DocBody={Agt.Meta}{Agt.Prologue}<br>{Agt.Secs}<br>{Agt.Sign}<br>{AGT.Attach}
+DocBody={Agt.Meta}{Agt.Prologue}<br>{Agt.Secs}<br>{Agt.Sign}<br>{Agt.Attach}
 
 Agt.Meta={MessageToReader}
 
@@ -28,4 +28,4 @@ Sign.Witness=IN WITNESS WHEREOF, the {parties} have executed {this Agreement} to
 Sign.Block=<table><tr><td valign='top'>{P1.Sign.Block}</td><td></td><td valign='top'>{P2.Sign.Block}</td></tr></table>
 
 </field>
-  
+    
