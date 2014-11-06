@@ -62,11 +62,11 @@ P1 Affiliates={m-}Company Affiliates{-m}
 
 P1 and its Affiliates={m-}Company and its Affiliates{-m}
 
-P1 or Affiliates={m-}Company or its Affiliates{-m}
+P1 or its Affiliates={m-}Company or its Affiliates{-m}
 
 P1 or one of its Affiliates={m-}Company or one of its Affiliates{-m}
 
-P1 PersonalData={m-}Company Personal Data{-m}
+P1 Personal Data={m-}Company Personal Data{-m}
 
 P1 Property={m-}Company Property{-m}
 
@@ -154,4 +154,4 @@ m-=<font color='{mcolor}'>
 mcolor=brown
 
 </field>
-      
+        

@@ -3,7 +3,8 @@
 01/Agt/Phrase/MSA
 </binder>
 
-=[01/Agt/Phrase/MSA]
+=[01/Agt/Phrase/MSA/Library]
+=[01/Agt/Sec/Def/MSA/Library]
 
 <field>
 
@@ -206,32 +207,32 @@ IP.CodeEscrow.License.Sen={P1.Handle} is hereby granted a license to use the {So
 
 PersonalData.Sec=<b>Personal Data Provided to {P2.Handle}.</b> <ol><li>{PersonalData.Engage.Sec}</li></ol>
 
-PersonalData.Engage.Sec=In the event that {P2.Handle} accesses or otherwise {Processes} any {P1 PersonalData} during its performance of the Agreement, it shall comply with the following obligations regarding {P1 PersonalData}: <ol><li>{PersonalData.Engage.NeedToDo.Sec}</li><li>{PersonalData.Engage.Conf.Sec}</li><li>{PersonalData.Engage.Care.Sec}</li><li>{PersonalData.Engage.CareByStaff.Sec}</li><li>{PersonalData.Engage.Comply.Sec}</li><li>{PersonalData.Engage.Expire.Sec}</li></ol>
+PersonalData.Engage.Sec=In the event that {P2.Handle} accesses or otherwise {Processes} any {P1 Personal Data} during its performance of the Agreement, it shall comply with the following obligations regarding {P1 Personal Data}: <ol><li>{PersonalData.Engage.NeedToDo.Sec}</li><li>{PersonalData.Engage.Conf.Sec}</li><li>{PersonalData.Engage.Care.Sec}</li><li>{PersonalData.Engage.CareByStaff.Sec}</li><li>{PersonalData.Engage.Comply.Sec}</li><li>{PersonalData.Engage.Expire.Sec}</li></ol>
 
 <b>NB</b>=Redundant with second sentence of Engage.Conf.Sec.
 
-PersonalData.Engage.NeedToDo.Sec=<b>Need-To-Access.</b><br> {P2.Handle} shall view and {Process} {P1 PersonalData} only to the extent necessary to perform {this Agreement} or upon {P1.Handle}'s written instructions.
+PersonalData.Engage.NeedToDo.Sec=<b>Need-To-Access.</b><br> {P2.Handle} shall view and {Process} {P1 Personal Data} only to the extent necessary to perform {this Agreement} or upon {P1.Handle}'s written instructions.
 
-PersonalData.Engage.Conf.Sec=<b>Confidentiality.</b><br> {P2.Handle} undertakes to keep {P1 PersonalData} confidential, and agrees to not disclose {P1 PersonalData} to third parties without having first received express written approval from {P1.Handle}.  {P2.Handle} and {P2 Personnel} shall {Process} {P1 PersonalData} only on a need-to-know basis.
+PersonalData.Engage.Conf.Sec=<b>Confidentiality.</b><br> {P2.Handle} undertakes to keep {P1 Personal Data} confidential, and agrees to not disclose {P1 Personal Data} to third parties without having first received express written approval from {P1.Handle}.  {P2.Handle} and {P2 Personnel} shall {Process} {P1 Personal Data} only on a need-to-know basis.
 
 PersonalData.Engage.Care.Sec=<b>Care.</b><br> {PersonalData.Engage.Care.ImplementMeasures.Sen}  {PersonalData.Engage.Care.AdequateMeasures.Sen}  {PersonalData.Engage.Care.InformOfBreach.Sen} 
 
-PersonalData.Engage.Care.ImplementMeasures.Sen={P2.Handle} shall implement technical and organizational measures to ensure the security and confidentiality of {P1 PersonalData} in order to prevent, among other things: <ol><li>{PersonalData.Harm.List}</li></ol>
+PersonalData.Engage.Care.ImplementMeasures.Sen={P2.Handle} shall implement technical and organizational measures to ensure the security and confidentiality of {P1 Personal Data} in order to prevent, among other things: <ol><li>{PersonalData.Harm.List}</li></ol>
 
 PersonalData.Harm.List=<ol><li>{PersonalData.Harm.Mangling.cl};</li><li>{PersonalData.Harm.Disclose.cl}; and </li><li>{PersonalData.Harm.UnlawfulProcessing.cl}.</li></ol>
-PersonalData.Harm.Mangling.cl=accidental, unauthorized or unlawful destruction, alteration, modification or loss of {P1 PersonalData}
-PersonalData.Harm.Disclose.cl=accidental, unauthorized or unlawful disclosure or access to {P1 PersonalData}
+PersonalData.Harm.Mangling.cl=accidental, unauthorized or unlawful destruction, alteration, modification or loss of {P1 Personal Data}
+PersonalData.Harm.Disclose.cl=accidental, unauthorized or unlawful disclosure or access to {P1 Personal Data}
 PersonalData.Harm.UnlawfulProcessing.cl=unlawful forms of {Processing}
 
-PersonalData.Engage.Care.AdequateMeasures.Sen=The security measures taken by {P2.Handle} shall be in compliance with all applicable data protection regulations and shall be commensurate with the risks represented by the {Processing} and the nature of the {P1 PersonalData} to be {Processed}, taking into consideration the state of the art security measures available to protect such data and the implementation costs of such measures.
+PersonalData.Engage.Care.AdequateMeasures.Sen=The security measures taken by {P2.Handle} shall be in compliance with all applicable data protection regulations and shall be commensurate with the risks represented by the {Processing} and the nature of the {P1 Personal Data} to be {Processed}, taking into consideration the state of the art security measures available to protect such data and the implementation costs of such measures.
 
 PersonalData.Engage.Care.InformOfBreach.Sen={P2.Handle} shall immediately inform {P1.Handle} of any breach of its security and confidentiality obligations under this Section.
 
 PersonalData.Engage.CareByStaff.Sec=<b>Staff.</b><br> {PersonalData.Engage.CareByStaff.SupplierEnsures.Sen}  {PersonalData.Engage.CareByStaff.ObtainNDA.Sen}  {PersonalData.Engage.CareByStaff.FormOfNDA.Sen}  {PersonalData.Engage.CareByStaff.SpecialNDA.Sen}
 
-PersonalData.Engage.CareByStaff.SupplierEnsures.Sen={P2.Handle} shall implement all measures necessary to ensure compliance by {P2 Personnel} with the obligations relating to {P1 PersonalData}.
+PersonalData.Engage.CareByStaff.SupplierEnsures.Sen={P2.Handle} shall implement all measures necessary to ensure compliance by {P2 Personnel} with the obligations relating to {P1 Personal Data}.
 
-PersonalData.Engage.CareByStaff.ObtainNDA.Sen={P2.Handle} shall require {P2 Personnel}, as a condition of having access to {P1 PersonalData}, to sign individual confidentiality agreements in which they each agree individually to comply with the obligations of this Section of the Agreement.
+PersonalData.Engage.CareByStaff.ObtainNDA.Sen={P2.Handle} shall require {P2 Personnel}, as a condition of having access to {P1 Personal Data}, to sign individual confidentiality agreements in which they each agree individually to comply with the obligations of this Section of the Agreement.
 
 PersonalData.Engage.CareByStaff.FormOfNDA.Sen={Attach.NDA.Xref} of {this Agreement} shall be deemed an adequate form of confidentiality agreement.
 
@@ -243,27 +244,27 @@ PersonalData.Engage.Comply.Law.Sen={P2.Handle} shall comply with all applicable 
 
 PersonalData.Engage.Comply.EmploymentDataPolicy.Sen={P2.Handle} will process “{Employment Data}” consistent with the {P1.EmploymentDataProtectionStandards}, a copy of which are located at {P1.EmploymentDataPolicyURL} and may be requested from {P1.Handle}.
 
-PersonalData.Engage.Comply.Collect.Sen=In particular, if during the performance of {this Agreement} {P2.Handle} seeks to obtain {P1 PersonalData} directly from {Data Subjects}:
+PersonalData.Engage.Comply.Collect.Sen=In particular, if during the performance of {this Agreement} {P2.Handle} seeks to obtain {P1 Personal Data} directly from {Data Subjects}:
 
 PersonalData.Engage.Comply.Collect.List=<ol><li>{PersonalData.Engage.Comply.Collect.InformSubjects.cl}; and</li><li></li>{PersonalData.Engage.Comply.Collect.ObtainApproval.cl}.</li></ol> 
 
 PersonalData.Engage.Comply.Collect.InformSubjects.cl={P2.Handle} must provide such {Data Subjects} with the information required by applicable law and regulation and when necessary, obtain the {Data Subjects}' consent to acquire such information
 
-PersonalData.Engage.Comply.Collect.ObtainApproval.cl=except for {P2.Handle}'s employees or subcontractors, {P2.Handle} must obtain {P1.Handle}'s written approval of the information and consent language to be used by {P2.Handle} to gather such {P1 PersonalData} from the {Data Subjects}
+PersonalData.Engage.Comply.Collect.ObtainApproval.cl=except for {P2.Handle}'s employees or subcontractors, {P2.Handle} must obtain {P1.Handle}'s written approval of the information and consent language to be used by {P2.Handle} to gather such {P1 Personal Data} from the {Data Subjects}
 
-PersonalData.Engage.Comply.Breach.Sen=Failure by {P2.Handle} to comply with any obligations relating to {P1 PersonalData} or {Personal Data} set forth in {this Agreement} is considered a material breach of {this Agreement}.
+PersonalData.Engage.Comply.Breach.Sen=Failure by {P2.Handle} to comply with any obligations relating to {P1 Personal Data} or {Personal Data} set forth in {this Agreement} is considered a material breach of {this Agreement}.
 
 PersonalData.Engage.Audit.Sec=<b>Audit.</b><br> {PersonalData.Engage.Audit.OnDemand.Sen}  {PersonalData.Engage.Audit.Access.Sen}
 
-PersonalData.Engage.Audit.OnDemand.Sen={P1.Handle} may conduct at any time, subject to a prior written notice to {P2.Handle}, an on-site verification of {P2.Handle}'s compliance with obligations relating to {P1 PersonalData}, even after the termination of {this Agreement}.
+PersonalData.Engage.Audit.OnDemand.Sen={P1.Handle} may conduct at any time, subject to a prior written notice to {P2.Handle}, an on-site verification of {P2.Handle}'s compliance with obligations relating to {P1 Personal Data}, even after the termination of {this Agreement}.
 
 PersonalData.Engage.Audit.Access.Sen={P2.Handle} shall provide access to all applicable facilities, equipment and records in order to conduct such verification.
 
 PersonalData.Engage.Expire.Sec=<b>After Termination.</b><br> Upon termination of {this Agreement}, for whatever reason: (i) {PersonalData.Engage.Expire.HaltProcessing.cl}, and (ii) {PersonalData.Engage.Expire.Survive.cl}
 
-PersonalData.Engage.Expire.HaltProcessing.cl={P2.Handle} shall stop any processing of {P1 PersonalData} and shall return to {P1.Handle} any copy and/or reproduction thereof
+PersonalData.Engage.Expire.HaltProcessing.cl={P2.Handle} shall stop any processing of {P1 Personal Data} and shall return to {P1.Handle} any copy and/or reproduction thereof
 
-PersonalData.Engage.Expire.Survive.cl=these obligations regarding {P1 PersonalData} shall remain in full force
+PersonalData.Engage.Expire.Survive.cl=these obligations regarding {P1 Personal Data} shall remain in full force
 	                      
 TangibleProperty.Sec=<b>Physical Property.</b><br>{TangibleProperty.Owned.Sec}  {TangibleProperty.Marked.Sec}  {TangibleProperty.Substitution.Sec}  {TangibleProperty.RiskOfLoss.Sec}
 
@@ -511,6 +512,8 @@ Misc.Valid.Sec=<b>Valid and Enforceable.</b><br> Each {party} represents that up
 
 Misc.Waiver.Sec=<b>Waiver.</b><br> To the maximum extent permitted by applicable law:<ol><li>no claim or right arising out of {this Agreement} can be waived by a {party}, in whole or in part, unless such waiver is made in a writing signed by such {party};</li><li>a waiver given by a {party} will only be applicable to the specific instance for which it is given; and</li><li>no notice to or demand on a {party} will:<ol><li>waive or otherwise affect any obligation of that {party}, or</li><li>affect the right of the {party} giving such notice or demand to take further action without notice or demand as provided in {this Agreement}.</li></ol></li></ol>
 
+
+
 Model.Root={DocBody}
 
 DocBody={Agt.Meta}{Agt.Prologue}<br>{Agt.Secs}<br>{Agt.Sign}<br>{Agt.Attach}
@@ -611,4 +614,4 @@ Assure.3.2-4.Xnum={Assure.Insurance.Xnum} 2-4
 IP.P1.Property.Assign.Xnum={IP.Xnum}.1.2
 Integrity Guide={m-}Integrity Guide{-m}
 Stop.ForDefault.Xnum={Time.Xnum}.6
-          
+                
