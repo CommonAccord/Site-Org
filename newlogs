@@ -1,0 +1,86 @@
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php?action=source&file=01/Agt/Type/MSA/Form_V01
+    [HTTP_ACCEPT_ENCODING] => gzip,deflate,sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8za mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 10.220.235.250
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 10.220.235.250
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 53771
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=list&file=01/Agt/Type/MSA/
+    [REQUEST_URI] => /commonaccord/index.php?action=list&file=01/Agt/Type/MSA/
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1415235113.188
+    [REQUEST_TIME] => 1415235113
+    [argv] => Array
+        (
+            [0] => action=list&file=01/Agt/Type/MSA/
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+01/Agt/Type/MSA/
+
+Array
+(
+    [HTTP_HOST] => hazardj.local
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+    [HTTP_REFERER] => http://hazardj.local/commonaccord/index.php
+    [HTTP_ACCEPT_ENCODING] => gzip,deflate,sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,fr;q=0.6
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.26 (Unix) PHP/5.4.30 DAV/2 mod_ssl/2.2.26 OpenSSL/0.9.8za mod_perl/2.0.7 Perl/v5.16.2
+    [SERVER_NAME] => hazardj.local
+    [SERVER_ADDR] => 10.0.1.68
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 10.0.1.68
+    [DOCUMENT_ROOT] => /Library/WebServer/Documents
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Library/WebServer/Documents/commonaccord/index.php
+    [REMOTE_PORT] => 60683
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => action=list&file=01/Agt/Type/MSA/
+    [REQUEST_URI] => /commonaccord/index.php?action=list&file=01/Agt/Type/MSA/
+    [SCRIPT_NAME] => /commonaccord/index.php
+    [PHP_SELF] => /commonaccord/index.php
+    [REQUEST_TIME_FLOAT] => 1415284140.948
+    [REQUEST_TIME] => 1415284140
+    [argv] => Array
+        (
+            [0] => action=list&file=01/Agt/Type/MSA/
+        )
+
+    [argc] => 1
+)
+
+::: Array
+(
+)
+
+01/Agt/Type/MSA/
+
