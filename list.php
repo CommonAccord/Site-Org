@@ -24,8 +24,8 @@ if(! ($dir == './')) {
 
 $files = scandir($path.$dir);
 
-if(file_exists($dir . 'include.php'))
-    include $dir . 'include.php';
+if(file_exists($path.$dir . 'include.php'))
+    include $path.$dir . 'include.php';
 
 echo '<br><div class="listings">';
 echo "<div id='content-list'>";
