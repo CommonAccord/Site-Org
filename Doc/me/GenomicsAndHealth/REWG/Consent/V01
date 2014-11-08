@@ -29,43 +29,45 @@ Consent.DocBody={Heading}<br><hr><br>{Consent.Secs}<br><br>{Consent.Sign}
 
 Heading=<table><tr><td valign="top">Principal Investigator:</td><td width="10%"></td><td>{Project.Inv1.Name.Full}</td></tr><tr><td valign="top">Organization Name: </td><td width="10%"></td><td>{Project.Org.Name.Full}</td></tr><tr><td valign="top">Funded by:</td><td width="10%"></td><td>{Project.FundersAndSponsors}</td></tr><tr><td valign="top">Contact Person:</td><td width="10%"></td><td>{Project.Contact.N/1/2}</td></tr></table>
 
-Consent.Secs=<ol><li>{1.Sec}</li><li>{2.Sec}</li><li>{3.Sec}</li><li>{4.Sec}</li><li>{5.Sec}</li><li>{6.Sec}</li><li>{7.Sec}</li><li>{8.Sec}</li><li>{9.Sec}</li><li>{10.Sec}</li><li>{11.Sec}</li><li>{12.Sec}</ol>
+Consent.Secs=<ol><li>{Intro.Sec}</li><li>{Purpose.Sec}</li><li>{3.Sec}</li><li>{4.Sec}</li><li>{5.Sec}</li><li>{6.Sec}</li><li>{7.Sec}</li><li>{8.Sec}</li><li>{9.Sec}</li><li>{10.Sec}</li><li>{11.Sec}</li><li>{12.Sec}</ol>
 
-1.Sec=<b>{1.Title}</b><br><br>{1.1}<br><br>{1.2}<br>{1.3}<br><br>{1.4}<br><br>{1.5}<br><br>{1.6}<br><br>
+Intro.Sec=<b>{Intro.Title}</b><br><br>{Intro.Intro}<br><br>{Intro.2}<br>{Intro.DataStorage}<br><br>{Intro.4}<br><br>{Intro.5}<br><br>{Intro.6}<br><br>
 
-1.Title=Introduction
+Intro.Title=Introduction
 
-1.1=We invite you to be part of the {Project.Name.Full}. This project collaborates with researchers from around the world in studies approved and monitored by {Project.REB.Name.Full}.  This project is guided by {Framework.URL}.
+Intro.1=We invite you to be part of the {Project.Name.Full}. This project collaborates with researchers from around the world in studies approved and monitored by {Project.REB.Name.Full}.  This project is guided by {Framework.URL}.
 
 Framework.URL=[[GenomicsAndHealth/REWG/Framework/V01|the Framework for Responsible Sharing of Genomic and Health-Related Data]]
 
-1.2=The {Project.Name.Full} will include some or all of the following: {1.2.List}
+Intro.2=The {Project.Name.Full} will include some or all of the following: {Intro.2.List}
 
-1.2.List=<ol><li>{1.2.1};</li><li>{1.2.2};</li><li>{1.2.3}; and</li><li>{1.2.4}.</ol>  
-1.2.1=Data collected during the project
-1.2.2=Some data from your medical file or other personal and health information
-1.2.3=Your self-reported health related data
-1.2.4=Data from your stored tissues
-
-
-1.3=Any data that may identify you will be kept in what are called controlled-access databases. This means researchers must have permission from a review committee to use the data that you and other participants have provided (see section 8. How will you protect my privacy?).  Such approved data may be shared online with researchers around the world. The results of studying your data will also be presented at conferences and in scientific publications. You will NOT be identified. 
-
-1.4=You can learn more information about the organization of this project and general results when they become available at: {Project.www.me.com}.      
-
-1.5=This project has been reviewed by {Project.REB.Name.Full}
-
-1.6=If you think you might want to participate in this project, please read the rest of this form and take as much time as you need to ask questions.  The decision about whether to participate is completely up to you. Your decision to participate in the study will NOT affect your medical care.  
+Intro.2.List=<ol><li>{Intro.2.1};</li><li>{Intro.2.2};</li><li>{Intro.2.3}; and</li><li>{Intro.2.4}.</ol>  
+Intro.2.1=Data collected during the project
+Intro.2.2=Some data from your medical file or other personal and health information
+Intro.2.3=Your self-reported health related data
+Intro.2.4=Data from your stored tissues
 
 
-2.Sec=<b>{2.Title}</b><br><br>{2.1}<br><br>{2.2}<br><br>{2.3}<br><br>
+Intro.DataStorage=Any data that may identify you will be kept in what are called controlled-access databases. This means researchers must have permission from a review committee to use the data that you and other participants have provided (see section 8. How will you protect my privacy?).  Such approved data may be shared online with researchers around the world. The results of studying your data will also be presented at conferences and in scientific publications. You will NOT be identified. 
 
-2.Title=What is the purpose of this research?
+Intro.4=You can learn more information about the organization of this project and general results when they become available at: {Project.www.me.com}.      
 
-2.1=Genes are the basic “instruction book” for the cells that make up our bodies. All genes are made of DNA.  The DNA of a person is more than 99% the same as the DNA of any other person, but no two people have exactly 100% the same DNA except for identical twins. The complete set of DNA in your body, including all its genes, is called your genome.  Although our DNA is very similar to each other, your genomic data is entirely unique. Variations in the genome explain some of the physical differences between people, and partly explain why some develop diseases like cancer, diabetes, asthma, and depression, while others do not.  At present, it is generally not possible to predict which changes in DNA lead to disease or health.
+Intro.5=This project has been reviewed by {Project.REB.Name.Full}
 
-2.2=We have also found important differences in DNA between population groups. Only by comparing your DNA and medical data with that of other people can we identify patterns and relationships in the genes, together with the environment, to help us better understand health and disease. Thus, the purpose of the {Project.Name.Full} is to {Project.Description}. 
+Intro.6=If you think you might want to participate in this project, please read the rest of this form and take as much time as you need to ask questions.  The decision about whether to participate is completely up to you. Your decision to participate in the study will NOT affect your medical care.  
 
-2.3=This is research, and not medical care. You should see a physician for any health problems or medical questions you might have.
+
+Purpose.Sec=<b>{Purpose.Title}</b><br><br>{Purpose.sec}
+
+Purpose.sec={Purpose.1}<br><br>{Purpose.Purpose}<br><br>{Purpose.3}<br><br>
+
+Purpose.Title=What is the purpose of this research?
+
+Purpose.1=Genes are the basic “instruction book” for the cells that make up our bodies. All genes are made of DNA.  The DNA of a person is more than 99% the same as the DNA of any other person, but no two people have exactly 100% the same DNA except for identical twins. The complete set of DNA in your body, including all its genes, is called your genome.  Although our DNA is very similar to each other, your genomic data is entirely unique. Variations in the genome explain some of the physical differences between people, and partly explain why some develop diseases like cancer, diabetes, asthma, and depression, while others do not.  At present, it is generally not possible to predict which changes in DNA lead to disease or health.
+
+Purpose.2=We have also found important differences in DNA between population groups. Only by comparing your DNA and medical data with that of other people can we identify patterns and relationships in the genes, together with the environment, to help us better understand health and disease. Thus, the purpose of the {Project.Name.Full} is to {Project.Description}. 
+
+Purpose.3=This is research, and not medical care. You should see a physician for any health problems or medical questions you might have.
 
 3.Sec=<b>{3.Title}</b><br><br>{3.1}<br><br>
 
@@ -209,5 +211,7 @@ Sign.7.Yes=<b>Yes</b><br><br>Your email/address: {Subject.Email}<br><br>Signatur
 
 Sign.8=Researcher Signature {Researcher.xSignature}<br><br>Date {Researcher.Sign.YMD}<br><br>Copy given to participant: {Researcher.Confirm.CopyGivenToSubject!}
 
+m-=<font color="magenta">
+-m=</font>
 </field>
-            
+  
