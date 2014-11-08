@@ -1,0 +1,15 @@
+Contact.=[core/id/solomon_shirley]
+Inv1.=[core/id/andrea_ang]
+Ombuds.=[core/id/colleen_kendall]
+PersonalData.Retained.Duration={m-}seven years{-m}
+PersonalDataOfficer.=[core/id/geraldine_graber]
+Org.=[core/id/mit]
+Funder.=[core/id/nih]
+
+FundersAndSponsors={m-}{Funder.Name.Full}{-m}
+REB.Name.Full={m-}{Org.OSP}{-m}
+Name.Full={m-}Aphasia Inquiry{-m}
+www.me.com={m-}aphalasia.org{-m}
+Description={m-}longitudinal study of latitudinal aphasia{-m}
+Duration.Expected={m-}3 years{-m}
+           

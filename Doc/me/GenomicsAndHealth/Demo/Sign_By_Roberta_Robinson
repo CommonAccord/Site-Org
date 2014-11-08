@@ -1,0 +1,14 @@
+Subject.=[core/id/roberta_robinson]
+Researcher.=[core/id/alison_andrews]
+
+Sign.6.Answer={m-}Yes{-m}
+
+Sign.7.Answer={m-}{Sign.7.Yes}{-m}
+=[me/GenomicsAndHealth/Demo/Consent_To_Study_GA4GH]
+
+Subject.xSignature={m-}xROBERTA ROBINSON{-m}
+Subject.Sign.YMD={m-}November 7, 2014{-m}
+Researcher.xSignature={m-}xALISON ANDREWS{-m}
+Researcher.Sign.YMD={m-}November 7, 2014{-m}
+Researcher.Confirm.CopyGivenToSubject!={m-}YES!{-m}
+                 
