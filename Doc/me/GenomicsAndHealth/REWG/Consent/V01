@@ -31,7 +31,7 @@ Heading=<table><tr><td valign="top">Principal Investigator:</td><td width="10%">
 
 Consent.Secs=<ol><li>{Intro.Sec}</li><li>{Purpose.Sec}</li><li>{3.Sec}</li><li>{4.Sec}</li><li>{5.Sec}</li><li>{6.Sec}</li><li>{7.Sec}</li><li>{8.Sec}</li><li>{9.Sec}</li><li>{10.Sec}</li><li>{11.Sec}</li><li>{12.Sec}</ol>
 
-Intro.Sec=<b>{Intro.Title}</b><br><br>{Intro.Intro}<br><br>{Intro.2}<br>{Intro.DataStorage}<br><br>{Intro.4}<br><br>{Intro.5}<br><br>{Intro.6}<br><br>
+Intro.Sec=<b>{Intro.Title}</b><br><br>{Intro.1}<br><br>{Intro.2}<br>{Intro.DataStorage}<br><br>{Intro.4}<br><br>{Intro.5}<br><br>{Intro.6}<br><br>
 
 Intro.Title=Introduction
 
@@ -214,4 +214,3 @@ Sign.8=Researcher Signature {Researcher.xSignature}<br><br>Date {Researcher.Sign
 m-=<font color="magenta">
 -m=</font>
 </field>
-  
