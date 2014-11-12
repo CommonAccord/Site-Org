@@ -36,6 +36,8 @@ if(isset($_REQUEST['submit'])) {
 	$fp = fopen($path.$dir, "w");
 	$data = $_REQUEST['newcontent'];
 	$data = preg_replace('/\r\n/', "\n", $data);
+	$data = trim($data);
+	echo "[$data]";
 	fwrite($fp, $data);
 	fclose($fp);
 }
