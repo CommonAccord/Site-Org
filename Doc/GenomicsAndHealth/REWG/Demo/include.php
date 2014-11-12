@@ -4,7 +4,7 @@
 </style>
 
 <div class="row">
-This example illustrate the use of CommonAccord for the creation of Consent Forms, which can inherit different clauses according to the language or jurisdiction that needs to be used. Switch between the different tabs (Source, Render, or Edit) to see how it works:
+This example illustrates the use of CommonAccord for the creation of Consent Forms, which can inherit different clauses according to the language or jurisdiction that needs to be used. Switch between the different tabs (Source, Render, or Edit) to see how it works:
 <ul>
 <li><a href="http://commonaccord.org/index.php?action=source&file=./GenomicsAndHealth/REWG/Consent/Outline_V01">Outline_V01</a>: Organise the taxonomy of the template Consent Forms</li>
 <li><a href="http://commonaccord.org/index.php?action=source&file=./GenomicsAndHealth/REWG/Consent/US/Form_V01">Form_US</a>: An US-based instantiation of the Consent Form</li>
