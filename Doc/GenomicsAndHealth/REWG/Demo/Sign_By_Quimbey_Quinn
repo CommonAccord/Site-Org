@@ -2,9 +2,8 @@ Subject.=[core/id/quimbey_quinn]
 
 =[GenomicsAndHealth/Demo/Sign_By_Roberta_Robinson]
 
-Subject.xSignature={m-}xQUIMBEY QUINN{-m}
-Subject.Sign.YMD={m-}November 8, 2014{-m}
-Researcher.xSignature={m-}xALISON ANDREWS{-m}
-Researcher.Sign.YMD={m-}November 8, 2014{-m}
-Researcher.Confirm.CopyGivenToSubject!={m-}YES!{-m}
-                 
+Subject.xSignature=xQUIMBEY QUINN
+Subject.Sign.YMD=November 8, 2014
+Researcher.xSignature=xALISON ANDREWS
+Researcher.Sign.YMD=November 8, 2014
+Researcher.Confirm.CopyGivenToSubject!=YES!

@@ -6,8 +6,9 @@ Note/9.2.1=Contact information
 
 9.2.1.Sen={9.2.1.PhoneEmail}
 
-3.1.List={m-}{3.1.List.123.cl}{-m}
+3.1.List={3.1.List.123.cl}
 
 Note/5.1=5 Concerns compensation.  The choice "5.1.N" means no compensation. "5.1.R" provides for reimbursement.
 
-5.1.sec={m-}{5.1.N.sec}{-m}
+5.1.sec={5.1.N.sec}
+Model.Root={Doc}
