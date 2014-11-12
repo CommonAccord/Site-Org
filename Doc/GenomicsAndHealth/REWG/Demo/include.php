@@ -2,6 +2,7 @@
 /.listings { display: none;
 }
 </style>
+<img src="./Doc/GenomicsAndHealth/REWG/Demo/cmacc-consent.png"><br>
 
 <div class="row">
 This example illustrates the use of CommonAccord for the creation of Consent Forms, which can inherit different clauses according to the language or jurisdiction that needs to be used. Switch between the different tabs (Source, Render, or Edit) to see how it works:
@@ -23,5 +24,4 @@ This example illustrates the use of CommonAccord for the creation of Consent For
 <li><a href="http://commonaccord.org/index.php?action=source&file=./GenomicsAndHealth/REWG/Demo/Study_Signatures">A Listing of the Signatures from Each Donor</a></li></li>
    
 </ul>
-<img src="./Doc/GenomicsAndHealth/REWG/Demo/cmacc-consent.png"><br>
 </div>
