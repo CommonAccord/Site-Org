@@ -219,16 +219,14 @@ Sign.4.6=um den Zugriff auf Daten von meinem eingelagerten Gewebe zum Studium ge
  
 Sign.5=Ich weiß, dass die Teilnahme ist meine Wahl. Ich verstehe, dass ich jederzeit ohne Angabe von Gründen widerrufen.
  
-Sign.6=Ich stimme wieder kontaktiert werden, um meine Daten zu aktualisieren oder in neue Forschungsprojekte einbezogen werden: <br> {ContactForFutureStudy.Answer}
-ContactForFutureStudy.Answer={ContactForFutureStudy.Answer } - Ja oder Nein
- 
-Sign.7=Ich stimme wieder kontaktiert werden, wenn medizinische Informationen gefunden, die nützlich für mich und mein Arzt sein könnte: <br> {ContactForFutureCare.Answer}
-ContactForFutureCare.Answer={ContactForFutureCare.Answer } - {ContactForFutureCare.Yes} oder Nein
+Sign.6=Ich stimme wieder kontaktiert werden, um meine Daten zu aktualisieren oder in neue Forschungsprojekte einbezogen werden: <br> {m-}{KontaktAkademische}{-m}
+KontaktAkademische={KontaktAkademische } - Ja oder Nein
+
+Sign.7=Ich stimme wieder kontaktiert werden, wenn medizinische Informationen gefunden, die nützlich für mich und mein Arzt sein könnte: <br> {m-}{KontaktMedezinische}{-m}
+KontaktMedezinische={KontaktMedezinische } -  Ja oder Nein
  
 Sign.7.Alt=Einfügen lokaler Politik für die Rückkehr Einzelergebnisse
  
 ContactForFutureCare.Yes=Ja
  
-Sign.8=Ihre E-Mail / Adresse: {m -}{Donor.Email}{-m} <br> Signatur: {m-}{Donor.xSignature}{-m}<br>Datum {m-}{Donor.Sign.YMD}{-m} <br> Kliniker Signature {m-}{Clinician.xSignature}{-m}<br> Datum {m-} {Clinician.Sign.YMD}{-m}<br> Kopie an Teilnehmer gegeben: {m-}{Clinician.Confirm.CopyGivenToSubject}{-m}
-
-</field>
+Sign.8=Ihre E-Mail / Adresse: {m-}{Donor.Email}{-m} <br> Signatur: {m-}{Donor.xSignature}{-m}<br>Datum {m-}{Donor.Sign.YMD}{-m} <br> Kliniker Signature {m-}{Clinician.xSignature}{-m}<br> Datum {m-} {Clinician.Sign.YMD}{-m}<br> Kopie an Teilnehmer gegeben: {m-}{KopieAnTeilNehmer}{-m}

@@ -1,7 +1,5 @@
 Study.=[GenomicsAndHealth/REWG/Demo/Study_N01]
 
-=[GenomicsAndHealth/REWG/Consent/US/Form_V01]
-
 Note/9.2.1=Contact information
 
 9.2.1.Sen={9.2.1.PhoneEmail}
@@ -11,4 +9,3 @@ Note/9.2.1=Contact information
 Note/5.1=5 Concerns compensation.  The choice "5.1.N" means no compensation. "5.1.R" provides for reimbursement.
 
 5.1.sec={5.1.N.sec}
-Model.Root={Doc}

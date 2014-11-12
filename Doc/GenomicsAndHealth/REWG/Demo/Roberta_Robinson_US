@@ -1,4 +1,4 @@
-=[GenomicsAndHealth/REWG/Demo/Consent_To_Study_GA4GH]
+=[GenomicsAndHealth/REWG/Demo/Consent_To_Study_US]
 
 Donor.=[core/id/roberta_robinson]
 
@@ -17,4 +17,3 @@ Clinician.xSignature=xALISON ANDREWS
 Clinician.Sign.YMD=November 7, 2014
 
 Clinician.Confirm.CopyGivenToSubject!=YES!
-                             

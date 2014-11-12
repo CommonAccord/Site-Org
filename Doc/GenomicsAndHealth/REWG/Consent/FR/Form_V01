@@ -1,5 +1,5 @@
 =[GenomicsAndHealth/REWG/Consent/Outline_V01]
-Study.Inv1.Role=chercheur principal
+Study.Inv1.Role=Chercheur principal
 Study.Org.Role=Organisation
 Study.Funder.Role=Financé par
 Study.Contact.Role=Personne à contacter
@@ -28,7 +28,7 @@ Doc.Ti=GA4GH modèle de partage de données Formulaire de consentement
 
 1.1.3.Sen=Ce projet est guidé par {Framework.URL}.
 
-Framework.URL=[[GenomicsAndHealth/REWG/Cadre/V01 | le Cadre d'échange de responsable de génomique et la santé liés à des données]]
+Framework.URL=www.commonaccord.org/GenomicsAndHealth/REWG/Cadre/V01
 
 1.2.sec=Le {Study.Name.Full} comprendra tout ou partie de ce qui suit: {1.2.List}
 
@@ -118,9 +118,9 @@ Framework.URL=[[GenomicsAndHealth/REWG/Cadre/V01 | le Cadre d'échange de respons
 
 5.Ti=Serai-je payé pour participer?
 
-5.1.sec.N=vous <b> pas </b> seront remboursés ou payés. {5.1.2.Sen}
+5.1.N.sec=vous <b> pas </b> seront remboursés ou payés. {5.1.2.Sen}
 
-5.1.sec.R=Vous serez remboursé pour les désagréments tels que le temps de Voyage. {5.1.2.Sen}
+5.1.R.sec=Vous serez remboursé pour les désagréments tels que le temps de Voyage. {5.1.2.Sen}
 
 5.1.2.Sen=Une partie de la recherche effectuée avec les informations stockées dans les bases de données pourrait un jour conduire à la mise au point de logiciels, tests, médicaments ou d'autres produits commerciaux. Si cela se produit, vous ne recevrez pas de bénéfices.
 
@@ -198,4 +198,33 @@ Framework.URL=[[GenomicsAndHealth/REWG/Cadre/V01 | le Cadre d'échange de respons
 
 Sign.Ti=consentement à participer
 
-</field>
+Sign.Ti=consentement à participer
+ 
+Sign.1=Consentement et signature
+ 
+Sign.2=Se il vous plaît lire les informations ci-dessous, et signer si vous êtes d'accord.
+ 
+Sign.3=I ont été fourni toutes les informations que je dois prendre une décision. Je suis en mesure de poser des questions si je ne comprenais pas l'information.
+ 
+Sign.4.Intro=je suis d'accord :
+
+Sign.4.1=que mes données personnelles, médicales et génétiques peuvent être déposés dans les bases de données scientifiques en ligne, à accès contrôlé
+Sign.4.2=que mes données seront étudiés par des chercheurs de partout dans le monde
+Sign.4.3=que je ne vais pas être identifiée dans des publications scientifiques et à des conférences
+Sign.4.4=que je ne recevrai pas les bénéfices si le produit (s) valeur commerciale résulte de ces études
+Sign.4.5=que mes données ne peuvent pas être supprimés si il est déjà utilisé dans un ensemble de données ou d'une publication
+Sign.4.6=pour donner accès aux données de mes tissus conservés pour étude le cas échéant
+ 
+Sign.5=je sais que la participation est mon choix. Je comprends que je peux retirer à tout moment sans avoir à donner une raison.
+ 
+Sign.6=Je suis d'accord pour être recontactés pour mettre à jour mes données, ou de participer à de nouveaux projets de recherche: <br>{m-}{ContactForFutureStudy.Answer}{-m}
+ContactForFutureStudy.Answer={ContactForFutureStudy.Answer } - Oui ou Non
+ 
+Sign.7=Je suis d'accord pour être recontactés si l'information médicale est constaté que pourrait être utile pour moi et mon médecin: <br> {m-}{ContactForFutureCare.Answer}{-m}
+ContactForFutureCare.Answer={ContactForFutureCare.Answer } Oui ou Non
+ 
+Sign.7.Alt=Insérer politique locale sur le retour des résultats individuels
+ 
+ContactForFutureCare.Yes=Oui
+ 
+Sign.8=Votre e-mail / adresse: {m-}{Donor.Email}{-m}<br> Signature: {m-} {Donor.xSignature}{-m} <br> Date {m-}{Donor.Sign.YMD}{-m}<br> Chercheur signature {m-}{Clinician.xSignature}{-m}<br> date {m-}{Clinician.Sign.YMD}{-m}<br> Copie donnée de participant: {m-}{Clinician.Confirm.CopyGivenToSubject}{-m}
