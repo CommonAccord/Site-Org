@@ -1,3 +1,10 @@
+1=hazardj: <br>This is my skim of the info. 
+
+2=Following on Brian's suggestion of a profile - this might be a start.  I would suggest that these be treated as connected records.  The applicant is a person, who is connected to a business, which has a location, and has employees, and has a landlord, etc.  
+
+3=List: <ol><li>Name.First</li><li>Name.Last</li><li>Addr.Full</li><li>Email</li><li>Phone.Main</li><li>Phone.Mobile</li><li>SocialSecurity#</li><li>DUNS#</li><li>Immigrant?</li><li>Ethnicity?</li><li>Language?</li><li>Business.Name.Full</li><li>Business.Addr.Full</li><li>Business.(What is the classication system?)Sector</li><li>Business.Desc.Stage</li><li>Business.Billing.Addr.Full</li><li>Business.FIN</li><li>Business.Desc.Minority_Owned?</li><li>Business.Desc.Woman_Owned?</li><li>Business.Desc.Employee.Count</li><li>Business.Desc.Jobs.Count</li><li>Business.Addr.Surface.SquareFeet</li><li>Business.Desc.Began.Year</li><li>SHOULD BE ABLE TO DETERMINE FROM ADDRESS - In a Main Street District? (Yes, No) - If yes, which Main Street District</li></ol>
+
+Model.Root={3}
 <div style="border:1px solid #ccc;padding:5px 10px;">
 <p><strong>Overview</strong></p>
 
@@ -11,9 +18,9 @@
 
 <p><strong>The Solution:</strong></p>
 
-<p>The &ldquo;Open ID Connect&rdquo; project aims to ease this pain point by building an &ldquo;Open ID&rdquo; architecture which will allow users to develop identity profiles which can be used, with the users permission, to provide basic personal information to applications, and avoid the need for repetitive data entry.</p>
+<p>The “Open ID Connect” project aims to ease this pain point by building an “Open ID” architecture which will allow users to develop identity profiles which can be used, with the users permission, to provide basic personal information to applications, and avoid the need for repetitive data entry.</p>
 
-<p>In addition to providing a better experience when completing forms and applications, the personal identity profiles which contain &ldquo;richer&rdquo; personal information which can be provided by the user to the City as desired to allow for a richer, more targeted delivery of services based on user profiles.</p>
+<p>In addition to providing a better experience when completing forms and applications, the personal identity profiles which contain “richer” personal information which can be provided by the user to the City as desired to allow for a richer, more targeted delivery of services based on user profiles.</p>
 
 <p>Forms targeted for this initial protoype include:</p>
 
@@ -32,8 +39,8 @@
 	<li>Gender</li>
 	<li>Ethnicity</li>
 	<li>Financial Data (Tax, Revenue)</li>
-	<li>&ldquo;Assistance Needed&rdquo;</li>
-	<li>&ldquo;Preferences&rdquo; or &ldquo;Interests&rdquo;</li>
+	<li>“Assistance Needed”</li>
+	<li>“Preferences” or “Interests”</li>
 </ul>
 
 <p><strong>The Approach:</strong></p>
@@ -59,6 +66,27 @@
 	<li>Neighborhood</li>
 	<li>Sector</li>
 	<li>Assistance Needed</li>
+	<li>Name</li>
+	<li>Phone</li>
+	<li>Mobile</li>
+	<li>Email</li>
+	<li>Address</li>
+	<li>Stage of Business (Concept Stage, Established)</li>
+	<li>Business Legal Name (on W9)</li>
+	<li>Billing Address</li>
+	<li>FIN #</li>
+	<li>SS #</li>
+	<li>DUNS #</li>
+	<li>In a Main Street District? (Yes, No) - If yes, which Main Street District</li>
+	<li>Minority Owned?</li>
+	<li>Woman Owned?</li>
+	<li>Immigrant?</li>
+	<li>Ethnicity?</li>
+	<li>Language?</li>
+	<li># of Employees</li>
+	<li>Current # of Jobs</li>
+	<li>Square Feet</li>
+	<li>Year Business Started</li>
 </ol>
 
 <p><strong>From ReStore Application</strong></p>
@@ -115,45 +143,45 @@
 	<li>Cell</li>
 	<li>Email</li>
 	<li>Federal ID# or SSN</li>
-	<li>D&amp;B #</li>
+	<li>D&B #</li>
 	<li>Sales Tax Exemption (Yes, No), if yes than what State</li>
 </ol>
 
-<p><strong>From Permitting &amp; Licensing Wizard</strong></p>
+<p><strong>From Permitting & Licensing Wizard</strong></p>
 
 <p><strong>Will you have any non-live entertainment?</strong></p>
 
-<p>You&#39;ve answered yes . Please see the information below. You will need to obtain a Non-Live Entertainment License. To apply, fill out this form and bring it, in person (with all the required attachm</p>
+<p>You've answered yes . Please see the information below. You will need to obtain a Non-Live Entertainment License. To apply, fill out this form and bring it, in person (with all the required attachm</p>
 
 <p><strong>Do you plan on setting up tables or other displays of your merchandise on the sidewalk outside your business?</strong></p>
 
-<p>You&#39;ve answered yes . Please see the information below. If the sidewalk is a public sidewalk, you will need to get approval from the Department of Public Works:</p>
+<p>You've answered yes . Please see the information below. If the sidewalk is a public sidewalk, you will need to get approval from the Department of Public Works:</p>
 
 <p><strong>Will you be using a generator, or storing or using any potentially hazardous materials such as propane or diesel?</strong></p>
 
-<p>You&#39;ve answered yes . Please see the information below. You will need to apply for a General Permit from the Boston Fire Department:</p>
+<p>You've answered yes . Please see the information below. You will need to apply for a General Permit from the Boston Fire Department:</p>
 
 <p><strong>Will you be doing nails in your salon?</strong></p>
 
-<p>You&#39;ve answered yes . Please see the information below. All nail salons in the City of Boston must be permitted by the Boston Public Health Commission. You can find the application here:</p>
+<p>You've answered yes . Please see the information below. All nail salons in the City of Boston must be permitted by the Boston Public Health Commission. You can find the application here:</p>
 
 <p><strong>Will you be serving any potentially hazardous food items?</strong></p>
 
-<p>You&#39;ve answered yes . Please see the information below. At least one full-time person on your staff must be certified as a food protection manager. See the guidelines here:</p>
+<p>You've answered yes . Please see the information below. At least one full-time person on your staff must be certified as a food protection manager. See the guidelines here:</p>
 
 <p><strong>Are your hair stylist, manicurist, and/or massage personnel licensed?</strong></p>
 
-<p>You&#39;ve answered I don&#39;t know . Please see the information below.</p>
+<p>You've answered I don't know . Please see the information below.</p>
 
 <p>To check if someone has a license and is in good standing with the Massachusetts Divison of Professional Licensure, visit:</p>
 
 <p><strong>Does your construction project involve the use of a torch or welder?</strong></p>
 
-<p>You&#39;ve answered yes . Please see the information below. You will need to obtain a Cutting / Burning / Welding Permit from the Boston Fire Department:</p>
+<p>You've answered yes . Please see the information below. You will need to obtain a Cutting / Burning / Welding Permit from the Boston Fire Department:</p>
 
 <p><strong>Will you be selling any tobacco products?</strong></p>
 
-<p>You&#39;ve answered I don&#39;t know . Please see the information below. In order to sell tobacco products you must first obtain a City of Boston Permit for Location and Sales of Tobacco Products. To apply for this permit, you m</p>
+<p>You've answered I don't know . Please see the information below. In order to sell tobacco products you must first obtain a City of Boston Permit for Location and Sales of Tobacco Products. To apply for this permit, you m</p>
 
 <p><strong>Information for Restaurants</strong></p>
 
@@ -161,267 +189,267 @@
 
 <p><strong>Do you know what the zoning code does and does not allow you to do with your space?</strong></p>
 
-<p>You&#39;ve answered no . Please see the information below. Zoning determines how property can be used. It is very important to ensure, before starting the permitting process, that what you&rsquo;re plannin</p>
+<p>You've answered no . Please see the information below. Zoning determines how property can be used. It is very important to ensure, before starting the permitting process, that what you’re plannin</p>
 
 <p><strong>Will you have a pool table?</strong></p>
 
-<p>You&#39;ve answered yes . Please see the information below. You will need to fill out this form and bring it, in person, to the Boston Licensing Board (City Hall, Room 809):</p>
+<p>You've answered yes . Please see the information below. You will need to fill out this form and bring it, in person, to the Boston Licensing Board (City Hall, Room 809):</p>
 
 <p><strong>Do you have all the financing you need to complete your project?</strong></p>
 
-<p>You&#39;ve answered no . Please see the information below. The Boston Business Hub has compiled many helpful resources:</p>
+<p>You've answered no . Please see the information below. The Boston Business Hub has compiled many helpful resources:</p>
 
 <p><strong>Will you have any live entertainment?</strong></p>
 
-<p>You&#39;ve answered I don&#39;t know . Please see the information below. If you decide to have live entertainment in your business, you will need to obtain a live entertainment license.</p>
+<p>You've answered I don't know . Please see the information below. If you decide to have live entertainment in your business, you will need to obtain a live entertainment license.</p>
 
 <p><strong>Will you be putting up a sign or canopy?</strong></p>
 
-<p>You&#39;ve answered Yes, but not in a Main Streets District, Historic District, or special overlay zoning district . Please see the information below. If your sign meets local zoning requirements, no design review is needed.</p>
+<p>You've answered Yes, but not in a Main Streets District, Historic District, or special overlay zoning district . Please see the information below. If your sign meets local zoning requirements, no design review is needed.</p>
 
 <p><strong>Will you be building a new structure?</strong></p>
 
-<p>You&#39;ve answered I don&#39;t know . Please see the information below. Any new structure that you decide to build will need to be permitted by the Inspectional Services Department (ISD) and the Boston Fire Departmen</p>
+<p>You've answered I don't know . Please see the information below. Any new structure that you decide to build will need to be permitted by the Inspectional Services Department (ISD) and the Boston Fire Departmen</p>
 
 <p><strong>Will you be installing or altering any plumbing?</strong></p>
 
-<p>You&#39;ve answered I don&#39;t know . Please see the information below. If you do, your licensed, professional contractor will have to apply for a plumbing permit.</p>
+<p>You've answered I don't know . Please see the information below. If you do, your licensed, professional contractor will have to apply for a plumbing permit.</p>
 
 <p><strong>Does your construction project involve the use of a torch or welder?</strong></p>
 
-<p>You&#39;ve answered I don&#39;t know . Please see the information below. If this kind of work is required, you will need to apply for a Cutting / Burning / Welding Permit from the Boston Fire Department:</p>
+<p>You've answered I don't know . Please see the information below. If this kind of work is required, you will need to apply for a Cutting / Burning / Welding Permit from the Boston Fire Department:</p>
 
 <p><strong>Will you be installing or altering any electrical systems?</strong></p>
 
-<p>You&#39;ve answered I don&#39;t know . Please see the information below. If you do, your licensed, professional contractor will have to apply for an electrical permit.</p>
+<p>You've answered I don't know . Please see the information below. If you do, your licensed, professional contractor will have to apply for an electrical permit.</p>
 
 <p><strong>Do you have a location?</strong></p>
 
-<p>You&#39;ve answered I don&#39;t know , please see below for some resources to help you in your location search: The Boston Business Hub has some resources that can help you find a location:</p>
+<p>You've answered I don't know , please see below for some resources to help you in your location search: The Boston Business Hub has some resources that can help you find a location:</p>
 
 <p><strong>Do you plan on offering take-out?</strong></p>
 
-<p>You&#39;ve answered I don&#39;t know . Please see the information below. If you are thinking about offering take-out, you may want to start planning for it sooner rather than later because the approvals process may take awhile.</p>
+<p>You've answered I don't know . Please see the information below. If you are thinking about offering take-out, you may want to start planning for it sooner rather than later because the approvals process may take awhile.</p>
 
 <p><strong>Do you have a Certificate of Inspection?</strong></p>
 
-<p>You&#39;ve answered I don&#39;t know . Please see the information below. Every business with an assembly use (such as theatres, night clubs, and restaurants) must have a Certificate of Inspection (CI), and must be inspected annu</p>
+<p>You've answered I don't know . Please see the information below. Every business with an assembly use (such as theatres, night clubs, and restaurants) must have a Certificate of Inspection (CI), and must be inspected annu</p>
 
 <p><strong>Have you identified a company to perform your hood cleanings and inspections?</strong></p>
 
-<p>You&#39;ve answered no . Please see the information below. Every commercial cooking hood and exhaust system must be cleaned and inspected by a Boston Fire Department Registered Cleaner and/or Inspector. The cleaner/inspector wi</p>
+<p>You've answered no . Please see the information below. Every commercial cooking hood and exhaust system must be cleaned and inspected by a Boston Fire Department Registered Cleaner and/or Inspector. The cleaner/inspector wi</p>
 
 <p><strong>Will you be doing any minor interior or exterior renovations?</strong></p>
 
-<p>You&#39;ve answered I don&#39;t know . Please see the information below. Renovations of this kind need to be permitted by the Inspectional Services Department (ISD) and the Boston Fire Department (BFD). You can apply for sh</p>
+<p>You've answered I don't know . Please see the information below. Renovations of this kind need to be permitted by the Inspectional Services Department (ISD) and the Boston Fire Department (BFD). You can apply for sh</p>
 
 <p><strong>Do you want to offer valet parking?</strong></p>
 
-<p>You&#39;ve answered yes . Please see the information below. Contact the Boston Transportation Department&rsquo;s Off-Street Parking Division at <a href="file://localhost/tel/617-635-4489">617-635-4489</a>.</p>
+<p>You've answered yes . Please see the information below. Contact the Boston Transportation Department’s Off-Street Parking Division at <a href="file://localhost/tel/617-635-4489">617-635-4489</a>.</p>
 
 <p><strong>Will you be putting up a sign or canopy?</strong></p>
 
-<p>You&#39;ve answered Yes, but I don&#39;t know if it&#39;s in a Main Streets District, Historic District or special overlay zoning district . Please see the information below. The process for getting a sign approved depends on</p>
+<p>You've answered Yes, but I don't know if it's in a Main Streets District, Historic District or special overlay zoning district . Please see the information below. The process for getting a sign approved depends on</p>
 
 <p><strong>Will you have a dumpster that is 3 cubic yards or larger, whether for a temporary use (such as construction debris) or on a permanent basis?</strong></p>
 
-<p>You&#39;ve answered yes . Please see the information below. If you have a dumpster on-site for at least 24 hours, it must be permitted.</p>
+<p>You've answered yes . Please see the information below. If you have a dumpster on-site for at least 24 hours, it must be permitted.</p>
 
 <p>For temporary use (less than a year) of a dumpster</p>
 
 <p><strong>Will you be serving Alcohol?</strong></p>
 
-<p>You&#39;ve answered I don&#39;t know . Please see the information below. You may not serve any alcohol without a license from the Boston Licensing Board. The number of licenses</p>
+<p>You've answered I don't know . Please see the information below. You may not serve any alcohol without a license from the Boston Licensing Board. The number of licenses</p>
 
 <p><strong>Will you have any scales or bar code scanners?</strong></p>
 
-<p>You&#39;ve answered yes . Please see the information below. All food scales and scanners must be inspected by the Inspectional Services Department&#39;s Weights &amp; Measures Division. You can request</p>
+<p>You've answered yes . Please see the information below. All food scales and scanners must be inspected by the Inspectional Services Department's Weights & Measures Division. You can request</p>
 
 <p><strong>Will you be using your own Internet hookup?</strong></p>
 
-<p>You&#39;ve answered no . Please contact the Office of Business Development for further information:</p>
+<p>You've answered no . Please contact the Office of Business Development for further information:</p>
 
 <p>26 Court Street, 9th floor Boston, MA 02118 Phone: <a href="file://localhost/tel/617-635-0355">617-635-0355</a> Fax: <a href="file://localhost/tel/617-635-0282">617-635-0282</a> Webs</p>
 
 <p><strong>Will you be installing or altering any electrical systems?</strong></p>
 
-<p>You&#39;ve answered yes . Please see the information below. Your licensed, professional contractor will have to apply for an electrical permit through the following online permitting portal:</p>
+<p>You've answered yes . Please see the information below. Your licensed, professional contractor will have to apply for an electrical permit through the following online permitting portal:</p>
 
 <p><strong>Is the expected customer capacity of your establishment over 49 persons?</strong></p>
 
-<p>You&#39;ve answered I don&#39;t know . Please see the information below. Having capacity for more than 49 persons means you have to obtain a Place of Assembly Permit from the Boston Fire Department (B</p>
+<p>You've answered I don't know . Please see the information below. Having capacity for more than 49 persons means you have to obtain a Place of Assembly Permit from the Boston Fire Department (B</p>
 
 <p><strong>Will your construction work generate sufficient smoke or dust to potentially set off a fire alarm?</strong></p>
 
-<p>You&#39;ve answered yes . Please see the information below. You will need to obtain a permit for Bagging Smoke Detectors from the Boston Fire Department:</p>
+<p>You've answered yes . Please see the information below. You will need to obtain a permit for Bagging Smoke Detectors from the Boston Fire Department:</p>
 
 <p><strong>Will you be selling any tobacco products?</strong></p>
 
-<p>You&#39;ve answered yes . Please see the information below. In order to sell tobacco products you must first obtain a City of Boston Permit for Location and Sales of Tobacco Products. To apply for this permit, you must submit th</p>
+<p>You've answered yes . Please see the information below. In order to sell tobacco products you must first obtain a City of Boston Permit for Location and Sales of Tobacco Products. To apply for this permit, you must submit th</p>
 
 <p><strong>Will you be cooking using any unconventional materials not normally found in kitchens?</strong></p>
 
-<p>You&#39;ve answered I don&#39;t know . Please see the information below. If you cook using any non-conventional commercial methods, such as with propane or in a wood-burning oven, you may need to appl</p>
+<p>You've answered I don't know . Please see the information below. If you cook using any non-conventional commercial methods, such as with propane or in a wood-burning oven, you may need to appl</p>
 
 <p><strong>Will you be installing or changing hard-wired smoke alarms?</strong></p>
 
-<p>You&#39;ve answered I don&#39;t know . Please see the information below. Any work involving fire protection systems will need to be performed by a licensed professional contractor. If you are not sur</p>
+<p>You've answered I don't know . Please see the information below. Any work involving fire protection systems will need to be performed by a licensed professional contractor. If you are not sur</p>
 
 <p><strong>Will you have outdoor seating?</strong></p>
 
-<p>You&#39;ve answered I don&#39;t know . Please see the information below. In order to offer outdoor seating, you must get permission from the property owner (which is the City of Boston Department of P</p>
+<p>You've answered I don't know . Please see the information below. In order to offer outdoor seating, you must get permission from the property owner (which is the City of Boston Department of P</p>
 
 <p><strong>Do you plan on setting up tables or other displays of your merchandise on the sidewalk outside your business?</strong></p>
 
-<p>You&#39;ve answered I don&#39;t know . Please see the information below. If you decide to use the sidewalk in front of your business, you will need to ensure you are in compliance with local zoning re</p>
+<p>You've answered I don't know . Please see the information below. If you decide to use the sidewalk in front of your business, you will need to ensure you are in compliance with local zoning re</p>
 
 <p><strong>Do you plan on setting up tables or other displays of your merchandise on the sidewalk outside your business?</strong></p>
 
-<p>You&#39;ve answered I don&#39;t know . Please see the information below. If you decide to use the sidewalk in front of your business, you will need to ensure you are in compliance with local zoning requ</p>
+<p>You've answered I don't know . Please see the information below. If you decide to use the sidewalk in front of your business, you will need to ensure you are in compliance with local zoning requ</p>
 
 <p><strong>Does the current Certificate of Occupancy list the use type for your business?</strong></p>
 
-<p>You&#39;ve answered I don&#39;t know . Please see the information below. You must have a valid Certificate of Occupancy (CO) before you may legally open for business. It is therefore important to fig</p>
+<p>You've answered I don't know . Please see the information below. You must have a valid Certificate of Occupancy (CO) before you may legally open for business. It is therefore important to fig</p>
 
 <p><strong>Will you be installing or changing fire protection systems other than sprinklers or hard-wired smoke alarms?</strong></p>
 
-<p>You&#39;ve answered yes . Please see the information below. All work must be done by a licensed, professional contractor. Your contractor will need to apply for the following: A Long Form P</p>
+<p>You've answered yes . Please see the information below. All work must be done by a licensed, professional contractor. Your contractor will need to apply for the following: A Long Form P</p>
 
 <p><strong>Will you have any non-live entertainment?</strong></p>
 
-<p>You&#39;ve answered I don&#39;t know . Please see the information below. If you decide to have non-live entertainment in your business, you will need to obtain a live entertainment license. F</p>
+<p>You've answered I don't know . Please see the information below. If you decide to have non-live entertainment in your business, you will need to obtain a live entertainment license. F</p>
 
 <p><strong>Have you registered your business?</strong></p>
 
-<p>You&#39;ve answered no . Please see the information below. Any business operating in the City of Boston must file a Business Certificate form, also known as a Doing Business As (DBA) form,</p>
+<p>You've answered no . Please see the information below. Any business operating in the City of Boston must file a Business Certificate form, also known as a Doing Business As (DBA) form,</p>
 
 <p><strong>Will you have any live entertainment?</strong></p>
 
-<p>You&#39;ve answered yes . Please see the information below. You will need to obtain a Live Entertainment License. To apply, fill out this form and bring it, in person (with all the required attachment</p>
+<p>You've answered yes . Please see the information below. You will need to obtain a Live Entertainment License. To apply, fill out this form and bring it, in person (with all the required attachment</p>
 
 <p><strong>Will you be cooking using any unconventional materials not normally found in kitchens?</strong></p>
 
-<p>You&#39;ve answered yes . Please see the information below. You will need to apply for an Annual Permit for the storage of hazardous materials from the Boston Fire Dept:</p>
+<p>You've answered yes . Please see the information below. You will need to apply for an Annual Permit for the storage of hazardous materials from the Boston Fire Dept:</p>
 
 <p><strong>Will you be putting up a sign or canopy?</strong></p>
 
-<p>You&#39;ve answered Yes, in a Historic District . Please see the information below. If your building is in a historic district, your sign must be reviewed by your local Historic District Commission.</p>
+<p>You've answered Yes, in a Historic District . Please see the information below. If your building is in a historic district, your sign must be reviewed by your local Historic District Commission.</p>
 
 <p><strong>Will you be installing or altering any plumbing?</strong></p>
 
-<p>You&#39;ve answered yes . Please see the information below. Your licensed, professional contractor will have to apply for a Plumbing Permit through the following online permitting portal:</p>
+<p>You've answered yes . Please see the information below. Your licensed, professional contractor will have to apply for a Plumbing Permit through the following online permitting portal:</p>
 
 <p><strong>Have you identified a company to perform your hood cleanings and inspections?</strong></p>
 
-<p>You&#39;ve answered I don&#39;t know . Please see the information below. Every commercial cooking hood and exhaust system must be cleaned and inspected by a Boston Fire Department Registered Cleaner and/or Inspector. The cleane</p>
+<p>You've answered I don't know . Please see the information below. Every commercial cooking hood and exhaust system must be cleaned and inspected by a Boston Fire Department Registered Cleaner and/or Inspector. The cleane</p>
 
 <p><strong>Are you using acetone or any other flammable chemicals?</strong></p>
 
-<p>You&#39;ve answered yes . Please see the information below. You will need to apply for an Annual Permit from the Boston Fire Department for the storage of acetone and other flammable chemicals:</p>
+<p>You've answered yes . Please see the information below. You will need to apply for an Annual Permit from the Boston Fire Department for the storage of acetone and other flammable chemicals:</p>
 
 <p><strong>Will you have any scales or bar code scanners?</strong></p>
 
-<p>You&#39;ve answered I don&#39;t know . Please see the information below. If you do use any food scales or scanners, they must be inspected by the Inspectional Services Department&#39;s Weights &amp; Measures Division.</p>
+<p>You've answered I don't know . Please see the information below. If you do use any food scales or scanners, they must be inspected by the Inspectional Services Department's Weights & Measures Division.</p>
 
 <p><strong>Are you in a historic district or landmark building?</strong></p>
 
-<p>You&#39;ve answered I don&#39;t know . Please see the information below. Being in a Historic District or Landmark Building can have an impact on your construction permitting process. To check i</p>
+<p>You've answered I don't know . Please see the information below. Being in a Historic District or Landmark Building can have an impact on your construction permitting process. To check i</p>
 
 <p><strong>Is your location within 100 feet of a wetland?</strong></p>
 
-<p>You&#39;ve answered I don&#39;t know . Please see the information below. Any construction projects located that might affect a wetland must be reviewed by the Boston Conservation Commission.</p>
+<p>You've answered I don't know . Please see the information below. Any construction projects located that might affect a wetland must be reviewed by the Boston Conservation Commission.</p>
 
 <p><strong>Will you have a dumpster that is 3 cubic yards or larger, whether for a temporary use (such as construction debris) or on a permanent basis?</strong></p>
 
-<p>You&#39;ve answered I don&#39;t know . Please see the information below. If you have a dumpster on-site for at least 24 hours, it must be permitted.</p>
+<p>You've answered I don't know . Please see the information below. If you have a dumpster on-site for at least 24 hours, it must be permitted.</p>
 
 <p>For temporary use (less than a year) o</p>
 
 <p><strong>Do you have all the financing you need to complete your project?</strong></p>
 
-<p>You&#39;ve answered I don&#39;t know . Please see the information below. The Boston Business Hub has compiled many helpful resources:</p>
+<p>You've answered I don't know . Please see the information below. The Boston Business Hub has compiled many helpful resources:</p>
 
 <p><strong>Do you have a location?</strong></p>
 
-<p>You&#39;ve answered no , please see below for some resources to help you in your location search: The Boston Business Hub has some resources that can help you find a location:</p>
+<p>You've answered no , please see below for some resources to help you in your location search: The Boston Business Hub has some resources that can help you find a location:</p>
 
 <p><strong>Will you be serving any potentially hazardous food items?</strong></p>
 
-<p>You&#39;ve answered I don&#39;t know . Please see the information below. If you decide to serve any potentially hazardous food items, at least one full-time person on your staff must be certified as a food protection manager</p>
+<p>You've answered I don't know . Please see the information below. If you decide to serve any potentially hazardous food items, at least one full-time person on your staff must be certified as a food protection manager</p>
 
 <p><strong>Will you be selling any tobacco products?</strong></p>
 
-<p>You&#39;ve answered yes . Please see the information below. In order to sell tobacco products you must first obtain a City of Boston Permit for Location and Sales of Tobacco Products. To apply for this permit, you must submit th</p>
+<p>You've answered yes . Please see the information below. In order to sell tobacco products you must first obtain a City of Boston Permit for Location and Sales of Tobacco Products. To apply for this permit, you must submit th</p>
 
 <p><strong>Does your construction project involve cutting into any walls, ceilings, or pipes that contain asbestos?</strong></p>
 
-<p>You&#39;ve answered I don&#39;t know . Please see the information below. All asbestos removal or repair projects in Boston must be permitted by the Environmental Health Office of the Boston Public Health Commission (BPHC). Fo</p>
+<p>You've answered I don't know . Please see the information below. All asbestos removal or repair projects in Boston must be permitted by the Environmental Health Office of the Boston Public Health Commission (BPHC). Fo</p>
 
 <p><strong>Will you be installing or changing fire protection systems other than sprinklers or hard-wired smoke alarms?</strong></p>
 
-<p>You&#39;ve answered I don&#39;t know . Please see the information below. Any work involving fire protection systems will need to be performed by a licensed professional contractor. If you are not sur</p>
+<p>You've answered I don't know . Please see the information below. Any work involving fire protection systems will need to be performed by a licensed professional contractor. If you are not sur</p>
 
 <p><strong>Do you want to offer valet parking?</strong></p>
 
-<p>You&#39;ve answered I don&#39;t know . Please see the information below. For more information regarding valet parking, see:</p>
+<p>You've answered I don't know . Please see the information below. For more information regarding valet parking, see:</p>
 
 <p><strong>Will you be putting up a sign or canopy?</strong></p>
 
-<p>You&#39;ve answered Yes, in a special overlay zoning district . Please see the information below. If your building is in a district with special overlay zoning, your sign must be reviewed by the Boston Redevelopment Authorit</p>
+<p>You've answered Yes, in a special overlay zoning district . Please see the information below. If your building is in a district with special overlay zoning, your sign must be reviewed by the Boston Redevelopment Authorit</p>
 
 <p><strong>Do you have a business plan?</strong></p>
 
-<p>You&#39;ve answered I don&#39;t know . Please see the information below. For more information on what a business plan is and how to create one, take a look at: City of Boston Small Busines</p>
+<p>You've answered I don't know . Please see the information below. For more information on what a business plan is and how to create one, take a look at: City of Boston Small Busines</p>
 
 <p><strong>Will you be using a generator, or storing or using any potentially hazardous materials such as propane or diesel?</strong></p>
 
-<p>You&#39;ve answered I don&#39;t know . Please see the information below. If a generator or the storage of hazardous materials are required, you will need to apply for a General Permit from the Boston Fire Department</p>
+<p>You've answered I don't know . Please see the information below. If a generator or the storage of hazardous materials are required, you will need to apply for a General Permit from the Boston Fire Department</p>
 
 <p><strong>Will you be selling food?</strong></p>
 
-<p>You&#39;ve answered I don&#39;t know . Please see the information below.</p>
+<p>You've answered I don't know . Please see the information below.</p>
 
 <p>All businesses selling food must have a food service permit ( <a href="http://www.cityof">http://www.cityof</a></p>
 
 <p><strong>Do you have a Federal Tax Id?</strong></p>
 
-<p>You&#39;ve answered I don&#39;t know . Please see the information below. An Employer Identification Number (EIN) is also known as a Federal Tax Identification Number, and is used to identify a busines</p>
+<p>You've answered I don't know . Please see the information below. An Employer Identification Number (EIN) is also known as a Federal Tax Identification Number, and is used to identify a busines</p>
 
 <p><strong>Are you in a historic district or landmark building?</strong></p>
 
-<p>You&#39;ve answered yes . Please see the information below. Being in a Historic District or Landmark Building can have an impact on your construction permitting process. To verify that your bus</p>
+<p>You've answered yes . Please see the information below. Being in a Historic District or Landmark Building can have an impact on your construction permitting process. To verify that your bus</p>
 
 <p><strong>Do you have a Certificate of Inspection?</strong></p>
 
-<p>You&#39;ve answered no . Please see the information below. Every business with an assembly use (such as theatres, night clubs, and restaurants) must have a Certificate of Inspection (CI), and must be inspected annually.</p>
+<p>You've answered no . Please see the information below. Every business with an assembly use (such as theatres, night clubs, and restaurants) must have a Certificate of Inspection (CI), and must be inspected annually.</p>
 
 <p><strong>Will you be doing any minor interior or exterior renovations?</strong></p>
 
-<p>You&#39;ve answered yes . Please see the information below. To do this work, you will need: A Short Form permit from Inspectional Services Department (ISD).</p>
+<p>You've answered yes . Please see the information below. To do this work, you will need: A Short Form permit from Inspectional Services Department (ISD).</p>
 
 <p><strong>Will you be putting up a sign or canopy?</strong></p>
 
-<p>You&#39;ve answered I don&#39;t know . Please see the information below. If you are thinking about putting up a new sign (or replacing an existing one), you may want to start planning for it sooner rather than later because</p>
+<p>You've answered I don't know . Please see the information below. If you are thinking about putting up a new sign (or replacing an existing one), you may want to start planning for it sooner rather than later because</p>
 
 <p><strong>Will you have outdoor seating?</strong></p>
 
-<p>You&#39;ve answered yes . Please see the information below. If the seating is on private land, you will need to obtain a Use of Premises permit from the Inspectional Services Department (ISD) through the following online per</p>
+<p>You've answered yes . Please see the information below. If the seating is on private land, you will need to obtain a Use of Premises permit from the Inspectional Services Department (ISD) through the following online per</p>
 
 <p><strong>Are you using acetone or any other flammable chemicals?</strong></p>
 
-<p>You&#39;ve answered I don&#39;t know . Please see the information below. Many of the chemicals used in salons are flammable, and therefore regulated by the Boston Fire Department (BFD).</p>
+<p>You've answered I don't know . Please see the information below. Many of the chemicals used in salons are flammable, and therefore regulated by the Boston Fire Department (BFD).</p>
 
 <p><strong>Will you be serving Alcohol?</strong></p>
 
-<p>You&#39;ve answered yes . Please see the information below. You may not serve any alcohol without a license from the Boston Licensing Board. The number of licenses available is limited by the State Legislature.</p>
+<p>You've answered yes . Please see the information below. You may not serve any alcohol without a license from the Boston Licensing Board. The number of licenses available is limited by the State Legislature.</p>
 
 <p><strong>Will you have any of the following: furniture (other than metal furniture), curtains or drapes, ceiling tile, wall coverings, panel systems, floor coverings, or any other decorative materials?</strong></p>
 
-<p>You&#39;ve answered I don&#39;t know . Please see the information below. If you decide to have any of these things, they will need to be certified by the Fire Department Chemist.</p>
+<p>You've answered I don't know . Please see the information below. If you decide to have any of these things, they will need to be certified by the Fire Department Chemist.</p>
 
 <p><strong>Do you plan on setting up tables or other displays of your merchandise on the sidewalk outside your business?</strong></p>
 
-<p>You&#39;ve answered Yes . Please see the information below. If the sidewalk is a public sidewalk, you will need to get approval from the Public Works Department:</p>
+<p>You've answered Yes . Please see the information below. If the sidewalk is a public sidewalk, you will need to get approval from the Public Works Department:</p>
 
 <p>Information for Other Food-Related Businesses</p>
 
@@ -429,35 +457,35 @@
 
 <p><strong>Will you be doing any major renovations?</strong></p>
 
-<p>You&#39;ve answered I don&#39;t know . Please see the information below. Major renovations need to be permitted by the Inspectional Services Department (ISD) and the Boston Fire Department (BFD). If</p>
+<p>You've answered I don't know . Please see the information below. Major renovations need to be permitted by the Inspectional Services Department (ISD) and the Boston Fire Department (BFD). If</p>
 
 <p><strong>Is your location within 100 feet of a wetland?</strong></p>
 
-<p>You&#39;ve answered yes . Please see the information below. Any construction projects located that might affect a wetland must be reviewed by the Boston Conservation Commission. To find out wh</p>
+<p>You've answered yes . Please see the information below. Any construction projects located that might affect a wetland must be reviewed by the Boston Conservation Commission. To find out wh</p>
 
 <p><strong>Will you be selling food?</strong></p>
 
-<p>You&#39;ve answered yes . Please see the information below.</p>
+<p>You've answered yes . Please see the information below.</p>
 
 <p>All businesses selling food must have a food service permit ( <a href="http://www.cityofboston.gov/is">http://www.cityofboston.gov/is</a></p>
 
 <p><strong>Will you be using your own Internet hookup?</strong></p>
 
-<p>You&#39;ve answered I don&#39;t know . Please see the information below.</p>
+<p>You've answered I don't know . Please see the information below.</p>
 
 <p>To find out what resources are available to you for internet hook-ups, please contact the Office of Business Development for fu</p>
 
 <p><strong>Do you plan on offering take-out?</strong></p>
 
-<p>You&#39;ve answered yes . Please see the information below. Before you can offer take-out, you will need to ensure that it is allowed under your building&rsquo;s zoning. To do that, you can visit one of th</p>
+<p>You've answered yes . Please see the information below. Before you can offer take-out, you will need to ensure that it is allowed under your building’s zoning. To do that, you can visit one of th</p>
 
 <p><strong>Will your construction work generate sufficient smoke or dust to potentially set off a fire alarm?</strong></p>
 
-<p>You&#39;ve answered I don&#39;t know . Please see the information below. Any work that would generate enough smoke or dust to set off the fire alarm needs to be performed by a licensed professional contractor.</p>
+<p>You've answered I don't know . Please see the information below. Any work that would generate enough smoke or dust to set off the fire alarm needs to be performed by a licensed professional contractor.</p>
 
 <p>Since you are a Commercial Industrial Business</p>
 
-<p>The BRA&#39;s Back Streets program has resources that may be of use to you. See <a href="http://businesshub.boston.gov/cms/backstreets">http://businesshub.boston.gov/cms/backstreets</a> for more information.</p>
+<p>The BRA's Back Streets program has resources that may be of use to you. See <a href="http://businesshub.boston.gov/cms/backstreets">http://businesshub.boston.gov/cms/backstreets</a> for more information.</p>
 
 <p>Since you are a Non Profit Business</p>
 
@@ -465,70 +493,70 @@
 
 <p><strong>Have you registered your business?</strong></p>
 
-<p>You&#39;ve answered I don&#39;t know . Please see the information below. Any business operating in the City of Boston must file a Business Certificate form, also known as a Doing Business A</p>
+<p>You've answered I don't know . Please see the information below. Any business operating in the City of Boston must file a Business Certificate form, also known as a Doing Business A</p>
 
 <p><strong>Will you have any of the following: furniture (other than metal furniture), curtains or drapes, ceiling tile, wall coverings, panel systems, floor coverings, or any other decorative materials?</strong></p>
 
-<p>You&#39;ve answered yes . Please see the information below.</p>
+<p>You've answered yes . Please see the information below.</p>
 
 <p>Anything in these categories must be individually approved by the Fire Department chemist. Visit</p>
 
 <p><strong>Are you a food establishment?</strong></p>
 
-<p>You&#39;ve answered yes . Please see the information below. Because your business is a food establishment, your food service plan may need to be reviewed by the Inspectional Service Department&#39;s (ISD) Health Division before</p>
+<p>You've answered yes . Please see the information below. Because your business is a food establishment, your food service plan may need to be reviewed by the Inspectional Service Department's (ISD) Health Division before</p>
 
 <p><strong>Does the current Certificate of Occupancy list the use type for your business?</strong></p>
 
-<p>You&#39;ve answered no . Please see the information below. A Certificate of Occupancy (CO) is required after new construction or major renovations, and for changes of occupancy. Your building o</p>
+<p>You've answered no . Please see the information below. A Certificate of Occupancy (CO) is required after new construction or major renovations, and for changes of occupancy. Your building o</p>
 
 <p>Since you were none of our current Business Types</p>
 
-<p>That&#39;s okay, we still want to help you no matter what type of business you have. Feel free to submit an inquiry and we&#39;ll find someone who can help</p>
+<p>That's okay, we still want to help you no matter what type of business you have. Feel free to submit an inquiry and we'll find someone who can help</p>
 
 <p>Since you are a Creative Economy Business</p>
 
-<p>The BRA&#39;s Create Boston program has resources that may be of use to you. See <a href="http://businesshub.boston.gov/cms/createboston">http://businesshub.boston.gov/cms/createboston</a> for more information.</p>
+<p>The BRA's Create Boston program has resources that may be of use to you. See <a href="http://businesshub.boston.gov/cms/createboston">http://businesshub.boston.gov/cms/createboston</a> for more information.</p>
 
 <p><strong>Do you have your Site Cleanliness License?</strong></p>
 
-<p>You&#39;ve answered I don&#39;t know . Please see the information below. Site Cleanliness Licenses are required for any commercial properties that contract with private companies for waste hauling, to e</p>
+<p>You've answered I don't know . Please see the information below. Site Cleanliness Licenses are required for any commercial properties that contract with private companies for waste hauling, to e</p>
 
 <p><strong>Do you have a business plan?</strong></p>
 
-<p>You&#39;ve answered no. Please see the information below. For more information on what a business plan is and how to create one, take a look at:</p>
+<p>You've answered no. Please see the information below. For more information on what a business plan is and how to create one, take a look at:</p>
 
 <p><strong>Will you be installing or changing sprinklers?</strong></p>
 
-<p>You&#39;ve answered I don&#39;t know . Please see the information below. Any work involving fire protection systems will need to be performed by a licensed professional contractor. If you are not sur</p>
+<p>You've answered I don't know . Please see the information below. Any work involving fire protection systems will need to be performed by a licensed professional contractor. If you are not sur</p>
 
 <p><strong>Will you be installing or changing sprinklers?</strong></p>
 
-<p>You&#39;ve answered yes . Please see the information below. All work must be done by a licensed plumber. Your contractor will need to apply for the following: A Long Form Permit from Inspec</p>
+<p>You've answered yes . Please see the information below. All work must be done by a licensed plumber. Your contractor will need to apply for the following: A Long Form Permit from Inspec</p>
 
 <p><strong>Will you be installing or changing hard-wired smoke alarms?</strong></p>
 
-<p>You&#39;ve answered yes . Please see the information below. All work must be done by a licensed electrician. Your contractor will need to apply for the following: A Long Form Permit from th</p>
+<p>You've answered yes . Please see the information below. All work must be done by a licensed electrician. Your contractor will need to apply for the following: A Long Form Permit from th</p>
 
 <p><strong>Will you be serving alcohol?</strong></p>
 
-<p>You&#39;ve answered yes . Please see the information below. You may not serve any alcohol without a license from the Boston Licensing Board. The number of licenses available is limited by the State Leg</p>
+<p>You've answered yes . Please see the information below. You may not serve any alcohol without a license from the Boston Licensing Board. The number of licenses available is limited by the State Leg</p>
 
 <p><strong>Are you a food establishment?</strong></p>
 
-<p>You&#39;ve answered I don&#39;t know . Please see the information below. If you are a food establishment, your food service plan may need to be reviewed by the Inspectional Service Department&#39;s (ISD) Health Division before</p>
+<p>You've answered I don't know . Please see the information below. If you are a food establishment, your food service plan may need to be reviewed by the Inspectional Service Department's (ISD) Health Division before</p>
 
 <p><strong>Will you have a pool table?</strong></p>
 
-<p>You&#39;ve answered I don&#39;t know . Please see the information below. Having a pool table requires a license from the Boston Licensing Board.<br />
+<p>You've answered I don't know . Please see the information below. Having a pool table requires a license from the Boston Licensing Board.<br />
 For instructions on how to</p>
 
 <p><strong>Do you have a Federal Tax Id?</strong></p>
 
-<p>You&#39;ve answered no . Please see the information below. An Employer Identification Number (EIN) is also known as a Federal Tax Identification Number, and is used to identify a business entity. This</p>
+<p>You've answered no . Please see the information below. An Employer Identification Number (EIN) is also known as a Federal Tax Identification Number, and is used to identify a business entity. This</p>
 
 <p><strong>Do you have your Site Cleanliness License?</strong></p>
 
-<p>You&#39;ve answered no . Please see the information below. Site Cleanliness Licenses are required for any commercial properties that contract with private companies for waste hauling, to ensure that tra</p>
+<p>You've answered no . Please see the information below. Site Cleanliness Licenses are required for any commercial properties that contract with private companies for waste hauling, to ensure that tra</p>
 
 <p>Information for Mobile Food Establishments</p>
 
@@ -536,57 +564,58 @@ For instructions on how to</p>
 
 <p>Since you are a Life Sciences Business</p>
 
-<p>The BRA&#39;s LifeTech program has resources that may be of use to you. See <a href="http://businesshub.boston.gov/cms/lifetech">http://businesshub.boston.gov/cms/lifetech</a> for more information.</p>
+<p>The BRA's LifeTech program has resources that may be of use to you. See <a href="http://businesshub.boston.gov/cms/lifetech">http://businesshub.boston.gov/cms/lifetech</a> for more information.</p>
 
 <p>Since you are a Clean Tech Business</p>
 
-<p>The BRA&#39;s Green Tech program has resources that may be of use to you. See <a href="http://businesshub.boston.gov/cms/greentech">http://businesshub.boston.gov/cms/greentech</a> for more information</p>
+<p>The BRA's Green Tech program has resources that may be of use to you. See <a href="http://businesshub.boston.gov/cms/greentech">http://businesshub.boston.gov/cms/greentech</a> for more information</p>
 
 <p><strong>Is the expected customer capacity of your establishment over 49 people?</strong></p>
 
-<p>You&#39;ve answered yes . Please see the information below. All bars or restaurants seating more than 49 persons need a Place of Assembly permit. A new permit is also required any time there is a change of ownership or name. T</p>
+<p>You've answered yes . Please see the information below. All bars or restaurants seating more than 49 persons need a Place of Assembly permit. A new permit is also required any time there is a change of ownership or name. T</p>
 
 <p><strong>Does your construction project involve cutting into any walls, ceilings, or pipes that contain asbestos?</strong></p>
 
-<p>You&#39;ve answered yes . Please see the information below. All asbestos removal or repair projects in Boston must be permitted by the Environmental Health Office of the Boston Public Health Commission (BPHC). For more informat</p>
+<p>You've answered yes . Please see the information below. All asbestos removal or repair projects in Boston must be permitted by the Environmental Health Office of the Boston Public Health Commission (BPHC). For more informat</p>
 
 <p><strong>Will you be building a new structure?</strong></p>
 
-<p>You&#39;ve answered yes . Please see the information below. If you are building a new structure, you will need the following at minimum: An Erect Permit from the Inspectional Services Department (ISD).</p>
+<p>You've answered yes . Please see the information below. If you are building a new structure, you will need the following at minimum: An Erect Permit from the Inspectional Services Department (ISD).</p>
 
 <p><strong>Will you be doing any major renovations?</strong></p>
 
-<p>You&#39;ve answered yes . Please see the information below. To do this work, you will need: A Long Form permit from ISD. You can apply through the following online permitting portal:</p>
+<p>You've answered yes . Please see the information below. To do this work, you will need: A Long Form permit from ISD. You can apply through the following online permitting portal:</p>
 
 <p><strong>Will you be putting up a sign or canopy?</strong></p>
 
-<p>You&#39;ve answered Yes, in a Main Streets District . Please see the information below. If your building is in a Main Streets District, your sign should be reviewed by the local Main Streets organization.</p>
+<p>You've answered Yes, in a Main Streets District . Please see the information below. If your building is in a Main Streets District, your sign should be reviewed by the local Main Streets organization.</p>
 
 <p><strong>Are your hair stylist, manicurist, and/or massage personnel licensed?</strong></p>
 
-<p>You&#39;ve answered no . Please see the information below. Any personnel performing these services must be licensed by the State. To learn how to obtain professional licensure, please contact:</p>
+<p>You've answered no . Please see the information below. Any personnel performing these services must be licensed by the State. To learn how to obtain professional licensure, please contact:</p>
 
 <p><strong>Will you be serving alcohol?</strong></p>
 
-<p>You&#39;ve answered I don&#39;t know . Please see the information below. If you decide to serve alcohol, you will have to obtain a license for alcoholic beverages. For further details,</p>
+<p>You've answered I don't know . Please see the information below. If you decide to serve alcohol, you will have to obtain a license for alcoholic beverages. For further details,</p>
 
-<p><strong>Information for Farmers&#39; Markets</strong></p>
+<p><strong>Information for Farmers' Markets</strong></p>
 
-<p>If your farmer&#39;s market is on privately owned land , you will need to submit a short form permit application to the Inspectional Services Department (ISD). You can apply for that permit through the following on-line portal: <a href="https://o">https://o</a></p>
+<p>If your farmer's market is on privately owned land , you will need to submit a short form permit application to the Inspectional Services Department (ISD). You can apply for that permit through the following on-line portal: <a href="https://o">https://o</a></p>
 
 <p><strong>Does the current Certificate of Occupancy list the use type for your business?</strong></p>
 
-<p>You&#39;ve answered yes . Please see the information below. You should obtain a copy of the current Certificate of Occupancy and keep it on file. B e sure to pay attention to any provisos on the CO - for example, &amp;q</p>
+<p>You've answered yes . Please see the information below. You should obtain a copy of the current Certificate of Occupancy and keep it on file. B e sure to pay attention to any provisos on the CO - for example, &q</p>
 
 <p><strong>Will you be selling any tobacco products?</strong></p>
 
-<p>You&#39;ve answered I don&#39;t know . Please see the information below. If you intend to sell tobacco products you must first obtain a City of Boston Permit for Location and Sales of Tobacco Products. To apply for this perm</p>
+<p>You've answered I don't know . Please see the information below. If you intend to sell tobacco products you must first obtain a City of Boston Permit for Location and Sales of Tobacco Products. To apply for this perm</p>
 
 <p><strong>Will you be doing nails in your salon?</strong></p>
 
-<p>You&#39;ve answered I don&#39;t know . Please see the information below. All nail salons in the City of Boston must be permitted by the Boston Public Health Commission. You can find the application h</p>
+<p>You've answered I don't know . Please see the information below. All nail salons in the City of Boston must be permitted by the Boston Public Health Commission. You can find the application h</p>
 
-<p>&nbsp;</p>
+<p> </p>
 
-<p>&nbsp;</p>
+<p> </p>
 </div>
+  
