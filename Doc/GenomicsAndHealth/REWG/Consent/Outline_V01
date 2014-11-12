@@ -57,6 +57,8 @@ Doc.Secs=<ol><li>{1.Sec}</li><li>{2.Sec}</li><li>{3.Sec}</li><li>{4.Sec}</li><li
 8.1.5.List=<ul><li>{8.1.5.1.sec}{;}</li><li>{8.1.5.2.sec}{;}</li><li>{8.1.5.3.sec}{;} {and}</li><li>{8.1.5.4.sec}.</ul>
 
 8.3.sec={8.3.1.Sen} {8.3.2.Sen} {8.3.3.Sen} {8.3.4.Sen}
+
+8.Xref=8
   
 9.Sec=<b>{9.Ti}</b><br><br>{9.1.sec}<br><br>{9.2.sec}<br><br>
 
@@ -74,13 +76,9 @@ Doc.Secs=<ol><li>{1.Sec}</li><li>{2.Sec}</li><li>{3.Sec}</li><li>{4.Sec}</li><li
 
 12.1.sec={12.1.1.Sen}  {12.1.2.Sen}  {12.1.3.Sen}
 
-
 Doc.Sign=<center><b>{Sign.Ti}</b></center><br><br>{Sign.1}<br><br>{Sign.2}<br><br>{Sign.3}<br><br>{Sign.4}<br><br>{Sign.5}<br><br>{Sign.6}<br><br>{Sign.7}<br><br>{Sign.8}
 Sign.4={Sign.4.Intro} {Sign.4.List}
 Sign.4.List=<ol><li>{Sign.4.1}{;}</li><li>{Sign.4.2}{;}</li><li>{Sign.4.3}{;}</li><li>{Sign.4.4}{;}</li><li>{Sign.4.5}{;} {and}</li><li>{Sign.4.6}.</ol>
  
 m-=<font color="magenta">
 -m=</font>
-
-
-</field>
