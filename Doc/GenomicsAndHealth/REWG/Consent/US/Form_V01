@@ -1,15 +1,12 @@
-<binder>
-GenomicsAndHealth/REWG/Consent/US/Form_V01
-GenomicsAndHealth/REWG/Consent/Frame_V01
-</binder>
-=[GenomicsAndHealth/REWG/Consent/Frame_V01]
+=[GenomicsAndHealth/REWG/Consent/Form_V01]
 
-<field>
-Principal Investigator=Principal Investigator
-Organization Name=Organization Name
-Funded by=Funded by
-Contact Person=Contact Person
+Study.Inv1.Role=Principal Investigator
+Study.Org.Role=Organization Name
+Study.Funder.Role=Funded by
+Study.Contact.Role=Contact Person
 :=:
+;=;
+and=and
 
 Doc.Ti=GA4GH Model Data Sharing Consent Form
 1.Ti=Introduction
@@ -27,15 +24,15 @@ Doc.Ti=GA4GH Model Data Sharing Consent Form
 
 1.Ti=Introduction
 
-1.1.1.Sen=We invite you to be part of the {Project.Name.Full}.
+1.1.1.Sen=We invite you to be part of the {Study.Name.Full}.
 
-1.1.2.Sen=This project collaborates with researchers from around the world in studies approved and monitored by {Project.REB.Name.Full}.
+1.1.2.Sen=This project collaborates with researchers from around the world in studies approved and monitored by {Study.REB.Name.Full}.
 
 1.1.3.Sen=This project is guided by {Framework.URL}.
 
 Framework.URL=[[GenomicsAndHealth/REWG/Framework/V01|the Framework for Responsible Sharing of Genomic and Health-Related Data]]
 
-1.2.sec=The {Project.Name.Full} will include some or all of the following: {1.2.List}
+1.2.sec=The {Study.Name.Full} will include some or all of the following: {1.2.List}
 
 1.2.1.sec=Data collected during the project
 
@@ -57,9 +54,9 @@ Framework.URL=[[GenomicsAndHealth/REWG/Framework/V01|the Framework for Responsib
 
 1.3.6.Sen=You will NOT be identified. 
 
-1.4.sec=You can learn more information about the organization of this project and general results when they become available at: {Project.www.me.com}.      
+1.4.sec=You can learn more information about the organization of this project and general results when they become available at: {Study.www.me.com}.      
 
-1.5.sec=This project has been reviewed by {Project.REB.Name.Full}
+1.5.sec=This project has been reviewed by {Study.REB.Name.Full}
 
 1.6.1.Sen=If you think you might want to participate in this project, please read the rest of this form and take as much time as you need to ask questions.
 
@@ -69,7 +66,7 @@ Framework.URL=[[GenomicsAndHealth/REWG/Framework/V01|the Framework for Responsib
 
 2.Ti=What is the purpose of this research?
 
-2.1.1.Sen=Genes are the basic ‚Äúinstruction book‚Äù for the cells that make up our bodies.
+2.1.1.Sen=Genes are the basic ìinstruction bookî for the cells that make up our bodies.
 
 2.1.2.Sen=All genes are made of DNA.
 
@@ -87,7 +84,7 @@ Framework.URL=[[GenomicsAndHealth/REWG/Framework/V01|the Framework for Responsib
 
 2.2.2.Sec=Only by comparing your DNA and medical data with that of other people can we identify patterns and relationships in the genes, together with the environment, to help us better understand health and disease.
 
-2.2.3.Sec=Thus, the purpose of the {Project.Name.Full} is to {Project.Description}. 
+2.2.3.Sec=Thus, the purpose of the {Study.Name.Full} is to {Study.Description}. 
 
 2.3.sec=This is research, and not medical care. You should see a physician for any health problems or medical questions you might have.
 
@@ -107,7 +104,7 @@ Framework.URL=[[GenomicsAndHealth/REWG/Framework/V01|the Framework for Responsib
 
 4.1.2.Sen=Your data will be used for international research and may be moved and stored in different countries. 
 
-4.2.sec=Over the next {Project.Duration.Expected}, researchers will: {4.2.List}
+4.2.sec=Over the next {Study.Duration.Expected}, researchers will: {4.2.List}
 
 4.2.1.sec=analyse your genetic information using a process called 'sequencing'
 
@@ -119,7 +116,7 @@ Framework.URL=[[GenomicsAndHealth/REWG/Framework/V01|the Framework for Responsib
 
 4.3.3.Sen=All researchers must respect the laws and ethical guidelines for biomedical research.
 
-4.4.sec=Your data will be kept for a period of {Project.PersonalData.Retained.Duration}.
+4.4.sec=Your data will be kept for a period of {Study.PersonalData.Retained.Duration}.
 
 5.Ti=Will I be paid to participate?
 
@@ -152,7 +149,6 @@ Framework.URL=[[GenomicsAndHealth/REWG/Framework/V01|the Framework for Responsib
 8.1.3.Sen=An independent committee will determine whether to grant researchers access to your data.
 
 8.1.4.Sen=Numerous safeguards are in place to keep your information confidential.
-
 8.1.5.Intro=In particular,
 
 8.1.5.1.sec=Personal identifiers will be removed (i.e. name, date of birth, etc.)
@@ -165,20 +161,20 @@ Framework.URL=[[GenomicsAndHealth/REWG/Framework/V01|the Framework for Responsib
 
 8.2.sec=These safeguards make it difficult to know which personal information came from you or any other participant. However, we cannot guarantee that you will never be re-identified.
 
-8.3.1.Sen=Researchers who wish to access the database will be required to apply to {Project.PersonalDataOfficer.Name.Full} who will examine their credentials and data security plan.
+8.3.1.Sen=Researchers who wish to access the database will be required to apply to {Study.PDO.Name.Full} who will examine their credentials and data security plan.
 8.3.2.Sen=They will also make sure the proposed research project is consistent with your consent.
 
 8.3.3.Sen=You will not be identified if findings from your data are presented at scientific conferences or appear in scientific publications. 
 
-8.3.4.Sen={Project.PersonalDataOfficer.Name.Full} will notify you immediately in the event of a problem with privacy.
+8.3.4.Sen={Study.PDO.Name.Full} will notify you immediately in the event of a problem with privacy.
 
 9.Ti=Can I change my mind after I decide to participate?
 
 9.1.sec=You may choose whether or not you wish to take part in this study. You are also free to withdraw at any time from the project. If you withdraw, your data will no longer be used.  However, data that has already been used for research i.e. now part of a dataset or is already published cannot be destroyed or removed.   
 
-9.2.1.PhoneEmail=You can withdraw by telephone to {Project.Contact.Phone} or by email to {Project.Contact.Email}. 
+9.2.1.PhoneEmail=You can withdraw by telephone to {Study.Contact.Phone} or by email to {Study.Contact.Email}. 
   
-9.2.1.Mail=You can withdraw by mail to {Project.Contact.N,A}. 
+9.2.1.Mail=You can withdraw by mail to {Study.Contact.N,A}. 
 
 9.2.Cont=You will also receive a letter confirming your withdrawal. 
 
@@ -186,7 +182,7 @@ Framework.URL=[[GenomicsAndHealth/REWG/Framework/V01|the Framework for Responsib
 
 10.1.1.Sen=It will probably take a long time to interpret the data accurately.
 
-10.1.2.Sen=You can check the project‚Äôs web site at {Project.www.me.com} to read about the project‚Äôs progress and to see if there are any general results.
+10.1.2.Sen=You can check the projectís web site at {Study.www.me.com} to read about the projectís progress and to see if there are any general results.
 
 10.2.sec=<b>Include the local policy on return of individual health results/incidental findings and role of physician where applicable</b>
 
@@ -196,12 +192,11 @@ Framework.URL=[[GenomicsAndHealth/REWG/Framework/V01|the Framework for Responsib
 
 12.Title=Who can I contact if I have questions or concerns?
 
-12.1.1.Sen=If you have any questions or concerns, please contact {Project.Contact.Name.Full} free of charge at {Project.Contact.Phone} or by mail/email at {Project.Contact.Email}.
+12.1.1.Sen=If you have any questions or concerns, please contact {Study.Contact.Name.Full} free of charge at {Study.Contact.Phone} or by mail/email at {Study.Contact.Email}.
 
-12.1.2.Sen=If you wish to make a complaint about any aspect of this study at any time, please contact {Project.Ombuds.Name.Full} free of charge at {Project.Ombuds.Phone} or by mail/email at {Project.Ombuds.Email}.
+12.1.2.Sen=If you wish to make a complaint about any aspect of this study at any time, please contact {Study.Ombuds.Name.Full} free of charge at {Study.Ombuds.Phone} or by mail/email at {Study.Ombuds.Email}.
 
 12.1.3.Sen=We take all comments seriously and will get back to you as soon as possible.
 
 Sign.Ti=Consent to Participate
-
-</field>
+  

@@ -1,7 +1,7 @@
 Contact.=[core/id/solomon_shirley]
 Inv1.=[core/id/andrea_ang]
 Ombuds.=[core/id/colleen_kendall]
-PersonalDataOfficer.=[core/id/geraldine_graber]
+PDO.=[core/id/geraldine_graber]
 Org.=[core/id/mit]
 Funder.=[core/id/nih]
 
@@ -13,4 +13,4 @@ www.me.com={m-}aphalasia.org{-m}
 PersonalData.Retained.Duration={m-}seven years{-m}
 Description={m-}longitudinal study of latitudinal aphasia{-m}
 Duration.Expected={m-}3 years{-m}
-             
+               
