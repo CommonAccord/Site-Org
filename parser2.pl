@@ -18,6 +18,7 @@ sub parse {
 	
 	my($file,$root,$part) = @_; my $f;
 
+
 	ref($file) eq "GLOB" ? $f = $file : open $f, $file or die $!;
 	$orig = $f unless $orig;
 	
@@ -32,7 +33,7 @@ sub parse_root {
 	
 	my ($f, $field, $oldpart) = @_; my $root;
 
-	seek($f, 0, 0);	
+	seek($f, 0, 0);
 	while(<$f>) {
 		return $root if ($root) = $_ =~ /^\Q$field\E\s*=\s*(.*?)$/;
 	}
@@ -40,18 +41,22 @@ sub parse_root {
 	
 	seek($f, 0, 0);
 	while(<$f>) {
-		my($part,$what);	
-		if( (($part, $what) = $_ =~ /^([^=]*)=\[(.+?)\]/) and ($field =~ s/^\Q$part\E//) ) {
+		my($part,$what, $newfield);
+#		if( (($part, $what) = $_ =~ /^([^=]*)=\[(.+?)\]/) and ($field =~ s/^\Q$part\E//) ) {
+		if( (($part, $what) = $_ =~ /^([^=]*)=\[(.+?)\]/) ) {
+			if ( $part && ($field =~ /^\Q$part\E(.+?)$/) ){ $newfield = $1;}
+			
 			$part = $oldpart . $part if $oldpart;
+			
 			if($what =~ s/^\?//) { 
 				if(! $remote{$path.$what}) {  $remote_cnt++;
 					`curl '$what' > '$path/tmp$remote_cnt.cmacc'`;
 					$remote{$path.$what} = "$path/tmp$remote_cnt.cmacc";
 				}
-				$root = parse($remote{$path.$what}, $field, $part);
+				$root = parse($remote{$path.$what}, $newfield || $field, $part);
 			}
 			else {
-				$root = parse($path.$what, $field, $part);
+				$root = parse($path.$what, $newfield || $field, $part);
 			}
 			return $root if $root;
 		}
@@ -78,12 +83,12 @@ my $output  = parse($ARGV[0], "Model.Root");
 print $output;
 
 # XXX FIX ME XXX This is horrible - but  I'm just dead tired  :(
-print "<br><br><hr><br><br>";
-print "<div id='missing'><p><h3 class='subtitle2'>Missing parameters:</h3>";
-my %seen; my @arr = $output=~/\{([^}]+)\}/g;
-@arr = grep { ! $seen{$_}++ } @arr;
-print "$_=<br>" foreach @arr;
-print "</p></div>";
+#print "<br><br><hr><br><br>";
+#print "<div id='missing'><p><h3 class='subtitle2'>Missing parameters:</h3>";
+#my %seen; my @arr = $output=~/\{([^}]+)\}/g;
+#@arr = grep { ! $seen{$_}++ } @arr;
+#print "$_=<br>" foreach @arr;
+#print "</p></div>";
 
 
 #clean up the temporary files (remote fetching)
