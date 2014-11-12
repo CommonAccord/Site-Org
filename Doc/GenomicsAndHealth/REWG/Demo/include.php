@@ -8,7 +8,7 @@ This example illustrates the use of CommonAccord for the creation of Consent For
 <ul>
 <li><a href="http://commonaccord.org/index.php?action=source&file=./GenomicsAndHealth/REWG/Consent/Outline_V01">Outline_V01</a>: Organise the taxonomy of the template Consent Forms</li>
 <li><a href="http://commonaccord.org/index.php?action=source&file=./GenomicsAndHealth/REWG/Consent/US/Form_V01">Form_US</a>: An US-based instantiation of the Consent Form</li>
-<li><a href="http://commonaccord.org/index.php?action=list&file=./GenomicsAndHealth/REWG/Consent/FR/Form_V01">Form_FR</a>: A French instantiation of the Consent Form</li>
+<li><a href="http://commonaccord.org/index.php?action=source&file=./GenomicsAndHealth/REWG/Consent/FR/Form_V01">Form_FR</a>: A French instantiation of the Consent Form</li>
 <li><a href="http://commonaccord.org/index.php?action=source&file=./GenomicsAndHealth/REWG/Consent/DE/Form_V01">Form_DE</a>: A German instantiation of the Consent Form</li>
 <li><a href="http://commonaccord.org/index.php?action=source&file=./GenomicsAndHealth/REWG/Demo/Consent_To_Study">Consent_to_Study</a>A specific Consent Form, that refers to the particular <a href="">Study</a></li>
 <li><a href="http://commonaccord.org/index.php?action=source&file=./GenomicsAndHealth/REWG/Demo/Consent_To_Study_US">Consent_to_Study_US</a>: A US-based instantiation of the specific Consent Form, and its <a href="http://commonaccord.org/index.php?action=source&file=./GenomicsAndHealth/REWG/Demo/Roberta_Robinson_US">signed version</a></li>
