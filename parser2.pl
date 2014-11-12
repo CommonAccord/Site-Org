@@ -33,7 +33,6 @@ sub parse_root {
 	
 	my ($f, $field, $oldpart) = @_; my $root;
 
-print "searching for: $field [$oldpart]";
 
 	seek($f, 0, 0);
 	while(<$f>) {
