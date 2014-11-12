@@ -37,7 +37,6 @@ if(isset($_REQUEST['submit'])) {
 	$data = $_REQUEST['newcontent'];
 	$data = preg_replace('/\r\n/', "\n", $data);
 	$data = trim($data);
-	echo "[$data]";
 	fwrite($fp, $data);
 	fclose($fp);
 }

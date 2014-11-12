@@ -33,6 +33,8 @@ sub parse_root {
 	
 	my ($f, $field, $oldpart) = @_; my $root;
 
+print "searching for: $field [$oldpart]";
+
 	seek($f, 0, 0);
 	while(<$f>) {
 		return $root if ($root) = $_ =~ /^\Q$field\E\s*=\s*(.*?)$/;
@@ -43,7 +45,7 @@ sub parse_root {
 	while(<$f>) {
 		my($part,$what, $newfield);
 #		if( (($part, $what) = $_ =~ /^([^=]*)=\[(.+?)\]/) and ($field =~ s/^\Q$part\E//) ) {
-		if( (($part, $what) = $_ =~ /^([^=]*)=\[(.+?)\]/) ) {
+		if( (($part, $what) = $_ =~ /^([^=]*)=\[(.+?)\]/) and ($field =~ /^\Q$part\E/ )) {
 			if ( $part && ($field =~ /^\Q$part\E(.+?)$/) ){ $newfield = $1;}
 			
 			$part = $oldpart . $part if $oldpart;
