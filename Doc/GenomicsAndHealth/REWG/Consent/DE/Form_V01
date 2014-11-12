@@ -1,13 +1,5 @@
-[[GenomicsAndHealth / REWG / Einwilligung /]]
+=[GenomicsAndHealth/REWG/Consent/Outline_V01]
 
-<Binder>
-GenomicsAndHealth / REWG / Einwilligung / US / Form_V01
-GenomicsAndHealth / REWG / Einwilligung / Form_V01
-</Binder>
-
-=[GenomicsAndHealth/REWG/Consent/Form_V01]
-
-<field>
 Study.Inv1.Role=Hauptforscher
 Study.Org.Role=Name der Organisation
 Study.Funder.Role=Gefördert durch
@@ -128,9 +120,9 @@ Framework.URL=[[GenomicsAndHealth / REWG / Framework / V01 | das Framework for R
 
 5.Ti=werde ich bezahlt, um teilzunehmen?
 
-5.1.sec.N=Sie werden <b> nicht </b> erstattet oder bezahlt werden. {5.1.2.Sen}
+5.1.N.sec=Sie werden <b> nicht </b> erstattet oder bezahlt werden. {5.1.2.Sen}
 
-5.1.sec.R=Sie werden für die Unannehmlichkeiten, wie Reisezeit erstattet. {5.1.2.Sen}
+5.1.R.sec=Sie werden für die Unannehmlichkeiten, wie Reisezeit erstattet. {5.1.2.Sen}
 
 5.1.2.Sen=Teil der Forschung mit der in den Datenbanken gespeicherten Informationen erfolgen kann ein Tag zu der Entwicklung von Software, Tests, Medikamente oder andere kommerzielle Produkte. Wenn dies geschieht, werden Sie nicht erhalten eine der Gewinne.
 
@@ -208,5 +200,35 @@ Framework.URL=[[GenomicsAndHealth / REWG / Framework / V01 | das Framework for R
 
 Sign.Ti=Zustimmung zur Mitmachen
 
+Sign.Ti=Zustimmung zur Mitmachen
+ 
+Sign.1=Einwilligung und Unterschrift
+ 
+Sign.2=Bitte lesen Sie die folgenden Informationen ein, und melden Sie sich, wenn Sie einverstanden sind.
+ 
+Sign.3=Ich habe alle Informationen, die ich brauche, um eine Entscheidung zu treffen ist. Ich war in der Lage, Fragen zu stellen, wenn ich nicht die Informationen zu verstehen.
+
+Sign.4.Intro=Ich stimme zu:
+
+Sign.4.1=dass meine persönlichen, medizinischen und genetischen Daten können online, kontrollierter Zugang wissenschaftlichen Datenbanken hinterlegt
+Sign.4.2=dass meine Daten von Forschern aus der ganzen Welt untersucht werden
+Sign.4.3=dass ich nicht in wissenschaftlichen Publikationen und auf Konferenzen identifiziert werden
+Sign.4.4=dass ich keine Gewinne erhalten, wenn kommerziell wertvolle Produkt (e) ergeben sich aus diesen Studien
+Sign.4.5=dass meine Daten nicht entfernt werden kann, wenn es bereits in einer Datenmenge verwendet oder veröffentlicht
+Sign.4.6=um den Zugriff auf Daten von meinem eingelagerten Gewebe zum Studium geben gegebenenfalls
+ 
+Sign.5=Ich weiß, dass die Teilnahme ist meine Wahl. Ich verstehe, dass ich jederzeit ohne Angabe von Gründen widerrufen.
+ 
+Sign.6=Ich stimme wieder kontaktiert werden, um meine Daten zu aktualisieren oder in neue Forschungsprojekte einbezogen werden: <br> {ContactForFutureStudy.Answer}
+ContactForFutureStudy.Answer={ContactForFutureStudy.Answer } - Ja oder Nein
+ 
+Sign.7=Ich stimme wieder kontaktiert werden, wenn medizinische Informationen gefunden, die nützlich für mich und mein Arzt sein könnte: <br> {ContactForFutureCare.Answer}
+ContactForFutureCare.Answer={ContactForFutureCare.Answer } - {ContactForFutureCare.Yes} oder Nein
+ 
+Sign.7.Alt=Einfügen lokaler Politik für die Rückkehr Einzelergebnisse
+ 
+ContactForFutureCare.Yes=Ja
+ 
+Sign.8=Ihre E-Mail / Adresse: {m -}{Donor.Email}{-m} <br> Signatur: {m-}{Donor.xSignature}{-m}<br>Datum {m-}{Donor.Sign.YMD}{-m} <br> Kliniker Signature {m-}{Clinician.xSignature}{-m}<br> Datum {m-} {Clinician.Sign.YMD}{-m}<br> Kopie an Teilnehmer gegeben: {m-}{Clinician.Confirm.CopyGivenToSubject}{-m}
+
 </field>
-      

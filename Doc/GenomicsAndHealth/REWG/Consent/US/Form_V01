@@ -1,4 +1,4 @@
-=[GenomicsAndHealth/REWG/Consent/Form_V01]
+=[GenomicsAndHealth/REWG/Consent/Outline_V01]
 
 Study.Inv1.Role=Principal Investigator
 Study.Org.Role=Organization Name
@@ -228,4 +228,3 @@ Sign.7.Alt=Insert local policy on return of individual results
 ContactForFutureCare.Yes=Yes
  
 Sign.8=Your email/address: {m-}{Donor.Email}{-m}<br><br>Signature: {m-}{Donor.xSignature}{-m}<br><br>Date {m-}{Donor.Sign.YMD}{-m}<br><br>Researcher Signature {m-}{Clinician.xSignature}{-m}<br><br>Date {m-}{Clinician.Sign.YMD}{-m}<br><br>Copy given to participant: {m-}{Clinician.Confirm.CopyGivenToSubject!}{-m}
-    
