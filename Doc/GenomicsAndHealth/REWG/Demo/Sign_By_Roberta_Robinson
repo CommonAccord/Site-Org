@@ -1,14 +1,20 @@
-Subject.=[core/id/roberta_robinson]
-Researcher.=[core/id/alison_andrews]
+=[GenomicsAndHealth/REWG/Demo/Consent_To_Study_GA4GH]
 
-Sign.6.Answer={m-}Yes{-m}
+Donor.=[core/id/roberta_robinson]
 
-Sign.7.Answer={Sign.7.Yes}
-=[GenomicsAndHealth/Demo/Consent_To_Study_GA4GH]
+Clinician.=[core/id/alison_andrews]
 
-Subject.xSignature={m-}xROBERTA ROBINSON{-m}
-Subject.Sign.YMD={m-}November 7, 2014{-m}
-Researcher.xSignature={m-}xALISON ANDREWS{-m}
-Researcher.Sign.YMD={m-}November 7, 2014{-m}
-Researcher.Confirm.CopyGivenToSubject!={m-}YES!{-m}
-                   
+ContactForFutureStudy.Answer=Yes
+
+ContactForFutureCare.Answer={ContactForFutureCare.Yes}
+
+Donor.xSignature=xROBERTA ROBINSON
+
+Donor.Sign.YMD=November 7, 2014
+
+Clinician.xSignature=xALISON ANDREWS
+
+Clinician.Sign.YMD=November 7, 2014
+
+Clinician.Confirm.CopyGivenToSubject!=YES!
+                             

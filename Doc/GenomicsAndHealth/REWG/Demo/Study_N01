@@ -5,7 +5,7 @@ PDO.=[core/id/geraldine_graber]
 Org.=[core/id/mit]
 Funder.=[core/id/nih]
 
-FundersAndSponsors={m-}{Funder.Name.Full}{-m}
+Funder.List.Name={m-}{Funder.N,A}{-m}
 REB.Name.Full={m-}{Org.OSP}{-m}
 Name.Full={m-}Aphasia Inquiry{-m}
 
@@ -14,3 +14,4 @@ PersonalData.Retained.Duration={m-}seven years{-m}
 Description={m-}longitudinal study of latitudinal aphasia{-m}
 Duration.Expected={m-}3 years{-m}
                
+  
