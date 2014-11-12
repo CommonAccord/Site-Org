@@ -7,10 +7,10 @@
 This example illustrates the use of CommonAccord for the creation of Consent Forms, which can inherit different clauses according to the language or jurisdiction that needs to be used. Switch between the different tabs (Source, Render, or Edit) to see how it works:
 <ul><li>Common Resources<ul>
 <li><a href="http://commonaccord.org/index.php?action=source&file=./GenomicsAndHealth/REWG/Consent/Outline_V01">Outline_V01</a>: The taxonomy of the template Consent Form</li>
-   <li>Forms  (Note: <font color="red">ONLY the first of these, the "US" English version, is text from the GA4GH.  The other two were done by plopping the English Library into Google translate</font>.)<ul>
+   <li>Forms  (Note: <font color="red">ONLY the first of these, the "US" English version, is text from the GA4GH.  The other two were done by plopping the English Library into Google translate</font>)<ul>
 <li><a href="http://commonaccord.org/index.php?action=source&file=./GenomicsAndHealth/REWG/Consent/US/Form_V01">Form_US</a>: Library for US-based Forms</li>
 <li><a href="http://commonaccord.org/index.php?action=source&file=./GenomicsAndHealth/REWG/Consent/FR/Form_V01">Form_FR</a>: Library for French-based Forms</li>
-<li><a href="http://commonaccord.org/index.php?action=source&file=./GenomicsAndHealth/REWG/Consent/DE/Form_V01">Form_DE</a>: Library for German-based Forms</li></ul></ul>
+<li><a href="http://commonaccord.org/index.php?action=source&file=./GenomicsAndHealth/REWG/Consent/DE/Form_V01">Form_DE</a>: Library for German-based Forms</li></ul> The text is also available in the wiki at <a href="http://response.commonaccord.org/GenomicsAndHealth/REWG/Consent/">response.commonaccord.org</a>.</ul>
 <li>The Study<ul>
 <li><a href="http://commonaccord.org/index.php?action=source&file=GenomicsAndHealth/REWG/Demo/Study_N01">The Study Framework</a></li>
 
