@@ -10,15 +10,15 @@ Doc.Ti=GA4GH modèle de partage de données Formulaire de consentement
 1.Ti=Présentation
 2.Ti=Objet
 3.Ti=Participation
-4.Ti=accès aux données
-5.Ti=rémunération; remboursement
-6.Ti=avantages de la recherche
+4.Ti=Accès aux données
+5.Ti=Rémunération; remboursement
+6.Ti=Avantages de la recherche
 7.Ti=Risques de participation
-8.Ti=confidentialité
-9.Ti=retrait
+8.Ti=Confidentialité
+9.Ti=Retrait
 10.Ti=Rapports
-11.Ti=où nous pourrons vous recontacterons
-12.Ti=Coordonnées
+11.Ti=Si nous pourrons vous recontacter
+12.Ti=Coordonnées de contacte
 
 1.Ti=Présentation
 
@@ -52,7 +52,7 @@ Framework.URL=www.commonaccord.org/GenomicsAndHealth/REWG/Cadre/V01
 
 1.3.6.Sen=Vous ne serez pas identifié.
 
-1.4.sec=Vous pouvez apprendre plus d'informations sur l'organisation de ce projet et les résultats généraux quand ils deviennent disponibles à l'adresse: {} Study.www.me.com.
+1.4.sec=Vous pouvez apprendre plus d'informations sur l'organisation de ce projet et les résultats généraux quand ils deviennent disponibles à l'adresse: {Study.www.me.com}.
 
 1.5.sec=Ce projet a été examiné par {Study.REB.Name.Full}
 
@@ -114,7 +114,7 @@ Framework.URL=www.commonaccord.org/GenomicsAndHealth/REWG/Cadre/V01
 
 4.3.3.Sen=Tous les chercheurs doivent respecter les lois et les directives éthiques pour la recherche biomédicale.
 
-4.4.sec=Vos données seront conservées pendant une période de {} Study.PersonalData.Retained.Duration.
+4.4.sec=Vos données seront conservées pendant une période de {Study.PersonalData.Retained.Duration}.
 
 5.Ti=Serai-je payé pour participer?
 
@@ -170,7 +170,7 @@ Framework.URL=www.commonaccord.org/GenomicsAndHealth/REWG/Cadre/V01
 
 9.1.sec=Vous pouvez choisir si vous souhaitez ou non de participer à cette étude. Vous êtes également libre de retirer à tout moment du projet. Si vous vous retirez, vos données ne seront plus utilisés. Cependant, les données qui ont déjà été utilisés pour la recherche à savoir maintenant partie d'un ensemble de données ou est déjà publié ne peut être détruit ou enlevé.
 
-9.2.1.PhoneEmail=Vous pouvez retirer par téléphone à {} Study.Contact.Phone ou par email à {} Study.Contact.Email.
+9.2.1.PhoneEmail=Vous pouvez retirer par téléphone à {Study.Contact.Phone} ou par email à {Study.Contact.Email}.
   
 9.2.1.Mail=Vous pouvez retirer par mail à {Study.Contact.N,A}.
 
@@ -196,17 +196,15 @@ Framework.URL=www.commonaccord.org/GenomicsAndHealth/REWG/Cadre/V01
 
 12.1.3.Sen=Nous prenons tous les commentaires au sérieux et revenir vers vous dès que possible.
 
-Sign.Ti=consentement à participer
-
-Sign.Ti=consentement à participer
+Sign.Ti=Consentement à participer
  
 Sign.1=Consentement et signature
  
-Sign.2=Se il vous plaît lire les informations ci-dessous, et signer si vous êtes d'accord.
+Sign.2=S'il vous plaît lire les informations ci-dessous, et signer si vous êtes d'accord.
  
-Sign.3=I ont été fourni toutes les informations que je dois prendre une décision. Je suis en mesure de poser des questions si je ne comprenais pas l'information.
+Sign.3=Ont été fourni toutes les informations que je dois prendre une décision. Je suis en mesure de poser des questions si je ne comprenais pas l'information.
  
-Sign.4.Intro=je suis d'accord :
+Sign.4.Intro=Je suis d'accord :
 
 Sign.4.1=que mes données personnelles, médicales et génétiques peuvent être déposés dans les bases de données scientifiques en ligne, à accès contrôlé
 Sign.4.2=que mes données seront étudiés par des chercheurs de partout dans le monde
