@@ -18,7 +18,7 @@ if(! ($dir == './')) {
 	
  echo "<hr><div id='updir'><img src='assets/arrowup.png' height=25><h3 class='sc subtitle'><a href=$_SERVER[PHP_SELF]?action=list&file=".$rootdir['dirname']."/>".$rootdir['dirname']."</a><h3></div>";
 
-   echo "<h2 class='sc subtitle2'> $dir</h3>";
+   echo "<h2 class='sc subtitle2'>". $rootdir['filename']."</h3>";
 } 
 
 
