@@ -1,4 +1,6 @@
 =[GenomicsAndHealth/REWG/Consent/Outline_V01]
++.=[GenomicsAndHealth/REWG/Consent/ENGLISH/V01_P3G_Library01]
+4.3.1.Sen=<b>Base: </b><br>{4.3.1.1.Sen}<br><b>JWT Variants</b><br><i>{+.JTW.?}</i>
 
 Study.Inv1.Role=Principal Investigator
 Study.Org.Role=Organization Name
@@ -110,7 +112,7 @@ Framework.URL=www.commonaccord.org/GenomicsAndHealth/REWG/Framework/V01
 
 4.2.2.sec=study DNA variation
 
-4.3.1.Sen=Your data will be shared with other researchers around the world and used in future biomedical research projects after ethics approval.
+4.3.1.1.Sen=Your data will be shared with other researchers around the world and used in future biomedical research projects after ethics approval.
 
 4.3.2.Sen=These projects can take place in universities, hospitals, non-profit groups, companies, and/or government laboratories.
 

@@ -1,4 +1,4 @@
-Model.Root={SummaryAndDoc}
+Model.Root={Doc}
 
 SummaryAndDoc={Summary}<hr><b>DOCUMENT</b><hr>{Doc}
 
