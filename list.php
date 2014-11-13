@@ -1,13 +1,11 @@
 <div class="row " >
-  <div class="container">
- <div class = "col-lg-12"  >
-
-<p align="center">
-<img src="assets/cmacc-trans.png"  height="50px" />
-</p>
-
-
+<div class="container">
+<div class = "col-lg-12"  >
 <?
+// <p align="center">
+// <img src="assets/cmacc-trans.png"  height="50px" />
+// </p>
+
 if(! ($dir == './')) {
         $rootdir = pathinfo($dir);
         //doc_list.php cotntains layout
@@ -16,9 +14,9 @@ if(! ($dir == './')) {
         //echo "Rootdir: <a href=$_SERVER[PHP_SELF]?action=list&file=".$rootdir['dirname']."/>".$rootdir['dirname']."</a><br>";
 
 	
- echo "<hr><div id='updir'><img src='assets/arrowup.png' height=25><h3 class='sc subtitle'><a href=$_SERVER[PHP_SELF]?action=list&file=".$rootdir['dirname']."/>".$rootdir['dirname']."</a><h3></div>";
+ echo "<div id='updir'><img src='assets/arrowup.png' height=25><h3 class='sc subtitle'><a href=$_SERVER[PHP_SELF]?action=list&file=".$rootdir['dirname']."/>Org".$rootdir['dirname']."</a>/".$rootdir['filename']."<h3></div>";
 
-   echo "<h2 class='sc subtitle2'>". $rootdir['filename']."</h3>";
+#   echo "<h2 class='sc subtitle2'>". $rootdir['filename']."</h3>";
 } 
 
 
