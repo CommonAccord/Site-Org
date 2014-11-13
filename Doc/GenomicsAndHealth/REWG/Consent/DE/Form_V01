@@ -30,7 +30,7 @@ Doc.Ti=GA4GH Modell Data Sharing Einverständniserklärung
 
 1.1.3.Sen=Dieses Projekt wird von {Framework.URL} geführt.
 
-Framework.URL=[[GenomicsAndHealth / REWG / Framework / V01 | das Framework for Responsible Freigabe von genomischer und gesundheitsbezogenen Daten]]
+Framework.URL=GenomicsAndHealth / REWG / Framework / V01 
 
 1.2.sec=Der {Study.Name.Full} werden einige oder alle der folgenden Angaben enthalten: {1.2.List}
 
