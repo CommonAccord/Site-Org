@@ -13,14 +13,14 @@ echo "Root directory: <a href=$_SERVER[PHP_SELF]?action=list&file=$rootdir[dirna
 
 <div id="tabs">
   <ul>
-    <li><a href="#tabs-1">Source</a></li>
-    <li><a href="#tabs-2">Render</a></li>
-    <li><a href="#tabs-3">Edit</a></li>
+    <li><a href="#tab-source">Source</a></li>
+    <li><a href="#tab-render">Render</a></li>
+    <li><a href="#tab-edit">Edit</a></li>
  </ul>
 
 
 
-<div id="tabs-1">
+<div id="tab-source">
 
 <!--table formatting for the document -->
 <table class="TFtable";>
@@ -47,7 +47,7 @@ foreach($contents as $n) {
 
 </div>
 
-<div id="tabs-2">
+<div id="tab-render">
 <? 
 	echo `perl parser2.pl $path/$dir`;
 	#system("perl parser2.pl $path/$dir  > $path/Output999.html");
@@ -58,10 +58,10 @@ foreach($contents as $n) {
 ?>
 </div>
 
-<div id="tabs-3">
+<div id="tab-edit">
 
 <?
-echo "
+echo "Edit in the wiki (copy the text below then click here): <a href=http://response.commonaccord.org/$rootdir[dirname]/$filenameX>$rootdir[dirname]/$filenameX</a>
 <form action=$_SERVER[PHP_SELF] method='post'>
         <textarea id='textedit' cols=125 rows=30 name='newcontent' style='padding:20px;'>";
 echo file_get_contents($path.$dir, FILE_USE_INCLUDE_PATH);
@@ -74,6 +74,11 @@ echo '  </textarea><br>
 
 ?>
 </div>
+
+</div>
+
+
+
 
 </div></div>
 
