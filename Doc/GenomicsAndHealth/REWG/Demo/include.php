@@ -7,7 +7,7 @@
 <div class="row">
    This example illustrates the use of CommonAccord for the creation of Consent Forms, which can inherit different clauses according to the language, jurisdiction, situation of the patient, nature of the study, etc. In the pages, switch between the tabs (Source, Render, or Edit) to see how it works:
 <ul><li>Common Resources<ul>
-<li><a href="http://commonaccord.org/index.php?action=source&file=./GenomicsAndHealth/REWG/Consent/Outline_V01">Outline_V01</a>: The taxonomy of the template Consent Form</li>
+<li><a href="http://commonaccord.org/index.php?action=source&file=./GenomicsAndHealth/REWG/Consent/Outline/V01">Outline_V01</a>: The taxonomy of the template Consent Form</li>
    <li>Forms  (Note: <font color="red">ONLY the first of these, the "US" English version, is text from the GA4GH.  The French and German were done by plopping the English text into Google translate.</font>)<ul>
 <li><a href="http://commonaccord.org/index.php?action=source&file=./GenomicsAndHealth/REWG/Consent/In/EN/Form/V02">Form_US</a>: Library for English-language Forms</li>
 <li><a href="http://commonaccord.org/index.php?action=source&file=./GenomicsAndHealth/REWG/Consent/FR/Form_V01">Form_FR</a>: Library for French-based Forms</li>
