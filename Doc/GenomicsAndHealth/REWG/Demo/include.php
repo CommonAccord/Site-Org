@@ -9,7 +9,7 @@
 <ul><li>Common Resources<ul>
 <li><a href="http://commonaccord.org/index.php?action=source&file=./GenomicsAndHealth/REWG/Consent/Outline_V01">Outline_V01</a>: The taxonomy of the template Consent Form</li>
    <li>Forms  (Note: <font color="red">ONLY the first of these, the "US" English version, is text from the GA4GH.  The French and German were done by plopping the English text into Google translate.</font>)<ul>
-<li><a href="http://commonaccord.org/index.php?action=source&file=./GenomicsAndHealth/REWG/Consent/US/Form_V01">Form_US</a>: Library for US-based Forms</li>
+<li><a href="http://commonaccord.org/index.php?action=source&file=./GenomicsAndHealth/REWG/Consent/In/EN/Form/V02">Form_US</a>: Library for English-language Forms</li>
 <li><a href="http://commonaccord.org/index.php?action=source&file=./GenomicsAndHealth/REWG/Consent/FR/Form_V01">Form_FR</a>: Library for French-based Forms</li>
 <li><a href="http://commonaccord.org/index.php?action=source&file=./GenomicsAndHealth/REWG/Consent/DE/Form_V01">Form_DE</a>: Library for German-based Forms</li></ul> The text is also available in the wiki at <a href="http://response.commonaccord.org/GenomicsAndHealth/REWG/Consent/">response.commonaccord.org</a>.</ul>
 <li>The Study<ul>

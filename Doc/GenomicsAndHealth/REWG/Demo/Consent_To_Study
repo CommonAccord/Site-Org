@@ -4,7 +4,6 @@ Study.=[GenomicsAndHealth/REWG/Demo/Study_N01]
 Note/3.1.List= This is the list of forms of access to the Donor's data. Here we include all three.
 3.1.List={3.1.List.123.cl}
 
-4.3.1.Sen={m-}{+.JTW.1.2}  {+.JTW.3.1}{-m}
 Note/5.1=Concerns compensation.  The choice "5.1.N" means no compensation. "5.1.R" provides for reimbursement.
 5.1.sec={5.1.N.sec}
 
