@@ -35,7 +35,7 @@
 </tr>
 
 <tr>
-<td><img src="https://www.manilla.com/wp-content/uploads/2011/06/ph-paperstack.jpg" height="50px"></td>
+<td><img src="http://www.lakelocal.org/forms/PublishingImages/forms-icon.jpg" height="50px"></td>
 				 <td><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=core/form/>form</a></td><td>Forms are templates, model documents, boilerplate and other codified text.  Contracts, permits, pleadings, adaptations for particular jurisdictions and the like.</td>
 </tr>
 
