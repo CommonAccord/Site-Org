@@ -6,6 +6,7 @@ Atty.=[core/id/andrews_and_applegate_pllc]
 
 Name.Full=Acme Inc.
 
+www.web.com=www.acme.com
 
 Email=info@acme.com
 
@@ -48,4 +49,3 @@ CWD.Full=Contingent Worker's Database
 email.CWD.com=cwdbase@acme.com
 
 CWD.Addr.1,2={Addr.1,2}
-										            
