@@ -19,4 +19,4 @@ the=the City of Boston
 
 Agent.Notice.Block=Jose Gonzalez, Designated Agent<br>City of Boston Legal Department <br>P: 617-635-4936<br>E: Jose.Gonzalez@cityofboston.gov
 
-http.web.com/policies.html=http://www.cityofboston.gov/copyright/privacyandsecurity.asp
+http.web.com/policies.html.Link=<a href="http://www.cityofboston.gov/copyright/privacyandsecurity.asp">Privacy Policy</a>

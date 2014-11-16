@@ -1,6 +1,6 @@
-City=
+City=City of Kansas City
 
-web.com=
+web.com=kc.gov
 
 PublicRecordsLaws.withCitation=
 
@@ -12,10 +12,10 @@ Webmaster.Link=
 
 Youth.com=
 
-The=
+The=The {City}
 
-the=
+the=the {City}
 
 Agent.Notice.Block=
 
-http.web.com/policies.html=p
+http.web.com/policies.html=
