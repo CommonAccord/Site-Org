@@ -6,13 +6,16 @@ Name.First=Abigail
 
 Name.Last=Altima
 
-Phone=617.555.5550
+Phone={Phone.Fixed}
+
+Phone.Fixed=617.555.5550
+
+Phone.Mobile=617.444.2223
+
+Email=abigail@altimaomelettes.com
 
 Addr.Street.#=75
 
 Addr.Type=business
 
 Addr.Zip=02109
-
-
-							
