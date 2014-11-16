@@ -7,14 +7,15 @@
 	 <p align="center"><img src="assets/cmacc-trans.png" style="width:50%" /></p>
 <br/>
 <hr>
-<h2 class="title"><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=/GenomicsAndHealth/REWG/Demo/>Automating Patient Consents</a></h2>
-<h2 class="title"><a href="http://response.commonaccord.org/Main_Page">response.commonaccord.org - Ebola response wiki</a></h2>
-<h2 class="title"><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=01/>Outline of a legal operating system</a></h2>
+<h3 class="title">A world without paperwork</h3>
 
-<h3 class="title">CommonAccord is an open source software<br/> and law project.</h1>
+<h4 class="title"><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=/GenomicsAndHealth/REWG/Demo/>Automating Patient Consents</a></h4>
+<h4 class="title"><a href="http://response.commonaccord.org/Main_Page">response.commonaccord.org - Ebola response wiki</a></h4>
+<h4 class="title"><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=01/>Outline of a legal operating system</a></h4>
+
+<h3 class="title">Open source software<br/> and legal docs.</h1>
 <hr>
-<h3 class="title">lawyers and programmers collaborating on<br/> a global system of codified law.</h4>
-<br/><br/>
+<br/>
 
 <!--
                         <div id="code" class="jtitle">

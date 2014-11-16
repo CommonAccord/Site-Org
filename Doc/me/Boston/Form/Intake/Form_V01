@@ -1,4 +1,6 @@
-Model.Root=<b>{Head}</b><br><br><ol><li>{Session.Sec}</li><li>{Client.Sec}</li><li>{Project.Sec}</li><li>{Business.Sec}</li></ol>
+Model.Root={Intake.DocBody}
+
+Intake.DocBody=<b>{Head}</b><br><br><ol><li>{Session.Sec}</li><li>{Client.Sec}</li><li>{Project.Sec}</li><li>{Business.Sec}</li></ol>
 
 Head={LH}<br>{Ti}
 
@@ -22,3 +24,4 @@ Food=Food Sector
 Service=Service Sector
 
 Retail=Retail Section
+mcolor=magenta

@@ -1,6 +1,6 @@
 =[core/class/ID_She]
 
-=[core/at/USA/MA/Suffolk/Boston/State_Street/Geo]
+=[core/at/USA/MA/Suffolk/Boston/State_Street/75/Geo]
 
 Name.First=Abigail
 
@@ -14,8 +14,4 @@ Phone.Mobile=617.444.2223
 
 Email=abigail@altimaomelettes.com
 
-Addr.Street.#=75
-
 Addr.Type=business
-
-Addr.Zip=02109
