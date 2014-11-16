@@ -7,7 +7,7 @@ LH=Office of Business Development/Boston Main Street
 Ti=CLIENT/BUSINESS INTAKE FORM
               
 
-Session.Sec=<b>Session:</b><ul><li><b>Date:</b> {Session.Date}</li><li><b>Staff:</b>  {Session.Author.Name.Full}</li><li><b>Session Type:</b> (<u>V</u>isit, <u>P</u>hone, <u>W</u>alk-in) {Session.Type}</li><li><b>Referral:</b> {Referral.Name.Full}</li><li><b>Notes:</b> {Note}</li><li><b>Application Completed?:</b> (Yes/No) {Application.Completed}</li></ul>
+Session.Sec=<b>Session:</b><ul><li><b>Date:</b> {Session.Date}</li><li><b>Staff:</b>  {Session.Author.Name.Full}</li><li><b>Session Type:</b> (<u>V</u>isit, <u>P</u>hone, <u>W</u>alk-in) {Session.Type}</li><li><b>Referral:</b> {Referral.Name.Full}</li><li><b>Notes:</b> {Note}</li><li><b>Application Completed?:</b> (<u>Y</u>es/<u>N</u>o) {Application.Completed}</li></ul>
 
 
 Client.Sec=<b>Client:</b><ul><li><b>First Name:</b>  {Client.Name.First}</li><li><b>Last Name:</b> {Client.Name.Last}</li><li><b>Phone:</b> {Client.Phone.Fixed}</li><li><b>Mobile:</b> {Client.Phone.Mobile}</li><li><b>Email:</b> {Client.Email}</li></li><li><b>Immigrant:</b> {Client.Immigrant}</li><li><b>Ethnicity:</b> {Client.Ethnicity}</li><li><b>Language:</b> {Client.Language}</li></ul>
