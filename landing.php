@@ -10,6 +10,8 @@
 <h3 class="title">A world without paperwork</h3>
 
 <h3><a href="http://www.commonaccord.org/index.php?action=list&file=./me/Boston/Doc/">Boston/Doc/</a></h3>
+        <h4 class="title"><a href="https://github.com/CommonAccord/commonaccord/tree/master/Doc">Github repo</a> //  <a href="https://twitter.com/commonaccord">@commonaccord</a> // <a href="http://lists.commonaccord.org/archive/cmacc/">mailing list</a></h4>
+
 <h4 class="title"><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=/GenomicsAndHealth/REWG/Demo/>Automating Patient Consents</a></h4>
 <h4 class="title"><a href="http://response.commonaccord.org/Main_Page">response.commonaccord.org - Ebola response wiki</a></h4>
 <h4 class="title"><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=01/>Outline of a legal operating system</a></h4>
@@ -29,7 +31,6 @@
 <h4 class="subtitle">Applying source methods to open source licenses <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=me/cc/license/4_0/>Creative Commons Licenses</a></h4>    
        <h4 class="subtitle">Learn <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=about/how/>how it works</a>.</h4>
         <h4 class="subtitle">See <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=doc/>some deals</a>.</h4>
-        <h4 class="subtitle">Browse <a href="https://github.com/CommonAccord/commonaccord/tree/master/Doc">the Github repo</a>.</h4>
 
  <h4>NO MENTION OF ANY PERSON ON THE SITE SHOULD BE UNDERSTOOD TO INDICATE ANY ENDORSEMENT OR APPROVAL.  NOR THE TRUTH OF ANY STATEMENT OR RELATIONSHIP.  SOME PUBLIC FIGURES ARE MENTIONED AND SOME OF THE INFORMATION ABOUT THEM IS DRAWN FROM PUBLIC RECORDS.  BUT OTHER PARTS ARE INVENTED.  DO NOT TREAT ANY OF THIS INFORMATION AS TRUE.  SIMILARLY, DO NOT TREAT THIS AS LEGAL ADVICE OR EVEN AS RELIABLE PRECEDENTS.</h4>
   

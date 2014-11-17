@@ -1,0 +1,34 @@
+=[core/class/Agt_Sections]
+
+Model.Root={Sec}
+Sec={T-14}
+
+Ti=Miscellaneous
+
+1.Ti=Notices
+
+2.Ti=Assignment
+
+3.Ti=Change of Control
+
+4.Ti=Force Majeure
+
+5.Ti=No Agency
+
+6.Ti=No Waiver
+
+7.Ti=Severability
+
+8.Ti=No Third-Party Beneficiaries
+
+9.Ti=Equitable Relief
+
+10.Ti=Governing Law
+
+11.Ti=Amendments
+
+12.Ti=Survival
+
+13.Ti=Entire Agreement
+
+14.Ti=Conflicting Terms
