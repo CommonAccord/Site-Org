@@ -1,0 +1,13 @@
+=[01/Agt/Bit/Outline_Components_V01]
+
+DocBody={Sec}
+
+Sec={T-3}
+
+/Ti=Limitation of Liability
+
+1.Sec=<b>Limitation on Indirect Liability.</b> To the maximum extent permitted by applicable law, neither {party}, nor {P1.Handle}’s suppliers, will be liable under {this Agreement} for lost revenues or indirect, special, incidental, consequential, exemplary, or punitive damages, even if the {party} knew or should have known that such damages were possible and even if direct damages do not satisfy a remedy.
+
+2.Sec=<b>Limitation on Amount of Liability.</b> To the maximum extent permitted by applicable law, neither {party}, nor {P1.Handle}’s suppliers, may be held liable under {this Agreement} for more than the amount paid by {P2.Handle} to {P1.Handle} during the twelve months prior to the event giving rise to liability.
+
+3.Sec=<b>Exceptions to Limitations.</b> These limitations of liability do not apply to breaches of confidentiality obligations, violations of a {party}’s {Intellectual_Property_Rights} by the other {party}, or indemnification obligations.
