@@ -1,5 +1,8 @@
 15.=[01/Agt/Sec/Misc/Library_Sec_T01_V01]
-=[core/class/Agt_Sections]
+16.=[01/Agt/Sec/Def/Library_Def_T02_V01]
+
+=[01/Agt/Bit/Outline_Components_V01]
+=[01/Agt/Phrase/ToU/Library_DefinedTerms_T01_V01]
 
 Model.Root={T-16}
 1.Ti=Services

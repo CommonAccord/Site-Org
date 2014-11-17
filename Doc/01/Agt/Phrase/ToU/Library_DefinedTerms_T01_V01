@@ -1,0 +1,53 @@
+Account=<font color="magenta">Account</font>
+Admin_Console=<font color="magenta">Admin Console</font>
+Affiliate=<font color="magenta">Affiliate</font>
+This Agreement=<font color="magenta">This Agreement</font>
+this Agreement=<font color="magenta">this Agreement</font>
+Allegation=<font color="magenta">Allegation</font>
+Application(s)=<font color="magenta">Application(s)</font>
+AUP=<font color="magenta">AUP</font>
+Brand_Features=<font color="magenta">Brand Features</font>
+Committed_Purchase(s)=<font color="magenta">Committed Purchase(s)</font>
+Confidential_Information=<font color="magenta">Confidential Information</font>
+Control=<font color="magenta">Control</font>
+Controlled=<font color="magenta">Controlled</font>
+Controls=<font color="magenta">Controls</font>
+Data_Processing_and_Security_Terms=<font color="magenta">Data Processing and Security Terms</font>
+Documentation=<font color="magenta">Documentation</font>
+Effective_Date=<font color="magenta">Effective Date</font>
+Emergency_Security_Issue=<font color="magenta">Emergency Security Issue</font>
+End_User=<font color="magenta">End User</font>
+End_Users=<font color="magenta">End Users</font>
+Fee_Threshold=<font color="magenta">Fee Threshold</font>
+Fees=<font color="magenta">Fees</font>
+High_Risk_Activities=<font color="magenta">High Risk Activities</font>
+HIPAA=<font color="magenta">HIPAA</font>
+Indemnified_Liabilities=<font color="magenta">Indemnified Liabilities</font>
+Instance=<font color="magenta">Instance</font>
+Instances=<font color="magenta">Instances</font>
+Intellectual_Property_Rights=<font color="magenta">Intellectual Property Rights</font>
+Legal_Process=<font color="magenta">Legal Process</font>
+License_Term=<font color="magenta">License Term</font>
+P1_Brand_Features=<font color="magenta">{P1.Handle} Brand Features</font>
+P2_Data=<font color="magenta">{P2.Handle} Data</font>
+Package_Purchase=<font color="magenta">Package Purchase</font>
+parties=<font color="magenta">parties</font>
+party=<font color="magenta">party</font>
+Project=<font color="magenta">Project</font>
+Projects=<font color="magenta">Projects</font>
+Reserved_Capacity_Units=<font color="magenta">Reserved Capacity Units</font>
+Reserved_Unit_Term=<font color="magenta">Reserved Unit Term</font>
+Reserved_Units=<font color="magenta">Reserved Units</font>
+Service_Level_Agreement=<font color="magenta">Service Level Agreement</font>
+Service_Specific_Terms=<font color="magenta">Service Specific Terms</font>
+Services=<font color="magenta">Services</font>
+SLA=<font color="magenta">SLA</font>
+Software=<font color="magenta">Software</font>
+Taxes=<font color="magenta">Taxes</font>
+Terms_URL=<font color="magenta">Terms URL</font>
+Third-Party_Legal_Proceeding=<font color="magenta">Third-Party Legal Proceeding</font>
+Token=<font color="magenta">Token</font>
+Trademark_Guidelines=<font color="magenta">Trademark Guidelines</font>
+TSS=<font color="magenta">TSS</font>
+TSS_Guidelines=<font color="magenta">TSS Guidelines</font>
+Updates=<font color="magenta">Updates</font>
