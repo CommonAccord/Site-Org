@@ -1,3 +1,4 @@
+0.=[01/Agt/Sec/Intro/ToU/Library_T01_V01]
 1.=[01/Agt/Sec/Service/Library_Cloud_T01_V01]
 2.=[01/Agt/Sec/Fee/Subscribe/Library_T01_V01]
 3.=[01/Agt/Sec/Engage/P2/Library_T01_V01]
@@ -12,16 +13,16 @@
 12.=[01/Agt/Sec/Limit/Liability/Library_T01_V01]
 13.=[01/Agt/Sec/Indemn/Library_T01_V01]
 14.=[01/Agt/Sec/Gov/US/Library_T01_V01]
-15.=[01/Agt/Sec/Misc/Library_Sec_T01_V01]
-16.=[01/Agt/Sec/Def/Library_Def_T02_V01]
-
-P1.Handle=Company
-P2.Handle=Customer
+15.=[01/Agt/Sec/Misc/Library_T01_V01]
+16.=[01/Agt/Sec/Def/Library_T02_V01]
 
 =[01/Agt/Bit/Outline_Components_V01]
 =[01/Agt/Phrase/ToU/Library_DefinedTerms_T01_V01]
 
-Model.Root={T-16}
+
+Model.Root={T0-16}
+Ti=<b></b>
+0.Ti={P1_Platform_Services} License Agreement
 1.Ti=Services
 2.Ti=Payment
 3.Ti=P2_Obligations

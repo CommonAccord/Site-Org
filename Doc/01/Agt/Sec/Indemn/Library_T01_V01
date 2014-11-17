@@ -12,7 +12,7 @@ Sec={T-6}
 
 Ti=Indemnification
 
-1.Sec=<u>By {P2.Handle}</u>. Unless prohibited by applicable law, {P2.Handle} will defend and indemnify {P1.Handle} and its {Affiliates} against {Indemnified_Liabilities} in any {Third-Party_Legal_Proceeding} to the extent arising from: (i) any {Application}, {Project}, {Instance}, {P2_Data} or Customer {Brand_Features}; or (ii) {P2.Handle}’s, or its {End Users}’, use of the {Services} in violation of the {AUP}.
+1.Sec=<u>By {P2.Handle}</u>. Unless prohibited by applicable law, {P2.Handle} will defend and indemnify {P1.Handle} and its {Affiliates} against {Indemnified_Liabilities} in any {Third-Party_Legal_Proceeding} to the extent arising from: (i) any {Application}, {Project}, {Instance}, {P2_Data} or Customer {Brand_Features}; or (ii) {P2.Handle}’s, or its {End_Users}’, use of the {Services} in violation of the {AUP}.
 
 2.Sec=<u>By {P1.Handle}</u>.{P1.Handle} will defend and indemnify {P2.Handle} and its {Affiliates} against {Indemnified_Liabilities} in any {Third-Party_Legal_Proceeding} to the extent arising solely from an {Allegation} that use of (a) {P1.Handle}’s technology used to provide the {Services} (excluding any open source software) or (b) any {P1_Brand_Feature} infringes or misappropriates the third party’s patent, copyright, trade secret, or trademark. 
 

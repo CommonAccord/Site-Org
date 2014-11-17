@@ -13,11 +13,10 @@ Ti=Term and Termination
 2.Sec=<b>Termination for Breach</b>.  Either party may terminate {this Agreement} for breach if: (i) the other party is in material breach of {this Agreement} and fails to cure that breach within thirty days after receipt of written notice; (ii) the other party ceases its business operations or becomes subject to insolvency proceedings and the proceedings are not dismissed within ninety days; or (iii) the other party is in material breach of {this Agreement} more than two times notwithstanding any cure of such breaches. In addition, {P1.Handle} may terminate any, all, or any portion of the {Services} or {Projects}, if {P2.Handle} meets any of the conditions in Section 2(i), (ii), and/or (iii).
 
 
-3.Sec=<b>Termination for Inactivity</b>.  {P1.Handle} reserves the right to terminate the {Services} for inactivity, if, for a period exceeding 180 days, {P2.Handle}: (a) has failed to access the {Admin Console}; (b) a {Project} has no active virtual machine or storage resources or an {Application} has not served any requests; and (c) no electronic bills are being generated.
+3.Sec=<b>Termination for Inactivity</b>.  {P1.Handle} reserves the right to terminate the {Services} for inactivity, if, for a period exceeding 180 days, {P2.Handle}: (a) has failed to access the {Admin_Console}; (b) a {Project} has no active virtual machine or storage resources or an {Application} has not served any requests; and (c) no electronic bills are being generated.
 
 
 4.Sec=<b>Termination for Convenience</b>.  {P2.Handle} may stop using the {Services} at any time. {P2.Handle} may terminate {this Agreement} for its convenience at any time on prior written notice and upon termination, must cease use of the applicable {Services}. {P1.Handle} may terminate {this Agreement} for its convenience at any time without liability to {P2.Handle}.  Subject to Section 6.3, {P1.Handle} may discontinue any {Services} or any portion or feature for any reason at any time without liability to {P2.Handle}.
 
 
 5.Sec=<b>Effect of Termination</b>.  If {this Agreement} expires or is terminated, then: (i) the rights granted by one party to the other will immediately cease; (ii) all {Fees} (including {Taxes}) owed by {P2.Handle} to {P1.Handle} are immediately due upon receipt of the final electronic bill; (iii) {P2.Handle} will delete the {Software}, any {Application}, {Instance}, {Project}, and any {P2_Data}; and (iv) upon request, each party will use commercially reasonable efforts to return or destroy all {Confidential_Information} of the other party.
-
