@@ -18,7 +18,7 @@ Ti=Indemnification
 
 3.Ti=Exclusions
 
-3.0.sec=This Section 13 will not apply to the extent the underlying {Allegation} arises from:
+3.0.Sec=This Section 13 will not apply to the extent the underlying {Allegation} arises from:
 
 3.1.Sec=the indemnified party’s breach of {this Agreement};
 
@@ -31,7 +31,7 @@ Ti=Indemnification
 
 4.Ti=Conditions
 
-4.0.sec=Sections 13.1 and 13.2 will apply only to the extent:
+4.0.Sec=Sections 13.1 and 13.2 will apply only to the extent:
 
 4.1.Sec=The indemnified party has promptly notified the indemnifying party in writing of any {Allegation}(s) that preceded the {Third-Party_Legal_Proceeding} and cooperates reasonably with the indemnifying party to resolve the {Allegation}(s) and {Third-Party_Legal_Proceeding}. If breach of this Section 13.4(a) prejudices the defense of the {Third-Party_Legal_Proceeding}, the indemnifying party’s obligations under Section 13.1 or 13.2 (as applicable) will be reduced in proportion to the prejudice.
 

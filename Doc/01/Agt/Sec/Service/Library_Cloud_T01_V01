@@ -5,7 +5,7 @@ Sec={T-8}
 
 Ti=Provision of the {Services}
 
-1.Sec=<u>{Services} Use</u>. Subject to {this Agreement}, during the {Term}, {P2.Handle} may: (a) use the {Services}, (b) integrate the {Services} into any {Application} and provide the {Services}, solely as integrated into the {Application}, to {End Users}, and (c) use any {Software} provided by {P1.Handle} as part of the {Services}. But {P2.Handle} may not sublicense or transfer these rights except as permitted under the Assignment section of {this Agreement}.
+1.Sec=<u>{Services} Use</u>. Subject to {this Agreement}, during the {Term}, {P2.Handle} may: (a) use the {Services}, (b) integrate the {Services} into any {Application} and provide the {Services}, solely as integrated into the {Application}, to {End_Users}, and (c) use any {Software} provided by {P1.Handle} as part of the {Services}. But {P2.Handle} may not sublicense or transfer these rights except as permitted under the Assignment section of {this Agreement}.
 
 2.Sec=<u>Console</u>.  {P1.Handle} will provide the {Services} to {P2.Handle}.  As part of receiving the {Services}, {P2.Handle} will have access to the {Admin_Console}, through which {P2.Handle} may administer the {Services}.
 

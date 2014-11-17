@@ -1,0 +1,30 @@
+=[01/Agt/Bit/Outline_Components_V01]
+
+3.=[01/Agt/Bit/Outline_Components_V01]
+
+Sec={T-3}
+
+3.Sec={3.T0-2}
+
+Ti=Technical Support Services
+
+1.Sec=<u>By {P2.Handle}</u>. {P2.Handle} is responsible for technical support of its {Applications} and {Projects}.
+
+
+2.Sec=<u>By {P1.Handle}</u>.Subject to payment of applicable support {Fees}, {P1.Handle} will provide {TSS} to {P2.Handle} during the {License_Term} in accordance with the {TSS_Guidelines}. Certain {TSS} levels include a minimum recurring {Fee} as described in the "{Fees}" definition below. If {P2.Handle} downgrades its {TSS} level during any calendar month, {P1.Handle} may continue to provide {TSS} at the same level and {TSS_Fees} before the downgrade for the remainder of that month.
+
+
+3.Ti={Deprecation_Policy}
+
+3.0.Sec={P1.Handle} will announce if it intends to discontinue or make backwards incompatible changes to the {Services} specified at the URL in the next sentence. {P1.Handle} will use commercially reasonable efforts to continue to operate those {Services} versions and features identified at {P1.www.web.com/DeprecationPolicy.Link} without these changes for at least one year after that announcement, unless (as {P1.Handle} determines in its reasonable good faith judgment):
+
+
+3.1.Sec=required by law or third party relationship (including if there is a change in applicable law or relationship), or
+
+
+3.2.Sec=doing so could create a security risk or substantial economic or material technical burden.
+
+
+3.90.Sec=The above policy is the "<u>{Deprecation_Policy}</u>."
+
+

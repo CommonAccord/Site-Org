@@ -1,9 +1,22 @@
 1.=[01/Agt/Sec/Service/Library_Cloud_T01_V01]
+2.=[01/Agt/Sec/Fee/Subscribe/Library_T01_V01]
+3.=[01/Agt/Sec/Engage/P2/Library_T01_V01]
+4.=[01/Agt/Sec/User/Suspend/Library_T01_V01]
+5.=[01/Agt/Sec/IP/StandStill/Library_T01_V01]
+6.=[01/Agt/Sec/Support/Technical/Library_T01_V01]
+7.=[01/Agt/Sec/Conf/Library_T01_V01]
+8.=[01/Agt/Sec/Time/Library_T01_V01]
+9.=[01/Agt/Sec/Publicity/Library_T01_V01]
+10.=[01/Agt/Sec/Rep/Parties/Library_T01_V01]
+11.=[01/Agt/Sec/Disclaim/Library_T01_V01]
 12.=[01/Agt/Sec/Limit/Liability/Library_T01_V01]
 13.=[01/Agt/Sec/Indemn/Library_T01_V01]
+14.=[01/Agt/Sec/Gov/US/Library_T01_V01]
 15.=[01/Agt/Sec/Misc/Library_Sec_T01_V01]
 16.=[01/Agt/Sec/Def/Library_Def_T02_V01]
 
+P1.Handle=Company
+P2.Handle=Customer
 
 =[01/Agt/Bit/Outline_Components_V01]
 =[01/Agt/Phrase/ToU/Library_DefinedTerms_T01_V01]
@@ -25,6 +38,3 @@ Model.Root={T-16}
 14.Ti=U.S. Federal Agency Users
 15.Ti=Miscellaneous
 16.Ti=Definitions
-
-
-5.Sec=<b>{5.Ti}</b><ol><li>Intellectual Property Rights</li><li>Use of {Customer_Data}</li><li>Feedback</li></ol>
