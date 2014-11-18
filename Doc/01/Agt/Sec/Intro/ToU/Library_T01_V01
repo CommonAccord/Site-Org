@@ -1,15 +1,17 @@
 =[01/Agt/Bit/Outline_Components_V01]
 
-Version.LastModified=Oct 3, 2014
+Version=Oct 3, 2014
 
 Meta.Aside=If you are accessing the {P1_Platform_Services} as a customer of a {P1_Platform} reseller, the terms below do not apply to you, and your agreement with your reseller governs your use of the {P1_Platform_Services}.
-Ti=<b></b>
-Sec={T-2}
+
+Sec={1.Sec}<br>{2.Sec}
 
 1.Sec=This {Ti} (the "Agreement") is made and entered into by and between {P1.Handle} and the business entity agreeing to these terms ("{P2.Handle}"). "{P1.Handle}" means {P1.FullLegalDesignation}.
 
+2.Sec={2.Intro}<ol><li>{2.1.Sec}</li><li>{2.2.Sec}</li><li>{2.3.Sec}</li></ol>{2.90.Sec}
 
-2.Sec={2.Intro}<ol><li>{2.1.Sec}</li><li>{2.2.Sec}</li><li>{2.3.Sec}</li></ol>{2.91.Sec}<br>{2.92.Sec}
+2.90.Sec={2.91.Sec}<br>{2.92.Sec}
+
 2.Intro={This Agreement} is effective as of the date {P2.Handle} clicks the "I Accept" button below (the "Effective Date").  If you are accepting on behalf of {P2.Handle}, you represent and warrant that:
 2.1.Sec=you have full legal authority to bind {P2.Handle} to {this Agreement};
 2.2.Sec=you have read and understand {this Agreement}; and

@@ -1,3 +1,29 @@
 =[01/Agt/Type/ToU/Outline_V01]
+P1.=[core/id/acme_incorporated]
 P1.Handle=<font color="red">Acme</font>
 P2.Handle=<font color="red">Customer</font>
+
+P1.FullLegalDesignation={P1.N,E,A}
+P1.www.web.com/OffLineVersionOfAgreement.Link=<a href="www.acme.com/OffLineVersionOfAgreement">Offline Version</a>
+P1.www.web.com/DMCATakeDown.Link=<a href="www.acme.com/DMCATakeDown">Take Down</a>
+P1.www.web.com/DeprecationPolicy.Link=<a href="www.acme.com/DeprecationPolicy">Deprecation Policy</a>
+P1.Legal.Email.Link=contact@acme.com
+Dispute.Law.State.the=the Commonwealth of Massachusetts
+Dispute.Law.State=Massachusetts
+Dispute.Forum._cl=the state and federal courts for Suffolk County, Massachusetts
+P1.www.web.com/AcceptableUse.Link=<a href="www.acme.com/AcceptableUse">Acceptable Use</a>
+P1.www.web.com/DataProcessingAndSecurityTerms.Link=<a href="www.acme.com/DataProcessingAndSecurityTerms">Security</a>
+P1_Service_1=Platform Cloud Services
+P1.www.web.com/P1_Service_1/AcceptableUse.Link=<a href="www.acme.com/P1_Service_1/AcceptableUse">Cloud Service Acceptable Use</a>
+P1.www.web.com/Pricing.Link=<a href="www.acme.com/Pricing">Pricing</a>
+P1.www.web.com/OtherServices.Link=<a href="www.acme.com/OtherServices">Other Services</a>
+P1.www.web.com/ServiceTerms.Link=<a href="www.acme.com/ServiceTerms">Service Terms</a>
+P1.www.web.com/P1_Service_1/SLA.Link=<a href="www.acme.com/P1_Service_1/SLA">SLA</a>
+P1.www.web.com/Terms.Link=<a href="www.acme.com/Terms">Terms</a>
+P1.www.web.com/3PartyUseGuidelines.Link=<a href="www.acme.com/3PartyUseGuidelines">Third-Party Use Guidelines</a>
+P1.www.web.com/EnterpriseTerms.Link=<a href="www.acme.com/EnterpriseTerms">Enterprise Terms</a>
+16.Def.Account=“{Account}” means {P2.Handle}’s {P1.Handle} account (either under a gmail.com address or an email address provided under the “{P1_Service_1}” product line), which is offered under and subject to the relevant terms of service.
+
+16.Def.Documentation=“{Documentation}” means the {P1.Handle} documentation (as may be updated from time to time) in the form generally made available by {P1.Handle} to its customers for use with the following {Services}: {P1_Service_1}, set forth here: {P1.www.web.com/P1_Service_1/AcceptableUse.Link}.
+16.Def.Services=“{Services}” mean, as applicable: {P1_Service_1} and such other services as set forth here: {P1.www.web.com/OtherServices.Link} (including any associated application programming interfaces).
+16.Def.SLA=“{SLA}” means the {Service_Level_Agreement} as applicable to: {P1_Service_1} set forth here: {P1.www.web.com/P1_Service_1/SLA.Link}.
