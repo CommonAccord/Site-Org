@@ -1,5 +1,6 @@
 =[01/Agt/Sec/Misc/Library_Ti_T01_V01]
-
+10.=[01/Agt/Sec/Law/Library_T01_V01]
+10.Xnum={Xnum}.10
 1.sec=All notices must be in writing and addressed to the other {party}’s legal department and primary point of contact.  The email address for notices being sent to {P1.Handle}’s Legal Department is {P1.Legal.Email.Link}.  Notice will be treated as given on receipt as verified by written or automated receipt or by electronic log (as applicable).
 
 2.sec=Neither {party} may assign any part of {this Agreement} without the written consent of the other, except to an {Affiliate} where: (a) the assignee has agreed in writing to be bound by the terms of {this Agreement}; (b) the assigning {party} remains liable for obligations under {this Agreement} if the assignee defaults on them; and (c) the assigning {party} has notified the other {party} of the assignment.  Any other attempt to assign is void.
@@ -17,14 +18,6 @@
 8.sec={This Agreement} does not confer any benefits on any third party unless it expressly states that it does.
 
 9.sec=Nothing in {this Agreement} will limit either {party}’s ability to seek equitable relief.
-
-10.sec=<ol><li>{10.1.Sec}</li><li>{10.2.Sec}</li><li>{10.3.Sec}</li></ol>
-
-10.1.Sec=<b>For U.S. City, County, and State Government Entities.</b>  If {P2.Handle} is a U.S. city, county or state government entity, then {this Agreement} will be silent regarding governing law and venue.
-
-10.2.Sec=<b>For U.S. Federal Government Entities.</b>  If {P2.Handle} is a U.S. federal government entity then the following applies:  <span style="text-transform: uppercase;">ALL CLAIMS ARISING OUT OF OR RELATING TO {this Agreement} OR THE {Services} WILL BE GOVERNED BY THE LAWS OF THE UNITED STATES OF AMERICA, EXCLUDING ITS CONFLICT OF LAWS RULES. SOLELY TO THE EXTENT PERMITTED BY FEDERAL LAW: (I) THE LAWS OF {Dispute.Law.State.the} (EXCLUDING {Dispute.Law.State}’S CONFLICT OF LAWS RULES) WILL APPLY IN THE ABSENCE OF APPLICABLE FEDERAL LAW; AND (II) FOR ALL CLAIMS ARISING OUT OF OR RELATING TO {this Agreement} OR THE SERVICES, THE PARTIES CONSENT TO PERSONAL JURISDICTION IN, AND THE EXCLUSIVE VENUE OF, {Dispute.Forum._cl}</span>.
-
-10.3.Sec=<b>For All Other Entities.</b>  If {P2.Handle} is any entity not set forth in Section {10.1.Xnum} or {10.2.Xnum} then the following applies: <span style="text-transform: uppercase;">ALL CLAIMS ARISING OUT OF OR RELATING TO {this Agreement} OR THE {Services} WILL BE GOVERNED BY {Dispute.Law.State} LAW, EXCLUDING THAT STATE’S CONFLICT OF LAWS RULES, AND WILL BE LITIGATED EXCLUSIVELY IN {Dispute.Forum._cl}; THE {parties} CONSENT TO PERSONAL JURISDICTION IN THOSE COURTS.</span>
 
 11.sec={11.Except.Cl} {11.Base.cl}.
 
