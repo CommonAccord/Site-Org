@@ -1,0 +1,30 @@
+Sec=<b>{Confidential_Information}.</b><ol><li>{Engage.Sec}</li><li>{Except.Sec}</li></ol>
+
+
+Engage.Sec=<b>Engagement.</b>  {1.Sen} {2.Sen} {4.Sen}
+
+Except.Sec=<b>Exceptions.</b><ol><li>{3.Sec}</li><li>{Except.List.Sec}</li></ol>  
+
+1.Sen={The_Receiving_Party} will not disclose the {Confidential_Information}, except to {Affiliates}, employees, agents or professional advisors who need to know it and who have agreed in writing (or in the case of professional advisors are otherwise bound) to keep it confidential.
+
+2.Sen={The_Receiving_Party} will ensure that those people and entities use the received {Confidential_Information} only to exercise rights and fulfill obligations under {this Agreement}, while using reasonable care to keep it confidential.
+
+3.Sec=<b>Compelled Disclosure.</b> {3.Sen}
+
+3.Sen=Notwithstanding any provision to the contrary in {this Agreement}, {the_Receiving_Party} may disclose {Confidential_Information} to the extent required by applicable {Legal_Process}; provided that {the_Receiving_Party} uses commercially reasonable efforts to: (i) promptly notify {the_Disclosing_Party} of such disclosure before disclosing; and (ii) comply with {the_Disclosing_Party}’s reasonable requests regarding its efforts to oppose the disclosure. Notwithstanding the foregoing, subsections (i) and (ii) above will not apply if the recipient determines that complying with (i) and (ii) could: (a) result in a violation of {Legal_Process}; (b) obstruct a governmental investigation; and/or (c) lead to death or serious physical harm to an individual.
+
+4.Sen=As between the {parties}, {P2.Handle} is responsible for responding to all third party requests concerning its use and its {End_Users}’ use of the {Services}.
+
+Except.List.Sec=<u>Other Exceptions to Confidentiality</u>. {Except.Intro.Cl}: <ol><li>{Except.Public.cl};</li><li>{Except.Has.cl};</li><li>{Except.Finds.cl}: or</li><li>{Except.Makes.cl}.</li></ol>
+
+Except.Intro.Cl=The {parties} agree that {the_Receiving_Party}'s obligations with respect to {Confidential_Information} do not apply to the extent that {Confidential_Information}
+
+Except.Public.cl=is or becomes generally available to the public other than as a result of disclosure by {the_Receiving_Party}
+
+Except.Has.cl=was available to {the_Receiving_Party} on a non-confidential basis prior to its disclosure to {the_Receiving_Party} and {the_Receiving_Party} can verify such availability by written documentation
+
+Except.Finds.cl=is or becomes available to {the_Receiving_Party} on a non-confidential basis from a source other than the {the_Disclosing_Party} when such source is not, to the best of {the_Receiving_Party}’s knowledge, subject to a confidentiality obligation with respect to the {the_Disclosing_Party}
+
+Except.Makes.cl=was independently developed by {the_Receiving_Party}, without reference to the {Confidential_Information}, and {the_Receiving_Party} can verify the development of such information by written documentation
+
+Model.Root={Sec}

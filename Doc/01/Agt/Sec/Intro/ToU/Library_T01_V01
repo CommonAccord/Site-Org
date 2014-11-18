@@ -1,12 +1,12 @@
 =[01/Agt/Bit/Outline_Components_V01]
 
-Version=Oct 3, 2014
+Version=Version: Oct 3, 2014
 
 Meta.Aside=If you are accessing the {P1_Platform_Services} as a customer of a {P1_Platform} reseller, the terms below do not apply to you, and your agreement with your reseller governs your use of the {P1_Platform_Services}.
 
 Sec={1.Sec}<br>{2.Sec}
 
-1.Sec=This {Ti} (the "Agreement") is made and entered into by and between {P1.Handle} and the business entity agreeing to these terms ("{P2.Handle}"). "{P1.Handle}" means {P1.FullLegalDesignation}.
+1.Sec=This {Ti} (the "{Agreement}") is made and entered into by and between {P1.Handle} and the business entity agreeing to these terms ("{P2.Handle}"). "{P1.Handle}" means {P1.FullLegalDesignation}.
 
 2.Sec={2.Intro}<ol><li>{2.1.Sec}</li><li>{2.2.Sec}</li><li>{2.3.Sec}</li></ol>{2.90.Sec}
 
@@ -20,4 +20,4 @@ Sec={1.Sec}<br>{2.Sec}
 
 2.91.Sec=If you do not have the legal authority to bind {P2.Handle}, please do not click the "I Accept" button below.  {This Agreement} governs {P2.Handle}'s access to and use of the Service.
 
-2.92.Sec=For an offline variant of {this Agreement}, you may {P1.www.web.com/OffLineVersionOfAgreement.Link} for more information.
+2.92.Sec=For an offline variant of {this Agreement}, you may visit {P1.www.web.com/OffLineVersionOfAgreement.Link} for more information.

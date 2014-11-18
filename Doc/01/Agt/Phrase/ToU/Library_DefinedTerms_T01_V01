@@ -4,6 +4,7 @@ Admin Console=<font color="green">Admin Console</font>
 Admin_Console=<font color="green">Admin Console</font>
 Affiliate=<font color="green">Affiliate</font>
 Affiliates=<font color="green">Affiliates</font>
+Agreement=<font color="green">Agreement</font>
 This Agreement=<font color="green">This Agreement</font>
 this Agreement=<font color="green">this Agreement</font>
 Allegation=<font color="green">Allegation</font>
@@ -21,6 +22,9 @@ Controlled=<font color="green">Controlled</font>
 Controls=<font color="green">Controls</font>
 Data_Processing_and_Security_Terms=<font color="green">Data Processing and Security Terms</font>
 Deprecation_Policy=<font color="green">Deprecation Policy</font>
+Disclosing_Party=<font color="green">Disclosing Party</font>
+The_Disclosing_Party=<font color="green">The Disclosing Party</font>
+the_Disclosing_Party=<font color="green">the Disclosing Party</font>
 Documentation=<font color="green">Documentation</font>
 Effective_Date=<font color="green">Effective Date</font>
 Emergency_Security_Issue=<font color="green">Emergency Security Issue</font>
@@ -52,6 +56,9 @@ Projects=<font color="green">Projects</font>
 Reserved_Capacity_Units=<font color="green">Reserved Capacity Units</font>
 Reserved_Unit_Term=<font color="green">Reserved Unit Term</font>
 Reserved_Units=<font color="green">Reserved Units</font>
+Receiving_Party=<font color="green">Receiving Party</font>
+The_Receiving_Party=<font color="green">The Receiving Party</font>
+the_Receiving_Party=<font color="green">the Receiving Party</font>
 Service_Level_Agreement=<font color="green">Service Level Agreement</font>
 Service_Specific_Terms=<font color="green">Service Specific Terms</font>
 Services=<font color="green">Services</font>
