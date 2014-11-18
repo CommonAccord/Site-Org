@@ -20,23 +20,5 @@
 =[01/Agt/Bit/Outline_Components_V01]
 =[01/Agt/Phrase/ToU/Library_DefinedTerms_T01_V01]
 
-
 Model.Root={H-16}
 Ti=<b></b>
-0.Ti={P1_Platform_Services} License Agreement
-1.Ti=Services
-2.Ti=Payment
-3.Ti=P2_Obligations
-4.Ti=Suspension
-5.Ti=Intellectual Property Rights; Use of {Customer_Data}; Feedback
-6.Ti=Technical Support Services
-7.Ti=Confidential Information
-8.Ti=Term and Termination
-9.Ti=Publicity
-10.Ti=Representations
-11.Ti=Disclaimer
-12.Ti=Limitation of Liability
-13.Ti=Indemnification
-14.Ti=U.S. Federal Agency Users
-15.Ti=Miscellaneous
-16.Ti=Definitions

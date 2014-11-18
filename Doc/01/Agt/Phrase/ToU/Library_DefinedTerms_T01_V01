@@ -14,18 +14,17 @@ Applications=<font color="green">Applications</font>
 AUP=<font color="green">AUP</font>
 Brand_Features=<font color="green">Brand Features</font>
 Committed_Purchase(s)=<font color="green">Committed Purchase(s)</font>
-Committed_Purchases=<font color="green">Committed_Purchases</font>
+Committed_Purchases=<font color="green">Committed Purchases</font>
 Confidential_Information=<font color="green">Confidential Information</font>
 Control=<font color="green">Control</font>
 Controlled=<font color="green">Controlled</font>
 Controls=<font color="green">Controls</font>
-Customer_Data=<font color="green">Customer_Data</font>
 Data_Processing_and_Security_Terms=<font color="green">Data Processing and Security Terms</font>
-Deprecation_Policy=<font color="green">Deprecation_Policy</font>
+Deprecation_Policy=<font color="green">Deprecation Policy</font>
 Documentation=<font color="green">Documentation</font>
 Effective_Date=<font color="green">Effective Date</font>
 Emergency_Security_Issue=<font color="green">Emergency Security Issue</font>
-Emergency_Security_Issues=<font color="green">Emergency_Security_Issues</font>
+Emergency_Security_Issues=<font color="green">Emergency Security Issues</font>
 End_User=<font color="green">End User</font>
 End_Users=<font color="green">End Users</font>
 Fee=<font color="green">Fee</font>
@@ -40,12 +39,12 @@ Instances=<font color="green">Instances</font>
 Intellectual_Property_Rights=<font color="green">Intellectual Property Rights</font>
 Legal_Process=<font color="green">Legal Process</font>
 License_Term=<font color="green">License Term</font>
-P1_Brand_Feature=<font color="green">P1_Brand_Feature</font>
+P1_Brand_Feature=<font color="green">{P1.Handle} Brand Feature</font>
 P1_Brand_Features=<font color="green">{P1.Handle} Brand Features</font>
 P1_Platform_Services=<font color="green">{P1.Handle} Platform Services</font>
 P2_Data=<font color="green">{P2.Handle} Data</font>
 Package_Purchase=<font color="green">Package Purchase</font>
-Package_Purchases=<font color="green">Package_Purchases</font>
+Package_Purchases=<font color="green">Package Purchases</font>
 parties=<font color="green">parties</font>
 party=<font color="green">party</font>
 Project=<font color="green">Project</font>
@@ -62,12 +61,12 @@ Taxes=<font color="green">Taxes</font>
 Term=<font color="green">Term</font>
 Terms_URL=<font color="green">Terms URL</font>
 Third-Party_Legal_Proceeding=<font color="green">Third-Party Legal Proceeding</font>
-Third-Party_Legal_Proceedings=<font color="green">Third-Party_Legal_Proceedings</font>
+Third-Party_Legal_Proceedings=<font color="green">Third-Party Legal Proceedings</font>
 Token=<font color="green">Token</font>
 Tokens=<font color="green">Tokens</font>
 Trademark_Guidelines=<font color="green">Trademark Guidelines</font>
 TSS=<font color="green">TSS</font>
-TSS_Fee=<font color="green">TSS_Fee</font>
-TSS_Fees=<font color="green">TSS_Fees</font>
+TSS_Fee=<font color="green">TSS Fee</font>
+TSS_Fees=<font color="green">TSS Fees</font>
 TSS_Guidelines=<font color="green">TSS Guidelines</font>
 Updates=<font color="green">Updates</font>
