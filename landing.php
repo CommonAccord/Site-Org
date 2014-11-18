@@ -9,7 +9,7 @@
 <hr>
 <h3 class="title">A world without paperwork</h3>
 
-<h3><a href="http://www.commonaccord.org/index.php?action=list&file=./me/Boston/Doc/">Boston/Doc/</a> // <a href="http://www.commonaccord.org/index.php?action=list&file=./01/Agt/Type/ToU/">Comprehensive Terms of Use</a></h3>
+<h3><a href="http://www.commonaccord.org/index.php?action=list&file=./me/Boston/Doc/">Boston Hackathon</a> // <a href="http://www.commonaccord.org/index.php?action=list&file=./01/Agt/Type/ToU/">Comprehensive Terms of Use</a></h3>
         <h4 class="title"><a href="https://github.com/CommonAccord/commonaccord/tree/master/Doc">Github repo</a> //  <a href="https://twitter.com/commonaccord">@commonaccord</a> // <a href="http://lists.commonaccord.org/archive/cmacc/">mailing list</a></h4>
 
 <h4 class="title"><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=/GenomicsAndHealth/REWG/Demo/>Automating Patient Consents</a></h4>
