@@ -9,12 +9,12 @@
 <hr>
 <h3 class="title">A world without paperwork</h3>
 
-<h3><a href="http://www.commonaccord.org/index.php?action=list&file=./me/Boston/Doc/">Boston Hackathon</a> // <a href="http://www.commonaccord.org/index.php?action=list&file=./01/Agt/Type/ToU/">Comprehensive Terms of Use</a></h3>
-        <h4 class="title"><a href="https://github.com/CommonAccord/commonaccord/tree/master/Doc">Github repo</a> //  <a href="https://twitter.com/commonaccord">@commonaccord</a> // <a href="http://lists.commonaccord.org/archive/cmacc/">mailing list</a></h4>
+<h3 class="title"><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=/GenomicsAndHealth/REWG/Demo/>Automating Patient Consents</a></h3>
+<h3 class="title"> <a href="http://www.commonaccord.org/index.php?action=list&file=./01/Agt/Demo/">Comprehensive Terms of Use</a> &emsp;   &emsp; <a href="http://www.commonaccord.org/index.php?action=list&file=./me/Boston/Doc/">Boston Hackathon</a> </h3>
+        <h4 class="title"><a href="https://github.com/CommonAccord/commonaccord/tree/master/Doc">Github repo</a>   &emsp; &emsp;   <a href="https://twitter.com/commonaccord">@commonaccord</a>  &emsp; &emsp;  <a href="http://lists.commonaccord.org/archive/cmacc/">mailing list</a></h4>
 
-<h4 class="title"><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=/GenomicsAndHealth/REWG/Demo/>Automating Patient Consents</a></h4>
 <h4 class="title"><a href="http://response.commonaccord.org/Main_Page">response.commonaccord.org - Ebola response wiki</a></h4>
-<h4 class="title"><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=01/>Outline of a legal operating system</a></h4>
+        <h4 class="title"><a href=<?=$_SERVER['PHP_SELF']?>?action=explore>The Objects of Law</a></h4>
 
 <h3 class="title">Open source software<br/> and legal docs.</h1>
 <hr>
@@ -27,7 +27,6 @@
                         </div>
 !-->
 <div id="info-more">
-        <h4 class="subtitle">Explore <a href=<?=$_SERVER['PHP_SELF']?>?action=explore>the objects of law</a></h4>
 <h4 class="subtitle">Applying source methods to open source licenses <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=me/cc/license/4_0/>Creative Commons Licenses</a></h4>    
        <h4 class="subtitle">Learn <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=about/how/>how it works</a>.</h4>
         <h4 class="subtitle">See <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=doc/>some deals</a>.</h4>
