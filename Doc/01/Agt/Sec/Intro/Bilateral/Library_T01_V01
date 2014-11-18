@@ -1,0 +1,29 @@
+=[01/Agt/Bit/Outline_Components_V01]
+
+Version=Version: 2014-11-18
+
+
+Sec={1.Sec}<br>{2.Sec}
+
+1.Sec=This {Ti} (the "{Agreement}") is made and entered into by and between {P1.N,E,A} ("{P1.Handle}") and {P2.N,E,A} ("{P2.Handle}") .
+
+2.Sec={2.Intro}<ol><li>{2.1.Sec}</li><li>{2.2.Sec}</li><li>{2.3.Sec}</li></ol>{2.90.Sec}
+
+2.90.Sec={2.91.Sec}<br>{2.92.Sec}
+
+2.Intro={This Agreement} is effective as of the date {P2.Handle} it is signed by both {parties} (the "{Effective_Date}").  Each person signing on behalf of an entity or other person represents and warrants that:
+2.1.Sec=you have full legal authority to bind the {party} to {this Agreement};
+2.2.Sec=you have read and understand {this Agreement}; and
+2.3.Sec=you agree, on behalf of the {party}, to {this Agreement}.
+
+
+2.91.Sec=If you do not have the legal authority to bind the {party}, please do not sign {this Agreement}.
+
+2.92.Sec=For an offline variant of {this Agreement}, you may visit {P1.www.web.com/OffLineVersionOfAgreement.Link} for more information.
+
+90.Sec={91.Sec}<br>{Sign.Block}
+
+91.Sec=In Witness Whereof, the parties hereto have caused this Agreement to be executed by their respective authorized representatives as of the date first written above.
+
+Sign.Block=<table><tr><td valign='top'>{P1.Sign.Block}</td><td></td><td valign='top'>{P2.Sign.Block}</td></tr></table>
+
