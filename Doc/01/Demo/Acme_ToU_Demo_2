@@ -1,5 +1,6 @@
+Note/=This references a more extensive set of Confidentiality provisions.  That is reflected in the Conf section and in the Def sections, each of which has been "forked" by creating at new Type of Library (T02).  If the changes were understood to be merely an improvement, then we would change the Version (to V02).  
 =[01/Demo/Acme_ToU_Model]
 0.Version=Version: 2014-11-18
-7.=[01/Agt/Sec/Conf/Library_T01_V02]
-16.=[01/Agt/Sec/Def/Library_T02_V02]
-=[01/Agt/Type/ToU/Outline_V01]
+7.=[01/Agt/Sec/Conf/Library_T02_V01]
+16.=[01/Agt/Sec/Def/Library_T02_V01]
+=[01/Agt/Type/ToU/Form_T01_V01]

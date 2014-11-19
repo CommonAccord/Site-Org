@@ -34,12 +34,12 @@ Sec={H-16}
 28.Sec=<b>{28.Ti}.</b><br>{28.sec}
 29.Sec=<b>{29.Ti}.</b><br>{29.sec}
 
-H-2={Head}<br><br>{0.Sec}<ol><li>{1.Sec}</li><li>{2.Sec}</li></ol>    
-H-3={Head}<br><br>{0.Sec}<ol><li>{1.Sec}</li><li>{2.Sec}</li><li>{3.Sec}</li></ol>    
-H-4={Head}<br><br>{0.Sec}<ol><li>{1.Sec}</li><li>{2.Sec}</li><li>{3.Sec}</li><li>{4.Sec}</li></ol>    
-H-5={Head}<br><br>{0.Sec}<ol><li>{1.Sec}</li><li>{2.Sec}</li><li>{3.Sec}</li><li>{4.Sec}</li><li>{5.Sec}</li></ol>    
-H-6={Head}<br><br>{0.Sec}<ol><li>{1.Sec}</li><li>{2.Sec}</li><li>{3.Sec}</li><li>{4.Sec}</li><li>{5.Sec}</li><li>{6.Sec}</li></ol>    
-H-7={Head}<br><br>{0.Sec}<ol><li>{1.Sec}</li><li>{2.Sec}</li><li>{3.Sec}</li><li>{4.Sec}</li><li>{5.Sec}</li><li>{6.Sec}</li><li>{7.Sec}</li></ol>    
+H-2={Head}<br><br>{0.Sec}<ol><li>{1.Sec}</li><li>{2.Sec}</li></ol>{90.Sec}
+H-3={Head}<br><br>{0.Sec}<ol><li>{1.Sec}</li><li>{2.Sec}</li><li>{3.Sec}</li></ol>{90.Sec}
+H-4={Head}<br><br>{0.Sec}<ol><li>{1.Sec}</li><li>{2.Sec}</li><li>{3.Sec}</li><li>{4.Sec}</li></ol>{90.Sec}
+H-5={Head}<br><br>{0.Sec}<ol><li>{1.Sec}</li><li>{2.Sec}</li><li>{3.Sec}</li><li>{4.Sec}</li><li>{5.Sec}</li></ol>{90.Sec}
+H-6={Head}<br><br>{0.Sec}<ol><li>{1.Sec}</li><li>{2.Sec}</li><li>{3.Sec}</li><li>{4.Sec}</li><li>{5.Sec}</li><li>{6.Sec}</li></ol>{90.Sec}
+H-7={Head}<br><br>{0.Sec}<ol><li>{1.Sec}</li><li>{2.Sec}</li><li>{3.Sec}</li><li>{4.Sec}</li><li>{5.Sec}</li><li>{6.Sec}</li><li>{7.Sec}</li></ol>{90.Sec}
 H-8={Head}<br><br>{0.Sec}<ol><li>{1.Sec}</li><li>{2.Sec}</li><li>{3.Sec}</li><li>{4.Sec}</li><li>{5.Sec}</li><li>{6.Sec}</li><li>{7.Sec}</li><li>{8.Sec}</li></ol>{90.Sec}
 H-9={Head}<br><br>{0.Sec}<ol><li>{1.Sec}</li><li>{2.Sec}</li><li>{3.Sec}</li><li>{4.Sec}</li><li>{5.Sec}</li><li>{6.Sec}</li><li>{7.Sec}</li><li>{8.Sec}</li><li>{9.Sec}</li></ol>{90.Sec}
 H-10={Head}<br><br>{0.Sec}<ol><li>{1.Sec}</li><li>{2.Sec}</li><li>{3.Sec}</li><li>{4.Sec}</li><li>{5.Sec}</li><li>{6.Sec}</li><li>{7.Sec}</li><li>{8.Sec}</li><li>{9.Sec}</li><li>{10.Sec}</li></ol>{90.Sec}
@@ -50,7 +50,7 @@ H-14={Head}<br><br>{0.Sec}<ol><li>{1.Sec}</li><li>{2.Sec}</li><li>{3.Sec}</li><l
 H-15={Head}<br><br>{0.Sec}<ol><li>{1.Sec}</li><li>{2.Sec}</li><li>{3.Sec}</li><li>{4.Sec}</li><li>{5.Sec}</li><li>{6.Sec}</li><li>{7.Sec}</li><li>{8.Sec}</li><li>{9.Sec}</li><li>{10.Sec}</li><li>{11.Sec}</li><li>{12.Sec}</li><li>{13.Sec}</li><li>{14.Sec}</li><li>{15.Sec}</li></li></ol>{90.Sec}    
 H-16={Head}<br><br>{0.Sec}<ol><li>{1.Sec}</li><li>{2.Sec}</li><li>{3.Sec}</li><li>{4.Sec}</li><li>{5.Sec}</li><li>{6.Sec}</li><li>{7.Sec}</li><li>{8.Sec}</li><li>{9.Sec}</li><li>{10.Sec}</li><li>{11.Sec}</li><li>{12.Sec}</li><li>{13.Sec}</li><li>{14.Sec}</li><li>{15.Sec}</li><li>{16.Sec}</li></ol>{90.Sec}
 
-
+T-1=<b>{Ti}.</b><br>{1.Sec}<br>{90.Sec}
 T-2=<b>{Ti}.</b><ol><li>{1.Sec}</li><li>{2.Sec}</li></ol>{90.Sec}    
 T-3=<b>{Ti}.</b><ol><li>{1.Sec}</li><li>{2.Sec}</li><li>{3.Sec}</li></ol>{90.Sec}    
 T-4=<b>{Ti}.</b><ol><li>{1.Sec}</li><li>{2.Sec}</li><li>{3.Sec}</li><li>{4.Sec}</li></ol>{90.Sec}    

@@ -1,7 +1,4 @@
 Source=<a href="http://www.openinnovation.gsk.com/downloads/Discovery_Fast_Track_Challenge_CDA.pdf">CDA (PDF)</a> - 
-
-=[01/Agt/Sec/Def/Library]
-
 Model.Root={DocBody}
 
 DocBody={Heading}<br>{Intro}<ol><li>{Def.Sec}</li><li>{Purpose.Sec}</li><li>{Engage.Sec}</li><li>{NonExclusive.Sec}</li><li>{Except.Sec}</li><li>{Except.Compelled.Sec}</li><li>{Term.Sec}</li><li>{Rep.Sec}</li><li>{NoDeal.Sec}</li><li>{Return.Sec}</li><li>{Publicity.Sec}</li><li>{Notice.Sec}</li><li>{Assign.Sec}</li><li>{Sever.Sec}</li><li>{Entire.Sec}</li><li>{Amend.Sec}</li><li>{Waive.Sec}</li><li>{Law.Sec}</li><li>{Heading.Sec}</li><li>{Counterpart.Sec}</li><li>{Injunction.Sec}</li></ol>
@@ -16,7 +13,7 @@ Def.Sec=<b>{Def.Title}.</b><ul type="none"><li>{Def.Affiliate}</li><li>{Def.Conf
 
 Def.Title=Definitions
 
-/Def.Affiliate=is defined in 01/Agt/Sec/Def/Library
+Def.Affiliate=<b>“{Affiliate}”</b> means any corporation or non-corporate entity which controls, is controlled by or is under common control with a {party}.&#8194; A corporation or non-corporate entity, as applicable, will be regarded as in control of another corporation if it owns or directly or indirectly controls at least fifty percent (50%) of the voting stock of the other corporation or (i) in the absence of the ownership of at least fifty percent (50%) of the voting stock of a corporation or (ii) in the case of a non-corporate entity, if it possesses, directly or indirectly, the power to direct or cause the direction of the management and policies of such corporation or non-corporate entity, as applicable. 
 
 Def.Confidential_Information=<b>“{Confidential Information}”</b> means any and all information clearly marked as “Confidential” that is disclosed on or after the Effective Date whether orally (and reduced to writing within 30 days) or in written, electronic or other tangible form by a party hereunder, or any of its {Affiliates} (the “{Disclosing Party}”) to the other party hereunder, or any of its {Affiliates} (the “{Receiving Party}”), and: <ol type="i"><li>{Def.Conf.SubjectMatter.P1}; and</li><li>{Def.Conf.SubjectMatter.P2}</li></ol>
 
@@ -139,5 +136,3 @@ Receiving Party={m-}Receiving Party{-m}
 m-=<font color="{mcolor}">
 -m=</font>
 mcolor=magenta
-                
-            
