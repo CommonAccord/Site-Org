@@ -15,7 +15,7 @@ Except.Sec=<b>Exceptions.</b><ol><li>{3.Sec}</li><li>{Except.List.Sec}</li></ol>
 
 4.Sen=As between the {parties}, {P2.Handle} is responsible for responding to all third party requests concerning its use and its {End_Users}’ use of the {Services}.
 
-Except.List.Sec=<u>Other Exceptions to Confidentiality</u>. {Except.Intro.Cl}: <ol><li>{Except.Public.cl};</li><li>{Except.Has.cl};</li><li>{Except.Finds.cl}: or</li><li>{Except.Makes.cl}.</li></ol>
+Except.List.Sec=<b>Other Exceptions to Confidentiality</b>. {Except.Intro.Cl}: <ol><li>{Except.Public.cl};</li><li>{Except.Has.cl};</li><li>{Except.Finds.cl}: or</li><li>{Except.Makes.cl}.</li></ol>
 
 Except.Intro.Cl=The {parties} agree that {the_Receiving_Party}'s obligations with respect to {Confidential_Information} do not apply to the extent that {Confidential_Information}
 
