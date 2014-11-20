@@ -1,7 +1,8 @@
-=[01/Agt/Bit/Outline_Components_V01]
+=[01/Agt/Bit/Outline/Library_T01_V01]
 
-DocBody={T-3}
-sec=<ol><li>{1.Sec}</li><li>{2.Sec}</li><li>{3.Sec}</li></ol>
+NSecs={1-3.Secs}
+
+Ti=Governing Law
 
 1.Sec=<b>For U.S. City, County, and State Government Entities.</b>  If {P2.Handle} is a U.S. city, county or state government entity, then {this Agreement} will be silent regarding governing law and venue.
 

@@ -2,7 +2,7 @@ Model.Root={DocBody}
 DocBody={Sec}
 
 Head=<center><b>{0.Ti}</b></center><br><br>{0.Version}
-90.Sec=<b></b>
+
 Sec={H-16}
 1.Sec=<b>{1.Ti}.</b><br>{1.sec}
 2.Sec=<b>{2.Ti}.</b><br>{2.sec}
@@ -67,8 +67,6 @@ T-14=<b>{Ti}.</b><ol><li>{1.Sec}</li><li>{2.Sec}</li><li>{3.Sec}</li><li>{4.Sec}
 T-15=<b>{Ti}.</b><ol><li>{1.Sec}</li><li>{2.Sec}</li><li>{3.Sec}</li><li>{4.Sec}</li><li>{5.Sec}</li><li>{6.Sec}</li><li>{7.Sec}</li><li>{8.Sec}</li><li>{9.Sec}</li><li>{10.Sec}</li><li>{11.Sec}</li><li>{12.Sec}</li><li>{13.Sec}</li><li>{14.Sec}</li><li>{15.Sec}</li></li></ol>{90.Sec}
 T-16=<b>{Ti}.</b><ol><li>{1.Sec}</li><li>{2.Sec}</li><li>{3.Sec}</li><li>{4.Sec}</li><li>{5.Sec}</li><li>{6.Sec}</li><li>{7.Sec}</li><li>{8.Sec}</li><li>{9.Sec}</li><li>{10.Sec}</li><li>{11.Sec}</li><li>{12.Sec}</li><li>{13.Sec}</li><li>{14.Sec}</li><li>{15.Sec}</li><li>{16.Sec}</li></ol>{90.Sec}
 
-
-
 T0-2=<b>{Ti}.</b><br>{0.Sec}<ol><li>{1.Sec}</li><li>{2.Sec}</li></ol>{90.Sec}
 T0-3=<b>{Ti}.</b><br>{0.Sec}<ol><li>{1.Sec}</li><li>{2.Sec}</li><li>{3.Sec}</li></ol>{90.Sec}
 T0-4=<b>{Ti}.</b><br>{0.Sec}<ol><li>{1.Sec}</li><li>{2.Sec}</li><li>{3.Sec}</li><li>{4.Sec}</li></ol>{90.Sec}
@@ -101,3 +99,5 @@ T0-16=<b>{Ti}.</b><br>{0.Sec}<ol><li>{1.Sec}</li><li>{2.Sec}</li><li>{3.Sec}</li
 14.Xnum=14
 15.Xnum=15
 16.Xnum=16
+
+90.Sec=<b></b>

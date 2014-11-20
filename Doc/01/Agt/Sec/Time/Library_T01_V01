@@ -1,9 +1,8 @@
-=[01/Agt/Bit/Outline_Components_V01]
+=[01/Agt/Bit/Outline/Library_T01_V01]
 
-Model.Root={Sec}
+Sec={T-NSecs}
 
-Sec={T-5}
-
+NSecs={1-5.Secs}
 
 Ti=Term and Termination
 

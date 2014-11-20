@@ -1,8 +1,7 @@
-=[01/Agt/Bit/Outline_Components_V01]
+=[01/Agt/Bit/Outline/Library_T01_V01]
 
-DocBody={Sec}
-
-Sec={T-3}
+Sec={T-NSecs}
+NSecs={1-3.Secs}
 
 Ti=Limitation of Liability
 

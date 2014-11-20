@@ -1,15 +1,10 @@
-=[01/Agt/Bit/Outline_Components_V01]
-
-Model.Root={Sec}
-
-Sec={T-14}
-
-10.Ti=Governing Law
-
 10.=[01/Agt/Sec/Law/Library_T01_V01]
 
-10.Xnum={Xnum}.10
+=[01/Agt/Bit/Outline/Library_T01_V01]
 
+NSecs={1-14.Secs}
+
+10.Xnum={Xnum}.10
 
 Ti=Miscellaneous
 
@@ -57,7 +52,7 @@ Ti=Miscellaneous
 
 11.sec={11.Except.Cl} {11.Base.cl}.
 
-11.Except.Cl=Except as set forth in Section 1.7(b), any 
+11.Except.Cl=Except as set forth in Section {1.7.2.Xref}, any 
 
 11.Base.cl=amendment must be in writing, signed by both {parties}, and expressly state that it is amending {this Agreement}
 
@@ -66,7 +61,6 @@ Ti=Miscellaneous
 12.sec=The following Sections will survive expiration or termination of {this Agreement}: {Surviving.Xnums}
 
 Surviving.Xnums=5, 7, 8.5, 12, 13, and 15
-
 
 13.Ti=Entire Agreement
 

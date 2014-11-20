@@ -2,7 +2,6 @@
 
 Version=Version: 2014-11-18
 
-
 Sec={1.Sec}<br>{2.Sec}
 
 1.Sec=This {Ti} (the "{Agreement}") is made and entered into by and between {P1.N,E,A} ("{P1.Handle}") and {P2.N,E,A} ("{P2.Handle}").
