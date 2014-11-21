@@ -5,30 +5,29 @@ DocBody={Sec}
 Head=<center><b>{0.Ti}</b></center><br><br>{0.Version}
 
 Note/Sec=Defaulting to a Title, Intro, Sections and Continuation.  Then knocking out the Intro and the Continuation if they don't exist.
-Sec={T-0-NSecs-90}
-NSecs={1-16.Secs}
+Sec={T-0-sec-90}
+sec=<ol><li>{secs}</li></ol>
+secs={1-16.Secs}
 0.Sec=<b></b>
 90.Sec=<b></b>
 
 
-H-0-NSecs-90={Head}<br><br>{0.Sec}<ol><li>{NSecs}</li></ol>{90.Sec}
+H-0-sec-90={Head}<br><br>{0.Sec}{sec} {90.Sec}
 
-T-0-NSecs-90=<b>{Ti}.</b><br>{0.Sec}<ol><li>{NSecs}</li></ol>{90.Sec}
+T-0-sec-90=<b>{Ti}.</b><br>{0.Sec}{sec} {90.Sec}
 
-H-0-NSecs={Head}<br><br>{0.Sec}<ol><li>{NSecs}</li></ol>
+H-0-sec={Head}<br><br>{0.Sec}{sec}
 
-T-0-NSecs=<b>{Ti}.</b><br>{0.Sec}<ol><li>{NSecs}</li></ol>
-
-
-H-NSecs-90={Head}<br><br><ol><li>{NSecs}</li></ol>{90.Sec}
-
-T-NSecs-90=<b>{Ti}.</b><ol><li>{NSecs}</li></ol>{90.Sec}
-
-H-NSecs={Head}<br><ol><li>{NSecs}</li></ol>
-
-T-NSecs=<b>{Ti}.</b><ol><li>{NSecs}</li></ol>
+T-0-sec=<b>{Ti}.</b><br>{0.Sec}{sec}
 
 
+H-sec-90={Head}<br><br>{sec} {90.Sec}
+
+T-sec-90=<b>{Ti}.</b><br>{sec} {90.Sec}
+
+H-sec={Head}<br>{sec}
+
+T-sec=<b>{Ti}.</b><br>{sec}
 
 1.Sec=<b>{1.Ti}.</b><br>{1.sec}
 2.Sec=<b>{2.Ti}.</b><br>{2.sec}
@@ -75,6 +74,8 @@ T-NSecs=<b>{Ti}.</b><ol><li>{NSecs}</li></ol>
 1-14.Secs={1.Sec}</li><li>{2.Sec}</li><li>{3.Sec}</li><li>{4.Sec}</li><li>{5.Sec}</li><li>{6.Sec}</li><li>{7.Sec}</li><li>{8.Sec}</li><li>{9.Sec}</li><li>{10.Sec}</li><li>{11.Sec}</li><li>{12.Sec}</li><li>{13.Sec}</li><li>{14.Sec}
 1-15.Secs={1.Sec}</li><li>{2.Sec}</li><li>{3.Sec}</li><li>{4.Sec}</li><li>{5.Sec}</li><li>{6.Sec}</li><li>{7.Sec}</li><li>{8.Sec}</li><li>{9.Sec}</li><li>{10.Sec}</li><li>{11.Sec}</li><li>{12.Sec}</li><li>{13.Sec}</li><li>{14.Sec}</li><li>{15.Sec}</li>
 1-16.Secs={1.Sec}</li><li>{2.Sec}</li><li>{3.Sec}</li><li>{4.Sec}</li><li>{5.Sec}</li><li>{6.Sec}</li><li>{7.Sec}</li><li>{8.Sec}</li><li>{9.Sec}</li><li>{10.Sec}</li><li>{11.Sec}</li><li>{12.Sec}</li><li>{13.Sec}</li><li>{14.Sec}</li><li>{15.Sec}</li><li>{16.Sec}
+1-17.Secs={1.Sec}</li><li>{2.Sec}</li><li>{3.Sec}</li><li>{4.Sec}</li><li>{5.Sec}</li><li>{6.Sec}</li><li>{7.Sec}</li><li>{8.Sec}</li><li>{9.Sec}</li><li>{10.Sec}</li><li>{11.Sec}</li><li>{12.Sec}</li><li>{13.Sec}</li><li>{14.Sec}</li><li>{15.Sec}</li><li>{16.Sec}</li><li>{17.Sec}
+1-18.Secs={1.Sec}</li><li>{2.Sec}</li><li>{3.Sec}</li><li>{4.Sec}</li><li>{5.Sec}</li><li>{6.Sec}</li><li>{7.Sec}</li><li>{8.Sec}</li><li>{9.Sec}</li><li>{10.Sec}</li><li>{11.Sec}</li><li>{12.Sec}</li><li>{13.Sec}</li><li>{14.Sec}</li><li>{15.Sec}</li><li>{16.Sec}</li><li>{17.Sec}</li><li>{18.Sec}
 
 1.Xnum=1
 2.Xnum=2
@@ -92,3 +93,5 @@ T-NSecs=<b>{Ti}.</b><ol><li>{NSecs}</li></ol>
 14.Xnum=14
 15.Xnum=15
 16.Xnum=16
+17.Xnum=17
+18.Xnum=18

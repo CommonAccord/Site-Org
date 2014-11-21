@@ -2,13 +2,10 @@
 4.=[01/Agt/Bit/Outline/Library_T01_V01]
 5.=[01/Agt/Bit/Outline/Library_T01_V01]
 =[01/Agt/Bit/Outline/Library_T01_V01]
-
-NSecs={1-6.Secs}
-
-3.NSecs={3.1-4.Secs}
-
-4.NSecs={4.1-2.Secs}
-5.NSecs={5.1-2.Secs}
+secs={1-6.Secs}
+3.secs={3.1-4.Secs}
+4.secs={4.1-2.Secs}
+5.secs={5.1-2.Secs}
 
 Ti=Indemnification
 

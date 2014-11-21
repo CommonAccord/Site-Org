@@ -1,0 +1,8 @@
+Note=One arbitrator - quicker.  More arbitrary.  And reducing the time from 45 to 30. If you want more deliberation, try 3 arbitrators.  
+=[01/Agt/Sec/Forum/Arb/ICC/Library_T01_V01]
+EN.ARB.#={m-}{EN.ARB.#.3}{-m}
+FR.ARB.#={m-}{FR.ARB.#.3}{-m}
+ES.ARB.#={m-}{ES.ARB.#.3}{-m}
+DE.ARB.#={m-}{DE.ARB.#.3}{-m}
+ADR.45={m-}30{-m}
+mcolor=purple

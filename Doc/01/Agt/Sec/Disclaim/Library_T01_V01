@@ -1,6 +1,6 @@
 Note/=This shows one way to use meaningful labels AND maintain a numerical system that permits easy matching of equivalents across languages. 
 Model.Root={Sec}
-Sec=<b>Disclaimer</b>.  {NoWarranty.Sen}  {LostData.Sen}  {P2Backup.Sen}  {NotErrorFree.Sen}  {NotForHighRisk.Sen}  
+Sec=<b>Disclaimer.</b><br>  {NoWarranty.Sen}  {LostData.Sen}  {P2Backup.Sen}  {NotErrorFree.Sen}  {NotForHighRisk.Sen}  
 
 NoWarranty.Sen={1.Sen}
 

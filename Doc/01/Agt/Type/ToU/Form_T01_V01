@@ -17,8 +17,8 @@
 16.=[01/Agt/Sec/Def/Library_T02_V01]
 
 
-DocBody={H-0-NSecs}
-NSecs={1-15.Secs}
+DocBody={H-0-sec}
+secs={1-15.Secs}
 =[01/Agt/Bit/Outline/Library_T01_V01]
 =[01/Agt/Phrase/ToU/Library_DefinedTerms_T01_V01]  
 

@@ -1,5 +1,12 @@
-Sec=<b>{Confidential_Information}.</b>  {1.Sen} {2.Sen} {3.Sen}  {4.Sen} 
+Sec=<b>{Confidential_Information}.</b><br>{Engage.Base.Sen} {Engage.Agents.Sen} {Except.Compelled.Sen}  {3PartyQueries.Sen} 
+
 Model.Root={Sec}
+
+Engage.Base.Sen={1.Sen}
+Engage.Agents.Sen={2.Sen}
+Except.Compelled.Sen={3.Sen}
+3PartyQueries.Sen={4.Sen}
+
 1.Sen=The recipient will not disclose the {Confidential_Information}, except to {Affiliates}, employees, agents or professional advisors who need to know it and who have agreed in writing (or in the case of professional advisors are otherwise bound) to keep it confidential.
 
 2.Sen=The recipient will ensure that those people and entities use the received {Confidential_Information} only to exercise rights and fulfill obligations under {this Agreement}, while using reasonable care to keep it confidential.
