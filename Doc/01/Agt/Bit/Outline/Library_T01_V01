@@ -6,11 +6,23 @@ Head=<center><b>{0.Ti}</b></center><br><br>{0.Version}
 
 Note/Sec=Defaulting to a Title, Intro, Sections and Continuation.  Then knocking out the Intro and the Continuation if they don't exist.
 Sec={T-0-sec-90}
-sec=<ol><li>{secs}</li></ol>
+
+sec={olsecs}
+
+olsecs=<ol><li>{secs}</li></ol>
+ulsecs=<ul><li>{secs}</li></ul>
+
 secs={1-16.Secs}
 0.Sec=<b></b>
 90.Sec=<b></b>
 
+1-2.Sens={1.Sec}  {2.Sec}
+1-3.Sens={1.Sec}  {2.Sec} {3.Sec}
+1-4.Sens={1.Sec}  {2.Sec} {3.Sec} {4.Sec}
+1-5.Sens={1.Sec}  {2.Sec} {3.Sec} {4.Sec} {5.Sec}
+1-6.Sens={1.Sec}  {2.Sec} {3.Sec} {4.Sec} {5.Sec}  {6.Sec}
+1-7.Sens={1.Sec}  {2.Sec} {3.Sec} {4.Sec} {5.Sec}  {6.Sec}  {7.Sec}
+1-8.Sens={1.Sec}  {2.Sec} {3.Sec} {4.Sec} {5.Sec}  {6.Sec}  {7.Sec}  {8.Sec}
 
 H-0-sec-90={Head}<br><br>{0.Sec}{sec} {90.Sec}
 
