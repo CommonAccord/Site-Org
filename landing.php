@@ -10,6 +10,8 @@
 <h3 class="title">A world without paperwork</h3>
 
 <h3 class="title"><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=/GenomicsAndHealth/REWG/Demo/>Automating Patient Consents</a></h3>
+<h3 class="title"><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=/01/Agt/Type/Privacy/Common/Form_T01_V01/>Bringing the World to Agree on Privacy?</a></h3>
+
 <h3 class="title"> <a href="http://www.commonaccord.org/index.php?action=list&file=./01/Demo/">Componentized Terms of Use</a> &emsp;   &emsp; <a href="http://www.commonaccord.org/index.php?action=list&file=./me/Boston/Doc/">Boston Hackathon</a> </h3>
         <h4 class="title"><a href="https://github.com/CommonAccord/commonaccord/tree/master/Doc">Github repo</a>   &emsp; &emsp;   <a href="https://twitter.com/commonaccord">@commonaccord</a>  &emsp; &emsp;  <a href="http://lists.commonaccord.org/archive/cmacc/">mailing list</a></h4>
 

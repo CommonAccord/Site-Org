@@ -1,4 +1,5 @@
-=At the recent "Road Ahead" Program presented by the MIT SENSEable City Lab (<a href="http://senseable.mit.edu/roadahead/"> senseable.mit.edu/roadahead</a>), it was obvious that the lack of societal (and inter-societal) agreement on the scope of permitted use of information about people and communities (privacy) was a pervasive issue.  We float the idea that a "model" privacy policy expressed in componentized format (source) could help move along the discussion if it was used as a resource for companies to create their policies and as a target for discussion.  This fits with and can help drive the patient Consents project. 
+=See this also in Mediawiki - <a href="http://response.commonaccord.org/01/Agt/Type/Privacy/Common/Form_T01_V01">response.commonaccord.org</a>
+=At the recent "Road Ahead" Program presented by the MIT SENSEable City Lab (<a href="http://senseable.mit.edu/roadahead/"> senseable.mit.edu/roadahead</a>), it was obvious that the lack of societal (and inter-societal) agreement on the scope of permitted use of information about people and communities (privacy) was a pervasive issue.  We float the idea that a "model" privacy policy expressed in componentized format (source) could help move along the discussion if it was used as a resource for companies to create their policies and as a target for discussion.  This fits with and can help drive the patient Consents project.
 
 =This also appears at <a href="https://github.com/CommonAccord/commonaccord/tree/master/Doc/01/Agt/Type/Privacy/Common/Form_T01_V01"> Github</a> where it can be forked, and on the site at  <a href="http://commonaccord.org/index.php?action=source&file=/01/Agt/Type/Privacy/Common/ Form_T01_V01">commonaccord.org/</a>
 <binder>
@@ -6,7 +7,7 @@
 </binder>
 
 <field>
-Model.Root={Head.Sec}<br>{olsecs}
+Model.Root=<b>{Head.Sec}</b><br>{olsecs}
 
 Head.Sec=Common Privacy Policy
 
@@ -19,7 +20,7 @@ Use.Sec=<b>How we use information we collect</b><br>{Use.sec}
 
 Choice.Sec=<b>Transparency and choice</b><br>{Choice.sec}
 
-Expose.Sec=<b>Exposure of Your Information</b><br>{Expose.sec}
+Expose.Sec=<b>Exposure of your information</b><br>{Expose.sec}
 
 Access.Sec=<b>Accessing your personal information</b><br>{Access.sec}
 
