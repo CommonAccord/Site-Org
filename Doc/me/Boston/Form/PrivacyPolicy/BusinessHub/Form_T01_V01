@@ -1,3 +1,5 @@
+Note/Automated=http://commonaccord.org/index.php?action=source&file=./me/Boston/Form/PrivacyPolicy/Form_V01
+
 Ti=Privacy and Security Policies
 
 1.Sec=The City of Boston is committed to protecting the privacy of all visitors and providing a secure web infrastructure to conduct business with the City.
@@ -10,10 +12,7 @@ Ti=Privacy and Security Policies
 
 5.Sec=Thank you for visiting us and reviewing our Privacy and Security statement!
 
-
-
-P1.www/PrivacyPolicy.URL=http://commonaccord.org/index.php?action=source&file=./me/Boston/Form/PrivacyPolicy/Form_V01
-Original/P1.www/PrivacyPolicy.URL=http://www.cityofboston.gov/copyright/privacypolicy.asp
+P1.www/PrivacyPolicy.URL=http://www.cityofboston.gov/copyright/privacypolicy.asp
 
 comprehensive privacy=<a href="{P1.www/PrivacyPolicy.URL}">comprehensive privacy</a>
 
