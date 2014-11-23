@@ -2,7 +2,7 @@ http://www.cityofboston.gov/copyright/privacypolicy.asp
 
 Model.Root={DocBody}
 
-DocBody={Head}<br><br><ol><li>{1.Sec}</li><li>{2.Sec}</li><li>{3.Sec}</li><li>{4.Sec}</li><li>{5.Sec}</li><li>{6.Sec}</li><li>{7.Sec}</li><li>{8.Sec}</li><li>{9.Sec}</li><li>{10.Sec}</li><li>{11.Sec}</li><li>{12.Sec}</li></ol>
+DocBody={Head}<br><br><ol><li>{1.Sec}</li><li>{2.Sec}</li><li>{3.Sec}</li><li>{4.Sec}</li><li>{5.Sec}</li><li>{6.Sec}</li><li>{7.Sec}</li><li>{8.Sec}</li><li>{9.Sec}</li><li>{10.Sec}</li><li>{11.Sec}</li><li>{12.Sec}</li><li>{Comments.Sec}</li><li>{Liability.Sec}</li></ol>
 
 1.Sec=<b>{1.Ti}</b><br>{1.sec}<ol><li>{1.1.Cl}</li><li>{1.2.Cl}</li><li>{1.3.Cl}</li></ol>{1.91.sec}
 2.Sec=<b>{2.Ti}</b><br>{2.sec}
@@ -16,8 +16,6 @@ DocBody={Head}<br><br><ol><li>{1.Sec}</li><li>{2.Sec}</li><li>{3.Sec}</li><li>{4
 10.Sec=<b>{10.Ti}</b><br>{10.sec}
 11.Sec=<b>{11.Ti}</b><br>{11.sec}
 12.Sec=<b>{12.Ti}</b><br>{12.sec}
-13.Sec=<b>{13.Ti}</b><br>{13.sec}
-<li>{Comments.Sec}</li></ol>
 
 
 Head=<center><b>{Ti}</b></center><br>{0.sec}
