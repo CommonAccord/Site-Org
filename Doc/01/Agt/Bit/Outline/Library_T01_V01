@@ -24,6 +24,7 @@ ulsecs=<ul><li>{secs}</li></ul>
 1-8.Sens={1.Sec}  {2.Sec} {3.Sec} {4.Sec} {5.Sec}  {6.Sec}  {7.Sec}  {8.Sec}
 
 H-0-sec-90={Head}<br><br>{0.Sec}{sec} {90.Sec}
+H-0-sec-Sign={Head}<br><br>{0.Sec}{sec} {Sign.Sec}
 
 T-0-sec-90=<b>{Ti}.</b><br>{0.Sec}{sec} {90.Sec}
  
@@ -35,6 +36,7 @@ T-0-sec=<b>{Ti}.</b><br>{0.Sec}{sec}
 
 0-sec={0.Sec}{sec}
 
+Sign.Sec={0.90.Sec}
 
 H-sec-90={Head}<br><br>{sec} {90.Sec}
 
