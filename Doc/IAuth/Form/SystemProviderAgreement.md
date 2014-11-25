@@ -1,4 +1,4 @@
-=[IAuth/Agt/Base.md]
+=[IAuth/Form/Base.md]
 
 Ti=System Provider Agreement
 
