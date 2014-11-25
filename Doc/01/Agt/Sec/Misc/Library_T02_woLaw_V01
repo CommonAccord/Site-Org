@@ -52,11 +52,11 @@ Ti=Miscellaneous
 
 11.Ti=Amendments
 
-11.sec={11.Except.Cl} {11.Base.cl}.
+11.sec=Any {11.Base.cl}.
 
 11.Except.Cl=Except as set forth in Section {1.7.2.Xref}, any 
 
-11.Base.cl=amendment must be in writing, signed by both {parties}, and expressly state that it is amending {this Agreement}
+11.Base.cl=amendment to {this Agreement} must be in writing, signed by both {parties}, and expressly state that it is amending {this Agreement}
 
 12.Ti=Survival
 
