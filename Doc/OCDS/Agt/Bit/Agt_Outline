@@ -1,7 +1,3 @@
-=[OCDS/Agt/Bit/Sec_Outline]
+=[01/Agt/Bit/Outline/Library_T01_V01]
 
-Model.Root={H-0-sec-90}
-
-90.Sec={91.Sec}<br>{Sign.Block}
-
-Sign.Block=<table><tr><td valign="top">{P1.Sign.Block}</td><td valign="top">{P2.Sign.Block}</td></tr></table>
+Model.Root={H-0-sec-Sign}
