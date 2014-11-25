@@ -98,21 +98,37 @@ T-sec=<b>{Ti}.</b><br>{sec}
 
 
 1-2.Secs={1.Sec}</li><li>{2.Sec}
+
 1-3.Secs={1.Sec}</li><li>{2.Sec}</li><li>{3.Sec}
+
 1-4.Secs={1.Sec}</li><li>{2.Sec}</li><li>{3.Sec}</li><li>{4.Sec}
+
 1-5.Secs={1.Sec}</li><li>{2.Sec}</li><li>{3.Sec}</li><li>{4.Sec}</li><li>{5.Sec}
+
 1-6.Secs={1.Sec}</li><li>{2.Sec}</li><li>{3.Sec}</li><li>{4.Sec}</li><li>{5.Sec}</li><li>{6.Sec}
+
 1-7.Secs={1.Sec}</li><li>{2.Sec}</li><li>{3.Sec}</li><li>{4.Sec}</li><li>{5.Sec}</li><li>{6.Sec}</li><li>{7.Sec}
+
 1-8.Secs={1.Sec}</li><li>{2.Sec}</li><li>{3.Sec}</li><li>{4.Sec}</li><li>{5.Sec}</li><li>{6.Sec}</li><li>{7.Sec}</li><li>{8.Sec}
+
 1-9.Secs={1.Sec}</li><li>{2.Sec}</li><li>{3.Sec}</li><li>{4.Sec}</li><li>{5.Sec}</li><li>{6.Sec}</li><li>{7.Sec}</li><li>{8.Sec}</li><li>{9.Sec}
+
 1-10.Secs={1.Sec}</li><li>{2.Sec}</li><li>{3.Sec}</li><li>{4.Sec}</li><li>{5.Sec}</li><li>{6.Sec}</li><li>{7.Sec}</li><li>{8.Sec}</li><li>{9.Sec}</li><li>{10.Sec}
+
 1-11.Secs={1.Sec}</li><li>{2.Sec}</li><li>{3.Sec}</li><li>{4.Sec}</li><li>{5.Sec}</li><li>{6.Sec}</li><li>{7.Sec}</li><li>{8.Sec}</li><li>{9.Sec}</li><li>{10.Sec}</li><li>{11.Sec}
+
 1-12.Secs={1.Sec}</li><li>{2.Sec}</li><li>{3.Sec}</li><li>{4.Sec}</li><li>{5.Sec}</li><li>{6.Sec}</li><li>{7.Sec}</li><li>{8.Sec}</li><li>{9.Sec}</li><li>{10.Sec}</li><li>{11.Sec}</li><li>{12.Sec}
+
 1-13.Secs={1.Sec}</li><li>{2.Sec}</li><li>{3.Sec}</li><li>{4.Sec}</li><li>{5.Sec}</li><li>{6.Sec}</li><li>{7.Sec}</li><li>{8.Sec}</li><li>{9.Sec}</li><li>{10.Sec}</li><li>{11.Sec}</li><li>{12.Sec}</li><li>{13.Sec}
+
 1-14.Secs={1.Sec}</li><li>{2.Sec}</li><li>{3.Sec}</li><li>{4.Sec}</li><li>{5.Sec}</li><li>{6.Sec}</li><li>{7.Sec}</li><li>{8.Sec}</li><li>{9.Sec}</li><li>{10.Sec}</li><li>{11.Sec}</li><li>{12.Sec}</li><li>{13.Sec}</li><li>{14.Sec}
+
 1-15.Secs={1.Sec}</li><li>{2.Sec}</li><li>{3.Sec}</li><li>{4.Sec}</li><li>{5.Sec}</li><li>{6.Sec}</li><li>{7.Sec}</li><li>{8.Sec}</li><li>{9.Sec}</li><li>{10.Sec}</li><li>{11.Sec}</li><li>{12.Sec}</li><li>{13.Sec}</li><li>{14.Sec}</li><li>{15.Sec}</li>
+
 1-16.Secs={1.Sec}</li><li>{2.Sec}</li><li>{3.Sec}</li><li>{4.Sec}</li><li>{5.Sec}</li><li>{6.Sec}</li><li>{7.Sec}</li><li>{8.Sec}</li><li>{9.Sec}</li><li>{10.Sec}</li><li>{11.Sec}</li><li>{12.Sec}</li><li>{13.Sec}</li><li>{14.Sec}</li><li>{15.Sec}</li><li>{16.Sec}
+
 1-17.Secs={1.Sec}</li><li>{2.Sec}</li><li>{3.Sec}</li><li>{4.Sec}</li><li>{5.Sec}</li><li>{6.Sec}</li><li>{7.Sec}</li><li>{8.Sec}</li><li>{9.Sec}</li><li>{10.Sec}</li><li>{11.Sec}</li><li>{12.Sec}</li><li>{13.Sec}</li><li>{14.Sec}</li><li>{15.Sec}</li><li>{16.Sec}</li><li>{17.Sec}
+
 1-18.Secs={1.Sec}</li><li>{2.Sec}</li><li>{3.Sec}</li><li>{4.Sec}</li><li>{5.Sec}</li><li>{6.Sec}</li><li>{7.Sec}</li><li>{8.Sec}</li><li>{9.Sec}</li><li>{10.Sec}</li><li>{11.Sec}</li><li>{12.Sec}</li><li>{13.Sec}</li><li>{14.Sec}</li><li>{15.Sec}</li><li>{16.Sec}</li><li>{17.Sec}</li><li>{18.Sec}
 
 1.Xnum=1
