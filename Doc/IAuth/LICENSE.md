@@ -1,4 +1,4 @@
-0=The IAuth and System Rules materials appearing on this and other CommonAccord sites is made available by the MIT Human Dynamics Lab subject to the following copyright terms:
+0=The IAuth and System Rules materials of appearing on this and other CommonAccord sites is made available by the MIT Human Dynamics Lab subject to the following copyright terms:
 
 1=Copyright, MIT Human Dynamics Lab and shared subject to the Creative Commons Attribution 4.0 International License, available at: http://creativecommons.org/licenses/by/4.0/.
 
