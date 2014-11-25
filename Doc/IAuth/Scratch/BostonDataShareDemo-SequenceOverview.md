@@ -1,3 +1,15 @@
+# USE CASE
+
+Data Elements:
+ 
+1. Use the data of the inquiry form http://businesshub.boston.gov/apex/SubmitCase
+2. To pre-populate some fields of the “CLIENT/BUSINESS INTAKE FORM”
+3. Use the data of the inquiry and CLIENT/BIZ FORM to prepopulate the ReStore Boston – Storefront Improvement Grant Application.
+ 
+
+
+# GENERAL USE CASE NOTES:
+
 Use Case 
 
 1. Business Files Inquiry Form (Case Object)
