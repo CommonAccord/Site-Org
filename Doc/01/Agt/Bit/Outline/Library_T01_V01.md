@@ -5,25 +5,35 @@ DocBody={Sec}
 Head=<center><b>{0.Ti}</b></center><br><br>{0.Version}
 
 Note/Sec=Defaulting to a Title, Intro, Sections and Continuation.  Then knocking out the Intro and the Continuation if they don't exist.
+
 Sec={T-0-sec-90}
 
 sec={olsecs}
 
 olsecs=<ol><li>{secs}</li></ol>
+
 ulsecs=<ul><li>{secs}</li></ul>
 
 0.Sec=<b></b>
+
 90.Sec=<b></b>
 
 1-2.Sens={1.Sec}  {2.Sec}
+
 1-3.Sens={1.Sec}  {2.Sec} {3.Sec}
+
 1-4.Sens={1.Sec}  {2.Sec} {3.Sec} {4.Sec}
+
 1-5.Sens={1.Sec}  {2.Sec} {3.Sec} {4.Sec} {5.Sec}
+
 1-6.Sens={1.Sec}  {2.Sec} {3.Sec} {4.Sec} {5.Sec}  {6.Sec}
+
 1-7.Sens={1.Sec}  {2.Sec} {3.Sec} {4.Sec} {5.Sec}  {6.Sec}  {7.Sec}
+
 1-8.Sens={1.Sec}  {2.Sec} {3.Sec} {4.Sec} {5.Sec}  {6.Sec}  {7.Sec}  {8.Sec}
 
 H-0-sec-90={Head}<br><br>{0.Sec}{sec} {90.Sec}
+
 H-0-sec-Sign={Head}<br><br>{0.Sec}{sec} {Sign.Sec}
 
 T-0-sec-90=<b>{Ti}.</b><br>{0.Sec}{sec} {90.Sec}
@@ -48,14 +58,23 @@ T-sec=<b>{Ti}.</b><br>{sec}
 
 
 1.Sec=<b>{1.Ti}.</b><br>{1.sec}
+
 2.Sec=<b>{2.Ti}.</b><br>{2.sec}
+
 3.Sec=<b>{3.Ti}.</b><br>{3.sec}
+
 4.Sec=<b>{4.Ti}.</b><br>{4.sec}
+
 5.Sec=<b>{5.Ti}.</b><br>{5.sec}
+
 6.Sec=<b>{6.Ti}.</b><br>{6.sec}
+
 7.Sec=<b>{7.Ti}.</b><br>{7.sec}
+
 8.Sec=<b>{8.Ti}.</b><br>{8.sec}
+
 9.Sec=<b>{9.Ti}.</b><br>{9.sec}
+
 10.Sec=<b>{10.Ti}.</b><br>{10.sec}
 11.Sec=<b>{11.Ti}.</b><br>{11.sec}
 12.Sec=<b>{12.Ti}.</b><br>{12.sec}
