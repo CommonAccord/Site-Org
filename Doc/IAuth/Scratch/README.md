@@ -1,10 +1,14 @@
 
 
-The basic Use Case is:
+# Overview of this IAuth and CommonAccord Collaboration
+
+**Generic Use Case Use of Authorized by Agreement Protected Data Sharing by Business with City Government.  OpenID Connect for Tightly Integrated Business, Legal and Technical Transaction Between Two Parties.**
+
+## Boston Business Hub The basic Use Case is:
 
 USE CASE is that a Business Shares Data Only ONCE and Releases Data Already Shared by Permission for Re-Use.  This is a ReStore Data ReUse Demo!
 
-Data Elements:
+## Data Elements:
 
 1. First a business owner files an Inquiry Form:
 Use the data of the inquiry form http://businesshub.boston.gov/apex/SubmitCase
@@ -16,21 +20,24 @@ Use Data from Inquiry Form To pre-populate some fields of the “CLIENT/BUSINESS
 Use the data of the inquiry and CLIENT/BIZ FORM to prepopulate the ReStore Boston – Storefront Improvement Grant Application.
 
 
-
-More Background is Here:
-https://github.com/HumanDynamics/commonaccord/blob/master/Doc/IAuth/Scratch/BostonDataShareDemo-SequenceOverview.md
-
-The Data we are working with is here: 
-
-https://github.com/HumanDynamics/commonaccord/blob/master/Doc/IAuth/Scratch/BusinessProtectedDataSharing-DemoDataFields.xml
-
-The InTake Form (the middle step) has already been encoded as key values according to the CMACC (CommonAccord) structure, here:
-
-http://commonaccord.org/index.php?action=source&file=./me/Boston/Doc/Intake_Session_1
-
 ____________________
 
 General Notes - Use Case 
+
+
+
+* More Background is Here:
+https://github.com/HumanDynamics/commonaccord/blob/master/Doc/IAuth/Scratch/BostonDataShareDemo-SequenceOverview.md
+
+* The Data we are working with is here: 
+
+https://github.com/HumanDynamics/commonaccord/blob/master/Doc/IAuth/Scratch/BusinessProtectedDataSharing-DemoDataFields.xml
+
+* The InTake Form (the middle step) has already been encoded as key values according to the CMACC (CommonAccord) structure, here:
+
+http://commonaccord.org/index.php?action=source&file=./me/Boston/Doc/Intake_Session_1
+
+**More Notes from City of Boston business requirements elicitation:**
 
 1. Business Files Inquiry Form (Case Object)
 a. Authorize data from Inquiry Form
