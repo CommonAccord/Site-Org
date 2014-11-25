@@ -13,7 +13,7 @@ USE CASE is that a Business Shares Data Only ONCE and Releases Data Already Shar
 1. First a business owner files an Inquiry Form:
 Use the data of the inquiry form http://businesshub.boston.gov/apex/SubmitCase
 
-2. Then the business owner completes an Intake Form:
+2. Then the City intake person completes an Intake Form:
 Use Data from Inquiry Form To pre-populate some fields of the “CLIENT/BUSINESS INTAKE FORM”
 
 3. Finally, the business owner applies for a grant, called the ReStore Grant.
