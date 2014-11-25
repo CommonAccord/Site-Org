@@ -10,3 +10,4 @@ Notices.sec=Sed ut perspiciatis unde omnis iste natus error sit voluptatem accus
 
 Model.Root={Notices.Sec}
 
+LICENSE.=[IAuth/LICENSE.md]

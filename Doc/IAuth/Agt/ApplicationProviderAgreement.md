@@ -1,12 +1,7 @@
-Model.Root={Header}<br><br>{Secs}
+=[IAuth/Agt/Base.md]
 
-Header=<center><b>{Ti}</b></center>
+Ti=Application Provider Agreement
 
-=[IAuth/Sec/Comments.md]
-=[IAuth/Sec/Liability.md]
-=[IAuth/Sec/Roles.md]
-=[IAuth/Sec/Notices.md]
-=[IAuth/Sec/Disputes.md]
-=[IAuth/Sec/Systems.md]
-=[IAuth/Sec/Authorizations.md]
+Secs=<ol><li>{Liability.Sec}<li>{Notices.Sec}<li>{Disputes.Sec}<li>{Authorizations.Sec}</ol>
 
+LICENSE.=[IAuth/LICENSE.md]
