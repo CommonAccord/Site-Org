@@ -6,7 +6,7 @@ Head={P1.City.Seal}<br>{P1.City/Dept/Office}<br>{Ti}
 
 Ti=ReStore Boston - Storefront Improvement Grant Application	  
 
-
+Client.Handle=Client
 90.Sec={91.Sec}<br><br>{92.Sec}
 
 91.Sec={Client.Sign.Block}

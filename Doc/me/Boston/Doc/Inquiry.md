@@ -2,7 +2,6 @@
 
 
 Client.=[core/id/abigail_altima]
-Project.=[core/id/abigail_altima]
 Session.Date=2014-11-15
 Project.Name=Abbie's Almond Omelettes
 
