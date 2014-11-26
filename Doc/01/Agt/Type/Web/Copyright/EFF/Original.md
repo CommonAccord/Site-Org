@@ -44,7 +44,7 @@ Ti=EFF's Copyright Policy
 
 2.3.Sec=We may display a copy of your DMCA notice in place of the removed content.
 
-2.4.Sec=Note: Under Section 512(f) of the DMCA, any person who knowingly materially misrepresents that material or activity is infringing may be subject to liability for damages. One company that sent an infringement notification seeking removal of online materials that were protected by the fair use doctrine was ordered to pay such costs and attorneys fees under this provision. See http://www.eff.org/cases/online-policy-group-v-diebold. In addition, ‚Äúin order for a copyright owner to proceed under the DMCA with ‚Äúa good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law,‚Äù the owner must evaluate whether the material makes fair use of the copyright.‚Äù Lenz v. Universal, 572 F. Supp. 2d 1150, 1155 (2008)
+2.4.Sec=Note: Under Section 512(f) of the DMCA, any person who knowingly materially misrepresents that material or activity is infringing may be subject to liability for damages. One company that sent an infringement notification seeking removal of online materials that were protected by the fair use doctrine was ordered to pay such costs and attorneys fees under this provision. See http://www.eff.org/cases/online-policy-group-v-diebold. In addition, ìin order for a copyright owner to proceed under the DMCA with ìa good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law,î the owner must evaluate whether the material makes fair use of the copyright.î Lenz v. Universal, 572 F. Supp. 2d 1150, 1155 (2008)
 
 2.5.Sec=EFF reserves the right to review the allegedly infringing material and independently determine whether it is infringing.
 
@@ -72,6 +72,6 @@ Ti=EFF's Copyright Policy
 
 3.6.Sec=After we receive your counter-notification, we will forward it to the party who submitted the original claim of copyright infringement. Please note that when we forward the counter-notification, it includes your personal information. If you are concerned about protecting your anonymity, please consult with an attorney about other options.
 
-3.7.Sec=After we send out the counter-notification, the claimant must then notify us within 10 business days that the claimant has filed an action seeking a court order to restrain you from engaging in infringing activity relating to the material on EFF‚Äôs site. If we receive such notification we will be unable to restore the material. If we do not receive such notification, generally we will reinstate the material.
+3.7.Sec=After we send out the counter-notification, the claimant must then notify us within 10 business days that the claimant has filed an action seeking a court order to restrain you from engaging in infringing activity relating to the material on EFFís site. If we receive such notification we will be unable to restore the material. If we do not receive such notification, generally we will reinstate the material.
 
 3.8.Sec=Please also be advised that in appropriate circumstances we terminate repeat infringers.
