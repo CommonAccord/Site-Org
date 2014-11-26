@@ -1,7 +1,7 @@
 Authorizations.Sec=<b>{Authorizations.Ti}</b><br>{Authorizations.sec}
 
 
-Authorizations.Ti=Authorizations and Grant Process
+Authorizations.Ti=Grants of Authorization
 
 
 Authorizations.sec={Authorizations.0}<br><ol><li>{Authorization.List}</ol>
