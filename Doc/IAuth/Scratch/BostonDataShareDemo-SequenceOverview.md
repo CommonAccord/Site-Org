@@ -40,3 +40,4 @@ Wish List / Vision:
 
 ——
 
+LICENSE.=[IAuth/LICENSE.md]

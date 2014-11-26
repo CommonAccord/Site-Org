@@ -9,4 +9,4 @@ Header=<center><b>{Ti}</b></center>
 =[IAuth/Sec/Disputes.md]
 =[IAuth/Sec/Systems.md]
 =[IAuth/Sec/Authorizations.md]
-
+LICENSE.=[IAuth/LICENSE.md]
