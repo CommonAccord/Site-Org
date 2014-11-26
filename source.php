@@ -3,8 +3,8 @@
 
 //This displays the path, current file name, and provides the edit and show options //
 
-echo "<a href=$_SERVER[PHP_SELF]?action=list&file=$rootdir[dirname]/>Org$rootdir[dirname]</a>/
-<b>$filenameX</b>
+echo "<a href=$_SERVER[PHP_SELF]?action=list&file=$rootdir[dirname]/>Org$rootdir[dirname]</a>/<b>$filenameX</b>
+&emsp; &emsp; &emsp; &emsp;  <a href=https://github.com/CommonAccord/commonaccord/blob/master/Doc/$rootdir[dirname]/$filenameX>GitHub</a>
 <br><br>
 ";
 ?>
