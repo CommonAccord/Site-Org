@@ -1,27 +1,20 @@
 =[me/Boston/Form/Intake/Form.md]
-
+=[me/Boston/Doc/Inquiry.md]
 Session.Author.=[core/id/andrea_ang]
-
-Client.=[core/id/abigail_altima]
-
+Project.Billing.=[core/id/abigail_altima]
 Referral.=[core/id/roberta_robinson]
 
 Session.Date=2014-11-15
 Session.Type=P
-Note=Considering, could use help with packaging and marketing, connection to coffee shops.
+Note=Should send employment package.
 Application.Completed=Y
 Client.Immigrant=N
 Client.Ethnicity=N/A
 Client.Language=EN
-Project.Name=Abbie's Almond Omelettes
 Project.Stage=Exploratory
-Project.Addr.1={Client.Addr.1}
-Project.Addr.Zip={Client.Addr.Zip}
-Project.Billing.Addr.1,2={Client.Addr.1,2}
 Project.FIN=2234.22234
 Project.SS=343-234-2234
 Project.DUNS=29059
-Project.Sector={Food}
 Project.Owned.Minority=N
 Project.Owned.Female=Y
 Employee.Quantity=1
