@@ -74,4 +74,10 @@ Ti=EFF's Copyright Policy
 
 =[01/Agt/Bit/Outline/Library_T01_V01]
 
+<<<<<<< HEAD
 secs={1-3.Secs}
+=======
+secs={1-3.Secs}
+
+
+>>>>>>> FETCH_HEAD
