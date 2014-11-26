@@ -1,6 +1,10 @@
-Office=Office of Business Development
+City/Dept/Office={City.Name.Full}<br>{Dept.Name.Full}<br>{Office.Name.Full}
 
-Dept=Department of Neighborhood Development
+Office.Name.Full=Office of Business Development
 
-=[me/Boston/ID/City_Of_Boston]
+Dept.Name.Full=Department of Neighborhood Development
 
+City.=[me/Boston/ID/City_Of_Boston]  
+
+Letterhead={City.Seal}<br>{City/Dept/Office}
+Model.Root={Letterhead}

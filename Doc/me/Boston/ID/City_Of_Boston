@@ -1,9 +1,14 @@
-Model.Root={Seal}
-City=Boston
+=[core/class/ID_Entity_Agency]
+=[core/at/USA/MA/Suffolk/Boston/Geo]
 
-Seal=<img src="http://commonaccord.org/Doc/me/Boston/ID/BostonSeal.png" alt="City of Boston Seal" {Seal.Style} style="width:304px;height:228px">
+Addr.City=Boston
 
-Seal.Style=style="width:100px;height:100px"
+Name.Full=City of Boston
+
+Seal=<img src="http://commonaccord.org/Doc/me/Boston/ID/BostonSeal.png" alt="City of Boston Seal" {Seal.Style} style="width:228px;height:228px">
+
+Seal.Style=style="width:{Seal.Size}px;height:{Seal.Size}px"
+Seal.Size=100
 web.com=CityofBoston.Gov
 
 PublicRecordsLaws.withCitation=Public Records Law, M.G.L. C. 66, Sec. 10
@@ -16,10 +21,9 @@ Webmaster.Link=<a href="http://www.cityofboston.gov/contact/?id=56" title="conta
 
 Youth.com=BostonYouthZone.com
 
+The=The {Name.Full}
 
-The=The City of Boston
-
-the=the City of Boston
+the=the {Name.Full}
 
 Agent.Notice.Block=Jose Gonzalez, Designated Agent<br>City of Boston Legal Department <br>P: 617-635-4936<br>E: Jose.Gonzalez@cityofboston.gov
 
