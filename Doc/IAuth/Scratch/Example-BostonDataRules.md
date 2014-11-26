@@ -1,6 +1,5 @@
 
-City of Boston 
-Data Rules
+City of BostonData Rules
 
 Section 1. Governance and Management of Data
 
