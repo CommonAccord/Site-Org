@@ -1,5 +1,5 @@
 =[IAuth/Rules/Base.md]
 
-Ti=Legal Agreements and Licenses
+Ti=Data Management and Reporting
 
 sec={Latin}

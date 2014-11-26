@@ -2,4 +2,4 @@
 
 Ti=Legal Agreements and Licenses
 
-sec={Latin}
+secs={Latin}

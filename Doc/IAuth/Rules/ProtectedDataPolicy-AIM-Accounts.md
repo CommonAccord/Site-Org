@@ -1,5 +1,5 @@
 =[IAuth/Rules/Base.md]
 
-Ti=Legal Agreements and Licenses
+Ti=Federated Identity Accounts
 
 sec={Latin}
