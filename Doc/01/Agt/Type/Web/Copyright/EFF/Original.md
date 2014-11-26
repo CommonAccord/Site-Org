@@ -1,19 +1,5 @@
 Source=<a href="https://www.eff.org/copyright"> visited 2014-11-26.</a>  This is intended to be completely conforming to EFF document.  LMK if errors.
 
-1.=[01/Agt/Bit/Outline/Library_T01_V01]
-1.secs={1.1-3.Secs}
-2.=[01/Agt/Bit/Outline/Library_T01_V01]
-2.secs={2.1-6.Secs}
-2.1.=[01/Agt/Bit/Outline/Library_T01_V01]
-2.1.secs={2.1.1-6.Secs}
-2.1.Sec={2.1.0-sec}
-3.=[01/Agt/Bit/Outline/Library_T01_V01]
-3.secs={3.1-8.Secs}
-
-=[01/Agt/Bit/Outline/Library_T01_V01]
-
-secs={1-3.Secs}
-
 Ti=EFF's Copyright Policy
 
 1.Ti=Creative Commons
@@ -75,3 +61,19 @@ Ti=EFF's Copyright Policy
 3.7.Sec=After we send out the counter-notification, the claimant must then notify us within 10 business days that the claimant has filed an action seeking a court order to restrain you from engaging in infringing activity relating to the material on EFF’s site. If we receive such notification we will be unable to restore the material. If we do not receive such notification, generally we will reinstate the material.
 
 3.8.Sec=Please also be advised that in appropriate circumstances we terminate repeat infringers.
+
+1.=[01/Agt/Bit/Outline/Library_T01_V01]
+1.secs={1.1-3.Secs}
+2.=[01/Agt/Bit/Outline/Library_T01_V01]
+2.secs={2.1-6.Secs}
+2.1.=[01/Agt/Bit/Outline/Library_T01_V01]
+2.1.secs={2.1.1-6.Secs}
+2.1.Sec={2.1.0-sec}
+3.=[01/Agt/Bit/Outline/Library_T01_V01]
+3.secs={3.1-8.Secs}
+
+=[01/Agt/Bit/Outline/Library_T01_V01]
+
+secs={1-3.Secs}
+
+
