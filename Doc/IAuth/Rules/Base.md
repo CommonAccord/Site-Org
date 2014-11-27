@@ -8,7 +8,7 @@ T-sec-90={Identified}<br>{sec} {90.Sec}
 
 T-sec={Identifier}<br>{sec}
 
-Identifier=<b>Number: {Code-Number}<br>Title: {Code-Title}.<br>ID: {Code-URL}</b>
+Identifier=<b>Number: {Code-Number}<br>Name: {Code-Title}.<br>GUID: {Code-URL}</b>
 
 =[01/Agt/Bit/Outline/Library_T01_V01]
 
