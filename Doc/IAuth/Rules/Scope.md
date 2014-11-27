@@ -1,5 +1,3 @@
-=[IAuth/Rules/Base.md]
-
 Ti=Governance and Management of Data
 
 secs={1-6.Secs}
@@ -11,5 +9,7 @@ secs={1-6.Secs}
 4.=[IAuth/Rules/DataScience.md]
 5.=[IAuth/Rules/Legal.md]
 6.=[IAuth/Rules/Feedback.md]
+=[IAuth/Rules/Base.md]
+
 
 LICENSE.=[IAuth/LICENSE.md]

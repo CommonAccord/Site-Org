@@ -1,5 +1,3 @@
-=[IAuth/Rules/Base.md]
-
 Ti=City of Boston Protected Data Policy
 
 secs={1-5.Secs}
@@ -15,3 +13,5 @@ secs={1-5.Secs}
 5.=[IAuth/Rules/ProtectedDataPolicy-Approvals.md]
 
 LICENSE.=[IAuth/LICENSE.md]
+
+=[IAuth/Rules/Base.md]

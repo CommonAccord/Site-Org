@@ -1,5 +1,3 @@
-=[IAuth/Rules/Base.md]
-
 Ti=City of Boston Open Data Policy
 
 secs={1-4.Secs}
@@ -13,3 +11,5 @@ secs={1-4.Secs}
 4.=[IAuth/Rules/OpenData-Publishing.md]
 
 LICENSE.=[IAuth/LICENSE.md]
+
+=[IAuth/Rules/Base.md]

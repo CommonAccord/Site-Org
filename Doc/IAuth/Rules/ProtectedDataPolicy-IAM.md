@@ -1,5 +1,3 @@
-=[IAuth/Rules/Base.md]
-
 Ti=Identity and Access Management
 
 secs={1-4.Secs}
@@ -13,3 +11,5 @@ secs={1-4.Secs}
 4.=[IAuth/Rules/ProtectedDataPolicy-AIM-Approvals.md]
 
 LICENSE.=[IAuth/LICENSE.md]
+
+=[IAuth/Rules/Base.md]
