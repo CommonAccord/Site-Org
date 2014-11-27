@@ -11,8 +11,8 @@ echo "<a href=$_SERVER[PHP_SELF]?action=list&file=$rootdir[dirname]/>Org$rootdir
 
 <div id="tabs">
   <ul>
-    <li><a href="#tab-source">Source</a></li>
     <li><a href="#tab-render">Render</a></li>
+    <li><a href="#tab-source">Source</a></li>
     <li><a href="#tab-edit">Edit</a></li>
  </ul>
 
