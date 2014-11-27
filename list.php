@@ -8,15 +8,13 @@
 
 if(! ($dir == './')) {
         $rootdir = pathinfo($dir);
-        //doc_list.php cotntains layout
-        //      include("doc_list.php");
-        //}
-        //echo "Rootdir: <a href=$_SERVER[PHP_SELF]?action=list&file=".$rootdir['dirname']."/>".$rootdir['dirname']."</a><br>";
 
-	
- echo "<div id='updir'><img src='assets/arrowup.png' height=25><h3 class='sc subtitle'><a href=$_SERVER[PHP_SELF]?action=list&file=".$rootdir['dirname']."/>Org".$rootdir['dirname']."</a>/".$rootdir['filename']."<h3></div>";
+ 	
+	echo "<div id='updir'><img src='assets/arrowup.png' height=25><h3 class='sc subtitle'><a href=$_SERVER[PHP_SELF]?action=list&file=".$rootdir['dirname']."/>Org".$rootdir['dirname']."</a>/".$rootdir['filename']."</h3>";
 
-#   echo "<h2 class='sc subtitle2'>". $rootdir['filename']."</h3>";
+ 	echo "&emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; <a href=https://github.com/CommonAccord/commonaccord/blob/master/Doc/".$dir.">GitHub</a></div>";
+
+#   echo "<h2 class='sc subtitle2'>". $rootdir['filename']."</h2>";
 } 
 
 
