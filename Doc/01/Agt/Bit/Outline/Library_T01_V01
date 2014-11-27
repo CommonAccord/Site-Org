@@ -7,10 +7,11 @@ Head=<center><b>{0.Ti}</b></center><br><br>{0.Version}
 Note/Sec=Defaulting to a Title, Intro, Sections and Continuation.  Then knocking out the Intro and the Continuation if they don't exist.
 Sec={T-0-sec-90}
 
-sec={olsecs}
+sec={olsec}
 
-olsecs=<ol><li>{secs}</li></ol>
-ulsecs=<ul><li>{secs}</li></ul>
+olsec=<ol><li>{secs}</li></ol>
+ulsec=<ul><li>{secs}</li></ul>
+nonesec=<ul style="list-style: none;"><li>{secs}</li></ul>
 
 0.Sec=<b></b>
 90.Sec=<b></b>
