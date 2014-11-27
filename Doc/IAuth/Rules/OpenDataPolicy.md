@@ -11,3 +11,5 @@ secs={1-4.Secs}
 3.=[IAuth/Rules/OpenData-Documentation.md]
 
 4.=[IAuth/Rules/OpenData-Publishing.md]
+
+LICENSE.=[IAuth/LICENSE.md]

@@ -11,3 +11,5 @@ secs={1-4.Secs}
 3.=[IAuth/Rules/ProtectedDataPolicy-AIM-Authorization.md]
 
 4.=[IAuth/Rules/ProtectedDataPolicy-AIM-Approvals.md]
+
+LICENSE.=[IAuth/LICENSE.md]

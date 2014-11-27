@@ -13,3 +13,5 @@ secs={1-3.Secs}
 2.=[IAuth/Rules/OpenDataPolicy.md]
 
 3.=[IAuth/Rules/ProtectedDataPolicy.md]
+
+LICENSE.=[IAuth/LICENSE.md]

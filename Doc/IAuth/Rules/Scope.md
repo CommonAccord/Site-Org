@@ -11,3 +11,5 @@ secs={1-6.Secs}
 4.=[IAuth/Rules/DataScience.md]
 5.=[IAuth/Rules/Legal.md]
 6.=[IAuth/Rules/Feedback.md]
+
+LICENSE.=[IAuth/LICENSE.md]

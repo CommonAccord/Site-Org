@@ -5,3 +5,5 @@ LICENSE.=[IAuth/LICENSE.md]
 Ti=Consultation with Stakeholder
 
 sec={Latin}
+
+LICENSE.=[IAuth/LICENSE.md]

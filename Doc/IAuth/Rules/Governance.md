@@ -3,3 +3,5 @@
 Ti=Governance and Management of Data
 
 sec={Latin}
+
+LICENSE.=[IAuth/LICENSE.md]
