@@ -1,1 +1,0 @@
-All materials in this IAuth directory are subject to the license at "LICENSE.md" below.
