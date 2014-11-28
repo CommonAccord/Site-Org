@@ -1,3 +1,10 @@
+<?php
+/*require('./vendor/autoload.php'); */
+ini_set("allow_url_include", true);
+include("header.php");
+
+?>
+
 <div class="container">
 
 <table class="responsive">

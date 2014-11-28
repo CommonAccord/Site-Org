@@ -20,7 +20,7 @@ if(! ($dir == './')) {
  	
 	echo "<div id='updir'><img src='assets/arrowup.png' height=25><h3 class='sc subtitle'><a href=$_SERVER[PHP_SELF]?action=list&file=".$rootdir['dirname']."/>Org".$rootdir['dirname']."</a>/".$rootdir['filename']."</h3>";
 
- 	echo "&emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; <a href=https://github.com/CommonAccord/Org/blob/master/Doc/".$dir.">GitHub</a></div>";
+ 	echo "&emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; <a href=https://github.com/CommonAccord/Org/blob/master/Doc/".$dir.">Github</a></div>";
 
 #   echo "<h2 class='sc subtitle2'>". $rootdir['filename']."</h2>";
 } 
