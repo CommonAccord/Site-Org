@@ -1,4 +1,5 @@
-Model.Root={Orrick.Assign.Doc.Body}
+Model.Root={DocBody}
+DocBody={Orrick.Assign.Doc.Body}
 Orrick.Assign.Doc.Body={Agt.Prologue}{Agt._Secs}<br>{Sign.Block}<hr>{Agt.Attachment}
 
 P1.Handle=Company
@@ -234,4 +235,4 @@ Exh.PriorInvent.Xnum=A
 Exh.Invent.StateLaw.Xnum=B
 Exh.TerminationCertificate.Xnum=C
 Exh.ExcludedCompanies.Xnum=D
-/=                            
+/=

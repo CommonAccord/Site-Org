@@ -12,12 +12,10 @@ P1.=[me/hackme/Party/Acme_Inc]
 
 =[me/hackme/Preferences]
 
-becoming/continuing=becoming
+becoming/continuing={becoming}
 
 Injunction.Bond.Amount.$=$10,000
 
 Exh.PriorInvent.AddSheets.#=0
 
 Exh.Invent.StateLaw.Text={Invent.StateLaw.Exclusion.No}
-
-    
