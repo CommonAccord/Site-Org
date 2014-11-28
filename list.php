@@ -1,7 +1,15 @@
+<?php
+/*require('./vendor/autoload.php'); */
+ini_set("allow_url_include", true);
+include("header.php");
+
+?>
+
 <div class="row " >
 <div class="container">
 <div class = "col-lg-12"  >
-<?
+
+<?php
 // <p align="center">
 // <img src="assets/cmacc-trans.png"  height="50px" />
 // </p>
@@ -17,7 +25,6 @@ if(! ($dir == './')) {
 #   echo "<h2 class='sc subtitle2'>". $rootdir['filename']."</h2>";
 } 
 
-
 $files = scandir($path.$dir);
 
 if(file_exists($path.$dir . 'include.php')) {
@@ -26,7 +33,7 @@ echo "<div class='includers'>";
 echo "</div>";
 }
 
-echo '<br><div class="listings">';
+echo '<div class="listings">';
 echo "<div id='content-list'>";
 foreach($files as $f) {
         if(is_dir($path.$dir.$f)) {

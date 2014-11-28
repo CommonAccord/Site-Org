@@ -1,12 +1,25 @@
+<?php
+/*require('./vendor/autoload.php'); */
+ini_set("allow_url_include", true);
+include("header.php");
+
+?>
+
 <div class="container">
 <?
 
 //This displays the path, current file name, and provides the edit and show options //
 
-echo "<a href=$_SERVER[PHP_SELF]?action=list&file=$rootdir[dirname]/>Org$rootdir[dirname]</a>/<b>$filenameX</b>
-&emsp; &emsp; &emsp; &emsp;  <a href=https://github.com/CommonAccord/Org/blob/master/Doc/$rootdir[dirname]/$filenameX>GitHub</a>
-<br><br>
+echo "
+<a href=$_SERVER[PHP_SELF]?action=list&file=$rootdir[dirname]/>Org$rootdir[dirname]</a>/<b>$filenameX</b>
+&emsp; &emsp; &emsp; &emsp;  
+<a href=$_SERVER[PHP_SELF]?action=print&file=$rootdir[dirname]/$filenameX>Print</a>
+  &emsp;  &emsp;  &emsp;  
+<a href=https://github.com/CommonAccord/Org/blob/master/Doc/$rootdir[dirname]/$filenameX>GitHub</a>
+
 ";
+
+
 ?>
 
 <div id="tabs">
@@ -14,11 +27,11 @@ echo "<a href=$_SERVER[PHP_SELF]?action=list&file=$rootdir[dirname]/>Org$rootdir
     <li><a href="#tab-render">Render</a></li>
     <li><a href="#tab-source">Source</a></li>
     <li><a href="#tab-edit">Edit</a></li>
- </ul>
-
-
-
+    </ul>
 <div id="tab-source">
+
+
+
 
 <!--table formatting for the document -->
 <table class="TFtable";>

@@ -1,5 +1,13 @@
+<?php
+/*require('./vendor/autoload.php'); */
+ini_set("allow_url_include", true);
+include("header.php");
+
+?>
+
 
 <body>
+
   <div class="container">
     <div class="row">
      <div class = "col-xs-12" id ="containerHome" style="padding:50px">
@@ -83,5 +91,6 @@
         
     </div><!--end col-sm-4 !-->
   </div><!--end containerContent !-->
+
 </body><!-- end body !-->
 
