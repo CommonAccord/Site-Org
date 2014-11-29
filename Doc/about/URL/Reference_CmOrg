@@ -1,5 +1,3 @@
-=[?https://raw.githubusercontent.com/CommonAccord/Org/7d9a7bbf72e5b95132866bb03c1651e88aa76e42/Doc/01/Demo/Acme_Robinson_NDA_1]
-/=[?https://raw.githubusercontent.com/CommonAccord/Org/master/Doc/01/Agt/Type/NDA/Form_T02_V01]
-
+=[?http://CommonAccord.org/Doc/01/Demo/Acme_Robinson_NDA_1]
 =[?http://response.commonaccord.org/index.php?title=01/Agt/Sec/Conf/MSA&action=raw]
-1.Sec=<i>{Conf.Sec}</i>
+1.Sec=<font color="red">{Conf.Sec}</font>
