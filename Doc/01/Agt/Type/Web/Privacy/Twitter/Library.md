@@ -1,4 +1,12 @@
 <h2>Twitter Privacy Policy</h2>
+<h3 id="section1">Information Collection and Use</h3>
+<h3 id="section2">Information Sharing and Disclosure</h3>
+<h3 id="section3">Modifying Your Personal Information</h3>
+<h3 id="section4">Our Policy Towards Children</h3>
+<h3 id="section5">EU Safe Harbor Framework</h3>
+<h3 id="section6">Changes to this Policy</h3>
+
+
 
 <p>Twitter instantly connects people everywhere to what’s most meaningful to them. Any registered user can send a Tweet, which is a message of 140 characters or less that is public by default and can include other content like photos, videos, and links to other websites.</p>
 
