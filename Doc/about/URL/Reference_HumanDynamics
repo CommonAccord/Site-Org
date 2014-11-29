@@ -1,4 +1,7 @@
 Note/=A non-falsifiable version of a document from HD repository.  Diffed "locally".  
 =[?https://raw.githubusercontent.com/HumanDynamics/commonaccord/a275de9bafe82887c8277df74df94a4f08ddd8e3/Doc/core/form/agt/startup/yc/seriesAA/Form_YC_AA_CertificateOfIncorporation]
-5.4.4._Sec=<font color="red">{Cap.AA.Vote.Bd.1}</font>
-5.4.4.Vote.Bd.Together.If=<font color="green">{Vote.Bd.Together}</font>
+5.4.4._Sec={m-}{Cap.AA.Vote.Bd.1}{-m}
+5.4.4.Vote.Bd.Together.If={m-}{Vote.Bd.Together}{-m}
+Co.Name.Full={m-}Acme Incorporated{-m}
+m-=<font color="red">
+-m=</font>
