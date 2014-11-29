@@ -6,12 +6,12 @@ Ti=Twitter Privacy Policy
 5.=EU
 6.=Amend
 
-0.=[01/Agt/Type/Web/Privacy/Twitter/Bit/Outline.md]
-1.=[01/Agt/Type/Web/Privacy/Twitter/Bit/Outline.md]
-2.=[01/Agt/Type/Web/Privacy/Twitter/Bit/Outline.md]
-3.=[01/Agt/Type/Web/Privacy/Twitter/Bit/Outline.md]
+0.=[01/Agt/Type/Web/Bit/Outline.md]
+1.=[01/Agt/Type/Web/Bit/Outline.md]
+2.=[01/Agt/Type/Web/Bit/Outline.md]
+3.=[01/Agt/Type/Web/Bit/Outline.md]
 
-=[01/Agt/Type/Web/Privacy/Twitter/Bit/Outline.md]
+=[01/Agt/Type/Web/Bit/Outline.md]
 secs={1-6.Secs}
 
 0.Sec={0.nonesec}
@@ -22,7 +22,7 @@ secs={1-6.Secs}
 2.secs={2.1-6.Secs}
 3.secs={3.1-2.Secs}
 
-0.1.Sec=Twitter instantly connects people everywhere to what’s most meaningful to them. Any registered user can send a Tweet, which is a message of 140 characters or less that is public by default and can include other content like photos, videos, and links to other websites.
+0.1.Sec=Twitter instantly connects people everywhere to whatï¿½s most meaningful to them. Any registered user can send a Tweet, which is a message of 140 characters or less that is public by default and can include other content like photos, videos, and links to other websites.
 
 
 0.2.Sec=<span class="tip">Tip</span> What you say on Twitter may be viewed all around the world instantly.
@@ -56,7 +56,7 @@ secs={1-6.Secs}
 
 1.4.Ti=Location Information
 
-1.4.sec=You may choose to publish your location in your Tweets and in your Twitter profile.  You may also tell us your location when you set your trend location on Twitter.com or your computer or mobile device sends us location information. We may also use other data from your device to determine location, for example, information about wireless networks or cell towers near your mobile device, or your IP address. We may use and store information about your location to provide features of our Services, such as Tweeting with your location, and to improve and customize the Services, for example, with more relevant content like local trends, stories, ads, and suggestions for people to follow. Learn more about Twitter’s use of location <a href="https://support.twitter.com/articles/78525">here</a>, and how to set your location preferences <a href="https://support.twitter.com/articles/118492">here</a>.
+1.4.sec=You may choose to publish your location in your Tweets and in your Twitter profile.  You may also tell us your location when you set your trend location on Twitter.com or your computer or mobile device sends us location information. We may also use other data from your device to determine location, for example, information about wireless networks or cell towers near your mobile device, or your IP address. We may use and store information about your location to provide features of our Services, such as Tweeting with your location, and to improve and customize the Services, for example, with more relevant content like local trends, stories, ads, and suggestions for people to follow. Learn more about Twitterï¿½s use of location <a href="https://support.twitter.com/articles/78525">here</a>, and how to set your location preferences <a href="https://support.twitter.com/articles/118492">here</a>.
 
 1.5.Ti=Links
 
@@ -76,11 +76,11 @@ secs={1-6.Secs}
 
 1.9.Ti=Commerce Services
 
-1.9.sec=You may provide your payment information, including your credit or debit card number, card expiration date, CVV code, and billing address (collectively, "<strong>Payment Information</strong>"), along with your shipping address, to complete a commerce transaction on Twitter. You may also provide your credit or debit card number to register for card-linked services, such as offers. To facilitate future purchases on Twitter, we store your Payment Information, excluding CVV code, and shipping address, which you can remove from your account at any time using your <a href="https://twitter.com/settings/payments">account settings</a>. We consider your Payment Information and shipping address private and do not make such information public. We collect and store information created by your purchases made on Twitter ("<strong>Transaction Data</strong>"). If you register your credit or debit card with Twitter for card-linked services, we receive information about the card transactions from a third-party payment services provider ("<strong>Registered Card Data</strong>"). Transaction Data and Registered Card Data may include the merchant’s name and the date, time and amount of the transaction. Twitter uses Registered Card Data to verify eligibility for card-linked services, and may also use Registered Card Data to limit the number of offers available to you and keep track of your offers.
+1.9.sec=You may provide your payment information, including your credit or debit card number, card expiration date, CVV code, and billing address (collectively, "<strong>Payment Information</strong>"), along with your shipping address, to complete a commerce transaction on Twitter. You may also provide your credit or debit card number to register for card-linked services, such as offers. To facilitate future purchases on Twitter, we store your Payment Information, excluding CVV code, and shipping address, which you can remove from your account at any time using your <a href="https://twitter.com/settings/payments">account settings</a>. We consider your Payment Information and shipping address private and do not make such information public. We collect and store information created by your purchases made on Twitter ("<strong>Transaction Data</strong>"). If you register your credit or debit card with Twitter for card-linked services, we receive information about the card transactions from a third-party payment services provider ("<strong>Registered Card Data</strong>"). Transaction Data and Registered Card Data may include the merchantï¿½s name and the date, time and amount of the transaction. Twitter uses Registered Card Data to verify eligibility for card-linked services, and may also use Registered Card Data to limit the number of offers available to you and keep track of your offers.
 
 1.10.Ti=Third-Parties and Affiliates
 
-1.10.sec=Twitter uses a variety of third-party services to help provide our Services, such as hosting our various blogs and wikis, and to help us understand and improve the use of our Services, such as Google Analytics. These third-party service providers may collect information sent by your browser as part of a web page request, such as cookies or your IP address. Third-party ad partners may share information with us, like a browser cookie ID, website URL visited, mobile device ID, or cryptographic hash of a common account identifier (such as an email address), to help us measure and tailor ads. For example, this allows us to display ads about things you may have already shown interest in. If you prefer, you can turn off tailored ads in your <a href="https://twitter.com/settings/security">privacy settings</a> so that your account is not matched to information shared by ad partners for tailoring ads. Learn more about your privacy options <a href='https://support.twitter.com/articles/20170405'>here</a> and about how Twitter ads work <a href='https://support.twitter.com/articles/20170451'>here</a>. We may also receive information about you from our corporate affiliates in order to help provide, understand, and improve our Services and our affiliates’ services, including the delivery of ads.
+1.10.sec=Twitter uses a variety of third-party services to help provide our Services, such as hosting our various blogs and wikis, and to help us understand and improve the use of our Services, such as Google Analytics. These third-party service providers may collect information sent by your browser as part of a web page request, such as cookies or your IP address. Third-party ad partners may share information with us, like a browser cookie ID, website URL visited, mobile device ID, or cryptographic hash of a common account identifier (such as an email address), to help us measure and tailor ads. For example, this allows us to display ads about things you may have already shown interest in. If you prefer, you can turn off tailored ads in your <a href="https://twitter.com/settings/security">privacy settings</a> so that your account is not matched to information shared by ad partners for tailoring ads. Learn more about your privacy options <a href='https://support.twitter.com/articles/20170405'>here</a> and about how Twitter ads work <a href='https://support.twitter.com/articles/20170451'>here</a>. We may also receive information about you from our corporate affiliates in order to help provide, understand, and improve our Services and our affiliatesï¿½ services, including the delivery of ads.
 
 
 2.Ti=Information Sharing and Disclosure
@@ -99,17 +99,17 @@ secs={1-6.Secs}
 
 2.3.Ti=Sellers of Goods and Services
 
-2.3.sec=If you buy goods or services on Twitter, we may provide the seller, commerce provider or marketplace with your name, email address, shipping address, Payment Information and Transaction Data to facilitate payment processing, order fulfilment and dispute resolution (including payment and shipping disputes) and to help prevent, detect and investigate fraud or other prohibited activities. Please refer to these third parties’ privacy policies for information about their privacy practices.
+2.3.sec=If you buy goods or services on Twitter, we may provide the seller, commerce provider or marketplace with your name, email address, shipping address, Payment Information and Transaction Data to facilitate payment processing, order fulfilment and dispute resolution (including payment and shipping disputes) and to help prevent, detect and investigate fraud or other prohibited activities. Please refer to these third partiesï¿½ privacy policies for information about their privacy practices.
 
 
 2.4.Ti=Law and Harm
 
-2.4.sec=Notwithstanding anything to the contrary in this Policy, we may preserve or disclose your information if we believe that it is reasonably necessary to comply with a law, regulation or legal request; to protect the safety of any person; to address fraud, security or technical issues; or to protect Twitter's rights or property.  However, nothing in this Privacy Policy is intended to limit any legal defenses or objections that you may have to a third party’s, including a government’s, request to disclose your information.
+2.4.sec=Notwithstanding anything to the contrary in this Policy, we may preserve or disclose your information if we believe that it is reasonably necessary to comply with a law, regulation or legal request; to protect the safety of any person; to address fraud, security or technical issues; or to protect Twitter's rights or property.  However, nothing in this Privacy Policy is intended to limit any legal defenses or objections that you may have to a third partyï¿½s, including a governmentï¿½s, request to disclose your information.
 
 
 2.5.Ti=Business Transfers and Affiliates
 
-2.5.sec=In the event that Twitter is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction. This Privacy Policy will apply to your information as transferred to the new entity. We may also disclose information about you to our corporate affiliates in order to help provide, understand, and improve our Services and our affiliates’ services, including the delivery of ads.
+2.5.sec=In the event that Twitter is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction. This Privacy Policy will apply to your information as transferred to the new entity. We may also disclose information about you to our corporate affiliates in order to help provide, understand, and improve our Services and our affiliatesï¿½ services, including the delivery of ads.
 
 
 2.6.Ti=Non-Private or Non-Personal Information
