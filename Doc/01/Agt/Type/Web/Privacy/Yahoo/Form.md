@@ -1,4 +1,4 @@
-=http://commonaccord.org/index.php?action=source&file=/Doc/01/Agt/Type/Web/Privacy/Yahoo/Form.md
+=http://commonaccord.org/index.php?action=source&file=/01/Agt/Type/Web/Privacy/Yahoo/Form.md
 
 Ti=<img src="https://info.yahoo.com/privacy/us/yahoo/flash_us.jpg " alt="" width="864" height="212" />
 1.=[01/Agt/Type/Web/Bit/Outline.md]
