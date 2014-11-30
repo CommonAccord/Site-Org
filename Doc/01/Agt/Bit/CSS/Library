@@ -1,7 +1,7 @@
-PageHead=<head><style>{CSS.List}</style></head>
-
-CSS.List={CSS.Body}{CSS.LI-NONE}
-
-CSS.Body=body { background-color: tan;}
-
-CSS.LI-NONE= ol  {  list-style-type: upper-roman; } ol ol { list-style-type:decimal-leading-zero;}  ol ol ol {  list-style-type:  lower-alpha;}
+body {
+    background-color: lightblue;
+}
+ol ol {
+    color: navy;
+    margin-left: 20px;
+}

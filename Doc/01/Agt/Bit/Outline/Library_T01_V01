@@ -1,8 +1,12 @@
 Model.Root={DocBody}
 
+
 DocBody={Sec}
 
-Head=<center><b>{0.Ti}</b></center><br><br>{0.Version}
+
+Head=<center><b>{Ti}</b></center><br><br>{0.Version}
+
+Ti={0.Ti}
 
 Note/Sec=Defaulting to a Title, Intro, Sections and Continuation.  Then knocking out the Intro and the Continuation if they don't exist.
 Sec={T-0-sec-90}
@@ -24,14 +28,14 @@ nonesec=<ul style="list-style: none;"><li>{secs}</li></ul>
 1-7.Sens={1.Sec}  {2.Sec} {3.Sec} {4.Sec} {5.Sec}  {6.Sec}  {7.Sec}
 1-8.Sens={1.Sec}  {2.Sec} {3.Sec} {4.Sec} {5.Sec}  {6.Sec}  {7.Sec}  {8.Sec}
 
-H-0-sec-90={Head}<br><br>{0.Sec}{sec} {90.Sec}
-H-0-sec-Sign={Head}<br><br>{0.Sec}{sec} {Sign.Sec}
+H-0-sec-90={CSS}{Head}<br><br>{0.Sec}{sec} {90.Sec}
+H-0-sec-Sign={CSS}{Head}<br><br>{0.Sec}{sec} {Sign.Sec}
 
 T-0-sec-90=<b>{Ti}.</b><br>{0.Sec}{sec} {90.Sec}
  
 0-sec-90={0.Sec}{sec} {90.Sec}
 
-H-0-sec={Head}<br><br>{0.Sec}{sec}
+H-0-sec={CSS}{Head}<br><br>{0.Sec}{sec}
 
 T-0-sec=<b>{Ti}.</b><br>{0.Sec}{sec}
 
@@ -39,14 +43,15 @@ T-0-sec=<b>{Ti}.</b><br>{0.Sec}{sec}
 
 Sign.Sec={0.90.Sec}
 
-H-sec-90={Head}<br><br>{sec} {90.Sec}
+H-sec-90={CSS}{Head}<br><br>{sec} {90.Sec}
 
 T-sec-90=<b>{Ti}.</b><br>{sec} {90.Sec}
 
-H-sec={Head}<br>{sec}
+H-sec={CSS}{Head}<br>{sec}
 
 T-sec=<b>{Ti}.</b><br>{sec}
 
+CSS=<head><link rel="stylesheet" type="text/css" href="{CSS.Page}"></head>
 
 1.Sec=<b>{1.Ti}.</b><br>{1.sec}
 2.Sec=<b>{2.Ti}.</b><br>{2.sec}
