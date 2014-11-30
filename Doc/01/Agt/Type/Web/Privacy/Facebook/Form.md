@@ -2,8 +2,6 @@
 
 DocBody={H-0-sec}
 
-CSS.Page=https://fbstatic-a.akamaihd.net/rsrc.php/v2/yZ/r/2PKxF6HpQ1I.css
-
 secs={1-6.Secs}
 
 Ti=Data Use Policy

@@ -1,31 +1,17 @@
 Ti=GitHub Privacy Policy
 
-General Information
-
-Information Gathering and Usage
-
-Cookies
-
-Data Storage
-
-Disclosure
-
-EU and Swiss Safe Harbor
-
-Changes
-
-Questions
-
 =[01/Agt/Type/Web/Bit/Outline.md]
-secs={1-8.Secs}
-    
+secs={1-8.Secs}    
 
 1.=[01/Agt/Type/Web/Bit/Outline.md]
 1.secs={1.1-2.Secs}
+
 2.=[01/Agt/Type/Web/Bit/Outline.md]
 2.secs={1.1-2.Secs}
+
 3.=[01/Agt/Type/Web/Bit/Outline.md]
 3.secs={3.1-3.Secs}
+
 6.=[01/Agt/Type/Web/Bit/Outline.md]
 6.secs={6.1-3.Secs}
 

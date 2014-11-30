@@ -1,8 +1,6 @@
-
 =[01/Agt/Type/Web/Bit/Outline.md]
 
 secs={1-6.Secs}
- 
  
 Ti=Examples of Information Collected
 
@@ -34,4 +32,3 @@ Ti=Examples of Information Collected
 6.Ti=Information You Can Access
 
 6.sec=Examples of information you can access easily at Amazon.com include up-to-date information regarding recent orders; personally identifiable information (including name, e-mail, password, communications and personalized advertising preferences, address book, and 1-Click settings); payment settings (including credit card information and promotional certificate and gift card balances); e-mail notification settings (including Product Availability Alerts, Delivers, and newsletters); Recommendations (including Recommended for You and Improve Your Recommendations); shopping lists and gift registries (including Wish Lists and Baby and Wedding Registries); Seller accounts; and Your Profile (including your product Reviews, Recommendations, Listmania lists, Reminders, personal profile, and Wish List).
- 

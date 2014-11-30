@@ -22,7 +22,7 @@ secs={1-6.Secs}
 2.secs={2.1-6.Secs}
 3.secs={3.1-2.Secs}
 
-0.1.Sec=Twitter instantly connects people everywhere to what�s most meaningful to them. Any registered user can send a Tweet, which is a message of 140 characters or less that is public by default and can include other content like photos, videos, and links to other websites.
+0.1.Sec=Twitter instantly connects people everywhere to what's most meaningful to them. Any registered user can send a Tweet, which is a message of 140 characters or less that is public by default and can include other content like photos, videos, and links to other websites.
 
 
 0.2.Sec=<span class="tip">Tip</span> What you say on Twitter may be viewed all around the world instantly.
@@ -85,7 +85,7 @@ secs={1-6.Secs}
 
 2.Ti=Information Sharing and Disclosure
 
-2.0.Sec=<span class="tip">Tip</span>We do not disclose your private personal information except in the limited circumstances described here.
+2.0.Sec=<span class="tip">Tip</span> We do not disclose your private personal information except in the limited circumstances described here.
 
 2.1.Ti=Your Consent
 
