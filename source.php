@@ -24,7 +24,7 @@ echo "
 
 <div id="tabs">
   <ul>
-    <li><a href="#tab-render">Render</a></li>
+    <li><a href="#tab-render">Document</a></li>
     <li><a href="#tab-source">Source</a></li>
     <li><a href="#tab-edit">Edit</a></li>
     </ul>

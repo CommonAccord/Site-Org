@@ -20,7 +20,7 @@ Doc.Version=Updated: 17 November 2011
 
 2.secs={2.1-3.Secs}
 
-2.Ti=Use of Collected Informatio
+2.Ti=Use of Collected Information
 
 2.1.Sec=Anonymous information is collected from visits to OECD websites to measure user activity on these websites. This includes analysing these logs periodically to measure the traffic through the servers, the number of pages visited and the level of demand for pages and topics of interest, and to help the OECD provide better customer service. The logs may be preserved indefinitely and used at any time and in any way to prevent security breaches and to ensure the integrity of the data on the servers. This information is collected through the use of various technologies, including "cookies".
 
