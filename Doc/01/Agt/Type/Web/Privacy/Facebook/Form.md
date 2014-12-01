@@ -1,5 +1,3 @@
-=[01/Agt/Type/Web/Bit/Outline.md]
-
 DocBody={H-0-sec}
 
 secs={1-6.Secs}
@@ -17,3 +15,5 @@ Ti=Data Use Policy
 5.=[01/Agt/Type/Web/Privacy/Facebook/Sec/Cookies.md]
 
 6.=[01/Agt/Type/Web/Privacy/Facebook/Sec/Other.md]
+
+=[01/Agt/Type/Web/Bit/Outline.md]

@@ -8,7 +8,7 @@ Sec={T-0-sec-90}
 T-0-sec-90=<b>{Ti}.</b><br>{0.Sec}{sec} {90.Sec}
 0.Sec=<b></b>
 90.Sec=<b></b>
-
+secs={1-18.Sec }
 
 0-sec={0.Sec}{sec}
 0-sec-90={0.Sec}{sec} {90.Sec}
@@ -18,6 +18,7 @@ T-sec-90=<b>{Ti}.</b><br>{sec} {90.Sec}
 
 T-0-sec=<b>{Ti}.</b><br>{0.Sec}{sec}
 T-0-sec-90=<b>{Ti}.</b><br>{0.Sec}{sec} {90.Sec}
+T-olsecs=<b>{Ti}.</b><br>{0.Sec}{olsec}
 
 H-sec={CSS}{Head}<br>{sec}
 H-sec-90={CSS}{Head}<br><br>{sec} {90.Sec}

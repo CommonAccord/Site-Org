@@ -2,13 +2,15 @@ Note/Source=http://www.google.com/policies/privacy/ , visited on November 21, 20
 
 Note/Source/Last modified=March 31, 2014
 
+=[01/Agt/Type/Web/Bit/Outline.md]
+
 Ti=Privacy Policy
 0.Sec={0.1.Sec}<br>{0.2.Sec}
 
 0.1.Sec=There are many different ways you can use our services. {P1.Services}  As you use our services, we want you to be clear how we’re using information and the ways in which you can protect your privacy.
 
 
-0.2.=[01/Agt/Bit/Outline/Library_T01_V01]
+0.2.=[01/Agt/Type/Web/Bit/Outline.md]
 
 0.2.Sec={0.2.0-sec}
 
@@ -28,8 +30,6 @@ Ti=Privacy Policy
 
 secs={1-12.Secs}
 
-1.=[01/Agt/Bit/Outline/Library_T01_V01]
-
 1.secs={1.1-2.Secs}
 
 1.Ti=Information we collect
@@ -40,7 +40,7 @@ secs={1-12.Secs}
 
 1.2.1.Sec=<b>Information you give us.</b><br>For example, many of our services require you to sign up for a Google Account. When you do, we’ll ask for <a href="../../policies/privacy/key-terms/#toc-terms-personal-info">personal information</a>, like your name, email address, telephone number or <a class="highlight" href="../../policies/privacy/example/credit-card.html" id="credit-card">credit card</a>. If you want to take full advantage of the sharing features we offer, we might also ask you to create a publicly visible <a href="http://support.google.com/accounts/bin/answer.py?hl=en&answer=112783">Google Profile</a>, which may include your name and photo.
 
-1.2.2.=[01/Agt/Bit/Outline/Library_T01_V01]  
+1.2.2.=[01/Agt/Type/Web/Bit/Outline.md]  
 
 1.2.2.secs={1.2.2.1-6.Secs}
 1.2.2.Ti=Information we get from your use of our services
@@ -49,7 +49,7 @@ secs={1-12.Secs}
 1.2.2.1.Ti=<a href="../../policies/privacy/key-terms/#toc-terms-device">Device information</a>
 1.2.2.1.sec=We may collect <a class="highlight" href="../../policies/privacy/example/device-specific-information.html" id="device-specific-information">device-specific information</a> (such as your hardware model, operating system version, <a href="../../policies/privacy/key-terms/#toc-terms-unique-device-id">unique device identifiers</a>, and mobile network information including phone number). Google may associate your <a class="highlight" href="../../policies/privacy/example/device-identifiers.html" id="device-identifiers">device identifiers</a> or <a class="highlight" href="../../policies/privacy/example/phone-number.html" id="phone-number">phone number</a> with your Google Account.
 
-1.2.2.2.=[01/Agt/Bit/Outline/Library_T01_V01]  
+1.2.2.2.=[01/Agt/Type/Web/Bit/Outline.md]  
 
 1.2.2.2.secs={1.2.2.2.1-5.Secs}
 
@@ -83,8 +83,6 @@ secs={1-12.Secs}
 
 1.2.2.6.sec=We and our partners use various technologies to collect and store information when you visit a Google service, and this may include sending one or more <a href="../../policies/privacy/key-terms/#toc-terms-cookie">cookies</a> or <a href="../../policies/privacy/key-terms/#toc-terms-identifier">anonymous identifiers</a> to your device. We also use cookies and anonymous identifiers when you interact with services we offer to our partners, such as <a class="highlight" href="../../policies/privacy/example/advertising-services.html" id="advertising-services">advertising services</a> or Google features that may appear on other sites.
 
-2.=[01/Agt/Bit/Outline/Library_T01_V01]  
-
 2.secs={2.1-7.Secs}
 
 2.Ti=How we use information we collect
@@ -103,13 +101,11 @@ secs={1-12.Secs}
 
 2.7.Sec=Google processes personal information on our servers in many countries around the world. We may process your personal information on a server located outside the country where you live.
 
-3.=[01/Agt/Bit/Outline/Library_T01_V01]  
-
 3.secs={3.1-2.Secs}
 
 3.Ti=Transparency and choice
 
-3.1.=[01/Agt/Bit/Outline/Library_T01_V01]  
+3.1.=[01/Agt/Type/Web/Bit/Outline.md]  
 
 3.1.Sec={3.1.0-sec}
 
@@ -133,7 +129,6 @@ secs={1-12.Secs}
 
 4.sec=Many of our services let you share information with others. Remember that when you share information publicly, it may be indexable by search engines, including Google. Our services provide you with different options on <a class="highlight" href="../../policies/privacy/example/sharing.html" id="sharing">sharing</a> and <a class="highlight" href="../../policies/privacy/example/removing-your-content.html" id="removing-your-content">removing your content</a>.
 
-5.=[01/Agt/Bit/Outline/Library_T01_V01]  
 5.secs={5.1-3.Secs}
 
 5.Ti=Accessing and updating your personal information
@@ -143,8 +138,6 @@ secs={1-12.Secs}
 5.2.Sec=We may reject requests that are unreasonably repetitive, require disproportionate technical effort (for example, developing a new system or fundamentally changing an existing practice), risk the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup systems).
 
 5.3.Sec=Where we can provide information access and correction, we will do so for free, except where it would require a disproportionate effort. We aim to maintain our services in a manner that protects information from accidental or malicious destruction. Because of this, after you delete information from our services, we may not immediately delete residual copies from our active servers and may not remove information from our backup systems.
-
-6.=[01/Agt/Bit/Outline/Library_T01_V01]  
 
 6.secs={6.1-4.Secs}
 
@@ -191,12 +184,11 @@ secs={1-12.Secs}
 
 6.4.4.Sec=protect against harm to the rights, property or safety of Google, our users or the public as required or permitted by law.
 
-6.90.Sec={6.91.Sec}<br>{6.92.Sec}
-6.91.Sec=<a class="highlight" href="../../policies/privacy/example/we-may-share-aggregated.html" id="we-may-share-aggregated">We may share aggregated</a>, <a href="../../policies/privacy/key-terms/#toc-terms-info">non-personally identifiable information</a> publicly and with our partners – like publishers, advertisers or connected sites. For example, we may share information publicly <a class="highlight" href="../../policies/privacy/example/to-show-trends.html" id="to-show-trends">to show trends</a> about the general use of our services.
+6.90.Sec={6.90.1.Sec}<br>{6.90.2.Sec}
 
-6.92.Sec=If Google is involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any personal information and give affected users notice before personal information is transferred or becomes subject to a different privacy policy.
+6.90.1.Sec=<a class="highlight" href="../../policies/privacy/example/we-may-share-aggregated.html" id="we-may-share-aggregated">We may share aggregated</a>, <a href="../../policies/privacy/key-terms/#toc-terms-info">non-personally identifiable information</a> publicly and with our partners – like publishers, advertisers or connected sites. For example, we may share information publicly <a class="highlight" href="../../policies/privacy/example/to-show-trends.html" id="to-show-trends">to show trends</a> about the general use of our services.
 
-7.=[01/Agt/Bit/Outline/Library_T01_V01]  
+6.90.2.Sec=If Google is involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any personal information and give affected users notice before personal information is transferred or becomes subject to a different privacy policy.
 
 7.secs={7.1-3.Secs}
 
@@ -210,8 +202,6 @@ secs={1-12.Secs}
 7.2.Sec=We review our information collection, storage and processing practices, including physical security measures, to guard against unauthorized access to systems.
 
 7.3.Sec=We restrict access to personal information to Google employees, contractors and agents who need to know that information in order to process it for us, and who are subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations.
-
-8.=[01/Agt/Bit/Outline/Library_T01_V01]  
 
 8.secs={8.1-2.Secs}
 
@@ -235,15 +225,13 @@ secs={1-12.Secs}
 
 11.sec=The following notices explain specific privacy practices with respect to certain Google products and services that you may use:
 
-12.=[01/Agt/Bit/Outline/Library_T01_V01]  
-
 12.secs={12.1-3.Secs}
 
 12.Ti=Other useful privacy and security related materials
 
 12.0.Sec=Further useful privacy and security related materials can be found through Google’s <a href="../../policies/">policies and principles pages</a>, including:
 
-12.1.=[01/Agt/Bit/Outline/Library_T01_V01]  
+12.1.=[01/Agt/Type/Web/Bit/Outline.md]  
 
 12.1.Sec={12.1.0-sec}
 
@@ -260,4 +248,3 @@ secs={1-12.Secs}
 12.2.Sec=A <a href="../../policies/privacy/partners/">page</a> that explains what data is shared with Google when you visit websites that use our advertising, analytics and social products.
 
 12.3.Sec=Google’s <a href="//www.google.com/intl/en/safetycenter/">safety center</a>, which provides information on how to stay safe and secure online.
-=[01/Agt/Bit/Outline/Library_T01_V01]

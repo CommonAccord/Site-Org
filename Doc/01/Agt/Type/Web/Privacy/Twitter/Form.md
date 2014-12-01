@@ -6,28 +6,20 @@ Ti=Twitter Privacy Policy
 5.=EU
 6.=Amend
 
-0.=[01/Agt/Type/Web/Bit/Outline.md]
-1.=[01/Agt/Type/Web/Bit/Outline.md]
-2.=[01/Agt/Type/Web/Bit/Outline.md]
-3.=[01/Agt/Type/Web/Bit/Outline.md]
-
 =[01/Agt/Type/Web/Bit/Outline.md]
+
 secs={1-6.Secs}
 
-0.Sec={0.nonesec}
-
-0.secs={0.1-4.Secs}
 
 1.secs={1.1-10.Secs}
 2.secs={2.1-6.Secs}
 3.secs={3.1-2.Secs}
 
+0.Sec={0.1.Sec}<br>{0.2.Sec}<br>{0.3.Sec}<br>{0.4.Sec}
+
 0.1.Sec=Twitter instantly connects people everywhere to what's most meaningful to them. Any registered user can send a Tweet, which is a message of 140 characters or less that is public by default and can include other content like photos, videos, and links to other websites.
 
-
 0.2.Sec=<span class="tip">Tip</span> What you say on Twitter may be viewed all around the world instantly.
-
-
 
 0.3.Sec=This Privacy Policy describes how and when Twitter collects, uses and shares your information when you use our Services. Twitter receives your information through our various websites, SMS, APIs, email notifications, applications, buttons, widgets, ads, and commerce services (the "<strong>Services</strong>" or "<strong>Twitter</strong>") and from our partners and other third parties. For example, you send us information when you use Twitter from our website, post or receive Tweets via SMS, or access Twitter from an application such as Twitter for Mac, Twitter for Android or TweetDeck. When using any of our Services you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. Irrespective of which country you reside in or supply information from, you authorize Twitter to use your information in the United States and any other country where Twitter operates.
 

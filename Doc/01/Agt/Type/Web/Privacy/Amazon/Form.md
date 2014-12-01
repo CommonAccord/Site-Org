@@ -2,7 +2,7 @@ Ti=Amazon.com Privacy Notice
 
 Doc.Version=Last updated: March 3, 2014.
 
-Doc.History=To see what has changed, <a href="#">>click here</a>.
+Doc.History=To see what has changed, <a href="#">click here</a>.
  
 O.Sec=Amazon.com knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. <strong>By visiting Amazon.com, you are accepting the practices described in this Privacy Notice.</strong>
   

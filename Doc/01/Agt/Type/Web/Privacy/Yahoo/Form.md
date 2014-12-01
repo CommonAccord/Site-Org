@@ -1,5 +1,6 @@
+=[01/Agt/Type/Web/Bit/Outline.md]
+
 Ti=<img src="https://info.yahoo.com/privacy/us/yahoo/flash_us.jpg " alt="" width="864" height="212" />
-1.=[01/Agt/Type/Web/Bit/Outline.md]
 
 1.secs={1.1-4.Secs}
 
@@ -41,8 +42,6 @@ Ti=<img src="https://info.yahoo.com/privacy/us/yahoo/flash_us.jpg " alt="" width
 3.sec=When Yahoo has knowledge that a child under age 13 is attempting to register with Yahoo, we ask the child to have a parent or guardian create a <a href="https://info.yahoo.com/privacy/us/yahoo/family/details.html" class="bb-url">Yahoo Family Account</a> to obtain parental permission.  Visit <a href="https://info.yahoo.com/privacy/us/yahoo/family/details.html" class="bb-url">Children's Privacy & Family Accounts</a> to learn more about children’s privacy on Yahoo.</p>
 
 
-4.=[01/Agt/Type/Web/Bit/Outline.md]
-
 4.secs={4.1-3.Secs}
 
 
@@ -77,7 +76,6 @@ Ti=<img src="https://info.yahoo.com/privacy/us/yahoo/flash_us.jpg " alt="" width
 
 4.3.Sec=Yahoo works with vendors, partners, advertisers, and other service providers in different industries and categories of business. For more information regarding providers of products or services that you've requested please read our detailed <a href="https://info.yahoo.com/privacy/us/yahoo/thirdparties/" class="bb-url">reference links</a>.
 
-5.=[01/Agt/Type/Web/Bit/Outline.md]
 
 5.secs={5.1-3.Secs}
 
@@ -90,9 +88,8 @@ Ti=<img src="https://info.yahoo.com/privacy/us/yahoo/flash_us.jpg " alt="" width
 5.3.Sec=Yahoo uses <a href="https://info.yahoo.com/privacy/us/yahoo/webbeacons/" class="bb-url">web beacons</a> to access Yahoo cookies inside and outside our network of web sites and in connection with Yahoo products and services.</p>
 
 
-6.=[01/Agt/Type/Web/Bit/Outline.md]
-
 6.Sec={6.T-olsecs}
+
 6.secs={6.1-4.Secs}
 
 6.Ti=Your Ability to Edit and Delete Your Account Information and Preferences
@@ -104,9 +101,6 @@ Ti=<img src="https://info.yahoo.com/privacy/us/yahoo/flash_us.jpg " alt="" width
 6.3.Sec=We reserve the right to send you certain communications relating to the Yahoo service, such as service announcements, administrative messages and the Yahoo Newsletter, that are considered part of your Yahoo account, without offering you the opportunity to opt out of receiving them.
 
 6.4.Sec=You can delete your Yahoo account by visiting our <a href="https://edit.yahoo.com/config/delete_user" class="bb-url">Account Deletion</a> page. Please <a href="https://info.yahoo.com/privacy/us/yahoo/datastorage/" class="bb-url">click here</a> to read about information that might possibly remain in our archived records after your account has been deleted. </p>
-
-
-7.=[01/Agt/Type/Web/Bit/Outline.md]
 
 7.secs={7.1-3.Secs}
 
@@ -122,9 +116,6 @@ Ti=<img src="https://info.yahoo.com/privacy/us/yahoo/flash_us.jpg " alt="" width
 
 8.sec=Yahoo may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Yahoo account or by placing a prominent notice on our site.
 
-
-9.=[01/Agt/Type/Web/Bit/Outline.md]
-
 9.secs={9.1-2.Secs}
 
 9.Ti=QUESTIONS AND SUGGESTIONS
@@ -136,5 +127,4 @@ Ti=<img src="https://info.yahoo.com/privacy/us/yahoo/flash_us.jpg " alt="" width
 
 Doc.Version=Last Updated: September 25, 2014  
 
-=[01/Agt/Type/Web/Bit/Outline.md]
 secs={1-9.Secs}
