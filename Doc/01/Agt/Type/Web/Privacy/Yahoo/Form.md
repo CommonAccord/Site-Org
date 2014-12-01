@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 =[01/Agt/Type/Web/Bit/Outline.md]
+=======
+=http://commonaccord.org/index.php?action=source&file=/01/Agt/Type/Web/Privacy/Yahoo/Form.md
+>>>>>>> FETCH_HEAD
 
 Ti=<img src="https://info.yahoo.com/privacy/us/yahoo/flash_us.jpg " alt="" width="864" height="212" />
 
@@ -39,7 +43,7 @@ Ti=<img src="https://info.yahoo.com/privacy/us/yahoo/flash_us.jpg " alt="" width
 
 3.Ti=CHILDREN
 
-3.sec=When Yahoo has knowledge that a child under age 13 is attempting to register with Yahoo, we ask the child to have a parent or guardian create a <a href="https://info.yahoo.com/privacy/us/yahoo/family/details.html" class="bb-url">Yahoo Family Account</a> to obtain parental permission.  Visit <a href="https://info.yahoo.com/privacy/us/yahoo/family/details.html" class="bb-url">Children's Privacy & Family Accounts</a> to learn more about children’s privacy on Yahoo.</p>
+3.sec=When Yahoo has knowledge that a child under age 13 is attempting to register with Yahoo, we ask the child to have a parent or guardian create a <a href="https://info.yahoo.com/privacy/us/yahoo/family/details.html" class="bb-url">Yahoo Family Account</a> to obtain parental permission.  Visit <a href="https://info.yahoo.com/privacy/us/yahoo/family/details.html" class="bb-url">Children's Privacy & Family Accounts</a> to learn more about childrenâ€™s privacy on Yahoo.</p>
 
 
 4.secs={4.1-3.Secs}
@@ -69,7 +73,7 @@ Ti=<img src="https://info.yahoo.com/privacy/us/yahoo/flash_us.jpg " alt="" width
 4.2.secs={4.2.1-3.Secs}
 
 
-4.2.0.Sec=Yahoo displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click targeted ads meet the targeting criteria—for example, women ages 18-24 from a particular geographic area.
+4.2.0.Sec=Yahoo displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click targeted ads meet the targeting criteriaâ€”for example, women ages 18-24 from a particular geographic area.
 
 4.2.1.Sec=Yahoo does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad.
 4.2.2.Sec=Yahoo advertisers include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies).
@@ -127,4 +131,9 @@ Ti=<img src="https://info.yahoo.com/privacy/us/yahoo/flash_us.jpg " alt="" width
 
 Doc.Version=Last Updated: September 25, 2014  
 
+<<<<<<< HEAD
 secs={1-9.Secs}
+=======
+=[01/Agt/Type/Web/Bit/Outline.md]
+secs={1-9.Secs}
+>>>>>>> FETCH_HEAD
