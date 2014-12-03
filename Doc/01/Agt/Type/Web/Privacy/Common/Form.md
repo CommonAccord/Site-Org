@@ -8,7 +8,7 @@ olsecs=<ol><li>{1.Sec}<li>{2.Sec}<li>{3.Sec}<li>{4.Sec}<li>{5.Sec}<li>{6.Sec}<li
 
 2.=[01/Agt/Type/Web/Privacy/Common/Sec/Use.md]
 
-3.=[01/Agt/Type/Web/Privacy/Common/Sec/Use.md]
+3.=[01/Agt/Type/Web/Privacy/Common/Sec/Cookies.md]
 
 4.=[01/Agt/Type/Web/Privacy/Common/Sec/Expose.md]
 
