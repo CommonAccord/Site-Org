@@ -29,3 +29,6 @@ olsecs=<ol><li>{1.Sec}<li>{2.Sec}<li>{3.Sec}<li>{4.Sec}<li>{5.Sec}<li>{6.Sec}<li
 12.=[01/Agt/Type/Web/Privacy/Common/Sec/Amend.md]
 
 13.=[01/Agt/Type/Web/Privacy/Common/Sec/Special.md]
+
+14.=[01/Agt/Type/Web/Privacy/Common/Sec/Definition.md]
+
