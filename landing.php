@@ -15,19 +15,31 @@ include("header.php");
 	 <p align="center"><img src="assets/cmacc-trans.png" style="width:50%" /></p>
 <br/>
 <hr>
-<h3 class="title">A world without paperwork</h3>
-<h3 class="title"><a href="http://commonaccord.org/index.php?action=list&file=/"/>THE FILES</a></h3>
-        <h3 class="title"><a href=<?=$_SERVER['PHP_SELF']?>?action=explore>The Objects of Law</a></h3>
+<h3 class="title">Open source legal documents and software.</h1>
+<h3 class="title">
+<a href="https://github.com/CommonAccord/Org/wiki/Goal:-A-World-without-Paperwork">A world without paperwork</a>
+   &emsp; &emsp;    &emsp; &emsp;   
+<a href="https://github.com/CommonAccord/Org/wiki/Goal:-Community-Driven">Act locally</a>
+</h3>
 
-<h3 class="title"><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=/GenomicsAndHealth/REWG/Demo/>Automating Patient Consents</a></h3>
-<h3 class="title"><a href="http://commonaccord.org/index.php?action=source&file=/01/Agt/Type/Web/Privacy/Common/Form_T01_V01"/>Let's agree on privacy policies.</a></h3>
-
-<h3 class="title"> <a href="http://www.commonaccord.org/index.php?action=list&file=./01/Demo/">Componentized Terms of Use</a> &emsp;   &emsp; <a href="http://www.commonaccord.org/index.php?action=list&file=./me/Boston/Doc/">Boston Hackathon</a> </h3>
         <h4 class="title"><a href="https://github.com/CommonAccord/commonaccord/tree/master/Doc">Github repo</a>   &emsp; &emsp;   <a href="https://twitter.com/commonaccord">@commonaccord</a>  &emsp; &emsp;  <a href="http://lists.commonaccord.org/archive/cmacc/">mailing list</a></h4>
 
-<h4 class="title"><a href="http://response.commonaccord.org/Main_Page">response.commonaccord.org - Ebola response wiki</a></h4>
 
-<h3 class="title">Open source software<br/> and legal docs.</h1>
+<h4 class="title"><a href="http://commonaccord.org/index.php?action=list&file=/"/>THE FILES</a>  
+  &emsp; &emsp; 
+
+<a href=<?=$_SERVER['PHP_SELF']?>?action=explore>The Objects of Law</a>
+  &emsp; &emsp; 
+
+<a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=/GenomicsAndHealth/REWG/Demo/>Automating Patient Consents</a>
+  &emsp; &emsp; 
+
+<a href="http://commonaccord.org/index.php?action=source&file=/01/Agt/Type/Web/Privacy/Common/Form_T01_V01"/>Let's agree on privacy policies.</a>
+  &emsp; &emsp; 
+
+<a href="http://www.commonaccord.org/index.php?action=list&file=./01/Demo/">Componentized Terms of Use</a> &emsp;   &emsp; <a href="http://www.commonaccord.org/index.php?action=list&file=./me/Boston/Doc/">Boston Hackathon</a> 
+  &emsp; &emsp; 
+
 <hr>
 <br/>
 
