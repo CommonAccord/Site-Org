@@ -34,7 +34,7 @@ include("header.php");
 <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=/GenomicsAndHealth/REWG/Demo/>Automating Patient Consents</a>
   &emsp; &emsp; 
 
-<a href="http://commonaccord.org/index.php?action=source&file=/01/Agt/Type/Web/Privacy/Common/Form_T01_V01"/>Let's agree on privacy policies.</a>
+<a href="http://commonaccord.org/index.php?action=source&file=/01/Agt/Type/Web/Privacy/Common/Form.md"/>Let's agree on privacy policies.</a>
   &emsp; &emsp; 
 
 <a href="http://www.commonaccord.org/index.php?action=list&file=./01/Demo/">Componentized Terms of Use</a> &emsp;   &emsp; <a href="http://www.commonaccord.org/index.php?action=list&file=./me/Boston/Doc/">Boston Hackathon</a> 

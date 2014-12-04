@@ -1,3 +1,13 @@
-Model.Root={Doc.Body}
+=[?https://raw.githubusercontent.com/CommonAccord/forms-library/master/500-kiss/debt-version.md]
+=[01/Agt/Bit/Outline/Library_T01_V02.md]
+Ti={Heading}
 
-=[?https://raw.githubusercontent.com/HazardJ/Template/master/AGT_Frame]
+0.Sec={H.1.Sec}<br>{H.2.Sec}<br>{H.3.Sec}<br>{H.4.Sec}<br>{H.5.Sec}
+
+Model.Root={H-0-sec-90}
+
+secs={1-3.Secs}
+
+1.secs={1.1-16.Secs}
+
+2.secs={2.1-6.Secs}
