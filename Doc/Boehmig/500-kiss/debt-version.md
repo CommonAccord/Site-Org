@@ -1,3 +1,4 @@
+=[?https://raw.githubusercontent.com/CommonAccord/forms-library/master/500-kiss/debt-version.md]
 =[01/Agt/Bit/Outline/Library_T01_V02.md]
 Ti={Heading}
 
@@ -30,19 +31,19 @@ H.3.Sec=${Purchase Price}
 
 H.4.Sec={Date}
 
-H.5.Sec=FOR VALUE RECEIVED, {Company Name}, a Delaware corporation (the ‚Äú<b>Company</b>‚Äù), hereby promises to pay to the order of {Investor Name} \(the ‚Äú<b>Investor</b>‚Äù), the principal sum of the Purchase Price, together with interest thereon from the Date of Issuance.  Interest shall accrue at the Interest Rate.  Unless earlier converted into Conversion Shares pursuant to Section 2, the principal and accrued interest shall be due and payable by the Company on demand by the Majority in Interest at any time after the Maturity Date.  This KISS is one of a series of Series {Series Number} KISSes issued by the Company to investors with identical terms and on the same form as set forth herein (except that the Investor, Purchase Price and Date of Issuance may differ in each KISS) (collectively, the ‚ÄúSeries‚Äù).
+H.5.Sec=FOR VALUE RECEIVED, {Company Name}, a Delaware corporation (the ì<b>Company</b>î), hereby promises to pay to the order of {Investor Name} \(the ì<b>Investor</b>î), the principal sum of the Purchase Price, together with interest thereon from the Date of Issuance.  Interest shall accrue at the Interest Rate.  Unless earlier converted into Conversion Shares pursuant to Section 2, the principal and accrued interest shall be due and payable by the Company on demand by the Majority in Interest at any time after the Maturity Date.  This KISS is one of a series of Series {Series Number} KISSes issued by the Company to investors with identical terms and on the same form as set forth herein (except that the Investor, Purchase Price and Date of Issuance may differ in each KISS) (collectively, the ìSeriesî).
 
 1.Ti=Definitions
 
-1.1.Ti=‚Äú<i>Conversion Shares</i>‚Äù shall mean:
+1.1.Ti=ì<i>Conversion Shares</i>î shall mean:
 
-1.1.1.Sec=with respect to a conversion pursuant to Section 2.1, shares of the Company‚Äôs Preferred Stock issued in the Next Equity Financing; provided, however, that, at the Company‚Äôs election, ‚ÄúConversion Shares‚Äù with respect to a conversion pursuant to Section 2.1 shall mean shares of a Shadow Series;
+1.1.1.Sec=with respect to a conversion pursuant to Section 2.1, shares of the Companyís Preferred Stock issued in the Next Equity Financing; provided, however, that, at the Companyís election, ìConversion Sharesî with respect to a conversion pursuant to Section 2.1 shall mean shares of a Shadow Series;
 
-1.1.2.Sec=with respect to a conversion pursuant to Section 2.2, shares of the Company‚Äôs Common Stock; and
+1.1.2.Sec=with respect to a conversion pursuant to Section 2.2, shares of the Companyís Common Stock; and
 
-1.1.3.Sec=with respect to a conversion pursuant to Section 2.3, shares of a newly created series of the Company‚Äôs Series Seed Preferred Stock, upon the terms and provisions set forth in the most recent version of the Series Seed documents posted at www.seriesseed.com (or if not so posted, as reasonably agreed by the Company and a Majority in Interest); provided that, for the avoidance of doubt, the Conversion Price shall be determined pursuant to Section 1(b)(iii).
+1.1.3.Sec=with respect to a conversion pursuant to Section 2.3, shares of a newly created series of the Companyís Series Seed Preferred Stock, upon the terms and provisions set forth in the most recent version of the Series Seed documents posted at www.seriesseed.com (or if not so posted, as reasonably agreed by the Company and a Majority in Interest); provided that, for the avoidance of doubt, the Conversion Price shall be determined pursuant to Section 1(b)(iii).
 
-1.2.Ti=‚Äú<i>Conversion Price</i>‚Äù shall equal:
+1.2.Ti=ì<i>Conversion Price</i>î shall equal:
 
 1.2.1.Sec=with respect to a conversion pursuant to Section 2.1, the lower of (A) the product of (1) one (1) minus the Discount and (2) the price paid per share for Preferred Stock by the investors in the Next Equity Financing or (B) the quotient resulting from dividing (1) the Valuation Cap by (2) the Fully-Diluted Capitalization immediately prior to the closing of the Next Equity Financing;
 
@@ -50,37 +51,37 @@ H.5.Sec=FOR VALUE RECEIVED, {Company Name}, a Delaware corporation (the ‚Äú<b>Co
 
 1.2.3.Sec=with respect to a conversion pursuant to Section 2.3, the quotient resulting from dividing (A) the Valuation Cap by (B) the Fully-Diluted Capitalization immediately prior to the conversion.
 
-1.3.Sec=‚Äú<i>Corporate Transaction</i>‚Äù shall mean (i) the closing of the sale, transfer or other disposition of all or substantially all of the Company‚Äôs assets, (ii) the consummation of the merger or consolidation of the Company with or into another entity (except a merger or consolidation in which the holders of capital stock of the Company immediately prior to such merger or consolidation continue to hold at least 50% of the voting power of the capital stock of the Company or the surviving or acquiring entity), (iii) the closing of the transfer (whether by merger, consolidation or otherwise), in one transaction or a series of related transactions, to a person or group of affiliated persons (other than an underwriter of the Company‚Äôs securities), of the Company‚Äôs securities if, after such closing, such person or group of affiliated persons would hold 50% or more of the outstanding voting stock of the Company (or the surviving or acquiring entity), or (iv) the liquidation, dissolution or winding up of the Company; provided, however, that a transaction shall not constitute a Corporate Transaction if its sole purpose is to change the state of the Company‚Äôs incorporation or to create a holding company that will be owned in substantially the same proportions by the persons who held the Company‚Äôs securities immediately prior to such transaction.  Notwithstanding the prior sentence, the sale of shares of Preferred Stock in a bona fide financing transaction shall not be deemed a ‚ÄúCorporate Transaction.‚Äù
+1.3.Sec=ì<i>Corporate Transaction</i>î shall mean (i) the closing of the sale, transfer or other disposition of all or substantially all of the Companyís assets, (ii) the consummation of the merger or consolidation of the Company with or into another entity (except a merger or consolidation in which the holders of capital stock of the Company immediately prior to such merger or consolidation continue to hold at least 50% of the voting power of the capital stock of the Company or the surviving or acquiring entity), (iii) the closing of the transfer (whether by merger, consolidation or otherwise), in one transaction or a series of related transactions, to a person or group of affiliated persons (other than an underwriter of the Companyís securities), of the Companyís securities if, after such closing, such person or group of affiliated persons would hold 50% or more of the outstanding voting stock of the Company (or the surviving or acquiring entity), or (iv) the liquidation, dissolution or winding up of the Company; provided, however, that a transaction shall not constitute a Corporate Transaction if its sole purpose is to change the state of the Companyís incorporation or to create a holding company that will be owned in substantially the same proportions by the persons who held the Companyís securities immediately prior to such transaction.  Notwithstanding the prior sentence, the sale of shares of Preferred Stock in a bona fide financing transaction shall not be deemed a ìCorporate Transaction.î
 
-1.4.Sec=‚Äú<i>Corporate Transaction Payment</i>‚Äù shall mean an amount equal to all accrued and unpaid interest due on this KISS plus two times (2X) the Purchase Price.
+1.4.Sec=ì<i>Corporate Transaction Payment</i>î shall mean an amount equal to all accrued and unpaid interest due on this KISS plus two times (2X) the Purchase Price.
 
-1.5.Sec=‚Äú<i>Discount</i>‚Äù shall mean {Discount}%.
+1.5.Sec=ì<i>Discount</i>î shall mean {Discount}%.
 
-1.6.Sec=‚Äú<i>Equity Securities</i>‚Äù shall mean the Company‚Äôs Common Stock or Preferred Stock or any securities conferring the right to purchase the Company‚Äôs Common Stock or Preferred Stock or securities convertible into, or exchangeable for (with or without additional consideration), the Company‚Äôs Common Stock or Preferred Stock, except any security granted, issued and/or sold by the Company to any director, officer, employee or consultant of the Company in such capacity for the primary purpose of soliciting or retaining their services.
+1.6.Sec=ì<i>Equity Securities</i>î shall mean the Companyís Common Stock or Preferred Stock or any securities conferring the right to purchase the Companyís Common Stock or Preferred Stock or securities convertible into, or exchangeable for (with or without additional consideration), the Companyís Common Stock or Preferred Stock, except any security granted, issued and/or sold by the Company to any director, officer, employee or consultant of the Company in such capacity for the primary purpose of soliciting or retaining their services.
 
-1.7.Sec=‚Äú<i>Financial Statements</i>‚Äù shall mean an income statement, balance sheet, statement of stockholders‚Äô equity, and/or a statement of cash flows, in each case as of the end of (i) each of the first three (3) fiscal quarters and (ii) each fiscal year of the Company.
+1.7.Sec=ì<i>Financial Statements</i>î shall mean an income statement, balance sheet, statement of stockholdersí equity, and/or a statement of cash flows, in each case as of the end of (i) each of the first three (3) fiscal quarters and (ii) each fiscal year of the Company.
 
-1.6.Sec=‚Äú<i>Fully-Diluted Capitalization</i>‚Äù shall mean the number of shares of outstanding Common Stock of the Company on a fully-diluted basis, including (i) conversion or exercise of all securities convertible into or exercisable for Common Stock, (ii) exercise of all outstanding options and warrants to purchase Common Stock and, in the case of Section 1(b)(i) and 1(b)(iii) only, (iii) the shares reserved or authorized for issuance under the Company‚Äôs existing stock option plan or any stock option plan created or increased in connection with such transaction; but excluding, for this purpose, the conversion contemplated by the applicable provision of Section 2.
+1.6.Sec=ì<i>Fully-Diluted Capitalization</i>î shall mean the number of shares of outstanding Common Stock of the Company on a fully-diluted basis, including (i) conversion or exercise of all securities convertible into or exercisable for Common Stock, (ii) exercise of all outstanding options and warrants to purchase Common Stock and, in the case of Section 1(b)(i) and 1(b)(iii) only, (iii) the shares reserved or authorized for issuance under the Companyís existing stock option plan or any stock option plan created or increased in connection with such transaction; but excluding, for this purpose, the conversion contemplated by the applicable provision of Section 2.
 
-1.7.Sec=‚Äú<i>Holder</i>‚Äù shall mean a member of the KISS Group that holds a KISS (including, without limitation, the Investor, for so long as the Investor holds this KISS).
+1.7.Sec=ì<i>Holder</i>î shall mean a member of the KISS Group that holds a KISS (including, without limitation, the Investor, for so long as the Investor holds this KISS).
 
-1.8.Sec=‚Äú<i>Interest Rate</i>‚Äù shall mean a rate of four percent (4%) per annum, compounded annually.
+1.8.Sec=ì<i>Interest Rate</i>î shall mean a rate of four percent (4%) per annum, compounded annually.
 
-1.9.Sec=‚Äú<i>KISS</i>‚Äù or ‚Äú<i>KISSes</i>‚Äù shall mean the KISS instruments issued by the Company to Holders in the form hereof.
+1.9.Sec=ì<i>KISS</i>î or ì<i>KISSes</i>î shall mean the KISS instruments issued by the Company to Holders in the form hereof.
 
-1.10.Sec=‚Äú<i>KISS Group</i>‚Äù shall mean the holders of all KISSes in the Series, collectively.
+1.10.Sec=ì<i>KISS Group</i>î shall mean the holders of all KISSes in the Series, collectively.
 
-1.11.Sec=‚Äú<i>Majority in Interest</i>‚Äù shall mean members of the KISS Group holding a majority in interest of the aggregate Purchase Prices of all KISSes in the Series.
+1.11.Sec=ì<i>Majority in Interest</i>î shall mean members of the KISS Group holding a majority in interest of the aggregate Purchase Prices of all KISSes in the Series.
 
-1.12.Sec=‚Äú<i>Maturity Date</i>‚Äù shall mean the date that is eighteen (18) months following the Date of Issuance.
+1.12.Sec=ì<i>Maturity Date</i>î shall mean the date that is eighteen (18) months following the Date of Issuance.
 
-1.13.Sec=‚Äú<i>Next Equity Financing</i>‚Äù shall mean the next sale (or series of related sales) by the Company of its Preferred Stock following the Date of Issuance from which the Company receives gross proceeds of not less than $1,000,000 (excluding the aggregate amount of securities converted into Preferred Stock in connection with such sale (or series of related sales)).
+1.13.Sec=ì<i>Next Equity Financing</i>î shall mean the next sale (or series of related sales) by the Company of its Preferred Stock following the Date of Issuance from which the Company receives gross proceeds of not less than $1,000,000 (excluding the aggregate amount of securities converted into Preferred Stock in connection with such sale (or series of related sales)).
 
-1.14.Sec=‚Äú<i>Participation Amount</i>‚Äù shall mean an amount in US dollars equal to one times (1X) the Purchase Price. 
+1.14.Sec=ì<i>Participation Amount</i>î shall mean an amount in US dollars equal to one times (1X) the Purchase Price. 
 
-1.15.Sec=‚Äú<i>Shadow Series</i>‚Äù shall mean shares of a series of the Company‚Äôs Preferred Stock that is identical in all respects to the shares of Preferred Stock issued in the Next Equity Financing (e.g., if the Company sells Series A Preferred Stock in the Next Equity Financing, the Shadow Series would be Series A-1 Preferred Stock), except that the liquidation preference per share of the Shadow Series shall equal the Conversion Price (as determined pursuant to Section 1(b)(i)), with corresponding adjustments to any price-based antidilution and dividend rights provisions.
+1.15.Sec=ì<i>Shadow Series</i>î shall mean shares of a series of the Companyís Preferred Stock that is identical in all respects to the shares of Preferred Stock issued in the Next Equity Financing (e.g., if the Company sells Series A Preferred Stock in the Next Equity Financing, the Shadow Series would be Series A-1 Preferred Stock), except that the liquidation preference per share of the Shadow Series shall equal the Conversion Price (as determined pursuant to Section 1(b)(i)), with corresponding adjustments to any price-based antidilution and dividend rights provisions.
 
-1.16.Sec=‚Äú<i>Valuation Cap</i>‚Äù shall mean US$ {Valuation Cap}.
+1.16.Sec=ì<i>Valuation Cap</i>î shall mean US$ {Valuation Cap}.
 
 1.secs={1.1-16.Secs}
 
@@ -93,7 +94,7 @@ H.5.Sec=FOR VALUE RECEIVED, {Company Name}, a Delaware corporation (the ‚Äú<b>Co
 
 2.2.Ti=Corporate Transaction
 
-2.2.sec=In the event of a Corporate Transaction prior to the conversion of this KISS pursuant to Section 2.1 or 2.3, at Investor‚Äôs election, (i) this KISS shall be converted into that number of Conversion Shares equal to the quotient obtained by dividing the Purchase Price and unpaid accrued interest on this KISS by the Conversion Price; or (ii) the Investor shall be paid the Corporate Transaction Payment.  At least ten (10) days prior to the closing of the Corporate Transaction, the Company shall notify the Investor in writing of the terms of the Corporate Transaction.
+2.2.sec=In the event of a Corporate Transaction prior to the conversion of this KISS pursuant to Section 2.1 or 2.3, at Investorís election, (i) this KISS shall be converted into that number of Conversion Shares equal to the quotient obtained by dividing the Purchase Price and unpaid accrued interest on this KISS by the Conversion Price; or (ii) the Investor shall be paid the Corporate Transaction Payment.  At least ten (10) days prior to the closing of the Corporate Transaction, the Company shall notify the Investor in writing of the terms of the Corporate Transaction.
 
 2.3.Ti=Maturity Conversion
 
@@ -125,11 +126,11 @@ H.5.Sec=FOR VALUE RECEIVED, {Company Name}, a Delaware corporation (the ‚Äú<b>Co
 
 3.3.Ti=Offering
 
-3.3.sec=Subject in part to the truth and accuracy of the Investor‚Äôs representations set forth herein, the offer, sale and issuance of this KISS are exempt from the registration requirements of any applicable state and federal securities laws, and neither the Company nor any authorized agent acting on its behalf will take any action hereafter that would cause the loss of such exemption.
+3.3.sec=Subject in part to the truth and accuracy of the Investorís representations set forth herein, the offer, sale and issuance of this KISS are exempt from the registration requirements of any applicable state and federal securities laws, and neither the Company nor any authorized agent acting on its behalf will take any action hereafter that would cause the loss of such exemption.
 
 3.4.Ti=Compliance with Other Instruments
 
-3.4.sec=The execution, delivery and performance of this KISS, and the consummation of the transactions contemplated hereby, will not constitute or result in a default, violation, conflict or breach in any material respect of any provision of the Company‚Äôs current Certificate of Incorporation or bylaws, or in any material respect of any instrument, judgment, order, writ, decree, privacy policy or contract to which it is a party or by which it is bound, or, to its knowledge, of any provision of any federal or state statute, rule or regulation applicable to the Company.
+3.4.sec=The execution, delivery and performance of this KISS, and the consummation of the transactions contemplated hereby, will not constitute or result in a default, violation, conflict or breach in any material respect of any provision of the Companyís current Certificate of Incorporation or bylaws, or in any material respect of any instrument, judgment, order, writ, decree, privacy policy or contract to which it is a party or by which it is bound, or, to its knowledge, of any provision of any federal or state statute, rule or regulation applicable to the Company.
 
 3.5.Ti=Valid Issuance of Stock
 
@@ -141,7 +142,7 @@ H.5.Sec=FOR VALUE RECEIVED, {Company Name}, a Delaware corporation (the ‚Äú<b>Co
 
 3.7.Ti=Litigation
 
-3.7.sec=To the Company‚Äôs knowledge, there is no private or governmental action, suit, proceeding, claim, arbitration or investigation pending before any agency, court or tribunal, foreign or domestic, or threatened against the Company or any of its properties or any of its officers or managers (in their capacities as such).  There is no judgment, decree or order against the Company, or, to the knowledge of the Company, any of its directors or managers (in their capacities as such), that could prevent, enjoin, or materially alter or delay any of the transactions contemplated by this KISS, or that could reasonably be expected to have a material adverse effect on the Company.
+3.7.sec=To the Companyís knowledge, there is no private or governmental action, suit, proceeding, claim, arbitration or investigation pending before any agency, court or tribunal, foreign or domestic, or threatened against the Company or any of its properties or any of its officers or managers (in their capacities as such).  There is no judgment, decree or order against the Company, or, to the knowledge of the Company, any of its directors or managers (in their capacities as such), that could prevent, enjoin, or materially alter or delay any of the transactions contemplated by this KISS, or that could reasonably be expected to have a material adverse effect on the Company.
 
 3.secs={3.1-7.Secs}
 
@@ -153,11 +154,11 @@ H.5.Sec=FOR VALUE RECEIVED, {Company Name}, a Delaware corporation (the ‚Äú<b>Co
 
 4.1.Ti=Authorization
 
-4.1.sec=This KISS constitutes Investor‚Äôs valid and legally binding obligation, enforceable in accordance with its terms, except as may be limited by (i) applicable bankruptcy, insolvency, reorganization, or similar laws relating to or affecting the enforcement of creditors‚Äô rights and (ii) laws relating to the availability of specific performance, injunctive relief or other equitable remedies. 
+4.1.sec=This KISS constitutes Investorís valid and legally binding obligation, enforceable in accordance with its terms, except as may be limited by (i) applicable bankruptcy, insolvency, reorganization, or similar laws relating to or affecting the enforcement of creditorsí rights and (ii) laws relating to the availability of specific performance, injunctive relief or other equitable remedies. 
 
 4.2.Ti=Purchase Entirely for Own Account
 
-4.2.sec=Investor acknowledges that this KISS is issued to Investor in reliance upon Investor‚Äôs representation to the Company that the KISS will be acquired for investment for Investor‚Äôs own account, not as a nominee or agent, and not with a view to the resale or distribution of any part thereof, and that such Investor has no present intention of selling, granting any participation in, or otherwise distributing the same. 
+4.2.sec=Investor acknowledges that this KISS is issued to Investor in reliance upon Investorís representation to the Company that the KISS will be acquired for investment for Investorís own account, not as a nominee or agent, and not with a view to the resale or distribution of any part thereof, and that such Investor has no present intention of selling, granting any participation in, or otherwise distributing the same. 
 
 4.3.Ti=Investment Experience
 
@@ -165,11 +166,11 @@ H.5.Sec=FOR VALUE RECEIVED, {Company Name}, a Delaware corporation (the ‚Äú<b>Co
 
 4.4.Ti=Accredited Investor
 
-4.4.sec=Investor is an ‚Äúaccredited investor‚Äù within the meaning of Rule 501 of Regulation D, as presently in effect, as promulgated by the Securities and Exchange Commission (the ‚ÄúSEC‚Äù) under the Securities Act of 1933, as amended (the ‚ÄúAct‚Äù).
+4.4.sec=Investor is an ìaccredited investorî within the meaning of Rule 501 of Regulation D, as presently in effect, as promulgated by the Securities and Exchange Commission (the ìSECî) under the Securities Act of 1933, as amended (the ìActî).
 
 4.5.Ti=Restricted Security
 
-4.5.sec=Investor understands that this KISS is characterized as a ‚Äúrestricted security‚Äù under the federal securities laws inasmuch as it is being acquired from the Company in a transaction not involving a public offering and that under such laws and applicable regulations such securities may be resold without registration under the Act, only in certain limited circumstances.  
+4.5.sec=Investor understands that this KISS is characterized as a ìrestricted securityî under the federal securities laws inasmuch as it is being acquired from the Company in a transaction not involving a public offering and that under such laws and applicable regulations such securities may be resold without registration under the Act, only in certain limited circumstances.  
 
 4.secs={4.1-5.Secs}
 
@@ -178,24 +179,24 @@ H.5.Sec=FOR VALUE RECEIVED, {Company Name}, a Delaware corporation (the ‚Äú<b>Co
 
 5.1.Ti=Most Favored Nation
 
-5.1.sec=In the event the Company sells or issues any convertible instruments (other than the issuance of stock options to service providers of the Company) at any time prior to the earlier of (a) conversion of this KISS, (b) a Corporate Transaction or (c) payment in full of all outstanding principal and accrued interest in accordance with this KISS, the Company shall provide the Investor with written notice of such sale or issuance no later than five (5) days after the closing date thereof, including the price and terms of such convertible instruments (the ‚ÄúSubsequent Instruments‚Äù).  In the event the Investor determines, in its sole and absolute discretion, that any Subsequent Instrument contains terms more favorable to the holder(s) thereof than the terms set forth in this KISS, the Investor may elect to exchange this KISS for a Subsequent Instrument.
+5.1.sec=In the event the Company sells or issues any convertible instruments (other than the issuance of stock options to service providers of the Company) at any time prior to the earlier of (a) conversion of this KISS, (b) a Corporate Transaction or (c) payment in full of all outstanding principal and accrued interest in accordance with this KISS, the Company shall provide the Investor with written notice of such sale or issuance no later than five (5) days after the closing date thereof, including the price and terms of such convertible instruments (the ìSubsequent Instrumentsî).  In the event the Investor determines, in its sole and absolute discretion, that any Subsequent Instrument contains terms more favorable to the holder(s) thereof than the terms set forth in this KISS, the Investor may elect to exchange this KISS for a Subsequent Instrument.
 
 
 5.2.Ti=Major Investor Rights
 
-5.2.0.sec=In the event the Investor, together with its affiliates, purchases one or more KISSes with an aggregate Purchase Price equal to or exceeding $50,000 (a ‚ÄúMajor Investor‚Äù), the Company shall provide such Major Investor with the following rights:
+5.2.0.sec=In the event the Investor, together with its affiliates, purchases one or more KISSes with an aggregate Purchase Price equal to or exceeding $50,000 (a ìMajor Investorî), the Company shall provide such Major Investor with the following rights:
 
 5.2.1.Ti=Information Rights
 
-5.2.1.sec=To the extent that the Company prepares Financial Statements, the Company shall deliver to the Major Investor such Financial Statements upon request, as soon as practicable, but in any event within thirty (30) days after the end of each of the first three (3) quarters of each fiscal year of the Company and within ninety (90) days after the end of each fiscal year of the Company.  Such Financial Statements shall be in reasonable detail and prepared on a consistent basis.  Additionally, regardless of whether the Company prepares Financial Statements, the Company shall deliver to the Major Investor such information relating to the financial condition, business or corporate affairs of the Company as such Major Investor may from time to time reasonably request.  Notwithstanding anything to the contrary in this Section 5.2(a), the Company shall not be obligated under this Section 5.2(a) to provide information that (x) it deems in good faith to be a trade secret or highly confidential information or (y) the disclosure of which would adversely affect the attorney-client privilege between the Company and its counsel; and the Investor agrees to maintain the confidentiality of all of the information provided to the Investor under this Section 5.2(a) and agrees not to use such information other than for a purpose reasonably related to the Investor‚Äôs investment in the Company.
+5.2.1.sec=To the extent that the Company prepares Financial Statements, the Company shall deliver to the Major Investor such Financial Statements upon request, as soon as practicable, but in any event within thirty (30) days after the end of each of the first three (3) quarters of each fiscal year of the Company and within ninety (90) days after the end of each fiscal year of the Company.  Such Financial Statements shall be in reasonable detail and prepared on a consistent basis.  Additionally, regardless of whether the Company prepares Financial Statements, the Company shall deliver to the Major Investor such information relating to the financial condition, business or corporate affairs of the Company as such Major Investor may from time to time reasonably request.  Notwithstanding anything to the contrary in this Section 5.2(a), the Company shall not be obligated under this Section 5.2(a) to provide information that (x) it deems in good faith to be a trade secret or highly confidential information or (y) the disclosure of which would adversely affect the attorney-client privilege between the Company and its counsel; and the Investor agrees to maintain the confidentiality of all of the information provided to the Investor under this Section 5.2(a) and agrees not to use such information other than for a purpose reasonably related to the Investorís investment in the Company.
 
 5.2.2.Ti=Participation Rights
 
-5.2.2.sec=Each time the Company proposes to offer any Equity Securities at any time through and including the closing of the Next Equity Financing, the Company shall provide the Major Investor with at least ten (10) business days prior written notice of such offering, including the price and terms thereof.  The Major Investor shall have a right of first offer to participate in such offering(s), on the same terms and for the same price as all other investors in such offering(s), by purchasing an aggregate number of Equity Securities (whether in one offering or across multiple offerings) valued at up to the Participation Amount.  The Major Investor‚Äôs right of first offer set forth in this Section 5.2(b) shall be subject to compliance with applicable federal and state securities laws.
+5.2.2.sec=Each time the Company proposes to offer any Equity Securities at any time through and including the closing of the Next Equity Financing, the Company shall provide the Major Investor with at least ten (10) business days prior written notice of such offering, including the price and terms thereof.  The Major Investor shall have a right of first offer to participate in such offering(s), on the same terms and for the same price as all other investors in such offering(s), by purchasing an aggregate number of Equity Securities (whether in one offering or across multiple offerings) valued at up to the Participation Amount.  The Major Investorís right of first offer set forth in this Section 5.2(b) shall be subject to compliance with applicable federal and state securities laws.
 
-5.2.3.Ti=‚ÄúMajor Investor‚Äù Rights
+5.2.3.Ti=ìMajor Investorî Rights
 
-5.2.3.sec=The Company shall ensure that the Major Investor shall be deemed to be a ‚ÄúMajor Investor‚Äù (or such similar term) for all purposes, including, without limitation, rights of first offer and information rights, in relevant financing documents related to all subsequent sales of Equity Securities, to the extent such concept exists.
+5.2.3.sec=The Company shall ensure that the Major Investor shall be deemed to be a ìMajor Investorî (or such similar term) for all purposes, including, without limitation, rights of first offer and information rights, in relevant financing documents related to all subsequent sales of Equity Securities, to the extent such concept exists.
 
 5.2.secs={5.2.1-3.Secs}
 
@@ -204,9 +205,9 @@ H.5.Sec=FOR VALUE RECEIVED, {Company Name}, a Delaware corporation (the ‚Äú<b>Co
 
 5.3.sec=All payments, if any, shall be made in lawful money of the United States of America.  Payment shall be credited first to Costs (as defined below), if any, then to accrued interest due and payable and any remainder applied to principal or the Corporate Transaction Payment, as applicable.  Prepayment of principal, together with accrued interest, may not be made without the prior written consent of the Investor.  The Company hereby waives demand, notice, presentment, protest and notice of dishonor.
 
-5.4.Ti=Costs, Expenses and Attorneys‚Äô Fees; Indemnity
+5.4.Ti=Costs, Expenses and Attorneysí Fees; Indemnity
 
-5.4.secs=The Company hereby agrees, subject only to any limitation imposed by applicable law, to pay all expenses, including reasonable attorneys‚Äô fees and legal expenses, incurred by the holder of this KISS in endeavoring to collect any amounts payable hereunder which are not paid when due, whether by declaration or otherwise (‚ÄúCosts‚Äù).  The Company agrees that any delay on the part of the holder in exercising any rights hereunder will not operate as a waiver of such rights.  The holder of this KISS shall not by any act, delay, omission or otherwise be deemed to have waived any of its rights or remedies, and no waiver of any kind shall be valid unless in writing and signed by the party or parties waiving such rights or remedies.  If any action at law or in equity is necessary to enforce or interpret the terms of this KISS, the prevailing party shall be entitled to reasonable attorneys‚Äô fees, costs and necessary disbursements in addition to any other relief to which such party may be entitled.  The Company shall indemnify and hold the Investor harmless from any loss, cost, liability and legal or other expense, including attorneys‚Äô fees of the Investor‚Äôs counsel, which the Investor may directly or indirectly suffer or incur by reason of the failure of the Company to perform any of its obligations under this KISS or any agreement executed in connection herewith; provided, however, that the indemnity agreement contained in this Section 5.4 shall not apply to liabilities which the Investor may directly or indirectly suffer or incur by reason of the Investor‚Äôs own gross negligence or willful misconduct.
+5.4.secs=The Company hereby agrees, subject only to any limitation imposed by applicable law, to pay all expenses, including reasonable attorneysí fees and legal expenses, incurred by the holder of this KISS in endeavoring to collect any amounts payable hereunder which are not paid when due, whether by declaration or otherwise (ìCostsî).  The Company agrees that any delay on the part of the holder in exercising any rights hereunder will not operate as a waiver of such rights.  The holder of this KISS shall not by any act, delay, omission or otherwise be deemed to have waived any of its rights or remedies, and no waiver of any kind shall be valid unless in writing and signed by the party or parties waiving such rights or remedies.  If any action at law or in equity is necessary to enforce or interpret the terms of this KISS, the prevailing party shall be entitled to reasonable attorneysí fees, costs and necessary disbursements in addition to any other relief to which such party may be entitled.  The Company shall indemnify and hold the Investor harmless from any loss, cost, liability and legal or other expense, including attorneysí fees of the Investorís counsel, which the Investor may directly or indirectly suffer or incur by reason of the failure of the Company to perform any of its obligations under this KISS or any agreement executed in connection herewith; provided, however, that the indemnity agreement contained in this Section 5.4 shall not apply to liabilities which the Investor may directly or indirectly suffer or incur by reason of the Investorís own gross negligence or willful misconduct.
 
 5.5.Ti=Security
 
@@ -222,11 +223,11 @@ H.5.Sec=FOR VALUE RECEIVED, {Company Name}, a Delaware corporation (the ‚Äú<b>Co
 
 5.8.Ti=Notices
 
-5.8.sec=All notices and other communications given or made pursuant to this KISS shall be in writing and shall be deemed effectively given upon the earlier of actual receipt or:  (a) personal delivery to the party to be notified, (b) when sent, if sent by electronic mail or facsimile during normal business hours of the recipient, and if not sent during normal business hours, then on the recipient‚Äôs next business day, (c) five (5) days after having been sent by registered or certified mail, return receipt requested, postage prepaid, or (d) one (1) business day after deposit with a nationally recognized overnight courier, freight prepaid, specifying next business day delivery, with written verification of receipt. 
+5.8.sec=All notices and other communications given or made pursuant to this KISS shall be in writing and shall be deemed effectively given upon the earlier of actual receipt or:  (a) personal delivery to the party to be notified, (b) when sent, if sent by electronic mail or facsimile during normal business hours of the recipient, and if not sent during normal business hours, then on the recipientís next business day, (c) five (5) days after having been sent by registered or certified mail, return receipt requested, postage prepaid, or (d) one (1) business day after deposit with a nationally recognized overnight courier, freight prepaid, specifying next business day delivery, with written verification of receipt. 
 
 5.9.Ti=Financing Agreements
 
-5.9.sec=The Investor understands and agrees that the conversion of the KISS into Conversion Shares may require the Investor‚Äôs execution of certain agreements relating to the purchase and sale of such securities as well as registration, co sale, rights of first refusal, rights of first offer and voting rights, if any, relating to such securities.  The Investor agrees to execute all such agreements in connection with the conversion so long as the issuance of Conversion Shares issued pursuant to the conversion of this KISS are subject to the same terms and conditions applicable to the Preferred Stock sold in the Next Equity Financing (or the Shadow Series or Series Seed Preferred Stock, as applicable).
+5.9.sec=The Investor understands and agrees that the conversion of the KISS into Conversion Shares may require the Investorís execution of certain agreements relating to the purchase and sale of such securities as well as registration, co sale, rights of first refusal, rights of first offer and voting rights, if any, relating to such securities.  The Investor agrees to execute all such agreements in connection with the conversion so long as the issuance of Conversion Shares issued pursuant to the conversion of this KISS are subject to the same terms and conditions applicable to the Preferred Stock sold in the Next Equity Financing (or the Shadow Series or Series Seed Preferred Stock, as applicable).
 
 5.10.Ti=Severability
 
@@ -246,7 +247,7 @@ H.5.Sec=FOR VALUE RECEIVED, {Company Name}, a Delaware corporation (the ‚Äú<b>Co
 
 5.14.Ti=Entire Agreement; Amendments and Waivers
 
-5.14.sec=This KISS and the other KISSes in the Series constitute the full and entire understanding and agreement between the parties with regard to the subjects hereof.  The Company‚Äôs agreements with each Holder are separate agreements, and the sales of the KISSes to each Holder are separate sales.  Nonetheless, any term of the KISSes in the Series may be amended and the observance of any term of the KISSes in the Series may be waived (either generally or in a particular instance and either retroactively or prospectively), with the written consent of the Company and the Majority in Interest; provided, however, that Sections 2.2, 5.2 (if and only if Investor is a Major Investor), 5.3, 5.6, 5.13 and 5.14 may not be amended or waived without the written consent of the Investor.  Any waiver or amendment effected in accordance with this Section 5.14 shall be binding upon the Company and each current and future member of the KISS Group.
+5.14.sec=This KISS and the other KISSes in the Series constitute the full and entire understanding and agreement between the parties with regard to the subjects hereof.  The Companyís agreements with each Holder are separate agreements, and the sales of the KISSes to each Holder are separate sales.  Nonetheless, any term of the KISSes in the Series may be amended and the observance of any term of the KISSes in the Series may be waived (either generally or in a particular instance and either retroactively or prospectively), with the written consent of the Company and the Majority in Interest; provided, however, that Sections 2.2, 5.2 (if and only if Investor is a Major Investor), 5.3, 5.6, 5.13 and 5.14 may not be amended or waived without the written consent of the Investor.  Any waiver or amendment effected in accordance with this Section 5.14 shall be binding upon the Company and each current and future member of the KISS Group.
 
 5.15.Ti=Exculpation Among Holders
 
@@ -259,7 +260,7 @@ H.5.Sec=FOR VALUE RECEIVED, {Company Name}, a Delaware corporation (the ‚Äú<b>Co
  
 6.Ti=Approval
 
-6.sec=The Company hereby represents that its Board of Directors, in the exercise of its fiduciary duty, has approved the Company‚Äôs execution of this KISS based upon a reasonable belief that the Purchase Price provided hereunder is appropriate for the Company after reasonable inquiry concerning the Company‚Äôs financing objectives and financial situation.  In addition, the Company hereby represents that it intends to use the Purchase Price primarily for the operations of its business, and not for any personal, family or household purpose.
+6.sec=The Company hereby represents that its Board of Directors, in the exercise of its fiduciary duty, has approved the Companyís execution of this KISS based upon a reasonable belief that the Purchase Price provided hereunder is appropriate for the Company after reasonable inquiry concerning the Companyís financing objectives and financial situation.  In addition, the Company hereby represents that it intends to use the Purchase Price primarily for the operations of its business, and not for any personal, family or household purpose.
 
 90.Sec=<i>Signature Page Follows</i>
 
@@ -283,4 +284,4 @@ Name:
 
 Title:  
 
-Address:  
+Address:
