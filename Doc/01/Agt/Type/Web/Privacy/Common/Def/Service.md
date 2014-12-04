@@ -1,5 +1,5 @@
 =[01/Agt/Type/Web/Bit/Definition.md]
 
-Ti=Service
+Phrase=Service
 
-sec=means the services we provide to you
+definition=means the services we provide to you
