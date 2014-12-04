@@ -1,3 +1,3 @@
-Sec=<b>"{Ti}"</b> {sec}
+Sec=<b>"{Phrase}"</b> {definition}.
 
 Model.Root={Sec}
