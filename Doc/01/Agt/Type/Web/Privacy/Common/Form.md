@@ -2,7 +2,7 @@ Model.Root=<b>{Head.Sec}</b><br>{olsecs}
 
 Head.Sec=Common Privacy Policy
 
-olsecs=<ol><li>{1.Sec}<li>{2.Sec}<li>{3.Sec}<li>{4.Sec}<li>{5.Sec}<li>{6.Sec}<li>{7.Sec}<li>{8.Sec}<li>{9.Sec}<li>{10.Sec}<li>{11.Sec}<li>{12.Sec}<li>{13.Sec}<li>{14.Sec}</ol>
+secs={1-14.Secs}
 
 1.=[01/Agt/Type/Web/Privacy/Common/Sec/Collect.md]
 
@@ -32,3 +32,4 @@ olsecs=<ol><li>{1.Sec}<li>{2.Sec}<li>{3.Sec}<li>{4.Sec}<li>{5.Sec}<li>{6.Sec}<li
 
 14.=[01/Agt/Type/Web/Privacy/Common/Sec/Definition.md]
 
+=[01/Agt/Type/Web/Bit/Outline.md]
