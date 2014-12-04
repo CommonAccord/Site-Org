@@ -2,10 +2,11 @@ Ti=Standard Privacy Policy
 
 0.Sec={0.1.Sec}<br>{0.2.Sec}
 
-0.1.Sec={We.Co} ("Company," "we", "us," "our,") provides online and mobile services, including but not limited to, the Company website ("{url}" or the "Site") widgets, computer programs and mobile applications hosted by or on behalf of Company (collectively, the "Service") intended to enhance your use of the sleep and body monitoring electronic products offered by Company (the "Company Products"). Company is committed to maintaining the privacy, integrity and security of any personal information about our users. This Privacy Policy ("Policy") explains how we protect personal information we collect in connection with your use of the Service  and how we use and in some cases disclose that information. "Personal information" for purposes of this Policy means information that identifies you, such as your name, address, phone number, fax number or email address.
+0.1.Sec={We.Co} ("Company," "we", "us," "our,") provides {We.provides}. Company is committed to maintaining the privacy, integrity and security of any personal information about our users. This Privacy Policy ("Policy") explains how we protect personal information we collect in connection with your use of the Service  and how we use and in some cases disclose that information. "Personal information" for purposes of this Policy means information that identifies you, such as your name, address, phone number, fax number or email address.
+
+We.provides=online and mobile services, including but not limited to, the Company website ("{url}" or the "Site") widgets, computer programs and mobile applications hosted by or on behalf of Company (collectively, the "Service") intended to enhance your use of the sleep and body monitoring electronic products offered by Company (the "Company Products")
 
 0.2.Sec=This Privacy Policy (this "Policy") is subject to the provisions our Terms of Use (the "Terms of Use"ù), which are incorporated by reference. To see the Terms of Use click here {url}.
-
 
 1.Ti=What Personal Information We Collect
 
@@ -73,7 +74,7 @@ Ti=Standard Privacy Policy
 
 5.4.Sec="Web beacons" are images embedded in a Web page or email for the purpose of measuring and analyzing Site usage and activity. Company, or third party service providers acting on our behalf, may use Web beacons to help us analyze Site usage and improve the Service.
 
-5.5.Sec=We may use third party service providers to help us analyze certain online activities and improve our products and the Service. For example, these service providers may help us measure the performance of our online campaigns or analyze visitor activity on Company.com. We may permit these service providers to use cookies and other technologies to perform these services for Company. We do not share any personal information about our customers with these third party service providers, and these service providers do not collect such information on our behalf. Our third party service providers are required to comply fully with this Policy.
+5.5.Sec=We may use third party service providers to help us analyze certain online activities and improve our products and the Service. For example, these service providers may help us measure the performance of our online campaigns or analyze visitor activity on {Company.com}. We may permit these service providers to use cookies and other technologies to perform these services for Company. We do not share any personal information about our customers with these third party service providers, and these service providers do not collect such information on our behalf. Our third party service providers are required to comply fully with this Policy.
 
 5.secs={5.1-5.Secs}
 
@@ -96,12 +97,13 @@ Ti=Standard Privacy Policy
 
 10.Ti=Email Communications From Us
 
-10.1.Sec=We may provide our registered customers with summaries of their User Account data and email alerts. We also allow users to subscribe to email newsletters and from time to time may transmit emails promoting Company or third-party goods or services.
-Company subscribers have the ability to opt-out of receiving our weekly summaries and promotional emails and to terminate their newsletter subscriptions by following the instructions provided in such emails.
+10.1.Sec=We may provide our registered customers with summaries of their User Account data and email alerts. We also allow users to subscribe to email newsletters and from time to time may transmit emails promoting Company or third-party goods or services. 
 
-10.2.Sec=Opting out in this manner will not end transmission of service-related emails, such as email alerts.
+10.2.Sec=Company subscribers have the ability to opt-out of receiving our weekly summaries and promotional emails and to terminate their newsletter subscriptions by following the instructions provided in such emails.
 
-10.secs={10.1-2.Secs}
+10.3.Sec=Opting out in this manner will not end transmission of service-related emails, such as email alerts.
+
+10.secs={10.1-3.Secs}
 
 
 11.Ti=Data Security
