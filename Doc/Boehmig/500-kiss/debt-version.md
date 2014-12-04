@@ -1,4 +1,3 @@
-=[?https://raw.githubusercontent.com/CommonAccord/forms-library/master/500-kiss/debt-version.md]
 =[01/Agt/Bit/Outline/Library_T01_V02.md]
 Ti={Heading}
 
@@ -6,19 +5,7 @@ Ti={Heading}
 
 Model.Root={H-0-sec-90}
 
-secs={1-5.Secs}
-
-
-1.1.=[01/Agt/Bit/Outline/Library_T01_V02.md]
-
-1.1.secs={1.1.1-3.Secs}
-
-
-1.2.=[01/Agt/Bit/Outline/Library_T01_V02.md]
-
-1.2.secs={1.2.1-3.Secs}
-
-5.secs={5.1-15.Secs}
+secs={1-6.Secs}
 
 Heading=THIS INSTRUMENT AND THE SECURITIES ISSUABLE UPON THE CONVERSION HEREOF HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED. THEY MAY NOT BE SOLD, OFFERED FOR SALE, PLEDGED, HYPOTHECATED, OR OTHERWISE TRANSFERRED EXCEPT PURSUANT TO AN EFFECTIVE REGISTRATION STATEMENT UNDER THE SECURITIES ACT OF 1933, AS AMENDED, OR AN OPINION OF COUNSEL SATISFACTORY TO THE COMPANY THAT REGISTRATION IS NOT REQUIRED UNDER SUCH ACT OR UNLESS SOLD PURSUANT TO RULE 144 UNDER SUCH ACT.
 
@@ -39,6 +26,11 @@ H.5.Sec=FOR VALUE RECEIVED, {Company Name}, a Delaware corporation (the “<b>Comp
 
 1.1.1.Sec=with respect to a conversion pursuant to Section 2.1, shares of the Company’s Preferred Stock issued in the Next Equity Financing; provided, however, that, at the Company’s election, “Conversion Shares” with respect to a conversion pursuant to Section 2.1 shall mean shares of a Shadow Series;
 
+1.1.=[01/Agt/Bit/Outline/Library_T01_V02.md]
+
+1.1.secs={1.1.1-3.Secs}
+
+
 1.1.2.Sec=with respect to a conversion pursuant to Section 2.2, shares of the Company’s Common Stock; and
 
 1.1.3.Sec=with respect to a conversion pursuant to Section 2.3, shares of a newly created series of the Company’s Series Seed Preferred Stock, upon the terms and provisions set forth in the most recent version of the Series Seed documents posted at www.seriesseed.com (or if not so posted, as reasonably agreed by the Company and a Majority in Interest); provided that, for the avoidance of doubt, the Conversion Price shall be determined pursuant to Section 1(b)(iii).
@@ -50,6 +42,11 @@ H.5.Sec=FOR VALUE RECEIVED, {Company Name}, a Delaware corporation (the “<b>Comp
 1.2.2.Sec=with respect to a conversion pursuant to Section 2.2, the quotient resulting from dividing (A) the Valuation Cap by (B) the Fully-Diluted Capitalization immediately prior to the closing of the Corporate Transaction; and
 
 1.2.3.Sec=with respect to a conversion pursuant to Section 2.3, the quotient resulting from dividing (A) the Valuation Cap by (B) the Fully-Diluted Capitalization immediately prior to the conversion.
+
+1.2.=[01/Agt/Bit/Outline/Library_T01_V02.md]
+
+1.2.secs={1.2.1-3.Secs}
+
 
 1.3.Sec=“<i>Corporate Transaction</i>” shall mean (i) the closing of the sale, transfer or other disposition of all or substantially all of the Company’s assets, (ii) the consummation of the merger or consolidation of the Company with or into another entity (except a merger or consolidation in which the holders of capital stock of the Company immediately prior to such merger or consolidation continue to hold at least 50% of the voting power of the capital stock of the Company or the surviving or acquiring entity), (iii) the closing of the transfer (whether by merger, consolidation or otherwise), in one transaction or a series of related transactions, to a person or group of affiliated persons (other than an underwriter of the Company’s securities), of the Company’s securities if, after such closing, such person or group of affiliated persons would hold 50% or more of the outstanding voting stock of the Company (or the surviving or acquiring entity), or (iv) the liquidation, dissolution or winding up of the Company; provided, however, that a transaction shall not constitute a Corporate Transaction if its sole purpose is to change the state of the Company’s incorporation or to create a holding company that will be owned in substantially the same proportions by the persons who held the Company’s securities immediately prior to such transaction.  Notwithstanding the prior sentence, the sale of shares of Preferred Stock in a bona fide financing transaction shall not be deemed a “Corporate Transaction.”
 
@@ -84,6 +81,7 @@ H.5.Sec=FOR VALUE RECEIVED, {Company Name}, a Delaware corporation (the “<b>Comp
 1.16.Sec=“<i>Valuation Cap</i>” shall mean US$ {Valuation Cap}.
 
 1.secs={1.1-16.Secs}
+
 
 
 2.Ti=Conversion of the KISS
@@ -200,7 +198,6 @@ H.5.Sec=FOR VALUE RECEIVED, {Company Name}, a Delaware corporation (the “<b>Comp
 
 5.2.secs={5.2.1-3.Secs}
 
-
 5.3.Ti=Payment
 
 5.3.sec=All payments, if any, shall be made in lawful money of the United States of America.  Payment shall be credited first to Costs (as defined below), if any, then to accrued interest due and payable and any remainder applied to principal or the Corporate Transaction Payment, as applicable.  Prepayment of principal, together with accrued interest, may not be made without the prior written consent of the Investor.  The Company hereby waives demand, notice, presentment, protest and notice of dishonor.
@@ -254,6 +251,7 @@ H.5.Sec=FOR VALUE RECEIVED, {Company Name}, a Delaware corporation (the “<b>Comp
 5.15.sec=Each Holder acknowledges that it is not relying upon any person, firm, corporation or stockholder, other than the Company and its officers and directors in their capacities as such, in making its investment or decision to invest in the Company.  Each Holder agrees that no other Holder nor the respective controlling persons, officers, directors, partners, agents, stockholders or employees of any other Holder shall be liable for any action heretofore or hereafter taken or omitted to be taken by any of them in connection with the purchase and sale of the KISSes.
 
 5.secs={5.1-15.Secs}
+
 
 
 
