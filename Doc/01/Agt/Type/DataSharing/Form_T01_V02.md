@@ -17,11 +17,11 @@ Ti=“bigdata” RESEARCH DATA USE AGREEMENT
 
 1.sec={1.1.Sec} {1.2.Sec} {1.3.Sec}
 
-1.1.Sec=When used in this Agreement, the term “Confidential Data” means confidential and proprietary data in the Data Set disclosed by Provider to {P1.Handle} in connection with the Purpose that 
+1.1.Sec=When used in this Agreement, the term “Confidential Data” means confidential and proprietary data in the Data Set disclosed by Provider to {P1.Handle} in connection with the Purpose that {1.1.List}
 
 1.1.List=(i) {1.1.1.Sec} or (ii) {1.1.2.Sec}.
 
-1.1.1.Sec=prior to disclosure, is marked with a legend indicating its confidential status or
+1.1.1.Sec=prior to disclosure, is marked with a legend indicating its confidential status
 
 1.1.2.Sec=if disclosed orally or visually is identified by Provider as confidential at the time of disclosure and is summarized to {P1.Handle}’s Primary Technical Contact by Provider within 30 days following such disclosure
 
@@ -180,4 +180,10 @@ secs={1-13.Secs}
 
 P1.Handle=Institution
 
-P2.Handle=Provider
+P2.Handle=Provider  
+
+m-=<font color="{mcolor}">
+
+-m=</font>
+
+mcolor=magenta

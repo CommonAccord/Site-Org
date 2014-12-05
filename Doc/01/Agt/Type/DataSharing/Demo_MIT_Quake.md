@@ -2,9 +2,13 @@ P2.=[core/id/quake_incorporated]
 
 =[01/Agt/Type/DataSharing/Demo_MIT_Acme.md]
 
-ScholarlyWorkReviewPeriod=<b>thirty (30) day</b>
+1.1.List=(i) {1.1.1.Sec} (ii) {1.1.2.Sec}; or (iii) {m-}{1.1.3.Sec}{-m}.
 
-ConfPeriod=<b>three years</b>
+1.1.3.Sec=is by its nature or the context in which it was disclosed, obviously confidential
+
+ScholarlyWorkReviewPeriod={m-}thirty (30) day{-m}
+
+ConfPeriod={m-}three years{-m}
 
 DATE=December 4, 2014 
 
