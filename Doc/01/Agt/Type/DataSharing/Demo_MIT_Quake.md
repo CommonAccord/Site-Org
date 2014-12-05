@@ -10,7 +10,7 @@ P2.=[core/id/quake_incorporated]
 
 1.1.3.Sec=is by its nature or the context in which it was disclosed, obviously confidential
 
-2.2.Sec=For purposes of this Agreement, {Personally-Identifiable_Information} is any information that, when used alone or combined with other data, may be used to identify any individuals, including {n-}subscribers of {P2.Handle}  and which includes, but is not limited to, an individual’s name, {m-}contact information{-m}, title, birth date, {m-}tribe or ethnicity{-m}, gender, occupation, or other information that is unique to or permits identification of that individual {m-}or a politically-distinct group of less than 1,000 persons{-m}.
+2.2.Sec=For purposes of this Agreement, {Personally-Identifiable_Information} is any information that, when used alone or combined with other data, may be used to identify any individuals, including {m-}subscribers of {P2.Handle}{-m}  and which includes, but is not limited to, an individual’s name, {m-}contact information{-m}, title, birth date, {m-}tribe or ethnicity{-m}, gender, occupation, or other information that is unique to or permits identification of that individual {m-}or a politically-distinct group of less than 1,000 persons{-m}.
 
 ScholarlyWorkReviewPeriod={m-}thirty (30) day{-m}
 
