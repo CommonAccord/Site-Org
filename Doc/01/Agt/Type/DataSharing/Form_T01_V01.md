@@ -89,6 +89,7 @@ Ti=“bigdata” RESEARCH DATA USE AGREEMENT
 13.2.Ti=CREATE Act
 
 13.2.sec=For the purposes of the Cooperative Research and Technology Enhancement Act of 2004, the parties agree that this Agreement is not considered a joint research agreement.
+
 13.3.Ti=Entire Agreement/Amendment
 
 13.3.sec=This Agreement (1) represents the entire understanding between the parties with respect to its subject matter and (2) supersedes all contemporaneous and previous statements, representations, agreements, and understandings between the parties, however expressed, that relate to the subject matter of this Agreement.  This Agreement may be amended only by a writing signed by all parties to this Agreement. 
