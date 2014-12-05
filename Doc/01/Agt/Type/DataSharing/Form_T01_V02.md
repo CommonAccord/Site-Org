@@ -91,21 +91,27 @@ Ti=“bigdata” RESEARCH DATA USE AGREEMENT
 
 9.1.Ti=Provider Disclaimer
 
-9.1.sec=All Confidential Data are provided “as is.” Provider makes no warranty, expressed or implied, regarding the accuracy, completeness, suitability or performance of Confidential Data disclosed under this Agreement.
+9.1.sec=<span style="text-transform: uppercase">{9.1.raw}</span>
+
+9.1.raw=All Confidential Data are provided “as is.” Provider makes no warranty, expressed or implied, regarding the accuracy, completeness, suitability or performance of Confidential Data disclosed under this Agreement.
 
 
 9.2.Ti={P1.Handle} Disclaimer
 
-9.2.sec={P1.Handle} DISCLAIMS ALL REPRESENTATIONS AND WARRANTIES, WHETHER EXPRESS OR IMPLIED,  RELATING TO THE PURPOSE, INCLUDING, WITHOUT LIMITATION, WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT OF INTELLECTUAL PROPERTY RIGHTS OF {P1.Handle} OR THIRD PARTIES,  AND THE ABSENCE OF LATENT OR OTHER DEFECTS, WHETHER OR NOT DISCOVERABLE.
+9.2.sec=<span style="text-transform: uppercase">{9.2.raw}</span>
+
+9.2.raw={P1.Handle} disclaims all representations and warranties, whether express or implied,  relating to the purpose, including, without limitation, warranties of merchantability, fitness for a particular purpose, noninfringement of intellectual property rights of {P1.Handle} or third parties,  and the absence of latent or other defects, whether or not discoverable.
+
 
 9.3.Ti=Limitation of Liability
 
-9.3.sec=IN NO EVENT SHALL EITHER PARTY, ITS TRUSTEES, DIRECTORS, OFFICERS, EMPLOYEES, FELLOWS, STUDENTS OR AFFILIATES, BE LIABLE FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES OF ANY KIND, INCLUDING, WITHOUT LIMITATION, ECONOMIC DAMAGES OR LOST PROFITS, REGARDLESS OF WHETHER THE PARTY WAS ADVISED, HAD OTHER REASON TO KNOW OR IN FACT KNEW OF THE POSSIBILITY OF THE FOREGOING.
+9.3.sec=<span style="text-transform: uppercase">{9.3.raw}</span>
+
+9.3.raw=In no event shall either party, its trustees, directors, officers, employees, fellows, students or affiliates, be liable for incidental or consequential damages of any kind, including, without limitation, economic damages or lost profits, regardless of whether the party was advised, had other reason to know or in fact knew of the possibility of the foregoing.
 
 9.4.Ti=Survival
 
-9.4.sec=THIS SECTION {9.Xnum} SHALL SURVIVE THE EXPIRATION OR ANY EARLIER TERMINATION OF THIS AGREEMENT.
-
+9.4.sec=This section {9.Xnum} shall survive the expiration or any earlier termination of this Agreement.
 
 9.secs={9.1-4.Secs}
 
