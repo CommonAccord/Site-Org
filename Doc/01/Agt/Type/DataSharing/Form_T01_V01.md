@@ -8,7 +8,7 @@ Ti=“bigdata” RESEARCH DATA USE AGREEMENT
  
 0.3.Sec=Primary Technical Contact(s) for receipt of the Data Set on behalf of MIT:<br> {P1.Contact.List}
 
-0.4.Sec=This Agreement applies to data disclosed between the Effective Date and [DATE] (“End Date”), unless earlier terminated or extended by mutual written agreement.
+0.4.Sec=This Agreement applies to data disclosed between the Effective Date and {DATE} (“End Date”), unless earlier terminated or extended by mutual written agreement.
 
 0.5.Sec=In consideration of Provider making the Data Set available to MIT, the parties hereby agree as follows:
 
@@ -89,6 +89,7 @@ Ti=“bigdata” RESEARCH DATA USE AGREEMENT
 13.2.Ti=CREATE Act
 
 13.2.sec=For the purposes of the Cooperative Research and Technology Enhancement Act of 2004, the parties agree that this Agreement is not considered a joint research agreement.
+
 13.3.Ti=Entire Agreement/Amendment
 
 13.3.sec=This Agreement (1) represents the entire understanding between the parties with respect to its subject matter and (2) supersedes all contemporaneous and previous statements, representations, agreements, and understandings between the parties, however expressed, that relate to the subject matter of this Agreement.  This Agreement may be amended only by a writing signed by all parties to this Agreement. 
