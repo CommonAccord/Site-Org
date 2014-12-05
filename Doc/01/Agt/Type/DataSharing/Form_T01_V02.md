@@ -38,7 +38,7 @@ Note/0.1.Sec=The word "Data" is stated in uppercase, but not defined and not oth
 
 1.2.4.Sec=is independently developed by {P1.Handle} without use of {Confidential_Data}.
 
-1.3.Sec=For purposes of this Agreement, {P1.Handle} students, fellows and visiting students are not third parties vis á vis {P1.Handle}
+1.3.Sec=For purposes of this Agreement, {P1.Handle} students, fellows and visiting students are not third parties vis á vis {P1.Handle}.
 
 2.Ti=No {Personally-Identifiable_Information}
 
