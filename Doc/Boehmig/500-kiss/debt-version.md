@@ -1,4 +1,8 @@
 =[01/Agt/Bit/Outline/Library_T01_V02.md]
+
+P1.Handle=Company
+P2.Handle=Investor
+
 Ti={Heading}
 
 0.Sec={H.1.Sec}<br>{H.2.Sec}<br>{H.3.Sec}<br>{H.4.Sec}<br>{H.5.Sec}
@@ -10,15 +14,15 @@ secs={1-6.Secs}
 Heading=THIS INSTRUMENT AND THE SECURITIES ISSUABLE UPON THE CONVERSION HEREOF HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED. THEY MAY NOT BE SOLD, OFFERED FOR SALE, PLEDGED, HYPOTHECATED, OR OTHERWISE TRANSFERRED EXCEPT PURSUANT TO AN EFFECTIVE REGISTRATION STATEMENT UNDER THE SECURITIES ACT OF 1933, AS AMENDED, OR AN OPINION OF COUNSEL SATISFACTORY TO THE COMPANY THAT REGISTRATION IS NOT REQUIRED UNDER SUCH ACT OR UNLESS SOLD PURSUANT TO RULE 144 UNDER SUCH ACT.
 
 
-H.1.Sec=<b>SERIES {Series Number}</b>
+H.1.Sec=<b>SERIES {m-}{Series Number}{-m}</b>
 
 H.2.Sec=<b>KISS</b>
     
-H.3.Sec=${Purchase Price}    
+H.3.Sec=${m-}{Purchase Price}{-m}
 
-H.4.Sec={Date}
+H.4.Sec={m-}{Date}{-m}
 
-H.5.Sec=FOR VALUE RECEIVED, {Company Name}, a Delaware corporation (the “<b>Company</b>”), hereby promises to pay to the order of {Investor Name} \(the “<b>Investor</b>”), the principal sum of the Purchase Price, together with interest thereon from the Date of Issuance.  Interest shall accrue at the Interest Rate.  Unless earlier converted into Conversion Shares pursuant to Section 2, the principal and accrued interest shall be due and payable by the Company on demand by the Majority in Interest at any time after the Maturity Date.  This KISS is one of a series of Series {Series Number} KISSes issued by the Company to investors with identical terms and on the same form as set forth herein (except that the Investor, Purchase Price and Date of Issuance may differ in each KISS) (collectively, the “Series”).
+H.5.Sec=FOR VALUE RECEIVED, {m-}{Company Name}{-m}, a Delaware corporation (the “<b>Company</b>”), hereby promises to pay to the order of {m-}{Investor Name}{-m} (the “<b>Investor</b>”), the principal sum of the Purchase Price, together with interest thereon from the Date of Issuance.  Interest shall accrue at the Interest Rate.  Unless earlier converted into Conversion Shares pursuant to Section 2, the principal and accrued interest shall be due and payable by the Company on demand by the Majority in Interest at any time after the Maturity Date.  This KISS is one of a series of Series {m-}{Series Number}{-m} KISSes issued by the Company to investors with identical terms and on the same form as set forth herein (except that the Investor, Purchase Price and Date of Issuance may differ in each KISS) (collectively, the “Series”).
 
 1.Ti=Definitions
 
@@ -52,7 +56,7 @@ H.5.Sec=FOR VALUE RECEIVED, {Company Name}, a Delaware corporation (the “<b>Comp
 
 1.4.Sec=“<i>Corporate Transaction Payment</i>” shall mean an amount equal to all accrued and unpaid interest due on this KISS plus two times (2X) the Purchase Price.
 
-1.5.Sec=“<i>Discount</i>” shall mean {Discount}%.
+1.5.Sec=“<i>Discount</i>” shall mean {m-}{Discount}{-m}%.
 
 1.6.Sec=“<i>Equity Securities</i>” shall mean the Company’s Common Stock or Preferred Stock or any securities conferring the right to purchase the Company’s Common Stock or Preferred Stock or securities convertible into, or exchangeable for (with or without additional consideration), the Company’s Common Stock or Preferred Stock, except any security granted, issued and/or sold by the Company to any director, officer, employee or consultant of the Company in such capacity for the primary purpose of soliciting or retaining their services.
 
@@ -78,7 +82,7 @@ H.5.Sec=FOR VALUE RECEIVED, {Company Name}, a Delaware corporation (the “<b>Comp
 
 1.15.Sec=“<i>Shadow Series</i>” shall mean shares of a series of the Company’s Preferred Stock that is identical in all respects to the shares of Preferred Stock issued in the Next Equity Financing (e.g., if the Company sells Series A Preferred Stock in the Next Equity Financing, the Shadow Series would be Series A-1 Preferred Stock), except that the liquidation preference per share of the Shadow Series shall equal the Conversion Price (as determined pursuant to Section 1(b)(i)), with corresponding adjustments to any price-based antidilution and dividend rights provisions.
 
-1.16.Sec=“<i>Valuation Cap</i>” shall mean US$ {Valuation Cap}.
+1.16.Sec=“<i>Valuation Cap</i>” shall mean US$ {m-}{Valuation Cap}{-m}.
 
 1.secs={1.1-16.Secs}
 
@@ -260,26 +264,8 @@ H.5.Sec=FOR VALUE RECEIVED, {Company Name}, a Delaware corporation (the “<b>Comp
 
 6.sec=The Company hereby represents that its Board of Directors, in the exercise of its fiduciary duty, has approved the Company’s execution of this KISS based upon a reasonable belief that the Purchase Price provided hereunder is appropriate for the Company after reasonable inquiry concerning the Company’s financing objectives and financial situation.  In addition, the Company hereby represents that it intends to use the Purchase Price primarily for the operations of its business, and not for any personal, family or household purpose.
 
-90.Sec=<i>Signature Page Follows</i>
+90.Sec=<table><tr><td valign="top">{P1.Sign.Block}</td></tr><tr><td valign="top">ACKNOWLEDGED AND AGREED:<br>{P2.Sign.Block}</td></tr></table>  
 
-{COMPANY NAME}
-
-By:   
-
-Name:  
-
-Title:  
-
-Address:      
-      
-ACKNOWLEDGED AND AGREED:
-
-{INVESTOR NAME}
-
-By:   
-
-Name:   
-
-Title:  
-
-Address:
+m-=<font color="{mcolor}">
+-m=</font>
+mcolor=magenta
