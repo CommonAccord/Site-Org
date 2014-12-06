@@ -219,7 +219,7 @@ Note/1.2.2.Sec= is "Additional Closing Period" used again?
 
 4.2.=[01/Agt/Bit/Outline/1.Sec]
 
-4.3.Ti=Assignment of Company’s Preemptive Rights
+4.3.Ti=Assignment of CompanyÂ’s Preemptive Rights
 
 4.3.sec={The_Company} shall obtain at or prior to the {Initial_Closing}, and shall maintain, a right of first refusal with respect to transfers of shares of {Common_Stock} by each holder thereof, subject to certain standard exceptions.  If {the_Company} elects not to exercise its right of first refusal with respect to a proposed transfer of {the_Company}'s outstanding securities by any {Key_Holder}, {the_Company} shall assign such right of first refusal to the {Major_Purchaser}s.  In the event of such assignment, each {Major_Purchaser} shall have a right to purchase that portion of the securities proposed to be transferred by such {Key_Holder} equal to the ratio of (a) the number of shares of {the_Company}'s {Common_Stock} issued or issuable upon conversion of the shares of {Series_Seed_Preferred_Stock} owned by such {Major_Purchaser}, to (b) the number of shares of {the_Company}'s {Common_Stock} issued or issuable upon conversion of the shares of {Series_Seed_Preferred_Stock} owned by all {Major_Purchasers}. 
 
@@ -359,13 +359,13 @@ Note/1.2.2.Sec= is "Additional Closing Period" used again?
 
 8.5.=[01/Agt/Bit/Outline/1.Sec]
 
-8.6.Ti=No Finder’s Fees
+8.6.Ti=No FinderÂ’s Fees
 
 8.6.sec=Each party severally represents to the other parties that it neither is nor will be obligated for any finder's fee or commission in connection with this transaction.  Each {Purchaser} shall indemnify, defend, and hold harmless {the_Company} from any liability for any commission or compensation in the nature of a finder's or broker's fee arising out of this transaction (and the costs and expenses of defending against such liability or asserted liability) for which the {Purchaser} or any of its officers, employees, or representatives is responsible.  {The_Company} shall indemnify, defend, and hold harmless each {Purchaser} from any liability for any commission or compensation in the nature of a finder's or broker's fee arising out of this transaction (and the costs and expenses of defending against such liability or asserted liability) for which {the_Company} or any of its officers, employees or representatives is responsible.
 
 8.6.=[01/Agt/Bit/Outline/1.Sec]
 
-8.7.Ti=Attorneys’ Fees
+8.7.Ti=AttorneysÂ’ Fees
 
 8.7.sec=If any action at law or in equity (including arbitration) is necessary to enforce or interpret the terms of {this Agreement}, the prevailing party will be entitled to reasonable attorneys' fees, costs, and necessary disbursements in addition to any other relief to which the party may be entitled.  Each party shall pay all costs and expenses that it incurs with respect to the negotiation, execution, delivery, and performance of {this Agreement}; provided, however, that {the_Company} shall, at the {Closing}, reimburse the fees and expenses of one counsel for {Purchasers}, for a flat fee equal to the {Purchaser_Counsel_Reimbursement_Amount}.
 
