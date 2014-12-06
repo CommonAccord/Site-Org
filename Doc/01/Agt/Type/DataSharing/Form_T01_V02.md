@@ -156,14 +156,14 @@ Purpose={n-}Purpose{-n}
 
 Scholarly_Work={n-}Scholarly Work{-n}
 
-m-=<font color="{mcolor}">
+m-=<a><font color="{mcolor}">
 
--m=</font>
+-m=</font></a>
 
 mcolor=magenta
 
-n-=<font color="{ncolor}">
+n-=<a><font color="{ncolor}">
 
--n=</font>
+-n=</font></a>
 
 ncolor=green
