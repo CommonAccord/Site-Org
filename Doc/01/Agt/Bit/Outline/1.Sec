@@ -1,0 +1,20 @@
+=[01/Agt/Bit/Outline/Base.md]
+
+sec={1.Sec}
+
+Model.Root={Sec}
+
+
+Sec=<b>{Ti}</b><br>{0.Sec} {sec} {90.Sec}
+
+sec={olsec}
+
+olsec=<ol><li>{secs}</li></ol>
+
+ulsec=<ul><li>{secs}</li></ul>
+
+0.Sec=<b></b>
+
+90.Sec=<b></b>
+
+1.Sec=...
