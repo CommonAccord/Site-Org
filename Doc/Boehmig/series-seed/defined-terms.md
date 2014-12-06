@@ -1,8 +1,9 @@
 Additional_Closing={m-}Additional Closing{-m}
 Additional_Closing_Period={m-}Additional Closing Period{-m}
 Additional_Closings={m-}Additional Closings{-m}
-This Agreement={m-}This Agreement{-m}
-this Agreement={m-}this Agreement{-m}
+Agreement={m-}Agreement{-m}
+This_Agreement=This {m-}Agreement{-m}
+this_Agreement=this {m-}Agreement{-m}
 Agreement_Date={m-}Agreement Date{-m}
 Board={m-}Board{-m}
 Board_Designee={m-}Board Designee{-m}
@@ -11,14 +12,19 @@ Common_Board_Designee={m-}Common Board Designee{-m}
 Common_Board_Designees={m-}Common Board Designees{-m}
 Common_Board_Member_Count={m-}Common Board Member Count{-m}
 Common_Control_Holders={m-}Common Control Holders{-m}
+Common_Shares_Issued_and_Outstanding_Pre-Money={m-}Common Shares Issued and Outstanding Pre-Money{-m}
 Common_Stock={m-}Common Stock{-m}
-The_Company={m-}The Company{-m}
-the_Company={m-}the Company{-m}
+Company={m-}Company{-m}
+
+The_Company=The {m-}Company{-m}
+the_Company=the {m-}Company{-m}
 Company_Intellectual_Property={m-}Company Intellectual Property{-m}
 Deemed_Liquidation_Event={m-}Deemed Liquidation Event{-m}
 Disclosure_Schedule={m-}Disclosure Schedule{-m}
 Dispute_Resolution_Jurisdiction={m-}Dispute Resolution Jurisdiction{-m}
 Fully-Diluted_Share_Number={m-}Fully-Diluted Share Number{-m}
+Governing_Law={m-}Governing Law{-m}
+
 Holder={m-}Holder{-m}
 Initial_Closing={m-}Initial Closing{-m}
 Intellectual_Property={m-}Intellectual Property{-m}
@@ -28,8 +34,8 @@ Major_Purchaser={m-}Major Purchaser{-m}
 Major_Purchaser_Dollar_Threshold={m-}Major Purchaser Dollar Threshold{-m}
 Major_Purchasers={m-}Major Purchasers{-m}
 Material_Agreement={m-}Material Agreement{-m}
-Mutual Consent Board Designees={m-}Mutual Consent Board Designees{-m}
-Mutual_Consent Board_Designees={m-}Mutual Consent Board Designees{-m}
+Mutual_Consent_Board_Designee={m-}Mutual Consent Board Designee{-m}
+Mutual_Consent_Board_Designees={m-}Mutual Consent Board Designees{-m}
 Mutual_Consent_Board_Member_Count={m-}Mutual Consent Board Member Count{-m}
 New_Purchaser={m-}New Purchaser{-m}
 New_Purchasers={m-}New Purchasers{-m}
@@ -38,6 +44,7 @@ Next_Financing={m-}Next Financing{-m}
 Next_Financing_Agreements={m-}Next Financing Agreements{-m}
 Next_Financing_Documents={m-}Next Financing Documents{-m}
 Notice={m-}Notice{-m}
+Number_of_Issued_And_Outstanding_Options={m-}Number of Issued and Outstanding Options{-m}
 Preferred_Stock={m-}Preferred Stock{-m}
 Pro Rata Share={m-}Pro Rata Share{-m}
 Proposed Sale={m-}Proposed Sale{-m}
@@ -48,14 +55,23 @@ Purchaser_Counsel_Reimbursement_Amount={m-}Purchaser Counsel Reimbursement Amoun
 Purchasers={m-}Purchasers{-m}
 Restated_Charter={m-}Restated Charter{-m}
 Securities_Act={m-}Securities Act{-m}
-Series Seed Board Designees={m-}Series Seed Board Designees{-m}
+Series_Seed_Board_Designee={m-}Series Seed Board Designee{-m}
 Series_Seed_Board_Designees={m-}Series Seed Board Designees{-m}
+Series_Seed_Board_Member_Count={m-}Series Seed Board Member Count{-m}
 Series_Seed_Preferred_Stock={m-}Series Seed Preferred Stock{-m}
 Shares={m-}Shares{-m}
 State_of_Incorporation={m-}State of Incorporation{-m}
+Stock_Plan={m-}Stock Plan{-m}
+
 Stockholder={m-}Stockholder{-m}
 Stockholders={m-}Stockholders{-m}
+Total_Post-Money_Shares_Reserved_for_Option_Pool={m-}Total Post-Money Shares Reserved for Option Pool{-m}
+
+Total_Series_Seed_Investment_Amount={m-}Total Series Seed Investment Amount{-m}
+
 Total_Shares_Authorized_for_Sale={m-}Total Shares Authorized for Sale{-m}
+Unallocated_Post-Money_Option_Pool_Percent={m-}Unallocated Post-Money Option Pool Percent{-m}
+Unallocated_Post-Money_Option_Pool_Shares={m-}Unallocated Post-Money Option Pool{-m}
 Voting_Shares={m-}Voting Shares{-m}
 
 m-=<font color="magenta">
