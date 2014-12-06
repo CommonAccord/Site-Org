@@ -21,11 +21,14 @@ Ti=SERIES SEED PREFERRED STOCK INVESTMENT AGREEMENT
 3.sec={This_Agreement} (including the Exhibits and Schedules hereto) together with the {Restated_Charter} constitute the full and entire understanding and agreement between the parties with respect to the subject matter hereof, and any other written or oral agreement relating to the subject matter hereof existing between the parties is expressly canceled.
 
 
-
-90.Sec=<hr><hr><h3>Exhibit A</h3><hr>{ExhA.Model.Root}<hr><hr><h3>Exhibit B</h3><hr>{ExhB.Model.Root}
+90.Sec=<hr><hr><h3>Exhibit A<br>Definitions</h3><hr>{ExhA.Model.Root}<hr><hr><h3>Schedule 1 <br>Purchasers and Key Holders</h3><hr>{Sch1.Model.Root}<hr><hr><h3>Exhibit B<br>Agreement Terms</h3><hr>{ExhB.Model.Root}<hr><hr><h3>Signature Pages</h3><hr>{Sign.Model.Root}<hr><hr><h3>Exhibit C<br>Form of Restated Charter</h3><hr>{ExhC.Model.Root}<hr><hr><h3>Exhibit D<br>Disclosure Schedule</h3><hr>{ExhD.Model.Root}
 
 =[Boehmig/series-seed/defined-terms.md]
 
 =[01/Agt/Bit/Outline/1-3.Secs]
+
 ExhA.=[Boehmig/series-seed/preferred-stock-investment-agreement-exh-a.md]
+
 ExhB.=[Boehmig/series-seed/preferred-stock-investment-agreement-exh-b.md]
+
+ExhD.=[Boehmig/series-seed/preferred-stock-investment-agreement-exh-d.md]
