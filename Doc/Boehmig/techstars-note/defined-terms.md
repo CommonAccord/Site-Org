@@ -32,6 +32,6 @@ Requisite_Holders={m-}Requisite Holders{-m}
 Sale_of_the_Company={m-}Sale of the Company{-m}
 
 
-m-=<a href="https://github.com/CommonAccord/Org/edit/master/Doc/Boehmig/techstars-note/defined-terms.md"><font color="green">
+m-=<a href="https://github.com/CommonAccord/Org/blob/master/Doc/Boehmig/techstars-note/defined-terms.md"><font color="green">
 
 -m=</font></a>
