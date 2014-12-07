@@ -1,4 +1,4 @@
-/Note=:[?https://github.com/CommonAccord/Org/blob/master/Doc/Boehmig/Comment/Construction.md]
+/Note=See https://github.com/CommonAccord/Org/blob/master/Doc/Boehmig/Comment/Construction.md
 
 
 Additional_Closing={m-}Additional Closing{-m}
