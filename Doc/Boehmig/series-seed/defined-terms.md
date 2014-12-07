@@ -1,3 +1,6 @@
+/Note=:[?https://github.com/CommonAccord/Org/blob/master/Doc/Boehmig/Comment/Construction.md]
+
+
 Additional_Closing={m-}Additional Closing{-m}
 
 Additional_Closing_Period={m-}Additional Closing Period{-m}
@@ -28,7 +31,6 @@ Common_Board_Designee={m-}Common Board Designee{-m}
 
 Common_Board_Designees={m-}Common Board Designees{-m}
 
-/Note: [https://github.com/CommonAccord/Org/blob/master/Doc/Boehmig/Comment/Construction.md]
 Common_Board_Member_Count={m-}Common Board Member Count{-m}
 
 Common_Control_Holders={m-}Common Control Holders{-m}
