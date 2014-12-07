@@ -7,6 +7,7 @@ sec={olsec}
 olsec=<ol><li>{secs}</li></ol>
 
 ulsec=<ul><li>{secs}</li></ul>
+nonesec=<ul type="none"><li>{secs}</li></ul>
 
 0.Sec=<b></b>
 
