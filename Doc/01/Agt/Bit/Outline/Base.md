@@ -1,6 +1,12 @@
-Model.Root={Sec}
+Model.Root={DocBody}
+
+DocBody={Sec}
+
+Doc={MessageToUser}<h3>{Heading}</h3><br>{0-sec} 
 
 Sec=<b>{Ti}</b><br>{0.Sec} {sec} {90.Sec}
+
+0-sec={0.Sec} {sec} {90.Sec}
 
 sec={olsec}
 
