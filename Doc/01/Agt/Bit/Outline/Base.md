@@ -15,6 +15,8 @@ olsec=<ol><li>{secs}</li></ol>
 ulsec=<ul><li>{secs}</li></ul>
 nonesec=<ul type="none"><li>{secs}</li></ul>
 
+secs={1.Sec}
+
 0.Sec=<b></b>
 
 90.Sec=<b></b>

@@ -2,11 +2,11 @@ Heading={CompanyName}<br>CONVERTIBLE PROMISSORY NOTE PURCHASE AGREEMENT
 
 0.Sec={0.1.Sec}<br>{0.2.Sec}<br>{0.3.Sec}<br>{0.4.Sec}<br>{0.5.Sec}
 
-0.1.Sec=THIS CONVERTIBLE PROMISSORY NOTE PURCHASE AGREEMENT (the “{Agreement}”) is made as of [DateOfNotePurchaseAgreement] (the “{Effective_Date}”) by and among [CompanyName], a Delaware corporation (the “{Company}”), and the persons and entities named on the {Schedule_of_Purchasers} attached hereto (individually, a “{Purchaser}” and collectively, the “{Purchasers}”).
+0.1.Sec=THIS CONVERTIBLE PROMISSORY NOTE PURCHASE AGREEMENT (the “{Agreement}”) is made as of {DateOfNotePurchaseAgreement} (the “{Effective_Date}”) by and among {CompanyName}, a Delaware corporation (the “{Company}”), and the persons and entities named on the {Schedule_of_Purchasers} attached hereto (individually, a “{Purchaser}” and collectively, the “{Purchasers}”).
 
 0.2.Sec=RECITAL
 
-0.3.Sec=To provide the {Company} with additional resources to conduct its business, the {Purchasers} are willing to loan to the {Company} in one or more disbursements up to an aggregate amount of $[Total Financing Amount], subject to the conditions specified herein.
+0.3.Sec=To provide the {Company} with additional resources to conduct its business, the {Purchasers} are willing to loan to the {Company} in one or more disbursements up to an aggregate amount of ${Total Financing Amount}, subject to the conditions specified herein.
 
 0.4.Sec=AGREEMENT
 
@@ -17,6 +17,10 @@ Heading={CompanyName}<br>CONVERTIBLE PROMISSORY NOTE PURCHASE AGREEMENT
 1.1.Ti=The Loan
 
 1.1.sec=Subject to the terms of {this_Agreement}, each {Purchaser} agrees to lend to the {Company} at the {Closing} (as hereinafter defined) the amount set forth opposite such {Purchaser}’s name on the {Schedule_of_Purchasers} attached to {this_Agreement} (each, a “{Loan_Amount}”) against the issuance and delivery by the {Company} of a convertible promissory note for such amount, in substantially the form attached hereto as EXHIBIT A (each, a “{Note}” and collectively, the “{Notes}”).  
+
+1.1.=[01/Agt/Bit/Outline/1.Sec]
+
+1.=[01/Agt/Bit/Outline/1.Sec]
 
 2.Ti=CLOSING AND DELIVERY
 
@@ -96,9 +100,14 @@ Heading={CompanyName}<br>CONVERTIBLE PROMISSORY NOTE PURCHASE AGREEMENT
 
 4.4.3.Sec=Notwithstanding the provisions of paragraphs (a) and (b) above, no such registration statement or opinion of counsel shall be necessary for a transfer by such {Purchaser} to a partner (or retired partner) or member (or retired member) of such {Purchaser} in accordance with partnership or limited liability company interests, or transfers by gift, will or intestate succession to any spouse or lineal descendants or ancestors, if all transferees agree in writing to be subject to the terms hereof to the same extent as if they were {Purchasers} hereunder.
 
+4.4.Sec=<b>{4.4.Ti}</b><br>{4.4.0.Sec}<ol type="a"><li>{4.4.1.Sec}<li>{4.4.2.Sec}<li>{4.4.3.Sec}</ol>
+
 4.5.Ti=Accredited Investor Status
 
 4.5.sec=Each {Purchaser} is an “accredited investor” as such term is defined in Rule 501 under the Act.
+
+4.=[01/Agt/Bit/Outline/1-5.Secs]
+
 
 5.Ti=FURTHER AGREEMENTS
 
@@ -110,6 +119,8 @@ Heading={CompanyName}<br>CONVERTIBLE PROMISSORY NOTE PURCHASE AGREEMENT
 
 5.2.sec=Each {Purchaser} agrees and covenants that at any time and from time to time it will promptly execute and deliver to the {Company} such further instruments and documents and take such further action as the {Company} may reasonably require in order to carry out the full intent and purpose of {this_Agreement} and to comply with state or federal securities laws or other regulatory approvals.
 
+5.=[01/Agt/Bit/Outline/1-2.Secs]
+
 
 6.Ti=MISCELLANEOUS
 
@@ -119,7 +130,7 @@ Heading={CompanyName}<br>CONVERTIBLE PROMISSORY NOTE PURCHASE AGREEMENT
 
 6.2.Ti=Governing Law
 
-6.2.sec={This_Agreement} shall be governed by and construed under the laws of {Law.State.the} as applied to agreements among Colorado residents, made and to be performed entirely within {Law.State.the}, without giving effect to conflicts of laws principles.
+6.2.sec={This_Agreement} shall be governed by and construed under the laws of {Law.State.the} as applied to agreements among {Law.State} residents, made and to be performed entirely within {Law.State.the}, without giving effect to conflicts of laws principles.
 
 
 6.3.Ti=Counterparts
@@ -150,6 +161,8 @@ Heading={CompanyName}<br>CONVERTIBLE PROMISSORY NOTE PURCHASE AGREEMENT
 
 6.9.sec={This_Agreement} and the Exhibits hereto constitute the full and entire understanding and agreement between the parties with regard to the subjects hereof and no party shall be liable or bound to any other party in any manner by any representations, warranties, covenants and agreements except as specifically set forth herein.
 
+6.=[01/Agt/Bit/Outline/1-9.Secs]
+
 90.Sec={90.1.Sec}<br>{90.2.Sec}<br>{90.3.Sec}<br>{90.4.Sec}<br>{90.5.Sec}
 
 90.1.Sec=IN WITNESS WHEREOF, the parties have executed this CONVERTIBLE PROMISSORY NOTE PURCHASE AGREEMENT as of the date first written above.
@@ -163,4 +176,7 @@ Heading={CompanyName}<br>CONVERTIBLE PROMISSORY NOTE PURCHASE AGREEMENT
 90.5.Sec=<hr><hr><h3>EXHIBIT A<br>FORM OF CONVERTIBLE PROMISSORY NOTE</h3><hr>{ExhA.Model.Root}
 
 DocBody={Doc}
+
 =[01/Agt/Bit/Outline/1-6.Secs]
+
+=[Boehmig/techstars-note/defined-terms.md]
