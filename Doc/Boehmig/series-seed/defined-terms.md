@@ -178,6 +178,6 @@ Unallocated_Post-Money_Option_Pool_Shares={m-}Unallocated Post-Money Option Pool
 
 Voting_Shares={m-}Voting Shares{-m}
 
-m-=<a><font color="green">
+m-=<a href="https://github.com/CommonAccord/Org/blob/master/Doc/Boehmig/series-seed/defined-terms.md"><font color="green">
 
 -m=</font></a>
