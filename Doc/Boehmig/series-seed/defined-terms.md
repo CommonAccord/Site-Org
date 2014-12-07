@@ -1,3 +1,7 @@
+Let's think about whether we might be able to create a stable base for contracting: 
+
+/Note1= http://commonaccord.org/index.php?action=source&file=./02/ABA/Sec/Usage.md
+
 /Note=See https://github.com/CommonAccord/Org/blob/master/Doc/Boehmig/Comment/Construction.md
 
 
