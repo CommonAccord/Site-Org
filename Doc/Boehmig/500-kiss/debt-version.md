@@ -120,7 +120,11 @@ H.5.Sec=FOR VALUE RECEIVED, {m-}{Company Name}{-m}, a Delaware corporation (the 
 
 3.1.Ti=Organization, Good Standing and Qualification
 
-3.1.sec=The Company is a corporation duly organized, validly existing, and in good standing under the laws of the State of Delaware and has all requisite corporate power and authority to carry on its business as now conducted.  The Company is duly qualified to transact business and is in good standing in each jurisdiction in which the failure to so qualify would have a material adverse effect on its business or properties.
+3.1.sec={3.1.1.Sec}  {3.1.2.Sec}
+
+3.1.1.Sec=The Company is a corporation duly organized, validly existing, and in good standing under the laws of the State of Delaware and has all requisite corporate power and authority to carry on its business as now conducted.
+
+3.1.2.Sec=The Company is duly qualified to transact business and is in good standing in each jurisdiction in which the failure to so qualify would have a material adverse effect on its business or properties.
 
 3.2.Ti=Authorization
 
