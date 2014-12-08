@@ -549,5 +549,34 @@ Heading=SERIES A PREFERRED STOCK PURCHASE AGREEMENT
 6.=[01/Agt/Bit/Outline/1-17.Secs]  
 
 DocBody={Doc}
+/Note=Not sure where to put the Founder's reps, whether in between 3 and 4, or down here.  
 
-=[01/Agt/Bit/Outline/1-6.Secs]
+F.Ti=Representations and Warranties of the Founders
+
+F.0.Sec=Except as set forth on the Disclosure Schedule, each of the Founders, severally and not jointly, represents and warrants to each Purchaser as of the date of the Closing at which such Purchaser is purchasing Shares as follows [(it being understood and agreed that any Founder’s liability for breaches of any provisions of this Section 3 shall be limited to the then current fair market value [as determined in good faith by the board of directors of the Company] of the shares of Common Stock of the Company currently owned by such Founder and such Founder [may, in his sole discretion, discharge such liability by the surrender of such shares or the payment of cash ] [shall discharge such liability by the surrender of such shares] and will terminate on the earlier of (i) [one (1) year/two (2) years] after the date of this Agreement, or (ii) the completion of an initial public offering of the Company’s Common Stock)]:
+
+F.1.Ti=Conflicting Agreements
+
+F.1.sec=Such Founder is not, as a result of the nature of the business conducted or currently proposed to be conducted by the Company or for any other reason, in violation of (i) any fiduciary or confidential relationship, (ii) any term of any contract or covenant (either with the Company or with another entity) relating to employment, patents, assignment of inventions, confidentiality, proprietary information disclosure, non-competition or non-solicitation, or (iii) any other contract or agreement, or any judgment, decree or order of any court or administrative agency binding on the Founder and relating to or affecting the right of such Founder to be employed by or serve as a director or consultant to the Company.  No such relationship, term, contact, agreement, judgment, decree or order conflict with such Founder’s obligations to use his best efforts to promote the interests of the Company nor does the execution and delivery of this Agreement, nor such Founder’s carrying on the Company’s business as a director, officer, consultant or Key Employee of the Company, conflict with any such relationship, term, contract, agreement, judgment, decree or order.
+
+F.2.Ti=Litigation
+
+F.2.sec=There is no action, suit or proceeding, or governmental inquiry or investigation, pending or, to such Founder’s knowledge, threatened against such Founder, and, to such Founder’s knowledge, there is no basis for any such action, suit, proceeding, or governmental inquiry or investigation that would result in a Material Adverse Effect.
+
+F.3.Ti=Stockholder Agreements
+
+F.3.sec=Except as contemplated by or disclosed in the Transaction Agreements, such Founder is not a party to and has no knowledge of any agreements, written or oral, relating to the acquisition, disposition, registration under the Securities Act, or voting of the securities of the Company.
+
+F.4.Ti=Representations and Warranties
+
+F.4.sec=[To such Founder’s knowledge,] all of the representations and warranties of the Company set forth in Section 2 are true and complete.
+
+F.5.Ti=Prior Legal Matters
+
+F.5.sec=Such Founder has not been (a) subject to voluntary or involuntary petition under the federal bankruptcy laws or any state insolvency law or the appointment of a receiver, fiscal agent or similar officer by a court for his business or property; (b) convicted in a criminal proceeding or named as a subject of a pending criminal proceeding (excluding traffic violations and other minor offenses); (c) subject to any order, judgment, or decree (not subsequently reversed, suspended, or vacated) of any court of competent jurisdiction permanently or temporarily enjoining him from engaging, or otherwise imposing limits or conditions on his engagement in any securities, investment advisory, banking, insurance, or other type of business or acting as an officer or director of a public company; or (d) found by a court of competent jurisdiction in a civil action or by the Securities and Exchange Commission or the Commodity Futures Trading Commission to have violated any federal or state securities, commodities or unfair trade practices law, which such judgment or finding has not been subsequently reversed, suspended, or vacated.
+
+F.=[01/Agt/Bit/Outline/1-5.Secs]  
+
+secs={1.Sec}<li>{2.Sec}<li>{3.Sec}<li><i>{F.Sec}</i><li>{4.Sec}<li>{5.Sec}<li>{6.Sec}
+
+=[01/Agt/Bit/Outline/Base.md]
