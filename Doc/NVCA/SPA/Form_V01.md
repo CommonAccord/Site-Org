@@ -2,11 +2,7 @@ Heading=SERIES A PREFERRED STOCK PURCHASE AGREEMENT
 
 0.Sec={0.1.Sec}<br>{0.2.Sec}
 
-0.1.Sec={0.1.1.Sec} {0.1.2.Sec}.
- 
-0.1.1.Sec=THIS SERIES A PREFERRED STOCK PURCHASE AGREEMENT (this “Agreement”), is made as of {Agt.Effective.YMD} by and among {Co.Name.Full}, a Delaware corporation (the “Company”), the investors listed on Exhibit A attached to this Agreement (each a “Purchaser” and together the “Purchasers”)
-
-0.1.2.Sec=and the persons listed as “Founders” on the signature pages to this Agreement (each a “Founder” and together the “Founders”)
+0.1.Sec=THIS SERIES A PREFERRED STOCK PURCHASE AGREEMENT (this “Agreement”), is made as of the [__] day of [________, 20_] by and among [____________], a Delaware corporation (the “Company”), the investors listed on Exhibit A attached to this Agreement (each a “Purchaser” and together the “Purchasers”) [and the persons listed as “Founders” on the signature pages to this Agreement (each a “Founder” and together the “Founders”)].
 
 0.2.Sec=The parties hereby agree as follows:
 
@@ -16,57 +12,23 @@ Heading=SERIES A PREFERRED STOCK PURCHASE AGREEMENT
 
 1.1.1.Sec=The Company shall adopt and file with the Secretary of State of the State of Delaware on or before the Initial Closing (as defined below) the Amended and Restated Certificate of Incorporation in the form of Exhibit B attached to this Agreement (the “Restated Certificate”).
 
-1.1.2.Sec={1.1.2.1.Sec} {1.1.2.2.Sec}
-
-1.1.2.1.Sec=Subject to the terms and conditions of this Agreement, each Purchaser agrees to purchase at the Closing and the Company agrees to sell and issue to each Purchaser at the Closing that number of shares of Series A Preferred Stock, ${1.1.2.1.Var} par value per share (the “Series A Preferred Stock”), set forth opposite each Purchaser’s name on Exhibit A, at a purchase price of ${1.1.2.2.Var} per share.
-
-1.1.2.2.Sec={1.1.2.2.1.Sec}  {1.1.2.2.2.Sec} {1.1.2.2.3.Sec}
-
-1.1.2.2.1.Sec=The shares of Series A Preferred Stock issued to the Purchasers pursuant to this Agreement (including any shares issued at the Initial Closing and any
-
-1.1.2.2.2.Sec=Milestone Shares or
-
-1.1.2.2.3.Sec=Additional Shares, as defined below) shall be referred to in this Agreement as the “Shares.”
+1.1.2.Sec=Subject to the terms and conditions of this Agreement, each Purchaser agrees to purchase at the Closing and the Company agrees to sell and issue to each Purchaser at the Closing that number of shares of Series A Preferred Stock, $ [__] par value per share (the “Series A Preferred Stock”), set forth opposite each Purchaser’s name on Exhibit A, at a purchase price of $[__] per share.  The shares of Series A Preferred Stock issued to the Purchasers pursuant to this Agreement (including any shares issued at the Initial Closing and any [Milestone Shares or] Additional Shares, as defined below) shall be referred to in this Agreement as the “Shares.”
 
 1.1.=[01/Agt/Bit/Outline/1-2.Secs]  
 
 1.2.Ti=Closing; Delivery
 
-1.2.1.Sec=The initial purchase and sale of the Shares shall take place remotely via the exchange of documents and signatures, at {1.2.1.1.Var}, or at such other time and place as the Company and the Purchasers mutually agree upon, orally or in writing (which time and place are designated as the “Initial Closing”). In the event there is more than one closing, the term “Closing” shall apply to each such closing unless otherwise specified.
+1.2.1.Sec=The initial purchase and sale of the Shares shall take place remotely via the exchange of documents and signatures, at [____] [_].m., on [________ __, 20_], or at such other time and place as the Company and the Purchasers mutually agree upon, orally or in writing (which time and place are designated as the “Initial Closing”). In the event there is more than one closing, the term “Closing” shall apply to each such closing unless otherwise specified.
 
-1.2.2.Sec={1.2.2.1.Sec}{1.2.2.2.Sec}, {1.2.2.3.Sec}.
-
-1.2.2.1.Sec=At each Closing, the Company shall deliver to each Purchaser a certificate representing the Shares being purchased by such Purchaser at such Closing against payment of the purchase price therefor by check payable to the Company, by wire transfer to a bank account designated by the Company, by cancellation or conversion of indebtedness of the Company to Purchaser
-
-1.2.2.2.Sec=, including interest
-
-1.2.2.3.Sec=or by any combination of such methods
+1.2.2.Sec=At each Closing, the Company shall deliver to each Purchaser a certificate representing the Shares being purchased by such Purchaser at such Closing against payment of the purchase price therefor by check payable to the Company, by wire transfer to a bank account designated by the Company, by cancellation or conversion of indebtedness of the Company to Purchaser[, including interest], or by any combination of such methods.
 
 1.2.=[01/Agt/Bit/Outline/1-2.Secs]  
 
 1.3.Ti=Sale of Additional Shares of Preferred Stock
 
-1.3.1.Sec={1.3.1.1.Sec} {1.3.1.2.Sec}
+1.3.1.Sec=After the Initial Closing, the Company may sell, on the same terms and conditions as those contained in this Agreement, up to [_________] additional shares (subject to appropriate adjustment in the event of any stock dividend, stock split, combination or similar recapitalization affecting such shares) of Series A Preferred Stock (the “Additional Shares”), to one or more purchasers (the “Additional Purchasers”) [reasonably acceptable to Purchasers holding a [specify percentage] of the then outstanding Shares], provided that (i) such subsequent sale is consummated prior to [90] days after the Initial Closing (ii) each Additional Purchaser shall become a party to the Transaction Agreements (as defined below) (other than the Management Rights Letter), by executing and delivering a counterpart signature page to each of the Transaction Agreements[; and (iii) [_________], counsel for the Company, provides an opinion dated as of the date of such Closing that the offer, issuance, sale and delivery of the Additional Shares to the Additional Purchasers do not require registration under the Securities Act of 1933, as amended, or applicable state securities laws].  Exhibit A to this Agreement shall be updated to reflect the number of Additional Shares purchased at each such Closing and the parties purchasing such Additional Shares.
 
-1.3.1.1.Sec={1.3.1.1.1.Sec} {1.3.1.1.2.Sec}{1.3.1.1.3.Sec}{1.3.1.1.4.Sec}
-
-1.3.1.1.1.Sec=After the Initial Closing, the Company may sell, on the same terms and conditions as those contained in this Agreement, up to {1.3.1.Var1} additional shares (subject to appropriate adjustment in the event of any stock dividend, stock split, combination or similar recapitalization affecting such shares) of Series A Preferred Stock (the “Additional Shares”), to one or more purchasers (the “Additional Purchasers”)
-
-1.3.1.1.2.Sec=reasonably acceptable to Purchasers holding a {1.3.1.1.Var2} of the then outstanding Shares
-
-1.3.1.1.3.Sec=, provided that (i) such subsequent sale is consummated prior to {1.3.1.1.Var3} days after the Initial Closing (ii) each Additional Purchaser shall become a party to the Transaction Agreements (as defined below) (other than the Management Rights Letter), by executing and delivering a counterpart signature page to each of the Transaction Agreements
-
-1.3.1.1.4.Sec=; and (iii) {Co.Counsel.Name.Full}, counsel for the Company, provides an opinion dated as of the date of such Closing that the offer, issuance, sale and delivery of the Additional Shares to the Additional Purchasers do not require registration under the Securities Act of 1933, as amended, or applicable state securities laws.
-
-1.3.1.2.Sec=Exhibit A to this Agreement shall be updated to reflect the number of Additional Shares purchased at each such Closing and the parties purchasing such Additional Shares.
-
-1.3.2.Sec={1.3.2.1.Sec} {1.3.2.2.Sec} {1.3.2.3.Sec}
-
-1.3.2.1.Sec=After the Initial Closing, the Company shall sell, and the Purchasers shall purchase, on the same terms and conditions as those contained in this Agreement, up to {1.3.2.Var1} additional shares of Series A Preferred Stock (the “Milestone Shares”), pro rata in accordance with the number of Shares being purchased by each such Purchaser at all prior Closings, on the certification by the
-
-1.3.2.2.Sec=[Board] [Purchasers]
-
-1.3.2.3.Sec=that the events specified in Exhibit J attached to this Agreement have occurred (the “Milestone Events”). The date of the purchase and sale of the Milestone Shares are referred to in this Agreement as the “Milestone Closing.”
+1.3.2.Sec=After the Initial Closing, the Company shall sell, and the Purchasers shall purchase, on the same terms and conditions as those contained in this Agreement, up to [_____________] additional shares of Series A Preferred Stock (the “Milestone Shares”), pro rata in accordance with the number of Shares being purchased by each such Purchaser at all prior Closings, on the certification by the [Board] [Purchasers] that the events specified in Exhibit J attached to this Agreement have occurred (the “Milestone Events”). The date of the purchase and sale of the Milestone Shares are referred to in this Agreement as the “Milestone Closing.”
 
 1.3.=[01/Agt/Bit/Outline/1-2.Secs]  
 
@@ -84,41 +46,17 @@ Heading=SERIES A PREFERRED STOCK PURCHASE AGREEMENT
 
 1.5.3.Sec=“Company Covered Person” means, with respect to the Company as an “issuer” for purposes of Rule 506 promulgated under the Securities Act, any Person listed in the first paragraph of Rule 506(d)(1).
 
-1.5.4.Sec={1.5.4.1.Sec} {1.5.4.2.Sec} {1.5.4.3.Sec}.
+1.5.4.Sec=“Company Intellectual Property” means all patents, patent applications, trademarks, trademark applications, service marks, service mark applications, tradenames, copyrights, trade secrets, domain names, mask works, information and proprietary rights and processes, similar or other intellectual property rights, subject matter of any of the foregoing, tangible embodiments of any of the foregoing, licenses in, to and under any of the foregoing, and any and all such cases [that are owned or used by] [as are necessary to] the Company in the conduct of the Company’s business as now conducted and as presently proposed to be conducted.
 
-1.5.4.1.Sec=“Company Intellectual Property” means all patents, patent applications, trademarks, trademark applications, service marks, service mark applications, tradenames, copyrights, trade secrets, domain names, mask works, information and proprietary rights and processes, similar or other intellectual property rights, subject matter of any of the foregoing, tangible embodiments of any of the foregoing, licenses in, to and under any of the foregoing, and any and all such cases
+1.5.5.Sec=“Indemnification Agreement” means the agreement between the Company and the director [and Purchaser Affiliates] designated by any Purchaser entitled to designate a member of the Board of Directors pursuant to the Voting Agreement, dated as of the date of the Initial Closing, in the form of Exhibit D attached to this Agreement.
 
-1.5.4.2.Sec=[that are owned or used by] [as are necessary to]
-
-1.5.4.3.Sec=the Company in the conduct of the Company’s business as now conducted and as presently proposed to be conducted
-
-1.5.5.Sec={1.5.5.1.Sec} {1.5.5.2.Sec} {1.5.5.3.Sec}.
-
-1.5.5.1.Sec=“Indemnification Agreement” means the agreement between the Company and the director
-
-1.5.5.2.Sec=and Purchaser Affiliates
-
-1.5.5.3.Sec=designated by any Purchaser entitled to designate a member of the Board of Directors pursuant to the Voting Agreement, dated as of the date of the Initial Closing, in the form of Exhibit D attached to this Agreement
-
-1.5.6.Sec={1.5.6.1.Sec} {1.5.6.2.Sec} {1.5.6.3.Sec}.
-
-1.5.6.1.Sec=“Investors’ Rights Agreement” means the agreement among the Company and the Purchasers
-
-1.5.6.2.Sec=and certain other stockholders of the Company
-
-1.5.6.3.Sec=dated as of the date of the Initial Closing, in the form of Exhibit E attached to this Agreement
+1.5.6.Sec=“Investors’ Rights Agreement” means the agreement among the Company and the Purchasers  [and certain other stockholders of the Company] dated as of the date of the Initial Closing, in the form of Exhibit E attached to this Agreement.
 
 1.5.7.Sec=“Key Employee” means any executive-level employee (including division director and vice president-level positions) as well as any employee or consultant who either alone or in concert with others develops, invents, programs or designs any Company Intellectual Property.
 
-1.5.8.Sec={1.5.8.1.Sec} {1.5.8.2.Sec} {1.5.8.3.Sec}.
+1.5.8.Sec=“Knowledge” including the phrase “to the Company’s knowledge” shall mean the actual knowledge [after reasonable investigation] of the following officers: [specify names].
 
-1.5.8.1.Sec=“Knowledge” including the phrase “to the Company’s knowledge” shall mean the actual knowledge
-
-1.5.8.2.Sec=after reasonable investigation
-
-1.5.8.3.Sec=of the following officers: {specify_names}
-
-1.5.9.Sec=“Management Rights Letter” means the agreement between the Company and {PurchaserName}, dated as of the date of the Initial Closing, in the form of Exhibit F attached to this Agreement.
+1.5.9.Sec=“Management Rights Letter” means the agreement between the Company and [Purchaser], dated as of the date of the Initial Closing, in the form of Exhibit F attached to this Agreement.
 
 1.5.10.Sec=“Material Adverse Effect” means a material adverse effect on the business, assets (including intangible assets), liabilities, financial condition, property, prospects  or results of operations of the Company.
 
@@ -130,15 +68,9 @@ Heading=SERIES A PREFERRED STOCK PURCHASE AGREEMENT
 
 1.5.14.Sec=“Securities Act” means the Securities Act of 1933, as amended, and the rules and regulations promulgated thereunder.
 
-1.5.15.Sec={1.5.15.1.Sec} {1.5.15.2.Sec} {1.5.15.3.Sec}.
+1.5.15.Sec=“Shares” means the shares of Series A Preferred Stock issued at the Initial Closing and any [Milestone Shares or] Additional Shares issued at a subsequent Closing under Subsection 1.2(b).
 
-1.5.15.1.Sec=“Shares” means the shares of Series A Preferred Stock issued at the Initial Closing and any
-
-1.5.15.2.Sec=Milestone Shares or
-
-1.5.15.3.Sec=Additional Shares issued at a subsequent Closing under Subsection 1.2(b)
-
-1.5.16.Sec=“Transaction Agreements” means this Agreement, the Investors’ Rights Agreement, the Management Rights Letter, the Right of First Refusal and Co-Sale Agreement, the Voting Agreement and {list any other agreements, instruments or documents entered into in connection with this Agreement}.
+1.5.16.Sec=“Transaction Agreements” means this Agreement, the Investors’ Rights Agreement, the Management Rights Letter, the Right of First Refusal and Co-Sale Agreement, the Voting Agreement and [list any other agreements, instruments or documents entered into in connection with this Agreement].
 
 1.5.17.Sec=“Voting Agreement” means the agreement among the Company, the Purchasers and certain other stockholders of the Company, dated as of the date of the Initial Closing, in the form of Exhibit H attached to this Agreement.
 
