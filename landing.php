@@ -17,9 +17,9 @@ include("header.php");
 <hr>
 <h3 class="title">Open source legal documents and software.</h1>
 <h3 class="title">
-<a href="https://github.com/CommonAccord/Org/wiki/Goal:-A-World-without-Paperwork">A world without paperwork</a>
+<a href="https://github.com/CommonAccord/Org/wiki/Goal%3A-A-World-without-Paperwork">A world without paperwork</a>
    &emsp; &emsp;    &emsp; &emsp;   
-<a href="https://github.com/CommonAccord/Org/wiki/Goal:-Community-Driven">Act locally</a>
+<a href="https://github.com/CommonAccord/Org/wiki/Goal%3A-Local-Decision">Act locally</a>
 </h3>
 
         <h4 class="title"><a href="https://github.com/CommonAccord/commonaccord/tree/master/Doc">Github repo</a>   &emsp; &emsp;   <a href="https://twitter.com/commonaccord">@commonaccord</a>  &emsp; &emsp;  <a href="http://lists.commonaccord.org/archive/cmacc/">mailing list</a></h4>
