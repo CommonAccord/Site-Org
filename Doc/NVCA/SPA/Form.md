@@ -453,7 +453,19 @@ DataPrivacy.Opt2=, to the Company’s knowledge,
 
 3.4.Ti=Restricted Securities
 
-3.4.sec=The Purchaser understands that the Shares have not been, and will not be, registered under the Securities Act, by reason of a specific exemption from the registration provisions of the Securities Act which depends upon, among other things, the bona fide nature of the investment intent and the accuracy of the Purchaser’s representations as expressed herein.  The Purchaser understands that the Shares are “restricted securities” under applicable U.S. federal and state securities laws and that, pursuant to these laws, the Purchaser must hold the Shares indefinitely unless they are registered with the Securities and Exchange Commission and qualified by state authorities, or an exemption from such registration and qualification requirements is available.  The Purchaser acknowledges that the Company has no obligation to register or qualify the Shares, or the Common Stock into which it may be converted, for resale except as set forth in the Investors’ Rights Agreement.  The Purchaser further acknowledges that if an exemption from registration or qualification is available, it may be conditioned on various requirements including, but not limited to, the time and manner of sale, the holding period for the Shares, and on requirements relating to the Company which are outside of the Purchaser’s control, and which the Company is under no obligation and may not be able to satisfy.  [The Purchaser acknowledges that the Company filed a registration statement for a public offering of its Common Stock, which was withdrawn effective [_____ __, 20_].  The Purchaser understands that this offering is not intended to be part of the public offering, and that the Purchaser will not be able to rely on the protection of Section 11 of the Securities Act. ]
+3.4.sec={3.4.1.Sec} {3.4.2.Sec} {3.4.3.Sec} {3.4.4.Sec} {3.4.5.Sec} {3.4.6.Sec} 
+
+3.4.1.Sec=The Purchaser understands that the Shares have not been, and will not be, registered under the Securities Act, by reason of a specific exemption from the registration provisions of the Securities Act which depends upon, among other things, the bona fide nature of the investment intent and the accuracy of the Purchaser’s representations as expressed herein.
+
+3.4.2.Sec=The Purchaser understands that the Shares are “restricted securities” under applicable U.S. federal and state securities laws and that, pursuant to these laws, the Purchaser must hold the Shares indefinitely unless they are registered with the Securities and Exchange Commission and qualified by state authorities, or an exemption from such registration and qualification requirements is available.
+
+3.4.3.Sec=The Purchaser acknowledges that the Company has no obligation to register or qualify the Shares, or the Common Stock into which it may be converted, for resale except as set forth in the Investors’ Rights Agreement.
+
+3.4.4.Sec=The Purchaser further acknowledges that if an exemption from registration or qualification is available, it may be conditioned on various requirements including, but not limited to, the time and manner of sale, the holding period for the Shares, and on requirements relating to the Company which are outside of the Purchaser’s control, and which the Company is under no obligation and may not be able to satisfy.
+
+3.4.5.Sec=The Purchaser acknowledges that the Company filed a registration statement for a public offering of its Common Stock, which was withdrawn effective {PriorOffering.Withdrawn.Var1}.
+
+3.4.6.Sec=The Purchaser understands that this offering is not intended to be part of the public offering, and that the Purchaser will not be able to rely on the protection of Section 11 of the Securities Act.
 
 3.5.Ti=No Public Market
 
@@ -485,7 +497,11 @@ DataPrivacy.Opt2=, to the Company’s knowledge,
 
 3.10.Ti=Exculpation Among Purchasers
 
-3.10.sec=The Purchaser acknowledges that it is not relying upon any Person, other than the Company and its officers and directors, in making its investment or decision to invest in the Company.  [The Purchaser agrees that neither any Purchaser nor the respective controlling Persons, officers, directors, partners, agents, or employees of any Purchaser shall be liable to any other Purchaser for any action heretofore taken or omitted to be taken by any of them in connection with the purchase of the Shares.
+3.10.sec={3.10.1.Sec} {3.10.2.Sec}
+
+3.10.1.Sec=The Purchaser acknowledges that it is not relying upon any Person, other than the Company and its officers and directors, in making its investment or decision to invest in the Company.
+
+3.10.2.Sec=The Purchaser agrees that neither any Purchaser nor the respective controlling Persons, officers, directors, partners, agents, or employees of any Purchaser shall be liable to any other Purchaser for any action heretofore taken or omitted to be taken by any of them in connection with the purchase of the Shares.
 
 3.11.Ti=Residence
 
@@ -499,11 +515,15 @@ DataPrivacy.Opt2=, to the Company’s knowledge,
 
 4.Ti=Conditions to the Purchasers’ Obligations at Closing
 
-4.0.sec=The obligations of each Purchaser to purchase Shares at the Initial Closing [or any subsequent Closing] are subject to the fulfillment, on or before such Closing, of each of the following conditions, unless otherwise waived:
+4.0.sec=The obligations of each Purchaser to purchase Shares at the Initial Closing {4.0.Var1} are subject to the fulfillment, on or before such Closing, of each of the following conditions, unless otherwise waived:
+
+4.0.Var1=or any subsequent Closing
 
 4.1.Ti=Representations and Warranties
 
-4.1.sec=The representations and warranties of the Company contained in Section 2 [and the representations and warranties of the Founders in Section _] shall be true and correct in all respects as of such Closing.
+4.1.sec=The representations and warranties of the Company contained in Section 2 {4.1.Var2} shall be true and correct in all respects as of such Closing.
+
+4.1.Var2=and the representations and warranties of the Founders in Section 4
 
 4.2.Ti=Performance
 
@@ -519,11 +539,11 @@ DataPrivacy.Opt2=, to the Company’s knowledge,
 
 4.5.Ti=Opinion of Company Counsel
 
-4.5.sec=The Purchasers shall have received from [___________], counsel for the Company, an opinion, dated as of the Initial Closing, in substantially the form of Exhibit I attached to this Agreement.
+4.5.sec=The Purchasers shall have received from {4.5.Var1}, counsel for the Company, an opinion, dated as of the Initial Closing, in substantially the form of Exhibit I attached to this Agreement.
 
 4.6.Ti=Board of Directors
 
-4.6.sec=As of the Initial Closing, the authorized size of the Board shall be [______], and the Board shall be comprised of [_________________].
+4.6.sec=As of the Initial Closing, the authorized size of the Board shall be {4.6.Var1}, and the Board shall be comprised of {4.6.Var2}.
 
 4.7.Ti=Indemnification Agreement
 
@@ -531,7 +551,9 @@ DataPrivacy.Opt2=, to the Company’s knowledge,
 
 4.8.Ti=Investors’ Rights Agreement
 
-4.8.sec=The Company and each Purchaser (other than the Purchaser relying upon this condition to excuse such Purchaser’s performance hereunder) [and the other stockholders of the Company named as parties thereto] shall have executed and delivered the Investors’ Rights Agreement.
+4.8.sec=The Company and each Purchaser (other than the Purchaser relying upon this condition to excuse such Purchaser’s performance hereunder) {4.8.Var1} shall have executed and delivered the Investors’ Rights Agreement.
+
+4.8.Var1=and the other stockholders of the Company named as parties thereto
 
 4.9.Ti=Right of First Refusal and Co Sale Agreement
 
@@ -555,7 +577,7 @@ DataPrivacy.Opt2=, to the Company’s knowledge,
 
 4.14.Ti=Minimum Number of Shares at Initial Closing
 
-4.14.sec=A minimum of [_________] Shares must be sold at the Initial Closing.
+4.14.sec=A minimum of {4.14.Var1} Shares must be sold at the Initial Closing.
 
 4.15.Ti=Management Rights
 
@@ -574,7 +596,9 @@ DataPrivacy.Opt2=, to the Company’s knowledge,
 
 5.Ti=Conditions of the Company’s Obligations at Closing
 
-5.0.Sec=The obligations of the Company to sell Shares to the Purchasers at the Initial Closing [or any subsequent Closing] are subject to the fulfillment, on or before the Closing, of each of the following conditions, unless otherwise waived:
+5.0.Sec=The obligations of the Company to sell Shares to the Purchasers at the Initial Closing {5.0.Var1} are subject to the fulfillment, on or before the Closing, of each of the following conditions, unless otherwise waived:
+
+5.0.Var1=or any subsequent Closing
 
 5.1.Ti=Representations and Warranties
 
@@ -602,7 +626,7 @@ DataPrivacy.Opt2=, to the Company’s knowledge,
 
 5.7.Ti=Minimum Number of Shares at Initial Closing
 
-5.7.sec=A minimum of [_______] Shares must be sold at the Initial Closing.
+5.7.sec=A minimum of {5.7.Var1} Shares must be sold at the Initial Closing.
 
 5.=[01/Agt/Bit/Outline/1-7.Secs]
 
@@ -610,7 +634,9 @@ DataPrivacy.Opt2=, to the Company’s knowledge,
 
 6.1.Ti=Survival of Warranties
 
-6.1.sec=Unless otherwise set forth in this Agreement, the representations and warranties of the Company[, the Founders] and the Purchasers contained in or made pursuant to this Agreement shall survive the execution and delivery of this Agreement and the Closing and shall in no way be affected by any investigation or knowledge of the subject matter thereof made by or on behalf of the Purchasers or the Company.
+6.1.sec=Unless otherwise set forth in this Agreement, the representations and warranties of the Company{6.1.Var1} and the Purchasers contained in or made pursuant to this Agreement shall survive the execution and delivery of this Agreement and the Closing and shall in no way be affected by any investigation or knowledge of the subject matter thereof made by or on behalf of the Purchasers or the Company.
+
+6.1.Var1=, the Founders
 
 6.2.Ti=Successors and Assigns
 
@@ -618,7 +644,9 @@ DataPrivacy.Opt2=, to the Company’s knowledge,
 
 6.3.Ti=Governing Law
 
-6.3.sec=This Agreement shall be governed by the internal law of [the State of Delaware].
+6.3.sec=This Agreement shall be governed by the internal law of {Law.State.the}[the State of Delaware].
+
+Law.State.the=the State of Delaware
 
 6.4.Ti=Counterparts
 
@@ -630,7 +658,7 @@ DataPrivacy.Opt2=, to the Company’s knowledge,
 
 6.6.Ti=Notices
 
-6.6.sec=All notices and other communications given or made pursuant to this Agreement shall be in writing and shall be deemed effectively given upon the earlier of actual receipt, or (a) personal delivery to the party to be notified, (b) when sent, if sent by electronic mail or facsimile during normal business hours of the recipient, and if not sent during normal business hours, then on the recipient’s next business day, (c) five (5) days after having been sent by registered or certified mail, return receipt requested, postage prepaid, or (d) one (1) business day after deposit with a nationally recognized overnight courier, freight prepaid, specifying next business day delivery, with written verification of receipt.  All communications shall be sent to the respective parties at their address as set forth on the signature page or Exhibit A, or to such e-mail address, facsimile number or address as subsequently modified by written notice given in accordance with this Subsection 0.  If notice is given to the Company, a copy shall also be sent to [Company Counsel Name and Address] and if notice is given to the Purchasers, a copy shall also be given to [Purchaser Counsel Name and Address].
+6.6.sec=All notices and other communications given or made pursuant to this Agreement shall be in writing and shall be deemed effectively given upon the earlier of actual receipt, or (a) personal delivery to the party to be notified, (b) when sent, if sent by electronic mail or facsimile during normal business hours of the recipient, and if not sent during normal business hours, then on the recipient’s next business day, (c) five (5) days after having been sent by registered or certified mail, return receipt requested, postage prepaid, or (d) one (1) business day after deposit with a nationally recognized overnight courier, freight prepaid, specifying next business day delivery, with written verification of receipt.  All communications shall be sent to the respective parties at their address as set forth on the signature page or Exhibit A, or to such e-mail address, facsimile number or address as subsequently modified by written notice given in accordance with this Subsection {6.6.Xnum}.  If notice is given to the Company, a copy shall also be sent to {Co.Counsel.N,A} and if notice is given to the Purchasers, a copy shall also be given to {Inv1.Counsel.N,A}.
 
 6.7.Ti=No Finder’s Fees
 
@@ -638,7 +666,7 @@ DataPrivacy.Opt2=, to the Company’s knowledge,
 
 6.8.Ti=Fees and Expenses
 
-6.8.sec=At the Closing, the Company shall pay the reasonable fees and expenses of [_______], the counsel for [name of lead Purchaser ], in an amount not to exceed, in the aggregate, $[________].
+6.8.sec=At the Closing, the Company shall pay the reasonable fees and expenses of {Inv1.Counsel.Name.Full}, the counsel for {Inv1.Name.Full}, in an amount not to exceed, in the aggregate, ${6.8.Var1}.
 
 6.9.Ti=Attorneys’ Fees
 
@@ -646,7 +674,7 @@ DataPrivacy.Opt2=, to the Company’s knowledge,
 
 6.10.Ti=Amendments and Waivers
 
-6.10.sec=Except as set forth in Subsection 1.2(b) of this Agreement, any term of this Agreement may be amended, terminated or waived only with the written consent of the Company, and (i) the holders of at least [specify percentage] of the then-outstanding Shares, or (ii) for an amendment, termination or waiver effected prior to the Initial Closing, Purchasers obligated to purchase [specify percentage] of the Shares to be issued at the Initial Closing.  Any amendment or waiver effected in accordance with this Subsection 0 shall be binding upon the Purchasers and each transferee of the Shares (or the Common Stock issuable upon conversion thereof), each future holder of all such securities, and the Company.
+6.10.sec=Except as set forth in Subsection 1.2(b) of this Agreement, any term of this Agreement may be amended, terminated or waived only with the written consent of the Company, and (i) the holders of at least {6.10.Var1} of the then-outstanding Shares, or (ii) for an amendment, termination or waiver effected prior to the Initial Closing, Purchasers obligated to purchase {6.10.Var2} of the Shares to be issued at the Initial Closing.  Any amendment or waiver effected in accordance with this Subsection 0 shall be binding upon the Purchasers and each transferee of the Shares (or the Common Stock issuable upon conversion thereof), each future holder of all such securities, and the Company.
 
 6.11.Ti=Severability
 
@@ -668,13 +696,19 @@ DataPrivacy.Opt2=, to the Company’s knowledge,
 
 6.15.sec={6.15.1.Sec}<br>{6.15.2.Sec}<br>{6.15.3.Sec}<br>{6.15.4.Sec}
 
-6.15.1.Sec=The parties (a) hereby irrevocably and unconditionally submit to the jurisdiction of the state courts of [state] and to the jurisdiction of the United States District Court for the District of [judicial district] for the purpose of any suit, action or other proceeding arising out of or based upon this Agreement, (b) agree not to commence any suit, action or other proceeding arising out of or based upon this Agreement except in the state courts of [state] or the United States District Court for the District of [judicial district], and (c) hereby waive, and agree not to assert, by way of motion, as a defense, or otherwise, in any such suit, action or proceeding, any claim that it is not subject personally to the jurisdiction of the above-named courts, that its property is exempt or immune from attachment or execution, that the suit, action or proceeding is brought in an inconvenient forum, that the venue of the suit, action or proceeding is improper or that this Agreement or the subject matter hereof may not be enforced in or by such court.
+6.15.1.Sec=The parties (a) hereby irrevocably and unconditionally submit to the jurisdiction of the state courts of {Dispute.Forum.State} and to the jurisdiction of the United States District Court for the District of {Dispute.Forum.Fed.District} for the purpose of any suit, action or other proceeding arising out of or based upon this Agreement, (b) agree not to commence any suit, action or other proceeding arising out of or based upon this Agreement except in the state courts of {Dispute.Forum.State} or the United States District Court for the District of {Dispute.Forum.Fed.District}, and (c) hereby waive, and agree not to assert, by way of motion, as a defense, or otherwise, in any such suit, action or proceeding, any claim that it is not subject personally to the jurisdiction of the above-named courts, that its property is exempt or immune from attachment or execution, that the suit, action or proceeding is brought in an inconvenient forum, that the venue of the suit, action or proceeding is improper or that this Agreement or the subject matter hereof may not be enforced in or by such court.
 
 6.15.2.Sec=WAIVER OF JURY TRIAL:  EACH PARTY HEREBY WAIVES ITS RIGHTS TO A JURY TRIAL OF ANY CLAIM OR CAUSE OF ACTION BASED UPON OR ARISING OUT OF THIS AGREEMENT, THE OTHER TRANSACTION DOCUMENTS, THE SECURITIES OR THE SUBJECT MATTER HEREOF OR THEREOF.  THE SCOPE OF THIS WAIVER IS INTENDED TO BE ALL-ENCOMPASSING OF ANY AND ALL DISPUTES THAT MAY BE FILED IN ANY COURT AND THAT RELATE TO THE SUBJECT MATTER OF THIS TRANSACTION, INCLUDING, WITHOUT LIMITATION, CONTRACT CLAIMS, TORT CLAIMS (INCLUDING NEGLIGENCE), BREACH OF DUTY CLAIMS, AND ALL OTHER COMMON LAW AND STATUTORY CLAIMS.  THIS SECTION HAS BEEN FULLY DISCUSSED BY EACH OF THE PARTIES HERETO AND THESE PROVISIONS WILL NOT BE SUBJECT TO ANY EXCEPTIONS.  EACH PARTY HERETO HEREBY FURTHER WARRANTS AND REPRESENTS THAT SUCH PARTY HAS REVIEWED THIS WAIVER WITH ITS LEGAL COUNSEL, AND THAT SUCH PARTY KNOWINGLY AND VOLUNTARILY WAIVES ITS JURY TRIAL RIGHTS FOLLOWING CONSULTATION WITH LEGAL COUNSEL.
 
-6.15.3.Sec=Alternative:  Any unresolved controversy or claim arising out of or relating to this Agreement, except as (i) otherwise provided in this Agreement, or (ii) any such controversies or claims arising out of either party’s intellectual property rights for which a provisional remedy or equitable relief is sought, shall be submitted to arbitration by one arbitrator mutually agreed upon by the parties, and if no agreement can be reached within thirty (30) days after names of potential arbitrators have been proposed by the American Arbitration Association (the “AAA”), then by one arbitrator having reasonable experience in corporate finance transactions of the type provided for in this Agreement and who is chosen by the AAA.  The arbitration shall take place in [location], in accordance with the AAA rules then in effect, and judgment upon any award rendered in such arbitration will be binding and may be entered in any court having jurisdiction thereof.  There shall be limited discovery prior to the arbitration hearing as follows: (a) exchange of witness lists and copies of documentary evidence and documents relating to or arising out of the issues to be arbitrated, (b) depositions of all party witnesses, and (c) such other depositions as may be allowed by the arbitrators upon a showing of good cause.  Depositions shall be conducted in accordance with the [state] Code of Civil Procedure, the arbitrator shall be required to provide in writing to the parties the basis for the award or order of such arbitrator, and a court reporter shall record all hearings, with such record constituting the official transcript of such proceedings.
+6.15.3.Sec=Alternative:  Any unresolved controversy or claim arising out of or relating to this Agreement, except as (i) otherwise provided in this Agreement, or (ii) any such controversies or claims arising out of either party’s intellectual property rights for which a provisional remedy or equitable relief is sought, shall be submitted to arbitration by one arbitrator mutually agreed upon by the parties, and if no agreement can be reached within thirty (30) days after names of potential arbitrators have been proposed by the American Arbitration Association (the “AAA”), then by one arbitrator having reasonable experience in corporate finance transactions of the type provided for in this Agreement and who is chosen by the AAA.  The arbitration shall take place in {Dispute.Forum.Location}, in accordance with the AAA rules then in effect, and judgment upon any award rendered in such arbitration will be binding and may be entered in any court having jurisdiction thereof.  There shall be limited discovery prior to the arbitration hearing as follows: (a) exchange of witness lists and copies of documentary evidence and documents relating to or arising out of the issues to be arbitrated, (b) depositions of all party witnesses, and (c) such other depositions as may be allowed by the arbitrators upon a showing of good cause.  Depositions shall be conducted in accordance with the {Dispute.Law.State.CivilProcedureCode}, the arbitrator shall be required to provide in writing to the parties the basis for the award or order of such arbitrator, and a court reporter shall record all hearings, with such record constituting the official transcript of such proceedings.
 
-6.15.4.Sec=Each party will bear its own costs in respect of any disputes arising under this Agreement.] [The prevailing party shall be entitled to reasonable attorney’s fees, costs, and necessary disbursements in addition to any other relief to which such party may be entitled.]  Each of the parties to this Agreement consents to personal jurisdiction for any equitable action sought in the U.S. District Court for the District of [_____] or any court of the [State][Commonwealth] of [state] having subject matter jurisdiction.
+6.15.4.Sec={6.15.4.1.Sec} {6.15.4.2.Sec} {6.15.4.3.Sec} 
+
+6.15.4.1.Sec=Each party will bear its own costs in respect of any disputes arising under this Agreement.
+
+6.15.4.2.Sec=The prevailing party shall be entitled to reasonable attorney’s fees, costs, and necessary disbursements in addition to any other relief to which such party may be entitled.
+
+6.15.4.3.Sec=Each of the parties to this Agreement consents to personal jurisdiction for any equitable action sought in the U.S. District Court for the District of {Dispute.Forum.Fed.District} or any court of {Dispute.Forum.State.the} having subject matter jurisdiction.
 
 6.16.Ti=No Commitment for Additional Financing
 
@@ -682,7 +716,7 @@ DataPrivacy.Opt2=, to the Company’s knowledge,
 
 6.17.Ti=Waiver of Conflicts
 
-6.17.sec=Each party to this Agreement acknowledges that [insert name of Company counsel], counsel for the Company, has in the past performed and may continue to perform legal services for certain of the Purchasers in matters unrelated to the transactions described in this Agreement, including the representation of such Purchasers in venture capital financings and other matters.  Accordingly, each party to this Agreement hereby (a) acknowledges that they have had an opportunity to ask for information relevant to this disclosure; and (b) gives its informed consent to [insert name of Company counsel]’s representation of certain of the Purchasers in such unrelated matters and to [insert name of Company counsel]’s representation of the Company in connection with this Agreement and the transactions contemplated hereby.
+6.17.sec=Each party to this Agreement acknowledges that {Co.Counsel.Name.Full}, counsel for the Company, has in the past performed and may continue to perform legal services for certain of the Purchasers in matters unrelated to the transactions described in this Agreement, including the representation of such Purchasers in venture capital financings and other matters.  Accordingly, each party to this Agreement hereby (a) acknowledges that they have had an opportunity to ask for information relevant to this disclosure; and (b) gives its informed consent to {Co.Counsel.Name.Full}’s representation of certain of the Purchasers in such unrelated matters and to {Co.Counsel.Name.Full}’s representation of the Company in connection with this Agreement and the transactions contemplated hereby.
 
 6.=[01/Agt/Bit/Outline/1-17.Secs]  
 
@@ -691,7 +725,19 @@ DocBody={Doc}
 
 F.Ti=Representations and Warranties of the Founders
 
-F.0.Sec=Except as set forth on the Disclosure Schedule, each of the Founders, severally and not jointly, represents and warrants to each Purchaser as of the date of the Closing at which such Purchaser is purchasing Shares as follows [(it being understood and agreed that any Founder’s liability for breaches of any provisions of this Section 3 shall be limited to the then current fair market value [as determined in good faith by the board of directors of the Company] of the shares of Common Stock of the Company currently owned by such Founder and such Founder [may, in his sole discretion, discharge such liability by the surrender of such shares or the payment of cash ] [shall discharge such liability by the surrender of such shares] and will terminate on the earlier of (i) [one (1) year/two (2) years] after the date of this Agreement, or (ii) the completion of an initial public offering of the Company’s Common Stock)]:
+F.0.Sec={F.0.1.Sec} {F.0.2.Sec}:
+
+F.0.1.Sec=Except as set forth on the Disclosure Schedule, each of the Founders, severally and not jointly, represents and warrants to each Purchaser as of the date of the Closing at which such Purchaser is purchasing Shares as follows 
+
+F.0.2.Sec=(it being understood and agreed that any Founder’s liability for breaches of any provisions of this Section 3 shall be limited to the then current fair market value {F.0.2.1.Opt1} of the shares of Common Stock of the Company currently owned by such Founder and such Founder {F.0.2.2.Opt1}{F.0.2.2.Opt2} and will terminate on the earlier of (i) {F.0.2.3.Opt2} after the date of this Agreement, or (ii) the completion of an initial public offering of the Company’s Common Stock)
+
+F.0.2.1.Opt1=as determined in good faith by the board of directors of the Company
+
+F.0.2.2.Opt1=may, in his sole discretion, discharge such liability by the surrender of such shares or the payment of cash
+
+F.0.2.2.Opt2=shall discharge such liability by the surrender of such shares
+
+F.0.2.2.Opt3=one (1) year/two (2) years
 
 F.1.Ti=Conflicting Agreements
 
@@ -707,7 +753,9 @@ F.3.sec=Except as contemplated by or disclosed in the Transaction Agreements, su
 
 F.4.Ti=Representations and Warranties
 
-F.4.sec=[To such Founder’s knowledge,] all of the representations and warranties of the Company set forth in Section 2 are true and complete.
+F.4.sec={F.4.Opt1} of the representations and warranties of the Company set forth in Section 2 are true and complete.
+
+F.4.Opt1=To such Founder’s knowledge, all
 
 F.5.Ti=Prior Legal Matters
 
