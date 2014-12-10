@@ -1,6 +1,6 @@
 N,E,A={Name.Full}, {entity.a} whose {Addr.Type} address is {Addr.1,2}
 
-N,A,L,G={Name.Full}, {entity.a} whose {Addr.Type} address is {Addr.1,2}, LinkedIn: <a href="http://linkedin.com/in/{LinkedIn.Handle}">{LinkedIn.Handle}</a>; GitHub: <a href="http://github.com/{GitHub.Handle}">{GitHub.Handle}</a>
+N/A/L/G/T={Name.Full}, {entity.a}<br> Whose {Addr.Type} address is {Addr.1,2}<br> LinkedIn: <a href="http://linkedin.com/in/{LinkedIn.Handle}">{LinkedIn.Handle}</a><br>GitHub: <a href="http://github.com/{GitHub.Handle}">{GitHub.Handle}</a><br>Twitter: <a href="http://twitter.com/{Twitter.Handle}">{Twitter.Handle}</a>
 
 N/1/2={Name.Full}<br>{Addr.1/2}
 
