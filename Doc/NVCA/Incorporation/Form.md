@@ -69,6 +69,8 @@ Heading=AMENDED AND RESTATED CERTIFICATE OF INCORPORATION  OF {Co.Name.Full}
  
 90.3.Sec={EXHIBIT A}
 
+DocBody={Doc}
+
 =[01/Agt/Bit/Outline/1-4.Secs]
  
 (Alternative Indemnification Provisions)
