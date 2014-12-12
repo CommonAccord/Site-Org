@@ -45,14 +45,16 @@ Site.4.Public=_
 Site.4.Private=_
 
 
-Site.Table=<table><tr><td>PROPOSED VENDING LOCATION</td></tr><tr><td width="25%">Location</td><td width="25%">Property Type</td><td width="25%"> Days</td><td width="25%"> Shift/Hours</td></tr>{Sites.1-N}</table>
+Site.Table=<table><tr><td>PROPOSED VENDING LOCATION</td></tr>
+<tr><td width="25%">Location</td><td width="25%">Property Type</td><td width="25%"> Days</td><td width="25%"> Shift/Hours</td></tr>{Sites.1-N}</table>
 
-Site.1._row=<tr><td width="25%">{Site.1.Addr.1/2}</td><td width="25%">[{Site.1.Public}]Public [{Site.1.Private} ]Private</td><td width="25%">{Site.1.Days}</td><td width="25%">{Site.1.Hours}</td></tr>
-Site.2._row=<tr><td width="25%">{Site.2.Addr.1/2}</td><td width="25%">[{Site.2.Public}]Public [{Site.2.Private} ]Private</td><td width="25%">{Site.2.Days}</td><td width="25%">{Site.2.Hours}</td></tr>
-Site.3._row=<tr><td width="25%">{Site.3.Addr.1/2}</td><td width="25%">[{Site.3.Public}]Public [{Site.3.Private} ]Private</td><td width="25%">{Site.3.Days}</td><td width="25%">{Site.3.Hours}</td></tr>
+Site.1._row={tr}{Site.1.Addr.1/2}</td><td width="25%">[{Site.1.Public}]Public [{Site.1.Private} ]Private</td><td width="25%">{Site.1.Days}</td><td width="25%">{Site.1.Hours}</td></tr>
+Site.2._row={tr}{Site.2.Addr.1/2}</td><td width="25%">[{Site.2.Public}]Public [{Site.2.Private} ]Private</td><td width="25%">{Site.2.Days}</td><td width="25%">{Site.2.Hours}</td></tr>
+Site.3._row={tr}{Site.3.Addr.1/2}</td><td width="25%">[{Site.3.Public}]Public [{Site.3.Private} ]Private</td><td width="25%">{Site.3.Days}</td><td width="25%">{Site.3.Hours}</td></tr>
 
-Site.4._row=<tr><td width="25%">{Site.4.Addr.1/2}</td><td width="25%">[{Site.4.Public}]Public [{Site.4.Private} ]Private</td><td width="25%">{Site.4.Days}</td><td width="25%">{Site.4.Hours}</td></tr>
+Site.4._row={tr}{Site.4.Addr.1/2}</td><td width="25%">[{Site.4.Public}]Public [{Site.4.Private} ]Private</td><td width="25%">{Site.4.Days}</td><td width="25%">{Site.4.Hours}</td></tr>
 
+tr=<tr><td width="25%">
 
 SUBMISSION<br />
 Fee: $500 *&nbsp;<br />
@@ -69,7 +71,7 @@ Boston City Hall, Room 714 | Boston, MA 02201-2024<br />
 Mobile Food Vending Vehicle Permit Application | Page 2 of 2&nbsp;</p>
 
 
-<table><tr><td>REQUIRED DOCUMENTS (Attach to this application.)</td></tr>
+<table><tr><td>REQUIRED DOCUMENTS (Attach to this application.)</td></tr></table>
 Required of all&nbsp;<br />
 Applicants: [ ] Copy of Health Permit, issued by Inspectional Services Department (ISD).&nbsp;<br />
 [ ] Copy of Business Certificate (issued from town or city where business is based)<br />
