@@ -1,8 +1,10 @@
+Heading={Ti}
+
 Ti=INDEMNIFICATION AGREEMENT
 
 0.Sec={0.1.Sec}<br>{0.2.Sec}
 
-0.1.Sec=THIS INDEMNIFICATION AGREEMENT (the “Agreement”) is made and entered into as of [___________], 200[_] between [corporation], a Delaware corporation (the “Company”), and [name] (“Indemnitee”).
+0.1.Sec=THIS {Ti} (the “Agreement”) is made and entered into as of [___________], 200[_] between [corporation], a Delaware corporation (the “Company”), and [name] (“Indemnitee”).
 
 0.2.0.Sec=WITNESSETH THAT:
 
