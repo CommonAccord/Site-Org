@@ -22,19 +22,7 @@ Ti=Mutual Non-Disclosure Agreement
 
 1.=[01/Agt/Bit/Outline/1-3.Secs]
 
-2.Ti=Exceptions to Confidentiality
-
-2.0.Sec=Notwithstanding the foregoing, in no event is information Confidential Information if it:
-
-2.1.Sec=was in the Receiving Party’s possession before receipt from the Disclosing Party;
-
-2.2.Sec=is or becomes a matter of public knowledge through no fault of the Receiving Party;
-
-2.3.Sec=is received by the Receiving Party, without restriction as to further disclosure, from a third party having an apparent bona fide right to disclose the information to the Receiving Party; or
-
-2.4.Sec=is independently developed by the Receiving Party without use of the Disclosing Party’s Confidential Information. For purposes of this Agreement, {P1.Handle} students are not third parties vis-a-vis {P1.Handle}.
-
-2.=[01/Agt/Bit/Outline/1-4.Secs]
+2.=[NDA/MIT/TLO/Sec/Misc.md]
 
 3.Ti=Limitations on Use
 
