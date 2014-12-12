@@ -22,7 +22,7 @@ Ti=Mutual Non-Disclosure Agreement
 
 1.=[01/Agt/Bit/Outline/1-3.Secs]
 
-2.=[NDA/MIT/TLO/Sec/Misc.md]
+2.=[NDA/MIT/TLO/Sec/Except.md]
 
 3.Ti=Limitations on Use
 
