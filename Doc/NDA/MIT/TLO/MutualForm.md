@@ -14,7 +14,7 @@ Ti=Mutual Non-Disclosure Agreement
 
 1.0.Sec=When used in this Agreement, the term “Confidential Information” means confidential and proprietary information disclosed by one party (“Disclosing Party”) to the other (“Receiving Party”) that:
 
-1.1.Sec=prior to disclosure, is marked with a legend indicating its confidential status,
+1.1.Sec=prior to disclosure, is marked with a legend indicating its confidential status;
 
 1.2.Sec=is disclosed by {P1.Handle} and is or relates to unpublished research, invention disclosures, or unpublished patent applications; or
 
@@ -54,7 +54,20 @@ Ti=Mutual Non-Disclosure Agreement
 
 7.Ti=Term of Agreement
 
-7.sec=The term of this Agreement shall commence on the Effective Date and terminate on the earliest of (a) conclusion of the Purpose, (b) three years from the date of this Agreement or (c) the date on which a party provides notice of termination of this Agreement to the other. A Receiving Party’s obligations with respect to use and nondisclosure of the Disclosing Party’s Confidential Information shall survive for a period of three years following receipt of the information.
+7.0.Sec=The term of this Agreement shall commence on the Effective Date and terminate on the earliest of:
+
+7.1.Sec=conclusion of the Purpose;
+
+7.2.Sec=three years from the date of this Agreement; or
+
+7.3.Sec=the date on which a party provides notice of termination of this Agreement to the other. 
+
+7.90.Sec=A Receiving Party’s obligations with respect to use and nondisclosure of the Disclosing Party’s Confidential Information shall survive for a period of {PeriodOfEngagement.cl}.
+
+PeriodOfEngagement.cl=three years from the date of this Agreement
+
+7.=[01/Agt/Bit/Outline/1-3.Secs]
+
 
 8.Ti=Return or Destruction of Confidential Information
 
