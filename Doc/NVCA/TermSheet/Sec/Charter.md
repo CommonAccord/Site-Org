@@ -54,7 +54,7 @@ Voting._row=Voting Rights:{-td-}The Series A Preferred shall vote together with 
 
 Vote.Ins1=so long as {Vote.DirA.Threshold} shares of Series A Preferred are outstanding,
 
-Protect.=[core/form/agt/startup/nvca/ts/sec/NVCA_TS_Charter_Protect]
+Protect.=[NVCA/TermSheet/Sec/Charter_Protect.md]
 
 OptionalConvert._row=Optional Conversion:</td><td>The Series A Preferred initially converts 1:1 to Common Stock at any time at option of holder, subject to adjustments for stock dividends, splits, combinations and similar events and as described below under "Anti-dilution Provisions."
 
@@ -96,4 +96,3 @@ Redemption._row=Redemption Rights:{-td-}Unless prohibited by Delaware law govern
 Redemption.Dividends=plus all accrued but unpaid dividends
 
 Redemption.OptOut=(except for any Series A holders who affirmatively opt-out)
-      

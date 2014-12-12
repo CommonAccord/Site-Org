@@ -1,9 +1,12 @@
 Model.Root={DocBody}
+
 =[core/class/Doc_Table]
 
 Co.Handle=Company
+
 P1.Handle=Lead Investor
-DocBody=<center>{Heading}</center>{secbr}{Intro}{secbr}{Summary._Table}{secbr}{Charter._Table}{secbr}{SPA._Table}{secbr}{IRA._Table}{RoFR._Table}{secbr}{Voting._Table}{secbr}{OtherMatters._Table}{secbr}{AGT.Signature}
+
+DocBody=<center>{Heading}</center>{secbr}{Intro}{secbr}{Summary._Table}{secbr}{Charter._Table}{secbr}{SPA._Table}{secbr}{IRA._Table}{RoFR._Table}{secbr}{Voting._Table}{secbr}{OtherMatters._Table}{secbr}{Agt.Signature}
 
 secbr=<br><hr><br>
 
@@ -11,23 +14,20 @@ Heading=<h3 >TERM SHEET</h3> <h4 >FOR SERIES A PREFERRED STOCK FINANCING OF</h4>
 
 Intro=This Term Sheet summarizes the principal terms of the Series A Preferred Stock Financing of {Co.N,E,A} (the "Company").  In consideration of the time and expense devoted and to be devoted by the Investors with respect to this investment, the No Shop/Confidentiality {and Counsel and Expenses} provisions of this Term Sheet shall be binding obligations of the Company whether or not the financing is consummated.  No other legally binding obligations will be created until definitive agreements are executed and delivered by all parties.  This Term Sheet is not a commitment to invest, and is conditioned on the completion of due diligence, legal review and documentation that is satisfactory to the Investors.  This Term Sheet shall be governed in all respects by the laws of {Dispute.Law.State.of}.
 
-Summary.=[core/form/agt/startup/nvca/ts/sec/NVCA_TS_Summary]
+Summary.=[NVCA/TermSheet/Sec/Summary.md]
 
-Charter.=[core/form/agt/startup/nvca/ts/sec/NVCA_TS_Charter]
+Charter.=[NVCA/TermSheet/Sec/Charter.md]
 
-SPA.=[core/form/agt/startup/nvca/ts/sec/NVCA_TS_SPA]
+SPA.=[NVCA/TermSheet/Sec/SPA.md]
 
-IRA.=[core/form/agt/startup/nvca/ts/sec/NVCA_TS_IRA]
+IRA.=[NVCA/TermSheet/Sec/IRA.md]
 
-RoFR.=[core/form/agt/startup/nvca/ts/sec/NVCA_TS_RoFR]
+ROFR.=[NVCA/TermSheet/Sec/ROFR.md]
 
-Voting.=[core/form/agt/startup/nvca/ts/sec/NVCA_TS_Voting]
+Voting.=[NVCA/TermSheet/Sec/Voting.md]
 
-OtherMatters.=[core/form/agt/startup/nvca/ts/sec/NVCA_TS_OtherMatters]
+OtherMatters.=[NVCA/TermSheet/Sec/OtherMatters.md]
 
-AGT.Signature=<p >EXECUTED this {AGT.Effective.YMD}.<br><br>{Sign.Block}</p></body></html>
+Agt.Signature=<p >EXECUTED this {Agt.Effective.YMD}.<br><br>{Sign.Block}</p></body></html>
 
 Sign.Block=<table width="80%"><tr><td valign='top'>{Co.Sign.Block}</td><td width='20%'></td><td valign='top'>{P1.Sign.Block}</td></tr></table>
-          
-
-                           
