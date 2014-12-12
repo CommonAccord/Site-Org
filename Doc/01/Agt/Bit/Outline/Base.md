@@ -2,7 +2,7 @@ Model.Root={DocBody}
 
 DocBody={Sec}
 
-Doc={MessageToUser}<h3>{Heading}</h3><br>{0-sec} 
+Doc=<font color="grey">{MessageToUser}</font><center><h3>{Heading}</h3></center><br>{0-sec} 
 
 Sec=<b>{Ti}</b><br>{0.Sec} {sec} {90.Sec}
 

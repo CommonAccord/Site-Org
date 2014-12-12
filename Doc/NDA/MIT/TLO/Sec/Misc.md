@@ -18,7 +18,7 @@ Ti=Miscellaneous Provisions
 
 5.Ti=Assignment
 
-5.sec=This Agreement may not be assigned by either party without the other partyâ€™s prior written consent.
+5.sec=This Agreement may not be assigned by either party without the other party’s prior written consent.
 
 6.Ti=Severability
 
