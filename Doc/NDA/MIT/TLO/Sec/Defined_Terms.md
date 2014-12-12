@@ -1,3 +1,5 @@
+/Note=This page in the repo gives us an opportunity to be systematic with defined terms.  Ultimately, of course, we should not have to redefine terms, and defined terms should come to be surrounded with commentary.  They should become stable. A vocabulary rather than parameters. 
+
 This_Agreement={d-}This Agreement{-d}
 
 this_Agreement={d-}this Agreement{-d}
