@@ -1,6 +1,6 @@
 Heading={Ti}
 
-Ti=MUTUAL NON-DISCLOSURE AGREEMENT
+Ti=Mutual Non-Disclosure Agreement
 
 0.Sec={0.1.Sec}<br>{0.2.Sec}<br>{0.3.Sec}
 
@@ -12,7 +12,15 @@ Ti=MUTUAL NON-DISCLOSURE AGREEMENT
 
 1.Ti=Confidential Information
 
-1.sec=When used in this Agreement, the term “Confidential Information” means confidential and proprietary information disclosed by one party (“Disclosing Party”) to the other (“Receiving Party”) that (i) prior to disclosure, is marked with a legend indicating its confidential status, (ii) is disclosed by {P1.Handle} and is or relates to unpublished research, invention disclosures, or unpublished patent applications; or (iii) is disclosed orally or visually, if the Disclosing Party identifies such information as confidential at the time of disclosure and, within 30 days of such disclosure, delivers to the Receiving Party’s primary contact for receipt of Confidential Information a notice summarizing the confidential information disclosed.
+1.0.Sec=When used in this Agreement, the term “Confidential Information” means confidential and proprietary information disclosed by one party (“Disclosing Party”) to the other (“Receiving Party”) that:
+
+1.1.Sec=prior to disclosure, is marked with a legend indicating its confidential status,
+
+1.2.Sec=is disclosed by {P1.Handle} and is or relates to unpublished research, invention disclosures, or unpublished patent applications; or
+
+1.3.Sec=is disclosed orally or visually, if the Disclosing Party identifies such information as confidential at the time of disclosure and, within 30 days of such disclosure, delivers to the Receiving Party’s primary contact for receipt of Confidential Information a notice summarizing the confidential information disclosed.
+
+1.=[01/Agt/Bit/Outline/1-3.Secs]
 
 2.Ti=Exceptions to Confidentiality
 
