@@ -6,7 +6,7 @@ include("header.php");
 ?>
 
 <div class="container">
-<?
+<?php
 
 //This displays the path, current file name, and provides the edit and show options //
 
@@ -59,7 +59,7 @@ foreach($contents as $n) {
 </div>
 
 <div id="tab-render">
-<? 
+<?php
 	echo `perl parser2.pl $path/$dir`;
 	#system("perl parser2.pl $path/$dir  > $path/Output999.html");
 	#echo file_get_contents("Output999.html", FILE_USE_INCLUDE_PATH);
