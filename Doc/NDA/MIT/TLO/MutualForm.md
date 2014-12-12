@@ -4,7 +4,7 @@ Ti=MUTUAL NON-DISCLOSURE AGREEMENT
 
 0.Sec={0.1.Sec}<br>{0.2.Sec}<br>{0.3.Sec}
 
-0.1.Sec=This Agreement is made effective as of {Agt.Effective.YMD} (the “Effective Date”) between {P1.N,E,A} (“{P1.Handle}”), and {P1.N,E,A} (“{P2.Handle}”), in anticipation of each party disclosing confidential information to the other party for the purpose of evaluating technology licensing opportunities relating to {P1.Handle} Case Number {P1.Case#} (the “Purpose”). 
+0.1.Sec=This Agreement is made effective as of {Agt.Effective.YMD} (the “Effective Date”) between {P1.N,E,A} (“{P1.Handle}”), and {P2.N,E,A} (“{P2.Handle}”), in anticipation of each party disclosing confidential information to the other party for the purpose of evaluating technology licensing opportunities relating to {P1.Handle} Case Number {P1.Case#} (the “Purpose”). 
 
 0.2.Sec=The primary contact(s) for disclosing or receiving confidential information for these parties are as follows: {Contact.Block}
 
@@ -12,7 +12,7 @@ Ti=MUTUAL NON-DISCLOSURE AGREEMENT
 
 1.Ti=CONFIDENTIAL INFORMATION
 
-1.sec=When used in this Agreement, the term “Confidential Information” means confidential and proprietary information disclosed by one party (“Disclosing Party”) to the other (“Receiving Party”) that (i) prior to disclosure, is marked with a legend indicating its confidential status, (ii) is disclosed by {P2.Handle} and is or relates to unpublished research, invention disclosures, or unpublished patent applications; or (iii) is disclosed orally or visually, if the Disclosing Party identifies such information as confidential at the time of disclosure and, within 30 days of such disclosure, delivers to the Receiving Party’s primary contact for receipt of Confidential Information a notice summarizing the confidential information disclosed. Notwithstanding the foregoing, in no event is information Confidential Information if it (a) was in the Receiving Party’s possession before receipt from the Disclosing Party; (b) is or becomes a matter of public knowledge through no fault of the Receiving Party; (c) is received by the Receiving Party, without restriction as to further disclosure, from a third party having an apparent bona fide right to disclose the information to the Receiving Party; or (d) is independently developed by the Receiving Party without use of the Disclosing Party’s Confidential Information. For purposes of this Agreement, {P2.Handle} students are not third parties vis-a-vis {P2.Handle}.
+1.sec=When used in this Agreement, the term “Confidential Information” means confidential and proprietary information disclosed by one party (“Disclosing Party”) to the other (“Receiving Party”) that (i) prior to disclosure, is marked with a legend indicating its confidential status, (ii) is disclosed by {P1.Handle} and is or relates to unpublished research, invention disclosures, or unpublished patent applications; or (iii) is disclosed orally or visually, if the Disclosing Party identifies such information as confidential at the time of disclosure and, within 30 days of such disclosure, delivers to the Receiving Party’s primary contact for receipt of Confidential Information a notice summarizing the confidential information disclosed. Notwithstanding the foregoing, in no event is information Confidential Information if it (a) was in the Receiving Party’s possession before receipt from the Disclosing Party; (b) is or becomes a matter of public knowledge through no fault of the Receiving Party; (c) is received by the Receiving Party, without restriction as to further disclosure, from a third party having an apparent bona fide right to disclose the information to the Receiving Party; or (d) is independently developed by the Receiving Party without use of the Disclosing Party’s Confidential Information. For purposes of this Agreement, {P1.Handle} students are not third parties vis-a-vis {P1.Handle}.
 
 2.Ti=LIMITATIONS ON USE
 
@@ -20,7 +20,7 @@ Ti=MUTUAL NON-DISCLOSURE AGREEMENT
 
 3.Ti=CARE OF CONFIDENTIAL INFORMATION
 
-3.sec=The Receiving Party shall exert reasonable efforts to maintain the Disclosing Party’s Confidential Information in confidence, except that the Receiving Party may disclose or permit disclosure of any of the Disclosing Party’s Confidential Information to its directors (in the case of {P2.Handle}, members), officers, employees, consultants, advisors and, in the case of {P2.Handle}, students, who need to know such Confidential Information to fulfill the Purpose and who have been advised of and have agreed to maintain the confidential nature of the Confidential Information.
+3.sec=The Receiving Party shall exert reasonable efforts to maintain the Disclosing Party’s Confidential Information in confidence, except that the Receiving Party may disclose or permit disclosure of any of the Disclosing Party’s Confidential Information to its directors (in the case of {P1.Handle}, members), officers, employees, consultants, advisors and, in the case of {P1.Handle}, students, who need to know such Confidential Information to fulfill the Purpose and who have been advised of and have agreed to maintain the confidential nature of the Confidential Information.
 
 4.Ti=REQUIRED DISCLOSURES
 
@@ -46,7 +46,7 @@ Ti=MUTUAL NON-DISCLOSURE AGREEMENT
 
 9.1.Ti=Export Control
 
-9.1.sec=Each party covenants and warrants that it will not disclose to the other any information that contains information, technology or data identified on any U.S. export control list, including the Commerce Control List at 15 CFR 774 and the U.S. Munitions List at 22 CFR 121, unless and until it obtains the written consent of the other party. In the case of {P2.Handle}, the written consent must be executed by {P2.ExportControlOfficer}.
+9.1.sec=Each party covenants and warrants that it will not disclose to the other any information that contains information, technology or data identified on any U.S. export control list, including the Commerce Control List at 15 CFR 774 and the U.S. Munitions List at 22 CFR 121, unless and until it obtains the written consent of the other party. In the case of {P1.Handle}, the written consent must be executed by {P1.ExportControlOfficer}.
 
 9.2.Ti=CREATE Act
 
