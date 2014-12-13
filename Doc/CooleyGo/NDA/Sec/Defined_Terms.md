@@ -20,6 +20,8 @@ Parties={d-}Parties{-d}
 
 Party={d-}Party{-d}
 
+the_other_Party=the other {d-}Party{-d}
+
 Permitted_Use={d-}Permitted Use{-d}
 
 Receiving_Party={d-}Receiving Party{-d}
@@ -29,6 +31,8 @@ The_Receiving_Party=The {d-}Receiving Party{-d}
 the_Receiving_Party=the {d-}Receiving Party{-d}
 
 a_Receiving_Party=a {d-}Receiving Party{-d}
+
+such_Receiving_Party=such {d-}Receiving Party{-d}
 
 d-=<a href="https://github.com/CommonAccord/Org/blob/master/Doc/CooleyGo/NDA/Sec/Defined_Terms.md"><font color="green">
 
