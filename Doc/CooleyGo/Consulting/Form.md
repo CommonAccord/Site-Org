@@ -8,7 +8,19 @@ Ti=CONSULTING AGREEMENT
 
 1.Ti=Engagement of Services
 
-1.sec=Client may issue Project Assignments to Consultant in the form attached to this Agreement as EXHIBIT A (“Project Assignment”).  Subject to the terms of this Agreement, Consultant will render the services set forth in Project Assignment(s) accepted by Consultant (the “Services”) by the completion dates set forth therein.  Except as otherwise provided in the applicable Project Assignment, Consultant will have exclusive control over the manner and means of performing the Services, including the choice of place and time.  Consultant will provide, at Consultant’s own expense, a place of work and all equipment, tools and other materials necessary to complete the Services; however, to the extent necessary to facilitate performance of the Services, Client may, in its discretion, make its equipment or facilities available to Consultant at Consultant’s request.  While on the Client’s premises, Consultant agrees to comply with Client’s then-current access rules and procedures, including those related to safety, security and confidentiality.  Consultant agrees and acknowledges that Consultant has no expectation of privacy with respect to Client’s telecommunications, networking or information processing systems (including stored computer files, email messages and voice messages) and that Consultant’s activities, including the sending or receiving of any files or messages, on or using those systems may be monitored, and the contents of such files and messages may be reviewed and disclosed, at any time, without notice.
+1.1.Ti=Project Assignments
+
+1.1.sec=Client may issue Project Assignments to Consultant in the form attached to this Agreement as EXHIBIT A (“Project Assignment”).  Subject to the terms of this Agreement, Consultant will render the services set forth in Project Assignment(s) accepted by Consultant (the “Services”) by the completion dates set forth therein.  Except as otherwise provided in the applicable Project Assignment, Consultant will have exclusive control over the manner and means of performing the Services, including the choice of place and time.
+
+1.2.Ti=Place of Work
+
+1.2.sec=Consultant will provide, at Consultant’s own expense, a place of work and all equipment, tools and other materials necessary to complete the Services; however, to the extent necessary to facilitate performance of the Services, Client may, in its discretion, make its equipment or facilities available to Consultant at Consultant’s request.
+
+1.3.Ti=Client's Premises
+
+1.3.sec=While on the Client’s premises, Consultant agrees to comply with Client’s then-current access rules and procedures, including those related to safety, security and confidentiality.  Consultant agrees and acknowledges that Consultant has no expectation of privacy with respect to Client’s telecommunications, networking or information processing systems (including stored computer files, email messages and voice messages) and that Consultant’s activities, including the sending or receiving of any files or messages, on or using those systems may be monitored, and the contents of such files and messages may be reviewed and disclosed, at any time, without notice.
+
+1.=[01/Agt/Bit/Outline/1-3.Secs]
 
 2.Ti=Compensation
 
@@ -16,7 +28,24 @@ Ti=CONSULTING AGREEMENT
 
 3.Ti=Ownership of Work Product
 
-3.sec=Consultant agrees that any and all Work Product shall be the sole and exclusive property of Client. Consultant hereby irrevocably assigns to Client all right, title and interest worldwide in and to any deliverables specified in a Project Assignment (“Deliverables”), and to any ideas, concepts, processes, discoveries, developments, formulae, information, materials, improvements, designs, artwork, content, software programs, other copyrightable works, and any other work product created, conceived or developed by Consultant (whether alone or jointly with others) for Client during or before the term of this Agreement, including all copyrights, patents, trademarks, trade secrets, and other intellectual property rights therein (the “Work Product”).  Consultant retains no rights to use the Work Product and agrees not to challenge the validity of Client’s ownership of the Work Product. Consultant agrees to execute, at Client’s request and expense, all documents and other instruments necessary or desirable to confirm such assignment, including without limitation, the copyright assignment set forth as EXHIBIT B (“Assignment of Copyright”) and the patent assignment set forth as EXHIBIT C (“Assignment of Patent Application”).  In the event that Consultant does not, for any reason, execute such documents within a reasonable time after Client’s request, Consultant hereby irrevocably appoints Client as Consultant’s attorney-in-fact for the purpose of executing such documents on Consultant’s behalf, which appointment is coupled with an interest. Consultant will deliver any Deliverables in accordance with the applicable Project Assignment and disclose promptly in writing to Company all other Work Product. 
+3.1.Ti=Work Product Becomes Property of Client
+
+3.1.sec=Consultant agrees that any and all Work Product shall be the sole and exclusive property of Client.
+
+3.2.Ti=Consultant Assigns Work Product
+
+3.2.sec=Consultant hereby irrevocably assigns to Client all right, title and interest worldwide in and to any deliverables specified in a Project Assignment (“Deliverables”), and to any ideas, concepts, processes, discoveries, developments, formulae, information, materials, improvements, designs, artwork, content, software programs, other copyrightable works, and any other work product created, conceived or developed by Consultant (whether alone or jointly with others) for Client during or before the term of this Agreement, including all copyrights, patents, trademarks, trade secrets, and other intellectual property rights therein (the “Work Product”).  Consultant retains no rights to use the Work Product and agrees not to challenge the validity of Client’s ownership of the Work Product. 
+
+3.3.Ti=Execute Documents
+
+3.3.sec=Consultant agrees to execute, at Client’s request and expense, all documents and other instruments necessary or desirable to confirm such assignment, including without limitation, the copyright assignment set forth as EXHIBIT B (“Assignment of Copyright”) and the patent assignment set forth as EXHIBIT C (“Assignment of Patent Application”).
+
+3.4.Ti=Attorney-in-Fact
+
+3.4.sec=In the event that Consultant does not, for any reason, execute such documents within a reasonable time after Client’s request, Consultant hereby irrevocably appoints Client as Consultant’s attorney-in-fact for the purpose of executing such documents on Consultant’s behalf, which appointment is coupled with an interest. Consultant will deliver any Deliverables in accordance with the applicable Project Assignment and disclose promptly in writing to Company all other Work Product. 
+
+
+3.=[01/Agt/Bit/Outline/1-4.Secs]
 
 4.Ti=Other Rights
 
@@ -24,7 +53,26 @@ Ti=CONSULTING AGREEMENT
 
 5.Ti=License to Preexisting IP
 
-5.sec=Consultant agrees not to use or incorporate into Work Product any intellectual property developed by any third party or by Consultant other than in the course of performing services for Client (“Preexisting IP”). In the event Consultant uses or incorporates Preexisting IP into Work Product, Consultant hereby grants to Client a non-exclusive, perpetual, fully-paid and royalty-free, irrevocable and worldwide right, with the right to sublicense through multiple levels of sublicensees, to use, reproduce, distribute, create derivative works of, publicly perform and publicly display in any medium or format, whether now known of later developed, such Preexisting IP incorporated or used in Work Product.  However, in no event will Consultant incorporate into the Work Product any software code licensed under the GNU GPL or LGPL or any similar “open source” license.  Consultant represents and warrants that Consultant has an unqualified right to license to Client all Preexisting IP as provided in this section.
+5.1.Ti=No Use of Preexisting IP
+
+5.1.sec=Consultant agrees not to use or incorporate into Work Product any intellectual property developed by any third party or by Consultant other than in the course of performing services for Client (“Preexisting IP”).
+
+5.2.Ti=License for Preexisting IP
+
+5.2.sec=In the event Consultant uses or incorporates Preexisting IP into Work Product, Consultant hereby grants to Client a {P2.PreexistingIP.License.Grant.Type}, to use, reproduce, distribute, create derivative works of, publicly perform and publicly display in any medium or format, whether now known of later developed, such Preexisting IP incorporated or used in Work Product.
+
+5.3.Ti=No Open Source Code
+
+5.3.sec=However, in no event will Consultant incorporate into the Work Product any software code licensed under the GNU GPL or LGPL or any similar “open source” license.
+
+5.4.Ti=Right to License Preexisting IP
+
+5.4.sec=Consultant represents and warrants that Consultant has an unqualified right to license to Client all Preexisting IP as provided in this section.
+
+P2.PreexistingIP.License.Grant.Type=non-exclusive, perpetual, fully-paid and royalty-free, irrevocable and worldwide right, with the right to sublicense through multiple levels of sublicensees
+
+5.=[01/Agt/Bit/Outline/1-4.Secs]
+
 
 6.Ti=Representations and Warranties
 
@@ -53,7 +101,16 @@ Ti=CONSULTING AGREEMENT
   
 7.Ti=Independent Contractor Relationship
 
-7.sec=Consultant’s relationship with Client is that of an independent contractor, and nothing in this Agreement is intended to, or should be construed to, create a partnership, agency, joint venture or employment relationship between Client and any of Consultant’s employees or agents.   Consultant is not authorized to make any representation, contract or commitment on behalf of Client.   Consultant (if Consultant is an individual) and Consultant’s employees will not be entitled to any of the benefits that Client may make available to its employees, including, but not limited to, group health or life insurance, profit-sharing or retirement benefits.  Because Consultant is an independent contractor, Client will not withhold or make payments for social security, make unemployment insurance or disability insurance contributions, or obtain workers’ compensation insurance on behalf of Consultant. Consultant is solely responsible for, and will file, on a timely basis, all tax returns and payments required to be filed with, or made to, any federal, state or local tax authority with respect to the performance of Services and receipt of fees under this Agreement.  Consultant is solely responsible for, and must maintain adequate records of, expenses incurred in the course of performing Services under this Agreement.  No part of Consultant’s compensation will be subject to withholding by Client for the payment of any social security, federal, state or any other employee payroll taxes.  Client will regularly report amounts paid to Consultant by filing Form 1099-MISC with the Internal Revenue Service as required by law.  If, notwithstanding the foregoing, Consultant is reclassified as an employee of Client, or any affiliate of Client, by the U.S. Internal Revenue Service, the U.S. Department of Labor, or any other federal or state or foreign agency as the result of any administrative or judicial proceeding, Consultant agrees that Consultant will not, as the result of such reclassification, be entitled to or eligible for, on either a prospective or retrospective basis, any employee benefits under any plans or programs established or maintained by Client.
+7.1.Ti=Not an Agent 
+
+7.1.sec=Consultant’s relationship with Client is that of an independent contractor, and nothing in this Agreement is intended to, or should be construed to, create a partnership, agency, joint venture or employment relationship between Client and any of Consultant’s employees or agents.   Consultant is not authorized to make any representation, contract or commitment on behalf of Client.
+
+7.2.Ti=Not an Employee
+
+7.2.sec=Consultant (if Consultant is an individual) and Consultant’s employees will not be entitled to any of the benefits that Client may make available to its employees, including, but not limited to, group health or life insurance, profit-sharing or retirement benefits.  Because Consultant is an independent contractor, Client will not withhold or make payments for social security, make unemployment insurance or disability insurance contributions, or obtain workers’ compensation insurance on behalf of Consultant. Consultant is solely responsible for, and will file, on a timely basis, all tax returns and payments required to be filed with, or made to, any federal, state or local tax authority with respect to the performance of Services and receipt of fees under this Agreement.  Consultant is solely responsible for, and must maintain adequate records of, expenses incurred in the course of performing Services under this Agreement.  No part of Consultant’s compensation will be subject to withholding by Client for the payment of any social security, federal, state or any other employee payroll taxes.  Client will regularly report amounts paid to Consultant by filing Form 1099-MISC with the Internal Revenue Service as required by law.  If, notwithstanding the foregoing, Consultant is reclassified as an employee of Client, or any affiliate of Client, by the U.S. Internal Revenue Service, the U.S. Department of Labor, or any other federal or state or foreign agency as the result of any administrative or judicial proceeding, Consultant agrees that Consultant will not, as the result of such reclassification, be entitled to or eligible for, on either a prospective or retrospective basis, any employee benefits under any plans or programs established or maintained by Client.
+
+7.=[01/Agt/Bit/Outline/1-2.Secs]
+
 
 8.Ti=Confidential Information
 
@@ -140,7 +197,20 @@ Ti=CONSULTING AGREEMENT
 
 14.Ti=Notices
 
-14.sec=Any notice required or permitted by this Agreement shall be in writing and shall be delivered as follows with notice deemed given as indicated:  (i) by personal delivery when delivered personally; (ii) by overnight courier upon written verification of receipt; (iii) by telecopy or facsimile transmission upon acknowledgment of receipt of electronic transmission; or (iv) by certified or registered mail, return receipt requested, upon verification of receipt.  Notice shall be sent to the addresses set forth below or such other address as either party may specify in writing.
+14.sec=Any notice required or permitted by this Agreement shall be in writing and shall be delivered as follows with notice deemed given as indicated:
+
+14.1.Sec=by personal delivery when delivered personally;
+
+14.2.Sec=by overnight courier upon written verification of receipt;
+
+14.3.Sec=by telecopy or facsimile transmission upon acknowledgment of receipt of electronic transmission; or
+
+14.4.Sec=by certified or registered mail, return receipt requested, upon verification of receipt.  
+
+14.90.Sec=Notice shall be sent to the addresses set forth below or such other address as either party may specify in writing.
+
+14.=[01/Agt/Bit/Outline/1-4.Secs]
+
 
 15.Ti=Governing Law
 

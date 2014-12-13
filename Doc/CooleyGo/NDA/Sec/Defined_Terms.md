@@ -20,6 +20,12 @@ Parties={d-}Parties{-d}
 
 Party={d-}Party{-d}
 
+Each_Party=Each {d-}Party{-d}
+
+each_Party=each {d-}Party{-d}
+
+Neither_Party=Neither {d-}Party{-d}
+
 the_other_Party=the other {d-}Party{-d}
 
 Permitted_Use={d-}Permitted Use{-d}
