@@ -28,15 +28,75 @@ Ti=CONSULTING AGREEMENT
 
 6.Ti=Representations and Warranties
 
-6.sec=Consultant represents and warrants that: (a) the Services shall be performed in a professional manner and in accordance with the industry standards and the Work Product shall comply with the requirements set forth in the applicable Project Assignment, (b) Work Product will be an original work of Consultant, (c) Consultant has the right and unrestricted ability to assign the ownership of Work Product to Client as set forth in Section 3 (including without limitation the right to assign the ownership of any Work Product created by Consultant’s employees or contractors), (d) the Work Product nor any element thereof will infringe upon or misappropriate any copyright, patent, trademark, trade secret, right of publicity or privacy, or any other proprietary right of any person, whether contractual, statutory or common law,  (e) Consultant has an unqualified right to grant to Client the license to Preexisting IP set forth in Section 5, and (f) Consultant will comply with all applicable federal, state, local and foreign laws governing self-employed individuals, including laws requiring the payment of taxes, such as income and employment taxes, and social security, disability, and other contributions.  Consultant agrees to indemnify and hold Client harmless from any and all damages, costs, claims, expenses or other liability (including reasonable attorneys’ fees) arising from or relating to the breach or alleged breach by Consultant of the representations and warranties set forth in this Section 6.
+6.1.0.Sec=Consultant represents and warrants that:
 
+6.1.1.Sec=the Services shall be performed in a professional manner and in accordance with the industry standards and the Work Product shall comply with the requirements set forth in the applicable Project Assignment,
+
+6.1.2.Sec=Work Product will be an original work of Consultant,
+
+6.1.3.Sec=Consultant has the right and unrestricted ability to assign the ownership of Work Product to Client as set forth in Section 3 (including without limitation the right to assign the ownership of any Work Product created by Consultant’s employees or contractors),
+
+6.1.4.Sec=the Work Product nor any element thereof will infringe upon or misappropriate any copyright, patent, trademark, trade secret, right of publicity or privacy, or any other proprietary right of any person, whether contractual, statutory or common law,
+
+6.1.5.Sec=Consultant has an unqualified right to grant to Client the license to Preexisting IP set forth in Section 5, and
+
+6.1.6.Sec=Consultant will comply with all applicable federal, state, local and foreign laws governing self-employed individuals, including laws requiring the payment of taxes, such as income and employment taxes, and social security, disability, and other contributions.
+
+6.2.Sec=Consultant agrees to indemnify and hold Client harmless from any and all damages, costs, claims, expenses or other liability (including reasonable attorneys’ fees) arising from or relating to the breach or alleged breach by Consultant of the representations and warranties set forth in this Section 6.
+
+/Note=this can be improved
+
+6.Sec=<b>{6.Ti}</b><br>{6.1.0-sec} {6.2.Sec}
+
+
+6.1.=[01/Agt/Bit/Outline/1-6.Secs]
+  
 7.Ti=Independent Contractor Relationship
 
 7.sec=Consultant’s relationship with Client is that of an independent contractor, and nothing in this Agreement is intended to, or should be construed to, create a partnership, agency, joint venture or employment relationship between Client and any of Consultant’s employees or agents.   Consultant is not authorized to make any representation, contract or commitment on behalf of Client.   Consultant (if Consultant is an individual) and Consultant’s employees will not be entitled to any of the benefits that Client may make available to its employees, including, but not limited to, group health or life insurance, profit-sharing or retirement benefits.  Because Consultant is an independent contractor, Client will not withhold or make payments for social security, make unemployment insurance or disability insurance contributions, or obtain workers’ compensation insurance on behalf of Consultant. Consultant is solely responsible for, and will file, on a timely basis, all tax returns and payments required to be filed with, or made to, any federal, state or local tax authority with respect to the performance of Services and receipt of fees under this Agreement.  Consultant is solely responsible for, and must maintain adequate records of, expenses incurred in the course of performing Services under this Agreement.  No part of Consultant’s compensation will be subject to withholding by Client for the payment of any social security, federal, state or any other employee payroll taxes.  Client will regularly report amounts paid to Consultant by filing Form 1099-MISC with the Internal Revenue Service as required by law.  If, notwithstanding the foregoing, Consultant is reclassified as an employee of Client, or any affiliate of Client, by the U.S. Internal Revenue Service, the U.S. Department of Labor, or any other federal or state or foreign agency as the result of any administrative or judicial proceeding, Consultant agrees that Consultant will not, as the result of such reclassification, be entitled to or eligible for, on either a prospective or retrospective basis, any employee benefits under any plans or programs established or maintained by Client.
 
 8.Ti=Confidential Information
 
-8.sec=Consultant agrees that during the term of this Agreement and thereafter it will not use or permit the use of Client’s Confidential Information in any manner or for any purpose not expressly set forth in this Agreement, will hold such Confidential Information in confidence and protect it from unauthorized use and disclosure, and will not disclose such Confidential Information to any third parties except as set forth in Section 9 below.  “Confidential Information” as used in this Agreement shall mean all information disclosed by Client to Consultant, whether during or before the term of this Agreement, that is not generally known in the Client’s trade or industry and shall include, without limitation:  (a) concepts and ideas relating to the development and distribution of content in any medium or to the current, future and proposed products or services of Client or its subsidiaries or affiliates; (b) trade secrets, drawings, inventions, know-how, software programs, and software source documents; (c) information regarding plans for research, development, new service offerings or products, marketing and selling, business plans, business forecasts, budgets and unpublished financial statements, licenses and distribution arrangements, prices and costs, suppliers and customers; (d) existence of any business discussions, negotiations or agreements between the parties; and (e) any information regarding the skills and compensation of employees, contractors or other agents of Client or its subsidiaries or affiliates.  Confidential Information also includes proprietary or confidential information of any third party who may disclose such information to Client or Consultant in the course of Client’s business.  Confidential Information does not include information that (x) is or becomes a part of the public domain through no act or omission of Consultant, (y) is disclosed to Consultant by a third party without restrictions on disclosure, or (z) was in Consultant’s lawful possession prior to the disclosure and was not obtained by Consultant either directly or indirectly from Client.  In addition, this section will not be construed to prohibit disclosure of Confidential Information to the extent that such disclosure is required by law or valid order of a court or other governmental authority; provided, however, that Consultant shall first have given notice to Client and shall have made a reasonable effort to obtain a protective order requiring that the Confidential Information so disclosed be used only for the purposes for which the order was issued.  All Confidential Information furnished to Consultant by Client is the sole and exclusive property of Client or its suppliers or customers.  Upon request by Client, Consultant agrees to promptly deliver to Client the original and any copies of the Confidential Information.  
+8.1.Ti=Engagement
+
+8.1.sec=Consultant agrees that during the term of this Agreement and thereafter it will not use or permit the use of Client’s Confidential Information in any manner or for any purpose not expressly set forth in this Agreement, will hold such Confidential Information in confidence and protect it from unauthorized use and disclosure, and will not disclose such Confidential Information to any third parties except as set forth in Section 9 below.  
+
+8.2.Ti=Definition
+
+8.2.0.Sec=“Confidential Information” as used in this Agreement shall mean all information disclosed by Client to Consultant, whether during or before the term of this Agreement, that is not generally known in the Client’s trade or industry and shall include, without limitation:
+
+8.2.1.Sec=concepts and ideas relating to the development and distribution of content in any medium or to the current, future and proposed products or services of Client or its subsidiaries or affiliates;
+
+8.2.2.Sec=trade secrets, drawings, inventions, know-how, software programs, and software source documents;
+
+8.2.3.Sec=information regarding plans for research, development, new service offerings or products, marketing and selling, business plans, business forecasts, budgets and unpublished financial statements, licenses and distribution arrangements, prices and costs, suppliers and customers;
+
+8.2.4.Sec=existence of any business discussions, negotiations or agreements between the parties; and
+
+8.2.5.Sec=any information regarding the skills and compensation of employees, contractors or other agents of Client or its subsidiaries or affiliates.
+
+8.2.90.Sec=Confidential Information also includes proprietary or confidential information of any third party who may disclose such information to Client or Consultant in the course of Client’s business.
+
+8.2.=[01/Agt/Bit/Outline/1-5.Secs]
+
+
+8.3.Ti=Exceptions
+
+8.3.sec=Confidential Information does not include information that (x) is or becomes a part of the public domain through no act or omission of Consultant, (y) is disclosed to Consultant by a third party without restrictions on disclosure, or (z) was in Consultant’s lawful possession prior to the disclosure and was not obtained by Consultant either directly or indirectly from Client.
+
+8.4.Ti=Compelled Disclosure
+
+8.4.sec=In addition, this section will not be construed to prohibit disclosure of Confidential Information to the extent that such disclosure is required by law or valid order of a court or other governmental authority; provided, however, that Consultant shall first have given notice to Client and shall have made a reasonable effort to obtain a protective order requiring that the Confidential Information so disclosed be used only for the purposes for which the order was issued.
+
+8.5.Ti=Ownership
+
+8.5.sec=All Confidential Information furnished to Consultant by Client is the sole and exclusive property of Client or its suppliers or customers.
+
+8.6.Ti=Return
+
+8.6.sec=Upon request by Client, Consultant agrees to promptly deliver to Client the original and any copies of the Confidential Information.  
+
+8.=[01/Agt/Bit/Outline/1-6.Secs]
 
 9.Ti=Consultant’s Employees
 
