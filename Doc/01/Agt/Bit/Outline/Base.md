@@ -4,6 +4,8 @@ DocBody={Sec}
 
 Doc=<font color="grey">{MessageToUser}</font><center><h3>{Heading}</h3></center><br>{0-sec} 
 
+Heading={Ti}
+
 Sec=<b>{Ti}</b><br>{0.Sec} {sec} {90.Sec}
 
 0-sec={0.Sec} {sec} {90.Sec}
