@@ -16,81 +16,13 @@ Ti=MASTER SERVICES AGREEMENT
 
 1.=[MassIT/MSA/Sec/Def.md]
 
-2.Ti=PURPOSE; SCOPE.
+2.=[MassIT/MSA/Sec/Scope.md]
 
-2.1.Ti=Overview.
+3.=[MassIT/MSA/Sec/Services.md]
 
-2.1.1.Sec=The purpose of this Agreement is to enable Client, on behalf of the MassHealth program and the Commonwealth Health Insurance Connector Authority (the “Connector”), to achieve the Work Streams as set forth in the recitals of this Agreement. The parties will use good faith efforts to conduct the Project in a manner consistent with the CMS Guide.
+4.Sec=INTENTIONALLY OMITTED
 
-2.1.2.Sec=Each Task Order will be subject to an independent validation and verification process (the “IV&V Process”) during system development and implementation. Client, through a separate procurement, will hire a Third Party Vendor to perform the IV&V Process (the “IV&V Vendor”). The IV&V Vendor shall enter into a confidentiality agreement with Client to protect the confidentiality of Contractor’s Confidential Information as set forth in Section 15.1(b). Throughout the lifecycle of each Task Order, Contractor will be required to provide documentation and to meet with the Project management team and the IV&V Vendor to review the Project progress.
-
-2.1.3.Sec=In Client’s discretion, including without limitation as a result of an IV&V Process described in the foregoing paragraph, Client may at any time during the Term initiate a procurement process to seek bids from other vendors for services provided by Contractor hereunder and that Contractor will be required to provide documentation and other information relating to the Services to Client and such bidders in connection with the procurement process (in which Contractor may be a participant); provided, however, that Contractor shall not be required to disclose Confidential Information that is not a public record as defined under Mass. Gen. Laws c. 4 § 7 cl. 26. Any such bidder shall enter into a confidentiality agreement with Client containing substantially similar terms as the confidentiality provisions set forth in Section 15 of this Agreement.
-
-2.1.=[01/Agt/Bit/Outline/1-3.Secs]
-
-2.2.Ti=Project Plan
-
-2.2.sec=The parties acknowledge and agree that this Agreement is intended to apply to certain Services performed prior to the Effective Date, in which case the applicable Services and applicable Deliverables will be specifically identified in the Task Orders. The Project Plan for the overall Project is attached hereto as Exhibit K. In the event of any conflict between a Task Order and the Project Plan, the Task Order shall take precedence.
-
-2.3.Ti=Compensation and Performance
-
-2.3.sec=This Project includes both FP Work Streams and T&M Work Streams, which will be performed under and governed by separate Task Orders. The basis upon which compensation will be paid by Client to Contractor for the Services performed under a Task Order shall be set forth in each Task Order.
-
-2.3.1.Ti=FP Task Orders
-
-2.3.1.sec=Contractor will perform the Services in accordance with this Agreement and the FP Task Order.17
-
-2.3.2.Ti=T&M Task Orders
-
-2.3.2.sec=Contractor will perform hourly Services up to the Not-ToExceed Price and deliver Project Works in accordance with the T&M Task Order. Unless expressly set forth in the T&M Task Order, Contractor’s performance under a T&M Task Order will not be subject to the following provisions of this Agreement: Section 2.4 (Scope Details, System Requirements and Project Phases), Section 8 (Delivery, Evaluation and Acceptance, Delays and Liquidated Damages), Section 12.6 (Holdback), Section 17.1 (Warranty Support Obligations), Section 18 (Improvements and New Technology), and other Sections of this Agreement that are expressly stated to apply only to FP Task Orders unless otherwise agreed by the parties.
-
-2.3.3.Ti=Hybrid Task Orders
-
-2.3.3.sec=If any work under a FP Task Order is designated as being performed on a T&M basis or performed at the Hourly Rates, only those clauses in this Agreement applicable to T&M Task Orders shall apply to such work. Similarly, if any work under a T&M Task Order is designated as being performed on a FP basis, clauses of this Agreement applicable to FP Task Orders shall apply to such work.
-
-2.4.Ti=Scope Details: System Requirements and Project Phases.
-
-2.4.1.Sec=Unless otherwise expressly set forth in a Task Order, the provisions of this Section 2.4 shall apply only to FP Task Orders.
-
-2.4.2.Sec=Contractor will perform the Services for each System in accordance with such Task Order, including delivering the Deliverables set forth in the Task Order.
-
-2.4.3.Sec=If a System requires hosting by Contractor, such details shall be set forth in the Task Order.
-
-2.4.4.Sec=Unless otherwise expressly set forth in a Task Order; (i) Contractor will use a phased/modular implementation approach to the development of each System to be delivered, with each implementation phase supporting a particular function and/or adding to functionality developed in a previous phase; and (ii) Contractor must identify “quick hit” functionality(ies) to show progress towards goals, and with regard to New HIX/IES, with an implemented solution available by the Mandatory Go Live Date for a System.
-
-2.4.5.Sec=Detailed Requirements for a System will be set forth in the respective Task Order.
-
-2.4.6.Sec=Contractor shall maintain and update a Bug List for each System throughout the Term of each respective Task Order and make the then-current Bug List for each System available to Client upon Client’s request during the Term of each respective Task Order.
-
-2.4.=[01/Agt/Bit/Outline/1-6.Secs]
-
-2.=[01/Agt/Bit/Outline/1-4.Secs]
-
-=[01/Agt/Bit/Outline/1-2.Secs]
-
-3. APPOINTMENT; SCOPE OF SERVICES.18
-
-3.1 Engagement & Services. Client hereby engages Contractor, and Contractor hereby accepts, the engagement to perform the Services. All the Services are to be provided pursuant to this Agreement, subject to the precedence of terms set forth in Section 3.3.Task Orders.
-
-3.2 Task Orders. The Services to be delivered for each Work Stream shall be set forth in separate Task Orders. The basic format for a FP and a T&M Task Order is set forth in Exhibit A attached hereto. The Parties may mutually agree at a later date to add additional Task Orders to include additional or different functionality, tasks, Deliverables or streams of work including, but not limited, to the development of an MEP and an IES. Task Orders will include, but are not limited to, (a) a schedule of Deliverables, tasks and/or Services that are within the Scope of the Task Order and, as appropriate, a statement of Deliverables, tasks and/or Services that are not within the Scope of the Task Order (performance of such Deliverables, tasks and/or Services will require a mutually agreed upon Change Order) and (b) (i) for FP Task Orders, an exhibit that sets forth the Assumptions for the FP to be paid for the Services and a payment schedule setting forth Deliverable Payments and Critical Milestone Payments and (ii) for T&M Task Orders, a summary of the business, functional and technical specifications that shall guide the Services to be performed, and the maximum number of hours and Hourly Rates to be expended by Contractor in performance of such Services.
-
-3.3 Precedence of Terms. Except as otherwise expressly stated in this Agreement, in the event of a conflict between or among the provisions contained in this Agreement and its related documents, the following order of precedence shall control:
-
-(a) the Commonwealth Terms;
-
-(b) the Standard Contract Form;
-
-(c) this MSA;
-
-(d) Data Management and Confidentiality Agreement;
-
-(e) the Task Orders; and
-
-(f) the Exhibits (other than the Task Orders and the Data Management and Confidentiality Agreement).
-
-Contractor has signed or will contemporaneously with this Agreement sign the Commonwealth Terms and the Standard Contract Form.
-
-4. [INTENTIONALLY OMITTED].
+=[01/Agt/Bit/Outline/1-4.Secs]
 
 5. GOVERNANCE.
 
