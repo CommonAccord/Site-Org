@@ -1,4 +1,4 @@
-=[me/Boston/Form/Inquiry/Form.md]
+=[Boston/Form/Inquiry/Form.md]
 
 
 Client.=[core/id/abigail_altima]

@@ -5,7 +5,7 @@ Addr.City=Boston
 
 Name.Full=City of Boston
 
-Seal=<img src="http://commonaccord.org/Doc/me/Boston/ID/BostonSeal.png" alt="City of Boston Seal" {Seal.Style} style="width:228px;height:228px">
+Seal=<img src="http://commonaccord.org/Doc/Boston/ID/BostonSeal.png" alt="City of Boston Seal" {Seal.Style} style="width:228px;height:228px">
 
 Seal.Style=style="width:{Seal.Size}px;height:{Seal.Size}px"
 Seal.Size=100

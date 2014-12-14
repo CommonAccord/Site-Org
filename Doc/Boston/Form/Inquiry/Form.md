@@ -17,12 +17,12 @@ Project.Sec=<b>Project:</b><ul><li><b>Name:</b> {Project.Name}</li><li><b>Sector
 Project.Sector=<b>Choose .. e.g., {Project.Sector.3 }</b> {Project.Sector } {Sector.List}
 Note/Sectors=List of valid sectors
 
-Sector.=[/me/Boston/List/Sector.md]
+Sector.=[/Boston/List/Sector.md]
 
 Project.Neighborhood=<b>Choose .. e.g., {Neighborhood.Sector.3 }</b> {Neighborhood.Sector } {Neighborhood.List}
-Neighborhood.=[/me/Boston/List/Neighborhood.md]
+Neighborhood.=[/Boston/List/Neighborhood.md]
 Project.Assistance=<b>Choose .. e.g., {Assistance.Sector.3 }</b> {Assistance.Sector } {Assistance.List}
-Assistance.=[/me/Boston/List/Assistance.md]
+Assistance.=[/Boston/List/Assistance.md]
 
 
 mcolor=magenta

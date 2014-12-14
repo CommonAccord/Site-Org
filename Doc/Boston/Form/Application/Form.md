@@ -1,6 +1,6 @@
-=[me/Boston/Form/Intake/Form.md]
+=[Boston/Form/Intake/Form.md]
 
-P1.=[me/Boston/ID/City_Of_Boston_DND]
+P1.=[Boston/ID/City_Of_Boston_DND]
 
 Head={P1.City.Seal}<br>{P1.City/Dept/Office}<br>{Ti}
 

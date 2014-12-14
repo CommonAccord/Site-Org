@@ -1,4 +1,4 @@
-Note/Automated=http://commonaccord.org/index.php?action=source&file=./me/Boston/Form/PrivacyPolicy/Form_V01
+Note/Automated=http://commonaccord.org/index.php?action=source&file=./Boston/Form/PrivacyPolicy/Form_V01
 
 Ti=Privacy and Security Policies
 

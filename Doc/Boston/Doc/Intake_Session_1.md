@@ -1,5 +1,5 @@
-=[me/Boston/Form/Intake/Form.md]
-=[me/Boston/Doc/Inquiry.md]
+=[Boston/Form/Intake/Form.md]
+=[Boston/Doc/Inquiry.md]
 Session.Author.=[core/id/andrea_ang]
 Project.=[core/id/abigail_altima]
 Project.Billing.=[core/id/abigail_altima]
