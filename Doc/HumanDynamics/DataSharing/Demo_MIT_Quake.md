@@ -4,7 +4,7 @@ P2.Handle={n-}Quake{-n}
 
 P2.=[core/id/quake_incorporated]
 
-=[01/Agt/Type/DataSharing/Demo_MIT_Acme.md]
+=[HumanDynamics/DataSharing/Demo_MIT_Acme.md]
 
 1.1.List=(i) {1.1.1.Sec} (ii) {1.1.2.Sec}; or (iii) {m-}{1.1.3.Sec}{-m}.
 

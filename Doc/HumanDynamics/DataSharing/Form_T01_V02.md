@@ -128,7 +128,7 @@ Note/0.1.Sec=The word "Data" is stated in uppercase, but not defined and not oth
 
 12.sec=Any notices to be given under this Agreement, other than those contemplated by Section 1, must be in writing and addressed to the parties at the addresses shown below or to such other address as a party may substitute by notice to the other.  Notices shall be delivered personally, by certified or registered first class mail (air mail if not domestic), by commercial courier service or by email, including a pdf image delivered by email, and shall be deemed to have been given or made as of the date received. <ol><li>{P1.Notice.Block}<li>{P2.Notice.Block}</ol>
 
-13.=[01/Agt/Type/DataSharing/MIT_Sec_Misc.md]
+13.=[HumanDynamics/DataSharing/MIT_Sec_Misc.md]
 
 90.Sec={90.1.Sec}<br>{Sign.Block}
 
