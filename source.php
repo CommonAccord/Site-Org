@@ -28,6 +28,20 @@ echo "
     <li><a href="#tab-source">Source</a></li>
     <li><a href="#tab-edit">Edit</a></li>
     </ul>
+
+<div id="tab-render">
+<?php
+	echo `perl parser2.pl $path/$dir`;
+	#system("perl parser2.pl $path/$dir  > $path/Output999.html");
+	#echo file_get_contents("Output999.html", FILE_USE_INCLUDE_PATH);
+
+
+
+?>
+</div>
+
+
+
 <div id="tab-source">
 
 
@@ -56,17 +70,6 @@ foreach($contents as $n) {
 ?>
 </table>
 
-</div>
-
-<div id="tab-render">
-<?php
-	echo `perl parser2.pl $path/$dir`;
-	#system("perl parser2.pl $path/$dir  > $path/Output999.html");
-	#echo file_get_contents("Output999.html", FILE_USE_INCLUDE_PATH);
-
-
-
-?>
 </div>
 
 <div id="tab-edit">
