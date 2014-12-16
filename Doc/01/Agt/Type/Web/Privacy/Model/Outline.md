@@ -12,11 +12,10 @@ Ti=Outline of Issues for Privacy and Terms of Use
 
 6.Ti=Kinds of Users
 
-7.Ti=Changes to Terms or Service
+7.Ti=Changes to Service or Terms
 
 8.Ti=Disputes
 
 9.Ti=Government Access or Action
 
 =[01/Agt/Bit/Outline/1-9.Secs]
-
