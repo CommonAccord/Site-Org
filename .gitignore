@@ -3,3 +3,6 @@
 newlogs
 
 Doc/zed/
+logs/
+.project
+.settings/
