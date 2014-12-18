@@ -1,4 +1,4 @@
-=[NDA/Model/Sec/Defined_Terms.md]
+=[02/NDA/Sec/Defined_Terms.md]
 
 Ti=Mutual Non-Disclosure Agreement
 
