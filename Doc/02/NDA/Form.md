@@ -79,10 +79,8 @@ Neither_Receiving_Party_will=Neither {Receiving_Party} will
 
 10.sec=<span style="text-transform: uppercase">{The_Disclosing_Party} IS PROVIDING CONFIDENTIAL INFORMATION ON AN “AS IS” BASIS FOR USE BY {the_Receiving_Party} AT ITS OWN RISK. {The_Disclosing_Party} DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTIES OF TITLE, NON-INFRINGEMENT OF THIRD PARTY RIGHTS, MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE.</span>
 
+11.=[02/Sec/Dispute/USCourt/Library.md]
 
-11.Ti=Disputes
-
-11.sec={This_Agreement} and any action related thereto will be governed, controlled, interpreted, and defined by and under the laws of {Law.State.the}, without giving effect to any conflicts of laws principles that require the application of the law of a different state. Any disputes under {this_Agreement} may be brought in the state courts and the Federal courts for the county in which {P1.Handle}’s principal place of business is located, and the parties hereby consent to the personal jurisdiction and exclusive venue of these courts. {This_Agreement} may not be amended except by a writing signed by both parties.
 
 Law.State.the=State of Delaware
 
@@ -100,7 +98,7 @@ Law.State.the=State of Delaware
 
 13.sec=If any provision of {this_Agreement} is found by a proper authority to be unenforceable or invalid, such unenforceability or invalidity will not render {this_Agreement} unenforceable or invalid as a whole and, in such event, such provision will be changed and interpreted so as to best accomplish the objectives of such unenforceable or invalid provision within the limits of applicable law or applicable court decisions. Any waiver or failure to enforce any provision of {this_Agreement} on one occasion will not be deemed a waiver of any other provision or of such provision on any other occasion.
 
-15.Ti=Representation Against Violation of Third-Party Intellectual Property Rights 
+14.Ti=Representation Against Violation of Third-Party Intellectual Property Rights 
 
 14.sec=Neither {Party} will communicate any information to the other {Party} in violation of the proprietary rights of any third party.
 
@@ -127,9 +125,7 @@ Law.State.the=State of Delaware
 
 18.sec={Each_Party} agrees that the software programs of {the_other_Party} contain valuable confidential information and {each_Party} agrees that it will not modify, reverse engineer, decompile, create other works from, or disassemble any software programs contained in the {Confidential_Information_of_the_Disclosing_Party} without the prior written consent of {the_other_Party}.
 
-19.Ti=Entire Agreement
-
-19.sec={This_Agreement} is the final, complete and exclusive agreement of the {Parties} with respect to the subject matters hereof and supersedes and merges all prior discussions between the {Parties} with respect to such matters. No modification of or amendment to {this_Agreement} will be effective unless in writing and signed by the {Party} to be charged.
+19.=[02/Sec/Misc/Entire/Library.md]
 
 90.Sec={90.1.Sec}<br>{Sign.Block}
 
