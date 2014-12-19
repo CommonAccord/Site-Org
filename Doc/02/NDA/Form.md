@@ -1,5 +1,3 @@
-=[02/NDA/Sec/Defined_Terms.md]
-
 Ti=Mutual Non-Disclosure Agreement
 
 0.Sec=THIS {Ti} (this “{Agreement}”) is entered into between {P1.N,E,A} (“{P1.Handle}”) and {P2.N,E,A} (“{P2.Handle}”) as of {Agt.Effective.YMD} (the “Effective Date”), to protect the confidentiality of certain confidential information of {P1.Handle} or of {P2.Handle} to be disclosed under {this_Agreement} solely for use in evaluating or pursuing a business relationship between the parties (the “{Permitted_Use}”). {P1.Handle} and {P2.Handle} may be referred to herein individually as a “{Party}” and collectively as the “{Parties}.”
@@ -94,9 +92,7 @@ Law.State.the=State of Delaware
 
 12.sec=Each {Party} acknowledges that its breach of {this_Agreement} may cause irreparable damage to the other {Party} and hereby agrees that the other {Party} will be entitled to seek injunctive relief under {this_Agreement}, as well as such further relief as may be granted by a court of competent jurisdiction.
 
-13.Ti=Interpretation to Make Valid
-
-13.sec=If any provision of {this_Agreement} is found by a proper authority to be unenforceable or invalid, such unenforceability or invalidity will not render {this_Agreement} unenforceable or invalid as a whole and, in such event, such provision will be changed and interpreted so as to best accomplish the objectives of such unenforceable or invalid provision within the limits of applicable law or applicable court decisions. Any waiver or failure to enforce any provision of {this_Agreement} on one occasion will not be deemed a waiver of any other provision or of such provision on any other occasion.
+13.=[02/Sec/Misc/Sever/Library.md]
 
 14.Ti=Representation Against Violation of Third-Party Intellectual Property Rights 
 
@@ -127,6 +123,8 @@ Law.State.the=State of Delaware
 
 19.=[02/Sec/Misc/Entire/Library.md]
 
+20.=[02/Sec/Misc/Waive/Library.md]
+
 90.Sec={90.1.Sec}<br>{Sign.Block}
 
 90.1.Sec=The parties have executed this {Ti} as of {the_Effective_Date}.
@@ -134,4 +132,6 @@ Law.State.the=State of Delaware
 Sign.Block=<table><tr><td valign="top">{P1.Sign.Block}</td><td>   <td valign="top">{P2.Sign.Block}</td></tr></table>
 DocBody={Doc}
 
-=[01/Agt/Bit/Outline/1-19.Secs]
+=[01/Agt/Bit/Outline/1-20.Secs]
+
+=[02/NDA/Sec/Defined_Terms.md]
