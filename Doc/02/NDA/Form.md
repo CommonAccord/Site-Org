@@ -10,11 +10,19 @@ Ti=Mutual Non-Disclosure Agreement
 
 1.2.sec=trade secrets;
 
-1.3.sec=proprietary and confidential information, ideas, techniques, sketches, drawings, works of authorship, models, inventions, know-how, processes, apparatuses, equipment, algorithms, software programs, software source documents, and formulae related to the current, future, and proposed products and services of {the_Disclosing_Party}, including without limitation {the_Disclosing_Party}’s information concerning research, experimental work, development, design details and specifications, engineering, financial information, procurement requirements, purchasing, manufacturing, customer lists, investors, employees, business and contractual relationships, business forecasts, sales and merchandising, and marketing plans and information {the_Disclosing_Party} provides regarding third parties; and
+1.3.sec={infoTypes} related to {DPservices} of {the_Disclosing_Party}, including without limitation {the_Disclosing_Party}’s information concerning {infoExamples};
 
-1.4.sec=all other information that {the_Receiving_Party} knew, or reasonably should have known, was the {Confidential_Information_of_the_Disclosing_Party}.
+infoTypes=proprietary and confidential information, ideas, techniques, sketches, drawings, works of authorship, models, inventions, know-how, processes, apparatuses, equipment, algorithms, software programs, software source documents, and formulae
 
-1.=[01/Agt/Bit/_secs/04]
+DPservices=the current, future, and proposed products and services
+
+infoExamples=research, experimental work, development, design details and specifications, engineering, financial information, procurement requirements, purchasing, manufacturing, customer lists, investors, employees, business and contractual relationships, business forecasts, sales and merchandising, and marketing plans
+
+1.4.sec=information {the_Disclosing_Party} provides regarding third parties; and
+
+1.5.sec=all other information that {the_Receiving_Party} knew, or reasonably should have known, was the {Confidential_Information_of_the_Disclosing_Party}.
+
+1.=[01/Agt/Bit/_secs/05]
 
 /Note=changed "uses to protect its own Confidential Information"?  to make it lower case.  Capitalized, might it be construed to mean the info it gives to the other party?  What if it gives unimportant info
 
