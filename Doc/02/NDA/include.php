@@ -1,1 +1,1 @@
-This NDA originates in Cooley GO.  Let us expand it and make it the only NDA you'll ever have to read. 
+This NDA originates in Cooley GO.  Let us expand it and make it the only NDA you'll ever have to read. Overview at <a href="https://github.com/CommonAccord/Org/wiki/Jam%3A-NDA">GitHub/wiki/Jam: NDA</a>

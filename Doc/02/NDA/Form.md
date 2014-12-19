@@ -2,7 +2,7 @@ Ti=Mutual Non-Disclosure Agreement
 
 0.Sec=THIS {Ti} (this “{Agreement}”) is entered into between {P1.N,E,A} (“{P1.Handle}”) and {P2.N,E,A} (“{P2.Handle}”) as of {Agt.Effective.YMD} (the “Effective Date”), to protect the confidentiality of certain confidential information of {P1.Handle} or of {P2.Handle} to be disclosed under {this_Agreement} solely for use in evaluating or pursuing a business relationship between the parties (the “{Permitted_Use}”). {P1.Handle} and {P2.Handle} may be referred to herein individually as a “{Party}” and collectively as the “{Parties}.”
 
-1.Ti=Definitions
+1.Ti=Definition
 
 1.0.Sec=As used herein, the “{Confidential_Information}” of a {Party} will mean any and all technical and non-technical information disclosed by such {Party} (the “{Disclosing_Party}”) to the other {Party} (the “{Receiving_Party}”), including without limitation information regarding: 
 
@@ -19,10 +19,28 @@ Ti=Mutual Non-Disclosure Agreement
 /Note=changed "uses to protect its own Confidential Information"?  to make it lower case.  Capitalized, might it be construed to mean the info it gives to the other party?  What if it gives unimportant info
 
 2.Ti=Engagement
- 
-2.sec=Subject to Section 3, {the_Receiving_Party} agrees that at all times and notwithstanding any termination or expiration of {this_Agreement} it will hold in strict confidence and not disclose to any third party any {Confidential_Information_of_the_Disclosing_Party}, except as approved in writing by {the_Disclosing_Party}, and will use the {Confidential_Information_of_the_Disclosing_Party} for no purpose other than the {Permitted_Use}. {The_Receiving_Party} will also protect such {Confidential_Information} with at least the same degree of care that {the_Receiving_Party} uses to protect its own confidential information, but in no case, less than reasonable care. {The_Receiving_Party} will limit access to the {Confidential_Information_of_the_Disclosing_Party} to only those of {the_Receiving_Party}’s employees or authorized representatives having a need to know and who have signed confidentiality agreements containing, or are otherwise bound by, confidentiality obligations at least as restrictive as those contained herein.
 
-3.Ti=Exclusions from Confidentiliaty
+2.1.Ti=Disclosure and Use
+
+2.1.0.sec=Subject to Section {Conf.ExcludeAndExcept.Xnum}, {the_Receiving_Party} agrees that at all times and notwithstanding any termination or expiration of {this_Agreement} it will:
+
+2.1.1.sec=hold in strict confidence and not disclose to any third party any {Confidential_Information_of_the_Disclosing_Party}, except as approved in writing by {the_Disclosing_Party}, and 
+
+2.1.2.sec=will use the {Confidential_Information_of_the_Disclosing_Party} for no purpose other than the {Permitted_Use}. 
+
+2.1.=[01/Agt/Bit/_secs/02]
+
+2.2.Ti=Care
+
+2.2.sec={The_Receiving_Party} will also protect such {Confidential_Information} with at least the same degree of care that {the_Receiving_Party} uses to protect its own confidential information, but in no case, less than reasonable care. 
+
+2.3.Ti=Access
+
+2.3.sec={The_Receiving_Party} will limit access to the {Confidential_Information_of_the_Disclosing_Party} to only those of {the_Receiving_Party}’s employees or authorized representatives having a need to know and who have signed confidentiality agreements containing, or are otherwise bound by, confidentiality obligations at least as restrictive as those contained herein.
+
+2.=[01/Agt/Bit/Outline/1-3.Secs]
+
+3.Ti=Exclusions from Confidentiality
 
 3.0.Sec={The_Receiving_Party} will not have any obligations under {this_Agreement} with respect to a specific portion of the {Confidential_Information_of_the_Disclosing_Party} if {such_Receiving_Party} can demonstrate with competent evidence that such portion of {Confidential_Information}:
 
@@ -57,12 +75,30 @@ Ti=Mutual Non-Disclosure Agreement
 
 7.Ti=Limits
 
-7.sec={Confidential_Information} is and shall remain the sole property of {the_Disclosing_Party}. {The_Receiving_Party} recognizes and agrees that nothing contained in {this_Agreement} will be construed as granting any property rights, by license or otherwise, to any {Confidential_Information_of_the_Disclosing_Party}, or to any invention or any patent, copyright, trademark, or other intellectual property right that has issued or that may issue, based on such {Confidential_Information}. {Neither_Receiving_Party_will} make, have made, use or sell for any purpose any product or other item using, incorporating or derived from any {Confidential_Information_of_the_Disclosing_Party}. Neither {this_Agreement} nor the disclosure of any {Confidential_Information} hereunder shall result in any obligation on the part of either {Party} to enter into any further agreement with the other, license any products or services to the other, or to require either {Party} to disclose any particular {Confidential_Information}. Nothing in {this_Agreement} creates or shall be deemed to create any employment, joint venture, or agency between the {Parties}.
+7.1.Ti=Property of Disclosing Party
+
+7.1.sec={Confidential_Information} is and shall remain the sole property of {the_Disclosing_Party}. 
+
+7.2.Ti=No License
+
+7.2.sec={The_Receiving_Party} recognizes and agrees that nothing contained in {this_Agreement} will be construed as granting any property rights, by license or otherwise, to any {Confidential_Information_of_the_Disclosing_Party}, or to any invention or any patent, copyright, trademark, or other intellectual property right that has issued or that may issue, based on such {Confidential_Information}.
+
+7.3.Ti=No Use
+
+7.3.sec={Neither_Receiving_Party_will} make, have made, use or sell for any purpose any product or other item using, incorporating or derived from any {Confidential_Information_of_the_Disclosing_Party}. 
+
+7.4.Ti=No Agreement to Deal
+
+7.4.sec=Neither {this_Agreement} nor the disclosure of any {Confidential_Information} hereunder shall result in any obligation on the part of either {Party} to enter into any further agreement with the other, license any products or services to the other, or to require either {Party} to disclose any particular {Confidential_Information}. 
+
+7.5.Ti=No Agency
+
+7.5.sec=Nothing in {this_Agreement} creates or shall be deemed to create any employment, joint venture, or agency between the {Parties}.
 
 Neither_Receiving_Party_will=Neither {Receiving_Party} will
 
-/Note=Phrasing in One-Way also differs here,  This seems superior.
-  
+7.=[01/Agt/Bit/Outline/1-5.Secs]
+
 8.Ti=Copying
 
 8.sec={The_Receiving_Party} will not reproduce the {Confidential_Information_of_the_Disclosing_Party} in any form except as required to accomplish the intent of {this_Agreement}. Any reproduction by {a_Receiving_Party} of any {Confidential_Information_of_the_Disclosing_Party} will remain the property of {the_Disclosing_Party} and will contain any and all confidential or proprietary notices or legends that appear on the original, unless otherwise authorized in writing by {the_Disclosing_Party}.
