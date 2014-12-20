@@ -2,67 +2,12 @@ Ti=Mutual Non-Disclosure Agreement
 
 0.Sec=THIS {Ti} (this “{Agreement}”) is entered into between {P1.N,E,A} (“{P1.Handle}”) and {P2.N,E,A} (“{P2.Handle}”) as of {Agt.Effective.YMD} (the “Effective Date”), to protect the confidentiality of certain confidential information of {P1.Handle} or of {P2.Handle} to be disclosed under {this_Agreement} solely for use in evaluating or pursuing a business relationship between the parties (the “{Permitted_Use}”). {P1.Handle} and {P2.Handle} may be referred to herein individually as a “{Party}” and collectively as the “{Parties}.”
 
-1.Ti=Definition
 
-1.0.Sec=As used herein, the “{Confidential_Information}” of a {Party} will mean any and all technical and non-technical information disclosed by such {Party} (the “{Disclosing_Party}”) to the other {Party} (the “{Receiving_Party}”), including without limitation information regarding: 
+1.=[02/Sec/Confidential/Definition/Library.md]
 
-1.1.sec=patent and patent applications;
+2.=[02/Sec/Confidential/Engage/Library.md]
 
-1.2.sec=trade secrets;
-
-1.3.sec={infoTypes} related to {DPservices} of {the_Disclosing_Party}, including without limitation {the_Disclosing_Party}’s information concerning {infoExamples};
-
-infoTypes=proprietary and confidential information, ideas, techniques, sketches, drawings, works of authorship, models, inventions, know-how, processes, apparatuses, equipment, algorithms, software programs, software source documents, and formulae
-
-DPservices=the current, future, and proposed products and services
-
-infoExamples=research, experimental work, development, design details and specifications, engineering, financial information, procurement requirements, purchasing, manufacturing, customer lists, investors, employees, business and contractual relationships, business forecasts, sales and merchandising, and marketing plans
-
-1.4.sec=information {the_Disclosing_Party} provides regarding third parties; and
-
-1.5.sec=all other information that {the_Receiving_Party} knew, or reasonably should have known, was the {Confidential_Information_of_the_Disclosing_Party}.
-
-1.=[01/Agt/Bit/_secs/05]
-
-/Note=changed "uses to protect its own Confidential Information"?  to make it lower case.  Capitalized, might it be construed to mean the info it gives to the other party?  What if it gives unimportant info
-
-2.Ti=Engagement
-
-2.1.Ti=Disclosure and Use
-
-2.1.0.sec=Subject to Section {Conf.ExcludeAndExcept.Xnum}, {the_Receiving_Party} agrees that at all times and notwithstanding any termination or expiration of {this_Agreement} it will:
-
-2.1.1.sec=hold in strict confidence and not disclose to any third party any {Confidential_Information_of_the_Disclosing_Party}, except as approved in writing by {the_Disclosing_Party}, and 
-
-2.1.2.sec=will use the {Confidential_Information_of_the_Disclosing_Party} for no purpose other than the {Permitted_Use}. 
-
-2.1.=[01/Agt/Bit/_secs/02]
-
-2.2.Ti=Care
-
-2.2.sec={The_Receiving_Party} will also protect such {Confidential_Information} with at least the same degree of care that {the_Receiving_Party} uses to protect its own confidential information, but in no case, less than reasonable care. 
-
-2.3.Ti=Access
-
-2.3.sec={The_Receiving_Party} will limit access to the {Confidential_Information_of_the_Disclosing_Party} to only those of {the_Receiving_Party}’s employees or authorized representatives having a need to know and who have signed confidentiality agreements containing, or are otherwise bound by, confidentiality obligations at least as restrictive as those contained herein.
-
-2.=[01/Agt/Bit/Outline/1-3.Secs]
-
-3.Ti=Exclusions from Confidentiality
-
-3.0.Sec={The_Receiving_Party} will not have any obligations under {this_Agreement} with respect to a specific portion of the {Confidential_Information_of_the_Disclosing_Party} if {such_Receiving_Party} can demonstrate with competent evidence that such portion of {Confidential_Information}:
-
-3.1.sec=was in the public domain at the time it was disclosed to {the_Receiving_Party};
-
-3.2.sec=entered the public domain subsequent to the time it was disclosed to {the_Receiving_Party}, through no fault of {the_Receiving_Party};
-
-3.3.sec=was in {the_Receiving_Party}’s possession free of any obligation of confidence at the time it was disclosed to {the_Receiving_Party};
-
-3.4.sec=was rightfully communicated to {the_Receiving_Party} free of any obligation of confidence subsequent to the time it was disclosed to {the_Receiving_Party}; or
-
-3.5.sec=was developed by employees or agents of {the_Receiving_Party} who had no access to any {Confidential_Information}.
-
-3.=[01/Agt/Bit/_secs/05]
+3.=[02/Sec/Confidential/Exclude/Library.md]
 
 4.Ti=Exception for Compelled Disclosure
 
@@ -142,15 +87,7 @@ Law.State.the=State of Delaware
 
 14.sec=Neither {Party} will communicate any information to the other {Party} in violation of the proprietary rights of any third party.
 
-15.Ti=Assignment
-
-15.sec=Choose - assignment in merger/sale -15.A.sec or 15.B.sec: <ol><li>With: <br>{15.A.sec}<li>Without:<br>{15.B.sec}</ol>
-
-/Note=Providing the alternatives from both Mutual and One-Way.
- 
-15.A.sec={Neither_Party} will assign or transfer any rights or obligations under {this_Agreement} without the prior written consent of the other {Party} and any attempted assignment, subcontract, delegation, or transfer in violation of the foregoing will be null and void, except that a {Party} may assign {this_Agreement} without such consent to its successor in interest by way of merger, acquisition or sale of all or substantially all of its assets. The terms of {this_Agreement} shall be binding upon assignees.
-
-15.B.sec={Neither_Party} will assign or transfer any rights or obligations under {this_Agreement} without the prior written consent of the other {Party} and any attempted assignment, subcontract, delegation, or transfer in violation of the foregoing will be null and void.
+15.=[02/Sec/Misc/Assign/Library.md]
 
 16.Ti=U.S. Export Laws
 
