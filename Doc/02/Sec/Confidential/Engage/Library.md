@@ -1,4 +1,3 @@
-
 /Note=changed "uses to protect its own Confidential Information"?  to make it lower case.  Capitalized, might it be construed to mean the info it gives to the other party?  What if it gives unimportant info
 
 Ti=Engagement
@@ -19,7 +18,6 @@ Ti=Engagement
 
 3.Ti=Access
 
-3.sec={The_Receiving_Party} will limit access to the {Confidential_Information_of_the_Disclosing_Party} to only those of {the_Receiving_Party}â€™s employees or authorized representatives having a need to know and who have signed confidentiality agreements containing, or are otherwise bound by, confidentiality obligations at least as restrictive as those contained herein.
+3.sec={The_Receiving_Party} will limit access to the {Confidential_Information_of_the_Disclosing_Party} to only those of {the_Receiving_Party}’s employees or authorized representatives having a need to know and who have signed confidentiality agreements containing, or are otherwise bound by, confidentiality obligations at least as restrictive as those contained herein.
 
 =[01/Agt/Bit/Outline/1-3.Secs]
-
