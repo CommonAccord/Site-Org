@@ -9,9 +9,7 @@ Ti=Mutual Non-Disclosure Agreement
 
 3.=[02/Sec/Confidential/Exclude/Library.md]
 
-4.Ti=Exception for Compelled Disclosure
-
-4.sec=Notwithstanding the above, {the_Receiving_Party} may disclose certain {Confidential_Information_of_the_Disclosing_Party}, without violating the obligations of {this_Agreement}, to the extent such disclosure is required by a valid order of a court or other governmental body having jurisdiction, provided that {the_Receiving_Party} provides {the_Disclosing_Party} with reasonable prior written notice of such disclosure and makes a reasonable effort to obtain, or to assist {the_Disclosing_Party} in obtaining, a protective order preventing or limiting the disclosure and/or requiring that the {Confidential_Information} so disclosed be used only for the purposes for which the law or regulation required, or for which the order was issued.
+4.=[02/Sec/Confidential/Except/Library.md]
 
 /Note= One-Way says "in the event of" instead of "upon discovery of".
 
@@ -52,9 +50,7 @@ Neither_Receiving_Party_will=Neither {Receiving_Party} will
 
 7.=[01/Agt/Bit/Outline/1-5.Secs]
 
-8.Ti=Copying
-
-8.sec={The_Receiving_Party} will not reproduce the {Confidential_Information_of_the_Disclosing_Party} in any form except as required to accomplish the intent of {this_Agreement}. Any reproduction by {a_Receiving_Party} of any {Confidential_Information_of_the_Disclosing_Party} will remain the property of {the_Disclosing_Party} and will contain any and all confidential or proprietary notices or legends that appear on the original, unless otherwise authorized in writing by {the_Disclosing_Party}.
+8.=[02/Sec/Confidential/Copy/Library.md]
 
 /Note=Changing "Confidential_Information of the other Party" to the standard formulation
 
@@ -73,34 +69,21 @@ Law.State.the=State of Delaware
 
 /Note: borrowing from One-Way:
 
-12.Ti=Injunctions
-
-12.sec={Each_Party} hereby agrees that its breach of {this_Agreement} will cause irreparable damage to {the_other_Party} for which recovery of damages would be inadequate, and that {the_other_Party} will be entitled to obtain timely injunctive relief under {this_Agreement}, as well as such further relief as may be granted by a court of competent jurisdiction.
-
-/Note=was:
-
-12.sec=Each {Party} acknowledges that its breach of {this_Agreement} may cause irreparable damage to the other {Party} and hereby agrees that the other {Party} will be entitled to seek injunctive relief under {this_Agreement}, as well as such further relief as may be granted by a court of competent jurisdiction.
+12.=[02/Sec/Dispute/Injunction/Library.md]
 
 13.=[02/Sec/Misc/Sever/Library.md]
 
-14.Ti=Representation Against Violation of Third-Party Intellectual Property Rights 
-
-14.sec=Neither {Party} will communicate any information to the other {Party} in violation of the proprietary rights of any third party.
+14.=[02/Sec/Confidential/Rep/NotViolate3PartyRight/Library.md]
 
 15.=[02/Sec/Misc/Assign/Library.md]
 
-16.Ti=U.S. Export Laws
+16.=[02/Sec/Misc/USExport/Library.md]
 
-16.sec={The_Receiving_Party} will not export, directly or indirectly, any U.S. technical data acquired pursuant to {this_Agreement}, or any products utilizing such data, in violation of the United States export laws or regulations.
+17.=[02/Sec/Misc/Notice/Library.md]
 
-17.Ti=Notices
-
-17.sec=All notices or reports permitted or required under {this_Agreement} will be in writing and will be delivered by personal delivery, electronic mail, facsimile transmission or by certified or registered mail, return receipt requested, and will be deemed given upon personal delivery, five (5) days after deposit in the mail, or upon acknowledgment of receipt of electronic transmission. Notices will be sent to the addresses set forth at the end of {this_Agreement} or such other address as either {Party} may specify in writing.
 /Note=Changing to standard formula
 
-18.Ti=Covenant Not to Decompile
-
-18.sec={Each_Party} agrees that the software programs of {the_other_Party} contain valuable confidential information and {each_Party} agrees that it will not modify, reverse engineer, decompile, create other works from, or disassemble any software programs contained in the {Confidential_Information_of_the_Disclosing_Party} without the prior written consent of {the_other_Party}.
+18.=[02/Sec/Confidential/Decompile/Library.md]
 
 19.=[02/Sec/Misc/Entire/Library.md]
 

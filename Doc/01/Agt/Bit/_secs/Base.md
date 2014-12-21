@@ -1,6 +1,6 @@
 Model.Root={DocBody}
 
-DocBody={sec}
+DocBody={Sec}
 
 Doc=<font color="grey">{MessageToUser}</font><center><h3>{Heading}</h3></center><br>{sec} 
 
