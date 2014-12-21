@@ -2,7 +2,7 @@
 
 Ti=Non-Disclosure Agreement
 
-0.Sec=THIS {Ti} (this “{Agreement}”) is entered into between {P1.N,E,A} (“{P1.the}”) and {P2.N,E,A} (“{P2.the}”) as of {Agt.Effective.YMD} (the “Effective Date”), to protect the confidentiality of certain confidential information of {P1.the} to be disclosed to {P2.the} solely for use in evaluating or pursuing a business relationship with {P1.the} (the “{Permitted_Use}”). {P1.The} and {P2.the} may be referred to herein individually as a “{Party}” and collectively as the “{Parties}.”
+0.1.Sen={0.P1ToP2.1.Sen}
 
 1.0.Sec=As used herein, the “{Confidential_Information}” of {P1.the} will mean any and all technical and non-technical information disclosed by {P1.the} to {P2.the}, including without limitation information regarding: 
 

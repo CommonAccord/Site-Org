@@ -1,7 +1,8 @@
 Ti=Mutual Non-Disclosure Agreement
 
-0.Sec=THIS {Ti} (this “{Agreement}”) is entered into between {P1.N,E,A} (“{P1.Handle}”) and {P2.N,E,A} (“{P2.Handle}”) as of {Agt.Effective.YMD} (the “Effective Date”), to protect the confidentiality of certain confidential information of {P1.Handle} or of {P2.Handle} to be disclosed under {this_Agreement} solely for use in evaluating or pursuing a business relationship between the parties (the “{Permitted_Use}”). {P1.Handle} and {P2.Handle} may be referred to herein individually as a “{Party}” and collectively as the “{Parties}.”
+0.=[02/Sec/Confidential/ThisAgreement/Library.md]
 
+0.1.Sen={0.Mutual.1.Sen}
 
 1.=[02/Sec/Confidential/Definition/Library.md]
 
@@ -9,61 +10,29 @@ Ti=Mutual Non-Disclosure Agreement
 
 3.=[02/Sec/Confidential/Exclude/Library.md]
 
+Exclude.Xnum=3
+
 4.=[02/Sec/Confidential/Except/Library.md]
 
 /Note= One-Way says "in the event of" instead of "upon discovery of".
 
-5.Ti=Notice of Leak
+5.=[02/Sec/Confidential/Remedy/Leak/Library.md]
 
-5.sec={The_Receiving_Party} will immediately notify {the_Disclosing_Party} upon discovery of any loss or unauthorized disclosure of the {Confidential_Information_of_the_Disclosing_Party}.
+6.=[02/Sec/Confidential/Remedy/Return/Library.md]
 
-/Note=Changed {the_Disclosing_Party}’s {Confidential_Information} to the formulation used elsewhere
-
-
-6.Ti=Return or Destruction
-
-6.sec=Upon termination or expiration of {this_Agreement}, or upon written request of either {Party}, each {Party} will promptly return to {the_Disclosing_Party} or destroy all documents and other tangible materials representing {Confidential_Information_of_the_Disclosing_Party} and all copies thereof.
-
-7.Ti=Limits
-
-7.1.Ti=Property of Disclosing Party
-
-7.1.sec={Confidential_Information} is and shall remain the sole property of {the_Disclosing_Party}. 
-
-7.2.Ti=No License
-
-7.2.sec={The_Receiving_Party} recognizes and agrees that nothing contained in {this_Agreement} will be construed as granting any property rights, by license or otherwise, to any {Confidential_Information_of_the_Disclosing_Party}, or to any invention or any patent, copyright, trademark, or other intellectual property right that has issued or that may issue, based on such {Confidential_Information}.
-
-7.3.Ti=No Use
-
-7.3.sec={Neither_Receiving_Party_will} make, have made, use or sell for any purpose any product or other item using, incorporating or derived from any {Confidential_Information_of_the_Disclosing_Party}. 
-
-7.4.Ti=No Agreement to Deal
-
-7.4.sec=Neither {this_Agreement} nor the disclosure of any {Confidential_Information} hereunder shall result in any obligation on the part of either {Party} to enter into any further agreement with the other, license any products or services to the other, or to require either {Party} to disclose any particular {Confidential_Information}. 
-
-7.5.Ti=No Agency
-
-7.5.sec=Nothing in {this_Agreement} creates or shall be deemed to create any employment, joint venture, or agency between the {Parties}.
-
-Neither_Receiving_Party_will=Neither {Receiving_Party} will
-
-7.=[01/Agt/Bit/Outline/1-5.Secs]
+7.=[02/Sec/Confidential/Limit/Library.md]
 
 8.=[02/Sec/Confidential/Copy/Library.md]
 
 /Note=Changing "Confidential_Information of the other Party" to the standard formulation
 
-9.Ti=Termination
+9.=[02/Sec/Confidential/Term/Library.md]
 
-9.sec={This_Agreement} will terminate five (5) year(s) after {the_Effective_Date}, or may be terminated by either {Party} at any time upon thirty (30) days written notice to the other {Party}. Each {Party}’s obligations under {this_Agreement} will survive termination of {this_Agreement} and will be binding upon such {Party}’s heirs, successors, and assigns.  Each {Party}’s obligations with respect to all {Confidential_Information_of_the_Disclosing_Party} will terminate only pursuant to Section 3.
+TermOfAgreement=five (5) years
 
-10.Ti=No Warranty Regarding Information
-
-10.sec=<span style="text-transform: uppercase">{The_Disclosing_Party} IS PROVIDING CONFIDENTIAL INFORMATION ON AN “AS IS” BASIS FOR USE BY {the_Receiving_Party} AT ITS OWN RISK. {The_Disclosing_Party} DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTIES OF TITLE, NON-INFRINGEMENT OF THIRD PARTY RIGHTS, MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE.</span>
+10.=[02/Sec/Confidential/Disclaim/Warranty/Library.md]
 
 11.=[02/Sec/Dispute/USCourt/Library.md]
-
 
 Law.State.the=State of Delaware
 
@@ -98,4 +67,4 @@ DocBody={Doc}
 
 =[01/Agt/Bit/Outline/1-20.Secs]
 
-=[02/NDA/Sec/Defined_Terms.md]
+=[02/Sec/Confidential/Defined_Terms.md]
