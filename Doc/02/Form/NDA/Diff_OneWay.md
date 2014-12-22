@@ -1,5 +1,3 @@
-=[02/NDA/Form.md]
-
 Ti=Non-Disclosure Agreement
 
 0.1.Sen={0.P1ToP2.1.Sen}

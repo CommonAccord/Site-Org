@@ -10,6 +10,10 @@ CooleyGO={WP-BP-Had-Finds-Makes}
 
 WP-BP-Had-Finds-Makes={WasPublic};<li>{BecomesPublic};<li>{Had};<li>{Finds}; or <li>{Makes}.
 
+WP-BP-Had-Finds={WasPublic};<li>{BecomesPublic};<li>{Had}; or<li>{Finds}.
+
+WP-BP-Had={WasPublic};<li>{BecomesPublic}; or<li>{Had}.
+
 /List=of Exceptions, expressed as clauses
 
 WasPublic=was in the public domain at the time it was disclosed to {the_Receiving_Party}
