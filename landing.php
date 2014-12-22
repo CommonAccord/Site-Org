@@ -15,7 +15,7 @@ include("header.php");
 	 <p align="center"><img src="assets/cmacc-trans.png" style="width:50%" /></p>
 <br/>
 <hr>
-<h3><a href="http://commonaccord.org/index.php?action=list&file=./02/NDA/">Start here - let's make this <u>the last</u> NDA you ever have to read.</a></h3>
+<h3><a href="http://commonaccord.org/index.php?action=list&file=./02/">Start here - let's make this <u>the last</u> NDA you ever have to read.</a></h3>
    &emsp; &emsp;    
 
 <h3 class="title">Open source legal documents and software.</h1>
