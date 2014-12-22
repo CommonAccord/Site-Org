@@ -65,9 +65,11 @@ Law.State.the=State of Delaware
 
 14.5.=[02/Sec/Misc/Entire/Library.md]
 
-14.6.=[02/Sec/Misc/Waive/Library.md]
+14.6.=[02/Sec/Misc/Amend/Library.md]
 
-14.=[01/Agt/Bit/Outline/1-6.Secs]
+14.7.=[02/Sec/Misc/Waive/Library.md]
+
+14.=[01/Agt/Bit/Outline/1-7.Secs]
 
 90.Sec={90.1.Sec}<br>{Sign.Block}
 
