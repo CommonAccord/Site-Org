@@ -1,7 +1,5 @@
 =[02/Form/NDA/Mutual.md]
 
-9.3.sec={9.NoTimeLimit.3.sec}
-
 P1.=[core/id/acme_incorporated]
 
 P2.=[core/id/solomon_shirley]
@@ -11,6 +9,8 @@ P1.Handle={d-}Acme{-d}
 P2.Handle={d-}Contractor{-d}
 
 Agt.Effective.YMD=December 1, 2014
+
+12.3.sec={12.NoTimeLimit.3.sec}
 
 P1.xSignature=xANDREA ANG
 
