@@ -1,131 +1,29 @@
-Ti=CONSULTING AGREEMENT
+Ti=Consulting Agreement
 
-0.Sec={0.1.Sec}<br><br>{0.2.Sec}<br><br>
+0.=[02/Sec/Frame/Intro/01.md]
 
-0.1.Sec=EFFECTIVE DATE: {Agt.Effective.YMD}
+1.=[02/Sec/Consult/Engage/01.md]
 
-0.2.Sec=THIS CONSULTING AGREEMENT (the “{Agreement}”) is made as of the {Effective_Date} set forth above by and between {P1.N,E,A} (“{P1.Handle}”) and {P2.N,E,A} (“{P2.Handle}”).
+2.=[02/Sec/Consult/Compensate/01.md]
 
-1.Ti=Engagement of {Services}
+3.=[02/Sec/Cov/Work_Product/Ownership/01.md]
 
-1.1.Ti={Project_Assignments}
+4.=[02/Sec/Cov/Work_Product/Preexisting_IP/01.md]
 
-1.1.sec={P1.The} may issue {Project_Assignments} to {P2.the} in the form attached to {this_Agreement} as EXHIBIT A (“{Project_Assignment}”).  Subject to the terms of {this_Agreement}, {P2.the} will render the services set forth in {Project_Assignment}(s) accepted by {P2.the} (the “{Services}”) by the completion dates set forth therein.  Except as otherwise provided in the applicable {Project_Assignment}, {P2.the} will have exclusive control over the manner and means of performing the {Services}, including the choice of place and time.
+5.=[02/Sec/Rep/Consultant/01.md]
 
-1.2.Ti=Place of Work
+6.=[02/Sec/Remedy/Indemnify/BreachOfRep/01.md]
 
-1.2.sec={P2.The} will provide, at {P2.the}’s own expense, a place of work and all equipment, tools and other materials necessary to complete the {Services}; however, to the extent necessary to facilitate performance of the {Services}, {P1.the} may, in its discretion, make its equipment or facilities available to {P2.the} at {P2.the}’s request.
+6.Rep.Xref=Section 5
 
-1.3.Ti={P1.The}'s Premises
-
-1.3.sec=While on {P1.the}’s premises, {P2.the} agrees to comply with {P1.the}’s then-current access rules and procedures, including those related to safety, security and confidentiality.  {P2.The} agrees and acknowledges that {P2.the} has no expectation of privacy with respect to {P1.the}’s telecommunications, networking or information processing systems (including stored computer files, email messages and voice messages) and that {P2.the}’s activities, including the sending or receiving of any files or messages, on or using those systems may be monitored, and the contents of such files and messages may be reviewed and disclosed, at any time, without notice.
-
-1.=[01/Agt/Bit/Outline/1-3.Secs]
-
-2.Ti=Compensation
-
-2.sec={P1.The} will pay {P2.the} the fee set forth in each {Project_Assignment} for {Services} rendered pursuant to {this_Agreement} as {P2.the}’s sole compensation for such {Services}.  {P2.The} will be reimbursed only for expenses that are expressly provided for in a {Project_Assignment} or which have been approved in advance in writing by {P1.the}, provided {P2.the} has furnished such documentation for authorized expenses as {P1.the} may reasonably request.  Payment of {P2.the}’s fees and expenses will be in accordance with terms and conditions set forth in the applicable {Project_Assignment}.  Upon termination of {this_Agreement} for any reason, {P2.the} will be paid fees on the basis stated in the {Project_Assignment}(s) for work which has been completed. Unless otherwise provided in a {Project_Assignment}, payment to {P2.the} of undisputed fees will be due thirty (30) days following {P1.the}’s receipt of an invoice which contains accurate records of the work performed sufficient to document the invoiced fees.
-
-3.=[02/Sec/Cov/Work_Product/01.md]
-
-4.Ti=Other Rights
-
-4.sec=If {P2.the} has any rights, including without limitation “artist’s rights” or “moral rights,” in the {Work_Product} which cannot be assigned,  {P2.the} hereby unconditionally and irrevocably grants to {P1.the} an exclusive (even as to {P2.the}), worldwide, fully paid and royalty-free, irrevocable, perpetual license, with rights to sublicense through multiple tiers of sublicensees, to use, reproduce, distribute, create derivative works of, publicly perform and publicly display the {Work_Product} in any medium or format, whether now known of later developed.  In the event that {P2.the} has any rights in the {Work_Product} that cannot be assigned or licensed, {P2.the} unconditionally and irrevocably waives the enforcement of such rights, and all claims and causes of action of any kind against {P1.the} or {P1.the}’s customers.
-
-5.Ti={Preexisting_IP} of {P2.the}
-
-5.1.Ti=No Use of {Preexisting_IP}
-
-5.1.sec={P2.The} agrees not to use or incorporate into {Work_Product} any intellectual property developed by any third party or by {P2.the} other than in the course of performing services for {P1.the} (“{Preexisting_IP}”).
-
-5.2.Ti=License for {Preexisting_IP}
-
-5.2.sec=In the event {P2.the} uses or incorporates {Preexisting_IP} into {Work_Product}, {P2.the} hereby grants to {P1.the} a {P2.PreexistingIP.License.Grant.Type}, to use, reproduce, distribute, create derivative works of, publicly perform and publicly display in any medium or format, whether now known of later developed, such {Preexisting_IP} incorporated or used in {Work_Product}.
-
-5.3.Ti=No Open Source Code
-
-5.3.sec=However, in no event will {P2.the} incorporate into the {Work_Product} any software code licensed under the GNU GPL or LGPL or any similar “open source” license.
-
-5.4.Ti=Right to License {Preexisting_IP}
-
-5.4.sec={P2.The} represents and warrants that {P2.the} has an unqualified right to license to {P1.the} all {Preexisting_IP} as provided in this section.
-
-P2.PreexistingIP.License.Grant.Type=non-exclusive, perpetual, fully-paid and royalty-free, irrevocable and worldwide right, with the right to sublicense through multiple levels of sublicensees
-
-5.=[01/Agt/Bit/Outline/1-4.Secs]
-
-
-6.Ti=Representations and Warranties
-
-6.1.0.Sec={P2.The} represents and warrants that:
-
-6.1.1.Sec=the {Services} shall be performed in a professional manner and in accordance with the industry standards and the {Work_Product} shall comply with the requirements set forth in the applicable {Project_Assignment},
-
-6.1.2.Sec={Work_Product} will be an original work of {P2.the},
-
-6.1.3.Sec={P2.The} has the right and unrestricted ability to assign the ownership of {Work_Product} to {P1.the} as set forth in Section 3 (including without limitation the right to assign the ownership of any {Work_Product} created by {P2.the}’s employees or contractors),
-
-6.1.4.Sec=the {Work_Product} nor any element thereof will infringe upon or misappropriate any copyright, patent, trademark, trade secret, right of publicity or privacy, or any other proprietary right of any person, whether contractual, statutory or common law,
-
-6.1.5.Sec={P2.The} has an unqualified right to grant to {P1.the} the license to {Preexisting_IP} set forth in Section 5, and
-
-6.1.6.Sec={P2.The} will comply with all applicable federal, state, local and foreign laws governing self-employed individuals, including laws requiring the payment of taxes, such as income and employment taxes, and social security, disability, and other contributions.
-
-6.2.Sec={P2.The} agrees to indemnify and hold {P1.the} harmless from any and all damages, costs, claims, expenses or other liability (including reasonable attorneys’ fees) arising from or relating to the breach or alleged breach by {P2.the} of the representations and warranties set forth in this Section 6.
-
-/Note=this can be improved
-
-6.Sec=<b>{6.Ti}</b><br>{6.1.0-sec} {6.2.Sec}
-
-
-6.1.=[01/Agt/Bit/Outline/1-6.Secs]
   
 7.=[02/Sec/Misc/Independent/01.md]
 
-8.Ti={Confidential_Information}
-
-8.1.Ti=Engagement
-
-8.1.sec={P2.The} agrees that during the term of {this_Agreement} and thereafter it will not use or permit the use of {P1.the}’s {Confidential_Information} in any manner or for any purpose not expressly set forth in {this_Agreement}, will hold such {Confidential_Information} in confidence and protect it from unauthorized use and disclosure, and will not disclose such {Confidential_Information} to any third parties except as set forth in Section 9 below.  
-
-8.2.Ti=Definition
-
-8.2.0.Sec=“{Confidential_Information}” as used in {this_Agreement} shall mean all information disclosed by {P1.the} to {P2.the}, whether during or before the term of {this_Agreement}, that is not generally known in {P1.the}’s trade or industry and shall include, without limitation:
-
-8.2.1.Sec=concepts and ideas relating to the development and distribution of content in any medium or to the current, future and proposed products or services of {P1.the} or its subsidiaries or affiliates;
-
-8.2.2.Sec=trade secrets, drawings, inventions, know-how, software programs, and software source documents;
-
-8.2.3.Sec=information regarding plans for research, development, new service offerings or products, marketing and selling, business plans, business forecasts, budgets and unpublished financial statements, licenses and distribution arrangements, prices and costs, suppliers and customers;
-
-8.2.4.Sec=existence of any business discussions, negotiations or agreements between the parties; and
-
-8.2.5.Sec=any information regarding the skills and compensation of employees, contractors or other agents of {P1.the} or its subsidiaries or affiliates.
-
-8.2.90.Sec={Confidential_Information} also includes proprietary or confidential information of any third party who may disclose such information to {P1.the} or {P2.the} in the course of {P1.the}’s business.
-
-8.2.=[01/Agt/Bit/Outline/1-5.Secs]
-
-
-8.3.Ti=Exceptions
-
-8.3.sec={Confidential_Information} does not include information that (x) is or becomes a part of the public domain through no act or omission of {P2.the}, (y) is disclosed to {P2.the} by a third party without restrictions on disclosure, or (z) was in {P2.the}’s lawful possession prior to the disclosure and was not obtained by {P2.the} either directly or indirectly from {P1.the}.
-
-8.4.Ti=Compelled Disclosure
-
-8.4.sec=In addition, this section will not be construed to prohibit disclosure of {Confidential_Information} to the extent that such disclosure is required by law or valid order of a court or other governmental authority; provided, however, that {P2.the} shall first have given notice to {P1.the} and shall have made a reasonable effort to obtain a protective order requiring that the {Confidential_Information} so disclosed be used only for the purposes for which the order was issued.
-
-8.5.Ti=Ownership
-
-8.5.sec=All {Confidential_Information} furnished to {P2.the} by {P1.the} is the sole and exclusive property of {P1.the} or its suppliers or customers.
-
-8.6.Ti=Return
-
-8.6.sec=Upon request by {P1.the}, {P2.the} agrees to promptly deliver to {P1.the} the original and any copies of the {Confidential_Information}.  
-
-8.=[01/Agt/Bit/Outline/1-6.Secs]
+8.=[02/Sec/Confidential/Comprehensive/01.md]
 
 9.=[02/Sec/Cov/Employee/01.md]
+
+Employee.Xnum=9
 
 10.=[02/Sec/Cov/Conflict_of_Interest/01.md]
 
@@ -133,9 +31,7 @@ P2.PreexistingIP.License.Grant.Type=non-exclusive, perpetual, fully-paid and roy
 
 11.Survive.Xrefs=Sections 3 (“Ownership of Work Product”), 4 (“Other Rights”), 5 (“License to Preexisting IP”), 6 (“Representations and Warranties”), 8 (“Confidential Information”) and 12 (“Noninterference with Business”)
 
-12.Ti=Noninterference with Business
-
-12.sec=During {this_Agreement}, and for a period of one (1) year immediately following its termination, {P2.the} agrees not to interfere with the business of {P1.the} in any manner.  By way of example and not of limitation, {P2.the} agrees not to solicit or induce any employee, independent contractor, or {P1.the} customer to terminate or breach an employment, contractual or other relationship with {P1.the}.
+12.=[02/Sec/Cov/Unfair/Interference/01.md]
 
 13.=[02/Sec/Misc/Assign/02.md]
 
@@ -157,11 +53,7 @@ P2.PreexistingIP.License.Grant.Type=non-exclusive, perpetual, fully-paid and roy
 
 21.=[02/Sec/Misc/Counterpart/01.md]
 
-90.Sec={90.1.Sec}<br>{Sign.Block}
-
-Sign.Block=<table><tr><td valign="top">{P1.Sign.Block}</td><td>   <td valign="top">{P2.Sign.Block}</td></tr></table>
-
-90.1.Sec=IN WITNESS WHEREOF, the parties have executed {this_Agreement} as of the {Effective_Date}.
+90.=[02/Sec/Frame/End/01.md]
 
 DocBody={Doc}
 
