@@ -100,18 +100,7 @@ P2.PreexistingIP.License.Grant.Type=non-exclusive, perpetual, fully-paid and roy
 
 6.1.=[01/Agt/Bit/Outline/1-6.Secs]
   
-7.Ti=Independent Contractor Relationship
-
-7.1.Ti=Not an Agent 
-
-7.1.sec={P2.The}’s relationship with {P1.the} is that of an independent contractor, and nothing in {this_Agreement} is intended to, or should be construed to, create a partnership, agency, joint venture or employment relationship between {P1.the} and any of {P2.the}’s employees or agents.   {P2.The} is not authorized to make any representation, contract or commitment on behalf of {P1.the}.
-
-7.2.Ti=Not an Employee
-
-7.2.sec={P2.The} (if {P2.the} is an individual) and {P2.the}’s employees will not be entitled to any of the benefits that {P1.the} may make available to its employees, including, but not limited to, group health or life insurance, profit-sharing or retirement benefits.  Because {P2.the} is an independent contractor, {P1.the} will not withhold or make payments for social security, make unemployment insurance or disability insurance contributions, or obtain workers’ compensation insurance on behalf of {P2.the}. {P2.The} is solely responsible for, and will file, on a timely basis, all tax returns and payments required to be filed with, or made to, any federal, state or local tax authority with respect to the performance of {Services} and receipt of fees under {this_Agreement}.  {P2.The} is solely responsible for, and must maintain adequate records of, expenses incurred in the course of performing {Services} under {this_Agreement}.  No part of {P2.the}’s compensation will be subject to withholding by {P1.the} for the payment of any social security, federal, state or any other employee payroll taxes.  {P1.The} will regularly report amounts paid to {P2.the} by filing Form 1099-MISC with the Internal Revenue Service as required by law.  If, notwithstanding the foregoing, {P2.the} is reclassified as an employee of {P1.the}, or any affiliate of {P1.the}, by the U.S. Internal Revenue Service, the U.S. Department of Labor, or any other federal or state or foreign agency as the result of any administrative or judicial proceeding, {P2.the} agrees that {P2.the} will not, as the result of such reclassification, be entitled to or eligible for, on either a prospective or retrospective basis, any employee benefits under any plans or programs established or maintained by {P1.the}.
-
-7.=[01/Agt/Bit/Outline/1-2.Secs]
-
+7.=[02/Sec/Misc/Independent/01.md]
 
 8.Ti={Confidential_Information}
 
@@ -164,74 +153,33 @@ P2.PreexistingIP.License.Grant.Type=non-exclusive, perpetual, fully-paid and roy
 
 10.sec=During the term of {this_Agreement}, {P2.the} will not accept work, enter into a contract, or accept an obligation from any third party, inconsistent or incompatible with {P2.the}’s obligations, or the scope of {Services} rendered for {P1.the}, under {this_Agreement}.  {P2.The} warrants that there is no other contract or duty on its part inconsistent with {this_Agreement}.  {P2.The} agrees to indemnify {P1.the} from any and all loss or liability incurred by reason of the alleged breach by {P2.the} of any services agreement with any third party.
 
-11.Ti=Term and Termination
+11.=[02/Sec/Term/02.md]
 
-11.1.Ti=Term
-
-11.1.sec={11.1.1.Sen} {11.1.2.Sen}
-
-11.1.1.Sen=The initial term of {this_Agreement} is for {Term year/month} from the {Effective_Date} set forth above, unless earlier terminated as provided in {this_Agreement}.
-
-11.1.2.Sen=Thereafter, {this_Agreement} will automatically renew on its anniversary date, for {Renew year/month} terms, unless {P1.the} provides fifteen (15) days written notice prior to any such anniversary date that {this_Agreement} shall not renew.
-
-11.2.Ti=Termination Without Cause
-
-11.2.sec={P1.The} may terminate {this_Agreement} with or without cause, at any time upon fifteen (15) days prior written notice to {P2.the}. {P2.The} may terminate {this_Agreement} with or without cause, at any time when no {Project_Assignment} is in effect upon thirty (30) days prior written notice to {P1.the}.
-
-11.3.Ti=Termination for Cause
-
-11.3.sec=Either party may terminate {this_Agreement} immediately in the event the other party has materially breached {this_Agreement} and failed to cure such breach within fifteen (15) days of receipt of notice by the non-breaching party. 
-
-11.4.Ti=Survival
-
-11.4.sec=The rights and obligations contained in Sections 3 (“Ownership of Work Product”), 4 (“Other Rights”), 5 (“License to Preexisting IP”), 6 (“Representations and Warranties”), 8 (“Confidential Information”) and 12 (“Noninterference with Business”) will survive any termination or expiration of {this_Agreement}.
-
-11.=[01/Agt/Bit/Outline/1-4.Secs]  
+11.Survive.Xrefs=Sections 3 (“Ownership of Work Product”), 4 (“Other Rights”), 5 (“License to Preexisting IP”), 6 (“Representations and Warranties”), 8 (“Confidential Information”) and 12 (“Noninterference with Business”)
 
 12.Ti=Noninterference with Business
 
 12.sec=During {this_Agreement}, and for a period of one (1) year immediately following its termination, {P2.the} agrees not to interfere with the business of {P1.the} in any manner.  By way of example and not of limitation, {P2.the} agrees not to solicit or induce any employee, independent contractor, or {P1.the} customer to terminate or breach an employment, contractual or other relationship with {P1.the}.
 
-13.Ti=Successors and Assigns
+13.=[02/Sec/Misc/Assign/02.md]
 
-13.sec={P2.The} may not subcontract or otherwise delegate or assign {this_Agreement} or any of its obligations under {this_Agreement} without {P1.the}’s prior written consent.  Any attempted assignment in violation of the foregoing shall be null and void. Subject to the foregoing, {this_Agreement} will be for the benefit of {P1.the}’s successors and assigns, and will be binding on {P2.the}’s assignees.
+14.=[02/Sec/Misc/Notice/02.md]
 
-14.Ti=Notices
+15.=[02/Sec/Dispute/USLaw/01.md]
 
-14.sec=Any notice required or permitted by {this_Agreement} shall be in writing and shall be delivered as follows with notice deemed given as indicated:
+16.=[02/Sec/Misc/Sever/01.md]
 
-14.1.Sec=by personal delivery when delivered personally;
+17.=[02/Sec/Misc/Waive/01.md]
 
-14.2.Sec=by overnight courier upon written verification of receipt;
+18.=[02/Sec/Dispute/Injunction/02.md]
 
-14.3.Sec=by telecopy or facsimile transmission upon acknowledgment of receipt of electronic transmission; or
+19.=[02/Sec/Misc/Entire/02.md]
 
-14.4.Sec=by certified or registered mail, return receipt requested, upon verification of receipt.  
+/Note=Was 02/Sec/Misc/Amend/02.md, but don't see any superiority.
 
-14.90.Sec=Notice shall be sent to the addresses set forth below or such other address as either party may specify in writing.
+20.=[02/Sec/Misc/Amend/01.md]
 
-14.=[01/Agt/Bit/Outline/1-4.Secs]
-
-
-15.Ti=Governing Law
-
-15.sec={This_Agreement} shall be governed in all respects by the laws of the United States of America and by the laws of {Dispute.Law.State.the}, without giving effect to any conflicts of laws principles that require the application of the law of a different jurisdiction.
-
-16.Ti=Severability
-
-16.sec=Should any provisions of {this_Agreement} be held by a court of law to be illegal, invalid or unenforceable, the legality, validity and enforceability of the remaining provisions of {this_Agreement} shall not be affected or impaired thereby.
-
-17.Ti=Waiver
-
-17.sec=The waiver by {P1.the} of a breach of any provision of {this_Agreement} by {P2.the} shall not operate or be construed as a waiver of any other or subsequent breach by {P2.the}.
-
-18.Ti=Injunctive Relief for Breach
-
-18.sec={P2.The}’s obligations under {this_Agreement} are of a unique character that gives them particular value; breach of any of such obligations will result in irreparable and continuing damage to {P1.the} for which there will be no adequate remedy at law; and, in the event of such breach, {P1.the} will be entitled to injunctive relief and/or a decree for specific performance, and such other and further relief as may be proper (including monetary damages if appropriate).
-
-19.Ti=Entire Agreement
-
-19.sec={This_Agreement} constitutes the entire agreement between the parties relating to this subject matter and supersedes all prior or contemporaneous oral or written agreements concerning such subject matter.  The terms of {this_Agreement} will govern all services undertaken by {P2.the} for {P1.the}; provided, however, that in the event of any conflict between the terms of {this_Agreement} and any {Project_Assignment}, the terms of the applicable {Project_Assignment} will control.  {This_Agreement} may only be changed or amended by mutual agreement of authorized representatives of the parties in writing. {This_Agreement} may be executed in one or more counterparts, each of which shall be deemed an original and all of which shall be taken together and deemed to be one instrument.
+21.=[02/Sec/Misc/Counterpart/01.md]
 
 90.Sec={90.1.Sec}<br>{Sign.Block}
 
@@ -241,6 +189,6 @@ Sign.Block=<table><tr><td valign="top">{P1.Sign.Block}</td><td>   <td valign="to
 
 DocBody={Doc}
 
-=[01/Agt/Bit/Outline/1-19.Secs]
+=[01/Agt/Bit/Outline/1-21.Secs]
 
 =[02/Sec/Confidential/Defined_Terms.md]
