@@ -42,7 +42,8 @@ Ti=CONSULTING AGREEMENT
 
 3.4.Ti=Attorney-in-Fact
 
-3.4.sec=In the event that Consultant does not, for any reason, execute such documents within a reasonable time after Client’s request, Consultant hereby irrevocably appoints Client as Consultant’s attorney-in-fact for the purpose of executing such documents on Consultant’s behalf, which appointment is coupled with an interest. Consultant will deliver any Deliverables in accordance with the applicable Project Assignment and disclose promptly in writing to Company all other Work Product. 
+/Note=changed "writing to Company" to "writing to Client"
+3.4.sec=In the event that Consultant does not, for any reason, execute such documents within a reasonable time after Client’s request, Consultant hereby irrevocably appoints Client as Consultant’s attorney-in-fact for the purpose of executing such documents on Consultant’s behalf, which appointment is coupled with an interest. Consultant will deliver any Deliverables in accordance with the applicable Project Assignment and disclose promptly in writing to Client all other Work Product. 
 
 
 3.=[01/Agt/Bit/Outline/1-4.Secs]
@@ -51,7 +52,7 @@ Ti=CONSULTING AGREEMENT
 
 4.sec=If Consultant has any rights, including without limitation “artist’s rights” or “moral rights,” in the Work Product which cannot be assigned,  Consultant hereby unconditionally and irrevocably grants to Client an exclusive (even as to Consultant), worldwide, fully paid and royalty-free, irrevocable, perpetual license, with rights to sublicense through multiple tiers of sublicensees, to use, reproduce, distribute, create derivative works of, publicly perform and publicly display the Work Product in any medium or format, whether now known of later developed.  In the event that Consultant has any rights in the Work Product that cannot be assigned or licensed, Consultant unconditionally and irrevocably waives the enforcement of such rights, and all claims and causes of action of any kind against Client or Client’s customers.
 
-5.Ti=License to Preexisting IP
+5.Ti=Preexisting IP of Consultant
 
 5.1.Ti=No Use of Preexisting IP
 
@@ -171,13 +172,16 @@ P2.PreexistingIP.License.Grant.Type=non-exclusive, perpetual, fully-paid and roy
 
 11.1.1.Sen=The initial term of this Agreement is for {Term year/month} from the Effective Date set forth above, unless earlier terminated as provided in this Agreement.
 
-11.1.2.Sen=Thereafter, this Agreement will automatically renew on its anniversary date, for {Renew year/month} terms, unless Client provides fifteen (15) days written notice prior to any such anniversary date that the Agreement shall not renew.
+/Note="anniversary date that the Agreement"
+11.1.2.Sen=Thereafter, this Agreement will automatically renew on its anniversary date, for {Renew year/month} terms, unless Client provides fifteen (15) days written notice prior to any such anniversary date that this Agreement shall not renew.
 
 11.2.Ti=Termination Without Cause
 
 11.2.sec=Client may terminate this Agreement with or without cause, at any time upon fifteen (15) days prior written notice to Consultant. Consultant may terminate this Agreement with or without cause, at any time when no Project Assignment is in effect upon thirty (30) days prior written notice to Client.
 
 11.3.Ti=Termination for Cause
+
+/Note="breached the Agreement"
 
 11.3.sec=Either party may terminate this Agreement immediately in the event the other party has materially breached the Agreement and failed to cure such breach within fifteen (15) days of receipt of notice by the non-breaching party. 
 
@@ -230,7 +234,9 @@ P2.PreexistingIP.License.Grant.Type=non-exclusive, perpetual, fully-paid and roy
 
 19.Ti=Entire Agreement
 
-19.sec=This Agreement constitutes the entire agreement between the parties relating to this subject matter and supersedes all prior or contemporaneous oral or written agreements concerning such subject matter.  The terms of this Agreement will govern all services undertaken by Consultant for Client; provided, however, that in the event of any conflict between the terms of this Agreement and any Project Assignment, the terms of the applicable Project Assignment will control.  This Agreement may only be changed or amended by mutual agreement of authorized representatives of the parties in writing. The Agreement may be executed in one or more counterparts, each of which shall be deemed an original and all of which shall be taken together and deemed to be one instrument.
+/Note="The Agreement may ...."
+
+19.sec=This Agreement constitutes the entire agreement between the parties relating to this subject matter and supersedes all prior or contemporaneous oral or written agreements concerning such subject matter.  The terms of this Agreement will govern all services undertaken by Consultant for Client; provided, however, that in the event of any conflict between the terms of this Agreement and any Project Assignment, the terms of the applicable Project Assignment will control.  This Agreement may only be changed or amended by mutual agreement of authorized representatives of the parties in writing. This Agreement may be executed in one or more counterparts, each of which shall be deemed an original and all of which shall be taken together and deemed to be one instrument.
 
 90.Sec={90.1.Sec}<br>{Sign.Block}
 
