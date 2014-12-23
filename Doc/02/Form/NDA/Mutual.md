@@ -71,11 +71,8 @@ Law.State.the=State of Delaware
 
 14.=[01/Agt/Bit/Outline/1-7.Secs]
 
-90.Sec={90.1.Sec}<br>{Sign.Block}
+90.=[02/Sec/Frame/End/01.md]
 
-90.1.Sec=The parties have executed this {Ti} as of {the_Effective_Date}.
-
-Sign.Block=<table><tr><td valign="top">{P1.Sign.Block}</td><td>   <td valign="top">{P2.Sign.Block}</td></tr></table>
 DocBody={Doc}
 
 =[01/Agt/Bit/Outline/1-14.Secs]
