@@ -2,9 +2,7 @@ MessageToUser=02/NDA/Form.md
 
 Ti=Mutual Non-Disclosure Agreement
 
-0.=[02/Sec/Confidential/ThisAgreement/01.md]
-
-0.1.Sen={0.Mutual.1.Sen}
+0.=[02/Sec/Frame/Intro/02.md]
 
 1.=[02/Sec/Confidential/Definition/01.md]
 

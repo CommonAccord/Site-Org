@@ -1,6 +1,6 @@
 Ti=Non-Disclosure Agreement
 
-0.1.Sen={0.P1ToP2.1.Sen}
+0.=[02/Sec/Frame/Intro/03.md]
 
 1.0.Sec=As used herein, the “{Confidential_Information}” of {P1.the} will mean any and all technical and non-technical information disclosed by {P1.the} to {P2.the}, including without limitation information regarding: 
 
