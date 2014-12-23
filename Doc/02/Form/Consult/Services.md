@@ -26,27 +26,7 @@ Ti=CONSULTING AGREEMENT
 
 2.sec={P1.The} will pay {P2.the} the fee set forth in each {Project_Assignment} for {Services} rendered pursuant to {this_Agreement} as {P2.the}’s sole compensation for such {Services}.  {P2.The} will be reimbursed only for expenses that are expressly provided for in a {Project_Assignment} or which have been approved in advance in writing by {P1.the}, provided {P2.the} has furnished such documentation for authorized expenses as {P1.the} may reasonably request.  Payment of {P2.the}’s fees and expenses will be in accordance with terms and conditions set forth in the applicable {Project_Assignment}.  Upon termination of {this_Agreement} for any reason, {P2.the} will be paid fees on the basis stated in the {Project_Assignment}(s) for work which has been completed. Unless otherwise provided in a {Project_Assignment}, payment to {P2.the} of undisputed fees will be due thirty (30) days following {P1.the}’s receipt of an invoice which contains accurate records of the work performed sufficient to document the invoiced fees.
 
-3.Ti=Ownership of {Work_Product}
-
-3.1.Ti={Work_Product} Becomes Property of {P1.the}
-
-3.1.sec={P2.The} agrees that any and all {Work_Product} shall be the sole and exclusive property of {P1.the}.
-
-3.2.Ti={P2.The} Assigns {Work_Product}
-
-3.2.sec={P2.The} hereby irrevocably assigns to {P1.the} all right, title and interest worldwide in and to any deliverables specified in a {Project_Assignment} (“{Deliverables}”), and to any ideas, concepts, processes, discoveries, developments, formulae, information, materials, improvements, designs, artwork, content, software programs, other copyrightable works, and any other work product created, conceived or developed by {P2.the} (whether alone or jointly with others) for {P1.the} during or before the term of {this_Agreement}, including all copyrights, patents, trademarks, trade secrets, and other intellectual property rights therein (the “{Work_Product}”).  {P2.The} retains no rights to use the {Work_Product} and agrees not to challenge the validity of {P1.the}’s ownership of the {Work_Product}. 
-
-3.3.Ti=Execute Documents
-
-3.3.sec={P2.The} agrees to execute, at {P1.the}’s request and expense, all documents and other instruments necessary or desirable to confirm such assignment, including without limitation, the copyright assignment set forth as EXHIBIT B (“Assignment of Copyright”) and the patent assignment set forth as EXHIBIT C (“Assignment of Patent Application”).
-
-/Note
-3.4.Ti=Attorney-in-Fact
-
-3.4.sec=In the event that {P2.the} does not, for any reason, execute such documents within a reasonable time after {P1.the}’s request, {P2.the} hereby irrevocably appoints {P1.the} as {P2.the}’s attorney-in-fact for the purpose of executing such documents on {P2.the}’s behalf, which appointment is coupled with an interest. {P2.The} will deliver any {Deliverables} in accordance with the applicable {Project_Assignment} and disclose promptly in writing to {P1.the} all other {Work_Product}.
-
-
-3.=[01/Agt/Bit/Outline/1-4.Secs]
+3.=[02/Sec/Cov/Work_Product/01.md]
 
 4.Ti=Other Rights
 
@@ -145,13 +125,9 @@ P2.PreexistingIP.License.Grant.Type=non-exclusive, perpetual, fully-paid and roy
 
 8.=[01/Agt/Bit/Outline/1-6.Secs]
 
-9.Ti={P2.The}’s Employees
+9.=[02/Sec/Cov/Employee/01.md]
 
-9.sec={P2.The} will ensure that each of its employees and agents who will have access to any {Confidential_Information} or perform any {Services} has entered into a binding written agreement that is expressly for the benefit of {P1.the} and protects {P1.the}’s rights and interests to at least the same degree as Section 8.  {P1.The} reserves the right to refuse or limit {P2.the}’s use of any employee or consultant or to require {P2.the} to remove any employee or consultant already engaged in the performance of the {Services}.  {P1.The}’s exercise of such right will in no way limit {P2.the}’s obligations under {this_Agreement}.
-
-10.Ti=No Conflict of Interest
-
-10.sec=During the term of {this_Agreement}, {P2.the} will not accept work, enter into a contract, or accept an obligation from any third party, inconsistent or incompatible with {P2.the}’s obligations, or the scope of {Services} rendered for {P1.the}, under {this_Agreement}.  {P2.The} warrants that there is no other contract or duty on its part inconsistent with {this_Agreement}.  {P2.The} agrees to indemnify {P1.the} from any and all loss or liability incurred by reason of the alleged breach by {P2.the} of any services agreement with any third party.
+10.=[02/Sec/Cov/Conflict_of_Interest/01.md]
 
 11.=[02/Sec/Term/02.md]
 
@@ -192,3 +168,7 @@ DocBody={Doc}
 =[01/Agt/Bit/Outline/1-21.Secs]
 
 =[02/Sec/Confidential/Defined_Terms.md]
+
+P1.Handle={d-}Company{-d}
+
+P2.Handle={d-}Consultant{-d}
