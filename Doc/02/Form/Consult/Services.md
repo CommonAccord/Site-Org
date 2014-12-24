@@ -8,30 +8,39 @@ Ti=Consulting Agreement
 
 3.=[02/Sec/Cov/Work_Product/Ownership/01.md]
 
+Work_Product.Ownership.Xref={3.Xref}
+
+Work_Product.Ownership.OtherRight.Xnum={x-}Section 3.4{-x}
+
 4.=[02/Sec/Cov/Work_Product/Preexisting_IP/01.md]
+
+Work_Product.Preexisting_IP.Xref={4.Xref}
 
 5.=[02/Sec/Rep/Consultant/01.md]
 
 6.=[02/Sec/Remedy/Indemnify/BreachOfRep/01.md]
 
-6.Rep.Xref=Section 5
+Rep.Xref={5.Xref}
 
-  
 7.=[02/Sec/Misc/Independent/01.md]
 
 8.=[02/Sec/Confidential/Comprehensive/01.md]
 
+Confidential.Xref={8.Xref}
+
 9.=[02/Sec/Cov/Employee/01.md]
 
-Employee.Xnum=9
+Employee.Xref={9.Xref}
 
 10.=[02/Sec/Cov/Conflict_of_Interest/01.md]
 
 11.=[02/Sec/Term/02.md]
 
-11.Survive.Xrefs=Sections 3 (“Ownership of Work Product”), 4 (“Other Rights”), 5 (“License to Preexisting IP”), 6 (“Representations and Warranties”), 8 (“Confidential Information”) and 12 (“Noninterference with Business”)
+11.Survive.Xrefs={Work_Product.Ownership.Xref} (“Ownership of Work Product”), {Work_Product.Preexisting_IP.Xref} (“License to Preexisting IP”), {Rep.Xref} (“Representations and Warranties”), {Confidential.Xref} (“Confidential Information”) and {Unfair.Interference.Xref} (“Noninterference with Business”)
 
 12.=[02/Sec/Cov/Unfair/Interference/01.md]
+
+Unfair.Interference.Xref={12.Xref}
 
 13.=[02/Sec/Misc/Assign/02.md]
 
@@ -57,7 +66,7 @@ Employee.Xnum=9
 
 DocBody={Doc}
 
-=[01/Agt/Bit/Outline/1-21.Secs]
+=[01/Agt/Bit/Secs/21]
 
 =[02/Sec/Confidential/Defined_Terms.md]
 

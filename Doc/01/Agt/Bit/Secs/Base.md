@@ -4,7 +4,6 @@ DocBody={Sec}
 
 Doc=<font color="grey">{MessageToUser}</font><center><h3>{Heading}</h3></center><br>{sec} 
 
-
 =[01/Agt/Bit/Secs/Base_Sec.md]
 
 1.=[01/Agt/Bit/Secs/Base_Sec.md]
@@ -76,3 +75,77 @@ Doc=<font color="grey">{MessageToUser}</font><center><h3>{Heading}</h3></center>
 34.=[01/Agt/Bit/Secs/Base_Sec.md]
 
 35.=[01/Agt/Bit/Secs/Base_Sec.md]
+
+1.Xref={x-}Section 1{-x}
+
+2.Xref={x-}Section 2{-x}
+
+3.Xref={x-}Section 3{-x}
+
+4.Xref={x-}Section 4{-x}
+
+5.Xref={x-}Section 5{-x}
+
+6.Xref={x-}Section 6{-x}
+
+7.Xref={x-}Section 7{-x}
+
+8.Xref={x-}Section 8{-x}
+
+9.Xref={x-}Section 9{-x}
+
+10.Xref={x-}Section 10{-x}
+
+11.Xref={x-}Section 11{-x}
+
+12.Xref={x-}Section 12{-x}
+
+13.Xref={x-}Section 13{-x}
+
+14.Xref={x-}Section 14{-x}
+
+15.Xref={x-}Section 15{-x}
+
+16.Xref={x-}Section 16{-x}
+
+17.Xref={x-}Section 17{-x}
+
+18.Xref={x-}Section 18{-x}
+
+19.Xref={x-}Section 19{-x}
+
+20.Xref={x-}Section 20{-x}
+
+21.Xref={x-}Section 21{-x}
+
+22.Xref={x-}Section 22{-x}
+
+23.Xref={x-}Section 23{-x}
+
+24.Xref={x-}Section 24{-x}
+
+25.Xref={x-}Section 25{-x}
+
+26.Xref={x-}Section 26{-x}
+
+27.Xref={x-}Section 27{-x}
+
+28.Xref={x-}Section 28{-x}
+
+29.Xref={x-}Section 29{-x}
+
+30.Xref={x-}Section 30{-x}
+
+31.Xref={x-}Section 31{-x}
+
+32.Xref={x-}Section 32{-x}
+
+33.Xref={x-}Section 33{-x}
+
+34.Xref={x-}Section 34{-x}
+
+35.Xref={x-}Section 35{-x}
+
+x-=<font color="blue">
+
+-x=</font>
