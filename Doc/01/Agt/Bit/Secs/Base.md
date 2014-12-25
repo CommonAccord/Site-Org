@@ -4,6 +4,8 @@ DocBody={Sec}
 
 Doc=<font color="grey">{MessageToUser}</font><center><h3>{Heading}</h3></center><br>{sec} 
 
+Heading={Ti}
+
 =[01/Agt/Bit/Secs/Base_Sec.md]
 
 1.=[01/Agt/Bit/Secs/Base_Sec.md]
