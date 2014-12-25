@@ -75,4 +75,4 @@ DocBody={Doc}
 
 =[01/Agt/Bit/Outline/1-14.Secs]
 
-=[02/Sec/Confidential/Defined_Terms.md]
+=[02/Sec/Defined_Terms/01.md]
