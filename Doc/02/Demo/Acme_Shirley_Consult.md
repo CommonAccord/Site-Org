@@ -9,3 +9,5 @@ Attach.2.1.sec=Source Code for Spectral Analysis
 Attach.2.2.sec={P2.Name.Full}
 
 Attach.2.3.sec=Copyright XXX-XXXX
+
+MessageToUser=Acme_Shirley_NDA - 2014-12-01
