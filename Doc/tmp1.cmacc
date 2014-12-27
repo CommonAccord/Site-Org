@@ -1,6 +1,6 @@
 /Note=A first cut.  Proof of concept.  Can be more tightly integrated into the data from the crowd-sourcing platform.
 
-=[?https://raw.githubusercontent.com/CommonAccord/Org/22d178d1847d711ba3f75b2f5d4b9b5bbbb910b4/Doc/me/cc/license/4_0/BY-NC-SA]
+=[me/cc/license/4_0/BY-NC-SA]
 
 Title=License by {P1.Name.Full} to {P2.Name.Full}
 
@@ -24,4 +24,4 @@ q=<b></b>
 this Agreement={m-}this License{-m}
 m-=<font color="{mcolor}">
 -m=</font>
-mcolor=magenta
+mcolor=magenta                

@@ -4,10 +4,12 @@ Term.End.YMD=December 31, 2015
 
 We.Handle=Acme
 
-P1.Name.Full=Acme Incorporated
+We.Name.Full=Acme Incorporated
 
 ToU.href=<a href="www.commonaccord.org">cma</a>
 
-P1.Email=<a mailto="contact@commonaccord.org">contact</a>
+We.Email=<a mailto="contact@commonaccord.org">contact</a>
+
+We.Address=111 Main St., Redwood City, CA 94063
 
 Version.YMD=December 26, 2014

@@ -1,13 +1,9 @@
 P1.=[core/id/geraldine_graber]
 
+=[?https://raw.githubusercontent.com/CommonAccord/Org/cbff49fecec483f619340844060c847a2143faa6/Doc/me/authoract/Demo_License_Based_On_CC]
+
 Book.Name=My Little Planet
 
 Book.Copy.$=$7.50
 
-=[me/authoract/Demo_License_Based_On_CC]
-
 Dispute.Forum._cl=the state and federal courts sitting for {P1.Addr.County} County, {P1.Addr.State}
-
-
-
-          
