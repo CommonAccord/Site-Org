@@ -2,12 +2,13 @@
 
 Model.Root=List of sections in Distribution Agreement {Agt.Secs}
 
-Agt.Secs=<ol><li>{Def.Sec}</li><li>{Relate.Appoint.Sec}</li><li>{Product.Sec}</li><li>{Relate.Exclusive.Sec}</li><li>{BuySell.Minimum.Sec}</li><li>{Duty;RepWar.P2.Sec}</li><li>{Price.Sec}</li><li>{Order.Sec}</li><li>{Ship.Sec}</li><li>{Pay;Secure.Sec}</li><li>{Duty.Pcpl.Sec}</li><li>{RepWar.Pcpl.Product.Sec}</li><li>{IP.Sec}</li><li>{Conf.Sec}</li><li>{Indemn.Sec}</li><li>{Term.Sec}</li><li>{Remedy.Liab.Limit.Sec}</li><li>{Dispute.Sec}</li><li>{Misc.Sec}</li></ol>
+Agt.Secs=<ol><li>{Def.Sec}</li><li>{Relate.Appoint.Sec}</li><li>{Product.Sec}</li><li>{Service.Sec}</li><li>{Relate.Exclusive.Sec}</li><li>{BuySell.Minimum.Sec}</li><li>{Duty;RepWar.P2.Sec}</li><li>{Price.Sec}</li><li>{Order.Sec}</li><li>{Ship.Sec}</li><li>{Pay;Secure.Sec}</li><li>{Duty.Pcpl.Sec}</li><li>{RepWar.Pcpl.Product.Sec}</li><li>{IP.Sec}</li><li>{Conf.Sec}</li><li>{Indemn.Sec}</li><li>{Term.Sec}</li><li>{Remedy.Liab.Limit.Sec}</li><li>{Dispute.Sec}</li><li>{Misc.Sec}</li></ol>
 
 Def.Sec=<b>Definitions</b>.<ul><li>{Affiliate.Def}</li><li>{days.Def}</li><li>{Intended_Uses.Def}</li><li>{Person.Def}</li><li>{Subsidiary.Def}</li><li>{Def.Xref.Table.Sec}</li></ul>
 
 Relate.Appoint.Sec=<b>Appointment of {P2.the}</b>.<ol><li>{Appoint.Sec}</li><li>{Resale.Territory.Outside.Sec}</li></ol>
 
+/Marc=change here 
 Product.Sec=<b>{Products}</b>.<ol><li>{Product.Discontinue.Sec}</li><li>{Product.Add.Sec}</li><li>{Product.Modify.Sec}</li><li>{Product.Package.Sec}</li></ol>
 {
 Relate.Exclusive.Sec=<b>Exclusivity</b>.<ol><li>{Relate.Exclusive.Engage.Sec}</li><li>{Relate.Exclusive.Stop.Sec}</li></ol>
@@ -109,6 +110,8 @@ Appoint.Sec=<b>Appointment</b>. {P1.The} hereby appoints {P2.the} as its exclusi
 Resale.Territory.Outside.Sec=<b>Sales Outside the {Territory}</b>.  Nothing in {this_Agreement} shall give {P2.the} the right to advertise or market to or otherwise actively solicit orders for {Products} from customers located outside of the {Territory}. {P2.The} agrees that it shall not directly or indirectly advertise or market {Products} to customers located outside the {Territory} or otherwise solicit or encourage customers located outside the {Territory} to submit orders for {Products} to the  {P2.the}. {P2.The} shall limit its marketing, advertising and solicitation activities to those designed to attract orders from customers who use or would use the {Products} for the {Intended_Uses}. {P2.The} acknowledges that {P1.the} does not have a license (the “{License}”) to market or sell {Products} for certain surgical applications, including but not limited to cardiac, ear, nose, and throat, and urologic surgery.  (The obligations of and limitations on  {P2.the} under this {Section 2.2} are referred to collectively as  {P2.the}’s “{Territory_Commitment}”).
 
 Product.Is.Sec=<b>{Products}</b>.  “{Products}” means the Medical Device Co. products listed on Exhibit A, including the accompanying accessories, instructions for use and other documentation and material provided by {P1.the} as a package with such products.  {Products} shall also include modified or updated versions of a {Product} that do not change the {Product}’s indications for use or materially modify the {Product}’s design.  Exhibit A shall be updated from time to time to include such modified or updated {Products}.
+
+/Marc=here:
 
 Product.Discontinue.Sec=<b>Discontinuation of {Products}</b>. {P1.The} reserves the right, at its sole discretion, to determine what products it will produce and to cease manufacturing or supplying or to otherwise discontinue any {Product} or model or version of any {Product}.  If {P1.the} at any time ceases manufacturing or supplying or otherwise discontinues a particular {Product} or model or version of any {Product}, {P1.the} shall notify  {P2.the} and shall not have any further obligation to supply any such {Product} or any such model or version of the {Product} to  {P2.the}; provided, however, that confirmed {Orders} will be delivered as previously agreed by the Parties. 
 
