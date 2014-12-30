@@ -6,6 +6,8 @@ Deal.Xref=Section 1
 
 2.=[02/Sec/Definitions/YC-Safe_Def.01.md]
 
+Def.Xref=Section 2
+
 3.=[02/Sec/Rep/00/Finance/Note/YC-Safe_Rep_Company.01.md]
 
 4.=[02/Sec/Rep/00/Finance/Note/YC-Safe_Rep_Investor.01.md]
