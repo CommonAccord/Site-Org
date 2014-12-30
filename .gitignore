@@ -5,3 +5,5 @@ newlogs
 Doc/zed/
 logs/
 .project
+.settings/
+Doc/Private/
