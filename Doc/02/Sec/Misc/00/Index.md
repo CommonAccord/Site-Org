@@ -8,4 +8,8 @@ MasterServices.=[core/form/agt/master/sec/Miscellaneous_Library]
 
 ABA.=[ABA/MSPA/Sec/ABA-MSPA_Misc.md]
 
+UCRegents.=[/02/Form/License/Copyright/Library/UCRegents/Sec/UCRegents_LibraryLicense_Misc.01.md]
+
+NDA.=[02/Form/NDA/Sec/NDA_Misc.01.md]
+
 Model.Root=See the Source View
