@@ -1,8 +1,4 @@
-Model.Root={Sec}
-
-
-
-Sec=<u>{Title}</u><ol><li>{1.Sec}</li><li>{2.Sec}</li><li>{3.Sec}</li><li>{4.Sec}</li><li>{5.Sec}</li><li>{6.Sec}</li><li>{7.Sec}</li><li>{8.Sec}</li><li>{9.Sec}</li><li>{10.Sec}</li><li>{11.Sec}</li><li>{12.Sec}</li><li>{13.Sec}</li><li>{14.Sec}</li><li>{15.Sec}</li><li>{16.Sec}</li><li>{17.Sec}</li><li>{18.Sec}</li><li>{19.Sec}</li><li>{20.Sec}</li><li>{21.Sec}</li></ol>
+Ti=MISCELLANEOUS
 
 1.Ti=EXPENSES
 
