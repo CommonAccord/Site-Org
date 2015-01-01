@@ -1,4 +1,4 @@
-=[02/Form/Finance/Startup/YC-Safe_Form.01.md]
+=[02/Form/Finance/Startup/Angel/YC-Safe/YC-Safe_Form.01.md]
 
 P1.=[core/id/acme_incorporated]
 
