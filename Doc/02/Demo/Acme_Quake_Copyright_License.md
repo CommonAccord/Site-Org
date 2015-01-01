@@ -1,4 +1,4 @@
-=[02/Form/License/Copyright/Library/01.md]
+=[02/Form/License/Copyright/Library/UCRegents/UCRegents_LibraryLicense_Form.01.md]
 
 P1.=[core/id/acme_incorporated]
 
