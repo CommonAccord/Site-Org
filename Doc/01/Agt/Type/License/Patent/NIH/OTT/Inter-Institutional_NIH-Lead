@@ -143,27 +143,7 @@ Time.3.3={P1.the} and {P2.the} are involved in a dispute under this Agreement wh
 
 Time.4=If the Agreement is terminated under Paragraph 10.3, {P2.the} agrees to provide all affected licensees an opportunity to license the Patent Rights under such terms as may have been agreed to by {P1.the}.
 
-
-Misc.Sec=<b>{Misc.Title}</b><ol><li>{Misc.Notice}</li><li>{Misc.NoImmunity}</li><li>{Misc.Waive}</li><li>{Misc.Bind}</li><li>{Misc.Reserve}</li><li>{Misc.Amend}</li><li>{Misc.Entire}</li><li>{Misc.OfferAndAcceptance}</li></ol>
-
-Misc.Title=GENERAL
-
-Misc.Notice=All Agreement notices required or permitted by this Agreement shall be given by prepaid, first class, registered or certified mail or by an express/overnight delivery service provided by a commercial carrier, properly addressed to the other party at the address designated on the following Signature Page, or to such other address as may be designated in writing by the other party.  Agreement notices shall be considered timely if the notices are received on or before the established deadline date or sent on or before the deadline date as verifiable by U.S. Postal Service postmark or dated receipt from a commercial carrier.  Parties should request a legibly dated U.S. Postal Service postmark or obtain a dated receipt from a commercial carrier or the U.S. Postal Service.  Private metered postmarks shall not be acceptable as proof of timely mailing.
-
-Misc.NoImmunity=The Agreement shall not be construed to confer on any person any immunity from or defenses under the antitrust laws or from a charge of patent misuse, and the acquisition and use of rights pursuant to this Agreement shall not be immunized from the operation of state or Federal law by reason of the source of the grant.
-
-Misc.Waive=It is agreed that no waiver by either party hereto of any breach or default of any of the covenants or agreements herein set forth shall be deemed a waiver as to any subsequent or similar breach or default.
-
-Misc.Bind=This Agreement is binding upon and shall inure to the benefit of the parties hereto, their successors or assigns, but this Agreement may not be assigned by either party without the prior written consent of the other party.
-
-Misc.Reserve=This Agreement confers no license or rights by implication, estoppel, or otherwise under any patent applications or patents of {P1.the} other than the Patent Rights regardless of whether such patents are dominant or subordinate to the Patent Rights.
-
-Misc.Amend=Any modification to this Agreement must be in writing and agreed to by both parties.
-
-Misc.Entire=It is understood and agreed by {P2.the} and {P1.the} that this Agreement constitutes the entire agreement, both written and oral, between the parties, and that all prior agreements respecting the subject matter hereof, either written or oral, expressed or implied, shall be abrogated, canceled, and are null and void and of no effect.
-
-Misc.OfferAndAcceptance=The terms and conditions of this Agreement shall, at {P1.the}’s sole option, be considered by {P1.the} to be withdrawn from Institution’s consideration and the terms and conditions of this Agreement, and the Agreement itself to be null and void, unless this Agreement is executed by {P2.the} and a fully executed original is received by {P1.the} within sixty (60) days from the date of {P1.the}’s signature found at the Signature Page.
-
+Misc.=[01/Agt/Type/License/Patent/NIH/OTT/Sec/Inter-Institutional_NIH-Lead_Misc.md]
 
 Agt.Sign.Intro=IN WITNESS WHEREOF, the parties hereto have executed this Agreement in duplicate originals by their respective duly authorized officers hereunto, on the day and year hereinafter written.  Any communication or notice to be given shall be forwarded to the respective addresses listed below.
 
@@ -221,4 +201,3 @@ Fax:
 Agt.Attach={WarningAgainstPerjury}
 
 WarningAgainstPerjury=Any false or misleading statements made, presented, or submitted to the Government, including any relevant omissions, under this Agreement and during the course of negotiation of this Agreement are subject to all applicable civil and criminal statutes including Federal statutes 31 U.S.C. §§3801-3812 (civil liability) and 18 U.S.C. §1001 (criminal liability including fine(s) or imprisonment).
-                          

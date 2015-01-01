@@ -12,4 +12,9 @@ UCRegents.=[/02/Form/License/Copyright/Library/UCRegents/Sec/UCRegents_LibraryLi
 
 NDA.=[02/Form/NDA/Sec/NDA_Misc.01.md]
 
+Amazon.Privacy.=[01/Agt/Type/Web/Privacy/Amazon/Sec/Misc.md]
+
+NIH.Patent.=[01/Agt/Type/License/Patent/NIH/OTT/Sec/Inter-Institutional_NIH-Lead_Misc.md]
+
+
 Model.Root=See the Source View
