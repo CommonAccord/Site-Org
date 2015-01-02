@@ -1,0 +1,35 @@
+Affiliate={d-}Affiliate{-d}
+Affiliated={d-}Affiliated{-d}
+Affiliates={d-}Affiliates{-d}
+this_Agreement=this {d-}Agreement{-d}
+This_Agreement=This {d-}Agreement{-d}
+Board_of_Directors={d-}Board of Directors{-d}
+Code={d-}Code{-d}
+Company={d-}Company{-d}
+The_Company={d-}The Company{-d}
+the_Company={d-}the Company{-d}
+Enforcement_Action={d-}Enforcement Action{-d}
+FCPA={d-}FCPA{-d}
+Fund_Director={d-}Fund Director{-d}
+Fund_Indemnitors={d-}Fund Indemnitors{-d}
+Holder={d-}Holder{-d}
+Holder's_Immediate_Family_Member={d-}Holder’s Immediate Family Member{-d}
+Holder's_Immediate_Family_Members={d-}Holder’s Immediate Family Members{-d}
+Investor={d-}Investor{-d}
+Investors={d-}Investors{-d}
+Investor_Counsel={d-}Investor Counsel{-d}
+the_Investors={d-}the_Investors{-d}
+ Key_Employee={d-} Key Employee{-d}
+Key_Holder={d-}Key Holder{-d}
+Key_Holders={d-}Key Holders{-d}
+party={d-}party{-d}
+Person={d-}Person{-d}
+Prior_Agreement={d-}Prior Agreement{-d}
+Purchase_Agreement={d-}Purchase Agreement{-d}
+Registrable_Securities={d-}Registrable Securities{-d}
+Series_A_Director={d-}Series A Director{-d}
+Series_A_Directors={d-}Series_A_Directors{-d}
+SeriesX_Preferred_Stock={d-}SeriesX Preferred Stock{-d}
+
+d-=<a><font color="green">
+-d=</font></a>
