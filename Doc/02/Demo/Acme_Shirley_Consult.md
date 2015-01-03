@@ -1,6 +1,6 @@
-=[02/Form/Consult/01.md]
+=[02/Form/Consult/Consult_Form.01.md]
 
-=[02/Demo/Acme_Shirley_NDA_Mutual.md]
+=[02/Demo/NDA/Acme_Shirley_NDA_Mutual.md]
 
 Term.End.YMD=December 31, 2015
 

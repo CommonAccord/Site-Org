@@ -63,37 +63,9 @@ Employee.Xref=Section 3
 
 6.Survive.Xrefs={IP.WorkProduct.Xref} (“Ownership of Work Product”), {IP.Preexisting_IP.Xref} (“License to Preexisting IP”), {Rep.Xref} (“Representations and Warranties”), {Confidential.Xref} (“Confidential Information”) and {Unfair.Interference.Xref} (“Noninterference with Business”)
 
+7.=[02/Form/Consult/Sec/Consult_Sec_Dispute.01.md]
 
-7.Ti=Dispute Resolution
-
-7.1.=[02/Sec/Dispute/USLaw/01.md]
-
-7.2.=[02/Sec/Dispute/Injunction/02.md]
-
-7.=[01/Agt/Bit/Secs/02]
-
-
-8.Ti=Miscellaneous
-
-8.1.=[02/Sec/Misc/Entire/02.md]
-
-/Note=Was 02/Sec/Misc/Amend/02.md, but don't see any superiority.
-
-8.2.=[02/Sec/Misc/Assign/02.md]
-
-8.3.=[02/Sec/Misc/Notice/02.md]
-
-8.4.=[02/Sec/Misc/Sever/01.md]
-
-8.5.=[02/Sec/Misc/Waive/01.md]
-
-8.6.=[02/Sec/Misc/Amend/01.md]
-
-8.7.=[02/Sec/Misc/Counterpart/01.md]
-
-8.8.=[02/Sec/Misc/Independent/01.md]
-
-8.=[01/Agt/Bit/Secs/08]
+8.=[02/Form/Consult/Sec/Consult_Sec_Misc.01.md]
 
 90.=[02/Sec/Frame/End/02.md]
 
