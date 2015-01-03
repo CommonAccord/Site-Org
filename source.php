@@ -74,9 +74,8 @@ foreach($contents as $n) {
 
 <div id="tab-edit">
 
-<?
-echo "Edit in the wiki (copy the text below then click here): <a href=http://response.commonaccord.org/$rootdir[dirname]/$filenameX>$rootdir[dirname]/$filenameX</a>
-<form action=$_SERVER[PHP_SELF] method='post'>
+<?php
+echo "<form action=$_SERVER[PHP_SELF] method='post'>
         <textarea id='textedit' cols=125 rows=30 name='newcontent' style='padding:20px;'>";
 echo file_get_contents($path.$dir, FILE_USE_INCLUDE_PATH);
 
