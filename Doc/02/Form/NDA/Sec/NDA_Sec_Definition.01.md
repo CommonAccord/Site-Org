@@ -1,6 +1,18 @@
 Ti=Definition
 
-0.Sec=As used herein, the “{Confidential_Information}” of a {Party} will mean any and all technical and non-technical information disclosed by such {Party} (the “{Disclosing_Party}”) to the other {Party} (the “{Receiving_Party}”), including without limitation information regarding: 
+0.Sec={Mutual.0.Sec}
+
+Mutual.0.Sec={0.1.Cl} {Mutual.0.2.cl} {0.3.cl}:
+
+OneWay.0.Sec={0.1.Cl} {OneWay.0.2.cl} {0.3.cl}:
+
+0.1.Cl=As used herein, the “{Confidential_Information}” shall mean any and all technical and non-technical information disclosed 
+
+Mutual.0.2.cl=by a {Party} (the “{Disclosing_Party}”) to the other {Party} (the “{Receiving_Party}”)
+
+OneWay.0.2.cl=by {P1.the} (also referred to as the “{Disclosing_Party}”) to {P2.the} (also referred to as the “{Receiving_Party}”)
+
+0.3.cl=including without limitation information regarding
 
 1.sec=patent and patent applications;
 

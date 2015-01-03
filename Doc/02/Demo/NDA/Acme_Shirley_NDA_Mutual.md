@@ -6,11 +6,11 @@ P2.=[core/id/solomon_shirley]
 
 P1.Handle={d-}Acme{-d}
 
-P2.Handle={d-}Contractor{-d}
+P2.Handle={d-}Shirley{-d}
 
 Agt.Effective.YMD=December 1, 2014
 
-12.3.sec={12.NoTimeLimit.3.sec}
+4.3.sec={4.NoTimeLimit.3.sec}
 
 P1.xSignature=xANDREA ANG
 
