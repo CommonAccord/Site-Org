@@ -4,7 +4,7 @@ Ti=Engagement
 
 1.Ti=Disclosure and Use
 
-1.0.Sec=Subject to Section {Conf.ExcludeAndExcept.Xnum}, {the_Receiving_Party} agrees that at all times and notwithstanding any termination or expiration of {this_Agreement} it will:
+1.0.Sec=Subject to {Conf.ExcludeAndExcept.Xref}, {the_Receiving_Party} agrees that at all times and notwithstanding any termination or expiration of {this_Agreement} it will:
 
 1.1.sec=hold in strict confidence and not disclose to any third party any {Confidential_Information_of_the_Disclosing_Party}, except as approved in writing by {the_Disclosing_Party}, and 
 

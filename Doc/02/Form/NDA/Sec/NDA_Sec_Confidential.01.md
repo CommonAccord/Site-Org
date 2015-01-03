@@ -6,7 +6,9 @@ Ti=Confidentiality
 
 3.=[02/Form/NDA/Sec/NDA_Sec_Exclude.01.md]
 
-Exclude.Xnum=1.3
+Conf.ExcludeAndExcept.Xref={Xref}.3 and {Xref}.4
+
+Conf.Exclude.Xref={Xref}.3
 
 4.=[02/Form/NDA/Sec/NDA_Sec_Except.01.md]
 
@@ -15,4 +17,3 @@ Exclude.Xnum=1.3
 6.=[02/Form/NDA/Sec/NDA_Sec_Decompile.01.md]
 
 =[01/Agt/Bit/Secs/06]
-
