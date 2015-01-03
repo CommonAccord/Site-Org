@@ -4,15 +4,15 @@ P1.Handle={d-}Company{-d}
 
 P2.Handle={d-}Consultant{-d}
 
-0.=[02/Sec/Frame/Intro/01.md]
+0.=[02/Sec/Frame_Intro.01.md]
 
-1.=[02/Sec/00/Consult/Engage/01.md]
+1.=[02/Sec/Consult_Sec_Engage.01.md]
 
-2.=[02/Sec/00/Consult/Compensate/01.md]
+2.=[02/Sec/Consult_Sec_Compensate.01.md]
 
 3.Ti=Intellectual Property and Work Product
 
-3.1.=[02/Sec/Cov/Work_Product/Ownership/01.md]
+3.1.=[02/Sec/Sec_Cov_IP_WorkProductOwnership.01.md]
 
 IP.Xref={3.Xref}
 
@@ -22,9 +22,9 @@ IP.Preexisting_IP.Xref={IP.Xref}.2
 
 IP.WorkProduct.OtherRight.Xnum={IP.WorkProduct.Xref}.4
 
-3.2.=[02/Sec/Cov/Work_Product/Preexisting_IP/01.md]
+3.2.=[02/Sec/Sec_Cov_IP_Preexisting.01.md]
 
-3.3.=[02/Sec/00/Confidential/Comprehensive/01.md]
+3.3.=[02/Sec/Sec_Conf_Comprehensive.01.md]
 
 3.=[01/Agt/Bit/Secs/03]
 
@@ -34,9 +34,9 @@ Confidential.Xref={3.Xref}.3
 
 4.Ti=Representations of {P2.Handle}
 
-4.1.=[02/Sec/Rep/Consultant/01.md]
+4.1.=[02/Sec/Consult_Sec_Rep.01.md]
 
-4.2.=[02/Sec/Remedy/Indemnify/BreachOfRep/01.md]
+4.2.=[02/Sec/Sec_Remedy_IndemnifyBreachOfRep.01.md]
 
 Rep.Xref={4.Xref}
 
@@ -45,13 +45,13 @@ Rep.Xref={4.Xref}
 
 5.Ti=Other Covenants of {P2.Handle}
 
-5.1.=[02/Sec/Cov/Conflict_of_Interest/01.md]
+5.1.=[02/Sec/Sec_Cov_ConflictOfInterest.01.md]
 
-5.2.=[02/Sec/Cov/Unfair/Interference/01.md]
+5.2.=[02/Sec/Sec_Cov_Unfair_Interference.01.md]
 
 Unfair.Interference.Xref={5.Xref}.2
 
-5.3.=[02/Sec/Cov/Employee/01.md]
+5.3.=[02/Sec/Sec_Cov_Employee.01.md]
 
 5.=[01/Agt/Bit/Secs/03]
 
@@ -59,7 +59,7 @@ Unfair.Interference.Xref={Unfair.Xref}.2
 
 Employee.Xref=Section 3
 
-6.=[02/Sec/Term/02.md]
+6.=[02/Sec/Sec_Term.02.md]
 
 6.Survive.Xrefs={IP.WorkProduct.Xref} (“Ownership of Work Product”), {IP.Preexisting_IP.Xref} (“License to Preexisting IP”), {Rep.Xref} (“Representations and Warranties”), {Confidential.Xref} (“Confidential Information”) and {Unfair.Interference.Xref} (“Noninterference with Business”)
 
@@ -67,7 +67,7 @@ Employee.Xref=Section 3
 
 8.=[02/Form/Consult/Sec/Consult_Sec_Misc.01.md]
 
-90.=[02/Sec/Frame/End/02.md]
+90.=[02/Sec/Frame_End.02.md]
 
 Attach.Block={90.Attach.3}
 
