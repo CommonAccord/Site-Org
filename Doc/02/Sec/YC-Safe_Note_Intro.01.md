@@ -7,7 +7,7 @@ Sec={1.Sec}<br><br>{2.Sec}<br><br>{3.Sec}<br><br>{4.Sec}<br><br>{5.Sec}<br><br>{
 
 2.Sec=SAFE  (Simple Agreement for Future Equity)
 
-3.Sec=THIS CERTIFIES THAT in exchange for the payment by {P2.Name.Full} (the “{Investor}”) of ${InvestmentAmount} (the “{Purchase_Amount}”) on or about {DateOfSafe}, {P1.N,E,A} (the “{Company}”), hereby issues to {the_Investor} the right to certain shares of {the_Company}’s capital stock, subject to the terms set forth below.
+3.Sec=THIS CERTIFIES THAT in exchange for the payment by {P2.Name.Full} (the “{Investor}”) of {InvestmentAmount.$} (the “{Purchase_Amount}”) on or about {DateOfSafe}, {P1.N,E,A} (the “{Company}”), hereby issues to {the_Investor} the right to certain shares of {the_Company}’s capital stock, subject to the terms set forth below.
 
 4.Sec=The “{Valuation_Cap}” is {ValuationCap.$}.  
 

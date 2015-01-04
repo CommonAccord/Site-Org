@@ -1,4 +1,4 @@
-Ti=Representations and Warranties of the Purchasers
+Ti=Representations and Warranties of the {Purchasers}
 
 1.Ti=Purchase for Own Account
 
@@ -20,9 +20,9 @@ Ti=Representations and Warranties of the Purchasers
 
 4.2.Sec=The {Purchaser} shall have notified {the_Company} of the proposed disposition and shall have furnished {the_Company} with a detailed statement of the circumstances surrounding the proposed disposition, and if reasonably requested by {the_Company}, such {Purchaser} shall have furnished {the_Company} with an opinion of counsel, reasonably satisfactory to {the_Company}, that such disposition will not require registration under the Act or any applicable state securities laws, provided that no such opinion shall be required for dispositions in compliance with Rule 144, except in unusual circumstances.
 
-4.3.Sec=Notwithstanding the provisions of paragraphs (a) and (b) above, no such registration statement or opinion of counsel shall be necessary for a transfer by such {Purchaser} to a partner (or retired partner) or member (or retired member) of such {Purchaser} in accordance with partnership or limited liability company interests, or transfers by gift, will or intestate succession to any spouse or lineal descendants or ancestors, if all transferees agree in writing to be subject to the terms hereof to the same extent as if they were {Purchasers} hereunder.
+4.3.Sec=Notwithstanding the provisions of paragraphs (1) and (2) above, no such registration statement or opinion of counsel shall be necessary for a transfer by such {Purchaser} to a partner (or retired partner) or member (or retired member) of such {Purchaser} in accordance with partnership or limited liability company interests, or transfers by gift, will or intestate succession to any spouse or lineal descendants or ancestors, if all transferees agree in writing to be subject to the terms hereof to the same extent as if they were {Purchasers} hereunder.
 
-4.Sec=<b>{4.Ti}</b><br>{4.0.Sec}<ol type="a"><li>{4.1.Sec}<li>{4.2.Sec}<li>{4.3.Sec}</ol>
+4.=[01/Agt/Bit/Secs/03]  
 
 5.Ti=Accredited Investor Status
 

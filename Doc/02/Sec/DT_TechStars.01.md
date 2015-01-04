@@ -62,4 +62,4 @@ Securities={m-}Securities{-m}
 
 m-=<a href="https://github.com/CommonAccord/Org/blob/master/Doc/Boehmig/techstars-note/defined-terms.md"><font color="green">
 
--m=</font></a>  
+-m=</font></a>
