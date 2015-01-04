@@ -12,3 +12,4 @@ We.provide.for=intended to enhance your use of the sleep and body monitoring ele
 
 2.Sec={This_Policy} is subject to the provisions our Terms of Use (the "{Terms_of_Use}"), which are incorporated by reference. To see the {Terms_of_Use} click here {ToU.href}.
 
+=[01/Agt/Bit/Secs/02]
