@@ -62,29 +62,29 @@ H.5.Sec=FOR VALUE RECEIVED, {m-}{Company Name}{-m}, a Delaware corporation (the 
 
 1.7.Sec=“<i>Financial Statements</i>” shall mean an income statement, balance sheet, statement of stockholders’ equity, and/or a statement of cash flows, in each case as of the end of (i) each of the first three (3) fiscal quarters and (ii) each fiscal year of the Company.
 
-1.6.Sec=“<i>Fully-Diluted Capitalization</i>” shall mean the number of shares of outstanding Common Stock of the Company on a fully-diluted basis, including (i) conversion or exercise of all securities convertible into or exercisable for Common Stock, (ii) exercise of all outstanding options and warrants to purchase Common Stock and, in the case of Section 1(b)(i) and 1(b)(iii) only, (iii) the shares reserved or authorized for issuance under the Company’s existing stock option plan or any stock option plan created or increased in connection with such transaction; but excluding, for this purpose, the conversion contemplated by the applicable provision of Section 2.
+1.8.Sec=“<i>Fully-Diluted Capitalization</i>” shall mean the number of shares of outstanding Common Stock of the Company on a fully-diluted basis, including (i) conversion or exercise of all securities convertible into or exercisable for Common Stock, (ii) exercise of all outstanding options and warrants to purchase Common Stock and, in the case of Section 1(b)(i) and 1(b)(iii) only, (iii) the shares reserved or authorized for issuance under the Company’s existing stock option plan or any stock option plan created or increased in connection with such transaction; but excluding, for this purpose, the conversion contemplated by the applicable provision of Section 2.
 
-1.7.Sec=“<i>Holder</i>” shall mean a member of the KISS Group that holds a KISS (including, without limitation, the Investor, for so long as the Investor holds this KISS).
+1.9.Sec=“<i>Holder</i>” shall mean a member of the KISS Group that holds a KISS (including, without limitation, the Investor, for so long as the Investor holds this KISS).
 
-1.8.Sec=“<i>Interest Rate</i>” shall mean a rate of four percent (4%) per annum, compounded annually.
+1.10.Sec=“<i>Interest Rate</i>” shall mean a rate of four percent (4%) per annum, compounded annually.
 
-1.9.Sec=“<i>KISS</i>” or “<i>KISSes</i>” shall mean the KISS instruments issued by the Company to Holders in the form hereof.
+1.11.Sec=“<i>KISS</i>” or “<i>KISSes</i>” shall mean the KISS instruments issued by the Company to Holders in the form hereof.
 
-1.10.Sec=“<i>KISS Group</i>” shall mean the holders of all KISSes in the Series, collectively.
+1.12.Sec=“<i>KISS Group</i>” shall mean the holders of all KISSes in the Series, collectively.
 
-1.11.Sec=“<i>Majority in Interest</i>” shall mean members of the KISS Group holding a majority in interest of the aggregate Purchase Prices of all KISSes in the Series.
+1.13.Sec=“<i>Majority in Interest</i>” shall mean members of the KISS Group holding a majority in interest of the aggregate Purchase Prices of all KISSes in the Series.
 
-1.12.Sec=“<i>Maturity Date</i>” shall mean the date that is eighteen (18) months following the Date of Issuance.
+1.14.Sec=“<i>Maturity Date</i>” shall mean the date that is eighteen (18) months following the Date of Issuance.
 
-1.13.Sec=“<i>Next Equity Financing</i>” shall mean the next sale (or series of related sales) by the Company of its Preferred Stock following the Date of Issuance from which the Company receives gross proceeds of not less than $1,000,000 (excluding the aggregate amount of securities converted into Preferred Stock in connection with such sale (or series of related sales)).
+1.15.Sec=“<i>Next Equity Financing</i>” shall mean the next sale (or series of related sales) by the Company of its Preferred Stock following the Date of Issuance from which the Company receives gross proceeds of not less than $1,000,000 (excluding the aggregate amount of securities converted into Preferred Stock in connection with such sale (or series of related sales)).
 
-1.14.Sec=“<i>Participation Amount</i>” shall mean an amount in US dollars equal to one times (1X) the Purchase Price. 
+1.16.Sec=“<i>Participation Amount</i>” shall mean an amount in US dollars equal to one times (1X) the Purchase Price. 
 
-1.15.Sec=“<i>Shadow Series</i>” shall mean shares of a series of the Company’s Preferred Stock that is identical in all respects to the shares of Preferred Stock issued in the Next Equity Financing (e.g., if the Company sells Series A Preferred Stock in the Next Equity Financing, the Shadow Series would be Series A-1 Preferred Stock), except that the liquidation preference per share of the Shadow Series shall equal the Conversion Price (as determined pursuant to Section 1(b)(i)), with corresponding adjustments to any price-based antidilution and dividend rights provisions.
+1.17.Sec=“<i>Shadow Series</i>” shall mean shares of a series of the Company’s Preferred Stock that is identical in all respects to the shares of Preferred Stock issued in the Next Equity Financing (e.g., if the Company sells Series A Preferred Stock in the Next Equity Financing, the Shadow Series would be Series A-1 Preferred Stock), except that the liquidation preference per share of the Shadow Series shall equal the Conversion Price (as determined pursuant to Section 1(b)(i)), with corresponding adjustments to any price-based antidilution and dividend rights provisions.
 
-1.16.Sec=“<i>Valuation Cap</i>” shall mean US$ {m-}{Valuation Cap}{-m}.
+1.18.Sec=“<i>Valuation Cap</i>” shall mean US$ {m-}{Valuation Cap}{-m}.
 
-1.secs={1.1-16.Secs}
+1.secs={1.1-18.Secs}
 
 
 

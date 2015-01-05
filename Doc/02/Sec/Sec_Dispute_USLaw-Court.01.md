@@ -1,8 +1,8 @@
 Ti=Dispute Resolution
 
-1.=[02/Sec/Dispute/USLaw/01.md]
+1.=[02/Sec/Sec_Dispute_USLaw.01.md]
 
-2.=[02/Sec/Dispute/USCourt/01.md]
+2.=[02/Sec/Sec_Dispute_USCourt.01.md]
 
 =[01/Agt/Bit/Secs/02]
 
