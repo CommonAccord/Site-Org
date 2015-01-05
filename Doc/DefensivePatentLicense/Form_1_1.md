@@ -4,15 +4,15 @@ Ti=License
 
 0.Ti=NOTICE:
 
-0.sec=ALL RIGHTS IN LICENSED PATENTS (as defined below) PROVIDED UNDER THIS DEFENSIVE PATENT LICENSE (‚ÄúDPL‚Äù) ARE SUBJECT TO ALL OF THE CONDITIONS AND LIMITATIONS SET FORTH BELOW. MAKING, USING, SELLING, OFFERING FOR SALE, IMPORTING, OR DISTRIBUTING PRODUCTS OR SERVICES EMBODYING THE LICENSED PATENTS, OTHER THAN AS EXPLICITLY AUTHORIZED UNDER THIS LICENSE OR PATENT LAW, IS PROHIBITED.
+0.sec=ALL RIGHTS IN LICENSED PATENTS (as defined below) PROVIDED UNDER THIS DEFENSIVE PATENT LICENSE (ìDPLî) ARE SUBJECT TO ALL OF THE CONDITIONS AND LIMITATIONS SET FORTH BELOW. MAKING, USING, SELLING, OFFERING FOR SALE, IMPORTING, OR DISTRIBUTING PRODUCTS OR SERVICES EMBODYING THE LICENSED PATENTS, OTHER THAN AS EXPLICITLY AUTHORIZED UNDER THIS LICENSE OR PATENT LAW, IS PROHIBITED.
 
 1.Ti=License Grant
 
-1.0.Sec=Subject to the conditions and limitations of this License, Licensor hereby grants and agrees to grant to any DPL User (as defined in Section 7.6) who follows the procedures for License Acceptance (as defined in Section 1.1) a worldwide, royalty-free, no-charge, non-exclusive, irrevocable (except as stated in Sections 2(e) and 2(f)) license, perpetual for the term of the relevant Licensed Patents, to make, have made, use, sell, offer for sale, import, and distribute Licensed Products and Services that would otherwise infringe any claim of Licensed Patents. A Licensee‚Äôs sale of Licensed Products and Services pursuant to this agreement exhausts the Licensor‚Äôs ability to assert infringement against a downstream purchaser or user of the Licensed Products or Services. Licensor‚Äôs obligation to grant Licenses under this provision ceases upon the arrival of any applicable Discontinuation Date, unless that Date is followed by a subsequent Offering Announcement.
+1.0.Sec=Subject to the conditions and limitations of this License, Licensor hereby grants and agrees to grant to any DPL User (as defined in Section 7.6) who follows the procedures for License Acceptance (as defined in Section 1.1) a worldwide, royalty-free, no-charge, non-exclusive, irrevocable (except as stated in Sections 2(e) and 2(f)) license, perpetual for the term of the relevant Licensed Patents, to make, have made, use, sell, offer for sale, import, and distribute Licensed Products and Services that would otherwise infringe any claim of Licensed Patents. A Licenseeís sale of Licensed Products and Services pursuant to this agreement exhausts the Licensorís ability to assert infringement against a downstream purchaser or user of the Licensed Products or Services. Licensorís obligation to grant Licenses under this provision ceases upon the arrival of any applicable Discontinuation Date, unless that Date is followed by a subsequent Offering Announcement.
 
 1.1.Ti=License Acceptance
 
-1.1.sec=In order to accept this License, Licensee must qualify as a DPL User (as defined in Section 7.6) and must contact Licensor via the information provided in Licensor‚Äôs Offering Announcement to state affirmatively that Licensee accepts the terms of this License. Licensee must also communicate the URL of its own Offering Announcement (as defined in Section 7.13) and specify whether it is accepting the License to all Licensor‚Äôs Patents or only a subset of those Patents. If Licensee is only accepting the License to a subset of Licensor‚Äôs Patents, Licensee must specify each individual Patent‚Äôs country of issuance and corresponding patent number for which it is accepting a License. There is no requirement that the Licensor respond to the Licensee‚Äôs affirmative acceptance of this License.
+1.1.sec=In order to accept this License, Licensee must qualify as a DPL User (as defined in Section 7.6) and must contact Licensor via the information provided in Licensorís Offering Announcement to state affirmatively that Licensee accepts the terms of this License. Licensee must also communicate the URL of its own Offering Announcement (as defined in Section 7.13) and specify whether it is accepting the License to all Licensorís Patents or only a subset of those Patents. If Licensee is only accepting the License to a subset of Licensorís Patents, Licensee must specify each individual Patentís country of issuance and corresponding patent number for which it is accepting a License. There is no requirement that the Licensor respond to the Licenseeís affirmative acceptance of this License.
 
 1.=[01/Agt/Bit/Outline/1.Sec]
 
@@ -27,21 +27,21 @@ Ti=License
 
 2.2.Ti=License Extends Solely to Licensed Patents in Connection with Licensed Products and Services
 
-2.2.sec=For clarity, this License does not purport to grant any rights in any Licensor‚Äôs copyright, trademark, trade dress, design, trade secret, other intellectual property, or any other rights of Licensor other than the rights to Licensed Patents granted in Section 2, nor does the License cover products or services other than the Licensed Products and Services.  For example, this License would not apply to any conduct of a Licensee that occurred prior to accepting this License under Section 1.1.
+2.2.sec=For clarity, this License does not purport to grant any rights in any Licensorís copyright, trademark, trade dress, design, trade secret, other intellectual property, or any other rights of Licensor other than the rights to Licensed Patents granted in Section 2, nor does the License cover products or services other than the Licensed Products and Services.  For example, this License would not apply to any conduct of a Licensee that occurred prior to accepting this License under Section 1.1.
 
 2.=[01/Agt/Bit/Outline/1-2.Secs]
 
 2.3.Ti=Scope
 
-2.3.sec=This License does not include Patents with a priority date or Effective Filing Date later than Licensor‚Äôs last Discontinuation Date that has not been followed by a subsequent Offering Announcement by Licensor.
+2.3.sec=This License does not include Patents with a priority date or Effective Filing Date later than Licensorís last Discontinuation Date that has not been followed by a subsequent Offering Announcement by Licensor.
 
 2.4.Ti=Future DPL Users
 
-2.4.sec=This License does not extend to any DPL User whose Offering Announcement occurs later than Licensor‚Äôs last Discontinuation Date that has not been followed by a subsequent Offering Announcement by Licensor.
+2.4.sec=This License does not extend to any DPL User whose Offering Announcement occurs later than Licensorís last Discontinuation Date that has not been followed by a subsequent Offering Announcement by Licensor.
 
 2.5.Ti=Revocation and Termination Rights
 
-2.5.0.Sec=Licensor reserves the right to revoke and/or terminate this License with respect to a particular Licensee if, after the date of the Licensee‚Äôs most recent Offering Announcement:
+2.5.0.Sec=Licensor reserves the right to revoke and/or terminate this License with respect to a particular Licensee if, after the date of the Licenseeís most recent Offering Announcement:
 
 2.5.1.Sec=Licensee makes any Infringement Claim, not including Defensive Patent Claims, against a DPL User; or
 
@@ -49,7 +49,7 @@ Ti=License
 
 2.6.Ti=Optional Conversion to FRAND Upon Discontinuation
 
-2.6.sec=Notwithstanding any other provision in this License, as of any particular Licensee‚Äôs Discontinuation Date, Licensor has the right to convert the License of that particular Licensee from one that is royalty-free and no-charge to one that is subject to Fair, Reasonable, And Non-Discriminatory (FRAND) terms going forward. No other terms in the license may be altered in any way under this provision.
+2.6.sec=Notwithstanding any other provision in this License, as of any particular Licenseeís Discontinuation Date, Licensor has the right to convert the License of that particular Licensee from one that is royalty-free and no-charge to one that is subject to Fair, Reasonable, And Non-Discriminatory (FRAND) terms going forward. No other terms in the license may be altered in any way under this provision.
 
 2.=[01/Agt/Bit/Outline/1-6.Secs]
 
@@ -63,7 +63,7 @@ Ti=License
 
 3.2.1.Sec=Any one of the license stewards may publish revised and/or new versions of the DPL from time to time. Such new versions will be similar in spirit to the present version, but may differ in detail to address new problems or concerns.
 
-3.2.2.Sec=Each version is given a distinguishing version number. If Licensor specifies in her Offering Announcement that she is offering a certain numbered version of the DPL ‚Äúor any later version‚Äù, Licensee has the option of following the terms and conditions either of that numbered version or of any later version published by one of the license stewards. If Licensor does not specify a version number of the DPL in her Offering Announcement, Licensee may choose any version ever published by any of the license stewards.
+3.2.2.Sec=Each version is given a distinguishing version number. If Licensor specifies in her Offering Announcement that she is offering a certain numbered version of the DPL ìor any later versionî, Licensee has the option of following the terms and conditions either of that numbered version or of any later version published by one of the license stewards. If Licensor does not specify a version number of the DPL in her Offering Announcement, Licensee may choose any version ever published by any of the license stewards.
 
 3.2.=[01/Agt/Bit/Outline/1-2.Secs]
 
@@ -76,7 +76,7 @@ Ti=License
 
 5.Ti=Disclaimer of Warranties
 
-5.sec=UNLESS OTHERWISE MUTUALLY AGREED TO BY THE PARTIES IN WRITING, LICENSOR OFFERS THE PATENT LICENSE GRANTED HEREIN ‚ÄúAS IS‚Äù AND MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND CONCERNING THE LICENSED PATENTS OR ANY PRODUCT EMBODYING ANY LICENSED PATENT, EXPRESS OR IMPLIED, STATUTORY OR OTHERWISE, INCLUDING, WITHOUT LIMITATION, WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, OR THE PRESENCE OR ABSENCE OF ERRORS, REGARDLESS OF THEIR DISCOVERABILITY. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES, IN WHICH CASE SUCH EXCLUSION MAY NOT APPLY TO LICENSEE.
+5.sec=UNLESS OTHERWISE MUTUALLY AGREED TO BY THE PARTIES IN WRITING, LICENSOR OFFERS THE PATENT LICENSE GRANTED HEREIN ìAS ISî AND MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND CONCERNING THE LICENSED PATENTS OR ANY PRODUCT EMBODYING ANY LICENSED PATENT, EXPRESS OR IMPLIED, STATUTORY OR OTHERWISE, INCLUDING, WITHOUT LIMITATION, WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, OR THE PRESENCE OR ABSENCE OF ERRORS, REGARDLESS OF THEIR DISCOVERABILITY. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES, IN WHICH CASE SUCH EXCLUSION MAY NOT APPLY TO LICENSEE.
 
 6.Ti=Limitation of Liability
 
@@ -84,15 +84,15 @@ Ti=License
 
 7.Ti=Definitions
 
-7.1.Sec=‚ÄúAffiliate‚Äù means a corporation, partnership, or other entity in which the Licensor or Licensee possesses more than fifty percent (50%) of the ownership interest, representing the right to make the decisions for such corporation, partnership or other entity which is now or hereafter, owned or controlled, directly or indirectly, by Licensor or Licensee.
+7.1.Sec=ìAffiliateî means a corporation, partnership, or other entity in which the Licensor or Licensee possesses more than fifty percent (50%) of the ownership interest, representing the right to make the decisions for such corporation, partnership or other entity which is now or hereafter, owned or controlled, directly or indirectly, by Licensor or Licensee.
 
-7.2.Sec=‚ÄúDefensive Patent Claim‚Äù means an Infringement Claim against a DPL User made in response to a pending prior Infringement Claim by said DPL User against the asserter of the Defensive Patent Claim.
+7.2.Sec=ìDefensive Patent Claimî means an Infringement Claim against a DPL User made in response to a pending prior Infringement Claim by said DPL User against the asserter of the Defensive Patent Claim.
 
-7.3.0.Sec=‚ÄúDiscontinuation Announcement‚Äù means a DPL User‚Äôs announcement that:
+7.3.0.Sec=ìDiscontinuation Announcementî means a DPL Userís announcement that:
 
-7.3.1.Sec=declares the DPL User‚Äôs intent to discontinue offering to license its Licensed Patents under the DPL, effective as of the Discontinuation Date; and
+7.3.1.Sec=declares the DPL Userís intent to discontinue offering to license its Licensed Patents under the DPL, effective as of the Discontinuation Date; and
 
-7.3.2.Sec=contains the DPL User‚Äôs contact information for licensing purposes; and
+7.3.2.Sec=contains the DPL Userís contact information for licensing purposes; and
 
 7.3.3.Sec=at least 180 days prior to the Discontinuation Date is posted to a publicly accessible website; and
 
@@ -102,11 +102,11 @@ Ti=License
 
 7.3.=[01/Agt/Bit/Outline/1-4.Secs]
 
-7.4.Sec=‚ÄúDiscontinuation Date‚Äù means the date a DPL User specifies in its Discontinuation Announcement to discontinue offering to license its Licensed Patents under the DPL, which must be at least 180 days after the date of an individual or entity‚Äôs most recent Discontinuation Announcement.
+7.4.Sec=ìDiscontinuation Dateî means the date a DPL User specifies in its Discontinuation Announcement to discontinue offering to license its Licensed Patents under the DPL, which must be at least 180 days after the date of an individual or entityís most recent Discontinuation Announcement.
 
-7.5.Sec=‚ÄúDPL‚Äù and ‚ÄúLicense‚Äù mean the grant, conditions, and limitations herein.
+7.5.Sec=ìDPLî and ìLicenseî mean the grant, conditions, and limitations herein.
 
-7.6.0.Sec=‚ÄúDPL User‚Äù means an entity or individual that:
+7.6.0.Sec=ìDPL Userî means an entity or individual that:
 
 7.6.1.Sec=has committed to offer a license to each of its Patents under the DPL; and
 
@@ -120,33 +120,33 @@ Ti=License
 
 7.6.=[01/Agt/Bit/Outline/1-4.Secs]
 
-7.7.Sec=‚ÄúEffective Filing Date‚Äù is the effective filing date determined by the applicable patent office that issued the relevant Licensed Patent.
+7.7.Sec=ìEffective Filing Dateî is the effective filing date determined by the applicable patent office that issued the relevant Licensed Patent.
 
-7.8.Sec=‚ÄúInfringement Claim‚Äù means any legal action, proceeding or procedure for the resolution of a controversy in any jurisdiction in the world, whether created by a claim, counterclaim, or cross-claim, alleging patent infringement. Such actions, proceedings, or procedures shall include, but not be limited to, lawsuits brought in state or federal court, binding arbitrations, and administrative actions such as a proceeding before the International Trade Commission.
+7.8.Sec=ìInfringement Claimî means any legal action, proceeding or procedure for the resolution of a controversy in any jurisdiction in the world, whether created by a claim, counterclaim, or cross-claim, alleging patent infringement. Such actions, proceedings, or procedures shall include, but not be limited to, lawsuits brought in state or federal court, binding arbitrations, and administrative actions such as a proceeding before the International Trade Commission.
 
-7.9.Sec=‚ÄúLicensed Patents‚Äù means any and all Patents (a) owned or controlled by Licensor; or (b) under which Licensor has the right to grant licenses without the consent of or payment to a third party (other than an employee inventor).
+7.9.Sec=ìLicensed Patentsî means any and all Patents (a) owned or controlled by Licensor; or (b) under which Licensor has the right to grant licenses without the consent of or payment to a third party (other than an employee inventor).
 
-7.10.Sec=‚ÄúLicensed Products and Services‚Äù means any products, services or other activities of a Licensee that practice one or more claims of one or more Licensed Patents of a Licensor.
+7.10.Sec=ìLicensed Products and Servicesî means any products, services or other activities of a Licensee that practice one or more claims of one or more Licensed Patents of a Licensor.
 
-7.11.Sec=‚ÄúLicensee‚Äù means any individual, corporation, partnership or other entity exercising rights granted by the Licensor under this License including all Affiliates of such entity.
+7.11.Sec=ìLicenseeî means any individual, corporation, partnership or other entity exercising rights granted by the Licensor under this License including all Affiliates of such entity.
 
-7.12.Sec=‚ÄúLicensor‚Äù means any individual, corporation, partnership or other entity with the right to grant licenses in Licensed Patents under this License, including any Affiliates of such entity.
+7.12.Sec=ìLicensorî means any individual, corporation, partnership or other entity with the right to grant licenses in Licensed Patents under this License, including any Affiliates of such entity.
 
-7.13.0.Sec=‚ÄúOffering Announcement‚Äù means a Licensor‚Äôs announcement that:
+7.13.0.Sec=ìOffering Announcementî means a Licensorís announcement that:
 
-7.13.1.Sec=declares the Licensor‚Äôs commitment to offer a Defensive Patent License for any of its Patents to any DPL User; and
+7.13.1.Sec=declares the Licensorís commitment to offer a Defensive Patent License for any of its Patents to any DPL User; and
 
-7.13.2.Sec=contains the Licensor‚Äôs contact information for licensing purposes; and
+7.13.2.Sec=contains the Licensorís contact information for licensing purposes; and
 
 7.13.3.Sec=is posted to a publicly accessible website.
 
-7.13.90.Sec=An Offering Announcement may, but is not required to, specify the particular version of the DPL that the Licensor is committed to offering. It may also specify a particular version of the DPL ‚Äúor any later version‚Äù to allow Licensees to accept subsequent new or revised versions of the DPL.
+7.13.90.Sec=An Offering Announcement may, but is not required to, specify the particular version of the DPL that the Licensor is committed to offering. It may also specify a particular version of the DPL ìor any later versionî to allow Licensees to accept subsequent new or revised versions of the DPL.
 
 7.13.Sec={7.13.0-sec}
 
 7.13.=[01/Agt/Bit/Outline/1-3.Secs]
 
-7.14.Sec=‚ÄúPatent‚Äù means any right, whether now or later acquired, under any national or international patent law issued by a governmental body authorized to issue such rights. For clarity, this definition includes any rights that may arise in patent applications, utility models, granted patents, including, but not limited to, continuations, continuations-in-part, divisionals, provisionals, results of any patent reexaminations, and reissues, but excluding design patents or design registrations.
+7.14.Sec=ìPatentî means any right, whether now or later acquired, under any national or international patent law issued by a governmental body authorized to issue such rights. For clarity, this definition includes any rights that may arise in patent applications, utility models, granted patents, including, but not limited to, continuations, continuations-in-part, divisionals, provisionals, results of any patent reexaminations, and reissues, but excluding design patents or design registrations.
 
 7.=[01/Agt/Bit/Outline/1-14.Secs]
 =[01/Agt/Bit/Outline/1-7.Secs]
