@@ -1,1 +1,1 @@
-This NDA and Consulting Agreement originate in Cooley GO (with permission).  Let us expand it and make it the only ones you'll ever have to read. Overview at <a href="https://github.com/CommonAccord/Org/wiki/Jam%3A-NDA">GitHub/wiki/Jam: NDA</a>
+A core of materials organized as Sections /02/Sec/ and Forms  /02/Form/, with some demonstration documents /02/Demo/.  Let's codify.   
