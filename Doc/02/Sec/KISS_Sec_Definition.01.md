@@ -1,19 +1,18 @@
-
 Ti=Definitions
 
-1.0.Sec=‚Äú{Conversion_Shares}‚Äù shall mean:
+1.0.Sec=ì{Conversion_Shares}î shall mean:
 
-1.1.Sec=with respect to a conversion pursuant to {Conversion.Equity.Xref}, shares of {Preferred_Stock} issued in the {Next_Equity_Financing}; provided, however, that, at {the_Company}‚Äôs election, ‚Äú{Conversion_Shares}‚Äù with respect to a conversion pursuant to Section 2.1 shall mean shares of a {Shadow_Series};
+1.1.Sec=with respect to a conversion pursuant to {Conversion.Equity.Xref}, shares of {Preferred_Stock} issued in the {Next_Equity_Financing}; provided, however, that, at {the_Company}ís election, ì{Conversion_Shares}î with respect to a conversion pursuant to {Conversion.Equity.Xref} shall mean shares of a {Shadow_Series};
 
 1.2.Sec=with respect to a conversion pursuant to {Conversion.Corporate.Xref}, shares of {Common_Stock}; and
 
-1.3.Sec=with respect to a conversion pursuant to {Conversion.Liquidity.Xref}, shares of a newly created series of {the_Company}‚Äôs {Series_Seed_Preferred_Stock}, upon the terms and provisions set forth in the most recent version of the Series Seed documents posted at www.seriesseed.com (or if not so posted, as reasonably agreed by {the_Company} and a {Majority_in_Interest}); provided that, for the avoidance of doubt, the {Conversion_Price} shall be determined pursuant to {Def.Conversion_Price.3.Xref}).
+1.3.Sec=with respect to a conversion pursuant to {Conversion.Liquidity.Xref}, shares of a newly created series of {the_Company}ís {Series_Seed_Preferred_Stock}, upon the terms and provisions set forth in the most recent version of the Series Seed documents posted at www.seriesseed.com (or if not so posted, as reasonably agreed by {the_Company} and a {Majority_in_Interest}); provided that, for the avoidance of doubt, the {Conversion_Price} shall be determined pursuant to {Def.Conversion_Price.3.Xref}).
 
 1.=[01/Agt/Bit/Secs/03]
 
-1.Sec={1.1.sec}
+1.Sec={1.sec}
 
-2.0.Sec=‚Äú{Conversion_Price}‚Äù shall equal:
+2.0.Sec=ì{Conversion_Price}î shall equal:
 
 2.1.Sec=with respect to a conversion pursuant to {Conversion.Equity.Xref}, the lower of (A) the product of (1) one (1) minus the {Discount} and (2) the price paid per share for {Preferred_Stock} by the investors in the {Next_Equity_Financing} or (B) the quotient resulting from dividing (1) the Valuation Cap by (2) the {Fully-Diluted_Capitalization} immediately prior to the closing of the {Next_Equity_Financing};
 
@@ -23,54 +22,55 @@ Ti=Definitions
 
 2.=[01/Agt/Bit/Secs/03]
 
-2.Sec={1.2.sec}
+2.Sec={2.sec}
 
 
-3.Sec=‚Äú{Corporate_Transaction}‚Äù shall mean:
+3.Sec=ì{Corporate_Transaction}î shall mean:
 
-3.1.Sec=the closing of the sale, transfer or other disposition of all or substantially all of {the_Company}‚Äôs assets,
+3.1.Sec=the closing of the sale, transfer or other disposition of all or substantially all of {the_Company}ís assets,
 
 3.2.Sec=the consummation of the merger or consolidation of {the_Company} with or into another entity (except a merger or consolidation in which the holders of capital stock of {the_Company} immediately prior to such merger or consolidation continue to hold at least 50% of the voting power of the capital stock of {the_Company} or the surviving or acquiring entity),
 
-3.3.Sec=the closing of the transfer (whether by merger, consolidation or otherwise), in one transaction or a series of related transactions, to a person or group of affiliated persons (other than an underwriter of {the_Company}‚Äôs securities), of {the_Company}‚Äôs securities if, after such closing, such person or group of affiliated persons would hold 50% or more of the outstanding voting stock of {the_Company} (or the surviving or acquiring entity), or
+3.3.Sec=the closing of the transfer (whether by merger, consolidation or otherwise), in one transaction or a series of related transactions, to a person or group of affiliated persons (other than an underwriter of {the_Company}ís securities), of {the_Company}ís securities if, after such closing, such person or group of affiliated persons would hold 50% or more of the outstanding voting stock of {the_Company} (or the surviving or acquiring entity), or
 
 3.4.Sec=the liquidation, dissolution or winding up of {the_Company};
 
-3.90.Sec=provided, however, that a transaction shall not constitute a {Corporate_Transaction} if its sole purpose is to change the state of {the_Company}‚Äôs incorporation or to create a holding company that will be owned in substantially the same proportions by the persons who held {the_Company}‚Äôs securities immediately prior to such transaction.  Notwithstanding the prior sentence, the sale of shares of {Preferred_Stock} in a bona fide financing transaction shall not be deemed a ‚Äú{Corporate_Transaction}.‚Äù
+3.90.Sec=provided, however, that a transaction shall not constitute a {Corporate_Transaction} if its sole purpose is to change the state of {the_Company}ís incorporation or to create a holding company that will be owned in substantially the same proportions by the persons who held {the_Company}ís securities immediately prior to such transaction.  Notwithstanding the prior sentence, the sale of shares of {Preferred_Stock} in a bona fide financing transaction shall not be deemed a ì{Corporate_Transaction}.î
 
 
 
-4.Sec=‚Äú{Corporate_Transaction_Payment}‚Äù shall mean an amount equal to all accrued and unpaid interest due on this {KISS} plus two times (2X) the {Purchase_Price}.
+4.Sec=ì{Corporate_Transaction_Payment}î shall mean an amount equal to all accrued and unpaid interest due on this {KISS} plus two times (2X) the {Purchase_Price}.
 
-5.Sec=‚Äú{Discount}‚Äù shall mean {m-}{Discount.%}{-m}.
+5.Sec=ì{Discount}î shall mean {m-}{Discount.%}{-m}.
 
-6.Sec=‚Äú{Equity_Securities}‚Äù shall mean {the_Company}'s Common Stock (‚Äú{Common_Stock}‚Äù) or {the_Company}'s Preferred Stock (‚Äú{Preferred_Stock}‚Äù) or any securities conferring the right to purchase {the_Common_Stock_or_Preferred_Stock} or securities convertible into, or exchangeable for (with or without additional consideration), {the_Common_Stock_or_Preferred_Stock}, except any security granted, issued and/or sold by {the_Company} to any director, officer, employee or consultant of {the_Company} in such capacity for the primary purpose of soliciting or retaining their services.
+6.Sec=ì{Equity_Securities}î shall mean {the_Company}'s Common Stock (ì{Common_Stock}î) or {the_Company}'s Preferred Stock (ì{Preferred_Stock}î) or any securities conferring the right to purchase {the_Common_Stock_or_Preferred_Stock} or securities convertible into, or exchangeable for (with or without additional consideration), {the_Common_Stock_or_Preferred_Stock}, except any security granted, issued and/or sold by {the_Company} to any director, officer, employee or consultant of {the_Company} in such capacity for the primary purpose of soliciting or retaining their services.
 
-7.Sec=‚Äú{Financial_Statements}‚Äù shall mean an income statement, balance sheet, statement of stockholder‚Äôs equity, and/or a statement of cash flows, in each case as of the end of (i) each of the first three (3) fiscal quarters and (ii) each fiscal year of {the_Company}.
+7.Sec=ì{Financial_Statements}î shall mean an income statement, balance sheet, statement of stockholderís equity, and/or a statement of cash flows, in each case as of the end of (i) each of the first three (3) fiscal quarters and (ii) each fiscal year of {the_Company}.
 
-6.Sec=‚Äú{Fully-Diluted_Capitalization}‚Äù shall mean the number of shares of outstanding {Common_Stock} on a fully-diluted basis, including (i) conversion or exercise of all securities convertible into or exercisable for {Common_Stock}, (ii) exercise of all outstanding options and warrants to purchase {Common_Stock} and, in the case of Section 1(b)(i) and 1(b)(iii) only, (iii) the shares reserved or authorized for issuance under {the_Company}‚Äôs existing stock option plan or any stock option plan created or increased in connection with such transaction; but excluding, for this purpose, the conversion contemplated by the applicable provision of Section 2.
+6.Sec=ì{Fully-Diluted_Capitalization}î shall mean the number of shares of outstanding {Common_Stock} on a fully-diluted basis, including (i) conversion or exercise of all securities convertible into or exercisable for {Common_Stock}, (ii) exercise of all outstanding options and warrants to purchase {Common_Stock} and, in the case of {Def.Conversion_Price.Xref}.1 and {Def.Conversion_Price.Xref}.3 only, (iii) the shares reserved or authorized for issuance under {the_Company}ís existing stock option plan or any stock option plan created or increased in connection with such transaction; but excluding, for this purpose, the conversion contemplated by the applicable provision of {Conversion.Xref}.
 
-7.Sec=‚Äú{Holder}‚Äù shall mean a member of the {KISS_Group} that holds a {KISS} (including, without limitation, {the_Investor}, for so long as {the_Investor} holds this {KISS}).
+7.Sec=ì{Holder}î shall mean a member of the {KISS_Group} that holds a {KISS} (including, without limitation, {the_Investor}, for so long as {the_Investor} holds this {KISS}).
 
-8.Sec=‚Äú{Interest_Rate}‚Äù shall mean a rate of four percent (4%) per annum, compounded annually.
+8.Sec=ì{Interest_Rate}î shall mean a rate of four percent (4%) per annum, compounded annually.
 
-9.Sec=‚Äú{KISS}‚Äù or ‚Äú{KISSes}‚Äù shall mean the {KISS} instruments issued by {the_Company} to {Holders} in the form hereof.
+9.Sec=ì{KISS}î or ì{KISSes}î shall mean the {KISS} instruments issued by {the_Company} to {Holders} in the form hereof.
 
-10.Sec=‚Äú{KISS_Group}‚Äù shall mean the holders of all {KISSes} in the {Series}, collectively.
+10.Sec=ì{KISS_Group}î shall mean the holders of all {KISSes} in the {Series}, collectively.
 
-11.Sec=‚Äú{Majority_in_Interest}‚Äù shall mean members of the {KISS_Group} holding a majority in interest of the aggregate {Purchase_Prices} of all {KISSes} in the {Series}.
+11.Sec=ì{Majority_in_Interest}î shall mean members of the {KISS_Group} holding a majority in interest of the aggregate {Purchase_Prices} of all {KISSes} in the {Series}.
 
-12.Sec=‚Äú{Maturity_Date}‚Äù shall mean the date that is eighteen (18) months following the {Date_of_Issuance}.
+12.Sec=ì{Maturity_Date}î shall mean the date that is eighteen (18) months following the {Date_of_Issuance}.
 
-13.Sec=‚Äú{Next_Equity_Financing}‚Äù shall mean the next sale (or series of related sales) by {the_Company} of its {Preferred_Stock} following the {Date_of_Issuance} from which {the_Company} receives gross proceeds of not less than $1,000,000 (excluding the aggregate amount of securities converted into {Preferred_Stock} in connection with such sale (or series of related sales)).
+13.Sec=ì{Next_Equity_Financing}î shall mean the next sale (or series of related sales) by {the_Company} of its {Preferred_Stock} following the {Date_of_Issuance} from which {the_Company} receives gross proceeds of not less than $1,000,000 (excluding the aggregate amount of securities converted into {Preferred_Stock} in connection with such sale (or series of related sales)).
 
-14.Sec=‚Äú{Participation_Amount}‚Äù shall mean an amount in US dollars equal to one times (1X) the {Purchase_Price}. 
+14.Sec=ì{Participation_Amount}î shall mean an amount in US dollars equal to one times (1X) the {Purchase_Price}. 
 
-15.Sec=‚Äú{Shadow_Series}‚Äù shall mean shares of a series of {Preferred_Stock} that is identical in all respects to the shares of {Preferred_Stock} issued in the {Next_Equity_Financing} (e.g., if {the_Company} sells {Series_A_Preferred_Stock} in the {Next_Equity_Financing}, the {Shadow_Series} would be Series A-1 Preferred Stock), except that the liquidation preference per share of the {Shadow_Series} shall equal the {Conversion_Price} (as determined pursuant to Section 1(b)(i)), with corresponding adjustments to any price-based antidilution and dividend rights provisions.
+15.Sec=ì{Shadow_Series}î shall mean shares of a series of {Preferred_Stock} that is identical in all respects to the shares of {Preferred_Stock} issued in the {Next_Equity_Financing} (e.g., if {the_Company} sells {Series_A_Preferred_Stock} in the {Next_Equity_Financing}, the {Shadow_Series} would be Series A-1 Preferred Stock), except that the liquidation preference per share of the {Shadow_Series} shall equal the {Conversion_Price} (as determined pursuant to {Def.Conversion_Price.Xref}.1), with corresponding adjustments to any price-based antidilution and dividend rights provisions.
 
-16.Sec=‚ÄúValuation Cap‚Äù shall mean {m-}{ValuationCap.$}{-m}.
+16.Sec=ì{Valuation_Cap}î shall mean {m-}{ValuationCap.$}{-m}.
 
 =[01/Agt/Bit/Secs/16]
  
-mysecs={1.nonesecs}
+=[02/Sec/KISS_DT.01.md]
 
+mysecs={ulsecs}
