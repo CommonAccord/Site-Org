@@ -10,13 +10,32 @@ Heading=<span style="text-transform: uppercase">THIS INSTRUMENT AND THE SECURITI
 
 2.=[02/Sec/KISS_Sec_Conversion.01.md]
 
+Conversion.Xref={2.Xref}
+
+Conversion.Equity.Xref={2.Xref}.1
+
+Conversion.Corporate.Xref={2.Xref}.2
+
+Conversion.Maturity.Xref={2.Xref}.3
+
 3.=[02/Sec/KISS_Sec_Rep_Company.01.md]
 
 4.=[02/Sec/KISS_Sec_Rep_Investor.01.md]
 
 5.=[02/Sec/KISS_Sec_Rep_Misc.01.md]
 
+Misc.Xref={5.Xref}
+
+Misc.Costs.Xref={5.Costs.Xref}
+
+Misc.Successor.Xref={5.Successor.Xref}
+
+Misc.Transfer.Xref={5.Transfer.Xref}
+
+Misc.InfoRights.Xref={5.InfoRights.Xref}
+
 6.=[02/Sec/KISS_Sec_Approval.01.md]
+
 
 90.Sec=<table><tr><td valign="top">{P1.Sign.Block}</td></tr><tr><td valign="top">ACKNOWLEDGED AND AGREED:<br>{P2.Sign.Block}</td></tr></table>
 
@@ -25,7 +44,3 @@ Heading=<span style="text-transform: uppercase">THIS INSTRUMENT AND THE SECURITI
 DocBody={Doc}
 
 =[02/Sec/KISS_DT.01.md]
-
-m-=<font color="{mcolor}">
--m=</font>
-mcolor=magenta

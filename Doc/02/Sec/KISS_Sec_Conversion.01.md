@@ -4,13 +4,20 @@ Ti=Conversion of the {KISS}
 
 1.sec=Upon the closing of the {Next_Equity_Financing}, this {KISS} will be automatically converted into that number of {Conversion_Shares} equal to the quotient obtained by dividing the {Purchase_Price} and unpaid accrued interest on this {KISS} by the {Conversion_Price}.  Notwithstanding the foregoing, accrued interest on this {KISS} may be paid in cash at the option of {the_Company}.  At least five (5) days prior to the closing of the {Next_Equity_Financing}, {the_Company} shall notify {the_Investor} in writing of the terms under which the {Preferred_Stock} will be sold in such financing.  The issuance of {Conversion_Shares} pursuant to the conversion of this {KISS} shall be upon and subject to the same terms and conditions applicable to the {Preferred_Stock} sold in the {Next_Equity_Financing} (or the {Shadow_Series}, as applicable).
 
+Equity.Xref={Conversion.Xref}.1
+
 2.Ti={Corporate_Transaction}
 
-2.sec=In the event of a {Corporate_Transaction} prior to the conversion of this {KISS} pursuant to {Conversion.Equity.Xref} or {Conversion.Liquidity.Xref}, at Investorâ€™s election, (i) this {KISS} shall be converted into that number of {Conversion_Shares} equal to the quotient obtained by dividing the {Purchase_Price} and unpaid accrued interest on this {KISS} by the {Conversion_Price}; or (ii) {the_Investor} shall be paid the {Corporate_Transaction_Payment}.  At least ten (10) days prior to the closing of the {Corporate_Transaction}, {the_Company} shall notify {the_Investor} in writing of the terms of the {Corporate_Transaction}.
+2.sec=In the event of a {Corporate_Transaction} prior to the conversion of this {KISS} pursuant to {Equity.Xref} or {Maturity.Xref}, at Investor’s election, (i) this {KISS} shall be converted into that number of {Conversion_Shares} equal to the quotient obtained by dividing the {Purchase_Price} and unpaid accrued interest on this {KISS} by the {Conversion_Price}; or (ii) {the_Investor} shall be paid the {Corporate_Transaction_Payment}.  At least ten (10) days prior to the closing of the {Corporate_Transaction}, {the_Company} shall notify {the_Investor} in writing of the terms of the {Corporate_Transaction}.
+
+Corporate.Xref={Conversion.Xref}.2
 
 3.Ti=Maturity Conversion
 
-3.sec=Unless earlier converted to {Conversion_Shares} or paid pursuant to {Conversion.Equity.Xref} or {Conversion.Liquidity.Xref}, at the election of the {Majority_in_Interest} at any time on or after the {Maturity_Date}, this {KISS} shall be converted into that number of {Conversion_Shares} equal to the quotient obtained by dividing the {Purchase_Price} and unpaid accrued interest on this {KISS} by the {Conversion_Price}.
+3.sec=Unless earlier converted to {Conversion_Shares} or paid pursuant to {Equity.Xref} or {Maturity.Xref}, at the election of the {Majority_in_Interest} at any time on or after the {Maturity_Date}, this {KISS} shall be converted into that number of {Conversion_Shares} equal to the quotient obtained by dividing the {Purchase_Price} and unpaid accrued interest on this {KISS} by the {Conversion_Price}.
+
+Maturity.Xref={Conversion.Xref}.3
+
 
 4.Ti=No Fractional Shares
 

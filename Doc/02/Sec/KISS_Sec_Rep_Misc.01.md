@@ -6,15 +6,17 @@ Ti=Miscellaneous
 
 2.Ti={Major_Investor} Rights
 
-2.0.sec=In the event {the_Investor}, together with its affiliates, purchases one or more {KISSes} with an aggregate {Purchase_Price} equal to or exceeding $50,000 (a “{Major_Investor}”), {the_Company} shall provide such {Major_Investor} with the following rights:
+2.0.sec=In the event {the_Investor}, together with its affiliates, purchases one or more {KISSes} with an aggregate {Purchase_Price} equal to or exceeding {MajorInvestor.Threshold.$} (a “{Major_Investor}”), {the_Company} shall provide such {Major_Investor} with the following rights:
 
 2.1.Ti=Information Rights
 
-2.1.sec=To the extent that {the_Company} prepares {Financial_Statements}, {the_Company} shall deliver to the {Major_Investor} such {Financial_Statements} upon request, as soon as practicable, but in any event within thirty (30) days after the end of each of the first three (3) quarters of each fiscal year of {the_Company} and within ninety (90) days after the end of each fiscal year of {the_Company}.  Such {Financial_Statements} shall be in reasonable detail and prepared on a consistent basis.  Additionally, regardless of whether {the_Company} prepares {Financial_Statements}, {the_Company} shall deliver to the {Major_Investor} such information relating to the financial condition, business or corporate affairs of {the_Company} as such {Major_Investor} may from time to time reasonably request.  Notwithstanding anything to the contrary in this {Misc.InfoRights.Xref}.1, {the_Company} shall not be obligated under this {Misc.InfoRights.Xref}.1 to provide information that (x) it deems in good faith to be a trade secret or highly confidential information or (y) the disclosure of which would adversely affect the attorney-client privilege between {the_Company} and its counsel; and {the_Investor} agrees to maintain the confidentiality of all of the information provided to {the_Investor} under this {Misc.InfoRights.Xref}.1 and agrees not to use such information other than for a purpose reasonably related to {the_Investor}’s investment in {the_Company}.
+2.1.sec=To the extent that {the_Company} prepares {Financial_Statements}, {the_Company} shall deliver to the {Major_Investor} such {Financial_Statements} upon request, as soon as practicable, but in any event within thirty (30) days after the end of each of the first three (3) quarters of each fiscal year of {the_Company} and within ninety (90) days after the end of each fiscal year of {the_Company}.  Such {Financial_Statements} shall be in reasonable detail and prepared on a consistent basis.  Additionally, regardless of whether {the_Company} prepares {Financial_Statements}, {the_Company} shall deliver to the {Major_Investor} such information relating to the financial condition, business or corporate affairs of {the_Company} as such {Major_Investor} may from time to time reasonably request.  Notwithstanding anything to the contrary in this {Misc.InfoRights.Xref}, {the_Company} shall not be obligated under this {Misc.InfoRights.Xref}.1 to provide information that (x) it deems in good faith to be a trade secret or highly confidential information or (y) the disclosure of which would adversely affect the attorney-client privilege between {the_Company} and its counsel; and {the_Investor} agrees to maintain the confidentiality of all of the information provided to {the_Investor} under this {Misc.InfoRights.Xref} and agrees not to use such information other than for a purpose reasonably related to {the_Investor}’s investment in {the_Company}.
+
+InfoRights.Xref={Misc.Xref}.2.1
 
 2.2.Ti=Participation Rights
 
-2.2.sec=Each time {the_Company} proposes to offer any {Equity_Securities} at any time through and including the closing of the {Next_Equity_Financing}, {the_Company} shall provide the {Major_Investor} with at least ten (10) business days prior written notice of such offering, including the price and terms thereof.  The {Major_Investor} shall have a right of first offer to participate in such offering(s), on the same terms and for the same price as all other investors in such offering(s), by purchasing an aggregate number of {Equity_Securities} (whether in one offering or across multiple offerings) valued at up to the {Participation_Amount}.  The {Major_Investor}’s right of first offer set forth in this {Misc.InfoRights.Xref}.2 shall be subject to compliance with applicable federal and state securities laws.
+2.2.sec=Each time {the_Company} proposes to offer any {Equity_Securities} at any time through and including the closing of the {Next_Equity_Financing}, {the_Company} shall provide the {Major_Investor} with at least ten (10) business days prior written notice of such offering, including the price and terms thereof.  The {Major_Investor} shall have a right of first offer to participate in such offering(s), on the same terms and for the same price as all other investors in such offering(s), by purchasing an aggregate number of {Equity_Securities} (whether in one offering or across multiple offerings) valued at up to the {Participation_Amount}.  The {Major_Investor}’s right of first offer set forth in this {Misc.InfoRights.Xref} shall be subject to compliance with applicable federal and state securities laws.
 
 2.3.Ti=“{Major_Investor}” Rights
 
@@ -31,6 +33,8 @@ Ti=Miscellaneous
 
 4.secs={The_Company} hereby agrees, subject only to any limitation imposed by applicable law, to pay all expenses, including reasonable attorney’s fees and legal expenses, incurred by the holder of this {KISS} in endeavoring to collect any amounts payable hereunder which are not paid when due, whether by declaration or otherwise (“{Costs}”).  {The_Company} agrees that any delay on the part of the holder in exercising any rights hereunder will not operate as a waiver of such rights.  The holder of this {KISS} shall not by any act, delay, omission or otherwise be deemed to have waived any of its rights or remedies, and no waiver of any kind shall be valid unless in writing and signed by the party or parties waiving such rights or remedies.  If any action at law or in equity is necessary to enforce or interpret the terms of this {KISS}, the prevailing party shall be entitled to reasonable attorney’s fees, costs and necessary disbursements in addition to any other relief to which such party may be entitled.  {The_Company} shall indemnify and hold {the_Investor} harmless from any loss, cost, liability and legal or other expense, including attorney’s fees of {the_Investor}’s counsel, which {the_Investor} may directly or indirectly suffer or incur by reason of the failure of {the_Company} to perform any of its obligations under this {KISS} or any agreement executed in connection herewith; provided, however, that the indemnity agreement contained in this {Misc.Costs.Xref} shall not apply to liabilities which {the_Investor} may directly or indirectly suffer or incur by reason of {the_Investor}’s own gross negligence or willful misconduct.
 
+Costs.Xref={Misc.Xref}.4
+
 5.Ti=Security
 
 5.sec=This {KISS} is a general unsecured obligation of {the_Company}.
@@ -38,6 +42,8 @@ Ti=Miscellaneous
 6.Ti=Successors and Assigns
 
 6.secs=The terms and conditions of this {KISS} shall inure to the benefit of and be binding upon the respective successors and assigns of the parties hereto; provided, however, that {the_Company} may not assign its obligations under this {KISS} without the prior written consent of {the_Investor}.
+
+Successor.Xref={Misc.Xref}.6
 
 7.Ti=Governing Law
 
@@ -67,9 +73,11 @@ Ti=Miscellaneous
 
 13.sec=Subject to compliance with applicable federal and state securities laws, this {KISS} and all rights hereunder are transferable in whole or in part by {the_Investor} to any person or entity upon written notice to {the_Company}.
 
+Transfer.Xref={Misc.Xref}.13
+
 14.Ti=Entire Agreement; Amendments and Waivers
 
-14.sec=This {KISS} and the other {KISSes} in the {Series} constitute the full and entire understanding and agreement between the parties with regard to the subjects hereof.  {The_Company}’s agreements with each {Holder} are separate agreements, and the sales of the {KISSes} to each {Holder} are separate sales.  Nonetheless, any term of the {KISSes} in the {Series} may be amended and the observance of any term of the {KISSes} in the {Series} may be waived (either generally or in a particular instance and either retroactively or prospectively), with the written consent of {the_Company} and the {Majority_in_Interest}; provided, however, that {Conversion.Corporate.Xref}, {Misc.InfoRights.Xref} (if and only if {the_Investor} is a {Major_Investor}), {Misc.InfoRights.Xref}, {Misc.Successor.Xref}, {Misc.Transfer.Xref}.1 and {Misc.Entire.Xref}.1 may not be amended or waived without the written consent of {the_Investor}.  Any waiver or amendment effected in accordance with this {Misc.Entire.Xref} shall be binding upon {the_Company} and each current and future member of the {KISS_Group}.
+14.sec=This {KISS} and the other {KISSes} in the {Series} constitute the full and entire understanding and agreement between the parties with regard to the subjects hereof.  {The_Company}’s agreements with each {Holder} are separate agreements, and the sales of the {KISSes} to each {Holder} are separate sales.  Nonetheless, any term of the {KISSes} in the {Series} may be amended and the observance of any term of the {KISSes} in the {Series} may be waived (either generally or in a particular instance and either retroactively or prospectively), with the written consent of {the_Company} and the {Majority_in_Interest}; provided, however, that {Conversion.Corporate.Xref}, {Misc.InfoRights.Xref} (if and only if {the_Investor} is a {Major_Investor}), {Misc.InfoRights.Xref}, {Misc.Successor.Xref}, {Misc.Transfer.Xref} and {Misc.Entire.Xref} may not be amended or waived without the written consent of {the_Investor}.  Any waiver or amendment effected in accordance with this {Misc.Entire.Xref} shall be binding upon {the_Company} and each current and future member of the {KISS_Group}.
 
 Misc.Entire.Xref={Misc.Xref}.14
 

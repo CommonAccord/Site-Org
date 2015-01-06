@@ -6,7 +6,7 @@ Ti=Definitions
 
 1.2.Sec=with respect to a conversion pursuant to {Conversion.Corporate.Xref}, shares of {Common_Stock}; and
 
-1.3.Sec=with respect to a conversion pursuant to {Conversion.Liquidity.Xref}, shares of a newly created series of {the_Company}’s {Series_Seed_Preferred_Stock}, upon the terms and provisions set forth in the most recent version of the Series Seed documents posted at www.seriesseed.com (or if not so posted, as reasonably agreed by {the_Company} and a {Majority_in_Interest}); provided that, for the avoidance of doubt, the {Conversion_Price} shall be determined pursuant to {Def.Conversion_Price.3.Xref}).
+1.3.Sec=with respect to a conversion pursuant to {Conversion.Maturity.Xref}, shares of a newly created series of {the_Company}’s {Series_Seed_Preferred_Stock}, upon the terms and provisions set forth in the most recent version of the Series Seed documents posted at www.seriesseed.com (or if not so posted, as reasonably agreed by {the_Company} and a {Majority_in_Interest}); provided that, for the avoidance of doubt, the {Conversion_Price} shall be determined pursuant to {Conversion_Price.Maturity.Xref}).
 
 1.=[01/Agt/Bit/Secs/03]
 
@@ -18,9 +18,13 @@ Ti=Definitions
 
 2.2.Sec=with respect to a conversion pursuant to {Conversion.Corporate.Xref}, the quotient resulting from dividing (A) the Valuation Cap by (B) the {Fully-Diluted_Capitalization} immediately prior to the closing of the {Corporate_Transaction}; and
 
-2.3.Sec=with respect to a conversion pursuant to {Conversion.Liquidity.Xref}, the quotient resulting from dividing (A) the Valuation Cap by (B) the {Fully-Diluted_Capitalization} immediately prior to the conversion.
+2.3.Sec=with respect to a conversion pursuant to {Conversion.Maturity.Xref}, the quotient resulting from dividing (A) the Valuation Cap by (B) the {Fully-Diluted_Capitalization} immediately prior to the conversion.
 
 2.=[01/Agt/Bit/Secs/03]
+
+Conversion_Price.Maturity.Xref={Conversion_Price.Xref}.3
+
+Conversion_Price.Xref={Def.Xref}.2
 
 2.Sec={2.sec}
 
@@ -47,7 +51,7 @@ Ti=Definitions
 
 7.Sec=“{Financial_Statements}” shall mean an income statement, balance sheet, statement of stockholder’s equity, and/or a statement of cash flows, in each case as of the end of (i) each of the first three (3) fiscal quarters and (ii) each fiscal year of {the_Company}.
 
-6.Sec=“{Fully-Diluted_Capitalization}” shall mean the number of shares of outstanding {Common_Stock} on a fully-diluted basis, including (i) conversion or exercise of all securities convertible into or exercisable for {Common_Stock}, (ii) exercise of all outstanding options and warrants to purchase {Common_Stock} and, in the case of {Def.Conversion_Price.Xref}.1 and {Def.Conversion_Price.Xref}.3 only, (iii) the shares reserved or authorized for issuance under {the_Company}’s existing stock option plan or any stock option plan created or increased in connection with such transaction; but excluding, for this purpose, the conversion contemplated by the applicable provision of {Conversion.Xref}.
+6.Sec=“{Fully-Diluted_Capitalization}” shall mean the number of shares of outstanding {Common_Stock} on a fully-diluted basis, including (i) conversion or exercise of all securities convertible into or exercisable for {Common_Stock}, (ii) exercise of all outstanding options and warrants to purchase {Common_Stock} and, in the case of {Conversion_Price.Xref}.1 and {Conversion_Price.Xref}.3 only, (iii) the shares reserved or authorized for issuance under {the_Company}’s existing stock option plan or any stock option plan created or increased in connection with such transaction; but excluding, for this purpose, the conversion contemplated by the applicable provision of {Conversion.Xref}.
 
 7.Sec=“{Holder}” shall mean a member of the {KISS_Group} that holds a {KISS} (including, without limitation, {the_Investor}, for so long as {the_Investor} holds this {KISS}).
 
@@ -65,7 +69,7 @@ Ti=Definitions
 
 14.Sec=“{Participation_Amount}” shall mean an amount in US dollars equal to one times (1X) the {Purchase_Price}. 
 
-15.Sec=“{Shadow_Series}” shall mean shares of a series of {Preferred_Stock} that is identical in all respects to the shares of {Preferred_Stock} issued in the {Next_Equity_Financing} (e.g., if {the_Company} sells {Series_A_Preferred_Stock} in the {Next_Equity_Financing}, the {Shadow_Series} would be Series A-1 Preferred Stock), except that the liquidation preference per share of the {Shadow_Series} shall equal the {Conversion_Price} (as determined pursuant to {Def.Conversion_Price.Xref}.1), with corresponding adjustments to any price-based antidilution and dividend rights provisions.
+15.Sec=“{Shadow_Series}” shall mean shares of a series of {Preferred_Stock} that is identical in all respects to the shares of {Preferred_Stock} issued in the {Next_Equity_Financing} (e.g., if {the_Company} sells {Series_A_Preferred_Stock} in the {Next_Equity_Financing}, the {Shadow_Series} would be Series A-1 Preferred Stock), except that the liquidation preference per share of the {Shadow_Series} shall equal the {Conversion_Price} (as determined pursuant to {Conversion_Price.Xref}.1), with corresponding adjustments to any price-based antidilution and dividend rights provisions.
 
 16.Sec=“{Valuation_Cap}” shall mean {m-}{ValuationCap.$}{-m}.
 
