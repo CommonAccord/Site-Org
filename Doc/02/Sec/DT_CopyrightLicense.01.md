@@ -29,6 +29,8 @@ party={d-}Party{-d}
 parties={d-}Parties{-d}
 
 
-d-=<a href="https://github.com/CommonAccord/Org/blob/master/Doc/02/Sec/Defined_Terms/04.md"><font color="green">
+d-=<a href="https://github.com/CommonAccord/Org/blob/master/Doc/02/Sec/DT_CopyrightLicense.01.md "><font color="green">
 
 -d=</font></a>
+
+Model.Root=Defined Terms: <ul><li><b>Agreement:</b> {Agreement}<li><b>This_Agreement:</b> {This_Agreement}<li><b>this_Agreement:</b> {this_Agreement}<li><b>Authorized_User:</b> {Authorized_User}<li><b>Authorized_Users:</b> {Authorized_Users}<li><b>Effective_Date:</b> {Effective_Date}<li><b>Intellectual_Property:</b> {Intellectual_Property}<li><b>Licensee:</b> {Licensee}<li><b>Licensed_Materials:</b> {Licensed_Materials}<li><b>Licensor:</b> {Licensor}<li><b>party:</b> {party}<li><b>parties:</b> {parties}</ul>

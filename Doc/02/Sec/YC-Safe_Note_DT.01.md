@@ -66,7 +66,7 @@ Standard_Preferred_Stock={d-}Standard Preferred Stock{-d}
 
 Valuation_Cap={d-}Valuation Cap{-d}
 
-d-=<a href="https://github.com/CommonAccord/Org/blob/master/Doc/02/Sec/Defined_Terms/YC_Safe.01.md"><font color="green">
+d-=<a href="https://github.com/CommonAccord/Org/blob/master/Doc/02/Sec/YC-Safe_Note_DT.01.md"><font color="green">
 
 -d=</font></a>
 
