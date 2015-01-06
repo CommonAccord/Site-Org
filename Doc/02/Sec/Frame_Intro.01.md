@@ -17,7 +17,7 @@ Agt.Effective.Sec=EFFECTIVE DATE: {Agt.Effective.YMD}
 
 Agt.ThisAgreement.Sec=This {Ti} (the “{Agreement}”) is made as of the {Effective_Date} set forth above by and between {P1.N,E,A} (“{P1.Handle}”) and {P2.N,E,A} (“{P2.Handle}”).
 
-Agt.Parties.Sec={P1.Handle} and {P2.Handle} are each sometimes referred to as a "{party}" and collectively as the "{parties}."
+Agt.Parties.Sec={P1.Handle} and {P2.Handle} are each sometimes referred to as a “{party}” and collectively as the “{parties}.”
 
 Agt.Purpose/Whereas.Sec={Agt.Purpose.Sec}
 
