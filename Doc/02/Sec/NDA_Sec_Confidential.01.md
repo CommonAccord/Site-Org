@@ -16,4 +16,6 @@ Exclude.Xref={Xref}.3
 
 6.=[02/Sec/NDA_Sec_Decompile.01.md]
 
-=[01/Agt/Bit/Secs/06]
+7.=[02/Sec/NDA_Sec_TermOfConfidentiality.01.md]
+
+=[01/Agt/Bit/Secs/07]
