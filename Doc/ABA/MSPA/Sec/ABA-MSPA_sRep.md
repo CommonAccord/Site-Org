@@ -1,6 +1,6 @@
 Model.Root={Sec}
 
-Sec=<u>{Title}</u><br/>{Intro}:<ol><li>{Org.Sec}</li><li>{Authority.Sec}</li><li>{Cap.Sec}</li><li>{FinanceStatement.Sec}</li><li>{Record.Sec}</li><li>{Property.Sec}</li><li>{ConditionOfAssets.Sec}</li><li>{AccountReceivable.Sec}</li><li>{Inventory.Sec}</li><li>{Liability.Sec}</li><li>{Tax.Sec}</li><li>{MAC.Sec}</li><li>{EmpBenefit.Sec}</li><li>{Compliance.Sec}</li><li>{Litig.Sec}</li><li>{Event.Sec}</li><li>{Contract.Sec}</li><li>{Insurance.Sec}</li><li>{Environment.Sec}</li><li>{Personnel.Sec}</li><li>{Labor.Sec}</li><li><b>{IP.Sec}</b></li><li>{FCPA+.Sec}</li><li>{Insider.Sec}</li><li>{Securities.Sec}</li><li>{CustomerAndSupplier.Sec}</li><li>{ProductLiability.Sec}</li><li>{Broker.Sec}</li><li>{True.Sec}</li></ol>
+Sec=<u>{Title}</u><br/>{Intro}:<ol><li>{Org.Sec}</li><li>{Authority.Sec}</li><li>{Cap.Sec}</li><li>{FinanceStatement.Sec}</li><li>{Record.Sec}</li><li>{Property.Sec}</li><li>{ConditionOfAssets.Sec}</li><li>{AccountReceivable.Sec}</li><li>{Inventory.Sec}</li><li>{Liability.Sec}</li><li>{Tax.Sec}</li><li>{MAC.Sec}</li><li>{EmpBenefit.Sec}</li><li>{Compliance.Sec}</li><li>{Litig.Sec}</li><li>{Event.Sec}</li><li>{Contract.Sec}</li><li>{Insurance.Sec}</li><li>{Environment.Sec}</li><li>{Personnel.Sec}</li><li>{Labor.Sec}</li><li>{IP.Sec}</li><li>{FCPA+.Sec}</li><li>{Insider.Sec}</li><li>{Securities.Sec}</li><li>{CustomerAndSupplier.Sec}</li><li>{ProductLiability.Sec}</li><li>{Broker.Sec}</li><li>{True.Sec}</li></ol>
 
 Intro={Sellers}, jointly and severally, represent and warrant to {Buyer} as follows
 
