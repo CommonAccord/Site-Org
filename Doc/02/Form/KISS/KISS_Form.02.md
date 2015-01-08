@@ -18,7 +18,7 @@ RepCo.=[02/Sec/KISS_Sec_Rep_Company.01.md]
 
 RepInv.=[02/Sec/KISS_Sec_Rep_Investor.01.md]
 
-Misc.=[02/Sec/KISS_Sec_Rep_Misc.01.md]
+Misc.=[02/Sec/KISS_Sec_Misc.01.md]
 
 Approval.=[02/Sec/KISS_Sec_Approval.01.md]
 

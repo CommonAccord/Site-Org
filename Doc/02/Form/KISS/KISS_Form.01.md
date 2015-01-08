@@ -22,7 +22,7 @@ Conversion.Maturity.Xref={2.Xref}.3
 
 4.=[02/Sec/KISS_Sec_Rep_Investor.01.md]
 
-5.=[02/Sec/KISS_Sec_Rep_Misc.01.md]
+5.=[02/Sec/KISS_Sec_Misc.01.md]
 
 Misc.Xref={5.Xref}
 
