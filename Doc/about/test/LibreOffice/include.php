@@ -1,8 +1,8 @@
-This is a suggestion of how to use Word Processing to maintain a complex document and still use it in Cmacc.<br><br>
+This is a suggestion of how to use Word Processing to maintain a complex document and still use it in Cmacc.<br>
 
 <ol><li>Using LibreOffice, open the .doc or .docx file.
 
-<li>Save as .html.  This is the doc you will use in LIbreOffice for editing going forward.  Keep it, you will need it.
+<li>Save as .html.  This is the doc you will use in LibreOffice for editing going forward.  Keep it, you will need it.
 
 <li>Using a text processor - open the .html file.  Remove the carriage returns - all of them - replacing each with a space.
 
