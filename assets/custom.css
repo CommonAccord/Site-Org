@@ -1,8 +1,10 @@
 .includers {
-	padding: 40px;
+	padding: 20px;
 	border: 1px gray solid;
 	border-radius: 10px;
 	line-height: 2.0em;
+	margin-bottom: 20px;
+	margin-top: 30px;
 }
 
 
@@ -32,12 +34,13 @@ hr
 #containerHome, .aboutBox {
 	border: 1px gray solid;
 	border-radius: 15px;
+	margin-bottom:20px;
 }
 
-.aboutBox { 
-	width: 360px; 
-	margin: 7px;
+.aboutBox {
+	text-align: justify; 
 	margin-bottom: 20px;
+	padding: 7px; margin: -10px; 
 }
 
 .title, .subtitle, .jtitle {
@@ -116,11 +119,17 @@ text-align: left;
 }
 #updir img { margin-left: -30px; padding-bottom: 5px; padding-right: 10px;}
 
-#info-more { float: right; text-align: right; }
-#code {
+#info-more {  text-align: right; }
+
+/*#code {
 	float: left;
 	margin-left: 40%;
+}*/
+
+#containerContent {
+	padding:30px;
 }
+
 #header {
 	margin-top: 90px;
 }

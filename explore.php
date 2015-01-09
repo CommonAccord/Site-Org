@@ -52,8 +52,6 @@ include("header.php");
 </tr>
 	</table>
 	</table>
-				 <h1>See the <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=doc/escrow/>escrow example.</a></h1>
-</div>
 <style>
 	#filelist { 
 		display: none;
