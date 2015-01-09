@@ -52,7 +52,7 @@ include("header.php");
           <hr>
    <h4 class="jtitle">To eliminate rehashing and needless inconsistency in law.</h4>
           <hr>
-   <p>The legal system runs on text. Nearly all legal text is a copy or rework of something already existing. Our current technologies fail to make these connections.  This creates needless work, cost, delay, risk and legal confusion.</p>
+   <p>The legal system runs on text. Nearly all legal text is a copy or rework of something already existing. Our current technologies fail to make these connections.  This creates needless work, cost, delay, risk and legal confusion.</p><p>Lawyers must focus on boiler plate, instead of focusing on advocacy and counseling clients. Citizens and business managers spend too much time reading complex legal document, without actually ever getting to a proper level of legal certainty, because the lack the assurance of a stable legal document base to build upon.</p>
           <br>        
 	</div>
     </div> <!--end col-sm-4 !-->
@@ -61,9 +61,9 @@ include("header.php");
 	<div class=" aboutBox">
           <h2 class="title">A Solution</h2>
           <hr>
-         <h4 class="jtitle">The simplest possible programming language</h4>   
+         <h4 class="jtitle">A simple data model for the creation of a digital Law Commons</h4>   
 <hr>
-   <p>We have created a modular template system of text cards that relies on {expansion} of strings and [expansion] of cards.  Period.  People can program their relationships.  Lawyers can codify boilerplate.  Management can have a data picture of the enterprise's relationships, situation and activities.   Smart contracts can be both technical &ldquo;dry&rdquo; code (i.e. self-contained code snippets) and legal &ldquo;wet&rdquo; code.</p>
+   <p>We have created a modular template system of text cards that relies on {expansion} of strings and [expansion] of cards.  Period.  People can program their relationships.  Lawyers can codify boilerplate.  Management can have a data picture of the enterprise's relationships, situation and activities.   Smart contracts can be both technical &ldquo;dry&rdquo; code (i.e. self-contained code snippets) and legal &ldquo;wet&rdquo; code.</p>With Common Accord, contract and legal text becomes cards of text, interoperating, in git, shared, forked, tested and improved.</p>
       <br>
 	</div>
         </div><!--end col-sm-4 !-->
@@ -72,11 +72,11 @@ include("header.php");
 	<div class="aboutBox">
           <h2 class="title">Our vision<hr></h2>
           
-               <h4 class="jtitle">Legal boilerplate becomes self-actuating.<hr></h4>
+               <h4 class="jtitle">Smart contracts and self-actuating code.<hr></h4>
 
-               <p>Lawyers can focus on advocacy and counseling clients.  Citizens and business managers can get to yes quicker and know their situation better with an assurance of a stable legal base upon which to build.  Smart contracts can operate both technically and legally. </p>
+		<p>Smart contracts eliminate the need for trust amongst the parties, who can be sure that the contract will be performed exactly as agreed.  Indeed, as opposed to traditional legal contracts, smart contracts are always and necessarily deterministic - i.e. all possible outcomes of the contract (including penalties for breach of contract) must be explicitly stipulated in advance.</p>
+<p>While smart contracts are increasingly able to handle complex deal logics, many kinds of transactions do - eventually - have to interface with the real world. <a href=<?=$_SERVER['PHP_SELF']?>?action=smartcontracts>Discover how Common Accord can help.</a></p>
 
-          <p>Contract and legal text becomes cards of text, interoperating, in git, shared, forked, tested and improved.</p>
 <br>
 	</div>
        </div><!--end col-sm-4 !-->
