@@ -5,50 +5,19 @@ include("header.php");
 
 ?>
 
-
 <body>
-
-  <div class="container">
+  <div class="container" id ="containerHome" style="padding:50px">
     <div class="row">
-     <div class = "col-xs-12" id ="containerHome" style="padding:50px">
+     <div class = "col-xs-12">
 
-	 <p align="center"><img src="assets/cmacc-trans.png" style="width:50%" /></p>
+    
+	 <p align="center"><img src="assets/cmacc-trans.png" style="width:65%" /></p>
 <br/>
 <hr>
-<h3><a href="http://commonaccord.org/index.php?action=list&file=./02/">Start here - let's make this <u>the last</u> NDA and Consulting Agreement you ever have to read.</a></h3>
-   &emsp; &emsp;    
-
-<h3 class="title">Open source legal documents and software.</h1>
-<h4 class="title">
-<a href="https://github.com/CommonAccord/Org/wiki/Goal%3A-Bringing-the-World-to-Agreement">Goal 1: Bringing the world to agreement</a>
-   &emsp; &emsp;   
-
-
-<a href="https://github.com/CommonAccord/Org/wiki/Goal%3A-A-World-without-Paperwork">Goal 2: A world without paperwork</a>
-   &emsp; &emsp;    
-<a href="https://github.com/CommonAccord/Org/wiki/Goal%3A-Local-Decision">Goal 3: Local Decision</a>
-</h4>
-
-        <h4 class="title"><a href="https://github.com/CommonAccord/commonaccord/tree/master/Doc">Github repo</a>   &emsp; &emsp;   <a href="https://twitter.com/commonaccord">@commonaccord</a>  &emsp; &emsp;  <a href="http://lists.commonaccord.org/archive/cmacc/">mailing list</a></h4>
-
-
-<h4 class="title"><a href="http://commonaccord.org/index.php?action=list&file=/"/>THE FILES</a>  
-  &emsp; &emsp; 
-
-<a href=<?=$_SERVER['PHP_SELF']?>?action=explore>The Objects of Law</a>
-  &emsp; &emsp; 
-
-<a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=/GenomicsAndHealth/REWG/Demo/>Automating Patient Consents</a>
-  &emsp; &emsp; 
-
-<a href="http://commonaccord.org/index.php?action=source&file=/01/Agt/Type/Web/Privacy/Common/Form.md"/>Let's agree on privacy policies.</a>
-  &emsp; &emsp; 
-
-<a href="http://www.commonaccord.org/index.php?action=list&file=./01/Demo/">Componentized Terms of Use</a> &emsp;   &emsp; <a href="http://www.commonaccord.org/index.php?action=list&file=./me/Boston/Doc/">Boston Hackathon</a> 
-  &emsp; &emsp; 
-
+<h1 class="title">CommonAccord is an open source software<br/> and law project.</h1>
 <hr>
-<br/>
+<h3 class="title">We are lawyers and programmers working together<br/> to create a global template system of codified legal texts.</h4>
+<br/><br/>
 
 <!--
                         <div id="code" class="jtitle">
@@ -56,48 +25,51 @@ include("header.php");
                         <b>Bringing</b> = Codifying legal documents to bring
                         </div>
 !-->
-<div id="info-more">
-<h4 class="subtitle">Applying source methods to open source licenses <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=me/cc/license/4_0/>Creative Commons Licenses</a></h4>    
-       <h4 class="subtitle">Learn <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=about/how/>how it works</a>.</h4>
-        <h4 class="subtitle">See <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=doc/>some deals</a>.</h4>
+</div></div>
+<div class="row">
+<div class="col-sm-4"></div>
+<div class="col-sm-4" id="code" align="center">
+<a href="<?=$_SERVER['PHP_SELF']?>?action=demo"><img  src="assets/learn.jpg"></a>
+</div>
 
- <h4>NO MENTION OF ANY PERSON ON THE SITE SHOULD BE UNDERSTOOD TO INDICATE ANY ENDORSEMENT OR APPROVAL.  NOR THE TRUTH OF ANY STATEMENT OR RELATIONSHIP.  SOME PUBLIC FIGURES ARE MENTIONED AND SOME OF THE INFORMATION ABOUT THEM IS DRAWN FROM PUBLIC RECORDS.  BUT OTHER PARTS ARE INVENTED.  DO NOT TREAT ANY OF THIS INFORMATION AS TRUE.  SIMILARLY, DO NOT TREAT THIS AS LEGAL ADVICE OR EVEN AS RELIABLE PRECEDENTS.</h4>
-  
+    <div class="col-sm-4" id="info-more">
 
-</div> 
+        <h4 class="subtitle">Explore <a href=<?=$_SERVER['PHP_SELF']?>?action=explore>the template system.</a></h4>
+        <h4 class="subtitle">Learn <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=/about/how/>how it works</a>.</h4>
+        <h4 class="subtitle">Browse <a href="https://github.com/CommonAccord/commonaccord/tree/master/Doc">the Github repo</a>.</h4>
 
+                        <br/><a href="#more"><img src="assets/more.png" height=75></a>
 
-<br>
+</div>
+</div>
 
     </div> <!--end containerHome !-->
-   </div><!--end row !-->
-</div> <!--end container !-->
-
-<br>
-      
-<div class="container" >
-      
-     <div class="col-sm-4 aboutBox" id="more" >
+     
+<div class="row" id="containerContent"> 
+     <div class="col-sm-4">
+	<div class="aboutBox" >
           <h2 class="title">The Challenge</h2>
           <hr>
-   <h4 class="jtitle">To eliminate needless work and inconsistency in legal dealings.</h4>
+   <h4 class="jtitle">To eliminate rehashing and needless inconsistency in law.</h4>
           <hr>
-   <p>Nearly all legal text is a copy or rework of something already existing. Word processing technologies fail to leverage these connections, creating needless work, cost, delay, risk and legal confusion.</p>
+   <p>The legal system runs on text. Nearly all legal text is a copy or rework of something already existing. Our current technologies fail to make these connections.  This creates needless work, cost, delay, risk and legal confusion.</p>
           <br>        
-
+	</div>
     </div> <!--end col-sm-4 !-->
 
-        <div class="col-sm-4 aboutBox">
+        <div class="col-sm-4">
+	<div class=" aboutBox">
           <h2 class="title">A Solution</h2>
           <hr>
-         <h4 class="jtitle">A simple programming language</h4>   
+         <h4 class="jtitle">The simplest possible programming language</h4>   
 <hr>
-   <p>A modular template system of cards that is the simplest possible programming language, with the key features of modularity and inheritance.  It relies on {expansion} of strings and [expansion] of cards.  Period.  People can program their relationships.  Lawyers can codify boilerplate.  Management gets a data picture of the enterprise's relationships, situation and activities.   Smart contracts can be both technical &ldquo;dry&rdquo; code (i.e. self-contained code snippets) and legal &ldquo;wet&rdquo; code.  Marketplaces can codify their terms of dealing by opt-in iteration.</p>
+   <p>We have created a modular template system of text cards that relies on {expansion} of strings and [expansion] of cards.  Period.  People can program their relationships.  Lawyers can codify boilerplate.  Management can have a data picture of the enterprise's relationships, situation and activities.   Smart contracts can be both technical &ldquo;dry&rdquo; code (i.e. self-contained code snippets) and legal &ldquo;wet&rdquo; code.</p>
       <br>
-
+	</div>
         </div><!--end col-sm-4 !-->
 
-        <div class="col-sm-4 aboutBox">
+        <div class="col-sm-4">
+	<div class="aboutBox">
           <h2 class="title">Our vision<hr></h2>
           
                <h4 class="jtitle">Legal boilerplate becomes self-actuating.<hr></h4>
@@ -106,10 +78,10 @@ include("header.php");
 
           <p>Contract and legal text becomes cards of text, interoperating, in git, shared, forked, tested and improved.</p>
 <br>
+	</div>
        </div><!--end col-sm-4 !-->
-        
-    </div><!--end col-sm-4 !-->
-  </div><!--end containerContent !-->
+    </div><!--end containerContent !-->
+  </div><!--end container !-->
+
 
 </body><!-- end body !-->
-
