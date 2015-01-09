@@ -75,7 +75,7 @@ include("header.php");
                <h4 class="jtitle">Smart contracts and self-actuating code.<hr></h4>
 
 		<p>Smart contracts eliminate the need for trust amongst the parties, who can be sure that the contract will be performed exactly as agreed.  Indeed, as opposed to traditional legal contracts, smart contracts are always and necessarily deterministic - i.e. all possible outcomes of the contract (including penalties for breach of contract) must be explicitly stipulated in advance.</p>
-<p>While smart contracts are increasingly able to handle complex deal logics, many kinds of transactions do - eventually - have to interface with the real world. <a href=<?=$_SERVER['PHP_SELF']?>?action=smartcontracts>Discover how Common Accord can help.</a></p>
+<p>While smart contracts are increasingly able to handle complex deal logics, many kinds of transactions do - eventually - have to interface with the real world. <a href="PDFs/Cmacc-LegallyenabledCrypto-Transacting.pdf">Discover how Common Accord can help.</a></p>
 
 <br>
 	</div>
