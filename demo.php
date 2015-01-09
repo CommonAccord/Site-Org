@@ -27,7 +27,7 @@ include("header.php");
 </td></tr>
 <tr>
 <td><img src="http://www.richierichardson.in/wp-content/uploads/2014/11/policies-icon.png" height="50px"></td>
-<td><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=01/Demo>Terms of Use</a></td>
+<td><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=01/Demo/>Terms of Use</a></td>
 <td>Terms of Use vary needlessly:<br> Cmacc's flexible data model allows us build simple Terms of Use by relying on libraries that can be combined and modified as needed.</td></tr>
 
 <tr>
