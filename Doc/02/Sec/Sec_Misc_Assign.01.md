@@ -8,7 +8,6 @@ OneWay.sec={OneWay.1.Sen} {2.Sen} {3.Sen}
  
 OneWayWithMerger.sec={OneWay.1.Sen} {ExceptAssignByP1.2.Sen} {3.Sen}
  
-
 Mutual.1.Sen=A {Party} shall not subcontract or otherwise delegate or assign {this_Agreement} or any of its obligations under {this_Agreement} without the other {Party}’s prior written consent.
 
 OneWay.1.Sen={P2.The} shall not assign or transfer any rights or obligations under {this_Agreement} without {P1.the}'s prior written consent.
@@ -20,6 +19,6 @@ ExceptAssignByP1.2.Sen=Any attempted assignment, subcontract, delegation, or tra
 3.Sen=Subject to the foregoing, {this_Agreement} will be for the benefit of each {Party}’s successors and assigns, and will be binding on each {Party}’s assignees.
 
 
-=[01/Agt/Bit/Secs/01]
+=[02/Bit/Sec_01]
 
 Model.Root=<b>{Ti}</b><br><font color="red">Choose</font><ul><b>Mutual.sec</b><br><li>{Mutual.sec}<li><b>OneWay.sec</b><br>{OneWay.sec}<li><b>OneWayWithMerger.sec</b><br>{OneWayWithMerger.sec}</ul>

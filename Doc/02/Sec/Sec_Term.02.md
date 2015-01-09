@@ -20,7 +20,7 @@ Ti=Term and Termination
 
 4.sec=The rights and obligations contained in {Survive.Xrefs} will survive any termination or expiration of {this_Agreement}.
 
-=[01/Agt/Bit/Secs/04]
+=[02/Bit/Sec_04]
 
 TerminateWithoutCause.Duration=fifteen (15) days
 

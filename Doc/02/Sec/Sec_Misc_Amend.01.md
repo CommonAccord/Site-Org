@@ -1,5 +1,5 @@
 Ti=Amendment
 
-sec=No modification of or amendment to {this_Agreement} will be effective unless in writing and signed by the {Party} to be charged.
-  
-=[01/Agt/Bit/Secs/01]
+sec=No modification of or amendment to {this_Agreement} will be effective unless in writing and signed by the {party} to be charged.
+
+=[02/Bit/Sec_01]

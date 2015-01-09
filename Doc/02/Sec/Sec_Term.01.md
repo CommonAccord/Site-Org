@@ -12,4 +12,4 @@ Ti=Termination
 
 3.sec={The_Receiving_Party}’s obligations with respect to {Confidential_Information_of_the_Disclosing_Party} will survive termination of {this_Agreement}
 
-=[01/Agt/Bit/Secs/03]
+=[02/Bit/Sec_03]

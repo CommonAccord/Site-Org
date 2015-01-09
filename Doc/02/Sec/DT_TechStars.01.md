@@ -1,65 +1,65 @@
-Act={m-}Act{-m}
+=[02/Sec/DT_Base.01.md]
 
-Additional_Closing={m-}Additional Closing{-m}
+Act={d-}Act{-d}
 
-Additional_Purchasers={m-}Additional Purchasers{-m}
+Additional_Closing={d-}Additional Closing{-d}
 
-Agreement={m-}Agreement{-m}
+Additional_Purchasers={d-}Additional Purchasers{-d}
 
-This_Agreement=This {m-}Agreement{-m}
+Closing={d-}Closing{-d}
 
-this_Agreement=this {m-}Agreement{-m}
+Closing_Date={d-}Closing Date{-d}
 
-Closing={m-}Closing{-m}
+Common_Stock={d-}Common Stock{-d}
 
-Closing_Date={m-}Closing Date{-m}
+Company's_Common_Stock={d-}Company's Common Stock{-d}
 
-Common_Stock={m-}Common Stock{-m}
+Company's_Preferred_Stock={d-}Company's Preferred Stock{-d}
 
-Company's_Common_Stock={m-}Company's Common Stock{-m}
+Company={d-}Company{-d}
 
-Company's_Preferred_Stock={m-}Company's Preferred Stock{-m}
+The_Company=The {d-}Company{-d}
 
-Company={m-}Company{-m}
+the_Company=the {d-}Company{-d}
 
-Conversion_Securities={m-}Conversion Securities{-m}
+Conversion_Securities={d-}Conversion Securities{-d}
 
-Effective_Date={m-}Effective Date{-m}
+Equity_Securities={d-}Equity Securities{-d}
 
-Equity_Securities={m-}Equity Securities{-m}
+Event_of_Default={d-}Event of Default{-d}
 
-Event_of_Default={m-}Event of Default{-m}
+Holder={d-}Holder{-d}
 
-Holder={m-}Holder{-m}
+Holders={d-}Holders{-d}
 
-Holders={m-}Holders{-m}
+Investors={d-}Investors{-d}
 
-Investors={m-}Investors{-m}
+Loan_Amount={d-}Loan Amount{-d}
 
-Loan_Amount={m-}Loan Amount{-m}
+Loan_Documents={d-}Loan Documents{-d}
 
-Loan_Documents={m-}Loan Documents{-m}
+Maturity_Date={d-}Maturity Date{-d}
 
-Maturity_Date={m-}Maturity Date{-m}
+Note={d-}Note{-d}
 
-Note={m-}Note{-m}
+Notes={d-}Notes{-d}
 
-Notes={m-}Notes{-m}
+Purchaser={d-}Purchaser{-d}
 
-Purchaser={m-}Purchaser{-m}
+Purchasers={d-}Purchasers{-d}
 
-Purchasers={m-}Purchasers{-m}
+Qualified_Financing={d-}Qualified Financing{-d}
 
-Qualified_Financing={m-}Qualified Financing{-m}
+Requisite_Holders={d-}Requisite Holders{-d}
 
-Requisite_Holders={m-}Requisite Holders{-m}
+Sale_of_the_Company={d-}Sale of the Company{-d}
 
-Sale_of_the_Company={m-}Sale of the Company{-m}
+Schedule_of_Purchasers={d-}Schedule of Purchasers{-d}
 
-Schedule_of_Purchasers={m-}Schedule of Purchasers{-m}
+Securities={d-}Securities{-d}
 
-Securities={m-}Securities{-m}
+d-=<a href="https://github.com/CommonAccord/Org/blob/master/Doc/Boehmig/techstars-note/defined-terms.md"><font color="green">
 
-m-=<a href="https://github.com/CommonAccord/Org/blob/master/Doc/Boehmig/techstars-note/defined-terms.md"><font color="green">
+-d=</font></a> 
 
--m=</font></a>
+Model.Root=<b>Defined Terms:</b> <ol><li><b>Act:</b> {Act}<li><b>Additional_Closing:</b> {Additional_Closing}<li><b>Additional_Purchasers:</b> {Additional_Purchasers}<li><b>Closing:</b> {Closing}<li><b>Closing_Date:</b> {Closing_Date}<li><b>Common_Stock:</b> {Common_Stock}<li><b>Company's_Common_Stock:</b> {Company's_Common_Stock}<li><b>Company's_Preferred_Stock:</b> {Company's_Preferred_Stock}<li><b>Company:</b> {Company}<li><b>The_Company:</b> The {Company}<li><b>the_Company:</b> the {Company}<li><b>Conversion_Securities:</b> {Conversion_Securities}<li><b>Equity_Securities:</b> {Equity_Securities}<li><b>Event_of_Default:</b> {Event_of_Default}<li><b>Holder:</b> {Holder}<li><b>Holders:</b> {Holders}<li><b>Investors:</b> {Investors}<li><b>Loan_Amount:</b> {Loan_Amount}<li><b>Loan_Documents:</b> {Loan_Documents}<li><b>Maturity_Date:</b> {Maturity_Date}<li><b>Note:</b> {Note}<li><b>Notes:</b> {Notes}<li><b>Purchaser:</b> {Purchaser}<li><b>Purchasers:</b> {Purchasers}<li><b>Qualified_Financing:</b> {Qualified_Financing}<li><b>Requisite_Holders:</b> {Requisite_Holders}<li><b>Sale_of_the_Company:</b> {Sale_of_the_Company}<li><b>Schedule_of_Purchasers:</b> {Schedule_of_Purchasers}<li><b>Securities:</b> {Securities}</ol>

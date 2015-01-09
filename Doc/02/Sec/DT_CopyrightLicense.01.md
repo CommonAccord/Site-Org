@@ -1,16 +1,10 @@
 /Note=used with the Univ of California Standard License Agreement for library materials [License/Copyright/Library/01.md]
 
-Agreement={d-}Agreement{-d}
-
-This_Agreement=This {d-}Agreement{-d}
-
-this_Agreement=this {d-}Agreement{-d}
+=[02/Sec/DT_Base.01.md]
 
 Authorized_User={d-}Authorized_User{-d}
 
 Authorized_Users={d-}Authorized Users{-d}
-
-Effective_Date={d-}Effective Date{-d}
 
 /Note=Intellectual Property is used in capitalized form but not defined in the Agreement
 
@@ -23,11 +17,6 @@ Licensed_Materials={d-}Licensed Materials{-d}
 Licensor={d-}Licensor{-d}
 
 /Note=changing the style.
-
-party={d-}Party{-d}
-
-parties={d-}Parties{-d}
-
 
 d-=<a href="https://github.com/CommonAccord/Org/blob/master/Doc/02/Sec/DT_CopyrightLicense.01.md "><font color="green">
 

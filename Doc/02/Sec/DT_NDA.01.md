@@ -1,8 +1,4 @@
-Agreement={d-}Agreement{-d}
-
-This_Agreement=This {d-}Agreement{-d}
-
-this_Agreement=this {d-}Agreement{-d}
+=[02/Sec/DT_Base.01.md]
 
 Confidential_Information={d-}Confidential Information{-d}
 
@@ -13,26 +9,6 @@ Disclosing_Party={d-}Disclosing Party{-d}
 The_Disclosing_Party=The {d-}Disclosing Party{-d}
 
 the_Disclosing_Party=the {d-}Disclosing Party{-d}
-
-the_Effective_Date=the {d-}Effective Date{-d}
-
-Effective_Date={d-}Effective Date{-d}
-
-P1.The=The {P1.Handle}
-
-P1.the=the {P1.Handle}
-
-P2.The=The {P2.Handle}
-
-P2.the=the {P2.Handle}
-
-Parties={d-}Parties{-d}
-
-Party={d-}Party{-d}
-
-parties={d-}Parties{-d}
-
-party={d-}Party{-d}
 
 Each_Party=Each {d-}Party{-d}
 

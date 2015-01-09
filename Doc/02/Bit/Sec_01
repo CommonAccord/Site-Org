@@ -1,0 +1,21 @@
+Model.Root={Sec}
+
+Sec=<b>{Ti}</b><br>{sec}
+
+sec={0.Sec} {xlist} {90.Sec}
+
+0.Sec=<b></b>
+
+xlist={olist}
+
+olist=<ol><li>{ecs}</li></ol>
+
+ulist=<ul><li>{secs}</li></ul>
+
+nlist=<ul type="none"><li>{secs}</li></ul>
+
+90.Sec=<b></b>
+
+/Note=to prevent recursion from creating loops.
+
+ecs=<b>ecs - Secs or secs</b>
