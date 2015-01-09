@@ -12,7 +12,9 @@ Ti=Dispute Resolution
 
 3.Ti=Arbitration
 
-3.sec= Any controversies or disputes arising out of or relating to {this_Agreement} shall be resolved by binding arbitration in accordance with the then current Commercial Arbitration Rules of the American Arbitration Association.  The {parties} shall endeavor to select a mutually acceptable arbitrator knowledgeable about issues relating to the subject matter of {this_Agreement}.  In the event the {parties} are unable to agree to such a selection, each {party} will select an arbitrator and the arbitrators in turn shall select a third arbitrator.  The arbitration shall take place at a location that is reasonably centrally located between the {parties}, or otherwise mutually agreed upon by the {parties}.
+3.sec= Any controversies or disputes arising out of or relating to {this_Agreement} shall be resolved by binding arbitration in accordance with {ArbAssn.Rules}.  The {parties} shall endeavor to select a mutually acceptable arbitrator knowledgeable about issues relating to the subject matter of {this_Agreement}.  In the event the {parties} are unable to agree to such a selection, each {party} will select an arbitrator and the arbitrators in turn shall select a third arbitrator.  The arbitration shall take place at a location that is reasonably centrally located between the {parties}, or otherwise mutually agreed upon by the {parties}.
+
+ArbAssn.Rules=the then current Commercial Arbitration Rules of the American Arbitration Association
 
 4.Ti=Production of Documents
 
