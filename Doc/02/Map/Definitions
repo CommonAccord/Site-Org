@@ -8,4 +8,4 @@ MassIT.=[MassIT/MSA/Sec/Def.md]
 NVCA.IRA.=[NVCA/IRA/Sec/Def.md]
 Master.=[core/form/agt/master/sec/Definition_Library]
 
-Model.Root=See "Source" tab.
+Model.Root=See "Source" tab.  A list of some Definitions sections.  Ultimately, static Definitions in the repo or on the site will be able to drive most of legal documentation.  But for the moment, this is examples of definitions used conventionally in documents.

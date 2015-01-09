@@ -1,4 +1,5 @@
 KISS.01.=[02/Sec/KISS_Sec_Misc.01.md]
+
 NDA.01.=[02/Sec/NDA_Sec_Misc.01.md]
 
 NDA.02.=[02/Sec/NDA_Sec_Misc.02.md]
@@ -56,4 +57,4 @@ GE.=[core/form/agt/master/sec/Miscellaneous_Library]
 MIT.TLO.=[NDA/MIT/TLO/Sec/Misc.md]
 
 
-Model.Root=See "Source" tab.
+Model.Root=See "Source" tab.  <br>Abbreviated as "Misc."  Usual about the last Section in a Contract.  Often called "General," but that seems too general.  See also Disputes and Remedies.
