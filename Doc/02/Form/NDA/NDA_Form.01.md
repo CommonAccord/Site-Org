@@ -18,17 +18,17 @@ TermOfAgreement=five (5) years
 
 /Note=Changing to standard formula
 
-93.=[02/Sec/Sec_Dispute_USLaw-Court-Injunction.01.md]
+5.=[02/Sec/Sec_Dispute_USLaw-Court-Injunction.01.md]
 
 Law.State.the=State of Delaware
 
-95.=[02/Sec/NDA_Sec_Remedy.01.md]
+6.=[02/Sec/NDA_Sec_Remedy.01.md]
 
-97.=[02/Sec/NDA_Sec_Misc.01.md]
+7.=[02/Sec/NDA_Sec_Misc.01.md]
 
 
 =[02/Sec/Frame_Secs123.01.md]
 
-1-89.Secs={1.Sec}<li>{2.Sec}<li>{3.Sec}<li>{4.Sec}
+Secs={7.Secs}
 
 =[02/Sec/DT_NDA.01.md]

@@ -10,7 +10,7 @@ P2.Handle={d-}Shirley{-d}
 
 Agt.Effective.YMD=December 1, 2014
 
-4.3.sec={4.NoTimeLimit.3.sec}
+1.7.sec={1.7.NoTimeLimit.sec}
 
 P1.xSignature=xANDREA ANG
 
