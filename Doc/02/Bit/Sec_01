@@ -8,14 +8,14 @@ sec={0.Sec} {xlist} {90.Sec}
 
 xlist={olist}
 
-olist=<ol><li>{ecs}</li></ol>
+olist=<ol><li>{_ecs}</li></ol>
 
-ulist=<ul><li>{secs}</li></ul>
+ulist=<ul><li>{_ecs}</li></ul>
 
-nlist=<ul type="none"><li>{secs}</li></ul>
+nlist=<ul type="none"><li>{_ecs}</li></ul>
 
 90.Sec=<b></b>
 
 /Note=to prevent recursion from creating loops.
 
-ecs=<b>ecs - Secs or secs</b>
+_ecs=<b>_ecs - Secs or secs</b>

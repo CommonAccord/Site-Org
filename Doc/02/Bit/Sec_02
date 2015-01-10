@@ -1,6 +1,6 @@
 =[02/Bit/Sec_01]
 
-ecs={Secs}
+_ecs={Secs}
 
 Secs={1.Sec}<li>{2.Sec}
 
@@ -9,3 +9,4 @@ secs={1.sec}<li>{2.sec}
 1.=[02/Bit/Sec_01]
 
 2.=[02/Bit/Sec_01]
+

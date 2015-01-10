@@ -1,4 +1,4 @@
-N.Secs=<ol><li>{Conf.Sec}<li>{Limit.Sec}<li>{Back.Secs}</ol>
+Front.Secs={Conf.Sec}<li>{Limit.Sec}<li>{Rep.Sec}
 
 MessageToUser=02/NDA/Form.md
 
@@ -20,6 +20,6 @@ Remedy.=[02/Sec/NDA_Sec_Remedy.01.md]
 
 Misc.=[02/Sec/NDA_Sec_Misc.02.md]
 
-=[02/Sec/Frame.01.md]
+=[02/Sec/Frame_SecsNamed.01.md]
 
 =[02/Sec/DT_NDA.01.md]

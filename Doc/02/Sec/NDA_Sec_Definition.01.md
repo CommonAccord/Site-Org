@@ -30,4 +30,6 @@ infoExamples=research, experimental work, development, design details and specif
 
 5.sec=all other information that {the_Receiving_Party} knew, or reasonably should have known, was the {Confidential_Information_of_the_Disclosing_Party}.
 
-=[01/Agt/Bit/_secs/05]
+_ecs={secs}
+
+=[02/Bit/Sec_05]
