@@ -1,6 +1,4 @@
-=[02/Sec/Frame.01.md]
-
-N.Secs=<ol><li>{Conf.Sec}<li>{Limit.Sec}<li>{Rep.Sec}<li>{Term.Sec}<li>{Dispute.Sec}<li>{Remedy.Sec}<li>{Misc.Sec}</ol>
+N.Secs=<ol><li>{Conf.Sec}<li>{Limit.Sec}<li>{Back.Secs}</ol>
 
 MessageToUser=02/NDA/Form.md
 
@@ -21,5 +19,7 @@ Law.State.the=State of Delaware
 Remedy.=[02/Sec/NDA_Sec_Remedy.01.md]
 
 Misc.=[02/Sec/NDA_Sec_Misc.02.md]
+
+=[02/Sec/Frame.01.md]
 
 =[02/Sec/DT_NDA.01.md]
