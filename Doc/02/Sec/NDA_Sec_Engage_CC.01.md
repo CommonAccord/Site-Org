@@ -26,6 +26,8 @@ Condition.Bound.cl=who have signed confidentiality agreements containing, or are
 
 Condition.NDA.cl=who have signed confidentiality agreements containing {Condition.AsRestrictive.cl}
 
+Condition.ApprovedNDA.cl=who have signed confidentiality agreements in form approved in advance by {the_Disclosing_Party} containing {Condition.AsRestrictive.cl}
+
 Condition.AsRestrictive.cl=confidentiality obligations at least as restrictive as those contained in {this_Agreement}
 
 NoCC.sec={The_Receiving_Party} will not permit any other person to have access to the {Confidential_Information_of_the_Disclosing_Party}.

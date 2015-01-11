@@ -14,23 +14,11 @@ P2.Handle={d-}Consultant{-d}
 
 3.1.=[02/Sec/Sec_Cov_IP_WorkProductOwnership.01.md]
 
-IP.Xref={3.Xref}
-
-IP.WorkProduct.Xref={IP.Xref}.1
-
-IP.Preexisting_IP.Xref={IP.Xref}.2
-
-IP.WorkProduct.OtherRight.Xnum={IP.WorkProduct.Xref}.4
-
 3.2.=[02/Sec/Sec_Cov_IP_Preexisting.01.md]
 
 3.3.=[02/Sec/Sec_Conf_Comprehensive.01.md]
 
 3.=[01/Agt/Bit/Secs/03]
-
-IP.Preexisting_IP.Xref={3.Xref}.2
-
-Confidential.Xref={3.Xref}.3
 
 4.Ti=Representations of {P2.Handle}
 
@@ -38,10 +26,7 @@ Confidential.Xref={3.Xref}.3
 
 4.2.=[02/Sec/Sec_Remedy_IndemnifyBreachOfRep.01.md]
 
-Rep.Xref={4.Xref}
-
 4.=[01/Agt/Bit/Secs/02]
-
 
 5.Ti=Other Covenants of {P2.Handle}
 
@@ -49,15 +34,9 @@ Rep.Xref={4.Xref}
 
 5.2.=[02/Sec/Sec_Cov_Unfair_Interference.01.md]
 
-Unfair.Interference.Xref={5.Xref}.2
-
 5.3.=[02/Sec/Sec_Cov_Employee.01.md]
 
 5.=[01/Agt/Bit/Secs/03]
-
-Unfair.Interference.Xref={Unfair.Xref}.2
-
-Employee.Xref=Section 3
 
 6.=[02/Sec/Sec_Term.02.md]
 
@@ -76,6 +55,25 @@ Attach.1.=[02/Form/Consult/Attach/Project/01.md]
 Attach.2.=[02/Form/Consult/Attach/Assign/Copyright/01.md]
 
 Attach.3.=[02/Form/Consult/Attach/Assign/Patent/01.md]
+
+IP.Xref=Section 3
+
+IP.WorkProduct.Xref={IP.Xref}.1
+
+IP.WorkProduct.OtherRight.Xnum={IP.WorkProduct.Xref}.4
+
+IP.Preexisting_IP.Xref={IP.Xref}.2
+
+Confidential.Xref={IP.Xref}.3
+
+Rep.Xref=Section 4
+
+OtherCov.Xref=Section 5
+
+Unfair.Interference.Xref={OtherCov.Xref}.2
+
+Employee.Xref={OtherCov.Xref}.3
+
 
 DocBody={Doc}
 

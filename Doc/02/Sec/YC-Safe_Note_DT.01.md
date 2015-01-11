@@ -36,6 +36,10 @@ The_Investor=The {d-}Investor{-d}
 
 the_Investor=the {d-}Investor{-d}
 
+this_instrument=this {d-}instrument{-d}
+
+instrument=this {d-}instrument{-d}
+
 Liquidity_Capitalization={d-}Liquidity Capitalization{-d}
 
 Liquidity_Event={d-}Liquidity Event{-d}
