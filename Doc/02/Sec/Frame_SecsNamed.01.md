@@ -4,9 +4,11 @@ N.Secs=<ol><li>{Front.Secs}<li>{Back.Secs}</ol>
 
 Back.Secs={Back.DRM.Secs}
 
-Back.DRM.Secs={Dispute.Sec}{Remedy.li}{Misc.li}
+Back.DRM.Secs={Term.Sec}{Dispute.li}{Remedy.li}{Misc.li}
 
-Back.DRMD.Secs={Dispute.Sec}{Remedy.li}{Misc.li}{Def.li}
+Back.DRMD.Secs={Back.DRMD.Secs}{Def.li}
+
+Term.li=<li>{Dispute.Sec}
 
 Dispute.li=<li>{Dispute.Sec}
 
@@ -15,6 +17,8 @@ Remedy.li=<li>{Remedy.Sec}
 Misc.li=<li>{Misc.Sec}
 
 Def.li=<li>{Def.Sec}
+
+Term.Sec=Term.Sec
 
 Dispute.Sec=Dispute.Sec
 

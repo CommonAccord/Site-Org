@@ -1,6 +1,6 @@
 Front.Secs={Conf.Sec}<li>{Limit.Sec}<li>{Rep.Sec}
 
-MessageToUser=02/NDA/Form.md
+MessageToUser=Make Choices and Complete Missing Fields!
 
 Ti=Mutual Non-Disclosure Agreement
 
@@ -12,9 +12,7 @@ Rep.=[02/Sec/NDA_Sec_Rep_NotViolate3PartyRight.01.md]
 
 Term.=[02/Sec/Sec_Term.01.md]
 
-Dispute.=[02/Sec/Sec_Dispute_USLaw-Court-Injunction.01.md]
-
-Law.State.the=State of Delaware
+Dispute.=[02/Sec/Sec_Dispute_USLaw-Court.01.md]
 
 Remedy.=[02/Sec/NDA_Sec_Remedy.01.md]
 

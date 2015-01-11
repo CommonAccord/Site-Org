@@ -25,3 +25,7 @@ Parties={d-}Parties{-d}
 Party={d-}Party{-d}
 
 DT.Base=<b>DT.Base</b><ol><li>Agreement<ol><li><b>Agreement</b>: {Agreement}<li><b>This_Agreement</b>: {This_Agreement}<li><b>this_Agreement</b>: {this_Agreement}</ol><li><b>Effective_Date:</b> {Effective_Date}<li><b>P1 - P1:</b> {P1.The}; {P2.The}<li><b>Party:</b><ol><li>{Party}<li>{party}<li>{Parties}<li>{parties}</ol></ol>
+
+d-=<a href="https://github.com/CommonAccord/Org/blob/master/Doc/02/Sec/DT_Base.01.md"><font color="green">
+
+-d=</font></a>

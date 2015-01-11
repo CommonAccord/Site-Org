@@ -19,3 +19,9 @@ nlist=<ul type="none"><li>{_ecs}</li></ul>
 /Note=to prevent recursion from creating loops.
 
 _ecs=<b>_ecs - Secs or secs</b>
+
+Xref={x-}Section 1{-x}
+
+x-=<font color="blue">
+
+-x=</font>

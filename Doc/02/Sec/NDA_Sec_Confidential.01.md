@@ -6,9 +6,9 @@ Ti=Confidentiality
 
 3.=[02/Sec/NDA_Sec_Exclude.01.md]
 
-ExcludeAndExcept.Xref={Xref}.3 and {Xref}.4
+ExcludeAndExcept.Xref={Conf.Xref}.3 and {Conf.Xref}.4
 
-Exclude.Xref={Xref}.3
+Exclude.Xref={Conf.Xref}.3
 
 4.=[02/Sec/NDA_Sec_Except.01.md]
 

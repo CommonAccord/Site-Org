@@ -2,4 +2,4 @@
 
 ICC.=[02/Sec/Sec_Dispute_Arb_ICC.01.md]  
 
-5.2.Sec=<font color="red">{ICC.3.Sec}</font>
+Dispute.Forum.Sec=<font color="red">{ICC.3.Sec}</font>

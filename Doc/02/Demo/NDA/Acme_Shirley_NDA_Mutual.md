@@ -1,4 +1,4 @@
-=[02/Form/NDA/NDA_Form.01.md]
+=[02/Form/NDA/NDA_Form.02.md]
 
 P1.=[core/id/acme_incorporated]
 
@@ -10,7 +10,13 @@ P2.Handle={d-}Shirley{-d}
 
 Agt.Effective.YMD=December 1, 2014
 
-1.7.sec={1.7.NoTimeLimit.sec}
+Conf.Engage.CC.sec={Conf.Engage.CC.Base.sec}
+
+Conf.Term.sec={Conf.Term.NoTimeLimit.sec}
+
+TermOfAgreement={m-}three years{-m}
+
+Law.State.the={m-}the Commonwealth of Massachusetts{-m}
 
 P1.xSignature=xANDREA ANG
 
