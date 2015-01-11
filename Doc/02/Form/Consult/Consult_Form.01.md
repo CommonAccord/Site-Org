@@ -63,9 +63,9 @@ Employee.Xref=Section 3
 
 6.Survive.Xrefs={IP.WorkProduct.Xref} (“Ownership of Work Product”), {IP.Preexisting_IP.Xref} (“License to Preexisting IP”), {Rep.Xref} (“Representations and Warranties”), {Confidential.Xref} (“Confidential Information”) and {Unfair.Interference.Xref} (“Noninterference with Business”)
 
-7.=[02/Form/Consult/Sec/Consult_Sec_Dispute.01.md]
+7.=[02/Sec/Consult_Sec_Dispute.01.md]
 
-8.=[02/Form/Consult/Sec/Consult_Sec_Misc.01.md]
+8.=[02/Sec/Consult_Sec_Misc.01.md]
 
 90.=[02/Sec/Frame_End.02.md]
 

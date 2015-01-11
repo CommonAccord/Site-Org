@@ -1,6 +1,6 @@
 Ti=Miscellaneous
 
-1.=[02/Sec/Sec_Misc_Entire.02.md]
+1.=[02/Sec/Sec_Misc_Entire_wProjectAssignments.01.md]
 
 2.=[02/Sec/Sec_Misc_Assign.02.md]
 

@@ -1,11 +1,3 @@
-=[02/Sec/Frame.01.md]
-
-N.Secs={OL.Secs}
-
-OL.Secs=<ol><li>{Secs}</ol>
-
-Secs={39.Secs}
-
 1.Secs={1.Sec}
 
 2.Secs={1.Sec}<li>{2.Sec}

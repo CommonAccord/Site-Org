@@ -1,4 +1,4 @@
-MessageToUser=02/NDA/Form.md
+MessageToUser=02/Form/NDA/NDA_Form.01.md
 
 Ti=Mutual Non-Disclosure Agreement
 
@@ -27,7 +27,7 @@ Law.State.the=State of Delaware
 7.=[02/Sec/NDA_Sec_Misc.01.md]
 
 
-=[02/Sec/Frame_Secs123.01.md]
+=[02/Sec/Frame.01.md]
 
 Secs={7.Secs}
 

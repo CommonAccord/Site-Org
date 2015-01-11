@@ -5,7 +5,7 @@ Agt.Start={Agt.By.Sec} {Agt.Effective.Sec}<br><br>
 Agt.Intro={Agt.ThisAgreement.Sec} {Agt.Parties.Sec} {Agt.Purpose/Whereas.Sec} {Agt.NowTherefore.Sec}
 
 
-Agt.By.Sec=BY AND BETWEEN: <ul><li>{P1.Name.Full} as “{P1.Handle}” and<li> {P2.Name.Full} as “{P2.Handle}”</ul>
+Agt.By.Sec=BY AND BETWEEN: <ul><li>{P1.Name.Full} (“{P1.Handle}”) and<li> {P2.Name.Full} (“{P2.Handle}”)</ul>
 
 Agt.ByRepresented.Sec=BY AND BETWEEN: <ul><li>{P1.Represented.Cl}; and<li>{P2.Represented.Cl}</ul> 
 
