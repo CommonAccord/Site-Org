@@ -16,7 +16,7 @@ include("header.php");
 
 <tr>
 <td><img src="http://iconizer.net/files/Luminight/thumb/128/filter_data.png" height="50px"/></td>
-<td width="100px"><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=/GenomicsAndHealth/REWG/Demo/>Data Collection</a></td>
+<td width="100px"><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=GenomicsAndHealth/REWG/Demo/>Data Collection</a></td>
 				 <td>Automating Patient Consents, with an international approach:<br>Cmacc's Consent Forms can "inherit" clauses according to the language, jurisdiction, situation of the data subject, etc., making them transparent, consistent and computable. </td>
 </tr>
 
@@ -38,7 +38,7 @@ Cmacc allows the dynamic generation of escrow contracts and follow up documents 
 
 <tr>
 <td><img src="http://mirrors.creativecommons.org/presskit/icons/cc.large.png" height="50px"></td>
-<td><a href="<?=$_SERVER['PHP_SELF']?>?action=list&file=/CreativeCommons/License/4_0/">Copyright licensees</a></td>
+<td><a href="<?=$_SERVER['PHP_SELF']?>?action=list&file=CreativeCommons/License/4_0/">Copyright licensees</a></td>
 <td>The suite of Creative Commons Licences is presented here as source code:<br> By merely forking and extending previous licenses, we can implement a complex system of conditions, which always remain easy to read for everyone.</td></tr>
 
 	</table>
