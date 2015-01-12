@@ -1,5 +1,7 @@
 =[02/Form/NDA/NDA_Form.02.md]
 
+MessageToUser=Signed
+
 P1.=[core/id/acme_incorporated]
 
 P2.=[core/id/solomon_shirley]
