@@ -14,13 +14,25 @@ Sec=<b>{Ti}</b><br>{sec}
 
 sec={0.Sec} {xlist} {90.Sec}
 
-xlist={olist}
+xlist={Olist}
 
-olist=<ol><li>{Secs}</li></ol>
+Olist=<ol><li>{Secs}</li></ol>
 
-ulist=<ul><li>{Secs}</li></ul>
+olist=<ol><li>{secs}</li></ol>
 
-nlist=<ul type="none"><li>{Secs}</li></ul>
+Ulist=<ul><li>{Secs}</li></ul>
+
+ulist=<ul><li>{secs}</li></ul>
+
+Nlist=<ul type="none"><li>{Secs}</li></ul>
+
+nlist=<ul type="none"><li>{secs}</li></ul>
+
+/blist = for "break list" e.g. < br>
+ 
+Blist=<ul type="none" style="padding-left: 0"><li>{Secs}</ul>
+
+blist=<ul type="none" style="padding-left: 0"><li>{secs}</ul>
 
 0.Sec=<b></b>
 
