@@ -20,7 +20,7 @@ olist=<ol><li>{Secs}</li></ol>
 
 ulist=<ul><li>{Secs}</li></ul>
 
-nlist=<ul type="none"><li>{_ecs}</li></ul>
+nlist=<ul type="none"><li>{Secs}</li></ul>
 
 0.Sec=<b></b>
 
@@ -53,3 +53,55 @@ nlist=<ul type="none"><li>{_ecs}</li></ul>
 13.=[02/Bit/SubSec]
 
 14.=[02/Bit/SubSec]
+
+15.=[02/Bit/SubSec]
+
+16.=[02/Bit/SubSec]
+
+17.=[02/Bit/SubSec]
+
+18.=[02/Bit/SubSec]
+
+19.=[02/Bit/SubSec]
+
+20.=[02/Bit/SubSec]
+
+21.=[02/Bit/SubSec]
+
+22.=[02/Bit/SubSec]
+
+23.=[02/Bit/SubSec]
+
+24.=[02/Bit/SubSec]
+
+25.=[02/Bit/SubSec]
+
+26.=[02/Bit/SubSec]
+
+27.=[02/Bit/SubSec]
+
+28.=[02/Bit/SubSec]
+
+29.=[02/Bit/SubSec]
+
+30.=[02/Bit/SubSec]
+
+31.=[02/Bit/SubSec]
+
+32.=[02/Bit/SubSec]
+
+33.=[02/Bit/SubSec]
+
+34.=[02/Bit/SubSec]
+
+35.=[02/Bit/SubSec]
+
+36.=[02/Bit/SubSec]
+
+37.=[02/Bit/SubSec]
+
+38.=[02/Bit/SubSec]
+
+39.=[02/Bit/SubSec]
+
+40.=[02/Bit/SubSec]
