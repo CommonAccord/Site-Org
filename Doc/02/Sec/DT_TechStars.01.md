@@ -60,6 +60,7 @@ Securities={d-}Securities{-d}
 
 d-=<a href="https://github.com/CommonAccord/Org/blob/master/Doc/Boehmig/techstars-note/defined-terms.md"><font color="green">
 
--d=</font></a> 
+-d=</font></a>
+
 
 Model.Root=<b>Defined Terms:</b> <ol><li><b>Act:</b> {Act}<li><b>Additional_Closing:</b> {Additional_Closing}<li><b>Additional_Purchasers:</b> {Additional_Purchasers}<li><b>Closing:</b> {Closing}<li><b>Closing_Date:</b> {Closing_Date}<li><b>Common_Stock:</b> {Common_Stock}<li><b>Company's_Common_Stock:</b> {Company's_Common_Stock}<li><b>Company's_Preferred_Stock:</b> {Company's_Preferred_Stock}<li><b>Company:</b> {Company}<li><b>The_Company:</b> The {Company}<li><b>the_Company:</b> the {Company}<li><b>Conversion_Securities:</b> {Conversion_Securities}<li><b>Equity_Securities:</b> {Equity_Securities}<li><b>Event_of_Default:</b> {Event_of_Default}<li><b>Holder:</b> {Holder}<li><b>Holders:</b> {Holders}<li><b>Investors:</b> {Investors}<li><b>Loan_Amount:</b> {Loan_Amount}<li><b>Loan_Documents:</b> {Loan_Documents}<li><b>Maturity_Date:</b> {Maturity_Date}<li><b>Note:</b> {Note}<li><b>Notes:</b> {Notes}<li><b>Purchaser:</b> {Purchaser}<li><b>Purchasers:</b> {Purchasers}<li><b>Qualified_Financing:</b> {Qualified_Financing}<li><b>Requisite_Holders:</b> {Requisite_Holders}<li><b>Sale_of_the_Company:</b> {Sale_of_the_Company}<li><b>Schedule_of_Purchasers:</b> {Schedule_of_Purchasers}<li><b>Securities:</b> {Securities}</ol>

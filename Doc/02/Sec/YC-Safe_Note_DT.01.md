@@ -36,6 +36,8 @@ The_Investor=The {d-}Investor{-d}
 
 the_Investor=the {d-}Investor{-d}
 
+This_instrument=This {d-}instrument{-d}
+
 this_instrument=this {d-}instrument{-d}
 
 instrument=this {d-}instrument{-d}
@@ -45,6 +47,10 @@ Liquidity_Capitalization={d-}Liquidity Capitalization{-d}
 Liquidity_Event={d-}Liquidity Event{-d}
 
 Liquidity_Price={d-}Liquidity Price{-d}
+
+parties={d-}parties{-d}
+
+party={d-}party{-d}
 
 Preferred_Stock={d-}Preferred Stock{-d}
 

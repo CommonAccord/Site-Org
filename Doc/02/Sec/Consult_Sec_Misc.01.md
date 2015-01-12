@@ -16,4 +16,4 @@ Ti=Miscellaneous
 
 8.=[02/Sec/Sec_Misc_Independent.01.md]
 
-=[01/Agt/Bit/Secs/08]
+=[02/Bit/Sec_08]

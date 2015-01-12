@@ -34,12 +34,14 @@ Misc.Transfer.Xref={5.Transfer.Xref}
 
 Misc.InfoRights.Xref={5.InfoRights.Xref}
 
+Misc.Entire.Xref={5.Entire.Xref}
+
 6.=[02/Sec/KISS_Sec_Approval.01.md]
 
 
 90.Sec=<table><tr><td valign="top">{P1.Sign.Block}</td></tr><tr><td valign="top">ACKNOWLEDGED AND AGREED:<br>{P2.Sign.Block}</td></tr></table>
 
-=[01/Agt/Bit/Secs/06]
+=[02/Bit/Sec_06]
 
 DocBody={Doc}
 

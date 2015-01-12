@@ -21,4 +21,4 @@ Ti=Ownership of {Work_Product}
 
 5.sec=If {P2.the} has any rights, including without limitation “artist’s rights” or “moral rights,” in the {Work_Product} which cannot be assigned,  {P2.the} hereby unconditionally and irrevocably grants to {P1.the} an exclusive (even as to {P2.the}), worldwide, fully paid and royalty-free, irrevocable, perpetual license, with rights to sublicense through multiple tiers of sublicensees, to use, reproduce, distribute, create derivative works of, publicly perform and publicly display the {Work_Product} in any medium or format, whether now known of later developed.  In the event that {P2.the} has any rights in the {Work_Product} that cannot be assigned or licensed, {P2.the} unconditionally and irrevocably waives the enforcement of such rights, and all claims and causes of action of any kind against {P1.the} or {P1.the}’s customers.
 
-=[01/Agt/Bit/Outline/1-5.Secs]
+=[02/Bit/Sec_05]

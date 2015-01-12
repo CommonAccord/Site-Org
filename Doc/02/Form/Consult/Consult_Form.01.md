@@ -18,7 +18,7 @@ P2.Handle={d-}Consultant{-d}
 
 3.3.=[02/Sec/Sec_Conf_Comprehensive.01.md]
 
-3.=[01/Agt/Bit/Secs/03]
+3.=[02/Bit/Sec_03]
 
 4.Ti=Representations of {P2.Handle}
 
@@ -26,7 +26,7 @@ P2.Handle={d-}Consultant{-d}
 
 4.2.=[02/Sec/Sec_Remedy_IndemnifyBreachOfRep.01.md]
 
-4.=[01/Agt/Bit/Secs/02]
+4.=[02/Bit/Sec_02]
 
 5.Ti=Other Covenants of {P2.Handle}
 
@@ -36,7 +36,7 @@ P2.Handle={d-}Consultant{-d}
 
 5.3.=[02/Sec/Sec_Cov_Employee.01.md]
 
-5.=[01/Agt/Bit/Secs/03]
+5.=[02/Bit/Sec_03]
 
 6.=[02/Sec/Sec_Term.02.md]
 
@@ -74,9 +74,8 @@ Unfair.Interference.Xref={OtherCov.Xref}.2
 
 Employee.Xref={OtherCov.Xref}.3
 
-
 DocBody={Doc}
 
-=[01/Agt/Bit/Secs/08]
+=[02/Bit/Sec_08]
 
 =[02/Sec/DT_Consult.01.md]

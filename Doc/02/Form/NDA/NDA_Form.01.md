@@ -2,7 +2,11 @@ MessageToUser=02/Form/NDA/NDA_Form.01.md
 
 Ti=Mutual Non-Disclosure Agreement
 
+0.=[02/Sec/Frame_Intro.02.md]
+
 1.Sec={Conf.Sec}
+
+Conf.Xref=Section 1
 
 Conf.=[02/Sec/NDA_Sec_Confidential.01.md]
 
@@ -26,6 +30,6 @@ Misc.Xref={7.Xref}
 
 =[02/Sec/Frame.01.md]
 
-Secs={7.Secs}
+=[02/Bit/Sec_07]
 
 =[02/Sec/DT_NDA.01.md]

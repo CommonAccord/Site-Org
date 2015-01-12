@@ -1,4 +1,4 @@
-=[02/Form/Web/Privacy/01.md]
+=[02/Form/Web/Privacy_Policy.01.md]
 
 Term.End.YMD=December 31, 2015
 

@@ -20,7 +20,7 @@ Ti={Confidential_Information}
 
 2.90.Sec={Confidential_Information} also includes proprietary or confidential information of any third party who may disclose such information to {P1.the} or {P2.the} in the course of {P1.the}’s business.
 
-2.=[01/Agt/Bit/Secs/05]
+2.=[02/Bit/Sec_05]
 
 3.Ti=Exceptions
 
@@ -32,7 +32,7 @@ Ti={Confidential_Information}
 
 3.3.Sec=was in {P2.the}’s lawful possession prior to the disclosure and was not obtained by {P2.the} either directly or indirectly from {P1.the}.
 
-3.=[01/Agt/Bit/Secs/03]
+3.=[02/Bit/Sec_03]
 
 4.Ti=Compelled Disclosure
 
@@ -46,4 +46,4 @@ Ti={Confidential_Information}
 
 6.sec=Upon request by {P1.the}, {P2.the} agrees to promptly deliver to {P1.the} the original and any copies of the {Confidential_Information}.  
 
-=[01/Agt/Bit/Secs/06]
+=[02/Bit/Sec_06]

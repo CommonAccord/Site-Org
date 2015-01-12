@@ -16,9 +16,10 @@ Ti=Convertible Promissory Note Purchase Agreement
 
 6.=[02/Sec/TechStars_NotePurchase_Misc.01.md]
 
+90.=[02/Sec/Frame_End.04.md]
 
 DocBody={Doc}
 
-=[01/Agt/Bit/Secs/06]
+=[02/Bit/Sec_06]
 
 =[02/Sec/DT_TechStars.01.md]

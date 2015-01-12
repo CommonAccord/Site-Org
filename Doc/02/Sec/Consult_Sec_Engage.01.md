@@ -16,4 +16,4 @@ Ti=Engagement of {Services}
 
 4.sec=While on {P1.the}’s premises, {P2.the} agrees to comply with {P1.the}’s then-current access rules and procedures, including those related to safety, security and confidentiality.  {P2.The} agrees and acknowledges that {P2.the} has no expectation of privacy with respect to {P1.the}’s telecommunications, networking or information processing systems (including stored computer files, email messages and voice messages) and that {P2.the}’s activities, including the sending or receiving of any files or messages, on or using those systems may be monitored, and the contents of such files and messages may be reviewed and disclosed, at any time, without notice.
 
-=[01/Agt/Bit/Secs/04]
+=[02/Bit/Sec_04]

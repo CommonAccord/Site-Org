@@ -31,7 +31,7 @@ InfoRights.Xref={Misc.Xref}.2.1
 
 4.Ti=Costs, Expenses and Attorney’s Fees; Indemnity
 
-4.secs={The_Company} hereby agrees, subject only to any limitation imposed by applicable law, to pay all expenses, including reasonable attorney’s fees and legal expenses, incurred by the holder of this {KISS} in endeavoring to collect any amounts payable hereunder which are not paid when due, whether by declaration or otherwise (“{Costs}”).  {The_Company} agrees that any delay on the part of the holder in exercising any rights hereunder will not operate as a waiver of such rights.  The holder of this {KISS} shall not by any act, delay, omission or otherwise be deemed to have waived any of its rights or remedies, and no waiver of any kind shall be valid unless in writing and signed by the party or parties waiving such rights or remedies.  If any action at law or in equity is necessary to enforce or interpret the terms of this {KISS}, the prevailing party shall be entitled to reasonable attorney’s fees, costs and necessary disbursements in addition to any other relief to which such party may be entitled.  {The_Company} shall indemnify and hold {the_Investor} harmless from any loss, cost, liability and legal or other expense, including attorney’s fees of {the_Investor}’s counsel, which {the_Investor} may directly or indirectly suffer or incur by reason of the failure of {the_Company} to perform any of its obligations under this {KISS} or any agreement executed in connection herewith; provided, however, that the indemnity agreement contained in this {Misc.Costs.Xref} shall not apply to liabilities which {the_Investor} may directly or indirectly suffer or incur by reason of {the_Investor}’s own gross negligence or willful misconduct.
+4.sec={The_Company} hereby agrees, subject only to any limitation imposed by applicable law, to pay all expenses, including reasonable attorney’s fees and legal expenses, incurred by the holder of this {KISS} in endeavoring to collect any amounts payable hereunder which are not paid when due, whether by declaration or otherwise (“{Costs}”).  {The_Company} agrees that any delay on the part of the holder in exercising any rights hereunder will not operate as a waiver of such rights.  The holder of this {KISS} shall not by any act, delay, omission or otherwise be deemed to have waived any of its rights or remedies, and no waiver of any kind shall be valid unless in writing and signed by the party or parties waiving such rights or remedies.  If any action at law or in equity is necessary to enforce or interpret the terms of this {KISS}, the prevailing party shall be entitled to reasonable attorney’s fees, costs and necessary disbursements in addition to any other relief to which such party may be entitled.  {The_Company} shall indemnify and hold {the_Investor} harmless from any loss, cost, liability and legal or other expense, including attorney’s fees of {the_Investor}’s counsel, which {the_Investor} may directly or indirectly suffer or incur by reason of the failure of {the_Company} to perform any of its obligations under this {KISS} or any agreement executed in connection herewith; provided, however, that the indemnity agreement contained in this {Misc.Costs.Xref} shall not apply to liabilities which {the_Investor} may directly or indirectly suffer or incur by reason of {the_Investor}’s own gross negligence or willful misconduct.
 
 Costs.Xref={Misc.Xref}.4
 
@@ -41,7 +41,7 @@ Costs.Xref={Misc.Xref}.4
 
 6.Ti=Successors and Assigns
 
-6.secs=The terms and conditions of this {KISS} shall inure to the benefit of and be binding upon the respective successors and assigns of the parties hereto; provided, however, that {the_Company} may not assign its obligations under this {KISS} without the prior written consent of {the_Investor}.
+6.sec=The terms and conditions of this {KISS} shall inure to the benefit of and be binding upon the respective successors and assigns of the parties hereto; provided, however, that {the_Company} may not assign its obligations under this {KISS} without the prior written consent of {the_Investor}.
 
 Successor.Xref={Misc.Xref}.6
 
@@ -79,10 +79,10 @@ Transfer.Xref={Misc.Xref}.13
 
 14.sec=This {KISS} and the other {KISSes} in the {Series} constitute the full and entire understanding and agreement between the parties with regard to the subjects hereof.  {The_Company}’s agreements with each {Holder} are separate agreements, and the sales of the {KISSes} to each {Holder} are separate sales.  Nonetheless, any term of the {KISSes} in the {Series} may be amended and the observance of any term of the {KISSes} in the {Series} may be waived (either generally or in a particular instance and either retroactively or prospectively), with the written consent of {the_Company} and the {Majority_in_Interest}; provided, however, that {Conversion.Corporate.Xref}, {Misc.InfoRights.Xref} (if and only if {the_Investor} is a {Major_Investor}), {Misc.InfoRights.Xref}, {Misc.Successor.Xref}, {Misc.Transfer.Xref} and {Misc.Entire.Xref} may not be amended or waived without the written consent of {the_Investor}.  Any waiver or amendment effected in accordance with this {Misc.Entire.Xref} shall be binding upon {the_Company} and each current and future member of the {KISS_Group}.
 
-Misc.Entire.Xref={Misc.Xref}.14
+Entire.Xref={Misc.Xref}.14
 
 15.Ti=Exculpation Among {Holders}
 
 15.sec=Each {Holder} acknowledges that it is not relying upon any person, firm, corporation or stockholder, other than {the_Company} and its officers and directors in their capacities as such, in making its investment or decision to invest in {the_Company}.  Each {Holder} agrees that no other {Holder} nor the respective controlling persons, officers, directors, partners, agents, stockholders or employees of any other {Holder} shall be liable for any action heretofore or hereafter taken or omitted to be taken by any of them in connection with the purchase and sale of the {KISSes}.
 
-=[01/Agt/Bit/Secs/15]
+=[02/Bit/Sec_15]

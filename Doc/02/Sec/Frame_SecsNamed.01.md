@@ -1,6 +1,6 @@
 =[02/Sec/Frame.01.md]
 
-N.Secs=<ol><li>{Front.Secs}<li>{Back.Secs}</ol>
+Secs={Front.Secs}<li>{Back.Secs}
 
 Back.Secs={Back.DRM.Secs}
 

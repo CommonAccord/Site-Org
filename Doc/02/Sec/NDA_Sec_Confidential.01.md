@@ -18,4 +18,4 @@ Exclude.Xref={Conf.Xref}.3
 
 7.=[02/Sec/NDA_Sec_TermOfConfidentiality.01.md]
 
-=[01/Agt/Bit/Secs/07]
+=[02/Bit/Sec_07]

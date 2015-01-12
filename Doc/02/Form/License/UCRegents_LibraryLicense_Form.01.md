@@ -26,7 +26,7 @@ Ti=Standard License Agreement
 
 90.=[02/Sec/Frame_End.03.md]
 
-=[01/Agt/Bit/Secs/07]
+=[02/Bit/Sec_07]
 
 =[02/Sec/DT_CopyrightLicense.01.md]
 

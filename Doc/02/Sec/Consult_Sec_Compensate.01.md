@@ -21,4 +21,4 @@ Ti=Compensation
 
 5.sec=Upon termination of {this_Agreement} for any reason, {P2.the} will be paid fees on the basis stated in the {Project_Assignment}(s) for work which has been completed.
 
-=[01/Agt/Bit/Secs/05]
+=[02/Bit/Sec_05]
