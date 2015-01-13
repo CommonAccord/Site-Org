@@ -1,0 +1,7 @@
+Model.Root=Some Startup Notes: (switch to Source tab to navigate)<ol><li><b>KISS:</b><br>{KISS.0.Sec}<li><b>TechStars:</b><br>{TechStars.0.Sec}<li><b>YC:</b><br>{YC.0.Sec}</ol>
+
+KISS.=[02/Form/KISS/KISS_Form.01.md]
+
+TechStars.=[02/Form/TechStars/TechStars_NotePurchase_Form.01.md]
+
+YC.=[02/Form/YC-Safe/YC-Safe_Form.01.md]
