@@ -1,7 +1,5 @@
 =[02/Form/Escrow/Escrow_Form.01.md]
 
-ARB.=[core/form/agt/escrow/JAMS_Arbitration_Chicago]
-
 Seller.=[core/id/gerrys_grapes_llc]
 
 Escrow.=[core/id/safe_hands_inc]
@@ -9,6 +7,8 @@ Escrow.=[core/id/safe_hands_inc]
 Shipper.=[core/id/fabulous_express_inc]
 
 Arbitrator.=[core/id/solomon_shirley]
+
+ARB.=[core/form/agt/escrow/JAMS_Arbitration_Chicago]
 
 Delivery-Claim.Delay=24 hours
 

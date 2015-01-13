@@ -8,9 +8,10 @@ Addr.Zip=94103
 
 Addr.Type=business
 
-Name.First=<font color="magenta">Samuel</font>
+Name.First=Samuel
 
-Name.Last=<font color="magenta">Hardy</font>
+Name.Last=Hardy
 
-Name.Full={Name.FL}
-				    
+Name.Full={m-}{Name.FL}{-m}
+
+PageName=core/id/samuel_hardy

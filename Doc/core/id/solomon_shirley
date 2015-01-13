@@ -3,7 +3,7 @@
 =[core/at/USA/MA/Middlesex/Cambridge/Geo]
 
 
-Name.Full=Solomon Shirley
+Name.Full={m-}Solomon Shirley{-m}
 
 Addr.Type=business
 
@@ -19,3 +19,5 @@ Email=solomon.shirley@gmail.com
   
 
 Atty.=[core/id/samuel_hardy]
+
+PageName=core/id/solomon_shirley

@@ -2,7 +2,7 @@
 
 =[core/at/USA/TX/Travis/Austin/Geo]
 
-Name.Full=<font color="blue">Fabulous Express, Inc.</font>
+Name.Full={m-}Fabulous Express, Inc.{-m}
 
 Entity.a=a Delaware corporation
 
@@ -10,4 +10,6 @@ Addr.Type=business
 
 Addr.1=333 Alamo Way
 
-Addr.Zip=75123			
+Addr.Zip=75123
+
+PageName=core/id/fabulous_express_inc

@@ -6,7 +6,7 @@ Sign.Title=Founder
 
 =[core/at/USA/MA/Middlesex/Cambridge/Broadway/1/Geo]
 
-Name.Full=<font color="green">Gerry's Grapes, LLC</font>
+Name.Full={m-}Gerry's Grapes, LLC{-m}
 
 Entity.a=a Massachusetts LLC
 
@@ -15,4 +15,5 @@ Addr.Type=business
 Contact.Name.Ms=Ms. Graber
 
 Claim.Response.Delay=two business days from the date of the Claim
-			    
+
+PageName=core/id/gerrys_grapes_llc

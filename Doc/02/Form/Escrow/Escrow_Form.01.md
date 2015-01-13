@@ -13,15 +13,15 @@ Ti=Escrow Agreement
 
 0.2.Ti=Recitals
 
-0.2.1.sec=Whereas, {the_Purchaser} and {the_Seller} have entered into a purchase agreement (“{Purchase_Agreement}”) for the sale to {the_Purchaser} of {Product.Description} (the “{Products}”) owned by {the_Seller} in exchange for {Price.$} (the “{Purchase_Price}”) (altogether, the “{Transaction}”)
+0.2.1.sec=Whereas, {the_Purchaser} and {the_Seller} have entered into a purchase agreement (“{Purchase_Agreement}”) for the sale to {the_Purchaser} of {Product.Description} (the “{Products}”) owned by {the_Seller} in exchange for {Price.$} (the “{Purchase_Price}”) (altogether, the “{Transaction}”).
 
-0.2.2.sec=Whereas, pursuant to {the_Purchase_Agreement}, {the_Purchaser} has agreed to deposit {the_Purchase_Price} into an escrow account (the “{Escrow_Account}”)
+0.2.2.sec=Whereas, pursuant to {the_Purchase_Agreement}, {the_Purchaser} has agreed to deposit {the_Purchase_Price} into an escrow account (the “{Escrow_Account}”).
 
-0.2.3.sec=Whereas, {the_Purchaser} and {the_Seller} have agreed to use {the_Escrow_Agent} to hold {the_Purchase_Price} and act as {the_Escrow_Agent}
+0.2.3.sec=Whereas, {the_Purchaser} and {the_Seller} have agreed to use {the_Escrow_Agent} to hold {the_Purchase_Price} and act as {the_Escrow_Agent}.
 
-0.2.4.sec=Whereas, {the_Escrow_Agent} has agreed to act in such capacity upon the terms and conditions contained herein
+0.2.4.sec=Whereas, {the_Escrow_Agent} has agreed to act in such capacity upon the terms and conditions contained herein.
 
-0.2.5.sec=Whereas, {the_Seller}, {the_Purchaser} and {the_Escrow_Agent} agree to use {Arbitrator.N,E,A} (the “{Arbitrator}”) to resolve any disputes among them regarding the meaning of {this_Escrow_Agreement} or the performance of {this_Escrow_Agreement}, including any “{Claim}” as defined below
+0.2.5.sec=Whereas, {the_Seller}, {the_Purchaser} and {the_Escrow_Agent} agree to use the {Arbitrator} to resolve any disputes among them regarding the meaning of {this_Escrow_Agreement} or the performance of {this_Escrow_Agreement}, including any “{Claim}” as defined below.
 
 0.2.=[02/Bit/Sec_05]
 

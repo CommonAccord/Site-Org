@@ -6,7 +6,7 @@ Sign.=[core/id/roberta_robinson]
 
 Sign.Title=Self
 
-Name.Full=<font color="{mcolor}">Roberta Robinson</font>
+Name.Full={m-}Roberta Robinson{-m}
 
 Addr.Type=business
 
@@ -17,4 +17,5 @@ Phone=918.981.8918
 Email=roberta@robinsonandson.com
 
 Fax=918.981.8918
- 			  
+
+PageName=core/id/roberta_robinson

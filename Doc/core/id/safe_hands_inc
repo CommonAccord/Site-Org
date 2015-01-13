@@ -5,7 +5,7 @@
 Sign.=[core/id/samuel_hardy]
 
 Sign.Title=COO
-Name.Full=<font color="magenta">Safe Hands Facilitated Transactions, Inc.</font>
+Name.Full={m-}Safe Hands Facilitated Transactions, Inc.{-m}
 
 Addr.Type=principal
 
@@ -14,4 +14,5 @@ Entity.a=a Delaware corporation
 Addr.1=1550 Bay Street
 
 Addr.Zip=94123
-				
+
+PageName=core/id/safe_hands_inc
