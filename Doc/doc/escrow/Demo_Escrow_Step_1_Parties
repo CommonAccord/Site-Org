@@ -10,6 +10,8 @@ Arbitrator.=[core/id/solomon_shirley]
 
 ARB.=[core/form/agt/escrow/JAMS_Arbitration_Chicago]
 
+Dispute.Notice.Within.days={m-}5 days{-m}
+
 Delivery-Claim.Delay=24 hours
 
 Delivery-Payment.TimeSpan=48 hours
@@ -17,3 +19,5 @@ Delivery-Payment.TimeSpan=48 hours
 Escrow.Fee.$=$1.50
 
 Seller.Dear=Dear Gerry
+
+PageName=doc/escrow/Demo_Escrow_Step_1_Parties
