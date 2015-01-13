@@ -8,6 +8,6 @@ Ti=Waiver
 
 2.sec=A waiver of a breach of any provision of {this_Agreement} shall not operate or be construed as a waiver of any other or subsequent breach.
 
-_ecs={secs}
+Secs={secs}
 
 =[02/Bit/Sec_02]

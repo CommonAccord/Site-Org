@@ -14,6 +14,6 @@ Ti=Notices
 
 90.Sec=Notice shall be sent to the addresses set forth at the bottom of {this_Agreement} or such other address as either {Party} may specify in writing.
 
-_ecs={secs}
+Secs={secs}
 
 =[02/Bit/Sec_04]

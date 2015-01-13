@@ -8,13 +8,17 @@ Ti=Convertible Promissory Note Purchase Agreement
 
 2.=[02/Sec/TechStars_NotePurchase_Closing.01.md]
 
-3.=[02/Sec/TechStars_NotePurchase_cRep.01.md]
+/Note= .02.md points to the version that uses SubSections.
+
+3.=[02/Sec/TechStars_NotePurchase_cRep.02.md]
 
 4.=[02/Sec/TechStars_NotePurchase_iRep.01.md]
 
 5.=[02/Sec/TechStars_NotePurchase_Further.01.md]
 
-6.=[02/Sec/TechStars_NotePurchase_Misc.01.md]
+/Note= .02.md points to the version that uses SubSections.
+
+6.=[02/Sec/TechStars_NotePurchase_Misc.02.md]
 
 90.=[02/Sec/Frame_End.04.md]
 

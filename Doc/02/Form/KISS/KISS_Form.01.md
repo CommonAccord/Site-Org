@@ -1,48 +1,45 @@
+Secs={Def.Sec}<li>{Conversion.Sec}<li>{RepCo.Sec}<li>{RepInv.Sec}<li>{Misc.Sec}<li>{Approval.Sec}
+
 P1.Handle=Company
 
 P2.Handle=Investor
 
-Heading=<span style="text-transform: uppercase">THIS INSTRUMENT AND THE SECURITIES ISSUABLE UPON THE CONVERSION HEREOF HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED. THEY MAY NOT BE SOLD, OFFERED FOR SALE, PLEDGED, HYPOTHECATED, OR OTHERWISE TRANSFERRED EXCEPT PURSUANT TO AN EFFECTIVE REGISTRATION STATEMENT UNDER THE SECURITIES ACT OF 1933, AS AMENDED, OR AN OPINION OF COUNSEL SATISFACTORY TO {the_Company} THAT REGISTRATION IS NOT REQUIRED UNDER SUCH ACT OR UNLESS SOLD PURSUANT TO RULE 144 UNDER SUCH ACT.</span>
+Heading.=[02/Sec/KISS_Sec_Heading.01.md]
 
 0.=[02/Sec/KISS_Sec_Intro.01.md]
 
-1.=[02/Sec/KISS_Sec_Definition.01.md]
+Def.=[02/Sec/KISS_Sec_Definition.01.md]
 
-2.=[02/Sec/KISS_Sec_Conversion.01.md]
+Conversion.=[02/Sec/KISS_Sec_Conversion.01.md]
 
-Conversion.Xref={2.Xref}
+RepCo.=[02/Sec/KISS_Sec_Rep_Company.01.md]
 
-Conversion.Equity.Xref={2.Xref}.1
+RepInv.=[02/Sec/KISS_Sec_Rep_Investor.01.md]
 
-Conversion.Corporate.Xref={2.Xref}.2
+Misc.=[02/Sec/KISS_Sec_Misc.01.md]
 
-Conversion.Maturity.Xref={2.Xref}.3
-
-3.=[02/Sec/KISS_Sec_Rep_Company.01.md]
-
-4.=[02/Sec/KISS_Sec_Rep_Investor.01.md]
-
-5.=[02/Sec/KISS_Sec_Misc.01.md]
-
-Misc.Xref={5.Xref}
-
-Misc.Costs.Xref={5.Costs.Xref}
-
-Misc.Successor.Xref={5.Successor.Xref}
-
-Misc.Transfer.Xref={5.Transfer.Xref}
-
-Misc.InfoRights.Xref={5.InfoRights.Xref}
-
-Misc.Entire.Xref={5.Entire.Xref}
-
-6.=[02/Sec/KISS_Sec_Approval.01.md]
-
+Approval.=[02/Sec/KISS_Sec_Approval.01.md]
 
 90.Sec=<table><tr><td valign="top">{P1.Sign.Block}</td></tr><tr><td valign="top">ACKNOWLEDGED AND AGREED:<br>{P2.Sign.Block}</td></tr></table>
 
-=[02/Bit/Sec_06]
 
-DocBody={Doc}
+Def.Xref={1.Xref}
+
+Conversion.Xref={2.Xref}
+
+RepCo.Xref={3.Xref}
+
+RepInv.Xref={4.Xref}
+
+Misc.Xref={5.Xref}
+
+Approval.Xref={6.Xref}
+
+Conversion.Xref={Doc.2.Xref}
+
+xPageName=02/Form/KISS/KISS_Form.01.md
+
+
+=[02/Bit/Doc]
 
 =[02/Sec/KISS_DT.01.md]

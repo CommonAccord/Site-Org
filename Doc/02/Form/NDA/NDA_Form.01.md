@@ -6,8 +6,6 @@ Ti=Mutual Non-Disclosure Agreement
 
 1.Sec={Conf.Sec}
 
-Conf.Xref=Section 1
-
 Conf.=[02/Sec/NDA_Sec_Confidential.01.md]
 
 2.=[02/Sec/NDA_Sec_Limit.01.md]
@@ -16,8 +14,6 @@ Conf.=[02/Sec/NDA_Sec_Confidential.01.md]
 
 4.=[02/Sec/Sec_Term.01.md]
 
-TermOfAgreement=five (5) years
-
 5.=[02/Sec/Sec_Dispute_USLaw-Court-Injunction.01.md]
 
 Law.State.the=State of Delaware
@@ -25,6 +21,10 @@ Law.State.the=State of Delaware
 6.=[02/Sec/NDA_Sec_Remedy.01.md]
 
 7.=[02/Sec/NDA_Sec_Misc.01.md]
+
+TermOfAgreement=five (5) years
+
+Conf.Xref={1.Xref}
 
 Misc.Xref={7.Xref}
 

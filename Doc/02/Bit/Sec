@@ -38,6 +38,10 @@ blist=<ul type="none" style="padding-left: 0"><li>{secs}</ul>
 
 90.Sec=<b></b>
 
+Doc.4.Xref={d-}Section 4{-d}
+
+Doc.5.Xref={d-}Section 5{-d}
+
 1.=[02/Bit/SubSec]
 
 2.=[02/Bit/SubSec]

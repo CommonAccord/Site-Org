@@ -18,6 +18,6 @@ Term.=[02/Sec/NDA_Sec_TermOfConfidentiality.01.md]
 
 =[02/Bit/Sec_01]
 
-ExcludeAndExcept.Xref={Xref}.3 and {Xref}.4
+ExcludeAndExcept.Xref={Conf.Xref}.3 and {Conf.Xref}.4
 
-Exclude.Xref={Xref}.3
+Exclude.Xref={Conf.Xref}.3

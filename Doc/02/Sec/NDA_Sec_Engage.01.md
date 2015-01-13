@@ -10,7 +10,7 @@ Ti=Engagement
 
 1.=[02/Bit/Sec_02]
 
-1._ecs={1.secs}
+1.Secs={1.secs}
 
 2.Ti=Care
 

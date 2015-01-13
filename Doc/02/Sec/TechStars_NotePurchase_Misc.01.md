@@ -1,4 +1,4 @@
-Ti=MISCELLANEOUS
+Ti=Miscellaneous
 
 1.Ti=Binding Agreement
 
