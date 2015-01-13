@@ -11,4 +11,5 @@
 <li>Gerry <a href="http://www.commonaccord.org/index.php?action=source&file=doc/escrow/Demo_Escrow_Step_5_Response">responds (step 5)</a></li> </ol>
  </div>
 </div>
+<h3>See it used at <a href="https://drwasho.github.io/OB-Commond-Accord/">our friends OpenBazaar</a>.</h3>
 	 <h1>A more complex example is <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=me/startup/acme/>a startup in a box</a></h1>
