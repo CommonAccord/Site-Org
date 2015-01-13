@@ -1,4 +1,4 @@
-=[core/form/agt/escrow/Form]
+=[02/Form/Escrow/Escrow_Form.01.md]
 
 ARB.=[core/form/agt/escrow/JAMS_Arbitration_Chicago]
 
@@ -17,5 +17,3 @@ Delivery-Payment.TimeSpan=48 hours
 Escrow.Fee.$=$1.50
 
 Seller.Dear=Dear Gerry
-
-	        
