@@ -1,188 +1,195 @@
-Let's think about whether we might be able to create a stable base for contracting: 
+=[02/Sec/DT_Base.01.md]
 
 /Note=See https://github.com/CommonAccord/Org/blob/master/Doc/Boehmig/Comment/Construction.md
 
+Exhibit_A={d-}Exhibit A{-d}
 
-Additional_Closing={m-}Additional Closing{-m}
+Exhibit_B={d-}Exhibit B{-d}
 
-Additional_Closing_Period={m-}Additional Closing Period{-m}
+Exhibit_C={d-}Exhibit C{-d}
 
-Additional_Closings={m-}Additional Closings{-m}
+Exhibit_D={d-}Exhibit D{-d}
 
-Agreement={m-}Agreement{-m}
+Schedule_1={d-}Schedule 1{-d}
 
-This_Agreement=This {m-}Agreement{-m}
+Key_Holders'_Shares={d-}Key Holders' Shares{-d}
 
-this_Agreement=this {m-}Agreement{-m}
+Key_Holders'_Vesting_Schedules={d-}Key_Holders' Vesting Schedules{-d}
 
-Agreement_Date={m-}Agreement Date{-m}
+the_Purchasers={d-}the Purchasers{-d}
 
-Board={m-}Board{-m}
+Additional_Closing={d-}Additional Closing{-d}
 
-Board_Composition={m-}Board Composition{-m}
+Additional_Closing_Period={d-}Additional Closing Period{-d}
 
-Board_Designee={m-}Board Designee{-m}
+Additional_Closings={d-}Additional Closings{-d}
 
-Bylaw={m-}Bylaw{-m}
+Agreement_Date={d-}Agreement Date{-d}
 
-Bylaws={m-}Bylaws{-m}
+Board={d-}Board{-d}
 
-Closing={m-}Closing{-m}
+Board_Composition={d-}Board Composition{-d}
 
-Common_Board_Designee={m-}Common Board Designee{-m}
+Board_Designee={d-}Board Designee{-d}
 
-Common_Board_Designees={m-}Common Board Designees{-m}
+Bylaw={d-}Bylaw{-d}
 
-Common_Board_Member_Count={m-}Common Board Member Count{-m}
+Bylaws={d-}Bylaws{-d}
 
-Common_Control_Holders={m-}Common Control Holders{-m}
+Closing={d-}Closing{-d}
 
-Common_Shares_Issued_and_Outstanding_Pre-Money={m-}Common Shares Issued and Outstanding Pre-Money{-m}
+Common_Board_Designee={d-}Common Board Designee{-d}
 
-Common_Stock={m-}Common Stock{-m}
+Common_Board_Designees={d-}Common Board Designees{-d}
 
-Company={m-}Company{-m}
+Common_Board_Member_Count={d-}Common Board Member Count{-d}
 
-The_Company=The {m-}Company{-m}
+Common_Control_Holders={d-}Common Control Holders{-d}
 
-the_Company=the {m-}Company{-m}
+Common_Shares_Issued_and_Outstanding_Pre-Money={d-}Common Shares Issued and Outstanding Pre-Money{-d}
 
-Company_Intellectual_Property={m-}Company Intellectual Property{-m}
+Common_Stock={d-}Common Stock{-d}
 
-Contingency_Event={m-}Contingency Event{-m}
+Company={d-}Company{-d}
 
-Conversion_Time={m-}Conversion Time{-m}
+The_Company=The {d-}Company{-d}
 
-Conversion_Price={m-}Conversion Price{-m}
+the_Company=the {d-}Company{-d}
 
-Conversion_Rights={m-}Conversion Rights{-m}
+Company_Intellectual_Property={d-}Company Intellectual Property{-d}
 
-Corporation={m-}Corporation{-m}
+Contingency_Event={d-}Contingency Event{-d}
 
-Covered_Person={m-}Covered Person{-m}
+Conversion_Time={d-}Conversion Time{-d}
 
-Deemed_Liquidation_Event={m-}Deemed Liquidation Event{-m}
+Conversion_Price={d-}Conversion Price{-d}
 
-Disclosure_Schedule={m-}Disclosure Schedule{-m}
+Conversion_Rights={d-}Conversion Rights{-d}
 
-Dispute_Resolution_Jurisdiction={m-}Dispute Resolution Jurisdiction{-m}
+Corporation={d-}Corporation{-d}
 
-Excluded_Opportunity={m-}Excluded Opportunity{-m}
+Covered_Person={d-}Covered Person{-d}
 
-Fully-Diluted_Share_Number={m-}Fully-Diluted Share Number{-m}
+Deemed_Liquidation_Event={d-}Deemed Liquidation Event{-d}
 
-General_Corporation_Law={m-}General Corporation Law{-m}
+Disclosure_Schedule={d-}Disclosure Schedule{-d}
 
-Governing_Law={m-}Governing Law{-m}
+Dispute_Resolution_Jurisdiction={d-}Dispute Resolution Jurisdiction{-d}
 
-Holder={m-}Holder{-m}
+Excluded_Opportunity={d-}Excluded Opportunity{-d}
 
-Initial_Closing={m-}Initial Closing{-m}
+Fully-Diluted_Share_Number={d-}Fully-Diluted Share Number{-d}
 
-Intellectual_Property={m-}Intellectual Property{-m}
+General_Corporation_Law={d-}General Corporation Law{-d}
 
-Key_Holder={m-}Key Holder{-m}
+Governing_Law={d-}Governing Law{-d}
 
-Key_Holders={m-}Key Holders{-m}
+Holder={d-}Holder{-d}
 
-Major_Purchaser={m-}Major Purchaser{-m}
+Initial_Closing={d-}Initial Closing{-d}
 
-Major_Purchaser_Dollar_Threshold={m-}Major Purchaser Dollar Threshold{-m}
+Intellectual_Property={d-}Intellectual Property{-d}
 
-Major_Purchasers={m-}Major Purchasers{-m}
+Key_Holder={d-}Key Holder{-d}
 
-Mandatory_Conversion_Time={m-}Mandatory Conversion Time{-m}
+Key_Holders={d-}Key Holders{-d}
 
-Material_Agreement={m-}Material Agreement{-m}
+Major_Purchaser={d-}Major Purchaser{-d}
 
-Mutual_Consent_Board_Designee={m-}Mutual Consent Board Designee{-m}
+Major_Purchaser_Dollar_Threshold={d-}Major Purchaser Dollar Threshold{-d}
 
-Mutual_Consent_Board_Designees={m-}Mutual Consent Board Designees{-m}
+Major_Purchasers={d-}Major Purchasers{-d}
 
-Mutual_Consent_Board_Member_Count={m-}Mutual Consent Board Member Count{-m}
+Mandatory_Conversion_Time={d-}Mandatory Conversion Time{-d}
 
-New_Purchaser={m-}New Purchaser{-m}
+Material_Agreement={d-}Material Agreement{-d}
 
-New_Purchasers={m-}New Purchasers{-m}
+Mutual_Consent_Board_Designee={d-}Mutual Consent Board Designee{-d}
 
-New_Securities={m-}New Securities{-m}
+Mutual_Consent_Board_Designees={d-}Mutual Consent Board Designees{-d}
 
-Next_Financing={m-}Next Financing{-m}
+Mutual_Consent_Board_Member_Count={d-}Mutual Consent Board Member Count{-d}
 
-Next_Financing_Agreements={m-}Next Financing Agreements{-m}
+New_Purchaser={d-}New Purchaser{-d}
 
-Next_Financing_Documents={m-}Next Financing Documents{-m}
+New_Purchasers={d-}New Purchasers{-d}
 
-Notice={m-}Notice{-m}
+New_Securities={d-}New Securities{-d}
 
-Number_of_Issued_And_Outstanding_Options={m-}Number of Issued and Outstanding Options{-m}
+Next_Financing={d-}Next Financing{-d}
 
-Original_Issue_Date={m-}Original Issue Date{-m}
+Next_Financing_Agreements={d-}Next Financing Agreements{-d}
 
-Original_Issue_Price={m-}Original Issue Price{-m}
+Next_Financing_Documents={d-}Next Financing Documents{-d}
 
-Preferred_Stock={m-}Preferred Stock{-m}
+Notice={d-}Notice{-d}
 
-Pro Rata Share={m-}Pro Rata Share{-m}
+Number_of_Issued_And_Outstanding_Options={d-}Number of Issued and Outstanding Options{-d}
 
-Proposed Sale={m-}Proposed Sale{-m}
+Original_Issue_Date={d-}Original Issue Date{-d}
 
-Proposed_Sale={m-}Proposed Sale{-m}
+Original_Issue_Price={d-}Original Issue Price{-d}
 
-Purchase_Price={m-}Purchase Price{-m}
+Preferred_Stock={d-}Preferred Stock{-d}
 
-Purchaser={m-}Purchaser{-m}
+Pro Rata Share={d-}Pro Rata Share{-d}
 
-Purchaser_Counsel_Reimbursement_Amount={m-}Purchaser Counsel Reimbursement Amount{-m}
+Proposed Sale={d-}Proposed Sale{-d}
 
-Purchasers={m-}Purchasers{-m}
+Proposed_Sale={d-}Proposed Sale{-d}
 
-Restated_Charter={m-}Restated Charter{-m}
+Purchase_Price={d-}Purchase Price{-d}
 
-Requisite_Holders={m-}Requisite Holders{-m}
+Purchaser={d-}Purchaser{-d}
 
-Restated_Certificate={m-}Restated Certificate{-m}
+Purchaser_Counsel_Reimbursement_Amount={d-}Purchaser Counsel Reimbursement Amount{-d}
 
-Section={m-}Section{-m}
+Purchasers={d-}Purchasers{-d}
 
-Sections={m-}Sections{-m}
+Restated_Charter={d-}Restated Charter{-d}
 
-Securities_Act={m-}Securities Act{-m}
+Requisite_Holders={d-}Requisite Holders{-d}
 
-Series_Seed_Board_Designee={m-}Series Seed Board Designee{-m}
+Restated_Certificate={d-}Restated Certificate{-d}
 
-Series_Seed_Board_Designees={m-}Series Seed Board Designees{-m}
+/Section={d-}Section{-d}
 
-Series_Seed_Board_Member_Count={m-}Series Seed Board Member Count{-m}
+/Sections={d-}Sections{-d}
 
-Series_Seed_Director(s)={m-}Series Seed Director(s){-m}
+Securities_Act={d-}Securities Act{-d}
 
-Series_Seed_Director={m-}Series Seed Director{-m}
+Series_Seed_Board_Designee={d-}Series Seed Board Designee{-d}
 
-Series_Seed_Preferred_Stock={m-}Series Seed Preferred Stock{-m}
+Series_Seed_Board_Designees={d-}Series Seed Board Designees{-d}
 
-Shares={m-}Shares{-m}
+Series_Seed_Board_Member_Count={d-}Series Seed Board Member Count{-d}
 
-State_of_Incorporation={m-}State of Incorporation{-m}
+Series_Seed_Director(s)={d-}Series Seed Director(s){-d}
 
-Stock_Plan={m-}Stock Plan{-m}
+Series_Seed_Director={d-}Series Seed Director{-d}
 
-Stockholder={m-}Stockholder{-m}
+Series_Seed_Preferred_Stock={d-}Series Seed Preferred Stock{-d}
 
-Stockholders={m-}Stockholders{-m}
+Shares={d-}Shares{-d}
 
-Total_Post-Money_Shares_Reserved_for_Option_Pool={m-}Total Post-Money Shares Reserved for Option Pool{-m}
+State_of_Incorporation={d-}State of Incorporation{-d}
 
-Total_Series_Seed_Investment_Amount={m-}Total Series Seed Investment Amount{-m}
+Stock_Plan={d-}Stock Plan{-d}
 
-Total_Shares_Authorized_for_Sale={m-}Total Shares Authorized for Sale{-m}
+Stockholder={d-}Stockholder{-d}
 
-Unallocated_Post-Money_Option_Pool_Percent={m-}Unallocated Post-Money Option Pool Percent{-m}
+Stockholders={d-}Stockholders{-d}
 
-Unallocated_Post-Money_Option_Pool_Shares={m-}Unallocated Post-Money Option Pool{-m}
+Total_Post-Money_Shares_Reserved_for_Option_Pool={d-}Total Post-Money Shares Reserved for Option Pool{-d}
 
-Voting_Shares={m-}Voting Shares{-m}
+Total_Series_Seed_Investment_Amount={d-}Total Series Seed Investment Amount{-d}
 
-m-=<a href="https://github.com/CommonAccord/Org/blob/master/Doc/Boehmig/series-seed/defined-terms.md"><font color="green">
+Total_Shares_Authorized_for_Sale={d-}Total Shares Authorized for Sale{-d}
 
--m=</font></a>
+Unallocated_Post-Money_Option_Pool_Percent={d-}Unallocated Post-Money Option Pool Percent{-d}
+
+Unallocated_Post-Money_Option_Pool_Shares={d-}Unallocated Post-Money Option Pool{-d}
+
+Voting_Shares={d-}Voting Shares{-d}
+
+dPageName=02/Sec/SeriesSeed_InvAgt_DT.01.md
