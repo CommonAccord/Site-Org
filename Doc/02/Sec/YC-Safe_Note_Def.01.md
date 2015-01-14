@@ -33,3 +33,5 @@ Ti=Definitions
 16.Sec=“{Standard_Preferred_Stock}” means the shares of a series of {Preferred_Stock} issued to the investors investing new money in the {Company} in connection with the initial closing of the {Equity_Financing}.
 
 =[02/Bit/Sec_16]
+
+xlist={Ulist}

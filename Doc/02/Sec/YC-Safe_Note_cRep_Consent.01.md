@@ -10,6 +10,6 @@ SecuritiesLaws.cl=any qualifications or filings under applicable securities laws
 
 /Note=?? seems rather like item 1, n'est-ce pas ?
 
-StockApproval.cl=necessary corporate approvals for the authorization of {Capital_Stock} issuable pursuant to {Deal.Xref}
+StockApproval.cl=necessary corporate approvals for the authorization of {Capital_Stock} issuable pursuant to {Event.Xref}
 
 =[02/Bit/Sec]
