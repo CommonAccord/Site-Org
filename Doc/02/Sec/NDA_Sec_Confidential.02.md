@@ -8,7 +8,7 @@ Engage.=[02/Sec/NDA_Sec_Engage.01.md]
 
 Exclude.=[02/Sec/NDA_Sec_Exclude.01.md]
 
-Except.=[02/Sec/NDA_Sec_Except.01.md]
+Except.=[02/Sec/NDA_Sec_Except_Compelled.01.md]
 
 Copy.=[02/Sec/NDA_Sec_Copy.01.md]
 

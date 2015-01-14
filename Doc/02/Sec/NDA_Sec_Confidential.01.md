@@ -10,7 +10,7 @@ ExcludeAndExcept.Xref={Conf.Xref}.3 and {Conf.Xref}.4
 
 Exclude.Xref={Conf.Xref}.3
 
-4.=[02/Sec/NDA_Sec_Except.01.md]
+4.=[02/Sec/NDA_Sec_Except_Compelled.01.md]
 
 5.=[02/Sec/NDA_Sec_Copy.01.md]
 
