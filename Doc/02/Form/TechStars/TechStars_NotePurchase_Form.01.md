@@ -4,7 +4,7 @@ Ti=Convertible Promissory Note Purchase Agreement
 
 0.=[02/Sec/TechStars_NotePurchase_Intro.01.md]
 
-1.=[02/Sec/TechStars_NotePurchase_Deal.01.md]
+1.=[02/Sec/TechStars_NotePurchase_Loan.01.md]
 
 2.=[02/Sec/TechStars_NotePurchase_Closing.01.md]
 
