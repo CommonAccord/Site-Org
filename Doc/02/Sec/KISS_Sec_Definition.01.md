@@ -86,4 +86,6 @@ Conversion_Price.Xref={Def.Xref}.2
  
 Secs={secs}
 
+mPageName=02/Sec/KISS_Sec_Definition.01.md
+
 =[02/Sec/KISS_DT.01.md]

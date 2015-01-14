@@ -8,7 +8,7 @@ Deal.Xref=Section 1
 
 Def.Xref=Section 2
 
-3.=[02/Sec/YC-Safe_Note_cRep.01.md]
+3.=[02/Sec/YC-Safe_Note_cRep.02.md]
 
 4.=[02/Sec/YC-Safe_Note_iRep.01.md]
 
