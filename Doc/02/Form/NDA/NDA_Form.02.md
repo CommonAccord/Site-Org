@@ -23,3 +23,7 @@ Misc.=[02/Sec/NDA_Sec_Misc.02.md]
 =[02/Sec/Frame_SecsNamed.01.md]
 
 =[02/Sec/DT_NDA.01.md]
+
+Conf.Xref={1.Xref}
+
+xPageName=02/Form/NDA/NDA_Form.02.md

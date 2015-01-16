@@ -2,34 +2,33 @@ Model.Root=<b>{Head.Sec}</b><br>{olsecs}
 
 Head.Sec=Common Privacy Policy
 
-secs={1-14.Secs}
+olsecs=<ol><li>{Collect.Sec}<li>{Use.Sec}<li>{Choice.Sec}<li>{Expose.Sec}<li>{Access.Sec}<li>{Correct.Sec}<li>{PassOn.Sec}<li>{Security.Sec}<li>{Scope.Sec}<li>{EU.Sec}<li>{Gov.Sec}<li>{Amend.Sec}<li>{Special.Sec}<li>{More.Sec}</ol>
 
-1.=[01/Agt/Type/Web/Privacy/Common/Sec/Collect.md]
 
-2.=[01/Agt/Type/Web/Privacy/Common/Sec/Use.md]
+Collect.Sec=<b>Information we collect</b><br>{Collect.sec}
 
-3.=[01/Agt/Type/Web/Privacy/Common/Sec/Cookies.md]
+Use.Sec=<b>How we use information we collect</b><br>{Use.sec}
 
-4.=[01/Agt/Type/Web/Privacy/Common/Sec/Expose.md]
+Choice.Sec=<b>Transparency and choice</b><br>{Choice.sec}
 
-5.=[01/Agt/Type/Web/Privacy/Common/Sec/Secure.md]
+Expose.Sec=<b>Exposure of your information</b><br>{Expose.sec}
 
-6.=[01/Agt/Type/Web/Privacy/Common/Sec/PassOn.md]
+Access.Sec=<b>Accessing your personal information</b><br>{Access.sec}
 
-7.=[01/Agt/Type/Web/Privacy/Common/Sec/Access.md]
+Correct.Sec=<b>Correcting your personal information</b><br>{Correct.sec}
 
-8.=[01/Agt/Type/Web/Privacy/Common/Sec/Correct.md]
+PassOn.Sec=<b>Information we share with others</b><br>{PassOn.sec}
 
-9.=[01/Agt/Type/Web/Privacy/Common/Sec/Scope.md]
+Security.Sec=<b>Information security</b><br>{Security.sec}
 
-10.=[01/Agt/Type/Web/Privacy/Common/Sec/Jurisdiction.md]
+Scope.Sec=<b>When this Privacy Policy applies</b><br>{Scope.sec}
 
-11.=[01/Agt/Type/Web/Privacy/Common/Sec/Government.md]
+EU.Sec=<b>European Union Safe Harbor</b><br>{EU.sec}
 
-12.=[01/Agt/Type/Web/Privacy/Common/Sec/Amend.md]
+Gov.Sec=<b>Compliance and cooperation with regulatory authorities</b><br>{Gov.sec}
 
-13.=[01/Agt/Type/Web/Privacy/Common/Sec/Special.md]
+Amend.Sec=<b>Changes to this Privacy Policy</b><br>{Amend.sec}
 
-14.=[01/Agt/Type/Web/Privacy/Common/Sec/Definition.md]
+Special.Sec=<b>Specific product practices and other special issues</b><br>{Special.sec}
 
-=[01/Agt/Type/Web/Bit/Outline.md]
+More.Sec=<b>Further reading, and other useful materials</b><br>{More.sec}
