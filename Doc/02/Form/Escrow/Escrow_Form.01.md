@@ -75,31 +75,13 @@ Ti=Escrow Agreement
 
 11.Ti=Successors
 
-11.sec=The rights created by {this_Escrow_Agreement} shall inure to the benefit of, and the obligations created hereby shall be binding upon the successors and assigns of {the_Escrow_Agent} and all {parties} to {this_Escrow_Agreement}.
+11.sec=The rights created by {this_Escrow_Agreement} shall inure to the benefit of, and the obligations created hereby shall be binding upon the successors and assigns of {the_Escrow_Agent} and all {parties} to {this_Agreement}.
 
 12.Ti=Limit on Liability of {the_Escrow_Agent}
 
 12.sec={The_Escrow_Agent} shall not be obligated to take any action that is not specifically set forth herein. In the event of a disagreement or dispute concerning the validity or interpretation of any condition of {this_Escrow_Agreement}, the dispute shall be resolved by {the_Arbitrator}. In such event, {the_Escrow_Agent} shall be relieved of any other and further liability under {this_Escrow_Agreement}.
 
-13.Ti=Arbitration
-
-13.1.sec=<span style="text-transform: uppercase">Please read the following paragraph carefully because it requires the {parties} to arbitrate disputes and limits the manner in which the {parties} can seek relief.  Arbitration prevents the {parties} from suing in court or from having a jury trial.</span>  
-
-13.2.sec=The {parties} agree to arbitrate any dispute arising from {this_Escrow_Agreement} or relating to {the_Site}, except that the {parties} are not required to arbitrate any dispute in which either {party} seeks equitable or other relief for the alleged unlawful use of copyrights, trademarks, trade names, logos, trade secrets or patents.
-
-13.3.sec=The {parties} agree that the {parties} will notify each other of any dispute within {Dispute.Notice.Within.days} of when it arises, that the {parties} will attempt informal resolution prior to any demand for arbitration, that any arbitration will occur in {ARB.Seat.City} and that arbitration will be conducted confidentially by a single arbitrator in accordance with the rules of {ARB.Org}.
-
-13.4.sec=The {parties} also agree that the state or federal courts in {ARB.Court.County,State} have exclusive jurisdiction over any appeals of an arbitration award and over any suit between the {parties} not subject to arbitration.
-
-13.5.sec=In any arbitration, the {parties} will not seek discovery from each other, and the arbitrator shall not allow {parties} to engage in discovery; rather, each {party} shall disclose the evidence supporting their positions at some mutually agreeable time and date prior to the final hearing. 
-
-13.6.sec=Other than class procedures and remedies discussed below, the arbitrator has the authority to grant any remedy that would otherwise be available in court.
-
-13.7.sec=Neither {party} will participate in a class action or class-wide arbitration for any claims covered by {this_Escrow_Agreement}. The {parties} also agree not to participate in claims brought in an private attorney general or representative capacity, or consolidated claims involving another person, if the other {party} is a party to the proceeding.  If the prohibition against class actions and other claims brought on behalf of third parties contained above is found to be unenforceable, then that language shall be deemed to have been dropped from {this_Escrow_Agreement} and the remaining obligations relating to arbitration shall continue in full force and effect.
-
-13.xlist={13.blist}
-
-13.=[02/Bit/Sec_07]
+13.=[02/Sec/Sec_Dispute_Arbitration.01.md]
 
 14.Ti=Governing Law
 
@@ -108,6 +90,8 @@ Ti=Escrow Agreement
 15.Ti=Notices
 
 15.sec=All notices under {this_Escrow_Agreement} shall be delivered by electronic message using the “blockchain” technology through which {this_Escrow_Agreement} was entered.
+
+16.=[02/Sec/Sec_Misc_InterpretationToConformToCode.01.md]
 
 16.Ti=Construction to Conform to Technical Implementation
 
