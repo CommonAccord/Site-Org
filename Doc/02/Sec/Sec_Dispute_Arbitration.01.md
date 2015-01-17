@@ -39,11 +39,7 @@ IP.cl,or=copyrights, trademarks, trade names, logos, trade secrets{q} or patents
 
 4.sec=The {parties} also agree that the state or federal courts in {ARB.Court.County,State} have exclusive jurisdiction over any appeals of an arbitration award and over any suit between the {parties} not subject to arbitration.
 
-5.Ti=Discovery
-
-5.sec={5.Exclude.sec}
-
-5.Exclude.sec=In any arbitration, the {parties} will not seek discovery from each other, and the arbitrator shall not allow {parties} to engage in discovery; rather, each {party} shall disclose the evidence supporting their positions at some mutually agreeable time and date prior to the final hearing.
+5.=[02/Sec/Sec_Dispute_Arbitration_Evidence.01.md]
 
 6.Ti=Scope of Remedies
 
