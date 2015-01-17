@@ -1,3 +1,9 @@
+Agreement={d-}Escrow Agreement{-d}
+
+This_Agreement=This {d-}Escrow Agreement{-d}
+
+this_Agreement=this {d-}Escrow Agreement{-d}
+
 the_Arbitrator=the {d-}Arbitrator{-d}
 
 Arbitrator={d-}Arbitrator{-d}
@@ -55,6 +61,8 @@ Text={d-}Text{-d}
 Transaction={d-}Transaction{-d}
 
 the_Transaction=the {d-}Transaction{-d}
+
+q=,
 
 =[02/Sec/DT_Base.01.md]
 

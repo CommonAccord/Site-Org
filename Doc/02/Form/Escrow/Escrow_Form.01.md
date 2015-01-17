@@ -93,10 +93,6 @@ Ti=Escrow Agreement
 
 16.=[02/Sec/Sec_Misc_InterpretationToConformToCode.01.md]
 
-16.Ti=Construction to Conform to Technical Implementation
-
-16.sec=The provisions of {this_Escrow_Agreement} are intended to express in legal language (“{Text}”) the functioning of the software code that performs the transaction. Each {party} represents that it has access to the source code (“{Code}”) and has made such inspection and analysis as it deems appropriate. In the event of any ambiguity in the text or conflict between the {Text} and operation of the {Code}, the {Code} will be the definitive version.
-
 90.Sec={Signature.InWitness}<br> {Agt.Signature.Block}
 
 Signature.InWitness=IN WITNESS WHEREOF, the undersigned being all the {parties} to {this_Escrow_Agreement} have hereunto set their hands.<br> &#8194;
