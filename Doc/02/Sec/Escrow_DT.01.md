@@ -62,6 +62,16 @@ Transaction={d-}Transaction{-d}
 
 the_Transaction=the {d-}Transaction{-d}
 
+Purchaser.Handle={Purchaser}
+
+Seller.Handle={Seller}
+
+Escrow.Handle={the_Escrow_Agent}
+
+Shipper.Handle={Shipper}
+
+Arbitrator.Handle={Arbitrator}
+
 q=,
 
 =[02/Sec/DT_Base.01.md]
