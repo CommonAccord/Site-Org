@@ -32,7 +32,7 @@ Ti=Specifics of Arbitration
 
 6.1.Sen=In any arbitration, the {parties} will not seek discovery from each other, and the arbitrator shall not allow {parties} to engage in discovery.
 
-6.2.Sen=The arbitrator shall only on information that was available to both {parties} on the {blockchain} and referenced in their communications, except that a {party} may submit, and the arbitrator may consider external evidence to establish fraud of a {party}.
+6.2.Sen=The arbitrator shall consider only information that was available to both {parties} on the {blockchain} and referenced in their communications, except that a {party} may submit, and the arbitrator may consider, any other evidence to establish or refute an assertion of fraud by a {party}.
 
 6.3.Sen=The arbitrator shall take appropriate consideration of the time at which the information was available to a {party}, the difficulty of access and the likelihood that the {party} was actually aware of or actually understood the information.
 
