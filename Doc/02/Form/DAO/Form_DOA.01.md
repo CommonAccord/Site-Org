@@ -6,7 +6,7 @@ Purpose.=[02/Sec/Sec_Purpose_DAO.01.md]
 
 Term.=[02/Sec/Sec_Term.02.md]
 
-Dispute.=[02/Sec/Sec_Dispute_Arbitration.01.md]
+Dispute.=[02/Sec/Sec_Dispute_Arbitration_DAO.01.md]
 
 Remedy.=[02/Sec/Sec_Remedy_DAO.01.md]
 
