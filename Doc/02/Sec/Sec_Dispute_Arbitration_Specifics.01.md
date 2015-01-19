@@ -36,4 +36,18 @@ Ti=Specifics of Arbitration
 
 6.3.Sen=The arbitrator shall take appropriate consideration of the time at which the information was available to a {party}, the difficulty of access and the likelihood that the {party} was actually aware of or actually understood the information.
 
-=[02/Bit/Sec_06]
+7.Ti=Jurisdiction for Appeals
+
+7.sec=The {parties} also agree that the state or federal courts in {ARB.Court.County,State} have exclusive jurisdiction over any appeals of an arbitration award and over any suit between the {parties} not subject to arbitration.
+
+8.Ti=Scope of Remedies
+
+8.sec=The arbitrator has the authority to grant any remedy that would otherwise be available in court.
+
+9.Ti=Language
+
+9.sec=The language of {this_Agreement} is English and shall prevail over any other language in which {this_Agreement} may be translated.
+
+10.=[02/Sec/Sec_Misc_InterpretationToConformToCode.01.md]
+
+=[02/Bit/Sec_10]
