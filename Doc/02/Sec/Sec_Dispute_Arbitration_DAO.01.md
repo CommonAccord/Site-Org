@@ -12,7 +12,7 @@ Ti=Arbitration
 
 2.Base.sec=The {parties} agree to arbitrate any dispute arising from {this_Agreement} or relating to the relationship among the {parties}
 
-2.ExceptIP.sec={2.Base.sec}, {ExceptIP.cl}.
+2.ExceptIP.sec={2.Base.sec}.
 
 ExceptIP.cl=except that the {parties} are not required to arbitrate any dispute in which a {party} seeks equitable or other relief for the alleged unlawful use of {IP.cl,or}
 
