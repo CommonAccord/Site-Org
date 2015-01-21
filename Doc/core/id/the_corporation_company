@@ -4,6 +4,7 @@ Name.Full=The Corporation Company
 
 Addr.1=111 Front Street
 
+Addr.Zip=19850
 
 Addr.Type=official
 
@@ -14,4 +15,3 @@ Sign.Name.Full={Secretary.Name.Full}
 Sign.Title={Secretary.Title}
 
 entity=Delaware corporation
-			  

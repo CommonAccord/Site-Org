@@ -1,7 +1,5 @@
 =[core/at/USA/Geo]
 
-Addr.State=Georgia
+Addr.State=Delaware
 
-Addr.ST=GA
-
-  
+Addr.ST=DE
