@@ -17,7 +17,7 @@ Agt.Effective.YMDT=2015-01-21:07:22:03/GMT
 
 Term.End.YMD=2025-12-31:23:59:59/GMT
 
-SpecificPurpose=to create more like me
+SpecificPurpose=creating more smart contracts
 
 Org.Name.Full=NewOrgOrderingOrganism.Org
 

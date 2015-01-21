@@ -13,7 +13,7 @@ P1.Represented.Cl={P1.Name.Full} as {P1.Handle}<br>Represented by: {P1.Sign.Name
 
 P2.Represented.Cl={P2.Name.Full} as {P2.Handle}<br>Represented by: {P1.Sign.Name.Full}
 
-Agt.Effective.Sec=EFFECTIVE DATE: ("{Effective_Date}"): {Agt.Effective.YMD}
+Agt.Effective.Sec=EFFECTIVE DATE: ("{Effective_Date}"): {Agt.Effective.YMDT}
 
 Agt.ThisAgreement.Sec=This {Ti} (the “{Agreement}”) is made as of the {Effective_Date} set forth above by and between {P1.N,E,A} (“{P1.Handle}”) and {P2.N,E,A} (“{P2.Handle}”).
 
