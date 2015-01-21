@@ -8,4 +8,6 @@ Ti=Miscellaneous
 
 4.=[03/Sec/Sec_Misc_Amend_BCC.01.md]
 
-=[02/Bit/Sec_04]
+5.=[03/Sec/Sec_Misc_InterpretationToConformToCode.01.md]
+
+=[02/Bit/Sec_05]
