@@ -34,7 +34,10 @@ Blist=<ul type="none" style="padding-left: 0"><li>{Secs}</ul>
 
 blist=<ul type="none" style="padding-left: 0"><li>{secs}</ul>
 
-0.Sec=<b></b>
+/Note=backwards compatibility - please use 0.sec in future
+0.Sec={0.sec}
+
+0.sec=<b></b>
 
 90.Sec=<b></b>
 
