@@ -2,7 +2,7 @@
 
 1.1.1.sec={P1.N,E,A} (“{P1.Handle}” and a “{party}”)
 
-1.1.2.sec={P2.Name.Full} (“{P2.Handle}” and a “{party}”)
+1.1.2.sec={P2.N,E,A} (“{P2.Handle}” and a “{party}”)
 
 1.1.=[02/Bit/Sec_02]
 

@@ -1,4 +1,4 @@
-Front.Secs={1.Sec}
+Front.Secs={1.Sec}<li>{Management.Secs}
 
 1.=[03/Sec/Sec_Purpose_BCC.01.md]
 
