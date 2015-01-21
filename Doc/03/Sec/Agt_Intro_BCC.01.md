@@ -8,7 +8,7 @@
 
 1.1.xlist={1.1.ulist}
 
-1.2.sec=EFFECTIVE DATE: (the “{Effective_Date}”): {Agt.Effective.YMD}
+1.2.sec=EFFECTIVE DATE: {Agt.Effective.YMDT} (the “{Effective_Date}”)
 
 1.sec={1.blist}<br>
 
