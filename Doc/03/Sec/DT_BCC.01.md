@@ -1,5 +1,3 @@
-=[02/Sec/DT_NDA.01.md]
-
 dPageName=03/Sec/DT_BCC.01.md
 
 Arbitrator={d-}Arbitrator{-d}
@@ -40,4 +38,6 @@ the_Disclosing_Party=the {d-}Disclosing Party{-d}
 
 Each_Party=Each {d-}Party{-d}
 
-the_other_Party=the other{d-}Party{-d}
+the_other_Party=the other {d-}Party{-d}
+
+=[02/Sec/DT_NDA.01.md]

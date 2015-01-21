@@ -30,7 +30,7 @@ a_Receiving_Party=a {d-}Receiving Party{-d}
 
 such_Receiving_Party=such {d-}Receiving Party{-d}
 
-d-=<a href="https://github.com/CommonAccord/Org/blob/master/Doc/02/Sec/DT_NDA.01.md"><font color="green">
+d-=<a href="https://github.com/CommonAccord/Org/blob/master/Doc/{dPageName}"><font color="green">
 
 -d=</font></a>
 
