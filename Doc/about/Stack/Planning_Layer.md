@@ -1,4 +1,4 @@
-Ti=Planning - Making "Yes" Most Meaningful
+Ti=Planning - Making "Yes" Better
 
 1.sec=Planning happens differently depending on the circumstances, but let's schematize.  Let's presume the parties have found one another and now want to increment their relationship by, for instance, agreeing to keep one another's confidences, lend some money, benefit from some service.
 

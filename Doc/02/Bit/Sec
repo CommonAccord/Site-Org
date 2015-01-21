@@ -39,7 +39,9 @@ blist=<ul type="none" style="padding-left: 0"><li>{secs}</ul>
 
 0.sec=<b></b>
 
-90.Sec=<b></b>
+90.Sec={90.sec}
+
+90.sec=<b></b>
 
 Doc.4.Xref={d-}Section 4{-d}
 
