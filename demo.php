@@ -16,7 +16,7 @@ include("header.php");
 
 <tr>
 <td><img src="http://iconizer.net/files/Luminight/thumb/128/filter_data.png" height="50px"/></td>
-<td width="100px"><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=GenomicsAndHealth/REWG/Demo/>Data Collection</a></td>
+<td width="100px"><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=GenomicsAndHealth/REWG/Demo/>Patient Consent</a></td>
 				 <td>Automating Patient Consents, with an international approach:<br>Cmacc's Consent Forms can "inherit" clauses according to the language, jurisdiction, situation of the data subject, etc., making them transparent, consistent and computable. </td>
 </tr>
 

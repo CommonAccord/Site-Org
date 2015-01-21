@@ -2,7 +2,7 @@ Ti=Center for Decentralized Law
 
 1.sec=In <a href="https://docs.google.com/document/d/1eizIqpx_ni8KaGkk3bVKvBBDoRy2eTEtvPHE0hiar7c/edit">an earlier piece</a>, we described how open source methods of following, forking and merging allow a decentralized approach to self-regulation and law.  
 
-2.0.sec=Here, I point out the advantages, indeed the need, for an organization to host parts of this decentralized process. There is irony in a center for decentralized law, but it is needed, or at least useful, as demonstrated by similar structures in open source software and law. 
+2.0.sec=This piece outlines an organization to host parts of this decentralized process. There is irony in a center for decentralized law, but it is needed, or at least useful, as demonstrated by similar structures in open source software and law. 
 
 2.1.sec=The Center for Decentralized Law will host some administrative functions of the decentralized community of law.  The community is broad, including governments, organizations, businesses and individuals.
 
