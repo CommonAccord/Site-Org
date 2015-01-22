@@ -60,6 +60,6 @@ Ti=Specifics of Arbitration
 
 10.=[02/Sec/Sec_Misc_InterpretationToConformToCode.01.md]
 
-=[02/Bit/Sec_10]
+=[02/Bit/Sec_09]
 
 =[03/Sec/DT_BCC.01.md]
