@@ -10,23 +10,23 @@ Ti=Communications
 
 1.2.2.sec=postmaster@<the contested domain name>; and
 
-1.2.3.sec=if the domain name (or "www." followed by the domain name) resolves to an active web page (other than a generic page the {Provider} concludes is maintained by a registrar or ISP for parking domain-names registered by multiple domain-name holders), any e- mail address shown or e-mail links on that web page; and
+1.2.3.sec=if the domain name (or "www." followed by the domain name) resolves to an active web page (other than a generic page the {Provider} concludes is maintained by a registrar or ISP for parking domain-names registered by multiple domain-name holders), any e-mail address shown or e-mail links on that web page; and
 
 1.2.=[02/Bit/Ssec_03]
 
-1.3.sec=sending the complaint, including any annexes, to any e-mail address the {Respondent} has notified the {Provider} it prefers and, to the extent practicable, to all other e-mail addresses provided to the {Provider} by {Complainant} under Paragraph 3(b)(v).
+1.3.sec=sending the complaint, including any annexes, to any e-mail address the {Respondent} has notified the {Provider} it prefers and, to the extent practicable, to all other e-mail addresses provided to the {Provider} by {Complainant} under {Paragraph_3(b)(v)}.
 
 1.=[02/Bit/Ssec_03]
 
-2.sec=Except as provided in Paragraph 2(a), any written communication to {Complainant} or {Respondent} provided for under these Rules shall be made electronically via the Internet (a record of its transmission being available), or by any reasonably requested preferred means stated by the {Complainant} or {Respondent}, respectively (see Paragraphs 3(b)(iii) and 5(b)(iii)).
+2.sec=Except as provided in {Paragraph_2(a)}, any written communication to {Complainant} or {Respondent} provided for under these {Rules} shall be made electronically via the Internet (a record of its transmission being available), or by any reasonably requested preferred means stated by the {Complainant} or {Respondent}, respectively (see {Paragraph_3(b)(iii)} and {Paragraph_5(b)(iii)}).
 
 3.sec=Any communication to the {Provider} or the {Panel} shall be made by the means and in the manner (including, where applicable, the number of copies) stated in the {Provider's_Supplemental_Rules}.
 
-4.sec=Communications shall be made in the language prescribed in Paragraph 11.
+4.sec=Communications shall be made in the language prescribed in {Paragraph_11}.
 
 5.sec=Either {Party} may update its contact details by notifying the {Provider} and the {Registrar}.
 
-6.0.sec=Except as otherwise provided in these Rules, or decided by a {Panel}, all communications provided for under these Rules shall be deemed to have been made:
+6.0.sec=Except as otherwise provided in these {Rules}, or decided by a {Panel}, all communications provided for under these {Rules} shall be deemed to have been made:
 
 6.1.sec=if via the Internet, on the date that the communication was transmitted, provided that the date of transmission is verifiable; or, where applicable
 
@@ -36,7 +36,7 @@ Ti=Communications
 
 6.=[02/Bit/Ssec_03]
 
-7.sec=Except as otherwise provided in these Rules, all time periods calculated under these Rules to begin when a communication is made shall begin to run on the earliest date that the communication is deemed to have been made in accordance with Paragraph 2(f).
+7.sec=Except as otherwise provided in these {Rules}, all time periods calculated under these {Rules} to begin when a communication is made shall begin to run on the earliest date that the communication is deemed to have been made in accordance with {Paragraph_2(f)}.
 
 8.0.sec=Any communication by
 
@@ -48,7 +48,7 @@ Ti=Communications
 
 8.=[02/Bit/Ssec_03]
 
-9.sec=It shall be the responsibility of the sender to retain records of the fact and circumstances of sending, which shall be available for inspection by affected parties and for reporting purposes. This includes the {Provider} in sending {Written_Notice} to the {Respondent} by post and/or facsimile under Paragraph 2(a)(i).
+9.sec=It shall be the responsibility of the sender to retain records of the fact and circumstances of sending, which shall be available for inspection by affected parties and for reporting purposes. This includes the {Provider} in sending {Written_Notice} to the {Respondent} by post and/or facsimile under {Paragraph_2(a)(i)}.
 
 10.sec=In the event a {Party} sending a communication receives notification of non-delivery of the communication, the {Party} shall promptly notify the {Panel} (or, if no {Panel} is yet appointed, the {Provider}) of the circumstances of the notification. Further proceedings concerning the communication and any response shall be as directed by the {Panel} (or the {Provider}).
 

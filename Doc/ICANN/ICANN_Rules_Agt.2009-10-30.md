@@ -1,6 +1,6 @@
-Ti=Rules for Uniform Domain Name Dispute Resolution Policy (the "Rules")
+Ti=Rules for {Uniform_Dispute_Resolution_Policy} (the "{Rules}")
 
-0.sec=Administrative proceedings for the resolution of disputes under the Uniform Dispute Resolution Policy adopted by ICANN shall be governed by these Rules and also the {Supplemental_Rules} of the {Provider} administering the proceedings, as posted on its web site. To the extent that the {Supplemental_Rules} of any {Provider} conflict with these {Rules}, these {Rules} supersede.
+0.sec=Administrative proceedings for the resolution of disputes under the {Uniform_Dispute_Resolution_Policy} adopted by {ICANN} shall be governed by these {Rules} and also the {Supplemental_Rules} of the {Provider} administering the proceedings, as posted on its web site. To the extent that the {Supplemental_Rules} of any {Provider} conflict with these {Rules}, these {Rules} supersede.
 
 1.=[ICANN/ICANN_Rules_Sec_Def.2009-10-30.md]
 2.=[ICANN/ICANN_Rules_Sec_Communication.2009-10-30.md]

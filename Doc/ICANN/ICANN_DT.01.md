@@ -1,6 +1,7 @@
 Complainant={d-}Complainant{-d}
 
 ICANN={d-}ICANN{-d}
+Uniform_Dispute_Resolution_Policy={d-}Uniform Dispute Resolution Policy{-d}
 
 Mutual_Jurisdiction={d-}Mutual Jurisdiction{-d}
 
@@ -34,31 +35,69 @@ Panelist={d-}Panelist{-d}
 
 Rules={d-}Rules{-d}
 
-Paragraph_2(a)={x-}Paragraph 2.1{-x}
+Paragraph_2(a)(i)={d-}Paragraph 2{(a)}{(i)}{-d}
 
-Paragraph_19={x-}Paragraph 19{-x}
+Paragraph_2(a)={d-}Paragraph 2{(a)}{-d}
 
-Paragraph_3(b)(iv)={x-}Paragraph 3.2.4{-x}
+Paragraph_2(b)={d-}Paragraph 2{(b)}{-d}
 
-Paragraph_5(b)(iv)={x-}Paragraph 5.2.4{-x}
+Paragraph_2(f)={d-}Paragraph 2{(f)}{-d}
 
-Paragraph_6(e)={x-}Paragraph 6.5{-x}
+Paragraph_3(b)(iii)={d-}Paragraph 3{(b)}{(iii)}{-d}
 
-Paragraph_6={x-}Paragraph 6{-x}
+Paragraph_3(b)(iv)={d-}Paragraph 3{(b)}{(iv)}{-d}
 
-Paragraph_4(a)={x-}Paragraph 4.1{-x}
+Paragraph_3(b)(v)={d-}Paragraph 3{(b)}{(v)}{-d}
 
-Paragraph_4(j)={x-}Paragraph 4.9{-x}
+Paragraph_4(a)={d-}Paragraph 4{(a)}{-d}
 
-Paragraph_15(e)={x-}Paragraph 15.5{-x}
+Paragraph_4(j)={d-}Paragraph 4{(j)}{-d}
 
-Paragraph_8={x-}Paragraph 8{-x}
+Paragraph_5(b)(iii)={d-}Paragraph 5{(b)}{(iii)}{-d}
 
-Paragraph_5(c)={x-}Paragraph 5.3{-x}
+Paragraph_5(b)(iv)={d-}Paragraph 5{(b)}{(iv)}{-d}
 
-Paragraph_19(d)={x-}Paragraph 19.4{-x}
+Paragraph_5(c)={d-}Paragraph 5{(c)}{-d}
 
-Paragraph_19(a)={x-}Paragraph 19.1{-x}
+Paragraph_6(e)={d-}Paragraph 6{(e)}{-d}
+
+Paragraph_6={d-}Paragraph 6{-d}
+
+Paragraph_8={d-}Paragraph 8{-d}
+
+Paragraphs_4(b)_and_4(c)={d-}Paragraphs 4{(b)} and 4{(c)}{-d}
+
+Paragraph_11={d-}Paragraph 11{-d}
+
+Paragraph_15(e)={d-}Paragraph 15{(e)}{-d}
+
+Paragraph_19={d-}Paragraph 19{-d}
+
+Paragraph_19(a)={d-}Paragraph 19{(a)}{-d}
+
+Paragraph_19(d)={d-}Paragraph 19{(d)}{-d}
+
+(a)=.1
+
+(b)=.2
+
+(c)=.3
+
+(d)=.4
+
+(e)=.5
+
+(f)=.6
+
+(j)=.9
+
+(i)=(1)
+
+(iii)=(3)
+
+(iv)=(4)
+
+(v)=(5)
 
 d-=<a href="https://github.com/CommonAccord/Org/blob/master/Doc/{dPageName}"><font color="green">
 

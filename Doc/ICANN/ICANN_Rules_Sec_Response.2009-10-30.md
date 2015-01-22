@@ -10,13 +10,13 @@ Ti=The Response
 
 2.3.sec=Specify a preferred method for communications directed to the {Respondent} in the administrative proceeding (including person to be contacted, medium, and address information) for each of (A) electronic-only material and (B) material including hard copy (where applicable);
 
-2.4.sec=If {Complainant} has elected a single-member panel in the complaint (see Paragraph 3(b)(iv)), state whether {Respondent} elects instead to have the dispute decided by a three-member panel;
+2.4.sec=If {Complainant} has elected a single-member panel in the complaint (see {Paragraph_3(b)(iv)}), state whether {Respondent} elects instead to have the dispute decided by a three-member panel;
 
 2.5.sec=If either {Complainant} or {Respondent} elects a three-member {Panel}, provide the names and contact details of three candidates to serve as one of the {Panelists} (these candidates may be drawn from any {ICANN}-approved {Provider}'s list of panelists);
 
 2.6.sec=Identify any other legal proceedings that have been commenced or terminated in connection with or relating to any of the domain name(s) that are the subject of the complaint;
 
-2.7.sec=State that a copy of the response including any annexes has been sent or transmitted to the {Complainant}, in accordance with Paragraph 2(b); and
+2.7.sec=State that a copy of the response including any annexes has been sent or transmitted to the {Complainant}, in accordance with {Paragraph_2(b)}; and
 
 2.8.0.sec=Conclude with the following statement followed by the signature (in any electronic format) of the {Respondent} or its authorized representative:
 

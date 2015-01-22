@@ -12,7 +12,7 @@ Ti=The Complaint
 
 2.4.sec=Designate whether {Complainant} elects to have the dispute decided by a single-member or a three-member {Panel} and, in the event {Complainant} elects a three-member {Panel}, provide the names and contact details of three candidates to serve as one of the {Panelists} (these candidates may be drawn from any {ICANN}-approved {Provider}'s list of panelists);
 
-2.5.sec=Provide the name of the {Respondent} (domain-name holder) and all information (including any postal and e-mail addresses and telephone and telefax numbers) known to {Complainant} regarding how to contact {Respondent} or any representative of {Respondent}, including contact information based on pre-complaint dealings, in sufficient detail to allow the {Provider} to send the complaint as described in Paragraph 2(a);
+2.5.sec=Provide the name of the {Respondent} (domain-name holder) and all information (including any postal and e-mail addresses and telephone and telefax numbers) known to {Complainant} regarding how to contact {Respondent} or any representative of {Respondent}, including contact information based on pre-complaint dealings, in sufficient detail to allow the {Provider} to send the complaint as described in {Paragraph_2(a)};
 
 2.6.sec=Specify the domain name(s) that is/are the subject of the complaint;
 
@@ -28,7 +28,7 @@ Ti=The Complaint
 
 2.9.3.sec=why the domain name(s) should be considered as having been registered and being used in bad faith
 
-2.9.90.sec=(The description should, for elements (2) and (3), discuss any aspects of Paragraphs 4(b) and 4(c) of the {Policy} that are applicable. The description shall comply with any word or page limit set forth in the {Provider's_Supplemental_Rules}.);
+2.9.90.sec=(The description should, for elements (2) and (3), discuss any aspects of {Paragraphs_4(b)_and_4(c)} of the {Policy} that are applicable. The description shall comply with any word or page limit set forth in the {Provider's_Supplemental_Rules}.);
 
 2.9.=[02/Bit/Ssec_03]
 
@@ -36,7 +36,7 @@ Ti=The Complaint
 
 2.11.sec=Identify any other legal proceedings that have been commenced or terminated in connection with or relating to any of the domain name(s) that are the subject of the complaint;
 
-2.12.sec=State that a copy of the complaint, including any annexes, together with the cover sheet as prescribed by the {Provider's_Supplemental_Rules}, has been sent or transmitted to the {Respondent} (domain-name holder), in accordance with Paragraph 2(b);
+2.12.sec=State that a copy of the complaint, including any annexes, together with the cover sheet as prescribed by the {Provider's_Supplemental_Rules}, has been sent or transmitted to the {Respondent} (domain-name holder), in accordance with {Paragraph_2(b)};
 
 2.13.sec=State that {Complainant} will submit, with respect to any challenges to a decision in the administrative proceeding canceling or transferring the domain name, to the jurisdiction of the courts in at least one specified {Mutual_Jurisdiction};
 
