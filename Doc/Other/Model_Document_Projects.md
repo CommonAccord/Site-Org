@@ -19,7 +19,7 @@ At bottom a few links to other lists.
 <tr><td>http://kauffman.org/what-we-do/research/2012/07/facilitating-the-commercialization-of-university-innovation    </td><td>Kauffman Foundation -- sponsored a university to start-up standard tech transfer agreement.  </td></tr>
 <tr><td>http://www.ott.nih.gov/forms-model-agreements</td><td>NIH Models -- see [[Ott.nih.gov/License_Patent_Exclusive_Agt_Library]]</td></tr>
 <tr><td>http://spo.berkeley.edu/forms/ucforms.html</td></tr>
-<td>http://research.ucdavis.edu/pgc/f/f#technology-material-transfer</td><td></td></table>
+<td>http://research.ucdavis.edu/resources/forms/</td><td></td></table>
 
 ==Other Model Docs==
 <table><tr><td><b>A Tiny Slice of the Rest</b></td><td></td></tr>
