@@ -10,6 +10,10 @@
 
 1.2.sec=EFFECTIVE DATE: {Agt.Effective.YMDT} (the “{Effective_Date}”)
 
+/Note=Default to just the day - backward compatibility
+
+Agt.Effective.YMDT={Agt.Effective.YMD}
+
 1.sec={1.blist}<br>
 
 1.=[02/Bit/Ssec_02]

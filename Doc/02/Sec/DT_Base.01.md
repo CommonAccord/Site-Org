@@ -24,6 +24,8 @@ Parties={d-}Parties{-d}
 
 Party={d-}Party{-d}
 
+Root.Xref={x-}Section{-x}
+
 1.Xref={x-}Section 1{-x}
 2.Xref={x-}Section 2{-x}
 3.Xref={x-}Section 3{-x}

@@ -1,4 +1,4 @@
-Front.Secs={Conf.Sec}{Rep.li}{Limit.li}
+ConfRepLimit.Secs={Conf.Sec}{Rep.li}{Limit.li}
 
 Conf.li=<li>{Conf.Sec}
 
