@@ -8,9 +8,9 @@ Ti=Mutual Non-Disclosure Agreement
 
 Conf.=[02/Sec/NDA_Sec_Confidential.01.md]
 
-2.=[02/Sec/NDA_Sec_Limit.01.md]
+2.=[02/Sec/NDA_Sec_Rep_NotViolate3PartyRight.01.md]
 
-3.=[02/Sec/NDA_Sec_Rep_NotViolate3PartyRight.01.md]
+3.=[02/Sec/NDA_Sec_Limit.01.md]
 
 4.=[02/Sec/Sec_Term.01.md]
 

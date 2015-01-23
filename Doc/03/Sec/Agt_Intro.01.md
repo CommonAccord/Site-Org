@@ -1,30 +1,32 @@
-Sec={Agt.Start}{Agt.Intro}
+1.1.0.Sec=BY AND BETWEEN:
 
-Agt.Start={Agt.By.Sec} {Agt.Effective.Sec}<br><br>
+1.1.1.sec={P1.N,E,A} (“{P1.Handle}” and a “{party}”)
 
-Agt.Intro={Agt.ThisAgreement.Sec} {Agt.Parties.Sec} {Agt.Purpose/Whereas.Sec} {Agt.NowTherefore.Sec}
+1.1.2.sec={P2.N,E,A} (“{P2.Handle}” and a “{party}”)
+
+1.1.=[02/Bit/Sec_02]
+
+1.1.xlist={1.1.ulist}
+
+1.2.sec=EFFECTIVE DATE: {Agt.Effective.YMDT} (the “{Effective_Date}”)
+
+1.sec={1.blist}<br>
+
+1.=[02/Bit/Ssec_02]
 
 
-Agt.By.Sec=BY AND BETWEEN: <ul><li>{P1.Name.Full} (“{P1.Handle}”) and<li> {P2.Name.Full} (“{P2.Handle}”)</ul>
+2.sec={2.1.sec} {2.2.sec}
 
-Agt.ByRepresented.Sec=BY AND BETWEEN: <ul><li>{P1.Represented.Cl}; and<li>{P2.Represented.Cl}</ul> 
+2.1.sec=This {Ti} (the “{Agreement}”) is made as of the {Effective_Date} by and between the {parties}.
 
-P1.Represented.Cl={P1.Name.Full} as {P1.Handle}<br>Represented by: {P1.Sign.Name.Full}
+2.2.sec=<b></b>
 
-P2.Represented.Cl={P2.Name.Full} as {P2.Handle}<br>Represented by: {P1.Sign.Name.Full}
+/fudging a break=-
 
-Agt.Effective.Sec=EFFECTIVE DATE: ("{Effective_Date}"): {Agt.Effective.YMDT}
+3.sec=<br>
 
-Agt.ThisAgreement.Sec=This {Ti} (the “{Agreement}”) is made as of the {Effective_Date} set forth above by and between {P1.N,E,A} (“{P1.Handle}”) and {P2.N,E,A} (“{P2.Handle}”).
+4.sec=In consideration of the mutual promises contained in {this_Agreement} and other good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the {parties} agree as follows:
+  
+Sec={blist}
 
-Agt.Parties.Sec={P1.Handle} and {P2.Handle} are each sometimes referred to as a “{party}” and collectively as the “{parties}.”
-
-Agt.Purpose/Whereas.Sec={Agt.Purpose.Sec}
-
-Agt.Purpose.Sec=<br><br>
-
-Agt.Whereas.Sec<ul type="none"><li>{Whereas.1.Sec}</ul>
-
-Agt.NowTherefore.Sec=In consideration of the mutual promises contained in {this_Agreement} and other good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the {parties} agree as follows:
-
-Model.Root={Sec}
+=[02/Bit/Ssec_04]
