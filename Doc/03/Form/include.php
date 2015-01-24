@@ -1,3 +1,3 @@
 Most recent materials are in this /03/: <br>A few examples of latest materials from #DecentLaw.  <br>
 
-The flagship NDA.  NDA is a common starting point for relationships.  It is confidentiality on top of a stack of "agreement" - representations, dispute resolution, miscellaneous terms.  See <a href="http://commonaccord.org/index.php?action=list&file=02/Demo/NDA/">NDA examples</a>.
+The flagship NDA.  NDA is a common starting point for relationships.  It is confidentiality on top of a stack of "agreement" - representations, dispute resolution, miscellaneous terms.  See <a href="http://commonaccord.org/index.php?action=list&file=02/Demo/NDA/">NDA examples</a>.<br>In the second NDA, we expand the Misc section - pointing to a list that has Counterparts and Severance.  We have a kit of Miscellaneous that we use across lots of agreements. 
