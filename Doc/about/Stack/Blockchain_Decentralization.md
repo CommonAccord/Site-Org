@@ -16,9 +16,9 @@ Ti=A Decentralized Social Order for the Information Age:
 
 2.0.sec=Here are three forms of decentralization:
 
-2.1.Ti=Decentralization of Law
+2.1.Ti=Decentralization of Organization
 
-2.1.sec=CommonAccord shows how "legal" decisions can be decentralized using the legal convention of signed documents and techniques from open source software.  It can enable personal and small group decisions with legal consequence by providing actionable information, and can facilitate large group decisions by providing a tool for, and alternative to, legislation and regulation.
+2.1.sec=CommonAccord shows how many "legal" decisions can be decentralized using the legal convention of signed documents and techniques from open source software.  It can enable personal and small group decisions with legal consequence by providing actionable information, and can facilitate large group decisions by providing a tool for, and alternative to, legislation and regulation.
 
 2.2.Ti=Decentralization of Communication
 
