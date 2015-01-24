@@ -26,7 +26,7 @@ Dispute.=[02/Sec/Sec_Dispute_USLaw-Court.01.md]
 
 Remedy.=[02/Sec/NDA_Sec_Remedy.01.md]
 
-Misc.=[02/Sec/NDA_Sec_Misc.02.md]
+Misc.=[03/Sec/Sec_Misc_Library.01.md]
 
 =[03/Sec/DT_NDA.01.md]
 
