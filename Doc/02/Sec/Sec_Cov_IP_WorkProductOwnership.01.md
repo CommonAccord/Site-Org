@@ -10,7 +10,7 @@ Ti=Ownership of {Work_Product}
 
 3.Ti=Execute Documents
 
-3.sec={P2.The} agrees to execute, at {P1.the}’s request and expense, all documents and other instruments necessary or desirable to confirm such assignment, including without limitation, the copyright assignment set forth as EXHIBIT B (“Assignment of Copyright”) and the patent assignment set forth as EXHIBIT C (“Assignment of Patent Application”).
+3.sec={P2.The} agrees to execute, at {P1.the}’s request and expense, all documents and other instruments necessary or desirable to confirm such assignment, including without limitation, the copyright assignment set forth as {Copyright.Attach.Exh.Ti} (“Assignment of Copyright”) and the patent assignment set forth as {Patent.Attach.Exh.Ti} (“Assignment of Patent Application”).
 
 /Note
 4.Ti=Attorney-in-Fact

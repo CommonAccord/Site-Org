@@ -1,11 +1,13 @@
 
 Secs={Front.Secs}<li>{Back.Secs}
 
-Back.Secs={Back.DRM.Secs}
+Back.Secs={Back.TDRM.Secs}
 
-Back.DRM.Secs={Term.Sec}{Dispute.li}{Remedy.li}{Misc.li}
+Back.TDM.Secs={Term.Sec}{Dispute.li}{Misc.li}
 
-Back.DRMD.Secs={Back.DRMD.Secs}{Def.li}
+Back.TDRM.Secs={Term.Sec}{Dispute.li}{Remedy.li}{Misc.li}
+
+Back.TDRMD.Secs={Back.DRMD.Secs}{Def.li}
 
 Term.li=<li>{Dispute.Sec}
 

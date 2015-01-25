@@ -2,13 +2,11 @@
 
 Ti=Mutual Non-Disclosure Agreement
 
-Front.Secs={ConfRepLimit.Secs}
-
 Misc.Sec={Misc.NDA.1.Sec}  
 
 Conf.Xref={Root.Xref} 1
 
-=[03/Sec/Lib_NDA.01.md]
+=[03/Sec/Library_NDA.01.md]
 
 
 /Note=Frame of all agreements (Intro, End)
