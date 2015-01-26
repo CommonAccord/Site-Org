@@ -1,8 +1,14 @@
+=[03/Sec/Agt.01.md]
+
 =[me/Distribution/Defined_Terms.md]
 
-Model.Root=List of sections in Distribution Agreement {Agt.Secs}
+=[02/Sec/DT_Base.01.md]
 
-Agt.Secs=<ol><li>{Def.Sec}</li><li>{Relate.Appoint.Sec}</li><li>{Product.Sec}</li><li>{Service.Sec}</li><li>{Relate.Exclusive.Sec}</li><li>{BuySell.Minimum.Sec}</li><li>{Duty;RepWar.P2.Sec}</li><li>{Price.Sec}</li><li>{Order.Sec}</li><li>{Ship.Sec}</li><li>{Pay;Secure.Sec}</li><li>{Duty.Pcpl.Sec}</li><li>{RepWar.Pcpl.Product.Sec}</li><li>{IP.Sec}</li><li>{Conf.Sec}</li><li>{Indemn.Sec}</li><li>{Term.Sec}</li><li>{Remedy.Liab.Limit.Sec}</li><li>{Dispute.Sec}</li><li>{Misc.Sec}</li></ol>
+P1.Handle=Company
+
+P2.Handle=Distributor
+
+xlist=<ol><li>{Def.Sec}</li><li>{Relate.Appoint.Sec}</li><li>{Product.Sec}</li><li>{Service.Sec}</li><li>{Relate.Exclusive.Sec}</li><li>{BuySell.Minimum.Sec}</li><li>{Duty;RepWar.P2.Sec}</li><li>{Price.Sec}</li><li>{Order.Sec}</li><li>{Ship.Sec}</li><li>{Pay;Secure.Sec}</li><li>{Duty.Pcpl.Sec}</li><li>{RepWar.Pcpl.Product.Sec}</li><li>{IP.Sec}</li><li>{Conf.Sec}</li><li>{Indemn.Sec}</li><li>{Term.Sec}</li><li>{Remedy.Liab.Limit.Sec}</li><li>{Dispute.Sec}</li><li>{Misc.Sec}</li></ol>
 
 Def.Sec=<b>Definitions</b>.<ul><li>{Affiliate.Def}</li><li>{days.Def}</li><li>{Intended_Uses.Def}</li><li>{Person.Def}</li><li>{Subsidiary.Def}</li><li>{Def.Xref.Table.Sec}</li></ul>
 
@@ -10,7 +16,7 @@ Relate.Appoint.Sec=<b>Appointment of {P2.the}</b>.<ol><li>{Appoint.Sec}</li><li>
 
 /Marc=change here 
 Product.Sec=<b>{Products}</b>.<ol><li>{Product.Discontinue.Sec}</li><li>{Product.Add.Sec}</li><li>{Product.Modify.Sec}</li><li>{Product.Package.Sec}</li></ol>
-{
+
 Relate.Exclusive.Sec=<b>Exclusivity</b>.<ol><li>{Relate.Exclusive.Engage.Sec}</li><li>{Relate.Exclusive.Stop.Sec}</li></ol>
 
 BuySell.Minimum.Sec=<b>Minimum Purchasing Obligations</b>.<ol><li>{BuySell.Minimum.Initial.Sec}</li><li>{BuySell.Minimum.Annual.Sec}</li><li>{BuySell.Minimum.Quarter.Sec}</li><li>{BuySell.Minimum.Orders.Sec}</li></ol>
@@ -53,33 +59,29 @@ Product.Doc.Language=English
 
 Schedule @@@=Exhibit D
 
-BuySell.Minimum.Initial.$=[TO BE DETERMINED]
+BuySell.Minimum.Initial.$=TO BE DETERMINED
 
-BuySell.Minimum.Initial.Limit.Promo.Quantity=[TO BE DETERMINED]
+BuySell.Minimum.Initial.Limit.Promo.Quantity=TO BE DETERMINED
 
-Price.Promotion.Limit=[TO BE DETERMINED]
+Price.Promotion.Limit=TO BE DETERMINED
 
-Price.Promotion.Discount=[TO BE DETERMINED]
+Price.Promotion.Discount=TO BE DETERMINED
 
 Manufacturer.Ship.Base.Country=China
 
-Term.End=[TO BE DETERMINED]
+Term.End=TO BE DETERMINED
 
-Dispute.Arb.Rules=[TO BE DETERMINED]
+Dispute.Arb.Rules=TO BE DETERMINED
 
-Dispute.Arb.Institute=[TO BE DETERMINED]
+Dispute.Arb.Institute=TO BE DETERMINED
 
-Dispute.Arb.Hearing.Place=[TO BE DETERMINED]
+Dispute.Arb.Hearing.Place=TO BE DETERMINED
 
-Dispute.Law.State.the=[TO BE DETERMINED]
+Dispute.Law.State.the=TO BE DETERMINED
 
-Model_Agt_Notice.Pcpl;P2.Block=[TO BE DETERMINED]
-
-Product_Manager=Community Manager
+Model_Agt_Notice.Pcpl;P2.Block=TO BE DETERMINED
 
 /Changes to the template agreement
-
-Product_Manager={Product_Manager}
 
 RepWar.Product.Base.Sec=<b>Product Quality and Warranty</b>. {P1.The} grants to {P2.the} the limited warranties contained in the warranty terms for the {Products}, as modified from time to time by {P1.the} (“{Product_Warranty}”). A copy of the current limited {Product_Warranty} is attached as Exhibit C to {this_Agreement}. {P1.The} reserves the right to modify the {Product_Warranty} from time to time and shall notify {P2.the} of any material changes thereto. In the event of a problem warranted in the {Product_Warranty}, {P1.the} shall accept return of the {Product}, at its expense and its risk of loss during shipment, and, in its sole discretion, shall replace the {Products} or refund the net purchase price to the customer or {P2.the}, as provided for in the then-current {Product_Warranty}. {P1.The} is not responsible for breaches of the {Product_Warranty} caused by use, operation or storage not in accordance with {P1.the}’s instructions, or unauthorized modification of a {Product}.
 

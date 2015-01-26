@@ -14,10 +14,12 @@ fontmark2=magenta
 <p>=
 <p>=
 
-Please=if you know programming, excuse the mismatch between the "YMD" and the format of Sept..2014.  There is NO SYNTAX except key/value!   The whole system is {key} expands into value.  (period!)
+The=whole system is
+
+= {key}
+ =expands into value
+= and
+ =[listname]
+ =expands into the key/values of the referenced list. 
 
 <p>=[about/how/Lesson6]
-
-
-
- 																																

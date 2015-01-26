@@ -3,8 +3,5 @@ Of course=we could also reference some materials done by someone else.
 <p>=
 =[core/class/AGT_Frame]	
 <p>=
-<p>=
-Notice that=this comes from a place called "core/".  That is intended for shared legal materials.  The non-shared stuff - the stuff you do for yourself or with your partners should be somewhere else - you can put it where you want if you pull from github (more on that later), but we suggest it be in "me/". 
 
 On to=[about/how/Lesson4]
-			

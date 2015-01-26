@@ -1,7 +1,3 @@
-CommonAccord is lists.=A list of labels, each with an assigned text. In software the label is called a "key" and the assigned text is called a "value"  
-
-Rendering=Your document is created by starting with the key "Model.Root".  As if the text consisted only of {Model.Root} and then was "expanded".
-
 Model.Root={hw}
 
 hw={h} {w}
@@ -13,7 +9,3 @@ h=hello
 
 <p>= 
 Lesson 2=[about/how/Lesson2]
-
-
-
- 																												  
