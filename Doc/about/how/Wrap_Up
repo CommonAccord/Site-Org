@@ -1,27 +1,25 @@
-We=:
-<p>=
-Learned=Learned nearly all of the rules of CommonAccord.
-<p>=
-Created=Created and signed a document.
-<p>=
-Used=Used mostly existing materials.
-<p>=
-Didn't=Did not create much new text
-<p>=
-Linked=Labeled and linked all of our materials.  So they are findable by us and anyone else in our organization (and any others whom we allow to "pull" a copy), such as P1 and P2.  
-<p>=
-Signed=The document was signed separately by the two parties, and (in the case of an actual use) would have the blockchain or git trace.
+Ti=Wrap-Up
 
-<p>=
-Next=Contact us, pull from github.com/CommonAccord/Org<br>contribute some legal text<br>tell us about a need<br>contact@commonaccord.org<br>follow us at @commonaccord. 		
-<p>=
-<p>=
-<p>=
-<p>=
-<p>=
+0.sec=In the course of this we:
+1.sec=Learned nearly all of the rules of CommonAccord.
+2.sec=Created and signed a document.
+3.sec=Used mostly existing materials.
+4.sec=Did not create much new text.
+5.sec=Labeled and linked all of our materials.  So they are findable by us and anyone else in our organization (and any others whom we allow to "pull" a copy), such as P1 and P2.  
+6.sec=The document was signed separately by the two parties, and (in the case of an actual use) would have the blockchain or git trace.
 
-sp-=<ol><li>
-sp=</li><li>
--sp=</li></ol>
+7.0.sec=Ways to participate:
 
-Model.Root={sp-}{Learned}{sp}{Created}{sp}{Used}{sp}{Didn't}{sp}{Linked}{sp}{Signed}{sp}{Next}{-sp}
+7.1.sec=Contact us: contact@commonaccord.org
+
+7.2.sec=Fork - pull from github.com/CommonAccord/Org
+
+7.3.sec=Contribute some legal text
+
+7.4.sec=Tell us about a need
+
+7.5.sec=Follow us at @commonaccord 		
+
+7.=[02/Bit/Ssec_05]
+
+=[02/Bit/Ssec_07]
