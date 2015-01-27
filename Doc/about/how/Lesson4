@@ -13,5 +13,8 @@ fontmark1=red
 <p>=
 <p>=
 
+MessageToReader={Commentary}{ToNextPage}
+
+Commentary=Adding some party info.
 
 NextPage=Lesson5

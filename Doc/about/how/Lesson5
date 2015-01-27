@@ -1,9 +1,3 @@
-Since=we did such good work in about/how/Lesson4 that we will now reference and build on it.
-
-<p>=
-<p>=
-
-
 =[about/how/Lesson4]
 
 AGT.Effective.YMD=September 4, 2014
@@ -12,8 +6,6 @@ Prologue.Recital=<span style="color:{fontmark2}">{P1.Handle} and {P2.Handle} wis
 
 fontmark2=magenta
 
-<p>=
-<p>=
 
 The=whole system is
 
@@ -22,5 +14,7 @@ The=whole system is
 = and
  =[listname]
  =expands into the key/values of the referenced list. 
+
+Commentary=Adding an actual engagement.
 
 NextPage=Lesson6

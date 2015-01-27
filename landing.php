@@ -30,9 +30,10 @@ include("header.php");
     <div class="col-sm-4" id="info-more">
 <ul><li>contract text "wrapper" for smart contracts<li>a world without paperwork<li>crowd-sourced legal compliance<li>codified contract documents<li>git for law<li>law "commons" for direct digital democracy<li>semantic web<li>dessert topping</ol>
 
-        <h4 class="subtitle">Explore <a href=<?=$_SERVER['PHP_SELF']?>?action=explore>the template system.</a></h4>
-        <h4 class="subtitle">Learn <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=/about/how/>how it works</a>.</h4>
-        <h4 class="subtitle">Browse <a href="https://github.com/CommonAccord/commonaccord/tree/master/Doc">the Github repo</a>.</h4>
+        <h4 class="subtitle"><a href="<?=$_SERVER['PHP_SELF']?>?action=demo">Examples</a></h4>
+        <h4 class="subtitle"><a href=<?=$_SERVER['PHP_SELF']?>?action=explore>An object-model for Law</a></h4>
+        <h4 class="subtitle"><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=/about/how/>Cmacc - how it works</a></h4>
+        <h4 class="subtitle"><a href="https://github.com/CommonAccord/commonaccord/tree/master/Doc">the GitHub repo</a></h4>
 
                         <br/><a href="#more"><img src="assets/more.png" height=75></a>
 

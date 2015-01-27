@@ -11,11 +11,12 @@ h=hello
 
 
 
-ToNextPage=<br><br><br><b><u><a href="{BaseURL}{NextPage}">Go To {NextPage}</a></u></b>
+ToNextPage=<br><br><br><b><u><a href="http://{BaseURL}{NextPage}">Go To {NextPage}</a></u></b>
 <p>= 
 
-BaseURL=http://commonaccord/index.php?action=source&file=/about/how/
+BaseURL=hazardj.local/commonaccord/index.php?action=source&file=/about/how/
+
+
+BaseURL=commonaccord.org/index.php?action=source&file=/about/how/
 
 NextPage=Lesson2
-
-Lesson 2=[about/how/Lesson2]
