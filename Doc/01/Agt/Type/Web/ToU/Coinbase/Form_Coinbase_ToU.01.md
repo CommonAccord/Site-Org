@@ -1,25 +1,25 @@
-Ti=Coinbase User Agreement</h1>
+Ti=Coinbase User Agreement
 
 This User Agreement (&quot;Agreement&quot;) is a contract between you (&quot;you,&quot; &quot;your&quot; or &quot;user&quot;) and Coinbase, Inc., a Delaware Corporation (&quot;Coinbase,&quot; &quot;we&quot;, &quot;us&quot; or &quot;our&quot;) and applies to your use of the Coinbase website and all services described herein (collectively, the &quot;Coinbase Services&quot;).
 
 <em>Last updated: January 26, 2015</em>
 
-Part 1: General Use.</h1>
+Part 1: General Use
 
-By signing up to use the Coinbase Account through the Coinbase website located at coinbase.com, the Coinbase API, and/or any associated Coinbase-hosted websites or mobile applications (collectively the &quot;Coinbase Site&quot;), you agree to comply with and be legally bound by this Agreement, as revised from time to time. <strong>If you do not agree to any of the terms set forth in this Agreement, or any subsequent modification to the Agreement, you may not access or use any of the Coinbase Services and must cancel your Coinbase Account, free of charge, in the manner set forth below. You further agree that any disputes between you and Coinbase will be resolved by binding, individual arbitration and you waive your right to participate in a class action lawsuit or class-wide arbitration.</strong>
+By signing up to use the Coinbase Account through the Coinbase website located at coinbase.com, the Coinbase API, and/or any associated Coinbase-hosted websites or mobile applications (collectively the &quot;Coinbase Site&quot;), you agree to comply with and be legally bound by this Agreement, as revised from time to time. <strong>If you do not agree to any of the terms set forth in this Agreement, or any subsequent modification to the Agreement, you may not access or use any of the Coinbase Services and must cancel your Coinbase Account, free of charge, in the manner set forth below. You further agree that any disputes between you and Coinbase will be resolved by binding, individual arbitration and you waive your right to participate in a class action lawsuit or class-wide arbitration.
 
 We may amend or modify this Agreement by posting on the Coinbase Site or emailing to you the revised Agreement, and the revised Agreement shall be effective at such time. We may (a) modify or discontinue any portion of the Coinbase Services, and (b) suspend or terminate your access to the Coinbase Services, at any time, and from time to time, without notice to you in certain, limited circumstances described herein. You agree that we shall not be liable to you or any third party for any modification or termination of the Coinbase Services, or suspension or termination of your access to the Coinbase Services, except to the extent otherwise expressly set forth herein.
 
 To be eligible to use the Coinbase Services, you must be at least 18 years old (or the applicable age of majority and contractual capacity). By accessing or using the Coinbase Services you represent and warrant that you are 18 or older.
 
-Please note the following risks of using Coinbase Services:</strong>
+Please note the following risks of using Coinbase Services:
 
 <ul>
 <li>Once submitted to the Bitcoin network, a Bitcoin Transaction (defined below) will be unconfirmed for a period of time (usually less than one hour, but up to one day or more) pending sufficient confirmation of the transaction by the Bitcoin network. A transaction is not complete while it is in a pending state. Bitcoin associated with transactions that are in a pending state will be designated accordingly, and will not be included in your Coinbase Account balance or be available to conduct transactions.</li>
 <li>The risk of loss in trading or holding bitcoin can be substantial. You should therefore carefully consider whether trading or holding bitcoin is suitable for you in light of your financial condition. In considering whether to trade or hold bitcoin, you should be aware that the price or value of bitcoin can change rapidly, decrease, and potentially even fall to zero. If you use a Coinbase product which allows you and/or third parties to access and hold bitcoin private keys, you acknowledge that Coinbase is not responsible for safeguarding such keys and that Coinbase is not responsible for any loss of bitcoin resulting from theft, loss, or mishandling of bitcoin private keys outside its control.</li>
 </ul>
 
-1. Basic Coinbase Services
+1.Ti=Basic Coinbase Services
 
 Your Coinbase account (&quot;Coinbase Account&quot;) encompasses the following basic Coinbase Services, among others:
 
@@ -31,33 +31,33 @@ Your Coinbase account (&quot;Coinbase Account&quot;) encompasses the following b
 
 Each of these Coinbase Services is described in detail below.
 
-2. Creating a Coinbase Account
+2.Ti=Creating a Coinbase Account
 
-2.1. Registration of Coinbase Account
+2.1.Ti=Registration of Coinbase Account
 
 .sec=In order to use any of the Coinbase Services, you must first register by providing your name, an e-mail address, password, and affirming your acceptance of this Agreement. Upon successful completion of the registration process, Coinbase will establish your Coinbase Account. Coinbase may, in our sole discretion, refuse to allow you to establish a Coinbase Account, or limit the number of Coinbase Accounts that a single user may establish and maintain at any time.
 
-2.2. Identity Verification
+2.2.Ti=Identity Verification
 
-.sec=In order to use certain features of the Coinbase Services, including certain transfers of bitcoin and/or currency, you may be required to provide Coinbase with certain personal information, including, but not limited to, your name, address, telephone number, e-mail address, date of birth, taxpayer identification number, government identification number, and information regarding your bank account (e.g., financial institution, account type, routing number, and account number). Coinbase may also require you to answer certain questions or take actions in order to verify your identity, provide the Coinbase Services to you, or comply with applicable law. In submitting this or any other personal information as may be required, you verify that the information is accurate and authentic, and you agree to update Coinbase if any information changes. <strong>You hereby authorize Coinbase to, directly or through third parties make any inquiries we consider necessary to verify your identity and/or protect against fraud, including to query identity information contained in public reports (e.g., your name, address, past addresses, or date of birth), to query account information associated with your linked bank account (e.g., name or account balance), and to take action we reasonably deem necessary based on the results of such inquiries and reports. You further authorize any and all third parties to which such inquiries or requests may be directed to fully respond to such inquiries or requests.</strong>
+.sec=In order to use certain features of the Coinbase Services, including certain transfers of bitcoin and/or currency, you may be required to provide Coinbase with certain personal information, including, but not limited to, your name, address, telephone number, e-mail address, date of birth, taxpayer identification number, government identification number, and information regarding your bank account (e.g., financial institution, account type, routing number, and account number). Coinbase may also require you to answer certain questions or take actions in order to verify your identity, provide the Coinbase Services to you, or comply with applicable law. In submitting this or any other personal information as may be required, you verify that the information is accurate and authentic, and you agree to update Coinbase if any information changes. <strong>You hereby authorize Coinbase to, directly or through third parties make any inquiries we consider necessary to verify your identity and/or protect against fraud, including to query identity information contained in public reports (e.g., your name, address, past addresses, or date of birth), to query account information associated with your linked bank account (e.g., name or account balance), and to take action we reasonably deem necessary based on the results of such inquiries and reports. You further authorize any and all third parties to which such inquiries or requests may be directed to fully respond to such inquiries or requests.
 
-3. Bitcoin Wallet
+3.Ti=Bitcoin Wallet
 
-<h3 id="toc_5">3.1. Sending and Receiving Bitcoin.</h3>
+3.1.Ti=Sending and Receiving Bitcoin.</h3>
 
-3.1.1.</strong> As part of the services offered in connection with your Coinbase Account, Coinbase can help you send bitcoin to, and request and receive bitcoin from, third parties pursuant to instructions you provide through the Coinbase Site (each such transaction is a &quot;Bitcoin Transaction&quot;). You may initiate a Bitcoin Transaction by going to the Coinbase Site, choosing to send or request, and entering the requisite information regarding the sender or recipient and the amount of bitcoin to be transferred. Coinbase will then communicate with the Bitcoin network on your behalf, as necessary, to facilitate each Bitcoin Transaction in accordance with these instructions.
+3.1.1.sec=As part of the services offered in connection with your Coinbase Account, Coinbase can help you send bitcoin to, and request and receive bitcoin from, third parties pursuant to instructions you provide through the Coinbase Site (each such transaction is a &quot;Bitcoin Transaction&quot;). You may initiate a Bitcoin Transaction by going to the Coinbase Site, choosing to send or request, and entering the requisite information regarding the sender or recipient and the amount of bitcoin to be transferred. Coinbase will then communicate with the Bitcoin network on your behalf, as necessary, to facilitate each Bitcoin Transaction in accordance with these instructions.
 
-3.1.2. Coinbase reserves the right to refuse to process or to cancel any pending Bitcoin Transaction as required by law or in response to a subpoena, court order, or other binding government order. Coinbase cannot reverse a Bitcoin Transaction which has been communicated to and confirmed by the Bitcoin network.</strong>
+3.1.2. Coinbase reserves the right to refuse to process or to cancel any pending Bitcoin Transaction as required by law or in response to a subpoena, court order, or other binding government order. Coinbase cannot reverse a Bitcoin Transaction which has been communicated to and confirmed by the Bitcoin network.
 
-3.1.3.</strong> Coinbase processes Bitcoin Transactions according to the instructions received from its users and we do not guarantee the identity of any user, receiver, requestee or other party. You should verify all transaction information prior to submitting instructions to Coinbase as the relevant Bitcoin Transaction may not be cancelled or reversed once initiated.
+3.1.3.sec=Coinbase processes Bitcoin Transactions according to the instructions received from its users and we do not guarantee the identity of any user, receiver, requestee or other party. You should verify all transaction information prior to submitting instructions to Coinbase as the relevant Bitcoin Transaction may not be cancelled or reversed once initiated.
 
-3.1.4.</strong> If you initiate a Bitcoin Transaction by entering the recipient&#39;s bitcoin address, Coinbase will confirm that the bitcoin address is valid; however, Coinbase cannot confirm that the bitcoin address belongs to the intended recipient. In the event you initiate a Bitcoin Transaction by entering the recipient&#39;s email address and the recipient does not have an existing Coinbase Account, Coinbase will email the recipient and invite them to open a Coinbase Account. If the designated recipient does not open a Coinbase Account within 30 days, Coinbase will return the bitcoin associated with the transaction to your Coinbase Account.
+3.1.4.sec=If you initiate a Bitcoin Transaction by entering the recipient&#39;s bitcoin address, Coinbase will confirm that the bitcoin address is valid; however, Coinbase cannot confirm that the bitcoin address belongs to the intended recipient. In the event you initiate a Bitcoin Transaction by entering the recipient&#39;s email address and the recipient does not have an existing Coinbase Account, Coinbase will email the recipient and invite them to open a Coinbase Account. If the designated recipient does not open a Coinbase Account within 30 days, Coinbase will return the bitcoin associated with the transaction to your Coinbase Account.
 
 3.2 Bitcoin Storage &amp; Transmission Delays
 
 .sec=Coinbase securely stores 100% of all bitcoin private keys in our control in a combination of online and offline storage. As a result, it may be necessary for Coinbase to retrieve this information from offline storage in order to facilitate a Bitcoin Transaction in accordance with your instructions, which may delay the initiation or crediting of such Bitcoin Transaction for 48 hours or more. As a user of the Coinbase Services, you accept the risk that a Bitcoin Transaction facilitated by Coinbase may be delayed and you agree not to hold Coinbase responsible for any damages or injury arising out of or related to such delay.
 
-<h3 id="toc_6">3.3. Your Bitcoin Transactions.</h3>
+3.3. Your Bitcoin Transactions.</h3>
 
 3.3.1 Third Party Transactions
 
@@ -113,13 +113,13 @@ An advanced Coinbase Vault allows users the option to view, control, and distrib
 
 ### 4.6. Payments.
 
-4.6.1.</strong> You agree to deliver payment for any bitcoin purchase made through the Conversion Service upon confirmation of an order, regardless of changes in the applicable Buy Price Conversion Rate prior to completion of the purchase transaction, with such payment to be made in good funds in the amount calculated in the manner specified herein.
+4.6.1.sec=You agree to deliver payment for any bitcoin purchase made through the Conversion Service upon confirmation of an order, regardless of changes in the applicable Buy Price Conversion Rate prior to completion of the purchase transaction, with such payment to be made in good funds in the amount calculated in the manner specified herein.
 
-4.6.2.</strong> If there are insufficient funds from your linked primary payment method to cover the purchase price of any bitcoin order or any other amounts owed by you to us hereunder, you hereby authorize us to debit any of your payment methods which have been linked to your Coinbase Account for the full or partial amount of your purchase and any other amounts owed by you to us hereunder. We may resubmit debits or charges to your payment methods until all amounts owed by you to us hereunder are satisfied in full. You are responsible for maintaining an adequate balance in each of your accounts and sufficient credit limits on your credit cards in order to avoid any overdraft, NSF or similar fees. To secure the performance of your obligations under this Agreement, you grant to Coinbase a security interest in any and all of your funds or other property which come into the possession of Coinbase and the bitcoin associated with your Coinbase Account. You will execute, deliver, and pay the fees for any documents we request to create, perfect, maintain and enforce this security interest.
+4.6.2.sec=If there are insufficient funds from your linked primary payment method to cover the purchase price of any bitcoin order or any other amounts owed by you to us hereunder, you hereby authorize us to debit any of your payment methods which have been linked to your Coinbase Account for the full or partial amount of your purchase and any other amounts owed by you to us hereunder. We may resubmit debits or charges to your payment methods until all amounts owed by you to us hereunder are satisfied in full. You are responsible for maintaining an adequate balance in each of your accounts and sufficient credit limits on your credit cards in order to avoid any overdraft, NSF or similar fees. To secure the performance of your obligations under this Agreement, you grant to Coinbase a security interest in any and all of your funds or other property which come into the possession of Coinbase and the bitcoin associated with your Coinbase Account. You will execute, deliver, and pay the fees for any documents we request to create, perfect, maintain and enforce this security interest.
 
-4.6.3.</strong> We may deduct any bitcoin held by you in a Bitcoin Wallet if a payment for a purchase of bitcoin using a bank account or credit card is subsequently reversed, for example, if such a payment is subject to a chargeback, reversal, claim or is otherwise invalidated. We may also deduct bitcoin held by you in a Bitcoin Wallet in satisfaction of any outstanding amount owed by you to Coinbase under this Agreement.
+4.6.3.sec=We may deduct any bitcoin held by you in a Bitcoin Wallet if a payment for a purchase of bitcoin using a bank account or credit card is subsequently reversed, for example, if such a payment is subject to a chargeback, reversal, claim or is otherwise invalidated. We may also deduct bitcoin held by you in a Bitcoin Wallet in satisfaction of any outstanding amount owed by you to Coinbase under this Agreement.
 
-4.6.4.</strong>  <strong>Coinbase reserves the right to refuse to process, or to cancel or reverse, any purchases or sales of bitcoin in its sole discretion, including but not limited to instances where Coinbase suspects the transaction involves (or has a high risk of involvement in) money laundering, terrorist financing, fraud, or any other type of financial crime, in response to a subpoena, court order, or other government order, or if Coinbase suspects the transaction relates to Prohibited Use or a Prohibited Business as set forth below.</strong>
+4.6.4.sec=Coinbase reserves the right to refuse to process, or to cancel or reverse, any purchases or sales of bitcoin in its sole discretion, including but not limited to instances where Coinbase suspects the transaction involves (or has a high risk of involvement in) money laundering, terrorist financing, fraud, or any other type of financial crime, in response to a subpoena, court order, or other government order, or if Coinbase suspects the transaction relates to Prohibited Use or a Prohibited Business as set forth below.
 
 5. USD Wallet
 
@@ -141,7 +141,7 @@ An advanced Coinbase Vault allows users the option to view, control, and distrib
 
 6. General Use, Prohibited Use, and Termination
 
-<h3 id="toc_10">6.1. General Use.</h3>
+6.1. General Use.</h3>
 
 6.1.1 Limited License
 
@@ -155,7 +155,7 @@ An advanced Coinbase Vault allows users the option to view, control, and distrib
 
 .sec=From time to time, the Coinbase Site may contain references or links to third-party materials (including without limitation websites) and third-party applications which are not controlled by us. Such information, links, and third-party applications are provided as a convenience to you. Such links should not be considered endorsements and such reference does not imply our recommendation, approval, affiliation, or sponsorship of that respective property, product, service, or process. You acknowledge and agree that we are not responsible for any aspect of the information, content, or services contained in any third-party materials or on any third party sites accessible or linked to the Coinbase Site, including without limitation content, property, goods or services available on the linked sites or services.
 
-6.1.4</strong><strong>. Third-Party Applications
+6.1.4<strong>. Third-Party Applications
 
 .sec=If, to the extent permitted by Coinbase from time to time, you grant express permission to a third party to access or connect to your Coinbase Account, either through the third party&#39;s product or service or through the Coinbase Site, you acknowledge that granting permission to a third party to take specific actions on your behalf does not relieve you of any of your responsibilities under this Agreement. You are fully responsible for all acts or omissions of any third party using your Coinbase Account credentials. Further, you acknowledge and agree that you will not hold Coinbase responsible for, and will indemnify Coinbase from, any liability arising out of or related to any act or omission of any third party using your Coinbase Account credentials. You may change or remove permissions granted by you to third parties with respect to your Coinbase Account at any time through the Account Settings (Integrations) page on the Coinbase Site.
 
@@ -205,13 +205,13 @@ You will not be charged for canceling your Coinbase Account and will only be req
 
 .sec=Protecting your privacy is very important to Coinbase. Please review our <a href="https://www.coinbase.com/legal/privacy">Privacy Policy</a>, which is hereby incorporated by reference into this Agreement, in order to better understand our commitment to maintaining your privacy, as well as our use and disclosure of your information.
 
-7.4. Privacy of Others;</strong> Marketing. If you receive information about another user through the Coinbase Services, you must keep the information confidential and only use it in connection with the Coinbase Services. You may not disclose or distribute a user&#39;s information to a third party or use the information except as reasonably necessary to effectuate a transaction and other functions reasonably incidental thereto such as support, reconciliation and accounting unless you receive the user&#39;s express consent to do so. You may not send unsolicited email to a user through the Coinbase Services.
+7.4. Privacy of Others; Marketing. If you receive information about another user through the Coinbase Services, you must keep the information confidential and only use it in connection with the Coinbase Services. You may not disclose or distribute a user&#39;s information to a third party or use the information except as reasonably necessary to effectuate a transaction and other functions reasonably incidental thereto such as support, reconciliation and accounting unless you receive the user&#39;s express consent to do so. You may not send unsolicited email to a user through the Coinbase Services.
 
 7.5. Password Security and Keeping Your Contact Information Current
 
 .sec=You are responsible for maintaining adequate security and control of any and all IDs, passwords, hints, personal identification numbers (PINs), API keys or any other codes that you use to access the Coinbase Services. Any loss or compromise of the foregoing information and/or your personal information may result in unauthorized access to your Coinbase Account by third-parties and the loss or theft of any bitcoin and/or funds held in your Coinbase Account and any associated accounts, including your linked bank account(s) and credit card(s). You are responsible for keeping your email address and telephone number up to date in your Account Profile in order to receive any notices or alerts that we may send you. We assume no responsibility for any loss that you may sustain due to compromise of your sensitive information or failure to follow or act on any notices or alerts that we may send to you. In the event you believe your Coinbase Account information has been compromised, contact Coinbase Support immediately at <a href="mailto:support@coinbase.com">support@coinbase.com</a>.
 
-7.6. Consent to Electronic Records. By using the Coinbase Services, you agree that Coinbase may provide you with any notices or other communications about your Coinbase Account and the Coinbase Services electronically: (a) via email (in each case to the address that you provide), SMS message, or telephone call (in each case to the phone number that you provide), or (b) by posting to the Coinbase Site. For notices made by email, the date of receipt will be deemed the date on which such notice is transmitted. If you do not wish to receive notices or other communications electronically, we will be unable to support your Coinbase Account and your Coinbase Account will be cancelled.</strong>
+7.6. Consent to Electronic Records. By using the Coinbase Services, you agree that Coinbase may provide you with any notices or other communications about your Coinbase Account and the Coinbase Services electronically: (a) via email (in each case to the address that you provide), SMS message, or telephone call (in each case to the phone number that you provide), or (b) by posting to the Coinbase Site. For notices made by email, the date of receipt will be deemed the date on which such notice is transmitted. If you do not wish to receive notices or other communications electronically, we will be unable to support your Coinbase Account and your Coinbase Account will be cancelled.
 
 7.7. Notices to Coinbase
 
@@ -225,7 +225,7 @@ You will not be charged for canceling your Coinbase Account and will only be req
 
 8.2. Arbitration; Waiver of Class Action
 
-.sec=If you have a dispute with Coinbase, we will attempt to resolve any such disputes through our support team. <strong>If we cannot resolve the dispute through our support team, you and we agree that any dispute arising under this Agreement shall be finally settled in arbitration, on an individual basis in accordance with the American Arbitration Association&#39;s rules for arbitration of consumer-related disputes and you and Coinbase hereby expressly waive trial by jury</strong>. The arbitration shall take place in San Francisco, California, in the English language and the arbitral decision may be enforced in any court. At your request, hearings may be conducted in person or by telephone and the arbitrator may provide for submitting and determining motions on briefs, without oral hearings. The prevailing party in any action or proceeding to enforce this agreement shall be entitled to costs and attorneys&#39; fees. Additionally, you hereby waive your right to participate in a class action lawsuit or class-wide arbitration.
+.sec=If you have a dispute with Coinbase, we will attempt to resolve any such disputes through our support team. <strong>If we cannot resolve the dispute through our support team, you and we agree that any dispute arising under this Agreement shall be finally settled in arbitration, on an individual basis in accordance with the American Arbitration Association&#39;s rules for arbitration of consumer-related disputes and you and Coinbase hereby expressly waive trial by jury. The arbitration shall take place in San Francisco, California, in the English language and the arbitral decision may be enforced in any court. At your request, hearings may be conducted in person or by telephone and the arbitrator may provide for submitting and determining motions on briefs, without oral hearings. The prevailing party in any action or proceeding to enforce this agreement shall be entitled to costs and attorneys&#39; fees. Additionally, you hereby waive your right to participate in a class action lawsuit or class-wide arbitration.
 
 8.3. Time Limitation on Claims
 
@@ -299,7 +299,7 @@ You will not be charged for canceling your Coinbase Account and will only be req
 
 <hr>
 
-<h1 id="toc_14">Appendix 1: Prohibited Businesses and Prohibited Use</h1>
+Appendix 1: Prohibited Businesses and Prohibited Use
 
 The following categories of businesses, business practices, and sale items are barred from Coinbase Services (&quot;Prohibited Businesses&quot;). By opening a Coinbase Account, you confirm that you will not use Coinbase Services to accept payments in connection with the following businesses, activities, practices, or items:
 
@@ -343,7 +343,7 @@ You may not use your Coinbase Account to engage in the following categories of a
 
 <hr>
 
-<h1 id="toc_15">Appendix 2: Verification Procedures and Limits</h1>
+Appendix 2: Verification Procedures and Limits
 
 Coinbase uses a multi-level system of verifications to protect itself and the community from fraudulent users. Your Conversion, Trading, and Instant Buy limits are based on your verification level.
 
@@ -399,7 +399,7 @@ You may contact <a href="mailto:support@coinbase.com">support@coinbase.com</a> t
 
 <hr>
 
-<h1 id="toc_16">Part 2. Additional Terms for Merchants</h1>
+Part 2. Additional Terms for Merchants
 
 1. Merchant Services
 
@@ -477,7 +477,7 @@ You may contact <a href="mailto:support@coinbase.com">support@coinbase.com</a> t
 
 .sec=Notwithstanding any other provision of this Agreement, any translation of this Agreement is provided for the Merchant&#39;s convenience. The meanings of terms, conditions, and representations herein are subject to definitions and interpretations in the English language. Any translation provided may not accurately represent the information in the original English.
 
-<h1 id="toc_20">Part 3. Coinbase Exchange</h1>
+Part 3. Coinbase Exchange
 
 1. Trading Accounts
 
