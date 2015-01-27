@@ -10,6 +10,7 @@ AGT.Doc.Body={AGT.Prologue}{AGT.Secs._Lost}{AGT.Sign}<br>{AGT.Attach}
 
 AGT.Secs._Lost=<ol><li>{AGT._Secs}</li></ol>
 
+AGT._Secs={Secs}
 
 AGT.Prologue=<div><center>{Prologue.Heading}</center></div>	<p><br>{Prologue.Intro}</p>
 
@@ -52,5 +53,3 @@ Note=for lists of sentences
 
 _delete!_=&#8194;
 EOF
-	
-        

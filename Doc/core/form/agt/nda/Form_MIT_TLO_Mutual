@@ -32,9 +32,9 @@ Prologue.ThisAgreement={MIT.Prologue.ThisAgreement._Sen}
 
 MIT.Prologue.ThisAgreement._Sen={MIT.Prologue.ThisAgreement._Cl}, in anticipation of {Purpose._cl}.
 
-MIT.Prologue.ThisAgreement._Cl=This Agreement is made effective as of {AGT.Effective.YMD} (the &ldquo;Effective Date”) between {P2.N,E,A} (&ldquo;{P2.Defined}”), and {P1.N,E,A} ("{P1.Defined}”)
+MIT.Prologue.ThisAgreement._Cl=This Agreement is made effective as of {AGT.Effective.YMD} (the “Effective Date”) between {P2.N,E,A} (“{P2.Defined}”), and {P1.N,E,A} ("{P1.Defined}”)
 
-Purpose._cl={Purpose.Roles} for the purpose of evaluating technology licensing opportunities {relating to} {Deal.#} (the &ldquo;Purpose”)
+Purpose._cl={Purpose.Roles} for the purpose of evaluating technology licensing opportunities {relating to} {Deal.#} (the “Purpose”)
 
 Prologue.Recital={Contact._Sen}
 
@@ -46,7 +46,7 @@ P2.Contact.Block=For {P2.Handle}:<br><br>{P2.Contact1.N/A/T/E/F}<br><br>{P2.Cont
 
 Prologue.NowTherefore=In consideration of {Therefore.Roles}, the parties hereby agree as follows:
 
-AGT._Secs={Conf._Sec}</li><li>{Use._Sec}</li><li>{Care._Sec}</li><li>{Compelled._Sec}</li><li>{Disclaim.Warranty._Sec}</li><li>{Term._Sec}</li><li>{Remedy.Conf.Return._Sec}</li><li>{Notice._Sec}</li><li>{Misc._Sec}
+Secs={Conf._Sec}</li><li>{Use._Sec}</li><li>{Care._Sec}</li><li>{Compelled._Sec}</li><li>{Disclaim.Warranty._Sec}</li><li>{Term._Sec}</li><li>{Remedy.Conf.Return._Sec}</li><li>{Notice._Sec}</li><li>{Misc._Sec}
 
 Conf._Sec=<u>{Conf.Title}</u>.  {Conf._sec}
 
@@ -56,7 +56,7 @@ Conf.Title=Confidential Information
 
 Conf._sec={Conf.Defined._Cl} that {Conf.Impart.List}.   {Conf.Except._Sen}   {CC.Students._Sen}
 
-Conf.Defined._Cl=When used in this Agreement, the term &ldquo;Confidential Information” means confidential and proprietary information disclosed by {Conf.Roles}
+Conf.Defined._Cl=When used in this Agreement, the term “Confidential Information” means confidential and proprietary information disclosed by {Conf.Roles}
 
 Conf.Impart.List=(i) {Conf.Impart.Marked}, (ii) {Conf.Impart.SubjectMatter}; or (iii) {Conf.Impart.LiveConfirmed}
 
@@ -130,7 +130,7 @@ Disclaim.Warranty._Sec=<u>{Disclaim.Warranty.Title}</u>.  {Disclaim.Warranty._se
 
 Disclaim.Warranty.Title=No Warranty
 
-Disclaim.Warranty._sec=All Confidential Information is provided &ldquo;as is.”  {DP.NeitherMakes} any warranties, expressed or implied, regarding its Confidential Information’s accuracy, completeness, suitability{q} or performance.
+Disclaim.Warranty._sec=All Confidential Information is provided “as is.”  {DP.NeitherMakes} any warranties, expressed or implied, regarding its Confidential Information’s accuracy, completeness, suitability{q} or performance.
 
 Term._Sec=<u>{Term.Title}</u>.  {Term._sec}
 
@@ -238,7 +238,7 @@ DP.Each=Each party
 
 DP.each=each party
 
-DP.Defined=one party (&ldquo;Disclosing Party”)
+DP.Defined=one party (“Disclosing Party”)
 
 <b>Unneeded inconsistency</b="the other party" vs "the other"
 
@@ -246,12 +246,10 @@ RP.theOther=the other party
 
 RP.other=the other
 
-RP.Defined=the other (&ldquo;Receiving Party”)
+RP.Defined=the other (“Receiving Party”)
 
 parties=parties
 
 party=party
 
 relating to=relating to
-
-													

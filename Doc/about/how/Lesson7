@@ -1,7 +1,3 @@
-But=We want a One Way NDA.  So let's bring in a list of differences.
-<p>=
-<p>=
-
 =[core/form/agt/nda/Delta_MIT_TLO_Outbound_Marked]
 
 =[about/how/Lesson6]
@@ -10,11 +6,15 @@ P1.Handle=Disclosing Party
 
 P2.Handle=Receiving Party
 
-<p>=
-<p>=
 
 
 fontmark=blue
 
-<p>=
-On to=[about/how/Lesson8]
+
+
+
+MessageToReader={Commentary}{ToNextPage}
+
+Commentary=We want a One Way NDA.  So let's bring in a list of differences.
+
+NextPage=Lesson8

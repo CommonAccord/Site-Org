@@ -1,6 +1,3 @@
-To finish=P1 signs.
-
-
 =[about/how/Signature_P1]
 
 P2.xSignature= x C Kendall
@@ -9,4 +6,6 @@ P2.Sign.YMD=September 6, 2014
 
 <p>=
 <p>=
-Next=[about/how/Wrap_Up]				
+Commentary=P2 signs
+
+NextPage=Wrap_Up

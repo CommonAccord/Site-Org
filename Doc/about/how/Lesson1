@@ -1,4 +1,6 @@
-Model.Root={hw}
+Model.Root={MyText}{ToNextPage}
+
+MyText={hw}
 
 hw={h} {w}
 
@@ -7,5 +9,13 @@ w=world
 h=hello
 
 
+
+
+ToNextPage=<br><br><br><b><u><a href="{BaseURL}{NextPage}">Go To {NextPage}</a></u></b>
 <p>= 
+
+BaseURL=http://commonaccord/index.php?action=source&file=/about/how/
+
+NextPage=Lesson2
+
 Lesson 2=[about/how/Lesson2]

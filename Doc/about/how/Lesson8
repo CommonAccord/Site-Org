@@ -1,8 +1,3 @@
-So=let's add parties.  But we should reference them.  That obviously saves time and reduces errors, but even more importantly, it means that we are connecting this use with that person. So if ever we want to know the history of that person, we can just look for things that link to them.  (By search.)
-
-So:=
-
-
 =[about/how/Lesson7]
 
 
@@ -19,4 +14,6 @@ fontmark=red
 fontmark1={fontmark}
 fontmark2={fontmark}
 
-Next=[about/how/Signature_P1]														
+Commentary=Adding parties.  But we should reference them instead of typing or pasting.  That obviously saves time and reduces errors, but even more importantly, it means that we are connecting this use with that person. So if ever we want to know the history of that person, we can just look for things that link to them.  (By search.)
+
+NextPage=Signature_P1

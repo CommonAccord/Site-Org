@@ -14,17 +14,12 @@ include("header.php");
 	 <p align="center"><img src="assets/cmacc-trans.png" style="width:65%" /></p>
 <br/>
 <hr>
-  <h1 class="title">CommonAccord is 2/3 of:<br>the simplest possible programming language;<br>codified contract documents;<br>a dessert topping.</h1>
+  <h1 class="title">CommonAccord is legal text organized like software code.</h1>
 <hr>
-<h3 class="title">We are lawyers and programmers working together<br/> to create a global template system of codified legal texts.</h4>
+  <h3 class="title">Lawyers and programmers working together<br/> to create a global template system of codified legal texts.</h4>
 <br/><br/>
 
-<!--
-                        <div id="code" class="jtitle">
-                         We are <b>{</b>Bringing<b>}</b> legal relationships into the personal data store.<br/>
-                        <b>Bringing</b> = Codifying legal documents to bring
-                        </div>
-!-->
+
 </div></div>
 <div class="row">
 <div class="col-sm-4"></div>
@@ -33,6 +28,7 @@ include("header.php");
 </div>
 
     <div class="col-sm-4" id="info-more">
+<ul><li>a world without paperwork<li>crowd-sourced legal compliance<li>codified contract documents<li>git for law<li>law "commons" for direct digital democracy<li>semantic web<li>dessert topping</ol>
 
         <h4 class="subtitle">Explore <a href=<?=$_SERVER['PHP_SELF']?>?action=explore>the template system.</a></h4>
         <h4 class="subtitle">Learn <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=/about/how/>how it works</a>.</h4>

@@ -6,4 +6,6 @@
 <p>=
 <p>=
 
-Next=[about/how/Lesson7]
+MessageToReader={ToNextPage}
+
+NextPage=Lesson7

@@ -1,3 +1,5 @@
+=[about/how/Lesson3]
+
 =[core/class/AGT_Frame]
 
 AGT.Title=<font color="{fontmark1}">Non-Disclosure Agreement</font>
@@ -12,4 +14,4 @@ fontmark1=red
 <p>=
 
 
-<p>=[about/how/Lesson5]
+NextPage=Lesson5
