@@ -1,79 +1,82 @@
-Account=<font color="green">Account</font>
-Accounts=<font color="green">Accounts</font>
-Admin Console=<font color="green">Admin Console</font>
-Admin_Console=<font color="green">Admin Console</font>
-Affiliate=<font color="green">Affiliate</font>
-Affiliates=<font color="green">Affiliates</font>
-Agreement=<font color="green">Agreement</font>
-This Agreement=<font color="green">This Agreement</font>
-this Agreement=<font color="green">this Agreement</font>
-Allegation=<font color="green">Allegation</font>
-Allegations=<font color="green">Allegations</font>
-Application(s)=<font color="green">Application(s)</font>
-Application=<font color="green">Application</font>
-Applications=<font color="green">Applications</font>
-AUP=<font color="green">AUP</font>
-Brand_Features=<font color="green">Brand Features</font>
-Committed_Purchase(s)=<font color="green">Committed Purchase(s)</font>
-Committed_Purchases=<font color="green">Committed Purchases</font>
-Confidential_Information=<font color="green">Confidential Information</font>
-Control=<font color="green">Control</font>
-Controlled=<font color="green">Controlled</font>
-Controls=<font color="green">Controls</font>
-Data_Processing_and_Security_Terms=<font color="green">Data Processing and Security Terms</font>
-Deprecation_Policy=<font color="green">Deprecation Policy</font>
-Disclosing_Party=<font color="green">Disclosing Party</font>
-The_Disclosing_Party=<font color="green">The Disclosing Party</font>
-the_Disclosing_Party=<font color="green">the Disclosing Party</font>
-Documentation=<font color="green">Documentation</font>
-Effective_Date=<font color="green">Effective Date</font>
-Emergency_Security_Issue=<font color="green">Emergency Security Issue</font>
-Emergency_Security_Issues=<font color="green">Emergency Security Issues</font>
-End_User=<font color="green">End User</font>
-End_Users=<font color="green">End Users</font>
-Fee=<font color="green">Fee</font>
-Fee_Threshold=<font color="green">Fee Threshold</font>
-Fees=<font color="green">Fees</font>
-High Risk Activities=<font color="green">High Risk Activities</font>
-High_Risk_Activities=<font color="green">High Risk Activities</font>
-HIPAA=<font color="green">HIPAA</font>
-Indemnified_Liabilities=<font color="green">Indemnified Liabilities</font>
-Instance=<font color="green">Instance</font>
-Instances=<font color="green">Instances</font>
-Intellectual_Property_Rights=<font color="green">Intellectual Property Rights</font>
-Legal_Process=<font color="green">Legal Process</font>
-License_Term=<font color="green">License Term</font>
-P1_Brand_Feature=<font color="green">{P1.Handle} Brand Feature</font>
-P1_Brand_Features=<font color="green">{P1.Handle} Brand Features</font>
-P1_Platform_Services=<font color="green">{P1.Handle} Platform Services</font>
-P2_Data=<font color="green">{P2.Handle} Data</font>
-Package_Purchase=<font color="green">Package Purchase</font>
-Package_Purchases=<font color="green">Package Purchases</font>
-parties=<font color="green">parties</font>
-party=<font color="green">party</font>
-Project=<font color="green">Project</font>
-Projects=<font color="green">Projects</font>
-Reserved_Capacity_Units=<font color="green">Reserved Capacity Units</font>
-Reserved_Unit_Term=<font color="green">Reserved Unit Term</font>
-Reserved_Units=<font color="green">Reserved Units</font>
-Receiving_Party=<font color="green">Receiving Party</font>
-The_Receiving_Party=<font color="green">The Receiving Party</font>
-the_Receiving_Party=<font color="green">the Receiving Party</font>
-Service_Level_Agreement=<font color="green">Service Level Agreement</font>
-Service_Specific_Terms=<font color="green">Service Specific Terms</font>
-Services=<font color="green">Services</font>
-SLA=<font color="green">SLA</font>
-Software=<font color="green">Software</font>
-Taxes=<font color="green">Taxes</font>
-Term=<font color="green">Term</font>
-Terms_URL=<font color="green">Terms URL</font>
-Third-Party_Legal_Proceeding=<font color="green">Third-Party Legal Proceeding</font>
-Third-Party_Legal_Proceedings=<font color="green">Third-Party Legal Proceedings</font>
-Token=<font color="green">Token</font>
-Tokens=<font color="green">Tokens</font>
-Trademark_Guidelines=<font color="green">Trademark Guidelines</font>
-TSS=<font color="green">TSS</font>
-TSS_Fee=<font color="green">TSS Fee</font>
-TSS_Fees=<font color="green">TSS Fees</font>
-TSS_Guidelines=<font color="green">TSS Guidelines</font>
-Updates=<font color="green">Updates</font>
+Account={d-}Account{-d}
+Accounts={d-}Accounts{-d}
+Admin Console={d-}Admin Console{-d}
+Admin_Console={d-}Admin Console{-d}
+Affiliate={d-}Affiliate{-d}
+Affiliates={d-}Affiliates{-d}
+Agreement={d-}Agreement{-d}
+This Agreement={d-}This Agreement{-d}
+this Agreement={d-}this Agreement{-d}
+Allegation={d-}Allegation{-d}
+Allegations={d-}Allegations{-d}
+Application(s)={d-}Application(s){-d}
+Application={d-}Application{-d}
+Applications={d-}Applications{-d}
+AUP={d-}AUP{-d}
+Brand_Features={d-}Brand Features{-d}
+Committed_Purchase(s)={d-}Committed Purchase(s){-d}
+Committed_Purchases={d-}Committed Purchases{-d}
+Confidential_Information={d-}Confidential Information{-d}
+Control={d-}Control{-d}
+Controlled={d-}Controlled{-d}
+Controls={d-}Controls{-d}
+Data_Processing_and_Security_Terms={d-}Data Processing and Security Terms{-d}
+Deprecation_Policy={d-}Deprecation Policy{-d}
+Disclosing_Party={d-}Disclosing Party{-d}
+The_Disclosing_Party={d-}The Disclosing Party{-d}
+the_Disclosing_Party={d-}the Disclosing Party{-d}
+Documentation={d-}Documentation{-d}
+Effective_Date={d-}Effective Date{-d}
+Emergency_Security_Issue={d-}Emergency Security Issue{-d}
+Emergency_Security_Issues={d-}Emergency Security Issues{-d}
+End_User={d-}End User{-d}
+End_Users={d-}End Users{-d}
+Fee={d-}Fee{-d}
+Fee_Threshold={d-}Fee Threshold{-d}
+Fees={d-}Fees{-d}
+High Risk Activities={d-}High Risk Activities{-d}
+High_Risk_Activities={d-}High Risk Activities{-d}
+HIPAA={d-}HIPAA{-d}
+Indemnified_Liabilities={d-}Indemnified Liabilities{-d}
+Instance={d-}Instance{-d}
+Instances={d-}Instances{-d}
+Intellectual_Property_Rights={d-}Intellectual Property Rights{-d}
+Legal_Process={d-}Legal Process{-d}
+License_Term={d-}License Term{-d}
+P1_Brand_Feature={d-}{P1.Handle} Brand Feature{-d}
+P1_Brand_Features={d-}{P1.Handle} Brand Features{-d}
+P1_Platform_Services={d-}{P1.Handle} Platform Services{-d}
+P2_Data={d-}{P2.Handle} Data{-d}
+Package_Purchase={d-}Package Purchase{-d}
+Package_Purchases={d-}Package Purchases{-d}
+parties={d-}parties{-d}
+party={d-}party{-d}
+Project={d-}Project{-d}
+Projects={d-}Projects{-d}
+Reserved_Capacity_Units={d-}Reserved Capacity Units{-d}
+Reserved_Unit_Term={d-}Reserved Unit Term{-d}
+Reserved_Units={d-}Reserved Units{-d}
+Receiving_Party={d-}Receiving Party{-d}
+The_Receiving_Party={d-}The Receiving Party{-d}
+the_Receiving_Party={d-}the Receiving Party{-d}
+Service_Level_Agreement={d-}Service Level Agreement{-d}
+Service_Specific_Terms={d-}Service Specific Terms{-d}
+Services={d-}Services{-d}
+SLA={d-}SLA{-d}
+Software={d-}Software{-d}
+Taxes={d-}Taxes{-d}
+Term={d-}Term{-d}
+Terms_URL={d-}Terms URL{-d}
+Third-Party_Legal_Proceeding={d-}Third-Party Legal Proceeding{-d}
+Third-Party_Legal_Proceedings={d-}Third-Party Legal Proceedings{-d}
+Token={d-}Token{-d}
+Tokens={d-}Tokens{-d}
+Trademark_Guidelines={d-}Trademark Guidelines{-d}
+TSS={d-}TSS{-d}
+TSS_Fee={d-}TSS Fee{-d}
+TSS_Fees={d-}TSS Fees{-d}
+TSS_Guidelines={d-}TSS Guidelines{-d}
+Updates={d-}Updates{-d}
+
+PageName=01/Agt/Phrase/ToU/Library_DefinedTerms_T01_V01
+=[02/Sec/DT_Base.01.md]
