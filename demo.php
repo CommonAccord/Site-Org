@@ -21,6 +21,12 @@ include("header.php");
 </tr>
 
 <tr>
+<td><img src="https://d4hm2u4pioc0c.cloudfront.net/icons/png/o/blue_dark_grey/256x256/security_badge.png"height="50px"></td>
+<td><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=doc/escrow/>Escrow system</a></td>
+<td>An escrow can assure the buyer that the seller will actual perform: <br>
+Cmacc allows the dynamic generation of escrow contracts and follow up documents between multiple parties, relying on the template system.</td></tr>
+
+<tr>
 <td><img src="http://www.vermontsales.co.za/images/homepage/privacy_policy_icon.png" height="50px"></td>
 <td><a href=<?=$_SERVER['PHP_SELF']?>?action=source&file=./02/Demo/Acme_Privacy_Policy.md>Privacy policy</a></td>
 <td>Privacy policies are complex documents with lots of boilerplate, which makes it difficult for users to understand what rights they retain and what they are giving up.<br> The Cmacc datamodel allows for the collaborative creation of Privacy Policies that inherit from 'standards' making it possible for the community to come to agreement, companies to follow best practices and people to know their rights by tracking the 'diffs' (changes).
@@ -29,12 +35,6 @@ include("header.php");
 <td><img src="http://www.richierichardson.in/wp-content/uploads/2014/11/policies-icon.png" height="50px"></td>
 <td><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=01/Demo/>Terms of Use</a></td>
 <td>Terms of Use vary needlessly:<br> Cmacc's flexible data model allows us build simple Terms of Use by relying on libraries that can be combined and modified as needed.</td></tr>
-
-<tr>
-<td><img src="https://d4hm2u4pioc0c.cloudfront.net/icons/png/o/blue_dark_grey/256x256/security_badge.png"height="50px"></td>
-<td><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=doc/escrow/>Escrow system</a></td>
-<td>An escrow can assure the buyer that the seller will actual perform: <br>
-Cmacc allows the dynamic generation of escrow contracts and follow up documents between multiple parties, relying on the template system.</td></tr>
 
 <tr>
 <td><img src="http://mirrors.creativecommons.org/presskit/icons/cc.large.png" height="50px"></td>

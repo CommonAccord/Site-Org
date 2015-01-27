@@ -16,8 +16,11 @@ include("header.php");
 <hr>
   <h1 class="title">CommonAccord is legal text handled like software code.</h1>
 <hr>
-  <h3 class="title">Lawyers and programmers working together<br/> to create a global template system of codified legal texts.</h4>
+
+  <h3 class="title">Lawyers and programmers working together<br/> on a global template system of codified legal text.</h4>
 <br/><br/>
+$ enforce smartContract | cmacc | legalSystem <br>realImpact
+
 
 
 </div></div>
@@ -26,9 +29,9 @@ include("header.php");
 <div class="col-sm-4" id="code" align="center">
 <a href="<?=$_SERVER['PHP_SELF']?>?action=demo"><img  src="assets/learn.jpg"></a>
 </div>
-
     <div class="col-sm-4" id="info-more">
-<ul><li>contract text "wrapper" for smart contracts<li>a world without paperwork<li>crowd-sourced legal compliance<li>codified contract documents<li>git for law<li>law "commons" for direct digital democracy<li>semantic web<li>dessert topping</ol>
+
+  <ul><li>a world without paperwork<li>codified contract documents<li>crowd-sourced legal compliance<li>law "commons" for direct democracy<li>git for law<li>semantic web<li>dessert topping</ul>
 
         <h4 class="subtitle"><a href="<?=$_SERVER['PHP_SELF']?>?action=demo">Examples</a></h4>
         <h4 class="subtitle"><a href=<?=$_SERVER['PHP_SELF']?>?action=explore>An object-model for Law</a></h4>
@@ -38,6 +41,7 @@ include("header.php");
                         <br/><a href="#more"><img src="assets/more.png" height=75></a>
 
 </div>
+
 </div>
 
     </div> <!--end containerHome !-->
