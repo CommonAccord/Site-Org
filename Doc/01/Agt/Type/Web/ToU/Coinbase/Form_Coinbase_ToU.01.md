@@ -1,8 +1,9 @@
 Ti={P1_Handle} {User_Agreement}
 
-This {User_Agreement} (&quot;Agreement&quot;) is a contract between you (&quot;you,&quot; &quot;your&quot; or &quot;user&quot;) and {P1.N,E,A} (&quot;{P1_Handle},&quot; &quot;we&quot;, &quot;us&quot; or &quot;our&quot;) and applies to your use of the {P1_Handle} website and all services described herein (collectively, the &quot;{P1_Services}&quot;).
+0.1.sec=This {User_Agreement} (&quot;Agreement&quot;) is a contract between you (&quot;you,&quot; &quot;your&quot; or &quot;user&quot;) and {P1.N,E,A} (&quot;{P1_Handle},&quot; &quot;we&quot;, &quot;us&quot; or &quot;our&quot;) and applies to your use of the {P1_Handle} website and all services described herein (collectively, the &quot;{P1_Services}&quot;).
 
-<em>Last updated: January 26, 2015</em>
+0.2.sec=Last updated: January 26, 2015
+
 
 Part 1: General Use
 
@@ -295,7 +296,7 @@ You will not be charged for canceling your {P1_Account} and will only be require
 
 9.16. Non-Waiver of Rights
 
-.sec=This agreement shall not be construed to waive rights that cannot be waived under applicable state money transmission laws in the state where you are located.
+.sec={This_Agreement} shall not be construed to waive rights that cannot be waived under applicable state money transmission laws in the state where you are located.
 
 <hr>
 
