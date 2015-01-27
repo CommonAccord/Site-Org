@@ -14,7 +14,7 @@ include("header.php");
 	 <p align="center"><img src="assets/cmacc-trans.png" style="width:65%" /></p>
 <br/>
 <hr>
-  <h1 class="title">CommonAccord is legal text organized like software code.</h1>
+  <h1 class="title">CommonAccord is legal text handled like software code.</h1>
 <hr>
   <h3 class="title">Lawyers and programmers working together<br/> to create a global template system of codified legal texts.</h4>
 <br/><br/>

@@ -2,7 +2,9 @@
 
 Secs={Front.Secs}<li>{Back.Secs}
 
-Back.Secs={Term.Sec}<li>{Dispute.Sec}<li>{Remedy.Sec}<li>{Misc.Sec}
+Back.Secs={m-}{CodePrevails.Sec}{-m}<li>{Term.Sec}<li>{Dispute.Sec}<li>{Remedy.Sec}<li>{Misc.Sec}
+
+CodePrevails.=[03/Sec/Sec_Misc_InterpretationToConformToCode.01.md]
 
 Term.=[03/Sec/Sec_Term_BCC.01.md]
 
