@@ -14,8 +14,6 @@ h=hello
 ToNextPage=<br><br><br><b><u><a href="http://{BaseURL}{NextPage}">Go To {NextPage}</a></u></b>
 <p>= 
 
-BaseURL=hazardj.local/commonaccord/index.php?action=source&file=/about/how/
-
 
 BaseURL=commonaccord.org/index.php?action=source&file=/about/how/
 
