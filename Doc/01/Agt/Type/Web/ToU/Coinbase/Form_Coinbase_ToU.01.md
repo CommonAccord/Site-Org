@@ -125,7 +125,7 @@ An advanced {P1_Vault} allows users the option to view, control, and distribute 
 
 5.1. USD Wallets
 
-.sec=Users who have verified their Identity with {P1.Handle} and who reside in approved jurisdictions may establish and fund a U.S. Dollar balance (&quot;USD Wallet&quot;). Except as otherwise set forth herein, you may use your USD Wallet only to purchase bitcoin from {P1.Handle}, to receive the proceeds of bitcoin sales to {P1.Handle}, or to transfer funds to and from a {P1.Handle} Trading Account. {P1.Handle} holds all customers&#39; USD Wallet funds in a dedicated account at an FDIC-insured financial institution.
+.sec=Users who have verified their Identity with {P1.Handle} and who reside in approved jurisdictions may establish and fund a U.S. Dollar balance (&quot;USD Wallet&quot;). Except as otherwise set forth herein, you may use your USD Wallet only to purchase bitcoin from {P1.Handle}, to receive the proceeds of bitcoin sales to {P1.Handle}, or to transfer funds to and from a {P1.Handle} {Trading_Account}. {P1.Handle} holds all customers&#39; USD Wallet funds in a dedicated account at an FDIC-insured financial institution.
 
 5.2. Deposits and Withdrawals
 
@@ -187,7 +187,7 @@ An advanced {P1_Vault} allows users the option to view, control, and distribute 
 <li>You take any action that {P1.Handle} deems as circumventing {P1.Handle}&#39;s controls, including, but not limited to, opening multiple {P1_Accounts} or abusing promotions which {P1.Handle} may offer from time to time.</li>
 </ul>
 
-You will be permitted to transfer bitcoin or funds associated with your Bitcoin Wallet(s) and/or your USD Wallet(s) (defined below) for ninety (90) days after Account deactivation or cancelation unless such transfer is otherwise prohibited (<em>i</em>) under the law, or (<em>ii</em>) by a facially valid subpoena or court order. {Merchant} users are subject to additional cancellation policies set forth below. You may cancel your {P1_Account} at any time by transferring or exchanging all bitcoin, closing all open Orders (defined below), withdrawing all funds associated with your Bitcoin Wallet(s) and your USD Wallet(s), and visiting <a href="https://www.{P1_com}/settings/cancel">https://www.{P1_com}/settings/cancel</a>.
+You will be permitted to transfer bitcoin or funds associated with your Bitcoin Wallet(s) and/or your USD Wallet(s) (defined below) for ninety (90) days after Account deactivation or cancelation unless such transfer is otherwise prohibited (<em>i</em>) under the law, or (<em>ii</em>) by a facially valid subpoena or court order. {Merchant} users are subject to additional cancellation policies set forth below. You may cancel your {P1_Account} at any time by transferring or exchanging all bitcoin, closing all open {Orders} (defined below), withdrawing all funds associated with your Bitcoin Wallet(s) and your USD Wallet(s), and visiting <a href="https://www.{P1_com}/settings/cancel">https://www.{P1_com}/settings/cancel</a>.
 
 You will not be charged for canceling your {P1_Account} and will only be required to pay for those {P1_Services} used that are subject to charges. If any transaction is in a pending state at the time your {P1_Account} is cancelled or suspended, such transaction may be cancelled and/or refunded as appropriate. You may not cancel your {P1_Account} to evade an investigation or avoid paying any amounts otherwise due to {P1.Handle}. Upon cancellation of your {P1_Account}, you authorize {P1.Handle} to cancel or suspend pending Conversion Service transactions and hold the funds associated with such transactions until {P1.Handle} is certain that funding reversal windows are complete. In the event that you or {P1.Handle} terminates {this_Agreement} or your access to the {P1_Services}, or deactivates or cancels your {P1_Account}, you will remain liable for all amounts due hereunder. In the event that a technical problem causes system outage or Account errors, {P1.Handle} may temporarily suspend access to your Account until the problem is resolved.
 
@@ -197,9 +197,9 @@ You will not be charged for canceling your {P1_Account} and will only be require
 
 .sec={P1.Handle} is an independent contractor for all purposes. Nothing in {this_Agreement} shall be deemed or is intended to be deemed, nor shall it cause, you and {P1.Handle} to be treated as partners, joint ventures, or otherwise as joint associates for profit, or either you or {P1.Handle} to be treated as the agent of the other.
 
-7.2. Service Providers
+7.2. {Service_Providers}
 
-.sec=From time to time, {P1.Handle} may engage third parties to assist {P1.Handle} in providing certain aspects of the {P1_Services} (each, a &quot;Service Provider&quot;). Service Providers may include, but are not limited to, {P1.Handle}&#39;s banking partners and technology or engineering service providers.
+.sec=From time to time, {P1.Handle} may engage third parties to assist {P1.Handle} in providing certain aspects of the {P1_Services} (each, a &quot;Service Provider&quot;). {Service_Providers} may include, but are not limited to, {P1.Handle}&#39;s banking partners and technology or engineering service providers.
 
 7.3. Your Privacy
 
@@ -255,7 +255,7 @@ You will not be charged for canceling your {P1_Account} and will only be require
 
 9.6. Indemnification
 
-.sec=You agree to indemnify and hold {P1.Handle}, its affiliates and Service Providers, and each of their respective officers, directors, agents, joint venturers, employees and representatives, harmless from any claim or demand (including attorneys&#39; fees and any fines, fees or penalties imposed by any regulatory authority) arising out of or related to (i) your breach of {this_Agreement}, (ii) your use of {P1_Services}, or (iii) your violation of any law, rule or regulation, or the rights of any third party.
+.sec=You agree to indemnify and hold {P1.Handle}, its affiliates and {Service_Providers}, and each of their respective officers, directors, agents, joint venturers, employees and representatives, harmless from any claim or demand (including attorneys&#39; fees and any fines, fees or penalties imposed by any regulatory authority) arising out of or related to (i) your breach of {this_Agreement}, (ii) your use of {P1_Services}, or (iii) your violation of any law, rule or regulation, or the rights of any third party.
 
 9.7. Entire Agreement
 
@@ -405,7 +405,7 @@ Part 2. Additional Terms for {Merchants}
 
 1.1. {Merchant_Services}
 
-.sec=Users who intend to sell goods and/or services (each, a &quot;{Merchant}&quot;) and who wish to accept bitcoin from purchasers as a method of payment may use a suite of tools and related services for this purpose (the &quot;{Merchant_Services}&quot;). Through the {Merchant_Services}, {P1.Handle} enables Merchants to accept bitcoin from customers as a method of payment, and processes the transfer of bitcoin to Merchants from their customers. Merchants may also sell bitcoin to, or buy bitcoin from, {P1.Handle}, and otherwise utilize the {P1_Services}, in the same manner as any other user. Use of {Merchant_Services} is subject to this Part 2 and is also subject to General Use terms, including without limitation the releases, indemnities, disclaimers, limitations of liability, prohibited use, dispute resolution, and cancellation policies set forth above.
+.sec=Users who intend to sell goods and/or services (each, a &quot;{Merchant}&quot;) and who wish to accept bitcoin from purchasers as a method of payment may use a suite of tools and related services for this purpose (the &quot;{Merchant_Services}&quot;). Through the {Merchant_Services}, {P1.Handle} enables {Merchants} to accept bitcoin from customers as a method of payment, and processes the transfer of bitcoin to {Merchants} from their customers. {Merchants} may also sell bitcoin to, or buy bitcoin from, {P1.Handle}, and otherwise utilize the {P1_Services}, in the same manner as any other user. Use of {Merchant_Services} is subject to this Part 2 and is also subject to General Use terms, including without limitation the releases, indemnities, disclaimers, limitations of liability, prohibited use, dispute resolution, and cancellation policies set forth above.
 
 1.2 {Merchant} Profile
 
@@ -417,15 +417,15 @@ Part 2. Additional Terms for {Merchants}
 
 .sec= {P1.Handle} will provide users of {Merchant_Services} with an order notification indicating when or whether the {Merchant} has been paid by its customer.
 
-2.1.1. Completed Order Notifications
+2.1.1. Completed {Order} Notifications
 
 .sec=Upon {Merchant}&#39;s customer&#39;s submission of a valid and accurate order through {Merchant_Services}, {P1.Handle} will immediately send a callback to {Merchant}&#39;s designated callback URL to confirm successful transfer of the customer&#39;s payment to {Merchant}—so designated as a &quot;completed&quot; order. Except on suspicion of fraud, error, or abusive use, {P1.Handle} will not reverse a payment and/or corresponding bitcoin credit which it has designated as completed.
 
-2.1.2. Timing of Completed Order
+2.1.2. Timing of Completed {Order}
 
 .sec=If the {Merchant}&#39;s customer uses a {P1.Handle} wallet to successfully initiate its purchase, {P1.Handle} will issue the completed callback order immediately to the {Merchant}. If the {Merchant}&#39;s customer does not use a {P1.Handle} wallet to effect its purchase, {P1.Handle} will initiate an order status callback when {P1.Handle} detects that the {Merchant}&#39;s customer has initiated a transaction which is broadcast through the {Bitcoin_network}.
 
-2.1.3. Mispaid Order Notifications
+2.1.3. Mispaid {Order} Notifications
 
 .sec=A callback may also indicate an order status as &quot;mispaid,&quot; meaning {P1.Handle} has detected transfer of an amount of bitcoin not corresponding with the Bitcoin Price and/or that the customer transferred bitcoin after expiration of a checkout window. &quot;Mispaid&quot; orders may result in transfer of bitcoin to {Merchant}&#39;s {P1_Wallet} for further processing by {Merchant} in accordance with {Merchant}&#39;s refund and order processing policies, but shall not be deemed completed by {P1.Handle}.
 
@@ -467,7 +467,7 @@ Part 2. Additional Terms for {Merchants}
 
 3.4. Indemnification
 
-.sec= {Merchants} agree to indemnify and hold {P1.Handle}, its affiliates, and Service Providers, and each of their respective officers, directors, agents, joint venturers, employees, and representatives, harmless from any claim or demand (including attorneys&#39; fees and any fines, fees, or penalties imposed by any regulatory authority) arising out of or related to (<em>i</em>) the {Merchant}&#39;s breach of {this_Agreement}, (<em>ii</em>) the {Merchant}&#39;s use of {P1_Services}, or (<em>iii</em>) the {Merchant}&#39;s violation of any law, rule, or regulation, or the rights of any third party.
+.sec= {Merchants} agree to indemnify and hold {P1.Handle}, its affiliates, and {Service_Providers}, and each of their respective officers, directors, agents, joint venturers, employees, and representatives, harmless from any claim or demand (including attorneys&#39; fees and any fines, fees, or penalties imposed by any regulatory authority) arising out of or related to (<em>i</em>) the {Merchant}&#39;s breach of {this_Agreement}, (<em>ii</em>) the {Merchant}&#39;s use of {P1_Services}, or (<em>iii</em>) the {Merchant}&#39;s violation of any law, rule, or regulation, or the rights of any third party.
 
 3.5. {Merchant} Governing Law
 
@@ -479,75 +479,75 @@ Part 2. Additional Terms for {Merchants}
 
 Part 3. {P1_Exchange}
 
-1. Trading Accounts
+1. {Trading_Accounts}
 
 1.1 {P1_Exchange}
 
-.sec=Verified users in approved jurisdictions may participate in a trading platform which will allow users to buy bitcoin from and/or sell bitcoin to other {P1.Handle} users (the &quot;{P1_Exchange}&quot;). The {P1_Exchange} will: (<em>a</em>) allow you to place orders to buy or sell bitcoin in designated quantities and prices (an &quot;Order&quot;) into a first-come, first-served order book (the &quot;Order Book&quot;); (<em>b</em>) match compatible Orders among anonymous counterparties on the {P1_Exchange}; and (<em>c</em>) automatically execute trades resulting from matched Orders by settling the corresponding transfers of bitcoin and currency among the trading counterparties&#39; Trading Account wallets (such settled orders, &quot;Trades&quot;). Use of {P1_Exchange} is subject to this Part 3 and is also subject to the General Use terms, including without limitation the indemnities, releases, disclaimers, limitations of liability, prohibited use, dispute resolution, and cancellation policies set forth above. {P1_Exchange} functionality is described in further detail at <a href="https://docs.exchange.{P1_com}/">https://docs.exchange.{P1_com}/</a>.
+.sec=Verified users in approved jurisdictions may participate in a trading platform which will allow users to buy bitcoin from and/or sell bitcoin to other {P1.Handle} users (the &quot;{P1_Exchange}&quot;). The {P1_Exchange} will: (<em>a</em>) allow you to place orders to buy or sell bitcoin in designated quantities and prices (an &quot;{Order}&quot;) into a first-come, first-served order book (the &quot;{Order_Book}&quot;); (<em>b</em>) match compatible {Orders} among anonymous counterparties on the {P1_Exchange}; and (<em>c</em>) automatically execute trades resulting from matched {Orders} by settling the corresponding transfers of bitcoin and currency among the trading counterparties&#39; {Trading_Account} wallets (such settled orders, &quot;{Trades}&quot;). Use of {P1_Exchange} is subject to this Part 3 and is also subject to the General Use terms, including without limitation the indemnities, releases, disclaimers, limitations of liability, prohibited use, dispute resolution, and cancellation policies set forth above. {P1_Exchange} functionality is described in further detail at <a href="https://docs.exchange.{P1_com}/">https://docs.exchange.{P1_com}/</a>.
 
-1.2 Trading Account
+1.2 {Trading_Account}
 
-.sec=After you have established a {P1_Account}, inclusive with USD Wallet, you may visit the {P1_Exchange} at <a href="https://exchange.{P1_com}">https://exchange.{P1_com}</a> to establish a dedicated Bitcoin Wallet and dedicated USD Wallet expressly for the purpose of placing Orders and settling Trades on the {P1_Exchange} (such dedicated wallets, together with associated user tools, a &quot;Trading Account&quot;). You may not place Orders on the {P1_Exchange} until you have transferred bitcoin and/or currency from your basic {P1_Account} wallets into your Trading Account wallets. Funds in your Trading Account wallets can be used only to place Orders and to execute Trades and cannot be used for any other purpose.
+.sec=After you have established a {P1_Account}, inclusive with USD Wallet, you may visit the {P1_Exchange} at <a href="https://exchange.{P1_com}">https://exchange.{P1_com}</a> to establish a dedicated Bitcoin Wallet and dedicated USD Wallet expressly for the purpose of placing {Orders} and settling {Trades} on the {P1_Exchange} (such dedicated wallets, together with associated user tools, a &quot;{Trading_Account}&quot;). You may not place {Orders} on the {P1_Exchange} until you have transferred bitcoin and/or currency from your basic {P1_Account} wallets into your {Trading_Account} wallets. Funds in your {Trading_Account} wallets can be used only to place {Orders} and to execute {Trades} and cannot be used for any other purpose.
 
 1.3 Transfers and Limits
 
-.sec=You can transfer bitcoin and/or currency between your basic {P1_Account} wallets and your Trading Account wallets instantly and free of charge in an amount less than or equal to applicable daily trade limits set forth in the {User_Agreement}. {P1.Handle} monitors the total value of assets associated with your Trading Account and we reserve the right to prevent transfers to your Trading Account, to suspend your trading activity, and/or to require you to withdraw funds from your Trading Account if your total Trading Account balance exceeds your daily trade limits. You may request heightened trading limits pursuant to Coinbase {Enhanced_Due_Diligence} procedures set forth in the {User_Agreement}. You may withdraw funds from your Trading Account by transferring the funds to your basic {P1_Account} wallets, at which point you may remove funds from the Coinbase platform in accordance with Coinbase policies and subject to applicable bank transfer fees.
+.sec=You can transfer bitcoin and/or currency between your basic {P1_Account} wallets and your {Trading_Account} wallets instantly and free of charge in an amount less than or equal to applicable daily trade limits set forth in the {User_Agreement}. {P1.Handle} monitors the total value of assets associated with your {Trading_Account} and we reserve the right to prevent transfers to your {Trading_Account}, to suspend your trading activity, and/or to require you to withdraw funds from your {Trading_Account} if your total {Trading_Account} balance exceeds your daily trade limits. You may request heightened trading limits pursuant to Coinbase {Enhanced_Due_Diligence} procedures set forth in the {User_Agreement}. You may withdraw funds from your {Trading_Account} by transferring the funds to your basic {P1_Account} wallets, at which point you may remove funds from the Coinbase platform in accordance with Coinbase policies and subject to applicable bank transfer fees.
 
-2. Orders, Trades, and Fees
+2. {Orders}, {Trades}, and Fees
 
-2.1 Orders and Trades
+2.1 {Orders} and {Trades}
 
-.sec=Trading Account tools allow you to place Orders in the {P1_Exchange} Order Book by designating an amount of bitcoin you wish to buy or sell at a designated fiat currency-denominated price. When an Order is matched, in part or in full, to one or more compatible counter-orders, one or more Trades are immediately executed as set forth below.
+.sec={Trading_Account} tools allow you to place {Orders} in the {P1_Exchange} {Order_Book} by designating an amount of bitcoin you wish to buy or sell at a designated fiat currency-denominated price. When an {Order} is matched, in part or in full, to one or more compatible counter-orders, one or more {Trades} are immediately executed as set forth below.
 
-2.1.1 Takers
+2.1.1 {Takers}
 
-.sec=If your Order is immediately paired to one or more counter-orders, you are a &quot;Taker&quot; and the Order will result in an immediately executing Trade at the price of the preexisting Order in the Order Book. Such Trade is immediately reflected in the Taker&#39;s Trade history and as corresponding credits and debits to the Taker&#39;s Trading Account wallet balances. Takers are charged a commission fee (described below), automatically debited from the Taker&#39;s Trading Account USD Wallet.
+.sec=If your {Order} is immediately paired to one or more counter-orders, you are a &quot;{Taker}&quot; and the {Order} will result in an immediately executing {Trade} at the price of the preexisting {Order} in the {Order_Book}. Such {Trade} is immediately reflected in the {Taker}&#39;s {Trade} history and as corresponding credits and debits to the {Taker}&#39;s {Trading_Account} wallet balances. {Takers} are charged a commission fee (described below), automatically debited from the {Taker}&#39;s {Trading_Account} USD Wallet.
 
-2.1.2. Makers
+2.1.2. {Makers}
 
-.sec=If your Order is not immediately paired to a matching counter-order, you are a &quot;Maker&quot; and your Order will remain open in the Order Book until either (<em>i</em>) the Order is cancelled, or (<em>ii</em>) the Order is matched to a counter-order on the {P1_Exchange} and a Trade is executed. Coinbase will block use and transfer of funds in the Maker&#39;s Trading Account corresponding to any open Order. The Maker can release the block by cancelling the Order without charge. When a matching counter-order is placed in the Order Book, the Maker&#39;s open Order will result in an executed Trade at the price the Maker posted to the Order Book, immediately reflected in the Maker&#39;s Trade history and as corresponding credits and debits to the Maker&#39;s Trading Account wallet balances.
+.sec=If your {Order} is not immediately paired to a matching counter-order, you are a &quot;{Maker}&quot; and your {Order} will remain open in the {Order_Book} until either (<em>i</em>) the {Order} is cancelled, or (<em>ii</em>) the {Order} is matched to a counter-order on the {P1_Exchange} and a {Trade} is executed. Coinbase will block use and transfer of funds in the {Maker}&#39;s {Trading_Account} corresponding to any open {Order}. The {Maker} can release the block by cancelling the {Order} without charge. When a matching counter-order is placed in the {Order_Book}, the {Maker}&#39;s open {Order} will result in an executed {Trade} at the price the {Maker} posted to the {Order_Book}, immediately reflected in the {Maker}&#39;s {Trade} history and as corresponding credits and debits to the {Maker}&#39;s {Trading_Account} wallet balances.
 
-2.1.3. Partial Order Execution
+2.1.3. Partial {Order} Execution
 
-.sec=Your Order may be executed in parts depending on the availability of compatible counter-orders on the {P1_Exchange}. The Trade resulting from an immediate, partial execution is subject to Taker commissions as described above. Any unfulfilled remainder of such partially-executed Order will remain as an open, Maker Order in the Order Book until it is either cancelled or executed.
+.sec=Your {Order} may be executed in parts depending on the availability of compatible counter-orders on the {P1_Exchange}. The {Trade} resulting from an immediate, partial execution is subject to {Taker} commissions as described above. Any unfulfilled remainder of such partially-executed {Order} will remain as an open, {Maker_Order} in the {Order_Book} until it is either cancelled or executed.
 
-2.1.4. Taker Price Improvement
+2.1.4. {Taker} Price Improvement
 
-.sec=Taker Orders are matched against existing Maker Orders at the price of the Maker Order posted in the Order Book, not at the price of the Taker Order. Coinbase will automatically match a Taker Order to any open Order whose price is at least as favorable as the Taker&#39;s Order price, if not more favorable to the Taker. Maker Orders will always be executed at the posted Order Book price.
+.sec={Taker_Order}s are matched against existing {Maker_Orders} at the price of the {Maker_Order} posted in the {Order_Book}, not at the price of the {Taker_Order}. Coinbase will automatically match a {Taker_Order} to any open {Order} whose price is at least as favorable as the {Taker}&#39;s {Order} price, if not more favorable to the {Taker}. {Maker_Orders} will always be executed at the posted {Order_Book} price.
 
 2.1.5. Self-Trade Prevention
 
-.sec=Coinbase will prevent you from entering Orders which would result in self-execution—<em>i.e</em>., where you act as both Maker and Taker to a Trade. In the event that any open or partially open Order would result in self-execution, Coinbase will automatically cancel the smaller quantity open Order, decrement the larger quantity Order in an amount equivalent to the cancelled quantity, and allow the remainder of the larger Order to remain open. If two such Orders are the same quantity, both will be cancelled.
+.sec=Coinbase will prevent you from entering {Orders} which would result in self-execution—<em>i.e</em>., where you act as both {Maker} and {Taker} to a {Trade}. In the event that any open or partially open {Order} would result in self-execution, Coinbase will automatically cancel the smaller quantity open {Order}, decrement the larger quantity {Order} in an amount equivalent to the cancelled quantity, and allow the remainder of the larger {Order} to remain open. If two such {Orders} are the same quantity, both will be cancelled.
 
-2.2. Alternative Order Instructions
+2.2. Alternative {Order} Instructions
 
-.sec=The {P1_Exchange} may allow you to input alternative Order parameters which differ from the default parameters set forth above. Alternative Order parameters, such as those preventing partial Order execution and/or which affect the timing of your Trades, will be described at: <a href="https://docs.exchange.{P1_com}">https://docs.exchange.{P1_com}</a>.
+.sec=The {P1_Exchange} may allow you to input alternative {Order} parameters which differ from the default parameters set forth above. Alternative {Order} parameters, such as those preventing partial {Order} execution and/or which affect the timing of your {Trades}, will be described at: <a href="https://docs.exchange.{P1_com}">https://docs.exchange.{P1_com}</a>.
 
 2.3. Fees
 
-.sec={P1_Exchange} operates a maker-taker pricing model in which we will charge a commission to the Taker of any given Trade. We will not charge a commission to Makers. Commissions are denominated in the quote currency—typically U.S. Dollars—and automatically debited from the Taker&#39;s Trading Account USD Wallet upon settlement of a Trade. Applicable commissions and other fees (if any) are posted at: <a href="https://docs.exchange.{P1_com}/#fees">https://docs.exchange.{P1_com}/#fees</a>. By using the {P1_Exchange} you agree to pay all applicable Coinbase fees and trade-based commissions and you authorize Coinbase to deduct directly from your Trading Account wallets the applicable commissions and other fees at the time of first accrual or subsequently if any amounts are unpaid.
+.sec={P1_Exchange} operates a maker-taker pricing model in which we will charge a commission to the {Taker} of any given {Trade}. We will not charge a commission to {Makers}. Commissions are denominated in the quote currency—typically U.S. Dollars—and automatically debited from the {Taker}&#39;s {Trading_Account} USD Wallet upon settlement of a {Trade}. Applicable commissions and other fees (if any) are posted at: <a href="https://docs.exchange.{P1_com}/#fees">https://docs.exchange.{P1_com}/#fees</a>. By using the {P1_Exchange} you agree to pay all applicable Coinbase fees and trade-based commissions and you authorize Coinbase to deduct directly from your {Trading_Account} wallets the applicable commissions and other fees at the time of first accrual or subsequently if any amounts are unpaid.
 
 3. General Use, Restrictions, and Cancellation
 
-3.1. Trading Account Use
+3.1. {Trading_Account} Use
 
-.sec=By using a Trading Account you agree and represent that you will make Trades only for yourself as Account owner, and not on a pass-through basis on behalf of any third party, unless you have obtained prior approval from Coinbase. You may not sell, lease, furnish or otherwise permit or provide access to your Trading Account to any other entity or to any individual that is not your employee or agent. You accept full responsibility for your employees&#39; or agents&#39; use of the {P1_Exchange}, whether such use is directly through the {P1_Exchange} website or by other means, such as those facilitated through Auth permissions, API keys, and/or applications which you may authorize. You understand and agree that you are responsible for any and all orders, trades, and other instructions entered into the {P1_Exchange} under identifiers, permissions, passwords, and security codes associated with your {P1_Account}.
+.sec=By using a {Trading_Account} you agree and represent that you will make {Trades} only for yourself as Account owner, and not on a pass-through basis on behalf of any third party, unless you have obtained prior approval from Coinbase. You may not sell, lease, furnish or otherwise permit or provide access to your {Trading_Account} to any other entity or to any individual that is not your employee or agent. You accept full responsibility for your employees&#39; or agents&#39; use of the {P1_Exchange}, whether such use is directly through the {P1_Exchange} website or by other means, such as those facilitated through Auth permissions, API keys, and/or applications which you may authorize. You understand and agree that you are responsible for any and all orders, trades, and other instructions entered into the {P1_Exchange} under identifiers, permissions, passwords, and security codes associated with your {P1_Account}.
 
 3.2. Suspension and Cancellation
 
-.sec=We may suspend your Trading Account in accordance with the {User_Agreement} Account suspension and termination provisions. Suspension or termination of you Account shall not affect the payment of fees or other amounts you owe to Coinbase. In the event that your {P1_Account} is suspended or terminated, we will immediately cancel all open Orders associated with your Trading Account and bar the placing of further Orders until resolution or Account cancellation.
+.sec=We may suspend your {Trading_Account} in accordance with the {User_Agreement} Account suspension and termination provisions. Suspension or termination of you Account shall not affect the payment of fees or other amounts you owe to Coinbase. In the event that your {P1_Account} is suspended or terminated, we will immediately cancel all open {Orders} associated with your {Trading_Account} and bar the placing of further {Orders} until resolution or Account cancellation.
 
 3.3. No Warranty
 
-.sec=We do not represent that {P1_Exchange} and/or its constituent Trading Accounts, APIs, and related services, will be available without interruption. Although we will strive to provide you with continuous operations, we do not guarantee continuous access or that there will be no delays, failures, errors, omissions or loss of transmitted information, nor do we guarantee that any Order will be executed, accepted, recorded, or remain open. In the event of a significant system outage, Coinbase reserves the right to cancel any open trades and/or suspend {P1_Exchange} activity indefinitely.
+.sec=We do not represent that {P1_Exchange} and/or its constituent {Trading_Accounts}, APIs, and related services, will be available without interruption. Although we will strive to provide you with continuous operations, we do not guarantee continuous access or that there will be no delays, failures, errors, omissions or loss of transmitted information, nor do we guarantee that any {Order} will be executed, accepted, recorded, or remain open. In the event of a significant system outage, Coinbase reserves the right to cancel any open trades and/or suspend {P1_Exchange} activity indefinitely.
 
 3.4. No Investment Advice or Brokerage
 
-.sec=For the avoidance of doubt, Coinbase does not provide investment, tax, or legal advice, nor does Coinbase broker trades on your behalf. All {P1_Exchange} trades are executed automatically, based on the parameters of your Order instructions and in accordance with posted Trade execution procedures, and you are solely responsiblefor determining whether any investment, investment strategy or related transaction is appropriate for you based on your personal investment objectives, financial circumstances and risk tolerance. You should consult your legal or tax professional regarding your specific situation.
+.sec=For the avoidance of doubt, Coinbase does not provide investment, tax, or legal advice, nor does Coinbase broker trades on your behalf. All {P1_Exchange} trades are executed automatically, based on the parameters of your {Order} instructions and in accordance with posted {Trade} execution procedures, and you are solely responsiblefor determining whether any investment, investment strategy or related transaction is appropriate for you based on your personal investment objectives, financial circumstances and risk tolerance. You should consult your legal or tax professional regarding your specific situation.
 
-3.5. Trade Cancellation
+3.5. {Trade} Cancellation
 
-.sec=Except as otherwise set forth herein, all trades are final and commissions and/or fees paid to Coinbase are non-refundable. Coinbase reserves the right to cancel Orders which, in our sole discretion, constitute an abusive use of the platform. We also reserve the right to cancel Orders, which under the circumstances appear clearly erroneous with respect to price, quantity, or other parameters. Coinbase reserves the right to restrict trade size or frequency in its sole discretion or limit API use which unreasonably burdens the platform.
+.sec=Except as otherwise set forth herein, all trades are final and commissions and/or fees paid to Coinbase are non-refundable. Coinbase reserves the right to cancel {Orders} which, in our sole discretion, constitute an abusive use of the platform. We also reserve the right to cancel {Orders}, which under the circumstances appear clearly erroneous with respect to price, quantity, or other parameters. Coinbase reserves the right to restrict trade size or frequency in its sole discretion or limit API use which unreasonably burdens the platform.
 3.6. Debts
 
-.sec=In the event that there are outstanding amounts owed to us hereunder, Coinbase reserves the right to debit your Trading Account wallets accordingly and/or to withhold amounts from funds you may transfer from your Trading Account wallets to your {P1_Account} wallets. In the event that you have a negative balance in a {P1_Account} wallet, the transfer of funds from your Trading Account to your {P1_Account} will be applied first to satisfy any negative balance before crediting your Account.
+.sec=In the event that there are outstanding amounts owed to us hereunder, Coinbase reserves the right to debit your {Trading_Account} wallets accordingly and/or to withhold amounts from funds you may transfer from your {Trading_Account} wallets to your {P1_Account} wallets. In the event that you have a negative balance in a {P1_Account} wallet, the transfer of funds from your {Trading_Account} to your {P1_Account} will be applied first to satisfy any negative balance before crediting your Account.
