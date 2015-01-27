@@ -28,7 +28,7 @@ include("header.php");
 </div>
 
     <div class="col-sm-4" id="info-more">
-<ul><li>a world without paperwork<li>crowd-sourced legal compliance<li>codified contract documents<li>git for law<li>law "commons" for direct digital democracy<li>semantic web<li>dessert topping</ol>
+<ul><li>contract text "wrapper" for smart contracts<li>a world without paperwork<li>crowd-sourced legal compliance<li>codified contract documents<li>git for law<li>law "commons" for direct digital democracy<li>semantic web<li>dessert topping</ol>
 
         <h4 class="subtitle">Explore <a href=<?=$_SERVER['PHP_SELF']?>?action=explore>the template system.</a></h4>
         <h4 class="subtitle">Learn <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=/about/how/>how it works</a>.</h4>
