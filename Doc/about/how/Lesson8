@@ -14,6 +14,6 @@ fontmark=red
 fontmark1={fontmark}
 fontmark2={fontmark}
 
-Commentary=Adding parties.  But we should reference them instead of typing or pasting.  That obviously saves time and reduces errors, but even more importantly, it means that we are connecting this use with that person. So if ever we want to know the history of that person, we can just look for things that link to them.  (By search.)
+Commentary=Adding parties.  But we should reference them instead of typing or pasting.  That obviously saves time and reduces errors, but even more importantly, it means that we are connecting this use with those persons.  And those persons with one another.  Incrementing the legal graph.
 
 NextPage=Signature_P1
