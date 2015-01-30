@@ -18,7 +18,7 @@ Ti=Planning - Making "Yes" Better
 
 2.secs={2.secs;and}
 
-3.sec=The law of the parties is the focus of CommonAccord.  This function is based on text and mostly depend on social knowledge (following).  The coding community shows how to create efficiently.  That can be combined with traditional legal methods of model docs, codification and commentary.  Social knowledge can also be improved with big data methods.
+3.sec=The law of the parties is the focus of CommonAccord.  This is based on text and collaboratively developed by lawyers.  For parties, selecting the right one mostly depends on social knowledge, following their lawyer's recommendation, or that of reputed experts or their peers.  The coding community shows how to collaborate on text efficiently.  That can be combined with traditional legal methods of model docs, codification and commentary.  Big data methods can also help.
 
 4.sec=Sign and Perform are the domain of the blockchain and other methods.  
 
