@@ -14,7 +14,7 @@ include("header.php");
 	 <p align="center"><img src="assets/cmacc-trans.png" style="width:65%" /></p>
 <br/>
 <hr>
-<h1 class="title">A Center for Decentralized Law</h1>
+<h1 class="title">Center for Decentralized Law</h1>
 <hr>
   <h3 class="title">Many decisions that are now taken far away, with limited information, can be taken locally if the participants have access to precedents.<br>Lawyers can focus their effort on substantive issues.<br>We are lawyers and programmers working together to foster a global system of precedents.</h4>
 <br/><br/>
