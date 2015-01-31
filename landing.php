@@ -16,7 +16,7 @@ include("header.php");
 <hr>
 <h1 class="title">A Center for Decentralized Law</h1>
 <hr>
-  <h3 class="title">Many decisions that are now taken far away, with limited information, can be taken locally if the participants have access to the information, tools and precedents they need.<br>Lawyers can focus more of their effort on substantive issues.<br>We are lawyers and programmers working together to foster a global template system of legal texts.</h4>
+  <h3 class="title">Many decisions that are now taken far away, with limited information, can be taken locally if the participants have access to the precedents they need.<br>Lawyers can focus their effort on substantive issues.<br>We are lawyers and programmers working together to foster a global template system of legal texts.</h4>
 <br/><br/>
 
 <!--
