@@ -15,7 +15,7 @@ ToPriorPage=<u><a href="http://{BaseURL}{Prior.PageName}">Go To {Prior.PageName}
 
 ToNextPage=<b><u><a href="http://{BaseURL}{Next.PageName}">Go To {Next.PageName}</a></u></b>
 
-BaseURL=commonaccord.org/index.php?action=source&file=/about/how/
+BaseURL=commonaccord.org/index.php?action=source&file=/
 
 
 Prior.PageName=none
