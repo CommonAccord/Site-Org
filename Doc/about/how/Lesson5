@@ -10,11 +10,17 @@ fontmark2=magenta
 The=whole system is
 
 = {key}
- =expands into value
+
+=expands into value
+
 = and
+
  =[listname]
- =expands into the key/values of the referenced list. 
+ 
+=expands into the key/values of the referenced list. 
 
 Commentary=Adding an actual engagement.
 
-NextPage=Lesson6
+Prior.PageName=about/how/Lesson4
+
+Next.PageName=about/how/Lesson6

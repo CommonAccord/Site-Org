@@ -1,4 +1,4 @@
-Model.Root={MyText}{ToNextPage}
+Model.Root={MyText}{Navigate}
 
 MyText={hw}
 
@@ -9,12 +9,17 @@ w=world
 h=hello
 
 
+Navigate=<br><br><br>Back: {ToPriorPage} Forward: {ToNextPage}
 
+ToPriorPage=<u><a href="http://{BaseURL}{Prior.PageName}">Go To {Prior.PageName}</a></u>
 
-ToNextPage=<br><br><br><b><u><a href="http://{BaseURL}{NextPage}">Go To {NextPage}</a></u></b>
-<p>= 
+ToNextPage=<b><u><a href="http://{BaseURL}{Next.PageName}">Go To {Next.PageName}</a></u></b>
 
+BaseURL=hazardj.local/commonaccord/index.php?action=source&file=/
 
 BaseURL=commonaccord.org/index.php?action=source&file=/about/how/
 
-NextPage=Lesson2
+
+Prior.PageName=none
+
+Next.PageName=about/how/Lesson2

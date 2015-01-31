@@ -2,12 +2,17 @@ MessageToReader=We could also reference some materials done by someone else.
 
 <p>=
 
-=[about/how/Lesson1]
-
-=[core/class/AGT_Frame]	
-
 <p>=
 
 MyText={Doc.Body}
 
-NextPage=Lesson4
+
+PageName=about/how/Lesson3
+
+Prior.PageName=about/how/Lesson2
+
+Next.PageName=about/how/Lesson4
+
+=[about/how/Lesson1]
+
+=[core/class/AGT_Frame]

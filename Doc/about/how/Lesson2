@@ -1,10 +1,7 @@
 Referencing=Lesson 1
 
-=[about/how/Lesson1]
 
 <p>= and extending it:
-
-<p>=
 
 hw={hlw}
 
@@ -13,8 +10,10 @@ hlw={h} {l} {w}
 l=legal
 
 
+Prior.PageName=about/how/Lesson1
 
+Next.PageName=about/how/Lesson3
 
-<p>=
-<p>=
-NextPage=Lesson3
+PageName=about/how/Lesson2
+
+=[about/how/Lesson1]

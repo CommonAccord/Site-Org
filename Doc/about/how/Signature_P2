@@ -4,8 +4,6 @@ P2.xSignature= x C Kendall
 
 P2.Sign.YMD=September 6, 2014
 
-<p>=
-<p>=
-Commentary=P2 signs
+Prior.PageName=about/how/Signature_P2
 
-NextPage=Wrap_Up
+Next.PageName=about/how/Wrap_Up

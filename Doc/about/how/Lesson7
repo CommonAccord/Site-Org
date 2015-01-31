@@ -13,4 +13,6 @@ fontmark=blue
 
 Commentary=We want a One Way NDA.  So let's bring in a list of differences.
 
-NextPage=Lesson8
+Prior.PageName=about/how/Lesson6
+
+Next.PageName=about/how/Lesson8

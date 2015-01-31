@@ -10,11 +10,10 @@ P2.Handle=<font color="{fontmark1}">Quake</font>
 
 fontmark1=red
 
-<p>=
-<p>=
-
 MessageToReader={Commentary}{ToNextPage}
 
 Commentary=Adding some party info.
 
-NextPage=Lesson5
+Prior.PageName=about/how/Lesson3
+  
+Next.PageName=about/how/Lesson5

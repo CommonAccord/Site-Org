@@ -12,4 +12,6 @@ fontmark=black
 Commentary=P1 Signs.  (There is an additional trick in how "Sign.YMD" comes to fill for both P1 and P2.  See if you can find where the signature blocks come from and why P2 will be able to override just her own if she wants!)
 <p>=
 
-NextPage=Signature_P2
+Prior.PageName=about/how/Lesson8
+
+Next.PageName=about/how/Signature_P2
