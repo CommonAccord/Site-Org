@@ -1,11 +1,17 @@
 Ti=Wrap-Up
 
 0.sec=In the course of this we:
+
 1.sec=Learned nearly all of the rules of CommonAccord.
+
 2.sec=Created and signed a document.
+
 3.sec=Used mostly existing materials.
+
 4.sec=Did not create much new text.
+
 5.sec=Labeled and linked all of our materials.  So they are findable by us and anyone else in our organization (and any others whom we allow to "pull" a copy), such as P1 and P2.  
+
 6.sec=The document was signed separately by the two parties, and (in the case of an actual use) would have the blockchain or git trace.
 
 7.0.sec=Ways to participate:
@@ -22,4 +28,6 @@ Ti=Wrap-Up
 
 7.=[02/Bit/Ssec_05]
 
-=[02/Bit/Ssec_07]
+8.sec=To build an NDA - see<u> <a href="http://commonaccord.org/index.php?action=source&file=/about/Agt/Step1">about/Agt/Step1</a></u>
+
+=[02/Bit/Ssec_08]
