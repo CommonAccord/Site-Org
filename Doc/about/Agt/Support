@@ -1,8 +1,8 @@
-Model.Root={Doc}{Navigate}
+Model.Root={Doc}<br><br><br>{Navigate}
 
 Doc={Doc.Model.Root}
 
-Navigate=<br><br><br>Prior: {ToPriorPage}<br> Next: {ToNextPage}
+Navigate=Prior: {ToPriorPage}<br> Next: {ToNextPage}
 
 ToPriorPage=<u><a href="http://{BaseURL}{Prior.PageName}">{Prior.PageName}</a></u>
 

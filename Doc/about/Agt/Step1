@@ -2,7 +2,7 @@ Doc={Doc.Model.Root}
 
 Doc.Model.Root=Let's build a document
 
-ToPriorPage=<b></b>
+Navigate=Next: {ToNextPage}
 
 Next.PageName=about/Agt/Step2
 
