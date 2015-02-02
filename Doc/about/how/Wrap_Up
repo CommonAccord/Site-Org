@@ -1,33 +1,25 @@
 Ti=Wrap-Up
 
-0.sec=In the course of this we:
+1.Ti=What You Learned
 
-1.sec=Learned nearly all of the rules of CommonAccord.
+1.0.sec=In the course of this we:
 
-2.sec=Created and signed a document.
+1.1.sec=Learned nearly all of the rules of CommonAccord.
 
-3.sec=Used mostly existing materials.
+1.2.sec=Created and signed a document.
 
-4.sec=Did not create much new text.
+1.3.sec=Used mostly existing materials.
 
-5.sec=Labeled and linked all of our materials.  So they are findable by us and anyone else in our organization (and any others whom we allow to "pull" a copy), such as P1 and P2.  
+1.4.sec=Did not create much new text.
 
-6.sec=The document was signed separately by the two parties, and (in the case of an actual use) would have the blockchain or git trace.
+1.5.sec=Labeled and linked all of our materials.  So they are findable by us and anyone else in our organization (and any others whom we allow to "pull" a copy), such as P1 and P2.  
 
-7.0.sec=Ways to participate:
+1.6.sec=The document was signed separately by the two parties, and (in the case of an actual use) would have the blockchain or git trace.
 
-7.1.sec=Contact us: contact@commonaccord.org
+1.=[02/Bit/Ssec_06]
 
-7.2.sec=Fork - pull from github.com/CommonAccord/Org
+2.Ti=Participate
 
-7.3.sec=Contribute some legal text
+2.sec=<u> <a href="http://commonaccord.org/index.php?action=source&file=/about/Participate.md">Participate</a></u>
 
-7.4.sec=Tell us about a need
-
-7.5.sec=Follow us at @commonaccord 		
-
-7.=[02/Bit/Ssec_05]
-
-8.sec=To build an NDA - see<u> <a href="http://commonaccord.org/index.php?action=source&file=/about/Agt/Step1">about/Agt/Step1</a></u>
-
-=[02/Bit/Ssec_08]
+=[02/Bit/Sec_02]

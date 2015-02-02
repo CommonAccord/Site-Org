@@ -2,42 +2,40 @@
 
 fontmark=blue
 
-AGT.Title={spantag}OutBound Non-Disclosure Agreement{/span}
+AGT.Title={b-}OutBound Non-Disclosure Agreement{-b}
 
-spantag=<span style="color: {fontmark}">
+b-=<font style="color: {bcolor}">
 
-fontmark=blue
+bcolor=blue
 
-/span=</span>
+-b=</font>
 
-DP.-={spantag}{P1.Handle}{/span}
+DP.-={b-}{P1.Handle}{-b}
 
-DP.The={spantag}{P1.Handle}{/span}
+DP.The={b-}{P1.Handle}{-b}
 
-DP.the={spantag}{P1.Handle}{/span}
+DP.the={b-}{P1.Handle}{-b}
 
-RP.-={spantag}{P2.Handle}{/span}
+RP.-={b-}{P2.Handle}{-b}
 
-RP.The={spantag}{P2.Handle}{/span}
+RP.The={b-}{P2.Handle}{-b}
 
-RP.the={spantag}{P2.Handle}{/span}
+RP.the={b-}{P2.Handle}{-b}
 
-Purpose.Roles={spantag}{P1.Handle} disclosing confidential information to {P2.Handle}{/span}
+Purpose.Roles={b-}{P1.Handle} disclosing confidential information to {P2.Handle}{-b}
 
-Therefore.Roles={spantag}{P1.Handle} making confidential information available to {P2.Handle}{/span}
+Therefore.Roles={b-}{P1.Handle} making confidential information available to {P2.Handle}{-b}
 
-Conf.Roles={spantag}{P1.Handle} to {P2.Handle}{/span}
+Conf.Roles={b-}{P1.Handle} to {P2.Handle}{-b}
 
-Contact.Roles._cl={spantag}disclosing confidential information for {DP.the} or receiving confidential information for {RP.the}{/span}
+Contact.Roles._cl={b-}disclosing confidential information for {DP.the} or receiving confidential information for {RP.the}{-b}
 
-Conf.Impart.List={spantag}relates to (i) the Purpose and/or (ii) unpublished research, invention disclosures, or unpublished patent applications{/span}
+Conf.Impart.List={b-}relates to (i) the Purpose and/or (ii) unpublished research, invention disclosures, or unpublished patent applications{-b}
 
-CC.Persons={spantag}directors (or, if applicable, members), officers, employees, consultants, and/or advisors{/span}
+CC.Persons={b-}directors (or, if applicable, members), officers, employees, consultants, and/or advisors{-b}
 
-Compelled.Cond._cl={spantag}{Compelled.Cond.Note-Coop-Min}</span>
+Compelled.Cond._cl={b-}{Compelled.Cond.Note-Coop-Min}{-b}
 
 <b>No Export Control Provision</b>=Section 9.1 is deleted in the OutBound.
 
-Export._Sec={spantag}{_delete_}{/span}
-
-											
+Export._Sec={b-}{_delete_}{-b}

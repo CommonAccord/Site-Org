@@ -16,7 +16,7 @@ include("header.php");
 <hr>
 <h1 class="title">Center for Decentralized Law</h1>
 <hr>
-  <h3 class="title">Many decisions that are now taken far away, with limited information, can be taken locally if the participants have access to precedents.<br>Lawyers can focus their effort on substantive issues.<br>We are lawyers and programmers working together to foster a global system of precedents.</h4>
+  <h3 class="title">Legal relationships can be improved by efficient access to precedents.<br>Lawyers can improve precedents incrementally, like software.<br>We are lawyers and programmers working together to build a global system of precedents.</h4>
 <br/><br/>
 
 <!--
@@ -34,8 +34,8 @@ include("header.php");
 
     <div class="col-sm-4" id="info-more">
 
-        <h4 class="subtitle">Explore <a href=<?=$_SERVER['PHP_SELF']?>?action=explore>the template system.</a></h4>
         <h4 class="subtitle">Learn <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=/about/how/>how it works</a>.</h4>
+        <h4 class="subtitle">Explore <a href=<?=$_SERVER['PHP_SELF']?>?action=explore>the template system.</a></h4>
         <h4 class="subtitle">Browse <a href="https://github.com/CommonAccord/commonaccord/tree/master/Doc">the Github repo</a>.</h4>
 
                         <br/><a href="#more"><img src="assets/more.png" height=75></a>

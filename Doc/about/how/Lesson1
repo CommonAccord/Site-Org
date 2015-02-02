@@ -1,5 +1,3 @@
-Model.Root={Doc}{Navigate}
-
 Doc={hw}
 
 hw={h} {w}
@@ -8,18 +6,8 @@ w=world
 
 h=hello
 
-
-Navigate=<br><br><br>Back: {ToPriorPage} Forward: {ToNextPage}
-
-ToPriorPage=<u><a href="http://{BaseURL}{Prior.PageName}">Go To {Prior.PageName}</a></u>
-
-ToNextPage=<b><u><a href="http://{BaseURL}{Next.PageName}">Go To {Next.PageName}</a></u></b>
-
-BaseURL=hazardj.local/commonaccord/index.php?action=source&file=/
-
-BaseURL=commonaccord.org/index.php?action=source&file=/
-
-
 Prior.PageName=none
 
 Next.PageName=about/how/Lesson2
+
+=[about/Agt/Support]

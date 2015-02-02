@@ -2,17 +2,15 @@
 
 =[core/class/AGT_Frame]
 
-AGT.Title=<font color="{fontmark1}">Non-Disclosure Agreement</font>
+AGT.Title={r-}Non-Disclosure Agreement{-r}
 
-P1.Handle=<font color="{fontmark1}">Acme</font>
+P1.Handle={r-}Acme{-r}
 
-P2.Handle=<font color="{fontmark1}">Quake</font>
+P2.Handle={r-}Quake{-r}
 
-fontmark1=red
+MessageToReader={Commentary}<br>{ToNextPage}
 
-MessageToReader={Commentary}{ToNextPage}
-
-Commentary=Adding some party info.
+Commentary=Adding a few specifics - marked in {r-}red{-r}.
 
 Prior.PageName=about/how/Lesson3
   

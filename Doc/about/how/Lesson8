@@ -3,18 +3,11 @@
 
 P1.=[core/id/acme_incorporated]
 
-<p>=
 P2.=[core/id/quake_incorporated]
 
-And we reference our prior draft:
+/Note=And we reference our prior draft:
 
-Note=these are like twitter handles.
-
-fontmark=red
-fontmark1={fontmark}
-fontmark2={fontmark}
-
-Commentary=Adding parties.  But we should reference them instead of typing or pasting.  That obviously saves time and reduces errors, but even more importantly, it means that we are connecting this use with those persons.  And those persons with one another.  Incrementing the legal graph.
+Commentary=Adding parties.  We reference them instead of typing or pasting.  That obviously saves time and reduces errors.  Even more importantly, it connects the NDA engagements with our representation of those persons, and those persons with one another.  Incrementing the legal graph.  Starting us on the path of making our relationships "machine readable."
 
 Prior.PageName=about/how/Lesson7
 

@@ -1,12 +1,9 @@
-
 =[about/Agt/Step7]
 
-=[03/Sec/Secs_NDA.01.md]
+=[03/Sec/Library_NDA.01.md]
 
-MessageToUser=Adding Sections for an NDA.
+MessageToUser=Bringing in a library for all the text of NDAs.
 
 Prior.PageName=about/Agt/Step7
 
 Next.PageName=about/Agt/Step9
-
-

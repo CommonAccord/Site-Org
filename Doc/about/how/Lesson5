@@ -2,10 +2,7 @@
 
 AGT.Effective.YMD=September 4, 2014
 
-Prologue.Recital=<span style="color:{fontmark2}">{P1.Handle} and {P2.Handle} wish to assure that {P2.Handle} will protect {P1.Handle}'s confidential information.</span>
-
-fontmark2=magenta
-
+Prologue.Recital={m-}{P1.Handle} and {P2.Handle} wish to assure that {P2.Handle} will protect {P1.Handle}'s confidential information.{-m}
 
 The=whole system is
 

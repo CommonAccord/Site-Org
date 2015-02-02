@@ -4,13 +4,14 @@ P1.xSignature=x A Ang
 
 Sign.YMD=September 5, 2014
 
-fontmark=black							
+bcolor=black
 
-<p>=
-<p>=
+mcolor=black
 
-Commentary=P1 Signs.  (There is an additional trick in how "Sign.YMD" comes to fill for both P1 and P2.  See if you can find where the signature blocks come from and why P2 will be able to override just her own if she wants!)
-<p>=
+rcolor=black
+
+Commentary=P1 Signs.  See the bottom of the document - in the signature block for Acme. 
+
 
 Prior.PageName=about/how/Lesson8
 

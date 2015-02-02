@@ -1,3 +1,35 @@
+Model.Root={Doc}{Navigate}
+
 Doc={Doc.Model.Root}
 
-=[about/how/Lesson1]  
+Navigate=<br><br><br>Prior: {ToPriorPage}<br> Next: {ToNextPage}
+
+ToPriorPage=<u><a href="http://{BaseURL}{Prior.PageName}">{Prior.PageName}</a></u>
+
+ToNextPage=<b><u><a href="http://{BaseURL}{Next.PageName}">{Next.PageName}</a></u></b>
+
+BaseURL=hazardj.local/commonaccord/index.php?action=source&file=/
+
+BaseURL=commonaccord.org/index.php?action=source&file=/
+
+/Note=Marking
+
+r-=<font color="{rcolor}">
+
+-r=</font>
+
+rcolor=red
+
+
+g-=<font color="{rcolor}">
+
+-g=</font>
+
+gcolor=green
+
+
+m-=<font style="color: {mcolor}">
+
+-m=</font>
+
+mcolor=magenta

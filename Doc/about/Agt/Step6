@@ -1,8 +1,10 @@
 =[about/Agt/Step5]
 
-Remedy.=[02/Sec/NDA_Sec_Remedy.01.md]
+Misc.=[03/Sec/Library_Sec_Misc.01.md]
 
-MessageToUser=Adding a Remedies Section.
+Misc.Sec={Misc.NDA.1.Sec}
+
+MessageToUser=Adding a library of Miscellaneous provisions and selecting a mix of them. 
 
 Prior.PageName=about/Agt/Step5
 
