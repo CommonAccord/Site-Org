@@ -8,8 +8,6 @@ ToPriorPage=<u><a href="http://{BaseURL}{Prior.PageName}">{Prior.PageName}</a></
 
 ToNextPage=<b><u><a href="http://{BaseURL}{Next.PageName}">{Next.PageName}</a></u></b>
 
-BaseURL=hazardj.local/commonaccord/index.php?action=source&file=/
-
 BaseURL=commonaccord.org/index.php?action=source&file=/
 
 /Note=Marking
