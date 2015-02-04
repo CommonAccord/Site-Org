@@ -21,13 +21,25 @@ Ti=Ways to participate:
  
 2.1.sec=An NDA - see<u> <a href="{BaseSite}/index.php?action=source&file=/about/Agt/Step1">about/Agt/Step1</a></u>
 
-2.2.sec=Patient Consent to Use of Genomic Information - see<u> <a href="{BaseSite}/index.php?action=list&file=GenomicsAndHealth/REWG/Demo/">GenomicsAndHealth/REWG/Demo/</a>
+2.2.sec=Patient Consent to Use of Genomic Information - see {GA4GH.Demo}
 
-2.=[02/Bit/Ssec_02]
+2.3.sec=Startup - see {Startup.Docs}
+
+2.=[02/Bit/Ssec_03]
 
 =[02/Bit/Sec_02]
 
+GA4GH.Demo={alist-}GenomicsAndHealth/REWG/Demo/{-a-}GenomicsAndHealth/REWG/Demo/{-a}
 
-BaseSite=http://hazardj.local/commonaccord
+Startup.Docs={alist-}02/Form/{-a-}02/Form/{-a}
+
+
+alist-=<u> <a href="{BaseSite}/index.php?action=list&file=
+
+-a=</a></u>
+
+-a-=">
   
 BaseSite=http://commonaccord.org
+
+BaseSite=http://hazardj.local/commonaccord
