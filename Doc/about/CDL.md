@@ -24,7 +24,10 @@ Ti=The Center for Decentralized Law
 
 6.sec=There is a need for one or more "centers" for this decentralized system.  Participants want well-developed and well-known solutions.  The Center for Decentralized Law will supervise the CommonAccord repository and activities under the names of CommonAccord and DecentLaw.  It will provide a forum for development of codified documents and systems.
 
-90.sec=If you are interested in participating or in supporting this effort, please see {Participate}.  For more background, see {Layers} and {EarlierOnCDL}.
+90.sec=If you are interested in participating or in supporting this effort, please see {Participate}.  For more background, see {Agt}, {Layers} and {EarlierOnCDL}.
+
+
+Agt={a-}about/Agt/Step1{-a-}about/Agt/Step1{-a}
 
 Participate={a-}about/Participate.md{-a-}about/Participate.md{-a}
 
