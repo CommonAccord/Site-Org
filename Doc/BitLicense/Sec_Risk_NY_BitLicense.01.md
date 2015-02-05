@@ -1,6 +1,8 @@
+/Note=First cut, for comment only.  The goal ultimately is to fully automate compliance and to refine the discussion in the community and with regulators (who are, after all, part of the community). 
+
 Ti=New State BitLicense Compliance
 
-0.sec={P1.The} has not obtained, and does not expect to apply for, a license  (a "{BitLicense}") from the New York State superintendent of financial services (the "{NY_Superintendent}") under Title 23, Chapter 1, Section 200 of the proposed regulation on virtual currencies (the "{BitReg}").  The {BitReg} requires that any person obtain a {BitLicense} before engaging in a "Virtual Currency Business Activity" ("{VCBA}").  ("{Section}" means a Section of the {NY_BitReg} unless otherwise specified.) 
+0.sec={P1.The} has not obtained, and does not expect to apply for, a license  (a "{BitLicense}") from the New York State superintendent of financial services (the "{NY_Superintendent}") under Title 23, Chapter 1, Section 200 of the proposed regulation on virtual currencies (the "{BitReg}").  The {BitReg} requires that any person obtain a {BitLicense} before engaging in a "Virtual Currency Business Activity" ("{VCBA}").  ("{Section}" means a Section of the {BitReg} unless otherwise specified.) 
 
 Secs={Exempt.Sec}<li>{Effect.Sec}
 
@@ -48,7 +50,7 @@ NY_Superintendent={d-}Superintendent{-d}
 
 Section={d-}Section{-d}
 
-VCBA={d-}Virtual Currency Business Activity{-d}
+VCBA={d-}VCBA{-d}
 
 Virtual_Currency={d-}Virtual Currency{-d}
 
