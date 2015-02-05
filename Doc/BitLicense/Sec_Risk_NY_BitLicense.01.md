@@ -22,7 +22,7 @@ Exempt.4.sec={P1.The} is not engaged in a {VCBA} because it does not conduct any
 Exempt.5.sec={P1.The} is engaged only in the "development and dissemination of software in and of itself" per {Section} 200.2(q).
 
 
-Exempt.=[02/Bit/Ssec_05]
+Exempt.=[02/Bit/Ssec_06]
 
 Effect.Ti=Effect
 
@@ -36,7 +36,7 @@ Effect.3.sec={P1.The} might be ineligible for {BitLicense}.
 
 Effect.4.sec=The {NY_Superintendent} might deny or delay the grant of a {BitLicense}.
 
-Effect.=[02/Bit/Ssec_04]
+Effect.=[02/Bit/Ssec_05]
 
 =[02/Bit/Sec]
  
