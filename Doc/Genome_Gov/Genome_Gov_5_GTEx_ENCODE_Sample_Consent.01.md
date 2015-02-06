@@ -37,7 +37,7 @@ Explain.8.sec=We would also like to collect additional samples of tissue for use
 
 Explain.=[02/Bit/Ssec_08]
 
-3.sec=For telephonic authorization, please have NOK verbalize the following:<br>I, {Donor.Description} authorize {Institution} for the donation of samples of the tissue types and associated connective tissues indicated below. Please state yes or no to each.  {Tissue.sec}
+3.sec=For telephonic authorization, please have NOK verbalize the following:<br>I, {Donor.Description} authorize {Institution} for the donation of samples of the tissue types and associated connective tissues indicated below. Please state yes or no to each. <br> {Tissue.sec}
 
 Tissue.1.Ti=Brain(Tissue Donor only)
 Tissue.2.Ti=Salivary gland
@@ -62,7 +62,7 @@ Tissue.20.Ti=Neurological tissue
 Tissue.21.Ti=Esophagus
 Tissue.22.Ti=Bladder
 
-Tissue.sec=<b>{Tissue.1.Ti} __ Yes __ No {Tissue.2.Ti} __ Yes __ No {Tissue.3.Ti} __ Yes __ No {Tissue.4.Ti} __ Yes __ No {Tissue.5.Ti} __ Yes __ No {Tissue.6.Ti} __ Yes __ No {Tissue.7.Ti} __ Yes __ No </b>
+Tissue.sec=<b>{Tissue.1.Ti} __ Yes __ No {Tissue.2.Ti} __ Yes __ No {Tissue.3.Ti} __ Yes __ No {Tissue.4.Ti} __ Yes __ No {Tissue.5.Ti} __ Yes __ No {Tissue.6.Ti} __ Yes __ No {Tissue.7.Ti} __ Yes __ No {Tissue.8.Ti} __ Yes __ No {Tissue.9.Ti} __ Yes __ No {Tissue.10.Ti} __ Yes __ No {Tissue.11.Ti} __ Yes __ No {Tissue.12.Ti} __ Yes __ No {Tissue.13.Ti} __ Yes __ No {Tissue.14.Ti} __ Yes __ No {Tissue.15.Ti} __ Yes __ No {Tissue.16.Ti} __ Yes __ No {Tissue.17.Ti} __ Yes __ No {Tissue.18.Ti} __ Yes __ No {Tissue.19.Ti} __ Yes __ No {Tissue.20.Ti} __ Yes __ No {Tissue.21.Ti} __ Yes __ No {Tissue.22.Ti}</b>
 
 4.sec=Please specify limitations: ________________________________________________________________________________
 
