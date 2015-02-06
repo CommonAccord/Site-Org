@@ -72,9 +72,11 @@ Tissue.sec=<b>{Tissue.1.Ti} __ Yes __ No {Tissue.2.Ti} __ Yes __ No {Tissue.3.Ti
 
 7.sec=__ Check box if telephonic authorization obtained (If telephonic authorization obtained: (i) print name(s) of Next-of-Kin and any witness(es) and (ii) note date and time of authorization.)
 
-8.sec=<hr><hr>{Attach.Sec}
+90.sec=<hr><hr>{Attach.Sec}
 
-=[02/Bit/Ssec_08]
+=[02/Bit/Ssec_07]
+
+xlist={blist}
 
 
 Attach.Ti=Addendum to {Project.Title} Authorization form for the {Project2.Title}
