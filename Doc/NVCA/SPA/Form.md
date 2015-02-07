@@ -1,12 +1,12 @@
-Heading=SERIES A PREFERRED STOCK PURCHASE AGREEMENT
+Ti=SERIES A PREFERRED STOCK PURCHASE AGREEMENT
 
 0.Sec={0.1.Sec}<br>{0.2.Sec}
 
-0.1.Sec={0.1.1.Sec} {0.1.2.Sec}.
+0.1.Sec={0.1.1.Cl} {0.1.2.cl}.
  
-0.1.1.Sec=THIS SERIES A PREFERRED STOCK PURCHASE AGREEMENT (this “Agreement”), is made as of {Agt.Effective.YMD} by and among {Co.Name.Full}, a Delaware corporation (the “Company”), the investors listed on Exhibit A attached to this Agreement (each a “Purchaser” and together the “Purchasers”)
+0.1.1.Cl=THIS {Ti} (this “Agreement”), is made as of {Agt.Effective.YMD} by and among {Co.Name.Full}, a Delaware corporation (the “Company”), the investors listed on Exhibit A attached to this Agreement (each a “Purchaser” and together the “Purchasers”)
 
-0.1.2.Sec=and the persons listed as “Founders” on the signature pages to this Agreement (each a “Founder” and together the “Founders”)
+0.1.2.cl=and the persons listed as “Founders” on the signature pages to this Agreement (each a “Founder” and together the “Founders”)
 
 0.2.Sec=The parties hereby agree as follows:
 
@@ -14,61 +14,63 @@ Heading=SERIES A PREFERRED STOCK PURCHASE AGREEMENT
 
 1.1.Ti=Sale and Issuance of Series A Preferred Stock
 
-1.1.1.Sec=The Company shall adopt and file with the Secretary of State of the State of Delaware on or before the Initial Closing (as defined below) the Amended and Restated Certificate of Incorporation in the form of Exhibit B attached to this Agreement (the “Restated Certificate”).
+1.1.1.sec=The Company shall adopt and file with the Secretary of State of the State of Delaware on or before the Initial Closing (as defined below) the Amended and Restated Certificate of Incorporation in the form of Exhibit B attached to this Agreement (the “Restated Certificate”).
 
-1.1.2.Sec={1.1.2.1.Sec} {1.1.2.2.Sec}
+1.1.2.sec={1.1.2.1.Sen} {1.1.2.2.Sen}
 
-1.1.2.1.Sec=Subject to the terms and conditions of this Agreement, each Purchaser agrees to purchase at the Closing and the Company agrees to sell and issue to each Purchaser at the Closing that number of shares of Series A Preferred Stock, ${1.1.2.1.Var} par value per share (the “Series A Preferred Stock”), set forth opposite each Purchaser’s name on Exhibit A, at a purchase price of ${1.1.2.2.Var} per share.
+1.1.2.1.Sen=Subject to the terms and conditions of this Agreement, each Purchaser agrees to purchase at the Closing and the Company agrees to sell and issue to each Purchaser at the Closing that number of shares of Series A Preferred Stock, ${1.1.2.1.Var} par value per share (the “Series A Preferred Stock”), set forth opposite each Purchaser’s name on Exhibit A, at a purchase price of ${1.1.2.2.Var} per share.
 
-1.1.2.2.Sec={1.1.2.2.1.Sec}  {1.1.2.2.2.Sec} {1.1.2.2.3.Sec}
+1.1.2.2.Sen={1.1.2.2.1.Cl}  {1.1.2.2.2.cl} {1.1.2.2.3.cl}
 
-1.1.2.2.1.Sec=The shares of Series A Preferred Stock issued to the Purchasers pursuant to this Agreement (including any shares issued at the Initial Closing and any
+1.1.2.2.1.Cl=The shares of Series A Preferred Stock issued to the Purchasers pursuant to this Agreement (including any shares issued at the Initial Closing and any
 
-1.1.2.2.2.Sec=Milestone Shares or
+1.1.2.2.2.cl=Milestone Shares or
 
-1.1.2.2.3.Sec=Additional Shares, as defined below) shall be referred to in this Agreement as the “Shares.”
+1.1.2.2.3.cl=Additional Shares, as defined below) shall be referred to in this Agreement as the “Shares.”
 
-1.1.=[01/Agt/Bit/Outline/1-2.Secs]  
+1.1.=[02/Bit/Ssec_02]
+
+/stopped=here in renaming according to better system
 
 1.2.Ti=Closing; Delivery
 
-1.2.1.Sec=The initial purchase and sale of the Shares shall take place remotely via the exchange of documents and signatures, at {1.2.1.1.Var}, or at such other time and place as the Company and the Purchasers mutually agree upon, orally or in writing (which time and place are designated as the “Initial Closing”). In the event there is more than one closing, the term “Closing” shall apply to each such closing unless otherwise specified.
+1.2.1.sec=The initial purchase and sale of the Shares shall take place remotely via the exchange of documents and signatures, at {1.2.1.1.Var}, or at such other time and place as the Company and the Purchasers mutually agree upon, orally or in writing (which time and place are designated as the “Initial Closing”). In the event there is more than one closing, the term “Closing” shall apply to each such closing unless otherwise specified.
 
-1.2.2.Sec={1.2.2.1.Sec}{1.2.2.2.Sec}, {1.2.2.3.Sec}.
+1.2.2.sec={1.2.2.1.Cl}{1.2.2.2.cl}, {1.2.2.3.cl}.
 
-1.2.2.1.Sec=At each Closing, the Company shall deliver to each Purchaser a certificate representing the Shares being purchased by such Purchaser at such Closing against payment of the purchase price therefor by check payable to the Company, by wire transfer to a bank account designated by the Company, by cancellation or conversion of indebtedness of the Company to Purchaser
+1.2.2.1.Cl=At each Closing, the Company shall deliver to each Purchaser a certificate representing the Shares being purchased by such Purchaser at such Closing against payment of the purchase price therefor by check payable to the Company, by wire transfer to a bank account designated by the Company, by cancellation or conversion of indebtedness of the Company to Purchaser
 
-1.2.2.2.Sec=, including interest
+1.2.2.2.cl=, including interest
 
-1.2.2.3.Sec=or by any combination of such methods
+1.2.2.3.cl=or by any combination of such methods
 
-1.2.=[01/Agt/Bit/Outline/1-2.Secs]  
+1.2.=[02/Bit/Ssec_02]
 
 1.3.Ti=Sale of Additional Shares of Preferred Stock
 
-1.3.1.Sec={1.3.1.1.Sec} {1.3.1.2.Sec}
+1.3.1.sec={1.3.1.1.Sen} {1.3.1.2.Sen}
 
-1.3.1.1.Sec={1.3.1.1.1.Sec} {1.3.1.1.2.Sec}{1.3.1.1.3.Sec}{1.3.1.1.4.Sec}
+1.3.1.1.Sen={1.3.1.1.1.Cl} {1.3.1.1.2.cl}{1.3.1.1.3.cl}{1.3.1.1.4.cl}.
 
-1.3.1.1.1.Sec=After the Initial Closing, the Company may sell, on the same terms and conditions as those contained in this Agreement, up to {1.3.1.Var1} additional shares (subject to appropriate adjustment in the event of any stock dividend, stock split, combination or similar recapitalization affecting such shares) of Series A Preferred Stock (the “Additional Shares”), to one or more purchasers (the “Additional Purchasers”)
+1.3.1.1.1.Cl=After the Initial Closing, the Company may sell, on the same terms and conditions as those contained in this Agreement, up to {1.3.1.Var1} additional shares (subject to appropriate adjustment in the event of any stock dividend, stock split, combination or similar recapitalization affecting such shares) of Series A Preferred Stock (the “Additional Shares”), to one or more purchasers (the “Additional Purchasers”)
 
-1.3.1.1.2.Sec=reasonably acceptable to Purchasers holding a {1.3.1.1.Var2} of the then outstanding Shares
+1.3.1.1.2.cl=reasonably acceptable to Purchasers holding a {1.3.1.1.Var2} of the then outstanding Shares
 
-1.3.1.1.3.Sec=, provided that (i) such subsequent sale is consummated prior to {1.3.1.1.Var3} days after the Initial Closing (ii) each Additional Purchaser shall become a party to the Transaction Agreements (as defined below) (other than the Management Rights Letter), by executing and delivering a counterpart signature page to each of the Transaction Agreements
+1.3.1.1.3.cl=, provided that (i) such subsequent sale is consummated prior to {1.3.1.1.Var3} days after the Initial Closing (ii) each Additional Purchaser shall become a party to the Transaction Agreements (as defined below) (other than the Management Rights Letter), by executing and delivering a counterpart signature page to each of the Transaction Agreements
 
-1.3.1.1.4.Sec=; and (iii) {Co.Counsel.Name.Full}, counsel for the Company, provides an opinion dated as of the date of such Closing that the offer, issuance, sale and delivery of the Additional Shares to the Additional Purchasers do not require registration under the Securities Act of 1933, as amended, or applicable state securities laws.
+1.3.1.1.4.cl=; and (iii) {Co.Counsel.Name.Full}, counsel for the Company, provides an opinion dated as of the date of such Closing that the offer, issuance, sale and delivery of the Additional Shares to the Additional Purchasers do not require registration under the Securities Act of 1933, as amended, or applicable state securities laws
 
-1.3.1.2.Sec=Exhibit A to this Agreement shall be updated to reflect the number of Additional Shares purchased at each such Closing and the parties purchasing such Additional Shares.
+1.3.1.2.Sen=Exhibit A to this Agreement shall be updated to reflect the number of Additional Shares purchased at each such Closing and the parties purchasing such Additional Shares.
 
-1.3.2.Sec={1.3.2.1.Sec} {1.3.2.2.Sec} {1.3.2.3.Sec}
+1.3.2.sec={1.3.2.1.Cl} {1.3.2.2.cl} {1.3.2.3.cl}
 
-1.3.2.1.Sec=After the Initial Closing, the Company shall sell, and the Purchasers shall purchase, on the same terms and conditions as those contained in this Agreement, up to {1.3.2.Var1} additional shares of Series A Preferred Stock (the “Milestone Shares”), pro rata in accordance with the number of Shares being purchased by each such Purchaser at all prior Closings, on the certification by the
+1.3.2.1.Cl=After the Initial Closing, the Company shall sell, and the Purchasers shall purchase, on the same terms and conditions as those contained in this Agreement, up to {1.3.2.Var1} additional shares of Series A Preferred Stock (the “Milestone Shares”), pro rata in accordance with the number of Shares being purchased by each such Purchaser at all prior Closings, on the certification by the
 
-1.3.2.2.Sec=[Board] [Purchasers]
+1.3.2.2.cl={Board/Purchasers}
 
-1.3.2.3.Sec=that the events specified in Exhibit J attached to this Agreement have occurred (the “Milestone Events”). The date of the purchase and sale of the Milestone Shares are referred to in this Agreement as the “Milestone Closing.”
+1.3.2.3.cl=that the events specified in Exhibit J attached to this Agreement have occurred (the “Milestone Events”). The date of the purchase and sale of the Milestone Shares are referred to in this Agreement as the “Milestone Closing.”
 
-1.3.=[01/Agt/Bit/Outline/1-2.Secs]  
+1.3.=[02/Bit/Ssec_02]  
 
 1.4.Ti=Use of Proceeds
 
@@ -84,39 +86,39 @@ Heading=SERIES A PREFERRED STOCK PURCHASE AGREEMENT
 
 1.5.3.Sec=“Company Covered Person” means, with respect to the Company as an “issuer” for purposes of Rule 506 promulgated under the Securities Act, any Person listed in the first paragraph of Rule 506(d)(1).
 
-1.5.4.Sec={1.5.4.1.Sec} {1.5.4.2.Sec} {1.5.4.3.Sec}.
+1.5.4.Sec={1.5.4.1.Cl} {1.5.4.2.cl} {1.5.4.3.cl}.
 
-1.5.4.1.Sec=“Company Intellectual Property” means all patents, patent applications, trademarks, trademark applications, service marks, service mark applications, tradenames, copyrights, trade secrets, domain names, mask works, information and proprietary rights and processes, similar or other intellectual property rights, subject matter of any of the foregoing, tangible embodiments of any of the foregoing, licenses in, to and under any of the foregoing, and any and all such cases
+1.5.4.1.Cl=“Company Intellectual Property” means all patents, patent applications, trademarks, trademark applications, service marks, service mark applications, tradenames, copyrights, trade secrets, domain names, mask works, information and proprietary rights and processes, similar or other intellectual property rights, subject matter of any of the foregoing, tangible embodiments of any of the foregoing, licenses in, to and under any of the foregoing, and any and all such cases
 
-1.5.4.2.Sec=[that are owned or used by] [as are necessary to]
+1.5.4.2.cl={that are owned or used by/as are necessary to}
 
-1.5.4.3.Sec=the Company in the conduct of the Company’s business as now conducted and as presently proposed to be conducted
+1.5.4.3.cl=the Company in the conduct of the Company’s business as now conducted and as presently proposed to be conducted
 
-1.5.5.Sec={1.5.5.1.Sec} {1.5.5.2.Sec} {1.5.5.3.Sec}.
+1.5.5.Sec={1.5.5.1.Cl} {1.5.5.2.cl} {1.5.5.3.cl}.
 
-1.5.5.1.Sec=“Indemnification Agreement” means the agreement between the Company and the director
+1.5.5.1.Cl=“Indemnification Agreement” means the agreement between the Company and the director
 
-1.5.5.2.Sec=and Purchaser Affiliates
+1.5.5.2.cl=and Purchaser Affiliates
 
-1.5.5.3.Sec=designated by any Purchaser entitled to designate a member of the Board of Directors pursuant to the Voting Agreement, dated as of the date of the Initial Closing, in the form of Exhibit D attached to this Agreement
+1.5.5.3.cl=designated by any Purchaser entitled to designate a member of the Board of Directors pursuant to the Voting Agreement, dated as of the date of the Initial Closing, in the form of Exhibit D attached to this Agreement
 
-1.5.6.Sec={1.5.6.1.Sec} {1.5.6.2.Sec} {1.5.6.3.Sec}.
+1.5.6.Sec={1.5.6.1.Cl} {1.5.6.2.cl} {1.5.6.3.cl}.
 
-1.5.6.1.Sec=“Investors’ Rights Agreement” means the agreement among the Company and the Purchasers
+1.5.6.1.Cl=“Investors’ Rights Agreement” means the agreement among the Company and the Purchasers
 
-1.5.6.2.Sec=and certain other stockholders of the Company
+1.5.6.2.cl=and certain other stockholders of the Company
 
-1.5.6.3.Sec=dated as of the date of the Initial Closing, in the form of Exhibit E attached to this Agreement
+1.5.6.3.cl=dated as of the date of the Initial Closing, in the form of Exhibit E attached to this Agreement
 
 1.5.7.Sec=“Key Employee” means any executive-level employee (including division director and vice president-level positions) as well as any employee or consultant who either alone or in concert with others develops, invents, programs or designs any Company Intellectual Property.
 
-1.5.8.Sec={1.5.8.1.Sec} {1.5.8.2.Sec} {1.5.8.3.Sec}.
+1.5.8.Sec={1.5.8.1.Cl} {1.5.8.2.cl} {1.5.8.3.cl}.
 
-1.5.8.1.Sec=“Knowledge” including the phrase “to the Company’s knowledge” shall mean the actual knowledge
+1.5.8.1.Cl=“Knowledge” including the phrase “to the Company’s knowledge” shall mean the actual knowledge
 
-1.5.8.2.Sec=after reasonable investigation
+1.5.8.2.cl=after reasonable investigation
 
-1.5.8.3.Sec=of the following officers: {specify_names}
+1.5.8.3.cl=of the following officers: {specify_names}
 
 1.5.9.Sec=“Management Rights Letter” means the agreement between the Company and {PurchaserName}, dated as of the date of the Initial Closing, in the form of Exhibit F attached to this Agreement.
 
@@ -130,29 +132,29 @@ Heading=SERIES A PREFERRED STOCK PURCHASE AGREEMENT
 
 1.5.14.Sec=“Securities Act” means the Securities Act of 1933, as amended, and the rules and regulations promulgated thereunder.
 
-1.5.15.Sec={1.5.15.1.Sec} {1.5.15.2.Sec} {1.5.15.3.Sec}.
+1.5.15.Sec={1.5.15.1.Cl} {1.5.15.2.cl} {1.5.15.3.cl}.
 
-1.5.15.1.Sec=“Shares” means the shares of Series A Preferred Stock issued at the Initial Closing and any
+1.5.15.1.Cl=“Shares” means the shares of Series A Preferred Stock issued at the Initial Closing and any
 
-1.5.15.2.Sec=Milestone Shares or
+1.5.15.2.cl=Milestone Shares or
 
-1.5.15.3.Sec=Additional Shares issued at a subsequent Closing under Subsection 1.2(b)
+1.5.15.3.cl=Additional Shares issued at a subsequent Closing under Subsection 1.2(b)
 
 1.5.16.Sec=“Transaction Agreements” means this Agreement, the Investors’ Rights Agreement, the Management Rights Letter, the Right of First Refusal and Co-Sale Agreement, the Voting Agreement and {list any other agreements, instruments or documents entered into in connection with this Agreement}.
 
 1.5.17.Sec=“Voting Agreement” means the agreement among the Company, the Purchasers and certain other stockholders of the Company, dated as of the date of the Initial Closing, in the form of Exhibit H attached to this Agreement.
 
-1.5.=[01/Agt/Bit/Outline/1-17.Secs]  
+1.5.=[02/Bit/Sec_17]  
 
-1.=[01/Agt/Bit/Outline/1-5.Secs]
+1.=[02/Bit/Sec_05]
   
 2.Ti=Representations and Warranties of the Company
 
-2.0.Sec={2.0.1.Sec}<br>{2.0.2.Sec}
+2.0.Sec={2.0.1.Sen}<br>{2.0.2.Sen}
 
-2.0.1.Sec=The Company hereby represents and warrants to each Purchaser that, except as set forth on the Disclosure Schedule attached as Exhibit C to this Agreement, which exceptions shall be deemed to be part of the representations and warranties made hereunder, the following representations are true and complete as of the date of the Initial Closing, except as otherwise indicated.  The Disclosure Schedule shall be arranged in sections corresponding to the numbered and lettered sections and subsections contained in this Section 2, and the disclosures in any section or subsection of the Disclosure Schedule shall qualify other sections and subsections in this Section 2 only to the extent it is readily apparent from a reading of the disclosure that such disclosure is applicable to such other sections and subsections.
+2.0.1.Sen=The Company hereby represents and warrants to each Purchaser that, except as set forth on the Disclosure Schedule attached as Exhibit C to this Agreement, which exceptions shall be deemed to be part of the representations and warranties made hereunder, the following representations are true and complete as of the date of the Initial Closing, except as otherwise indicated.  The Disclosure Schedule shall be arranged in sections corresponding to the numbered and lettered sections and subsections contained in this Section 2, and the disclosures in any section or subsection of the Disclosure Schedule shall qualify other sections and subsections in this Section 2 only to the extent it is readily apparent from a reading of the disclosure that such disclosure is applicable to such other sections and subsections.
 
-2.0.2.Sec=For purposes of these representations and warranties (other than those in Subsections 2.2, 2.3, 2.4, 2.5, and 2.6), the term the “Company” shall include any subsidiaries of the Company, unless otherwise noted herein.
+2.0.2.Sen=For purposes of these representations and warranties (other than those in Subsections 2.2, 2.3, 2.4, 2.5, and 2.6), the term the “Company” shall include any subsidiaries of the Company, unless otherwise noted herein.
 
 2.1.Ti=Organization, Good Standing, Corporate Power and Qualification
 
@@ -160,37 +162,37 @@ Heading=SERIES A PREFERRED STOCK PURCHASE AGREEMENT
 
 2.2.Ti=Capitalization
 
-2.2.1.Sec=The authorized capital of the Company consists, immediately prior to the Initial Closing, of:
+2.2.1.0.sec=The authorized capital of the Company consists, immediately prior to the Initial Closing, of:
 
-2.2.1.1.Sec={2.2.1.1.A.Sec} {2.2.1.1.B.Sec} {2.2.1.1.C.Sec} 
+2.2.1.1.sec={2.2.1.1.A.Sen} {2.2.1.1.B.Sen} {2.2.1.1.C.Sen} 
 
-2.2.1.1.A.Sec={Cap.Var1} shares of common stock, ${Cap.Var2} par value per share (the “Common Stock”), {Cap.Var3} shares of which are issued and outstanding immediately prior to the Initial Closing.
+2.2.1.1.A.Sen={Cap.Var1} shares of common stock, ${Cap.Var2} par value per share (the “Common Stock”), {Cap.Var3} shares of which are issued and outstanding immediately prior to the Initial Closing.
 
-2.2.1.1.B.Sec=All of the outstanding shares of Common Stock have been duly authorized, are fully paid and nonassessable and were issued in compliance with all applicable federal and state securities laws.
+2.2.1.1.B.Sen=All of the outstanding shares of Common Stock have been duly authorized, are fully paid and nonassessable and were issued in compliance with all applicable federal and state securities laws.
 
-2.2.1.1.C.Sec=The Company holds no Common Stock in its treasury.
+2.2.1.1.C.Sen=The Company holds no Common Stock in its treasury.
 
-2.2.1.2.Sec={2.2.1.2.A.Sec} {2.2.1.2.B.Sec} {2.2.1.2.C.Sec} 
+2.2.1.2.sec={2.2.1.2.A.Sen} {2.2.1.2.B.Sen} {2.2.1.2.C.Sen} 
 
-2.2.1.2.A.Sec={Cap.Var4} shares of Preferred Stock, of which {Cap.Var4} shares have been designated Series A Preferred Stock, none of which are issued and outstanding immediately prior to the Initial Closing.
+2.2.1.2.A.Sen={Cap.Var4} shares of Preferred Stock, of which {Cap.Var4} shares have been designated Series A Preferred Stock, none of which are issued and outstanding immediately prior to the Initial Closing.
 
-2.2.1.2.B.Sec=The rights, privileges and preferences of the Preferred Stock are as stated in the Restated Certificate and as provided by the Delaware General Corporation Law.
+2.2.1.2.B.Sen=The rights, privileges and preferences of the Preferred Stock are as stated in the Restated Certificate and as provided by the Delaware General Corporation Law.
 
-2.2.1.2.C.Sec=The Company holds no Preferred Stock in its treasury.
+2.2.1.2.C.Sen=The Company holds no Preferred Stock in its treasury.
 
-2.2.1.=[01/Agt/Bit/Outline/1-2.Secs]  
+2.2.1.=[02/Bit/Ssec_02]
 
-2.2.2.Sec=The Company has reserved {Cap.Var5}shares of Common Stock for issuance to officers, directors, employees and consultants of the Company pursuant to its {Cap.Var6} Stock {Cap.Var7} Plan duly adopted by the Board of Directors and approved by the Company stockholders (the “Stock Plan”).  Of such reserved shares of Common Stock, {Cap.Var8} shares have been issued pursuant to restricted stock purchase agreements, options to purchase {Cap.Var9} shares have been granted and are currently outstanding, and {Cap.Var10} shares of Common Stock remain available for issuance to officers, directors, employees and consultants pursuant to the Stock Plan.  The Company has furnished to the Purchasers complete and accurate copies of the Stock Plan and forms of agreements used thereunder.
+2.2.2.sec=The Company has reserved {Cap.Var5}shares of Common Stock for issuance to officers, directors, employees and consultants of the Company pursuant to its {Cap.Var6} Stock {Cap.Var7} Plan duly adopted by the Board of Directors and approved by the Company stockholders (the “Stock Plan”).  Of such reserved shares of Common Stock, {Cap.Var8} shares have been issued pursuant to restricted stock purchase agreements, options to purchase {Cap.Var9} shares have been granted and are currently outstanding, and {Cap.Var10} shares of Common Stock remain available for issuance to officers, directors, employees and consultants pursuant to the Stock Plan.  The Company has furnished to the Purchasers complete and accurate copies of the Stock Plan and forms of agreements used thereunder.
 
-2.2.3.Sec=Subsection 2.2(b) of the Disclosure Schedule sets forth the capitalization of the Company immediately following the Initial Closing including the number of shares of the following: (i) issued and outstanding Common Stock, including, with respect to restricted Common Stock, vesting schedule and repurchase price; (ii) granted stock options, including vesting schedule and exercise price; (iii) shares of Common Stock reserved for future award grants under the Stock Plan; (iv) each series of Preferred Stock; and (v) warrants or stock purchase rights, if any.   Except for (A) the conversion privileges of the Shares to be issued under this Agreement, (B) the rights provided in Section 4 of the Investors’ Rights Agreement, and (C) the securities and rights described in Subsection 2.2(a)(ii) of this Agreement and Subsection 2.2(b) of the Disclosure Schedule, there are no outstanding options, warrants, rights (including conversion or preemptive rights and rights of first refusal or similar rights) or agreements, orally or in writing, to purchase or acquire from the Company any shares of Common Stock or Series A Preferred Stock, or any securities convertible into or exchangeable for shares of Common Stock or Series A Preferred Stock.  All outstanding shares of the Company’s Common Stock and all shares of the Company’s Common Stock underlying outstanding options are subject to (i) a right of first refusal in favor of the Company upon any proposed transfer (other than transfers for estate planning purposes); and (ii) a lock-up or market standoff agreement of not less than one hundred eighty (180) days following the Company’s initial public offering pursuant to a registration statement filed with the Securities and Exchange Commission under the Securities Act.
+2.2.3.sec=Subsection 2.2(b) of the Disclosure Schedule sets forth the capitalization of the Company immediately following the Initial Closing including the number of shares of the following: (i) issued and outstanding Common Stock, including, with respect to restricted Common Stock, vesting schedule and repurchase price; (ii) granted stock options, including vesting schedule and exercise price; (iii) shares of Common Stock reserved for future award grants under the Stock Plan; (iv) each series of Preferred Stock; and (v) warrants or stock purchase rights, if any.   Except for (A) the conversion privileges of the Shares to be issued under this Agreement, (B) the rights provided in Section 4 of the Investors’ Rights Agreement, and (C) the securities and rights described in Subsection 2.2(a)(ii) of this Agreement and Subsection 2.2(b) of the Disclosure Schedule, there are no outstanding options, warrants, rights (including conversion or preemptive rights and rights of first refusal or similar rights) or agreements, orally or in writing, to purchase or acquire from the Company any shares of Common Stock or Series A Preferred Stock, or any securities convertible into or exchangeable for shares of Common Stock or Series A Preferred Stock.  All outstanding shares of the Company’s Common Stock and all shares of the Company’s Common Stock underlying outstanding options are subject to (i) a right of first refusal in favor of the Company upon any proposed transfer (other than transfers for estate planning purposes); and (ii) a lock-up or market standoff agreement of not less than one hundred eighty (180) days following the Company’s initial public offering pursuant to a registration statement filed with the Securities and Exchange Commission under the Securities Act.
 
-2.2.4.Sec=None of the Company’s stock purchase agreements or stock option documents contains a provision for acceleration of vesting (or lapse of a repurchase right) or other changes in the vesting provisions or other terms of such agreement or understanding upon the occurrence of any event or combination of events, including without limitation in the case where the Company’s Stock Plan is not assumed in an acquisition.  The Company has never adjusted or amended the exercise price of any stock options previously awarded, whether through amendment, cancellation, replacement grant, repricing, or any other means.  Except as set forth in the Restated Certificate, the Company has no obligation (contingent or otherwise) to purchase or redeem any of its capital stock.
+2.2.4.sec=None of the Company’s stock purchase agreements or stock option documents contains a provision for acceleration of vesting (or lapse of a repurchase right) or other changes in the vesting provisions or other terms of such agreement or understanding upon the occurrence of any event or combination of events, including without limitation in the case where the Company’s Stock Plan is not assumed in an acquisition.  The Company has never adjusted or amended the exercise price of any stock options previously awarded, whether through amendment, cancellation, replacement grant, repricing, or any other means.  Except as set forth in the Restated Certificate, the Company has no obligation (contingent or otherwise) to purchase or redeem any of its capital stock.
 
-2.2.5.Sec=409A. The Company believes in good faith that any “nonqualified deferred compensation plan” (as such term is defined under Section 409A(d)(1) of the Code and the guidance thereunder) under which the Company makes, is obligated to make or promises to make, payments (each, a “409A Plan”) complies in all material respects, in both form and operation, with the requirements of Section 409A of the Code and the guidance thereunder. To the knowledge of  the Company, no payment to be made under any 409A Plan is, or will be, subject to the penalties of Section 409A(a)(1) of the Code.
+2.2.5.sec=409A. The Company believes in good faith that any “nonqualified deferred compensation plan” (as such term is defined under Section 409A(d)(1) of the Code and the guidance thereunder) under which the Company makes, is obligated to make or promises to make, payments (each, a “409A Plan”) complies in all material respects, in both form and operation, with the requirements of Section 409A of the Code and the guidance thereunder. To the knowledge of  the Company, no payment to be made under any 409A Plan is, or will be, subject to the penalties of Section 409A(a)(1) of the Code.
 
-2.2.6.Sec=The Company has obtained valid waivers of any rights by other parties to purchase any of the Shares covered by this Agreement.
+2.2.6.sec=The Company has obtained valid waivers of any rights by other parties to purchase any of the Shares covered by this Agreement.
 
-2.2.=[01/Agt/Bit/Outline/1-2.Secs]
+2.2.=[02/Bit/Ssec_02]
 
 2.3.Ti=Subsidiaries
 
@@ -202,13 +204,13 @@ Heading=SERIES A PREFERRED STOCK PURCHASE AGREEMENT
 
 2.5.Ti=Valid Issuance of Shares.
 
-2.5.1.Sec=The Shares, when issued, sold and delivered in accordance with the terms and for the consideration set forth in this Agreement, will be validly issued, fully paid and nonassessable and free of restrictions on transfer other than restrictions on transfer under the Transaction Agreements, applicable state and federal securities laws and liens or encumbrances created by or imposed by a Purchaser.  Assuming the accuracy of the representations of the Purchasers in Section 0 of this Agreement and subject to the filings described in Subsection 2.5(b)(ii) below, the Shares will be issued in compliance with all applicable federal and state securities laws.  The Common Stock issuable upon conversion of the Shares has been duly reserved for issuance, and upon issuance in accordance with the terms of the Restated Certificate, will be validly issued, fully paid and nonassessable and free of restrictions on transfer other than restrictions on transfer under the Transaction Agreements, applicable federal and state securities laws and liens or encumbrances created by or imposed by a Purchaser.  Based in part upon the representations of the Purchasers in Section 0 of this Agreement, and subject to Subsection 2.5(b) below, the Common Stock issuable upon conversion of the Shares will be issued in compliance with all applicable federal and state securities laws.
+2.5.1.sec=The Shares, when issued, sold and delivered in accordance with the terms and for the consideration set forth in this Agreement, will be validly issued, fully paid and nonassessable and free of restrictions on transfer other than restrictions on transfer under the Transaction Agreements, applicable state and federal securities laws and liens or encumbrances created by or imposed by a Purchaser.  Assuming the accuracy of the representations of the Purchasers in Section 0 of this Agreement and subject to the filings described in Subsection 2.5(b)(ii) below, the Shares will be issued in compliance with all applicable federal and state securities laws.  The Common Stock issuable upon conversion of the Shares has been duly reserved for issuance, and upon issuance in accordance with the terms of the Restated Certificate, will be validly issued, fully paid and nonassessable and free of restrictions on transfer other than restrictions on transfer under the Transaction Agreements, applicable federal and state securities laws and liens or encumbrances created by or imposed by a Purchaser.  Based in part upon the representations of the Purchasers in Section 0 of this Agreement, and subject to Subsection 2.5(b) below, the Common Stock issuable upon conversion of the Shares will be issued in compliance with all applicable federal and state securities laws.
 
-2.5.2.Sec=No “bad actor” disqualifying event described in Rule 506(d)(1)(i)-(viii) of the Securities Act (a “Disqualification Event”) is applicable to the Company or, to the Company’s knowledge, any Company Covered Person, except for a Disqualification Event as to which Rule 506(d)(2)(ii–iv) or (d)(3), is applicable.,
+2.5.2.sec=No “bad actor” disqualifying event described in Rule 506(d)(1)(i)-(viii) of the Securities Act (a “Disqualification Event”) is applicable to the Company or, to the Company’s knowledge, any Company Covered Person, except for a Disqualification Event as to which Rule 506(d)(2)(ii–iv) or (d)(3), is applicable.
 
-/Note: extra comma from original.
+/Note: extra comma from original has been deleted.
 
-2.5.=[01/Agt/Bit/Outline/1-2.Secs]
+2.5.=[02/Bit/Ssec_02]
 
 2.6.Ti=Governmental Consents and Filings
 
@@ -220,15 +222,15 @@ Heading=SERIES A PREFERRED STOCK PURCHASE AGREEMENT
 
 Lit.Opt1=in writing
 
-Lit.List=(i) {Lit.List.1.Sec}; (ii) {Lit.List.2.Sec}; or (iii) {Lit.List.3.Sec}
+Lit.List=(i) {Lit.List.1.cl}; (ii) {Lit.List.2.cl}; or (iii) {Lit.List.3.cl}
 
-Lit.List.1.Sec=against the Company or any officer, director or Key Employee of the Company {Lit.Opt2}
+Lit.List.1.cl=against the Company or any officer, director or Key Employee of the Company {Lit.Opt2}
 
 Lit.Opt2=arising out of their employment or board relationship with the Company
 
-Lit.List.2.Sec={Lit.Opt3} that questions the validity of the Transaction Agreements or the right of the Company to enter into them, or to consummate the transactions contemplated by the Transaction Agreements
+Lit.List.2.cl={Lit.Opt3} that questions the validity of the Transaction Agreements or the right of the Company to enter into them, or to consummate the transactions contemplated by the Transaction Agreements
 
-Lit.List.3.Sec=to the Company’s knowledge, that would reasonably be expected to have, either individually or in the aggregate, a Material Adverse Effect
+Lit.List.3.cl=to the Company’s knowledge, that would reasonably be expected to have, either individually or in the aggregate, a Material Adverse Effect
 
 Lit.Opt3=to the Company’s knowledge,
 
@@ -248,34 +250,34 @@ Comply.Opt1=to its knowledge,
 
 2.10.Ti=Agreements; Actions
 
-2.10.1.Sec=Except for the Transaction Agreements, there are no agreements, understandings, instruments, contracts or proposed transactions to which the Company is a party or by which it is bound that involve (i) obligations (contingent or otherwise) of, or payments to, the Company in excess of {Agt.Var1}, (ii) the license of any patent, copyright, trademark, trade secret or other proprietary right to or from the Company, (iii) the grant of rights to manufacture, produce, assemble, license, market, or sell its products to any other Person that limit the Company’s exclusive right to develop, manufacture, assemble, distribute, market or sell its products, or (iv) indemnification by the Company with respect to infringements of proprietary rights.
+2.10.1.sec=Except for the Transaction Agreements, there are no agreements, understandings, instruments, contracts or proposed transactions to which the Company is a party or by which it is bound that involve (i) obligations (contingent or otherwise) of, or payments to, the Company in excess of {Agt.Var1}, (ii) the license of any patent, copyright, trademark, trade secret or other proprietary right to or from the Company, (iii) the grant of rights to manufacture, produce, assemble, license, market, or sell its products to any other Person that limit the Company’s exclusive right to develop, manufacture, assemble, distribute, market or sell its products, or (iv) indemnification by the Company with respect to infringements of proprietary rights.
 
-2.10.2.Sec=The Company has not (i) declared or paid any dividends, or authorized or made any distribution upon or with respect to any class or series of its capital stock, (ii) incurred any indebtedness for money borrowed or incurred any other liabilities individually in excess of {Agt.Var2} or in excess of {Agt.Var3} in the aggregate, (iii) made any loans or advances to any Person, other than ordinary advances for travel expenses, or (iv) sold, exchanged or otherwise disposed of any of its assets or rights, other than the sale of its inventory in the ordinary course of business.  For the purposes of (a) and (b) of this Subsection 2.6, all indebtedness, liabilities, agreements, understandings, instruments, contracts and proposed transactions involving the same Person (including Persons the Company has reason to believe are affiliated with each other) shall be aggregated for the purpose of meeting the individual minimum dollar amounts of such subsection.
+2.10.2.sec=The Company has not (i) declared or paid any dividends, or authorized or made any distribution upon or with respect to any class or series of its capital stock, (ii) incurred any indebtedness for money borrowed or incurred any other liabilities individually in excess of {Agt.Var2} or in excess of {Agt.Var3} in the aggregate, (iii) made any loans or advances to any Person, other than ordinary advances for travel expenses, or (iv) sold, exchanged or otherwise disposed of any of its assets or rights, other than the sale of its inventory in the ordinary course of business.  For the purposes of (a) and (b) of this Subsection 2.6, all indebtedness, liabilities, agreements, understandings, instruments, contracts and proposed transactions involving the same Person (including Persons the Company has reason to believe are affiliated with each other) shall be aggregated for the purpose of meeting the individual minimum dollar amounts of such subsection.
 
-2.10.3.Sec=The Company is not a guarantor or indemnitor of any indebtedness of any other Person.
+2.10.3.sec=The Company is not a guarantor or indemnitor of any indebtedness of any other Person.
 
-2.10.4.Sec=The Company has not engaged in the past {Agt.Opt2} in any discussion with any representative of any Person regarding (i) a sale or exclusive license of all or substantially all of the Company’s assets, or (ii) any merger, consolidation or other business combination transaction of the Company with or into another Person.
+2.10.4.sec=The Company has not engaged in the past {Agt.Opt2} in any discussion with any representative of any Person regarding (i) a sale or exclusive license of all or substantially all of the Company’s assets, or (ii) any merger, consolidation or other business combination transaction of the Company with or into another Person.
 
 Agt.Opt2=three (3) months
 
-2.10.=[01/Agt/Bit/Outline/1-4.Secs]
+2.10.=[02/Bit/Ssec_04]
 
 
 2.11.Ti=Certain Transactions
 
-2.11.1.Sec=Other than (i) standard employee benefits generally made available to all employees, (ii) standard director and officer indemnification agreements approved by the Board of Directors, and (iii) the purchase of shares of the Company’s capital stock and the issuance of options to purchase shares of the Company’s Common Stock, in each instance, approved in the written minutes of the Board of Directors (previously provided to the Purchasers or their counsel), there are no agreements, understandings or proposed transactions between the Company and any of its officers, directors, consultants or Key Employees, or any Affiliate thereof.
+2.11.1.sec=Other than (i) standard employee benefits generally made available to all employees, (ii) standard director and officer indemnification agreements approved by the Board of Directors, and (iii) the purchase of shares of the Company’s capital stock and the issuance of options to purchase shares of the Company’s Common Stock, in each instance, approved in the written minutes of the Board of Directors (previously provided to the Purchasers or their counsel), there are no agreements, understandings or proposed transactions between the Company and any of its officers, directors, consultants or Key Employees, or any Affiliate thereof.
 
-2.11.2.Sec={2.11.2.A.Sec} {2.11.2.B.Sec}.
+2.11.2.sec={2.11.2.A.Cl} {2.11.2.B.cl}.
 
-2.11.2.A.Sec=The Company is not indebted, directly or indirectly, to any of its directors, officers or employees or to their respective spouses or children or to any Affiliate of any of the foregoing, other than in connection with expenses or advances of expenses incurred in the ordinary course of business or employee relocation expenses and for other customary employee benefits made generally available to all employees.  None of the Company’s directors, officers or employees, or any members of their immediate families, or any Affiliate of the foregoing are, directly or indirectly, indebted to the Company
+2.11.2.A.Cl=The Company is not indebted, directly or indirectly, to any of its directors, officers or employees or to their respective spouses or children or to any Affiliate of any of the foregoing, other than in connection with expenses or advances of expenses incurred in the ordinary course of business or employee relocation expenses and for other customary employee benefits made generally available to all employees.  None of the Company’s directors, officers or employees, or any members of their immediate families, or any Affiliate of the foregoing are, directly or indirectly, indebted to the Company
 
-2.11.2.B.Sec=or, {Trans.Opt1}, have any (i) material commercial, industrial, banking, consulting, legal, accounting, charitable or familial relationship with any of the Company’s customers, suppliers, service providers, joint venture partners, licensees and competitors, (ii) direct or indirect ownership interest in any firm or corporation with which the Company is affiliated or with which the Company has a business relationship, or any firm or corporation which competes with the Company except that directors, officers, employees or stockholders of the Company may own stock in (but not exceeding two percent (2%) of the outstanding capital stock of) publicly traded companies that may compete with the Company; or (iii) financial interest in any {Trans.Opt2} contract with the Company
+2.11.2.B.cl=or, {Trans.Opt1}, have any (i) material commercial, industrial, banking, consulting, legal, accounting, charitable or familial relationship with any of the Company’s customers, suppliers, service providers, joint venture partners, licensees and competitors, (ii) direct or indirect ownership interest in any firm or corporation with which the Company is affiliated or with which the Company has a business relationship, or any firm or corporation which competes with the Company except that directors, officers, employees or stockholders of the Company may own stock in (but not exceeding two percent (2%) of the outstanding capital stock of) publicly traded companies that may compete with the Company; or (iii) financial interest in any {Trans.Opt2} contract with the Company
 
 Trans.Opt1=to the Company’s knowledge
 
 Trans.Opt2=material
 
-2.11.=[01/Agt/Bit/Outline/1-2.Secs]
+2.11.=[02/Bit/Sec_02]
 
 2.12.Ti=Rights of Registration and Voting Rights
 
@@ -289,7 +291,7 @@ Trans.Opt2=material
 
 2.14.sec=The Company has delivered to each Purchaser its {Fin.Opt1} financial statements as of {Fin.Var1} and for the fiscal year ended {Fin.Var2} {Fin.Opt2} (collectively, the “Financial Statements”).  The Financial Statements have been prepared in accordance with generally accepted accounting principles (“GAAP”) applied on a consistent basis throughout the periods indicated{Fin.Opt3}.  The Financial Statements fairly present in all material respects the financial condition and operating results of the Company as of the dates, and for the periods, indicated therein, subject in the case of the unaudited Financial Statements to normal year-end audit adjustments. Except as set forth in the Financial Statements, the Company has no material liabilities or obligations, contingent or otherwise, other than (i) liabilities incurred in the ordinary course of business subsequent to {Fin.Var3}; (ii) obligations under contracts and commitments incurred in the ordinary course of business; and (iii) liabilities and obligations of a type or nature not required under GAAP to be reflected in the Financial Statements, which, in all such cases, individually and in the aggregate would not have a Material Adverse Effect.  The Company maintains and will continue to maintain a standard system of accounting established and administered in accordance with GAAP.
 
-Fin.Opt1=[unaudited] [audited]
+Fin.Opt1={unaudited/audited}
 
 Fin.Opt2=and its unaudited financial statements (including balance sheet, income statement and statement of cash flows) as of {Fin.Var4} and for the {Fin.Var5}-month period ended {Fin.Var6}
 
@@ -297,67 +299,67 @@ Fin.Opt3=, except that the unaudited Financial Statements may not contain all fo
 
 2.15.Ti=Changes
 
-2.15.0.Sec=Since {Change.Opt1} there has not been:
+2.15.0.sec=Since {Change.Opt1} there has not been:
 
 Change.Opt1=date of most recent financial statements/date of incorporation if no financial statements
 
-2.15.1.Sec=any change in the assets, liabilities, financial condition or operating results of the Company from that reflected in the Financial Statements, except changes in the ordinary course of business that have not caused, in the aggregate, a Material Adverse Effect;
+2.15.1.sec=any change in the assets, liabilities, financial condition or operating results of the Company from that reflected in the Financial Statements, except changes in the ordinary course of business that have not caused, in the aggregate, a Material Adverse Effect;
 
-2.15.2.Sec=any damage, destruction or loss, whether or not covered by insurance, that would have a Material Adverse Effect;
+2.15.2.sec=any damage, destruction or loss, whether or not covered by insurance, that would have a Material Adverse Effect;
 
-2.15.3.Sec=any waiver or compromise by the Company of a valuable right or of a material debt owed to it;
+2.15.3.sec=any waiver or compromise by the Company of a valuable right or of a material debt owed to it;
 
-2.15.4.Sec=any satisfaction or discharge of any lien, claim, or encumbrance or payment of any obligation by the Company, except in the ordinary course of business and the satisfaction or discharge of which would not have a Material Adverse Effect;
+2.15.4.sec=any satisfaction or discharge of any lien, claim, or encumbrance or payment of any obligation by the Company, except in the ordinary course of business and the satisfaction or discharge of which would not have a Material Adverse Effect;
 
-2.15.5.Sec=any material change to a material contract or agreement by which the Company or any of its assets is bound or subject;
+2.15.5.sec=any material change to a material contract or agreement by which the Company or any of its assets is bound or subject;
 
-2.15.6.Sec=any material change in any compensation arrangement or agreement with any employee, officer, director or stockholder;
+2.15.6.sec=any material change in any compensation arrangement or agreement with any employee, officer, director or stockholder;
 
-2.15.7.Sec=any resignation or termination of employment of any officer or Key Employee of the Company;
+2.15.7.sec=any resignation or termination of employment of any officer or Key Employee of the Company;
 
-2.15.8.Sec=any mortgage, pledge, transfer of a security interest in, or lien, created by the Company, with respect to any of its material properties or assets, except liens for taxes not yet due or payable and liens that arise in the ordinary course of business and do not materially impair the Company’s ownership or use of such property or assets;
+2.15.8.sec=any mortgage, pledge, transfer of a security interest in, or lien, created by the Company, with respect to any of its material properties or assets, except liens for taxes not yet due or payable and liens that arise in the ordinary course of business and do not materially impair the Company’s ownership or use of such property or assets;
 
-2.15.9.Sec=any loans or guarantees made by the Company to or for the benefit of its employees, officers or directors, or any members of their immediate families, other than travel advances and other advances made in the ordinary course of its business;
+2.15.9.sec=any loans or guarantees made by the Company to or for the benefit of its employees, officers or directors, or any members of their immediate families, other than travel advances and other advances made in the ordinary course of its business;
 
-2.15.10.Sec=any declaration, setting aside or payment or other distribution in respect of any of the Company’s capital stock, or any direct or indirect redemption, purchase, or other acquisition of any of such stock by the Company;
+2.15.10.sec=any declaration, setting aside or payment or other distribution in respect of any of the Company’s capital stock, or any direct or indirect redemption, purchase, or other acquisition of any of such stock by the Company;
 
-2.15.11.Sec=any sale, assignment or transfer of any Company Intellectual Property that could reasonably be expected to result in a Material Adverse Effect;
+2.15.11.sec=any sale, assignment or transfer of any Company Intellectual Property that could reasonably be expected to result in a Material Adverse Effect;
 
-2.15.12.Sec=receipt of notice that there has been a loss of, or material order cancellation by, any major customer of the Company;
+2.15.12.sec=receipt of notice that there has been a loss of, or material order cancellation by, any major customer of the Company;
 
-2.15.13.Sec=to the Company’s knowledge, any other event or condition of any character, other than events affecting the economy or the Company’s industry generally, that could reasonably be expected to result in a Material Adverse Effect; or
+2.15.13.sec=to the Company’s knowledge, any other event or condition of any character, other than events affecting the economy or the Company’s industry generally, that could reasonably be expected to result in a Material Adverse Effect; or
 
-2.15.14.Sec=any arrangement or commitment by the Company to do any of the things described in this Subsection 2.11.
+2.15.14.sec=any arrangement or commitment by the Company to do any of the things described in this Subsection 2.11.
 
-2.15.=[01/Agt/Bit/Outline/1-14.Secs]
+2.15.=[02/Bit/Ssec_14]
 
 
 2.16.Ti=Employee Matters
 
-2.16.1.Sec=As of the date hereof, the Company employs {Emp.Var1} full-time employees and {Emp.Var2} part-time employees and engages {Emp.Var3} consultants or independent contractors.  {Emp.Opt1} the Disclosure Schedule sets forth a detailed description of all compensation, including salary, bonus, severance obligations and deferred compensation paid or payable for each officer, employee, consultant and independent contractor of the Company who received compensation in excess of ${Emp.Var4} for the fiscal year ended {Emp.Var5} or is anticipated to receive compensation in excess of ${Emp.Var6}for the fiscal year ending {Emp.Var7}.
+2.16.1.sec=As of the date hereof, the Company employs {Emp.Var1} full-time employees and {Emp.Var2} part-time employees and engages {Emp.Var3} consultants or independent contractors.  {Emp.Opt1} the Disclosure Schedule sets forth a detailed description of all compensation, including salary, bonus, severance obligations and deferred compensation paid or payable for each officer, employee, consultant and independent contractor of the Company who received compensation in excess of ${Emp.Var4} for the fiscal year ended {Emp.Var5} or is anticipated to receive compensation in excess of ${Emp.Var6}for the fiscal year ending {Emp.Var7}.
 
 /Note=Something odd in this reference - 
 
 Emp.Opt1=Subsection 2.12(n) of
 
 
-2.16.2.Sec=To the Company’s knowledge, none of its employees is obligated under any contract (including licenses, covenants or commitments of any nature) or other agreement, or subject to any judgment, decree or order of any court or administrative agency, that would materially interfere with such employee’s ability to promote the interest of the Company or that would conflict with the Company’s business.  Neither the execution or delivery of the Transaction Agreements, nor the carrying on of the Company’s business by the employees of the Company, nor the conduct of the Company’s business as now conducted and as presently proposed to be conducted, will, to the Company’s knowledge, conflict with or result in a breach of the terms, conditions, or provisions of, or constitute a default under, any contract, covenant or instrument under which any such employee is now obligated.
+2.16.2.sec=To the Company’s knowledge, none of its employees is obligated under any contract (including licenses, covenants or commitments of any nature) or other agreement, or subject to any judgment, decree or order of any court or administrative agency, that would materially interfere with such employee’s ability to promote the interest of the Company or that would conflict with the Company’s business.  Neither the execution or delivery of the Transaction Agreements, nor the carrying on of the Company’s business by the employees of the Company, nor the conduct of the Company’s business as now conducted and as presently proposed to be conducted, will, to the Company’s knowledge, conflict with or result in a breach of the terms, conditions, or provisions of, or constitute a default under, any contract, covenant or instrument under which any such employee is now obligated.
 
-2.16.3.Sec=The Company is not delinquent in payments to any of its employees, consultants, or independent contractors for any wages, salaries, commissions, bonuses, or other direct compensation for any service performed for it to the date hereof or amounts required to be reimbursed to such employees, consultants or independent contractors. The Company has complied in all material respects with all applicable state and federal equal employment opportunity laws and with other laws related to employment, including those related to wages, hours, worker classification and collective bargaining.  The Company has withheld and paid to the appropriate governmental entity or is holding for payment not yet due to such governmental entity all amounts required to be withheld from employees of the Company and is not liable for any arrears of wages, taxes, penalties or other sums for failure to comply with any of the foregoing.
+2.16.3.sec=The Company is not delinquent in payments to any of its employees, consultants, or independent contractors for any wages, salaries, commissions, bonuses, or other direct compensation for any service performed for it to the date hereof or amounts required to be reimbursed to such employees, consultants or independent contractors. The Company has complied in all material respects with all applicable state and federal equal employment opportunity laws and with other laws related to employment, including those related to wages, hours, worker classification and collective bargaining.  The Company has withheld and paid to the appropriate governmental entity or is holding for payment not yet due to such governmental entity all amounts required to be withheld from employees of the Company and is not liable for any arrears of wages, taxes, penalties or other sums for failure to comply with any of the foregoing.
 
-2.16.4.Sec=To the Company’s knowledge, no Key Employee intends to terminate employment with the Company or is otherwise likely to become unavailable to continue as a Key Employee, nor does the Company have a present intention to terminate the employment of any of the foregoing.  The employment of each employee of the Company is terminable at the will of the Company.  Except as set forth in Subsection 2.12(n) of the Disclosure Schedule or as required by law, upon termination of the employment of any such employees, no severance or other payments will become due.  Except as set forth in Subsection 2.12(n) of the Disclosure Schedule, the Company has no policy, practice, plan or program of paying severance pay or any form of severance compensation in connection with the termination of employment services.
+2.16.4.sec=To the Company’s knowledge, no Key Employee intends to terminate employment with the Company or is otherwise likely to become unavailable to continue as a Key Employee, nor does the Company have a present intention to terminate the employment of any of the foregoing.  The employment of each employee of the Company is terminable at the will of the Company.  Except as set forth in Subsection 2.12(n) of the Disclosure Schedule or as required by law, upon termination of the employment of any such employees, no severance or other payments will become due.  Except as set forth in Subsection 2.12(n) of the Disclosure Schedule, the Company has no policy, practice, plan or program of paying severance pay or any form of severance compensation in connection with the termination of employment services.
 
-2.16.5.Sec=The Company has not made any representations regarding equity incentives to any officer, employee, director or consultant that are inconsistent with the share amounts and terms set forth in the minutes of meetings of the Company’s board of directors.
+2.16.5.sec=The Company has not made any representations regarding equity incentives to any officer, employee, director or consultant that are inconsistent with the share amounts and terms set forth in the minutes of meetings of the Company’s board of directors.
 
-2.16.6.Sec=Each former Key Employee whose employment was terminated by the Company has entered into an agreement with the Company providing for the full release of any claims against the Company or any related party arising out of such employment.
+2.16.6.sec=Each former Key Employee whose employment was terminated by the Company has entered into an agreement with the Company providing for the full release of any claims against the Company or any related party arising out of such employment.
 
-2.16.7.Sec=Subsection 2.12(n) of the Disclosure Schedule sets forth each employee benefit plan maintained, established or sponsored by the Company, or which the Company participates in or contributes to, which is subject to the Employee Retirement Income Security Act of 1974, as amended (“ERISA”).  The Company has made all required contributions and has no liability to any such employee benefit plan, other than liability for health plan continuation coverage described in Part 6 of Title I(B) of ERISA,  and has complied in all material respects with all applicable laws for any such employee benefit plan.
+2.16.7.sec=Subsection 2.12(n) of the Disclosure Schedule sets forth each employee benefit plan maintained, established or sponsored by the Company, or which the Company participates in or contributes to, which is subject to the Employee Retirement Income Security Act of 1974, as amended (“ERISA”).  The Company has made all required contributions and has no liability to any such employee benefit plan, other than liability for health plan continuation coverage described in Part 6 of Title I(B) of ERISA,  and has complied in all material respects with all applicable laws for any such employee benefit plan.
 
-2.16.8.Sec=The Company is not bound by or subject to (and none of its assets or properties is bound by or subject to) any written or oral, express or implied, contract, commitment or arrangement with any labor union, and no labor union has requested or, to the knowledge of the Company, has sought to represent any of the employees, representatives or agents of the Company.  There is no strike or other labor dispute involving the Company pending, or to the Company’s knowledge, threatened, which could have a Material Adverse Effect, nor is the Company aware of any labor organization activity involving its employees.
+2.16.8.sec=The Company is not bound by or subject to (and none of its assets or properties is bound by or subject to) any written or oral, express or implied, contract, commitment or arrangement with any labor union, and no labor union has requested or, to the knowledge of the Company, has sought to represent any of the employees, representatives or agents of the Company.  There is no strike or other labor dispute involving the Company pending, or to the Company’s knowledge, threatened, which could have a Material Adverse Effect, nor is the Company aware of any labor organization activity involving its employees.
 
-2.16.9.Sec=To the Company’s knowledge, none of the Key Employees or directors  of the Company has been (a) subject to voluntary or involuntary petition under the federal bankruptcy laws or any state insolvency law or the appointment of a receiver, fiscal agent or similar officer by a court for his business or property; (b) convicted in a criminal proceeding or named as a subject of a pending criminal proceeding (excluding traffic violations and other minor offenses); (c) subject to any order, judgment or decree (not subsequently reversed, suspended, or vacated) of any court of competent jurisdiction permanently or temporarily enjoining him from engaging, or otherwise imposing limits or conditions on his engagement in any securities, investment advisory, banking, insurance, or other type of business or acting as an officer or director of a public company; or (d) found by a court of competent jurisdiction in a civil action or by the Securities and Exchange Commission or the Commodity Futures Trading Commission to have violated any federal or state securities, commodities, or unfair trade practices law, which such judgment or finding has not been subsequently reversed, suspended, or vacated.
+2.16.9.sec=To the Company’s knowledge, none of the Key Employees or directors  of the Company has been (a) subject to voluntary or involuntary petition under the federal bankruptcy laws or any state insolvency law or the appointment of a receiver, fiscal agent or similar officer by a court for his business or property; (b) convicted in a criminal proceeding or named as a subject of a pending criminal proceeding (excluding traffic violations and other minor offenses); (c) subject to any order, judgment or decree (not subsequently reversed, suspended, or vacated) of any court of competent jurisdiction permanently or temporarily enjoining him from engaging, or otherwise imposing limits or conditions on his engagement in any securities, investment advisory, banking, insurance, or other type of business or acting as an officer or director of a public company; or (d) found by a court of competent jurisdiction in a civil action or by the Securities and Exchange Commission or the Commodity Futures Trading Commission to have violated any federal or state securities, commodities, or unfair trade practices law, which such judgment or finding has not been subsequently reversed, suspended, or vacated.
 
-2.16.=[01/Agt/Bit/Outline/1-9.Secs]
+2.16.=[02/Bit/Ssec_09]
 
 2.17.Ti=Tax Returns and Payments
 
@@ -391,15 +393,15 @@ Emp.Opt1=non-competition and
 
 2.24.Ti=Environmental and Safety Laws
 
-2.24.1.Sec=Except as could not reasonably be expected to have a Material Adverse Effect {Environ.Opt1} (a) the Company is and has been in compliance with all Environmental Laws; (b) there has been no release or {Environ.Opt2} threatened release of any pollutant, contaminant or toxic or hazardous material, substance or waste or petroleum or any fraction thereof (each a “Hazardous Substance”), on, upon, into or from any site currently or heretofore owned, leased or otherwise used by the Company; (c) there have been no Hazardous Substances generated by the Company that have been disposed of or come to rest at any site that has been included in any published U.S. federal, state or local “superfund” site list or any other similar list of hazardous or toxic waste sites published by any governmental authority in the United States; and (d) there are no underground storage tanks located on, no polychlorinated biphenyls (“PCBs”) or PCB-containing equipment used or stored on, and no hazardous waste as defined by the Resource Conservation and Recovery Act, as amended, stored on, any site owned or operated by the Company, except for the storage of hazardous waste in compliance with Environmental Laws.  The Company has made available to the Purchasers true and complete copies of all material environmental records, reports, notifications, certificates of need, permits, pending permit applications, correspondence, engineering studies and environmental studies or assessments.
+2.24.1.sec=Except as could not reasonably be expected to have a Material Adverse Effect {Environ.Opt1} (a) the Company is and has been in compliance with all Environmental Laws; (b) there has been no release or {Environ.Opt2} threatened release of any pollutant, contaminant or toxic or hazardous material, substance or waste or petroleum or any fraction thereof (each a “Hazardous Substance”), on, upon, into or from any site currently or heretofore owned, leased or otherwise used by the Company; (c) there have been no Hazardous Substances generated by the Company that have been disposed of or come to rest at any site that has been included in any published U.S. federal, state or local “superfund” site list or any other similar list of hazardous or toxic waste sites published by any governmental authority in the United States; and (d) there are no underground storage tanks located on, no polychlorinated biphenyls (“PCBs”) or PCB-containing equipment used or stored on, and no hazardous waste as defined by the Resource Conservation and Recovery Act, as amended, stored on, any site owned or operated by the Company, except for the storage of hazardous waste in compliance with Environmental Laws.  The Company has made available to the Purchasers true and complete copies of all material environmental records, reports, notifications, certificates of need, permits, pending permit applications, correspondence, engineering studies and environmental studies or assessments.
 
 Environ.Opt1=to the best of its knowledge
 
 Environ.Opt2=to the Company’s knowledge
 
-2.24.2.Sec=For purposes of this Subsection 2.24, “Environmental Laws” means any law, regulation, or other applicable requirement relating to (a) releases or threatened release of Hazardous Substance; (b) pollution or protection of employee health or safety, public health or the environment; or (c) the manufacture, handling, transport, use, treatment, storage, or disposal of Hazardous Substances.
+2.24.2.sec=For purposes of this Subsection 2.24, “Environmental Laws” means any law, regulation, or other applicable requirement relating to (a) releases or threatened release of Hazardous Substance; (b) pollution or protection of employee health or safety, public health or the environment; or (c) the manufacture, handling, transport, use, treatment, storage, or disposal of Hazardous Substances.
 
-2.24.=[01/Agt/Bit/Outline/1-2.Secs]
+2.24.=[02/Bit/Ssec_02]
 
 2.25.Ti=Qualified Small Business Stock
 
@@ -431,7 +433,7 @@ DataPrivacy.Opt1=, to the Company’s knowledge,
 
 DataPrivacy.Opt2=, to the Company’s knowledge,
 
-2.=[01/Agt/Bit/Outline/1-29.Secs]
+2.=[02/Bit/Sec_29]
 
 /Note=See ADDENDUM at end of this document with sample Founders Representations and Warranties. ( F.Sec )
 
@@ -481,7 +483,7 @@ DataPrivacy.Opt2=, to the Company’s knowledge,
 
 3.6.2.Sec=Any legend required by the securities laws of any state to the extent such laws are applicable to the Shares represented by the certificate, instrument, or book entry so legended.
 
-3.6.=[01/Agt/Bit/Outline/1-2.Secs]  
+3.6.=[02/Bit/Sec_02]  
 
 3.7.Ti=Accredited Investor
 
@@ -511,7 +513,7 @@ DataPrivacy.Opt2=, to the Company’s knowledge,
 
 3.12.sec=Each Purchaser, to the extent that such Purchaser, as set forth on the Schedule of Purchasers, is a holder of any promissory note of the Company being converted and/or cancelled in consideration of the issuance hereunder of Shares to such Purchaser, hereby agrees that the entire amount owed to such Purchaser under such note is being tendered to the Company in exchange for the applicable Shares set forth on the Schedule of Purchasers, and effective upon the Company’s and such Purchaser’s execution and delivery of this Agreement, without any further action required by the Company or such Purchaser, such note and all obligations set forth therein shall be immediately deemed repaid in full and terminated in their entirety, including, but not limited to, any security interest effected therein.
 
-3.=[01/Agt/Bit/Outline/1-12.Secs]
+3.=[02/Bit/Sec_12]
 
 4.Ti=Conditions to the Purchasers’ Obligations at Closing
 
@@ -591,7 +593,7 @@ DataPrivacy.Opt2=, to the Company’s knowledge,
 
 4.17.sec=The Company shall have fully satisfied (including with respect to rights of timely notification) or obtained enforceable waivers in respect of any preemptive or similar rights directly or indirectly affecting any of its securities. 
 
-4.=[01/Agt/Bit/Outline/1-17.Secs]
+4.=[02/Bit/Sec_17]
 
 
 5.Ti=Conditions of the Company’s Obligations at Closing
@@ -628,7 +630,7 @@ DataPrivacy.Opt2=, to the Company’s knowledge,
 
 5.7.sec=A minimum of {5.7.Var1} Shares must be sold at the Initial Closing.
 
-5.=[01/Agt/Bit/Outline/1-7.Secs]
+5.=[02/Bit/Sec_07]
 
 6.Ti=Miscellaneous
 
@@ -718,9 +720,14 @@ Law.State.the=the State of Delaware
 
 6.17.sec=Each party to this Agreement acknowledges that {Co.Counsel.Name.Full}, counsel for the Company, has in the past performed and may continue to perform legal services for certain of the Purchasers in matters unrelated to the transactions described in this Agreement, including the representation of such Purchasers in venture capital financings and other matters.  Accordingly, each party to this Agreement hereby (a) acknowledges that they have had an opportunity to ask for information relevant to this disclosure; and (b) gives its informed consent to {Co.Counsel.Name.Full}’s representation of certain of the Purchasers in such unrelated matters and to {Co.Counsel.Name.Full}’s representation of the Company in connection with this Agreement and the transactions contemplated hereby.
 
-6.=[01/Agt/Bit/Outline/1-17.Secs]  
+6.=[02/Bit/Sec_17]  
 
+90.Sec=IN WITNESS WHEREOF, the parties have executed this Series A Preferred Stock Purchase Agreement as of the date first written above.<br><br>{Co.Sign.Block}<br>{F.Sign.Block}<br>{Inv1.Sign.Block}
+
+=[02/Bit/Sec_06]
+  
 DocBody={Doc}
+
 /Note=Not sure where to put the Founder's reps, whether in between 3 and 4, or down here.  
 
 F.Ti=Representations and Warranties of the Founders
@@ -761,8 +768,4 @@ F.5.Ti=Prior Legal Matters
 
 F.5.sec=Such Founder has not been (a) subject to voluntary or involuntary petition under the federal bankruptcy laws or any state insolvency law or the appointment of a receiver, fiscal agent or similar officer by a court for his business or property; (b) convicted in a criminal proceeding or named as a subject of a pending criminal proceeding (excluding traffic violations and other minor offenses); (c) subject to any order, judgment, or decree (not subsequently reversed, suspended, or vacated) of any court of competent jurisdiction permanently or temporarily enjoining him from engaging, or otherwise imposing limits or conditions on his engagement in any securities, investment advisory, banking, insurance, or other type of business or acting as an officer or director of a public company; or (d) found by a court of competent jurisdiction in a civil action or by the Securities and Exchange Commission or the Commodity Futures Trading Commission to have violated any federal or state securities, commodities or unfair trade practices law, which such judgment or finding has not been subsequently reversed, suspended, or vacated.
 
-F.=[01/Agt/Bit/Outline/1-5.Secs]  
-
-secs={1.Sec}<li>{2.Sec}<li>{3.Sec}<li><i>{F.Sec}</i><li>{4.Sec}<li>{5.Sec}<li>{6.Sec}
-
-=[01/Agt/Bit/Outline/Base.md]
+F.=[02/Bit/Sec_05]
