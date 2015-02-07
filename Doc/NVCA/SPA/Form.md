@@ -779,55 +779,105 @@ F.5.sec=Such {Founder} has not been (a) subject to voluntary or involuntary peti
 F.=[02/Bit/Sec_05]
 
 Agreement={d-}Agreement{-d}
+
 Company={d-}Company{-d}
+
 Purchaser={d-}Purchaser{-d}
+
 Purchasers={d-}Purchasers{-d}
+
 Founders={d-}Founders{-d}
+
 Founder={d-}Founder{-d}
+
 Preferred_Stock={d-}Preferred Stock{-d}
+
 Series_A_Preferred_Stock={d-}Series A Preferred Stock{-d}
+
 Initial_Closing={d-}Initial Closing{-d}
+
 Restated_Certificate={d-}Restated Certificate{-d}
+
 Closing={d-}Closing{-d}
+
 Milestone_Shares={d-}Milestone Shares{-d}
+
 Additional_Shares={d-}Additional Shares{-d}
+
 Shares={d-}Shares{-d}
+
 Additional_Purchasers={d-}Additional Purchasers{-d}
+
 Additional_Purchaser={d-}Additional Purchaser{-d}
+
 Transaction_Agreements={d-}Transaction Agreements{-d}
+
 Management_Rights_Letter={d-}Management Rights Letter{-d}
+
 Closings={d-}Closings{-d}
+
 Board/Purchasers={d-}Board/Purchasers{-d}
+
 Milestone_Closing={d-}Milestone Closing{-d}
+
 Board_of_Directors={d-}Board of Directors{-d}
+
 Voting_Agreement={d-}Voting Agreement{-d}
+
 Affiliate={d-}Affiliate{-d}
+
 Person={d-}Person{-d}
+
 Code={d-}Code{-d}
+
 Company_Covered_Person={d-}Company Covered Person{-d}
+
 Securities_Act={d-}Securities Act{-d}
+
 Company_Intellectual_Property={d-}Company Intellectual Property{-d}
+
 Indemnification_Agreement={d-}Indemnification Agreement{-d}
+
 Purchaser_Affiliates={d-}Purchaser Affiliates{-d}
+
 Investors'_Rights_Agreement={d-}Investors' Rights Agreement{-d}
+
 Key_Employee={d-}Key Employee{-d}
+
 Knowledge={d-}Knowledge{-d}
+
 knowledge={d-}knowledge{-d}
+
 Material_Adverse_Effect={d-}Material Adverse Effect{-d}
+
 Right_of_First_Refusal_and_Co-Sale_Agreement={d-}Right of First Refusal and Co-Sale Agreement{-d}
+
 Common_Stock={d-}Common Stock{-d}
+
 Disqualification_Event={d-}Disqualification Event{-d}
+
 Key_Employees={d-}Key Employees{-d}
+
 Financial_Statements={d-}Financial Statements{-d}
+
 GAAP={d-}GAAP{-d}
+
 ERISA={d-}ERISA{-d}
+
 Environmental_Laws={d-}Environmental Laws{-d}
+
 PCB={d-}PCB{-d}
+
 CFR={d-}CFR{-d}
+
 FCPA={d-}FCPA{-d}
+
 Enforcement_Action={d-}Enforcement Action{-d}
+
 Personal_Information={d-}Personal Information{-d}
+
 PriorOffering.Withdrawn.Var1={d-}PriorOffering.Withdrawn.Var1{-d}
+
 AAA={d-}AAA{-d}
 
 d-=<a href="https://github.com/CommonAccord/Org/blob/master/Doc/{PageName}"><font color="{dcolor}">
