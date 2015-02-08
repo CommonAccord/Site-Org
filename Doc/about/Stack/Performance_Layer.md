@@ -1,6 +1,6 @@
 Ti=Automatic Performance - The Democratizing Effect of the Blockchain
 
-1.sec="Automatic Performance"ù covers a range of activities that may now not automatic be automatic at all.  A decision to make something available, transfer it or terminate it currently can involve paperwork and actions by one or a group of persons.  Or the automation is a back office function of a service provider, closed to the other, and often only vaguely known by the frontline people of the provider. 
+1.sec="Automatic Performance"ù covers a range of activities that may now not be automatic at all.  A decision to make something available, transfer it or terminate it currently can involve paperwork and actions by one or a group of persons.  Or the automation is a back office function of a service provider, closed to the other, and often only vaguely known by the frontline people of the provider. 
 
 2.sec=The democratizing effect of the blockchain is that the automation can be shared, owned by neither party, subject to scrutiny by users, followed, forked and merged like open source software.
 
