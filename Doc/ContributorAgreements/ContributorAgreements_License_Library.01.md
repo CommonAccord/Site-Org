@@ -1,28 +1,13 @@
+0.1.sec=<b>Choose</b>: 0.1.sec<ol><li>Ind.0.1.sec:<ul><li>{Ind.0.1.sec}</ul><li>Entity.0.1.sec:<ul><li>{Entity.0.1.sec}</ul></ol>
+
+Def.secs=<b>Choose</b>: Def.secs<ol><li>Ind.Def.Secs:<ul><li>{Ind.Def.secs}</ul><li>Entity.Def.sec:<ul><li>{Entity.Def.secs}</ul></ol>
 P1.Name=Acme
-
-Project.Name=Acmail
-
-Project.Website=acmail.com
-
-Project.Email=contact@acmail.com
-
-ContributorSigningProcessAddress=acmail.com/sign
-
-Project.Jurisdiction=Germany
-
-AgreementExclusivity=Exclusive
-
-Def.secs={Ind.Def.secs}
-
-DocumentationLicense(s)=GFDL-1.1
-
-PatentLicense=including the Traditional Patent License
-
-PatentLicense.sec={PatentLicense.Traditional.sec}
 
 Ti=Contributor Agreement
 
-0.1.sec=Individual Contributor {Agreement.Exclusivity} License Agreement
+Ind.0.1.sec=Individual Contributor {Agreement.Exclusivity} License Agreement
+
+Entity.0.1.sec=Entity Contributor {Agreement.Exclusivity} License Agreement
 
 0.2.sec={PatentLicense}
 
