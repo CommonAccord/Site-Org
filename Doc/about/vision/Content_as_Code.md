@@ -28,10 +28,12 @@ Ti=Extending Content as Code
 
 7.2.sec=Co.Address=y
 
-7.90.sec=etc.  It would be easier to read if these could be presented in a format that reflected the notion Co. (Name=x, Address=y ).  The correct way of formatting this seems to me to be like in Python (you'll have to switch to Edit to see this), it's at the top of the file. 
+7.90.sec=etc.  It would be easier to read if these could be presented in a format that reflected the notion Co. (Name=x, Address=y ).  The correct way of formatting this seems to me to be like in Python <b>(you'll have to switch to Edit to see this)</b>, it's at the top of the file.
+
+8.sec=This, of course, does not inhibit anyone from storing the text in any "data" format - and it does not resolve the issue of transport.  When serving a list, it might make sense to serialize the file as JSON or the like.  What is the transport format used when I look at a raw file on Github? 
 
 7.=[02/Bit/Ssec_02]
 
 7.xlist={7.nlist}
 
-=[02/Bit/Ssec_07]
+=[02/Bit/Ssec_08]
