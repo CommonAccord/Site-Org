@@ -8,7 +8,7 @@ Secs={Exempt.Sec}<li>{Effect.Sec}
 
 Exempt.Ti=Exemption
 
-Exempt.0.sec={P1.The} believes that it is exempt from such licensing requirement on the following grounds:
+Exempt.0.sec={P1.The} believes that it is exempt from such licensing requirement because:
 
 
 Exempt.1.sec={P1.The} is chartered under the New York Banking Law and is approved by the superintendent to engage in {VCBA}.
