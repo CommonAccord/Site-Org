@@ -1,11 +1,6 @@
 /Note=Just a sketch - getting a document into the system.  From form created by law offices of Joseph Carroll.
 
-Ti=ADDENDUM TO RV SPACE RENTAL AGREEMENT
-
-/Note=Might these terms go on a cover page?  With incorporation by reference to an Addendum. 
-Space No. (“Space”).
-
-Intro=<b>To be automated</b>This agreement (“Agreement”) is entered into this _____ day of _______________, 20_____ by and between the park owner (“Lessor”) of _______________________________________ (park name), located at:____________________________________________________________(park address) and Tenant(s) (names):______________________________________(severally and collectively “Tenant”). Household Members (list all):___________________________________________________________<br>This Agreement is for the rental of the Space in the Park, from Lessor to Tenant, for recreational vehicle tenancy, for a term as follows (select one):<br>[____] month to month; (or)<br>[____] # of months (not to exceed 8 months), unless sooner terminated in accordance with the terms and conditions of this agreement.<br>Security Deposit: $____________________ <br>Beginning Monthly Rent: $___________________ (Please note: rent may be increased during term with 30 days’ notice)<br>RECREATIONAL VEHICLE INFORMATION Information on Recreational Vehicle Described in this Agreement:<br>Registered Owner: Address: Telephone Number: Legal Owner: Address: Telephone:<br>Make of RV<br>Year/Model of RV<br>Vehicle ID Nos.<br>License/Decal Nos.
+Ti=ADDENDUM TO {Park.Name} RV SPACE RENTAL AGREEMENT
 
 0.sec={Rental.Sec}<br>{Removal.Sec}
 
@@ -148,22 +143,7 @@ Removal.=[02/Bit/Sec]
 
 28.sec=Non-core tenancy functions are those duties of the Lessor which pertain to the maintenance and operation of common area and recreational services, facilities, amenities, and improvements not part of the duties of habitability of the Space. Included are all recreational facilities and areas, pools, paths, roads, buildings, equipment, appliances and furnishings (“non-essential facilities”). Lessor is not liable and is hereby released from any accident, injury, damage, loss, expense or other liability, of any kind, to the person or property of Tenant and other household members, caused or occurring in or by “non-essential facilities”, whether resulting from maintenance, operation, defects, disrepair or active, passive or gross negligence of Lessor. This release shall be construed to the fullest extent of the law in accordance with Lewis Operating Corporation v. Superior Court of Riverside County, 200 Cal.App.4th 940, 132 Cal. Rptr.3d 849 (2011).
 
-/Note=Skipping for the moment - maybe should use as cover sheet - with terms as attachment.
-
-I HAVE READ, UNDERSTAND AND AGREE TO ALL FOREGOING TERMS AND PROVISIONS.
-TENANT
-Dated:
-Print Name:
-Telephone Number:
-Dated:
-Print Name:
-Telephone Number:
-APPROVED BY MANAGEMENT: Dated:
-By:
-Signed:
-Signed:
-Driver’s License #:
-Driver’s License #:
+/Note=Skipping signature for the moment - maybe should use as cover sheet - with terms as attachment.
 
 29.Ti=EQUAL HOUSING OPPORTUNITY
 
