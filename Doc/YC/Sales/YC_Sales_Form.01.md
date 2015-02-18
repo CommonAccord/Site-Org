@@ -13,7 +13,6 @@ Order Form=terms below
 2.Ti=Services
 
 2.sec={Services.Describe} (the “Service(s)”).
-   
 
 3.Ti=Fees
 
@@ -21,11 +20,11 @@ Order Form=terms below
 
 4.Ti=Initial Service Term
 
-4.sec=[One] Year
+4.sec={InitialServiceTerm}
 
 5.Ti=Service Capacity
 
-5.sec=TBD
+5.sec={ServiceCapacity}
 
 Note=include any limits on usage.
 
@@ -33,29 +32,29 @@ Note=Also, if additional fees will be required for overages, include details her
 
 6.Ti=Implementation Services
 
-6.sec=Company will use commercially reasonable efforts to provide Customer the services described in the Statement of Work (“SOW”) attached as Exhibit A hereto (“Implementation Services”), and Customer shall pay Company the Implementation Fee in accordance with the terms herein.
+6.1.sec=Company will use commercially reasonable efforts to provide Customer the services described in the Statement of Work (“SOW”) attached as Exhibit A hereto (“Implementation Services”), and Customer shall pay Company the Implementation Fee in accordance with the terms herein.
 
-7.Ti=Implementation Fee (one-time)
+6.2.sec=Implementation Fee (one-time) {ImplementationFee.$}
 
-7.sec=TBD
+6.=[02/Bit/Ssec_02]
 
 Note=OPTIONAL: If you delete this section, remove any reference to “Implementation Services” in the Terms and Conditions
 
-8.Ti=Pilot Use
+7.Ti=Pilot Use
 
-8.1.sec=Check here {PilotUse.Check} if Services use during the Pilot Period will be restricted to non-productive evaluation use.  If so, then, notwithstanding anything else, in connection with such pilot/evaluation use (1) no fees will apply, except for any Pilot Use Fee specified below, (2) the Services are provided “AS IS” and no warranty obligations of Company will apply, and (3) Customer may terminate this Agreement and all of its rights hereunder by providing Company written notice thereof no less than 10 days prior to the end of the Pilot Period; otherwise, this Agreement shall continue in effect for the Initial Service Term (subject to earlier termination as provided in the Agreement).  
+7.1.sec=Check here {PilotUse.Check} if Services use during the Pilot Period will be restricted to non-productive evaluation use.  If so, then, notwithstanding anything else, in connection with such pilot/evaluation use (1) no fees will apply, except for any Pilot Use Fee specified below, (2) the Services are provided “AS IS” and no warranty obligations of Company will apply, and (3) Customer may terminate this Agreement and all of its rights hereunder by providing Company written notice thereof no less than 10 days prior to the end of the Pilot Period; otherwise, this Agreement shall continue in effect for the Initial Service Term (subject to earlier termination as provided in the Agreement).  
 
 Note=OPTIONAL:  delete this section if you are not offering a pilot
 
-8.2.sec=Pilot Period:  Sixty (60) days
+7.2.sec=Pilot Period:  Sixty (60) days
 
-8.3.sec=Pilot Use Fee: {PilotUse.Fee.$}
+7.3.sec=Pilot Use Fee: {PilotUse.Fee.$}
 
-8.=[02/Bit/Ssec_03]
+7.=[02/Bit/Ssec_03]
 
 90.=[02/Sec/Frame_End.04.md]
 
-=[02/Bit/Sec_08]
+=[02/Bit/Sec_07]
 
 DocBody={Doc}
 
