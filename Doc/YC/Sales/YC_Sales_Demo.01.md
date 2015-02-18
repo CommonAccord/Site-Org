@@ -1,10 +1,10 @@
 =[YC/Sales/YC_Sales_Form.01.md]
 
-P1.=[core/id/Acme_Incorporated]
+P1.=[core/id/acme_incorporated]
 
-P2.=[core/id/Quake_Incorporated]
+P2.=[core/id/quake_incorporated]
 
-P2.Contact.=[core/id/Solomon_Shirley]
+P2.Contact.=[core/id/solomon_shirley]
   
 Agt.Effective.YMD=March 1, 2015
 
