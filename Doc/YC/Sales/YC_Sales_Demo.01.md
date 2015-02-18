@@ -10,6 +10,8 @@ Agt.Effective.YMD=March 1, 2015
 
 Services.Describe=Acme "Acumeter" data analytics
 
+1.2.2.cl={1.2.2.A.cl}
+
 Fee.Monthly.$=$5,000
 
 InitialServiceTerm=March 1, 2015 to April 30, 2015.
