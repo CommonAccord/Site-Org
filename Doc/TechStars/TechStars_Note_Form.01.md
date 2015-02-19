@@ -97,6 +97,8 @@ Equity.Formula.2.cl=the price equal to the quotient of {Equity.Formula.2.$} divi
 12.Ti=Assignment
 
 12.sec=This Note may be transferred only upon its surrender to the Company for registration of transfer, duly endorsed, or accompanied by a duly executed written instrument of transfer in form satisfactory to the Company.  Thereupon, this Note shall be reissued to, and registered in the name of, the transferee, or a new Note for like principal amount and interest shall be issued to, and registered in the name of, the transferee.  Interest and principal shall be paid solely to the registered holder of this Note.  Such payment shall constitute full discharge of the Company’s obligation to pay such interest and principal.
+
 =[02/Bit/Sec_12]
 
+90.Sec=<table><tr><td width=40%></td><td  width=20%></td><td  width=40%>{P1.Sign.Block}</td></tr><tr><td>{P2.Name.Full}<br>Principal Amount of Note: {Note.Principal.$}<br>Note Issue Date: {Note.Issue.YMD}{P2.}</td><td></td><td></td></tr></table>
 DocBody={Doc}
