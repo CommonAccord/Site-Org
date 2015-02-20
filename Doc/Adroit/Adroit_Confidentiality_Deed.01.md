@@ -1,3 +1,7 @@
+Note=Experiment with open sourcing terms from <a href="http://www.adroitlawyers.com.au/>adroitlawyers.com.au/</a>
+
+Note=As always - not legal advice.
+
 Ti=Confidentiality Deed
 
 1.sec=DEED dated {Agt.Effective.YMD}
