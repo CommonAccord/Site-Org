@@ -115,84 +115,108 @@ B.1.1.3.=[02/Bit/Ssec_08]
 
 B.1.1.=[02/Bit/Ssec_03]
 
-
 [END OF ALTERNATIVE SECTION]
 
 1.2.Ti=NO PAYMENT SUBORDINATION
 
-The subordination of Liens securing Second Lien Obligations to Liens securing First Lien Obligations set forth in the preceding section 1.1 affects only the relative priority of those Liens, and does not subordinate the Second Lien Obligations in right of payment to the First Lien Obligations. Nothing in this Agreement will affect the entitlement of any Second Lien Claimholder to receive and retain required payments of interest, principal, and other amounts in respect of a Second Lien Obligation unless the receipt is expressly prohibited by, or results from the Second Lien Claimholder’s breach of, this Agreement.
+1.2.sec=The subordination of Liens securing Second Lien Obligations to Liens securing First Lien Obligations set forth in the preceding section 1.1 affects only the relative priority of those Liens, and does not subordinate the Second Lien Obligations in right of payment to the First Lien Obligations. Nothing in this Agreement will affect the entitlement of any Second Lien Claimholder to receive and retain required payments of interest, principal, and other amounts in respect of a Second Lien Obligation unless the receipt is expressly prohibited by, or results from the Second Lien Claimholder’s breach of, this Agreement.
+
+
 
 1.3.Ti=FIRST LIEN OBLIGATIONS AND SECOND LIEN OBLIGATIONS
 
-1.3.1.sec=First Lien Obligations means all Obligations of the Grantors under
+1.3.1.sec={1.3.1.sec } Select:<ol><li>A.1.3.1.sec:<br> {A.1.3.1.sec}<li>B.1.3.1.sec:<br> {B.1.3.1.sec}</ol>
 
-1.3.1.1.sec=the First Lien Credit Agreement and the other First Lien Loan Documents,
 
-1.3.1.2.sec=the guaranties by Holdings and the Guarantor Subsidiaries of the Borrower’s Obligations under the First Lien Loan Documents,
+A.1.3.1.0.sec=First Lien Obligations means all Obligations of the Grantors under
 
-1.3.1.3.sec=any Hedge Agreement entered into with an agent or a lender (or an Affiliate thereof) under the First Lien Credit Agreement (even if the counterparty or an Affiliate of the counterparty ceases to be an agent or a lender under the First Lien Credit Agreement),
+A.1.3.1.1.sec=the First Lien Credit Agreement and the other First Lien Loan Documents,
 
-1.3.1.4.sec=any Cash Management Agreement, or
+A.1.3.1.2.sec=the guaranties by Holdings and the Guarantor Subsidiaries of the Borrower’s Obligations under the First Lien Loan Documents,
 
-1.3.1.5.sec=any other agreement or instrument granting or providing for the perfection of a Lien securing any of the foregoing.
+A.1.3.1.3.sec=any Hedge Agreement entered into with an agent or a lender (or an Affiliate thereof) under the First Lien Credit Agreement (even if the counterparty or an Affiliate of the counterparty ceases to be an agent or a lender under the First Lien Credit Agreement),
 
-Notwithstanding any other provision hereof, the term “First Lien Obligations” will include accrued interest, fees, costs, and other charges incurred under the First Lien Credit Agreement and the other First Lien Loan Documents, whether incurred before or after commencement of an Insolvency Proceeding, and whether or not allowable in an Insolvency Proceeding. To the extent that any payment with respect to the First Lien Obligations (whether by or on behalf of any Grantor, as proceeds of security, enforcement of any right of set-off, or otherwise) is declared to be fraudulent or preferential in any respect, set aside, or required to be paid to a debtor in possession, trustee, receiver, or similar Person, then the obligation or part thereof originally intended to be satisfied will be deemed to be reinstated and outstanding as if such payment had not occurred.
+A.1.3.1.4.sec=any Cash Management Agreement, or
+
+A.1.3.1.5.sec=any other agreement or instrument granting or providing for the perfection of a Lien securing any of the foregoing.
+
+A.1.3.1.90.sec=Notwithstanding any other provision hereof, the term “First Lien Obligations” will include accrued interest, fees, costs, and other charges incurred under the First Lien Credit Agreement and the other First Lien Loan Documents, whether incurred before or after commencement of an Insolvency Proceeding, and whether or not allowable in an Insolvency Proceeding. To the extent that any payment with respect to the First Lien Obligations (whether by or on behalf of any Grantor, as proceeds of security, enforcement of any right of set-off, or otherwise) is declared to be fraudulent or preferential in any respect, set aside, or required to be paid to a debtor in possession, trustee, receiver, or similar Person, then the obligation or part thereof originally intended to be satisfied will be deemed to be reinstated and outstanding as if such payment had not occurred.
+
+A.1.3.1.=[02/Bit/Ssec_05]
 
 [ALTERNATIVE DEFINITION MORE FAVORABLE TO SECOND LIEN LENDERS]
 
-[(a)	First Lien Obligations means all Obligations of the Grantors under
 
-(1)	the First Lien Credit Agreement and the First Lien Loan Documents,
+B.1.3.1.0.sec=First Lien Obligations means all Obligations of the Grantors under
 
-(2)	the guaranties by Holdings and the Guarantor Subsidiaries of the Borrower’s Obligations under the First Lien Loan Documents,
+B.1.3.1.1.sec=the First Lien Credit Agreement and the First Lien Loan Documents,
 
-(3)	any Hedge Agreement entered into with an agent or a lender (or an Affiliate thereof) under the First Lien Credit Agreement (even if the counterparty or an Affiliate of the counterparty ceases to be an agent or a lender under the First Lien Credit Agreement),
+B.1.3.1.2.sec=the guaranties by Holdings and the Guarantor Subsidiaries of the Borrower’s Obligations under the First Lien Loan Documents,
 
-(4)	any Cash Management Agreement, or
+B.1.3.1.3.sec=any Hedge Agreement entered into with an agent or a lender (or an Affiliate thereof) under the First Lien Credit Agreement (even if the counterparty or an Affiliate of the counterparty ceases to be an agent or a lender under the First Lien Credit Agreement),
 
-(5)	any other agreement or instrument granting or providing for the perfection of a Lien securing any of the foregoing, except that such Obligations will only be considered First Lien Obligations to the extent
+B.1.3.1.4.sec=any Cash Management Agreement, or
 
-(i)	they are secured by a valid, perfected, and unavoidable Lien on the Collateral in favor of First Lien Agent, and
+B.1.3.1.5.sec=any other agreement or instrument granting or providing for the perfection of a Lien securing any of the foregoing, except that such Obligations will only be considered First Lien Obligations to the extent
 
-(ii)	a claim for such Obligations would be allowed or allowable in an Insolvency Proceeding applicable to the relevant Grantor.]
+B.1.3.1.5.1.sec=they are secured by a valid, perfected, and unavoidable Lien on the Collateral in favor of First Lien Agent, and
+
+B.1.3.1.5.2.sec=a claim for such Obligations would be allowed or allowable in an Insolvency Proceeding applicable to the relevant Grantor.]
+
+B.1.3.1.=[02/Bit/Ssec_05]
+
 
 [END OF ALTERNATIVE DEFINITION]
 
-(b)	Second Lien Obligations means all Obligations of the Grantors under
 
-(1)	the Second Lien Credit Agreement and the other Second Lien Loan Documents,
+1.3.2.0.sec=Second Lien Obligations means all Obligations of the Grantors under
 
-(2)	the guaranties by Holdings and the Guarantor Subsidiaries of Borrower’s Obligations under the Second Lien Loan Documents,
+1.3.2.1.sec=the Second Lien Credit Agreement and the other Second Lien Loan Documents,
 
-(3)	any Hedge Agreement entered into with an agent or a lender (or an Affiliate thereof) under the Second Lien Credit Agreement if such agent or lender is not an agent or lender under the First Lien Credit Agreement (even if the counterparty or an Affiliate of the counter-party ceases to be an agent or a lender under the Second Lien Credit Agreement),
+1.3.2.2.sec=the guaranties by Holdings and the Guarantor Subsidiaries of Borrower’s Obligations under the Second Lien Loan Documents,
 
-(4)	any agreement or instrument granting or providing for the perfection of a Lien securing any of the foregoing[, except that the aggregate principal amount of the Second Lien Obligations (other than Obligations under Hedge Agreements or Cash Management Agreements) in excess of the Second Lien Cap (as defined below) will not be Second Lien Obligations].
+1.3.2.3.sec=any Hedge Agreement entered into with an agent or a lender (or an Affiliate thereof) under the Second Lien Credit Agreement if such agent or lender is not an agent or lender under the First Lien Credit Agreement (even if the counterparty or an Affiliate of the counter-party ceases to be an agent or a lender under the Second Lien Credit Agreement),
 
-Notwithstanding any other provision hereof, the term “Second Lien Obligations” will include accrued interest, fees, costs, and other charges incurred under the Second Lien Credit Agreement and the other Second Lien Loan Documents, whether incurred before or after commencement of an Insolvency Proceeding[, and whether or not allowable in an Insolvency Proceeding].
+1.3.2.4.sec=any agreement or instrument granting or providing for the perfection of a Lien securing any of the foregoing[, except that the aggregate principal amount of the Second Lien Obligations (other than Obligations under Hedge Agreements or Cash Management Agreements) in excess of the Second Lien Cap (as defined below) will not be Second Lien Obligations].
 
-(c)	The inclusion of Obligations under Hedge Agreements in the First Lien Obligations will not create in favor of the applicable counterparty any rights in connection with the management or release of any Collateral or of the Obligations of any Grantor under any First Lien Collateral Document, and the inclusion of Obligations under Hedge Agreements in the Second Lien Obligations will not create in favor of the applicable counterparty any rights in connection with the management or release of any Collateral or of the Obligations of any Grantor under any Second Lien Collateral Document.
+1.3.2.90.sec=Notwithstanding any other provision hereof, the term “Second Lien Obligations” will include accrued interest, fees, costs, and other charges incurred under the Second Lien Credit Agreement and the other Second Lien Loan Documents, whether incurred before or after commencement of an Insolvency Proceeding[, and whether or not allowable in an Insolvency Proceeding].
 
-(d)	First Lien Agent and the holders of First Lien Obligations are, together, the First Lien Claimholders. Second Lien Agent and the holders of Second Lien Obligations are, together, the Second Lien Claimholders.
+1.3.2.=[02/Bit/Ssec_04]
+
+1.3.3.sec=The inclusion of Obligations under Hedge Agreements in the First Lien Obligations will not create in favor of the applicable counterparty any rights in connection with the management or release of any Collateral or of the Obligations of any Grantor under any First Lien Collateral Document, and the inclusion of Obligations under Hedge Agreements in the Second Lien Obligations will not create in favor of the applicable counterparty any rights in connection with the management or release of any Collateral or of the Obligations of any Grantor under any Second Lien Collateral Document.
+
+1.3.4.sec=First Lien Agent and the holders of First Lien Obligations are, together, the First Lien Claimholders. Second Lien Agent and the holders of Second Lien Obligations are, together, the Second Lien Claimholders.
+
+1.3.=[02/Bit/Ssec_04]
+
 
 1.4.Ti=FIRST LIEN CAP
 
-Capped Obligations means First Lien Obligations for the payment of principal of Loans and reimbursement obligations in respect of Letters of Credit [, Obligations under Interest Rate Protection Agreements,] and interest, premium, if any, and fees accruing or payable in respect thereof or in respect of commitments therefor.
+Note=complicated set of alternatives, not yet automated.
 
-First Lien Cap means the sum of
+x1.4.sec={1.4.sec } Select: <ol><li>A.1.4.sec:<br>{A.1.4.sec}<li>B.1.4.sec:<br>{B.1.4.sec}</ol>
 
-1.4.1.sec=the excess of
+1.4.1.sec=Capped Obligations means First Lien Obligations for the payment of principal of Loans and reimbursement obligations in respect of Letters of Credit [, Obligations under Interest Rate Protection Agreements,] and interest, premium, if any, and fees accruing or payable in respect thereof or in respect of commitments therefor.
 
-1.4.1.1.sec=the aggregate principal amount of First Lien Obligations (including the undrawn amount of all letters of credit constituting First Lien Obligations (Letters of Credit) and the aggregate original principal amount of any term loan that is a First Lien Obligation but excluding First Lien Obligations under Hedge Agreements) up to, but not in excess of, $____________, over
+1.4.2.0.sec=First Lien Cap means the sum of
 
-1.4.1.2.sec=the sum of (A) principal payments applied to term loans that are First Lien Obligations, (B) permanent reductions of revolving credit loans (and accompanying commitments) under the revolving credit facility provided for in the First Lien Credit Agreement, and (C) reimbursements of drawings under Letters of Credit constituting First Loan Obligations to the extent that any such reimbursement results in a permanent reduction of the Letter of Credit commitment amount under the First Lien Loan Documents, excluding reductions resulting from a Refinancing, plus
+1.4.2.1.0.sec=the excess of
 
-1.4.2.sec=amounts in respect of accrued, unpaid interest, fees, and premium (if any), in each case above accruing in respect of or attributable to, but only in respect of or attributable to, the aggregate principal amount of First Lien Obligations (including the undrawn amount of all Letters of Credit constituting First Lien Obligations and the aggregate original principal amount of any term loan that is a First Lien Obligation) at any one time not to exceed the amount referred to in clause (a) above, provided that the First Lien Cap shall not apply to any First Lien Obligations other than Capped Obligations[, and plus
+1.4.2.1.1.sec=the aggregate principal amount of First Lien Obligations (including the undrawn amount of all letters of credit constituting First Lien Obligations (Letters of Credit) and the aggregate original principal amount of any term loan that is a First Lien Obligation but excluding First Lien Obligations under Hedge Agreements) up to, but not in excess of, $____________, over
 
-1.4.3.sec=[Obligations owing by Grantors to First Lien Claimholders under non-speculative Hedge Agreements] [Obligations owing by Grantors to First Lien Claimholders under Interest Rate Protection Agreements designed to protect a Grantor against fluctuations in interest rates on an aggregate principal amount of First Lien Obligations (including the undrawn amount of all Letters of Credit constituting First Lien Obligations and the aggregate original principal amount of any term loan that is a First Lien Obligation) at any one time not to exceed the amount referred to in clause (a) above, plus amounts in respect of accrued, unpaid interest on such Obligations,][, plus
+1.4.2.1.2.sec=the sum of (A) principal payments applied to term loans that are First Lien Obligations, (B) permanent reductions of revolving credit loans (and accompanying commitments) under the revolving credit facility provided for in the First Lien Credit Agreement, and (C) reimbursements of drawings under Letters of Credit constituting First Loan Obligations to the extent that any such reimbursement results in a permanent reduction of the Letter of Credit commitment amount under the First Lien Loan Documents, excluding reductions resulting from a Refinancing, plus
 
-1.4.4.sec=the aggregate amount of all Second Lien Adequate Protection Payments to the extent paid from a DIP financing or Proceeds of Collateral [, and
+1.4.2.1.=[02/Bit/Ssec_02]
 
-1.4.5.sec=if there is an Insolvency Proceeding, $_______________].
+1.4.2.2.sec=amounts in respect of accrued, unpaid interest, fees, and premium (if any), in each case above accruing in respect of or attributable to, but only in respect of or attributable to, the aggregate principal amount of First Lien Obligations (including the undrawn amount of all Letters of Credit constituting First Lien Obligations and the aggregate original principal amount of any term loan that is a First Lien Obligation) at any one time not to exceed the amount referred to in clause (a) above, provided that the First Lien Cap shall not apply to any First Lien Obligations other than Capped Obligations[, and plus
+
+1.4.2.3.sec=[Obligations owing by Grantors to First Lien Claimholders under non-speculative Hedge Agreements] [Obligations owing by Grantors to First Lien Claimholders under Interest Rate Protection Agreements designed to protect a Grantor against fluctuations in interest rates on an aggregate principal amount of First Lien Obligations (including the undrawn amount of all Letters of Credit constituting First Lien Obligations and the aggregate original principal amount of any term loan that is a First Lien Obligation) at any one time not to exceed the amount referred to in clause (a) above, plus amounts in respect of accrued, unpaid interest on such Obligations,][, plus
+
+1.4.2.4.sec=the aggregate amount of all Second Lien Adequate Protection Payments to the extent paid from a DIP financing or Proceeds of Collateral [, and
+
+1.4.2.5.sec=if there is an Insolvency Proceeding, $_______________].
+
+1.4.2.=[02/Bit/Ssec_05]
 
 [ALTERNATIVE DEFINITION OF FIRST LIEN CAP FOR FIRST LIEN LOANS INVOLVING A BORROWING BASE]
 
@@ -212,23 +236,25 @@ First Lien Cap means the sum of
 
 [ALTERNATIVE DEFINITION MORE FAVORABLE TO SECOND LIEN LENDERS]
 
-Capped Obligations means First Lien Obligations for the payment of principal of Loans and reimbursement obligations in respect of Letters of Credit, and interest, premium, if any, and fees accruing or payable in respect thereof or in respect of commitments therefor [, plus obligations under Interest Rate Protection Agreements in respect of interest on First Lien Principal Obligations not in excess of the First Lien Cap]
+x1.4.3.sec=Capped Obligations means First Lien Obligations for the payment of principal of Loans and reimbursement obligations in respect of Letters of Credit, and interest, premium, if any, and fees accruing or payable in respect thereof or in respect of commitments therefor [, plus obligations under Interest Rate Protection Agreements in respect of interest on First Lien Principal Obligations not in excess of the First Lien Cap]
 
-[First Lien Cap means the sum of
+1.4.4.0.sec=[First Lien Cap means the sum of
 
-1.4.11.sec=the excess of (1) the outstanding amount of First Lien Principal Obligations not to exceed in the aggregate [the sum of (x)] $_______ of term Indebtedness [plus (y) the lesser of (A) [110]% of [Availability] as determined by First Lien Agent at the time each principal amount is made, issued, or otherwise incurred, and (B) $_______ of revolving credit Indebtedness included in the First Lien Obligations [(including the outstanding undrawn amount of, and reimbursement obligations in respect of, letters of credit constituting First Lien Obligations (Letters of Credit))] [(calculated, in the case of any First Lien Principal Obligations issued at a discount, at the aggregate amount due at maturity thereof)]], over (2) the aggregate amount of all repayments of term Indebtedness, and all repayments or reductions of revolving credit Indebtedness, included in the First Lien Principal Obligations[, and of reimbursement obligations under Letters of Credit,] (to the extent effected with a corresponding permanent commitment reduction under the First Lien Credit Agreement but excluding reductions as a result of a Refinancing) (First Lien Principal Obligations in excess of the First Lien Cap being the Excess First Lien Principal Obligations), plus
+1.4.4.1.sec=the excess of (1) the outstanding amount of First Lien Principal Obligations not to exceed in the aggregate [the sum of (x)] $_______ of term Indebtedness [plus (y) the lesser of (A) [110]% of [Availability] as determined by First Lien Agent at the time each principal amount is made, issued, or otherwise incurred, and (B) $_______ of revolving credit Indebtedness included in the First Lien Obligations [(including the outstanding undrawn amount of, and reimbursement obligations in respect of, letters of credit constituting First Lien Obligations (Letters of Credit))] [(calculated, in the case of any First Lien Principal Obligations issued at a discount, at the aggregate amount due at maturity thereof)]], over (2) the aggregate amount of all repayments of term Indebtedness, and all repayments or reductions of revolving credit Indebtedness, included in the First Lien Principal Obligations[, and of reimbursement obligations under Letters of Credit,] (to the extent effected with a corresponding permanent commitment reduction under the First Lien Credit Agreement but excluding reductions as a result of a Refinancing) (First Lien Principal Obligations in excess of the First Lien Cap being the Excess First Lien Principal Obligations), plus
 
-1.4.12.sec=accrued but unpaid interest, commitment, facility, utilization, and other analogous fees and, if applicable, prepayment premiums on the First Lien Principal Obligations referred to in clause (a) above [(at [rates] [interest rate margins] not in excess of __ basis points [or __%] above the [rates] [interest rate margins] provided for under the First Lien Credit Agreement as in effect on the date hereof)], plus
+1.4.4.2.sec=accrued but unpaid interest, commitment, facility, utilization, and other analogous fees and, if applicable, prepayment premiums on the First Lien Principal Obligations referred to in clause (a) above [(at [rates] [interest rate margins] not in excess of __ basis points [or __%] above the [rates] [interest rate margins] provided for under the First Lien Credit Agreement as in effect on the date hereof)], plus
 
-1.4.13.sec=all fees, expenses, premium (if any), reimbursement obligations, and other amounts of a type not referred to in clause (a) or (b) above payable in respect of the amounts referred to in clauses (a) and (b) above, [plus
+1.4.4.3.sec=all fees, expenses, premium (if any), reimbursement obligations, and other amounts of a type not referred to in clause (a) or (b) above payable in respect of the amounts referred to in clauses (a) and (b) above, [plus
 
-1.4.14.sec=Obligations under Hedge Agreements in respect of interest on First Lien Principal Obligations referred to in clause (a) above not to exceed $_______ in the aggregate,] in each case payable pursuant to the First Lien Loan Documents provided that the First Lien Cap shall not apply to any First Lien Obligations other than Capped Obligations.
+1.4.4.4.sec=Obligations under Hedge Agreements in respect of interest on First Lien Principal Obligations referred to in clause (a) above not to exceed $_______ in the aggregate,] in each case payable pursuant to the First Lien Loan Documents provided that the First Lien Cap shall not apply to any First Lien Obligations other than Capped Obligations.
 
-For purposes of this definition, all payments of First Lien Principal Obligations will be deemed to be applied first to reduce the First Lien Principal Obligations referred to in clause (a)(1) above and thereafter to reduce any Excess First Lien Principal Obligations.]
+1.4.4.90.sec=For purposes of this definition, all payments of First Lien Principal Obligations will be deemed to be applied first to reduce the First Lien Principal Obligations referred to in clause (a)(1) above and thereafter to reduce any Excess First Lien Principal Obligations.]
 
 [END OF ALTERNATIVE DEFINITION]
 
-Any net increase in the aggregate principal amount of a loan or Letter of Credit (on a U.S. Dollar equivalent basis) after the loan is incurred or the Letter of Credit issued that is caused by a fluctuation in the exchange rate of the currency in which the loan or Letter of Credit is denominated will be ignored in determining whether the First Lien Cap has been exceeded[, except with respect to the principal amount of First Lien Obligations made, issued, or advanced after the calculation of such fluctuation in exchange rate].
+1.4.3.sec=Any net increase in the aggregate principal amount of a loan or Letter of Credit (on a U.S. Dollar equivalent basis) after the loan is incurred or the Letter of Credit issued that is caused by a fluctuation in the exchange rate of the currency in which the loan or Letter of Credit is denominated will be ignored in determining whether the First Lien Cap has been exceeded[, except with respect to the principal amount of First Lien Obligations made, issued, or advanced after the calculation of such fluctuation in exchange rate].
+
+1.4.=[02/Bit/Ssec_03]
 
 1.5.Ti=FIRST AND SECOND LIEN COLLATERAL TO BE IDENTICAL
 
@@ -340,7 +366,7 @@ Any net increase in the aggregate principal amount of a loan or Letter of Credit
 
 1.9.1.sec=Notwithstanding anything herein to the contrary, the Lien and security interest granted to Second Lien Agent pursuant to this Agreement and the exercise of any right or remedy by Second Lien Agent hereunder are subject to the provisions of the Intercreditor Agreement, dated  _____________ (as amended, restated, supplemented, or otherwise modified from time to time, the “Intercreditor Agreement”), among __________, as First Lien Agent, _____________, as Second Lien Agent, _________________, as Control Agent, and the Grantors (as defined therein) from time to time party thereto and other persons party or that may become party thereto from time to time. If there is a conflict between the terms of the Intercreditor Agreement and this Agreement, the terms of the Intercreditor Agreement will control.
 
-1.9..=[02/Bit/Ssec_01]
+1.9.=[02/Bit/Ssec_01]
 
 1.10.Ti=RELEASE OF LIENS [OR GUARANTIES]
 
@@ -412,13 +438,15 @@ Example:  Suppose First Lien Obligations are $150 million, with a First Lien Cap
 
 2.1.Ti=PERMITTED MODIFICATIONS
 
-Except as otherwise expressly provided in this section 2,
+2.1.0.sec=Except as otherwise expressly provided in this section 2,
 
 2.1.1.sec=the First Lien Obligations may be modified in accordance with their terms, and their aggregate amount increased or Refinanced, without notice to or consent by any Second Lien Claimholder, provided that the holders of any Refinancing Indebtedness (or their agent) bind themselves in a writing addressed to Second Lien Claimholders to the terms of this Agreement, and
 
 2.1.2.sec=the Second Lien Obligations may be modified in accordance with their terms, and their aggregate amount increased or Refinanced, without notice to or consent by any First Lien Claimholder, provided that the holders of any Refinancing Indebtedness (or their agent) bind themselves in a writing addressed to First Lien Claimholders to the terms of this Agreement.
 
-However, no such modification may alter or otherwise affect sections 1.1, “Seniority of Liens Securing First Lien Obligations,” or 1.8, “Prohibition on Contesting Liens; No Marshaling.”
+2.1.90.sec=However, no such modification may alter or otherwise affect sections 1.1, “Seniority of Liens Securing First Lien Obligations,” or 1.8, “Prohibition on Contesting Liens; No Marshaling.”
+
+2.1.=[02/Bit/Ssec_02]
 
 2.2.Ti=MODIFICATIONS REQUIRING CONSENT
 
@@ -472,7 +500,7 @@ However, no such modification may alter or otherwise affect sections 1.1, “Senio
 
 [ADDITIONAL SECTION FOR ASSET-BASED LENDING TRANSACTION]
 
-[(*) for the First Lien Obligations, increases the Advance Rate applicable to the Borrowing Base to a rate higher than the Advance Rate on the date hereof, or modifies the definitions of “Borrowing Base,” “Eligible Account,” “Eligible Inventory,” or “Reserves” in the First Lien Credit Agreement on the date hereof so as to increase the amount of credit available to Borrower, provided that First Lien Agent’s discretion to establish additional reserves, to release reserves, and to determine eligibility will not be affected or limited in any manner.]
+2.2.11.sec=for the First Lien Obligations, increases the Advance Rate applicable to the Borrowing Base to a rate higher than the Advance Rate on the date hereof, or modifies the definitions of “Borrowing Base,” “Eligible Account,” “Eligible Inventory,” or “Reserves” in the First Lien Credit Agreement on the date hereof so as to increase the amount of credit available to Borrower, provided that First Lien Agent’s discretion to establish additional reserves, to release reserves, and to determine eligibility will not be affected or limited in any manner.
 
 [END OF ADDITIONAL SECTION]
 
@@ -492,9 +520,11 @@ However, no such modification may alter or otherwise affect sections 1.1, “Senio
 
 2.4.Ti=NOTICE OF MODIFICATIONS
 
-First Lien Agent will notify Second Lien Agent, and Second Lien Agent will notify First Lien Agent, of each modification to the First Lien Obligations or Second Lien Obligations, respectively, within ten Business Days after the modification’s effective date and, if requested by the notified Agent, promptly provide copies of any documents executed and delivered in connection with the modification.
+2.4.1.sec=First Lien Agent will notify Second Lien Agent, and Second Lien Agent will notify First Lien Agent, of each modification to the First Lien Obligations or Second Lien Obligations, respectively, within ten Business Days after the modification’s effective date and, if requested by the notified Agent, promptly provide copies of any documents executed and delivered in connection with the modification.
 
-Notice and copies will not be required to the extent Borrower or a Grantor has provided the same to the Agent to be notified.
+2.4.2.sec=Notice and copies will not be required to the extent Borrower or a Grantor has provided the same to the Agent to be notified.
+
+2.4.=[02/Bit/Sec_02]
 
 2.=[02/Bit/Sec_04]
 
@@ -512,7 +542,7 @@ Notice and copies will not be required to the extent Borrower or a Grantor has p
 
 3.1.2.sec=Notwithstanding the preceding section 3.1(a), Second Lien Claimholders may commence an Enforcement Action or exercise rights with respect to a Lien securing a Second Lien Obligation if
 
-3.1.2.1.sec=[120â€“180] days have elapsed since Second Lien Agent notified First Lien Agent that the Second Lien Obligations were due in full as a result of acceleration or otherwise (the Standstill Period),
+3.1.2.1.sec=[120-180] days have elapsed since Second Lien Agent notified First Lien Agent that the Second Lien Obligations were due in full as a result of acceleration or otherwise (the Standstill Period),
 
 3.1.2.2.sec=First Lien Claimholders are not then diligently pursuing an Enforcement Action with respect to all or a material portion of the Collateral or diligently attempting to vacate any stay or prohibition against such exercise, [and]
 
@@ -534,9 +564,9 @@ Notice and copies will not be required to the extent Borrower or a Grantor has p
 
 [OPTIONAL PROVISIONS]
 
-[(6)	take or fail to take any Lien securing First Lien Obligations or any other collateral security therefor, or take or fail to take any action necessary or appropriate to ensure that any Lien is enforceable, perfected, or entitled to priority as against any other Lien or to ensure that any Proceeds of any property subject to a Lien are applied to the payment of any Obligation secured thereby, or
+3.1.3.6.sec=take or fail to take any Lien securing First Lien Obligations or any other collateral security therefor, or take or fail to take any action necessary or appropriate to ensure that any Lien is enforceable, perfected, or entitled to priority as against any other Lien or to ensure that any Proceeds of any property subject to a Lien are applied to the payment of any Obligation secured thereby, or
 
-(7)	otherwise release, discharge, or permit the lapse of any Lien securing a First Lien Obligation.]
+3.1.3.7.sec=otherwise release, discharge, or permit the lapse of any Lien securing a First Lien Obligation.
 
 [END OF OPTIONAL PROVISIONS]
 
@@ -544,13 +574,13 @@ Notice and copies will not be required to the extent Borrower or a Grantor has p
 
 [OPTIONAL PROVISION]
 
-[(e)	First Lien Agent will promptly notify Second Lien Agent of the Discharge of First Lien Obligations.]
+3.1.5.sec=First Lien Agent will promptly notify Second Lien Agent of the Discharge of First Lien Obligations.
 
 [END OF OPTIONAL PROVISION]
 
 3.2.Ti=MANNER OF EXERCISE
 
-3.2.1.sec=A First Lien Claimholder may take any Enforcement Action
+3.2.1.0.sec=A First Lien Claimholder may take any Enforcement Action
 
 3.2.1.1.sec=in any manner in its sole discretion in compliance with applicable law,
 
@@ -562,21 +592,30 @@ Notice and copies will not be required to the extent Borrower or a Grantor has p
 
 3.2.1.5.sec=regardless of whether such exercise is adverse to the interest of any Second Lien Claimholder.
 
-3.2.2.sec=The rights of a First Lien Claimholder or the Control Agent to enforce any provision of this Agreement or any First Lien Loan Document will not be prejudiced or impaired by
+3.2.1.=[02/Bit/Ssec_05]
+
+3.2.2.0.sec=The rights of a First Lien Claimholder or the Control Agent to enforce any provision of this Agreement or any First Lien Loan Document will not be prejudiced or impaired by
 
 3.2.2.1.sec=any act or failure to act of any Grantor, any other First Lien Claimholder, or the Control Agent, or
 
 3.2.2.2.sec=noncompliance by any Person other than such First Lien Claimholder with any provision of this Agreement, any First Lien Loan Document, or any Second Lien Loan Document, regardless of any knowledge thereof that any First Lien Claimholder or the Control Agent may have or otherwise be charged with.
 
+3.2.2.=[02/Bit/Ssec_02]
+
 3.2.3.sec=No Second Lien Claimholder will contest, protest, object to, or take any action to hinder, and each waives any and all claims with respect to, any Enforcement Action by a First Lien Claimholder in compliance with this Agreement and applicable law.
+
+3.2.=[02/Bit/Ssec_03]
 
 3.3.Ti=SPECIFIC PERFORMANCE
 
-First Lien Agent and Second Lien Agent may each demand specific performance of this Agreement, and each waives any defense based on the adequacy of a remedy at law and any other defense that might be asserted to bar the remedy of specific performance in any action brought by a Second Lien Claimholder or a First Lien Claimholder, respectively.
+3.3.sec=First Lien Agent and Second Lien Agent may each demand specific performance of this Agreement, and each waives any defense based on the adequacy of a remedy at law and any other defense that might be asserted to bar the remedy of specific performance in any action brought by a Second Lien Claimholder or a First Lien Claimholder, respectively.
 
 3.4.Ti=NOTICE OF EXERCISE
 
-The First and Second Lien Agents will each provide reasonable prior notice to the other of its initial material Enforcement Action.
+3.4.sec=The First and Second Lien Agents will each provide reasonable prior notice to the other of its initial material Enforcement Action.
+
+3.=[02/Bit/Ssec_04]
+
 
 4.Ti=PAYMENTS
 
