@@ -4,8 +4,6 @@ Heading.Sec={Co.Name.Full}<p>SERIES AA PREFERRED STOCK PURCHASE AGREEMENT</p><p>
 
 1.Ti=Authorization, Sale and Issuance of Series AA Preferred Stock
 
-1.sec=<ol><li>{1.1.Sec}</li><li>{1.2.Sec}</li></ol>
-
 1.1.Ti=Authorization
 
 1.1.sec=The Company will, prior to the Initial Closing (as defined below), authorize (a) {1.1.1.Sec} and (b) {1.1.2.Sec}
@@ -23,8 +21,6 @@ Heading.Sec={Co.Name.Full}<p>SERIES AA PREFERRED STOCK PURCHASE AGREEMENT</p><p>
 2.Ti=Closing Dates and Delivery
 
 2.1.Ti=Closing
-
-2.1.sec=<ol><li>{2.1.1.Sec}</li><li>{2.1.2.Sec}</li><li>{2.1.3.Sec}</li></ol>
 
 2.1.1.Sec=The purchase, sale and issuance of the Shares shall take place at one or more closings (each of which is referred to in this Agreement as a “<strong>Closing</strong>”). The initial Closing (the “<strong>Initial Closing</strong>”) shall take place at {Closing.RD}, or such other date as the Company determines in its sole discretion.
 
@@ -58,21 +54,23 @@ cRep.1.sec=The Company is a corporation duly organized, validly existing and in 
 
 cRep.2.Ti=Capitalization
 
-cRep.2.sec=<ol><li>{cRep.2.1.Sec}</li><li>{cRep.2.2.Sec}</li><li>{cRep.2.3.Sec}</li><li>{cRep.2.4.Sec}</li></ol>
+cRep.2.1.sec=Immediately prior to the Initial Closing, the authorized capital stock of the Company will consist of {Cap.Common.Auth.#} shares of Common Stock, of which {Cap.Common.Issued.#} shares are issued and outstanding and {Cap.AA.Auth.#} shares of Preferred Stock, all of which are designated Series AA Preferred and none of which are issued and outstanding. The Common Stock and the Series AA Preferred shall have the rights, preferences, privileges and restrictions set forth in the Restated Certificate.
 
-cRep.2.1.Sec=Immediately prior to the Initial Closing, the authorized capital stock of the Company will consist of {Cap.Common.Auth.#} shares of Common Stock, of which {Cap.Common.Issued.#} shares are issued and outstanding and {Cap.AA.Auth.#} shares of Preferred Stock, all of which are designated Series AA Preferred and none of which are issued and outstanding. The Common Stock and the Series AA Preferred shall have the rights, preferences, privileges and restrictions set forth in the Restated Certificate.
+cRep.2.2.sec=The outstanding shares have been duly authorized and validly issued in compliance with applicable laws, and are fully paid and nonassessable.
 
-cRep.2.2.Sec=The outstanding shares have been duly authorized and validly issued in compliance with applicable laws, and are fully paid and nonassessable.
+cRep.2.3.0.sec=The Company has reserved:
 
-cRep.2.3.Sec=The Company has reserved:<ol><li>{cRep.2.3.1.Sec};</li><li>{cRep.2.3.2.Sec}; and</li><li>{cRep.2.3.3.Sec}.</li></ol>
+cRep.2.3.1.sec=the Shares for issuance pursuant to this Agreement
 
-cRep.2.3.1.Sec=the Shares for issuance pursuant to this Agreement
+cRep.2.3.2.sec=shares of Common Stock (as may be adjusted in accordance with the provisions of the Restated Certificate) for issuance upon conversion of the Shares
 
-cRep.2.3.2.Sec=shares of Common Stock (as may be adjusted in accordance with the provisions of the Restated Certificate) for issuance upon conversion of the Shares
+cRep.2.3.3.sec={Cap.Common.Plan.Auth.#} shares of Common Stock authorized for issuance to employees, consultants and directors pursuant to its {Cap.Common.Plan.Name} Stock Plan, under which options to purchase {Cap.Common.Plan.Issued.#} shares are issued and outstanding as of the date of this Agreement
 
-cRep.2.3.3.Sec= {Cap.Common.Plan.Auth.#} shares of Common Stock authorized for issuance to employees, consultants and directors pursuant to its {Cap.Common.Plan.Name} Stock Plan, under which options to purchase {Cap.Common.Plan.Issued.#} shares are issued and outstanding as of the date of this Agreement
+cRep.2.3.=[02/Bit/Ssec_03]
 
-cRep.2.4.Sec=The Shares, when issued and delivered and paid for in compliance with the provisions of this Agreement, will be validly issued, fully paid and nonassessable. The Conversion Shares have been duly and validly reserved and, when issued in compliance with the provisions of this Agreement, the Restated Certificate and applicable law, will be validly issued, fully paid and nonassessable. The Shares and the Conversion Shares will be free of any liens or encumbrances, other than any liens or encumbrances created by or imposed upon the Investors; <em>provided, however</em>, that the Shares and the Conversion Shares are subject to restrictions on transfer under U.S. state and/or federal securities laws and as set forth herein and in the Rights Agreement. Except as set forth in the Rights Agreement, the Shares and the Conversion Shares are not subject to any preemptive rights or rights of first refusal.
+cRep.2.4.sec=The Shares, when issued and delivered and paid for in compliance with the provisions of this Agreement, will be validly issued, fully paid and nonassessable. The Conversion Shares have been duly and validly reserved and, when issued in compliance with the provisions of this Agreement, the Restated Certificate and applicable law, will be validly issued, fully paid and nonassessable. The Shares and the Conversion Shares will be free of any liens or encumbrances, other than any liens or encumbrances created by or imposed upon the Investors; <em>provided, however</em>, that the Shares and the Conversion Shares are subject to restrictions on transfer under U.S. state and/or federal securities laws and as set forth herein and in the Rights Agreement. Except as set forth in the Rights Agreement, the Shares and the Conversion Shares are not subject to any preemptive rights or rights of first refusal.
+
+cRep.2.=[02/Bit/Ssec_04]
 
 cRep.3.Ti=Authorization
 
@@ -211,7 +209,6 @@ iRep.=[02/Bit/Sec_13]
 5.=[02/Bit/Sec_05]
 
 6.Ti=Conditions to Company’s Obligation to Close
-
 
 6.0.sec=The Company’s obligation to sell and issue the Shares at each Closing is subject to the fulfillment on or before such Closing of the following conditions, unless waived in writing by the Company:
 
