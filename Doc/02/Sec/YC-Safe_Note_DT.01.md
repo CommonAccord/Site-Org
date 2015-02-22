@@ -14,6 +14,8 @@ the_Company=the {d-}Company{-d}
 
 Company_Capitalization={d-}Company Capitalization{-d}
 
+Conversion_Price={d-}Conversion Price{-d}
+
 Discount={d-}Discount{-d}
 
 Discount_Price={d-}Discount Price{-d}
