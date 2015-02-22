@@ -20,6 +20,14 @@ Olist=<ol><li>{Secs}</li></ol>
 
 olist=<ol><li>{secs}</li></ol>
 
+Alist=<ol type="a"><li>{Secs}</li></ol>
+
+alist=<ol type="a"><li>{secs}</li></ol>
+
+Ilist=<ol type="i"><li>{Secs}</li></ol>
+
+ilist=<ol type="i"><li>{secs}</li></ol>
+
 Ulist=<ul><li>{Secs}</li></ul>
 
 ulist=<ul><li>{secs}</li></ul>

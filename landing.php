@@ -33,12 +33,13 @@ include("header.php");
 </div>
 
     <div class="col-sm-4" id="info-more">
+        <h4 class="subtitle"><a href="https://docs.google.com/presentation/d/1goOc9sv1XXI-uuxRK0W406XCKahVkJP41WmO2pAiu2s/edit?usp=sharing">Pitch for a Center for Decentralized Law</a>.</h4>
 
-        <h4 class="subtitle">Review <a href="https://www.linkedin.com/pulse/law-code-marc-dangeard">Law is Code</a>.</h4>
+        <h4 class="subtitle"><a href="https://www.linkedin.com/pulse/law-code-marc-dangeard">Review of Use at Be-Bound</a>.</h4>
 
-        <h4 class="subtitle">Learn <a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=/about/how/>how it works</a>.</h4>
-        <h4 class="subtitle">Explore <a href=<?=$_SERVER['PHP_SELF']?>?action=explore>the template system.</a></h4>
-        <h4 class="subtitle">Browse <a href="https://github.com/CommonAccord/commonaccord/tree/master/Doc">the Github repo</a>.</h4>
+        <h4 class="subtitle"><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=/about/how/>how it works</a>.</h4>
+        <h4 class="subtitle"><a href=<?=$_SERVER['PHP_SELF']?>?action=explore>the template system.</a></h4>
+        <h4 class="subtitle"><a href="https://github.com/CommonAccord/commonaccord/tree/master/Doc">The Github repo</a>.</h4>
 
                         <br/><a href="#more"><img src="assets/more.png" height=75></a>
 
