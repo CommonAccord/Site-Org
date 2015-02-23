@@ -1,7 +1,5 @@
-Model.Root=<ul><li>{TS.Model.Root}<li><hr>{BC.Model.Root}<li><hr>{COI.Model.Root}<li><hr>{IRA.Model.Root}<li><hr>{SPA.Model.Root}<li><hr>{SC.Model.Root}</ul>
+Model.Root=<ul><li><hr>{BC.Model.Root}<li><hr>{COI.Model.Root}<li><hr>{IRA.Model.Root}<li><hr>{SPA.Model.Root}<li><hr>{SC.Model.Root}</ul>
 
-
-TS.=[YC/SeriesAA/Form_YC_AA_TermSheet]
 
 BC.=[YC/SeriesAA/Form_YC_AA_BoardConsent]
 
