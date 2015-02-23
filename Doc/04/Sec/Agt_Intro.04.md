@@ -8,17 +8,17 @@ Parties.Sec=<b>{Parties.Ti}</b>{Parties.xlist}
 
 Parties.xlist=<ul><li>{Parties.List}<li>Each a “{party}” and collectively the “{parties}.”</ul>
 
-Parties.List={Parties.List.1,2,3,4,5,6}
+Parties.List={Parties.List.1-6}
 
-Parties.List.1,2={P1.sec}<li>{P2.sec}
+Parties.List.1-2={P1.sec}<li>{P2.sec}
 
-Parties.List.1,2,3={P1.sec}<li>{P2.sec}<li>{P3.sec}
+Parties.List.1-3={P1.sec}<li>{P2.sec}<li>{P3.sec}
 
-Parties.List.1,2,3,4={P1.sec}<li>{P2.sec}<li>{P3.sec}<li>{P4.sec}
+Parties.List.1-4={P1.sec}<li>{P2.sec}<li>{P3.sec}<li>{P4.sec}
 
-Parties.List.1,2,3,4,5={P1.sec}<li>{P2.sec}<li>{P3.sec}<li>{P4.sec}<li>{P5.sec}
+Parties.List.1-5={P1.sec}<li>{P2.sec}<li>{P3.sec}<li>{P4.sec}<li>{P5.sec}
 
-Parties.List.1,2,3,4,5,6={P1.sec}<li>{P2.sec}<li>{P3.sec}<li>{P4.sec}<li>{P5.sec}<li>{P6.sec}
+Parties.List.1-6={P1.sec}<li>{P2.sec}<li>{P3.sec}<li>{P4.sec}<li>{P5.sec}<li>{P6.sec}
 
 Parties.Ti=BY AND BETWEEN:
 

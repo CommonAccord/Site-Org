@@ -22,7 +22,7 @@ Misc.=[02/Sec/NDA_Sec_Misc.02.md]
 
 =[03/Sec/Secs_Back.01.md]
 
-=[04/Sec/Agt_Parties.1,2.04.md]
+=[04/Sec/Agt_Parties.1-2.04.md]
 
 =[02/Sec/DT_NDA.01.md]
 
