@@ -6,7 +6,7 @@ Ti=Engagement
 
 1.1.sec={the_Receiving_Party} hold in strict confidence and not disclose to any third party any {Confidential_Information_of_the_Disclosing_Party}, except as approved in writing by {the_Disclosing_Party}, and 
 
-1.2.sec={the_Receiving_Party}will use the {Confidential_Information_of_the_Disclosing_Party} for no purpose other than the {Permitted_Use}.
+1.2.sec={the_Receiving_Party} will use the {Confidential_Information_of_the_Disclosing_Party} for no purpose other than the {Permitted_Use}.
 
 1.=[02/Bit/Sec_02]
 
