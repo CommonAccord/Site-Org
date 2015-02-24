@@ -12,6 +12,8 @@ DocBody={Doc}
 
 Doc=<font color="grey">{MessageToUser}</font><center><h4>{Heading.Sec}</h4></center><br>{sec} 
 
+Heading.Sec={Ti}
+
 sec={Intro.Sec} {xlist} {End.Sec}
 
 xlist={Olist}
