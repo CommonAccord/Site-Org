@@ -1,35 +1,29 @@
 Ti=Definition
 
-0.Sec={Mutual.0.Sec}
+0.Sec={Mutual.Def.Sec}
 
-Mutual.0.Sec={0.1.Cl} {Mutual.0.2.cl} {0.3.cl}:
+Mutual.Def.Sec={Def.Disclosed.Cl} {Mutual.Def.By.cl} {Def.Including.cl}:
 
-OneWay.0.Sec={0.1.Cl} {OneWay.0.2.cl} {0.3.cl}:
+OneWay.Def.Sec={Def.Disclosed.Cl} {OneWay.Def.By.cl} {Def.Including.cl}:
 
-0.1.Cl=As used herein, the “{Confidential_Information}” shall mean any and all technical and non-technical information disclosed 
+Def.Disclosed.Cl=As used herein, the “{Confidential_Information}” shall mean any and all technical and non-technical information disclosed 
 
-Mutual.0.2.cl=by a {Party} (the “{Disclosing_Party}”) to the other {Party} (the “{Receiving_Party}”)
+Mutual.Def.By.cl=by a {Party} (the “{Disclosing_Party}”) to the other {Party} (the “{Receiving_Party}”)
 
-OneWay.0.2.cl=by {P1.the} (also referred to as the “{Disclosing_Party}”) to {P2.the} (also referred to as the “{Receiving_Party}”)
+OneWay.Def.By.cl=by {P1.the} (also referred to as the “{Disclosing_Party}”) to {P2.the} (also referred to as the “{Receiving_Party}”)
 
-0.3.cl=including without limitation information regarding
+Def.Including.cl=including without limitation information regarding
 
-1.sec=patent and patent applications;
+1.sec=patent and patent applications
 
-2.sec=trade secrets;
+2.sec=trade secrets
 
-3.sec={infoTypes} related to {DPservices} of {the_Disclosing_Party}, including without limitation {the_Disclosing_Party}’s information concerning {infoExamples};
+3.=[02/Sec/NDA_Sec_Definition_ConfInfoExamples.01.md]
 
-infoTypes=proprietary and confidential information, ideas, techniques, sketches, drawings, works of authorship, models, inventions, know-how, processes, apparatuses, equipment, algorithms, software programs, software source documents, and formulae
+4.sec=information {the_Disclosing_Party} provides regarding third parties
 
-DPservices=the current, future, and proposed products and services
+5.sec=all other information that {the_Receiving_Party} knew, or reasonably should have known, was the {Confidential_Information_of_the_Disclosing_Party}
 
-infoExamples=research, experimental work, development, design details and specifications, engineering, financial information, procurement requirements, purchasing, manufacturing, customer lists, investors, employees, business and contractual relationships, business forecasts, sales and merchandising, and marketing plans
+=[02/Bit/Ssec_05]
 
-4.sec=information {the_Disclosing_Party} provides regarding third parties; and
-
-5.sec=all other information that {the_Receiving_Party} knew, or reasonably should have known, was the {Confidential_Information_of_the_Disclosing_Party}.
-
-Secs={secs}
-
-=[02/Bit/Sec_05]
+secs={secs;and}

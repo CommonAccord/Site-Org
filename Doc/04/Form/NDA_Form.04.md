@@ -26,6 +26,8 @@ Misc.=[02/Sec/NDA_Sec_Misc.02.md]
 
 =[02/Sec/DT_NDA.01.md]
 
+/Note=Oxford comma.
+q=,
 
 Conf.Xref={1.Xref}
 
