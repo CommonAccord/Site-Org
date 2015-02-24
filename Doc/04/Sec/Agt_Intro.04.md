@@ -6,7 +6,7 @@ Persons.sec={Parties.Sec}<li>{Friends.Sec}
 
 Parties.Sec=<b>{Parties.Ti}</b>{Parties.xlist}
 
-Parties.xlist=<ul><li>{Parties.List}<li>Each a “{party}” and collectively the “{parties}.”</ul>
+Parties.xlist=<ul type="none"><li>{Parties.List}<li>Each a “{party}” and collectively the “{parties}.”</ul>
 
 Parties.List={Parties.List.1-6}
 
@@ -38,7 +38,7 @@ P6.sec={P6.N,E,A} (“{P6.Handle}”)
 
 Friends.Sec=<b>{Friends.Ti}</b>{Friends.xlist}
 
-Friends.xlist=<ul><li>{Friends.List}<li>Each a “{Named_Third_Party}” and collectively the “{Named_Third_Parties}.”</ul>
+Friends.xlist=<ul type="none"><li>{Friends.List}<li>Each a “{Named_Third_Party}” and collectively the “{Named_Third_Parties}.”</ul>
 
 Friends.List={Friends.List.1,2,3,4,5,6}
 
