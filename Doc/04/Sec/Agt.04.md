@@ -20,4 +20,8 @@ xlist={Olist}
 
 Olist=<ol><li>{Secs}</li></ol>
 
+Note=To make blank - could be improved:
+
+null=<b></b>
+
 =[02/Sec/DT_Base.01.md]

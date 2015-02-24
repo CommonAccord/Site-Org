@@ -4,6 +4,8 @@ P1.=[core/id/acme_incorporated]
 
 P2.=[core/id/solomon_shirley]
 
+Agree.Whereas.sec={null}
+
 Agt.Effective.YMD=March 1, 2015
 
 Term.End.YMD=January 31, 2016
@@ -23,4 +25,4 @@ Project.Fee=$20,000
 Project.Maximum.$=$25,000
 
 
-=[04/Form/Consult_Form.04.md]  
+=[04/Form/Consult_Form.04.md]
