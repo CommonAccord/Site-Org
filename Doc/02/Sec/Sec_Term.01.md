@@ -2,11 +2,11 @@ Ti=Termination
 
 1.Ti=Term
 
-1.sec={This_Agreement} will terminate on {Agt.End.YMD}.
+1.sec={This_Agreement} will terminate on {Term.End.YMD}.
 
 2.Ti=Termination
 
-2.sec={This_Agreement} may be terminated by either {Party} at any time upon {noticePeriod} written notice to the other {Party}.
+2.sec={This_Agreement} may be terminated by either {Party} at any time upon {NoticePeriod.TimeSpan} written notice to the other {Party}.
 
 noticePeriod=thirty (30) days
 
