@@ -3,7 +3,9 @@ Ti=Consulting Contract
 Agree.Whereas.sec=Whereas the parties wish to specify the payment terms
 
 
-Secs={Deposit.sec}<li>{Pay.Delivery.sec}<li>{Pay.Acceptance.sec}<li>{Acceptance.Period.sec}
+Secs={Payment.sec}
+
+Payment.sec={Deposit.sec}<li>{Pay.Delivery.sec}<li>{Pay.Acceptance.sec}<li>{Acceptance.Period.sec}
 
 Deposit.sec=With signature of this Agreement {P1.Handle} shall block {Pay.1.$} plus {Pay.2.$}. 
 
