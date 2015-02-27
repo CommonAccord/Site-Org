@@ -6,7 +6,7 @@ Ti={Preexisting_IP} of {P2.the}
 
 2.Ti=License for {Preexisting_IP}
 
-2.sec=In the event {P2.the} uses or incorporates {Preexisting_IP} into {Work_Product}, {P2.the} hereby grants to {P1.the} a {P2.PreexistingIP.License.Grant.Type}, to use, reproduce, distribute, create derivative works of, publicly perform and publicly display in any medium or format, whether now known of later developed, such {Preexisting_IP} incorporated or used in {Work_Product}.
+2.sec=In the event {P2.the} uses or incorporates {Preexisting_IP} into {Work_Product}, {P2.the} hereby grants to {P1.the} a {P2.PreexistingIP.License.Grant.Type}, to use, reproduce, distribute, create derivative works of, publicly perform{q} and publicly display in any medium or format, whether now known of later developed, such {Preexisting_IP} incorporated or used in {Work_Product}.
 
 3.Ti=Right to License {Preexisting_IP}
 
@@ -16,6 +16,6 @@ Ti={Preexisting_IP} of {P2.the}
 
 4.sec=However, in no event will {P2.the} incorporate into the {Work_Product} any software code licensed under the GNU GPL or LGPL or any similar “open source” license.
 
-P2.PreexistingIP.License.Grant.Type=non-exclusive, perpetual, fully-paid and royalty-free, irrevocable and worldwide right, with the right to sublicense through multiple levels of sublicensees
+P2.PreexistingIP.License.Grant.Type=non-exclusive, perpetual, fully-paid and royalty-free, irrevocable{q} and worldwide right, with the right to sublicense through multiple levels of sublicensees
 
 =[02/Bit/Sec_04]
