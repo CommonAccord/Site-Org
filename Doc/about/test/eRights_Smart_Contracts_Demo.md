@@ -10,7 +10,9 @@ Pay.1.$=$100
 
 Pay.2.$=$500
 
-Deliverable.Specification=a nicely-bound report on "What to Do"
+Deliverable.Specification=a nicely-bound {PageCount} report on "What to Do"
+
+PageCount=30 page
 
 Acceptance.Period=30 days
 
