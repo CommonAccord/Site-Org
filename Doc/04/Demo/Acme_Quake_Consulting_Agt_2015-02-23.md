@@ -4,13 +4,15 @@ P1.=[core/id/acme_incorporated]
 
 P2.=[core/id/solomon_shirley]
 
+=[04/Juris/Juris_US_MA_NDA.01.md]
+
+=[04/Form/Consult_Form.04.md]
+
 Agree.Whereas.sec={null}
 
 Agt.Effective.YMD=March 1, 2015
 
 Term.End.YMD=January 31, 2016
-
-Law.State.the=the State of California
 
 Project.#=2345432
 
@@ -23,6 +25,3 @@ Project.End.YMD=December 31, 2015
 Project.Fee=$20,000
 
 Project.Maximum.$=$25,000
-
-
-=[04/Form/Consult_Form.04.md]
