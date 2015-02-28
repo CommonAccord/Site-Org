@@ -37,3 +37,9 @@ Ti=CONSUMER PRIVACY BILL OF RIGHTS ACT
 4.=[OMB/CPBR_Act_Of_2015_Definitions.01.md]
 
 =[02/Bit/Sec_04]
+
+DocBody={Doc}
+
+90.Sec={Title.1.Doc}
+
+Title.1.=[OMB/CPBR_Act_Of_2015_Title_1.01.md]
