@@ -16,9 +16,20 @@ sec={0.Sec} {xlist} {90.Sec}
 
 xlist={Olist}
 
-Olist=<ol><li>{Secs}</li></ol>
+Olist=<{ol}><li>{Secs}</li></ol>
 
-olist=<ol><li>{secs}</li></ol>
+olist=<{ol}><li>{secs}</li></ol>
+
+ol=ol
+
+ol-a=ol type="a"
+
+ol-A=ol type="A"
+
+ol-I=ol type="I"
+
+ol-i=ol type="i"
+
 
 Alist=<ol type="a"><li>{Secs}</li></ol>
 

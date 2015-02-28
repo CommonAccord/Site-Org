@@ -38,8 +38,6 @@ Ti=CONSUMER PRIVACY BILL OF RIGHTS ACT
 
 =[02/Bit/Sec_04]
 
-DocBody={Doc}
-
 90.Sec={Title.1.Doc}<hr>{Title.2.Doc}<hr>{Title.3.Doc}<hr>{Title.4.Doc}
 
 Title.1.=[OMB/CPBR_Act_Of_2015_Title_1.01.md]
@@ -49,3 +47,5 @@ Title.2.=[OMB/CPBR_Act_Of_2015_Title_2.01.md]
 Title.3.=[OMB/CPBR_Act_Of_2015_Title_3.01.md]
 
 Title.4.=[OMB/CPBR_Act_Of_2015_Title_4.01.md]
+
+DocBody=<!DOCTYPE html><html><title>Page Title</title><style>ol {list-style-type: decimal;} ol ol {list-style-type: lower-alpha;} ol ol ol {list-style-type: decimal;} ol ol ol ol {list-style-type: upper-alpha;} ol ol ol ol ol {list-style-type: lower-roman;} ol ol ol ol ol ol {list-style-type: upper-roman;} ol ol ol ol ol ol ol {list-style-type: lower-alpha;}</style><body>{Doc}

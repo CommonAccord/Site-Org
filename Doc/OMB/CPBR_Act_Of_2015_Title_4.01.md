@@ -141,4 +141,4 @@ seq.).
 
 =[02/Bit/Sec_06]
 
-DocBody={Doc}
+DocBody=<!DOCTYPE html><html><title>Page Title</title><style>ol {list-style-type: decimal;} ol ol {list-style-type: lower-alpha;} ol ol ol {list-style-type: decimal;} ol ol ol ol {list-style-type: upper-alpha;} ol ol ol ol ol {list-style-type: lower-roman;} ol ol ol ol ol ol {list-style-type: upper-roman;} ol ol ol ol ol ol ol {list-style-type: lower-alpha;}</style><body>{Doc}

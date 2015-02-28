@@ -40,7 +40,6 @@ Ti=Definitions
 
 1.2.1.=[02/Bit/Ssec_04]
 
-
 1.2.2.Ti=Deleted data
 
 1.2.2.sec=The term “personal data” shall not include data otherwise described by paragraph (1) that a covered entity deletes.
@@ -71,7 +70,6 @@ Ti=Definitions
 
 1.2.4.1.1.=[02/Bit/Ssec_06]
 
-
 1.2.4.1.2.sec=from which reasonable efforts have been made to removeinformation that can be used to identify specific persons reasonably believed to be unrelated to the cyber threat.
 
 1.2.4.1.=[02/Bit/Ssec_02]
@@ -81,7 +79,6 @@ Ti=Definitions
 1.2.=[02/Bit/Sec_04]
 
 1.=[02/Bit/Sec_02]
-
 
 2.Ti=“Covered entity”
 
@@ -101,7 +98,6 @@ Ti=Definitions
 2.1.4.1.sec=collects, creates, processes, uses, retains, or discloses personal data of fewer than 10,000 individuals and devices during any 12-month period, or has 5 or fewer employees; and
 
 2.1.4.2.sec=does not knowingly collect, use, retain, or disclose any information that is linked with personal data and includes, or relates directly to, that individual’s medical history; national origin; sexual orientation; gender identity; religious beliefs or affiliation; income, assets, or liabilities; precise geolocation information; unique biometric data; or Social Security number.
-
 
 2.1.4.3.sec=notwithstanding the foregoing, any person that is a covered entity solely because of clause (ii) shall be a covered entity only with regard to the data described in clause (ii).
 
@@ -226,3 +222,5 @@ subparagraph (A).
 =[02/Bit/Sec_14]
 
 =[02/Bit/Sec_04]
+
+DocBody=<!DOCTYPE html><html><title>Page Title</title><style>ol {list-style-type: lower-alpha;} ol ol {list-style-type: decimal;} ol ol ol {list-style-type: upper-alpha;} ol ol ol ol {list-style-type: lower-roman;} ol ol ol ol ol {list-style-type: upper-roman;} ol ol ol ol ol ol {list-style-type: lower-alpha;}</style><body>{Doc}
