@@ -1,4 +1,4 @@
-Ti=Title I - Privacy Bill of Rights
+Ti=Title I.  Privacy Bill of Rights
 
 1.Ti=Transparency
 
