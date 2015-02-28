@@ -6,8 +6,7 @@ Ti=CONSUMER PRIVACY BILL OF RIGHTS ACT
 
 1.Ti=Short Title
 
-1.sec=This Act may be cited as the Consumer Privacy Bill of Rights Act of
-2015.
+1.sec=This Act may be cited as the Consumer Privacy Bill of Rights Act of 2015.
 
 2.Ti=Table of Contents
 

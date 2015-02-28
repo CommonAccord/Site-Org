@@ -6,8 +6,8 @@ Ti=Definitions
 
 1.1.0.sec=“Personal data” means any data that are under the control of a covered entity, not otherwise generally available to the public through lawful means, and are linked, or as a practical matter linkable by the covered entity, to a specific individual, or linked to a device that is associated with or routinely used by an individual, including but not limited to—
 
-1.1.1.sec=the first name (or initial) and last name;Administration Discussion Draft: Consumer Privacy Bill of Rights Act of 2015
-2
+1.1.1.sec=the first name (or initial) and last name;
+
 1.1.2.sec=a postal or email address;
 
 1.1.3.sec=a telephone or fax number;
@@ -109,11 +109,9 @@ Ti=Definitions
 
 2.1.4.=[02/Bit/Ssec_04]
 
-
 2.1.5.sec=any person that has 25 or fewer employees, and would otherwise be a covered entity solely because of data that the person processes related to job applicants and employees in the ordinary course; or
 
 2.1.5.sec=any other exceptions established pursuant to section 405 of this Act.
-
 
 2.1.=[02/Bit/Ssec_05]
 
