@@ -30,7 +30,7 @@ Ti=CONSUMER PRIVACY BILL OF RIGHTS ACT
 
 3.7.sec=Enforceable codes of conduct developed through open, transparent processes will provide certainty for businesses and strong privacy protections for individuals.
 
-3.8.sec=It is the sense of Congress that each covered entity should provide, when reasonable, a version of the notice required under this Act in a format that is computer-readable, to facilitate the development of information technology tools that will help individuals compare covered entities’ personal data practices.
+3.8.sec=It is the sense of Congress that each covered entity should provide, when reasonable, a version of the notice required under {this_Act} in a format that is computer-readable, to facilitate the development of information technology tools that will help individuals compare covered entities’ personal data practices.
 
 3.=[02/Bit/Ssec_08]
 

@@ -1,3 +1,12 @@
+use.or={collect}, use, retain, or disclose 
+
+uses.or={collects}, creates, processes, retains, uses, or discloses
+
+used.or={collected}, processed, created, used, retained, or disclosed
+
+using.and={collecting}, retaining, disclosing, using, merging, linking, and combining
+
+
 Ti=Definitions
 
 1.Ti=“{Personal_data}”
@@ -20,7 +29,11 @@ Ti=Definitions
 
 1.1.7.sec=unique identifiers or other uniquely assigned or descriptive information about personal computing or communication devices; or
 
-1.1.8.sec=any data that are collected, created, processed, used, disclosed, stored, or otherwise maintained and linked, or as a practical matter linkable by {the_covered_entity}, to any of the foregoing.
+Note=list is different than uses.or and use.or
+
+Note=some differences seem intentional, but is "stored" different than "retained"?
+
+1.1.8.sec=any data that are {collected}, created, processed, used, disclosed, stored, or otherwise maintained and linked, or as a practical matter linkable by {the_covered_entity}, to any of the foregoing.
 
 1.1.=[02/Bit/Ssec_08]
 
@@ -48,11 +61,11 @@ Ti=Definitions
 
 Note=This implies that employee's employer is a "covered entity" - correct?
 
-1.2.3.sec=The term “{personal_data}” shall not include an employee’s name, title, business address, business email address, business telephone number, business fax number, or any public licenses or records associated with the employment, when such information is collected or used by the employee’s employer or {another_covered_entity}, in connection with such employment status.
+1.2.3.sec=The term “{personal_data}” shall not include an employee’s name, title, business address, business email address, business telephone number, business fax number, or any public licenses or records associated with the employment, when such information is {collected} or used by the employee’s employer or {another_covered_entity}, in connection with such employment status.
 
 1.2.4.Ti=Cybersecurity data
 
-1.2.4.0.sec=The term “{personal_data}” shall not include cyber threat indicators collected, processed, created, used, retained, or disclosed in order to investigate, mitigate, or otherwise respond to a cybersecurity threat or incident, when processed for those purposes.
+1.2.4.0.sec=The term “{personal_data}” shall not include cyber threat indicators {used.or} in order to investigate, mitigate, or otherwise respond to a cybersecurity threat or incident, when processed for those purposes.
 
 1.2.4.1.0.sec=The term “cyber threat indicator” means information—
 
@@ -86,8 +99,7 @@ Note=This implies that employee's employer is a "covered entity" - correct?
 
 2.1.Ti=In General
 
-2.1.0.sec=“Covered entity” means a person that collects, creates, processes, retains, uses, or discloses {personal_data} in or affecting interstate commerce.  Such term does not include—
-
+2.1.0.sec=“Covered entity” means a person that {uses.or} {personal_data} in or affecting interstate commerce.  Such term does not include—
 
 2.1.1.sec=the Federal Government, the Government of any State, the Government of any Indian tribe, or any political subdivision, department, agency, component, entity, or instrumentality thereof;
 
@@ -97,9 +109,13 @@ Note=This implies that employee's employer is a "covered entity" - correct?
 
 2.1.4.0.sec=any person that—
 
-2.1.4.1.sec=collects, creates, processes, uses, retains, or discloses {personal_data} of fewer than 10,000 individuals and devices during any 12-month period, or has 5 or fewer employees; and
+2.1.4.1.sec={uses.or} {personal_data} of fewer than 10,000 individuals and devices during any 12-month period, or has 5 or fewer employees; and
 
-2.1.4.2.sec=does not knowingly collect, use, retain, or disclose any information that is linked with {personal_data} and includes, or relates directly to, that individual’s medical history; national origin; sexual orientation; gender identity; religious beliefs or affiliation; income, assets, or liabilities; precise geolocation information; unique biometric data; or Social Security number.
+
+2.1.4.2.sec=does not knowingly {use.or} any information that is linked with {personal_data} and includes, or relates directly to, that individual’s medical history; national origin; sexual orientation; gender identity; religious beliefs or affiliation; income, assets, or liabilities; precise geolocation information; unique biometric data; or Social Security number.
+
+Note=Different list than for uses.or
+
 
 2.1.4.3.sec=notwithstanding the foregoing, any person that is {a_covered_entity} solely because of clause (ii) shall be {a_covered_entity} only with regard to the data described in clause (ii).
 
@@ -115,7 +131,7 @@ Note=This implies that employee's employer is a "covered entity" - correct?
 
 2.2.Ti=Exception
 
-2.2.1.sec=To the extent that a person collects, creates, processes, uses, retains, or discloses {personal_data} needed to conduct research relating directly to security threats to or vulnerabilities in devices or networks, or to address threats or vulnerabilities identified by that research, such person shall not be deemed {a_covered_entity} for purposes of sections 101, 102, 103, 104, or 106 of Title I of this Act.
+2.2.1.sec=To the extent that a person {uses.or} {personal_data} needed to conduct research relating directly to security threats to or vulnerabilities in devices or networks, or to address threats or vulnerabilities identified by that research, such person shall not be deemed {a_covered_entity} for purposes of sections 101, 102, 103, 104, or 106 of Title I of this Act.
 
 2.2.2.0.sec=This exception shall apply only so long as such person—
 
@@ -133,7 +149,7 @@ subparagraph (A).
 2.=[02/Bit/Sec_02]
 
 
-3.Ti=“Collect”
+3.Ti=“{Collect}”
 
 3.sec=means acquire by any means, including but not limited to, direct or indirect interaction with an individual or purchase, lease, or rental.
 
@@ -163,7 +179,9 @@ subparagraph (A).
 
 10.Ti=“Customary business records”
 
-10.sec=mean data, including {personal_data}, typically collected in the ordinary course of conducting business and that is retained for generally accepted purposes for that business, including accounting, auditing, tax, fraud prevention, warranty fulfillment, billing, or other customary business purposes.
+Note=is this use of "collected" intended to be covered by the defined term?
+
+10.sec=mean data, including {personal_data}, typically {collected} in the ordinary course of conducting business and that is retained for generally accepted purposes for that business, including accounting, auditing, tax, fraud prevention, warranty fulfillment, billing, or other customary business purposes.
 
 11.Ti=“Context”
 
@@ -173,7 +191,7 @@ subparagraph (A).
 
 11.2.sec=the nature and history of the interactions described in paragraph (1);
 
-11.3.sec=the level of understanding that reasonable users of {the_covered_entity}’s goods or services would have of how {the_covered_entity} processes the {personal_data} that it collects, including through any notice provided by {the_covered_entity};
+11.3.sec=the level of understanding that reasonable users of {the_covered_entity}’s goods or services would have of how {the_covered_entity} processes the {personal_data} that it {collects}, including through any notice provided by {the_covered_entity};
 
 11.4.sec=the range of goods or services that {the_covered_entity} offers, the use of such goods or services by individuals, the benefits of such goods or services to individuals, and the brand names that {the_covered_entity} uses to offer such goods or services;
 
@@ -197,7 +215,7 @@ Note=Should "regarding data" be "regarding personal data"?
 
 12.Ti= “Process personal data” or “personal data processing”
 
-12.sec=means taking any action regarding data that is linked to an individual or a specific device, including but not limited to collecting, retaining, disclosing, using, merging, linking, and combining data.
+12.sec=means taking any action regarding data that is linked to an individual or a specific device, including but not limited to {using.and} data.
 
 13.Ti=“Adverse action”
 

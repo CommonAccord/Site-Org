@@ -4,6 +4,28 @@ d-=<a href="https://github.com/CommonAccord/Org/blob/master/Doc/{PageName}"><fon
 
 -d=</font></a>
 
+Act={-d}Act{-d}
+
+This_Act=This {Act}
+
+this_Act=this {Act}
+
+Note="the Act" seems an inconsistency rather than a distinction. 
+
+the_Act=The {Act}
+
+collected={d-}collected{-d}
+
+collects={d-}collects{-d}
+
+collect={d-}collect{-d}
+
+Collect={d-}Collect{-d}
+
+collecting={d-}collecting{-d}
+
+collection={d-}collection{-d}
+
 Covered_Entity={d-}Covered Entity{-d}
 
 covered_entity={d-}covered entity{-d}

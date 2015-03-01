@@ -1,3 +1,22 @@
+Note=Many of these are different than similar phrases in the Definitions section.
+
+uses.and={collects}, uses, and retains
+
+use(n).or={collection}, creation, processing, retention, use, or disclosure
+
+use(n).and={collection}, retention, and use
+
+use(n2).or={collection}, use, dissemination, or maintenance
+
+used.or={collected}, used, and disclosed
+
+use.and={collect}, retain, and use
+
+using.or={collecting}, creating, processing, retaining, using, or disclosing 
+
+use.or=access, {collect}, create, use, process, maintain, or disclose
+
+
 Ti=Title I.  Privacy Bill of Rights
 
 1.Ti=Transparency
@@ -10,9 +29,11 @@ Ti=Title I.  Privacy Bill of Rights
 
 1.2.0.sec=The notice required by subsection (a) shall include but is not limited to—
 
-1.2.1.sec=The {personal_data} {the_covered_entity} processes, including the sources of data collection if the collection is not directly from the individual;
+1.2.1.sec=The {personal_data} {the_covered_entity} processes, including the sources of data collection if the {collection} is not directly from the individual;
 
-1.2.2.sec=The purposes for which {the_covered_entity} collects, uses, and retains such {personal_data};
+Note=Different than in the Definitions section.
+
+1.2.2.sec=The purposes for which {the_covered_entity} {uses.and} such {personal_data};
 
 1.2.3.sec=The persons, or categories of persons, to which, and purposes for which, {the_covered_entity} discloses such {personal_data};
 
@@ -29,7 +50,7 @@ Ti=Title I.  Privacy Bill of Rights
 
 1.3.Ti=Trade Secrets
 
-1.3.sec=Nothing in this section shall require {a_covered_entity} to reveal trade secret information. For the purposes of this subsection, “trade secret” is defined as stated in 18 U.S.C. § 1839. However, for the purposes of this subsection, the categories of {personal_data} that {a_covered_entity} collects shall not be considered a trade secret. 
+1.3.sec=Nothing in this section shall require {a_covered_entity} to reveal trade secret information. For the purposes of this subsection, “trade secret” is defined as stated in 18 U.S.C. § 1839. However, for the purposes of this subsection, the categories of {personal_data} that {a_covered_entity} {collects} shall not be considered a trade secret. 
 
 
 1.=[02/Bit/Sec_03]
@@ -80,16 +101,16 @@ Ti=Title I.  Privacy Bill of Rights
 
 2.4.Ti=Exceptions
 
-2.4.sec={A_covered_entity} shall not be subject to the requirements of subsection (a), subsection (c), or a requirement to provide heightened individual control under section 103(b)(1) of this Act, to the extent that the collection, creation, processing, retention, use, or disclosure of {personal_data} is for purposes set forth in the enumerated exceptions.
+2.4.sec={A_covered_entity} shall not be subject to the requirements of subsection (a), subsection (c), or a requirement to provide heightened individual control under section 103(b)(1) of {this_Act}, to the extent that the {use(n).or} of {personal_data} is for purposes set forth in the enumerated exceptions.
+
 
 2.5.Ti=Material Changes
 
-2.5.1.0.sec={Covered_entities} shall, upon any material changes to a practice or service that affect the prior or ongoing collection, use, dissemination, or maintenance of {personal_data}—
+2.5.1.0.sec={Covered_entities} shall, upon any material changes to a practice or service that affect the prior or ongoing {use(n2).or} of {personal_data}—
 
 2.5.1.sec=provide in advance clear and conspicuous descriptions of the changes; and
 
-2.5.2.sec=with respect to previously collected {personal_data}, provide individuals with compensating controls designed to mitigate privacy risks that may arise from the material changes, which may include seeking express affirmative consent from individuals.
-
+2.5.2.sec=with respect to previously {collected} {personal_data}, provide individuals with compensating controls designed to mitigate privacy risks that may arise from the material changes, which may include seeking express affirmative consent from individuals.
 
 2.5.=[02/Bit/Ssec_02]
 
@@ -111,7 +132,7 @@ Ti=Title I.  Privacy Bill of Rights
 
 3.2.1.1.sec=The placement and visibility of such notices, taking into account the size and capability of the device that will display the notice;
 
-3.2.1.2.sec=The timing and frequency of such notices in relationship to when {personal_data} is collected, used, and disclosed; and
+3.2.1.2.sec=The timing and frequency of such notices in relationship to when {personal_data} is {used.or}; and
 
 3.2.1.3.sec=The relationship of the notice to the means that {the_covered_entity} provides to permit individuals to exercise control over {personal_data} processing.
 
@@ -150,7 +171,7 @@ Ti=Title I.  Privacy Bill of Rights
 
 3.5.Ti=Rulemaking
 
-3.5.sec=Within 180 days after enactment of this Act, the Commission shall promulgate regulations under 5 U.S.C. § 553 to establish the minimum requirements for Privacy Review Boards to qualify for Commission approval, forms and procedures for submission of applications for approval, and a process for review and revocation of such approval. When promulgating regulations under this subsection, the Commission shall consider, among other factors: the range of evaluation processes suitable for {covered_entities} of various sizes, experiences, and resources; the range of evaluation processes suitable for the privacy risks posed by various types of {personal_data}; the costs and benefits of levels of independence and expertise; the costs and benefits of levels of transparency and confidentiality; the importance of mitigating privacy risks; the importance of expedient determinations; and whether differing requirements are appropriate for Boards that are internal or external to {covered_entities}. Within 90 days of receipt, following public comment, the Commission shall approve or deny an application for Privacy Review Board approval, and explain in writing the reasons for any denial.
+3.5.sec=Within 180 days after enactment of {this_Act}, the Commission shall promulgate regulations under 5 U.S.C. § 553 to establish the minimum requirements for Privacy Review Boards to qualify for Commission approval, forms and procedures for submission of applications for approval, and a process for review and revocation of such approval. When promulgating regulations under this subsection, the Commission shall consider, among other factors: the range of evaluation processes suitable for {covered_entities} of various sizes, experiences, and resources; the range of evaluation processes suitable for the privacy risks posed by various types of {personal_data}; the costs and benefits of levels of independence and expertise; the costs and benefits of levels of transparency and confidentiality; the importance of mitigating privacy risks; the importance of expedient determinations; and whether differing requirements are appropriate for Boards that are internal or external to {covered_entities}. Within 90 days of receipt, following public comment, the Commission shall approve or deny an application for Privacy Review Board approval, and explain in writing the reasons for any denial.
 
 3.6.Ti=Appeals
 
@@ -168,17 +189,17 @@ Ti=Title I.  Privacy Bill of Rights
 
 4.Ti=Focused Collection and Responsible Use
 
-4.1.sec=In General.—{Each_covered_entity} may only collect, retain, and use {personal_data} in a manner that is reasonable in light of context. {A_covered_entity} shall consider ways to minimize privacy risk when determining its {personal_data} collection, retention, and use practices.
+4.1.sec=In General.—{Each_covered_entity} may only {use.and} {personal_data} in a manner that is reasonable in light of context. {A_covered_entity} shall consider ways to minimize privacy risk when determining its {personal_data} {use(n).and} practices.
 
-4.2.sec={A_covered_entity} shall delete, destroy, or de-identify {personal_data} within a reasonable time after it has fulfilled the purpose or purposes for which such {personal_data} were first collected.
+4.2.sec={A_covered_entity} shall delete, destroy, or de-identify {personal_data} within a reasonable time after it has fulfilled the purpose or purposes for which such {personal_data} were first {collected}.
 
-4.3.0.sec=Exceptions.—Nothing in this section shall be construed to prohibit {a_covered_entity} from collecting, creating, processing, retaining, using, or disclosing {personal_data} for—
+4.3.0.sec=Exceptions.—Nothing in this section shall be construed to prohibit {a_covered_entity} from {using.or} {personal_data} for—
 
 4.3.1.sec=Purposes set forth in the enumerated exceptions;
 
-4.3.2.sec=Processing {personal_data} if {the_covered_entity} provides heightened transparency and individual control in a manner that satisfies the requirements of section 103(b) of this Act; or
+4.3.2.sec=Processing {personal_data} if {the_covered_entity} provides heightened transparency and individual control in a manner that satisfies the requirements of section 103(b) of {this_Act}; or
 
-4.3.3.sec=Performing an analysis under the supervision of a Privacy Review Board pursuant to section 103(c) of this Act.
+4.3.3.sec=Performing an analysis under the supervision of a Privacy Review Board pursuant to section 103(c) of {this_Act}.
 
 
 4.3.=[02/Bit/Ssec_03]
@@ -304,7 +325,7 @@ Ti=Title I.  Privacy Bill of Rights
 
 6.4.Ti=Activities Subject to the Fair Credit Reporting Act
 
-6.4.sec=To the extent that the {personal_data} pertaining to an individual is used for purposes covered by the Fair Credit Reporting Act (15 U.S.C. § 1681 et seq.), {covered_entities} subject to the Fair Credit Reporting Act shall be exempt from the requirements of section 106 of this Act.
+6.4.sec=To the extent that the {personal_data} pertaining to an individual is used for purposes covered by the Fair Credit Reporting Act (15 U.S.C. § 1681 et seq.), {covered_entities} subject to the Fair Credit Reporting Act shall be exempt from the requirements of section 106 of {this_Act}.
 
 
 6.=[02/Bit/Sec_04]
@@ -315,15 +336,15 @@ Ti=Title I.  Privacy Bill of Rights
 
 7.1.Ti=In General
 
-7.1.0.sec={Each_covered_entity} shall take measures appropriate to the privacy risks associated with its {personal_data} practices to ensure compliance with its obligations pursuant to this Act, including but not limited to—
+7.1.0.sec={Each_covered_entity} shall take measures appropriate to the privacy risks associated with its {personal_data} practices to ensure compliance with its obligations pursuant to {this_Act}, including but not limited to—
 
-7.1.1.sec=Providing training to employees who access, collect, create, use, process, maintain, or disclose {personal_data};
+7.1.1.sec=Providing training to employees who {use.or} {personal_data};
 
 7.1.2.sec=Conducting internal or independent evaluation of its privacy and data protections;
 
 7.1.3.sec=Building appropriate consideration for privacy and data protections into the design of its systems and practices; and
 
-7.1.4.sec=Binding any person to whom {the_covered_entity} discloses {personal_data} to use such data consistently with {the_covered_entity}’s commitments with respect to the {personal_data} and with the requirements set forth in Title I of this Act.
+7.1.4.sec=Binding any person to whom {the_covered_entity} discloses {personal_data} to use such data consistently with {the_covered_entity}’s commitments with respect to the {personal_data} and with the requirements set forth in Title I of {this_Act}.
 
 7.1.=[02/Bit/Ssec_04]
 

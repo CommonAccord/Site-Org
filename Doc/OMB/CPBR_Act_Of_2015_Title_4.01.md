@@ -4,11 +4,11 @@ Ti=TITLE IV.  Miscellaneous
 
 1.1.Ti=In General
 
-1.1.sec=This Act preempts any provision of a statute, regulation, or rule of a State or local government, with respect to those entities covered pursuant to this Act, to the extent that the provision imposes requirements on {covered_entities} with respect to personal data processing.
+1.1.sec={This_Act} preempts any provision of a statute, regulation, or rule of a State or local government, with respect to those entities covered pursuant to {this_Act}, to the extent that the provision imposes requirements on {covered_entities} with respect to personal data processing.
 
 1.2.Ti=Safe Harbor Protection
 
-1.2.sec=No State or local government may enforce any personal data processing law against {a_covered_entity} to the extent that that entity is entitled to safe harbor protection under section 301(d) of this Act.
+1.2.sec=No State or local government may enforce any personal data processing law against {a_covered_entity} to the extent that that entity is entitled to safe harbor protection under section 301(d) of {this_Act}.
 
 1.3.Ti= Protection of State Consumer Protection Laws
 
@@ -16,7 +16,7 @@ Ti=TITLE IV.  Miscellaneous
 
 1.4.Ti=Protection of Certain State and Local Laws
 
-1.4.0.sec=This Act shall not be construed to preempt the applicability of the following, to the extent that the claim in question is not based on a failure to comply with this Act—
+1.4.0.sec={This_Act} shall not be construed to preempt the applicability of the following, to the extent that the claim in question is not based on a failure to comply with {this_Act}—
 
 1.4.1.sec=State or local laws that address the processing of health information or financial information;
 
@@ -36,41 +36,41 @@ Ti=TITLE IV.  Miscellaneous
 
 2.1.Ti=Deception
 
-2.1.sec=Nothing in this Act shall be construed to limit {the_Commission}’s authority under section 5 of the FTC Act (15 U.S.C. § 41 et seq.) to prevent any deceptive act or practice relating to personal data processing.
+2.1.sec=Nothing in {this_Act} shall be construed to limit {the_Commission}’s authority under section 5 of the FTC Act (15 U.S.C. § 41 et seq.) to prevent any deceptive act or practice relating to personal data processing.
 
 2.2.Ti=Unfairness
 
-2.2.sec=Nothing in this Act shall be construed to limit {the_Commission}’s authority to prevent unfair acts or practices relating to personal data processing, except the conduct that underlies a claim by {the_Commission} that {a_covered_entity} breached a commitment that it made as part of its adherence to a code of conduct approved under section 301 of this Act.
+2.2.sec=Nothing in {this_Act} shall be construed to limit {the_Commission}’s authority to prevent unfair acts or practices relating to personal data processing, except the conduct that underlies a claim by {the_Commission} that {a_covered_entity} breached a commitment that it made as part of its adherence to a code of conduct approved under section 301 of {this_Act}.
 
 2.=[02/Bit/Sec_02]
 
 3.Ti=Private Right of Action
 
-3.sec=There shall be no private right of action under this Act, and nothing in this Act may be construed to provide a private right of action.
+3.sec=There shall be no private right of action under {this_Act}, and nothing in {this_Act} may be construed to provide a private right of action.
 
 4.Ti=Application with Other Laws
 
 4.1.T=Rule of Construction
 
-4.1.sec=Nothing in this Act shall be construed or applied so as to abridge the exercise of rights guaranteed under the First Amendment to the Constitution of the United States.
+4.1.sec=Nothing in {this_Act} shall be construed or applied so as to abridge the exercise of rights guaranteed under the First Amendment to the Constitution of the United States.
 
 4.2.Ti=Exemption for Certain Internet Intermediaries
 
-4.2.sec=To the extent that {a_covered_entity} qualifies for protection under section 230(c) of the Communications Act of 1934 (47 U.S.C. § 230(c)), processing of personal data protected by section 230(c) is exempt from the requirements of this Act with regard to a request from a person other than the original “information content provider” as defined in 47 U.S.C. § 230(f)(3).
+4.2.sec=To the extent that {a_covered_entity} qualifies for protection under section 230(c) of the Communications Act of 1934 (47 U.S.C. § 230(c)), processing of personal data protected by section 230(c) is exempt from the requirements of {this_Act} with regard to a request from a person other than the original “information content provider” as defined in 47 U.S.C. § 230(f)(3).
 
 4.3.Ti= Qualified Exemption for Persons Subject to Other Federal Privacy and Security Laws
 
-4.3.sec=If {a_covered_entity} is subject to a provision of this Act and a comparable provision of a Federal privacy or security law described in subsection (d), such provision of this Act shall not apply to such person to the extent that such provision of Federal privacy or security law applies to such person.
+4.3.sec=If {a_covered_entity} is subject to a provision of {this_Act} and a comparable provision of a Federal privacy or security law described in subsection (d), such provision of {this_Act} shall not apply to such person to the extent that such provision of Federal privacy or security law applies to such person.
 
 4.4.Ti=Effect on Other Federal Laws—
 
 4.4.1.Ti=Protection of Other Federal Privacy and Security Laws
 
-4.4.1.sec=Nothing in this Act may be construed to modify, limit, or supersede the operation of privacy or security provisions in Federal laws, including those described in subsection (d), or the regulations established pursuant to such laws, or the provision of information permitted or required, expressly or by implication, by such laws, with respect to Federal rights and practices.
+4.4.1.sec=Nothing in {this_Act} may be construed to modify, limit, or supersede the operation of privacy or security provisions in Federal laws, including those described in subsection (d), or the regulations established pursuant to such laws, or the provision of information permitted or required, expressly or by implication, by such laws, with respect to Federal rights and practices.
 
 4.4.2.Ti=Effect on FTC Act
 
-4.4.2.sec=Notwithstanding paragraph (1), the Federal Trade Commission Act shall be modified as described in Section 402 of this Act.
+4.4.2.sec=Notwithstanding paragraph (1), the Federal Trade Commission Act shall be modified as described in Section 402 of {this_Act}.
 
 4.4.=[02/Bit/Sec_02]
 
@@ -132,9 +132,9 @@ seq.).
 
 6.Ti=Effective Date
 
-6.1.sec=The provisions of this Act will take effect as of the date of enactment.
+6.1.sec=The provisions of {this_Act} will take effect as of the date of enactment.
 
-6.2.sec=The obligations of {covered_entities} under Title I of this Act shall not give rise to a cause of action based on this Act less than 2 years after the date of enactment of this Act.
+6.2.sec=The obligations of {covered_entities} under Title I of {this_Act} shall not give rise to a cause of action based on {this_Act} less than 2 years after the date of enactment of {this_Act}.
 
 6.=[02/Bit/Ssec_02]
 

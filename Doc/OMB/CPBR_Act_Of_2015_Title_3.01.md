@@ -48,19 +48,19 @@ and
 
 1.1.4.0.sec=Initial Approval.—{The_Commission} shall approve an application only if the applicant demonstrates that the associated code of conduct—
 
-1.1.4.1.sec=provides equivalent or greater protections for personal data pertaining to individuals than those provided by Title I of this Act; and
+1.1.4.1.sec=provides equivalent or greater protections for personal data pertaining to individuals than those provided by Title I of {this_Act}; and
 
 1.1.4.2.sec=contains provisions for periodic review of the code of conduct to ensure that it continues to provide sufficient protection over time for personal data pertaining to individuals.
 
 1.1.4.=[02/Bit/Ssec_02]
 
-1.1.5.sec=Presumption of Sufficiency.—Codes of conduct developed through a multistakeholder process pursuant to paragraph (2)(A) that meet the requirements established by {the_Commission} shall be presumed to provide equivalent or greater protections for personal data as those provided by Title I of this Act. A {Commission} finding to the contrary shall be supported by a decision in writing.
+1.1.5.sec=Presumption of Sufficiency.—Codes of conduct developed through a multistakeholder process pursuant to paragraph (2)(A) that meet the requirements established by {the_Commission} shall be presumed to provide equivalent or greater protections for personal data as those provided by Title I of {this_Act}. A {Commission} finding to the contrary shall be supported by a decision in writing.
 
 1.1.6.0.sec=Duration.—
 
-1.1.6.1.sec=No sooner than 3 years and no later than 5 years after approving a code of conduct, {the_Commission} shall reassess such code. If {the_Commission} determines that the code continues to provide equivalent or greater protections for personal data pertaining to individuals than those provided by Title I of this Act, in light of changes in consumer expectations, technology, and market conditions, the code shall continue to qualify as a safe harbor pursuant to subsection (d) for a period of no longer than 5 years following the determination.
+1.1.6.1.sec=No sooner than 3 years and no later than 5 years after approving a code of conduct, {the_Commission} shall reassess such code. If {the_Commission} determines that the code continues to provide equivalent or greater protections for personal data pertaining to individuals than those provided by Title I of {this_Act}, in light of changes in consumer expectations, technology, and market conditions, the code shall continue to qualify as a safe harbor pursuant to subsection (d) for a period of no longer than 5 years following the determination.
 
-1.1.6.2.sec=Notwithstanding subparagraph (A), {the_Commission}, upon request or on its own motion, may reconsider an approval granted under paragraph (4). After receiving public comment, if {the_Commission} determines, based on specific factors or evidence not available in the prior proceeding, that clearly demonstrate that a code of conduct does not or no longer provides equivalent or greater protections for personal data pertaining to individuals  than those provided by Title I of this Act, it shall withdraw its approval of such code of conduct.
+1.1.6.2.sec=Notwithstanding subparagraph (A), {the_Commission}, upon request or on its own motion, may reconsider an approval granted under paragraph (4). After receiving public comment, if {the_Commission} determines, based on specific factors or evidence not available in the prior proceeding, that clearly demonstrate that a code of conduct does not or no longer provides equivalent or greater protections for personal data pertaining to individuals  than those provided by Title I of {this_Act}, it shall withdraw its approval of such code of conduct.
 
 1.1.6.=[02/Bit/Ssec_02]
 
@@ -80,7 +80,7 @@ and
 
 1.3.Ti=Rulemaking
 
-1.3.0.sec=Within 180 days after enactment of this Act, {the_Commission} shall promulgate regulations under 5 U.S.C. § 553 to implement this Title, including regulations establishing—
+1.3.0.sec=Within 180 days after enactment of {this_Act}, {the_Commission} shall promulgate regulations under 5 U.S.C. § 553 to implement this Title, including regulations establishing—
 
 1.3.1.sec=the minimum requirements for a process to qualify for the presumption in subsection (a)(5);
 
@@ -96,7 +96,7 @@ and
 
 1.4.Ti=Safe Harbor Protection
 
-1.4.sec=In any suit or action brought under Title II of this Act for alleged violations of Title I of this Act, the defendant shall have a complete defense to each alleged violation of Title I of this Act if it demonstrates with respect to such an alleged violation that it has maintained a public commitment to adhere to a {Commission}-approved code of conduct that covers the practices that underlie the suit or action and is in compliance with such code of conduct.
+1.4.sec=In any suit or action brought under Title II of {this_Act} for alleged violations of Title I of {this_Act}, the defendant shall have a complete defense to each alleged violation of Title I of {this_Act} if it demonstrates with respect to such an alleged violation that it has maintained a public commitment to adhere to a {Commission}-approved code of conduct that covers the practices that underlie the suit or action and is in compliance with such code of conduct.
 
 1.5.Ti=Appeals
 
