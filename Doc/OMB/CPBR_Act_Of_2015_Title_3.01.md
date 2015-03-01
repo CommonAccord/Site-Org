@@ -4,7 +4,7 @@ Ti=TITLE III. Codes of Conduct to Implement the Consumer Privacy Bill of Rights
 
 1.1.Ti=Commission Review of Codes of Conduct
 
-1.1.1.0.sec=Beginning 1 day after the effective date of Commission regulations adopted under subsection (c), any person may apply to the Commission for approval of one or more codes of conduct governing the processing of personal data by a covered entity. Such application shall include—
+1.1.1.0.sec=Beginning 1 day after the effective date of Commission regulations adopted under subsection (c), any person may apply to the Commission for approval of one or more codes of conduct governing the processing of personal data by {a_covered_entity}. Such application shall include—
 
 1.1.1.1.sec=A description of how the proposed code provides equivalent or greater protections for personal data than are provided by the relevant section of Title I;
 
@@ -12,7 +12,7 @@ Ti=TITLE III. Codes of Conduct to Implement the Consumer Privacy Bill of Rights
 
 1.1.1.3.sec=A description of the process by which the code was derived;
 
-1.1.1.4.sec=A list of covered entities, if any are known at the time that the application under this subsection is made, that plan to adopt the code; and
+1.1.1.4.sec=A list of {covered_entities}, if any are known at the time that the application under this subsection is made, that plan to adopt the code; and
 
 1.1.1.5.sec=Such additional information as the Commission determines is appropriate.
 
@@ -110,6 +110,8 @@ and
 
 1.=[02/Bit/Sec_05]
 
+=[OMB/CPBR_Format.md]
+
 =[02/Bit/Sec_01]
 
-DocBody=<!DOCTYPE html><html><title>Page Title</title><style>ol {list-style-type: decimal;} ol ol {list-style-type: lower-alpha;} ol ol ol {list-style-type: decimal;} ol ol ol ol {list-style-type: upper-alpha;} ol ol ol ol ol {list-style-type: lower-roman;} ol ol ol ol ol ol {list-style-type: upper-roman;} ol ol ol ol ol ol ol {list-style-type: lower-alpha;}</style><body>{Doc}
+PageName=OMB/CPBR_Act_Of_2015_Title_3.01.md

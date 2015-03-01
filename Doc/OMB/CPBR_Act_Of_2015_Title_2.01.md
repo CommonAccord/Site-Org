@@ -10,11 +10,11 @@ Ti=TITLE II. Enforcement
 
 1.2.1.Ti=In General
 
-1.2.1.sec=Any covered entity who violates this Act shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act, except that liability for and the amount of civil penalties shall be governed by section 203 of this Act.
+1.2.1.sec={Any_covered_entity} who violates this Act shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act, except that liability for and the amount of civil penalties shall be governed by section 203 of this Act.
 
 1.2.2.Ti=Exception
 
-1.2.2.sec=The Commission shall not bring an enforcement action for violations of Title I of this Act seeking civil penalties based on a covered entity’s conduct undertaken within the first eighteen months after the date the covered entity first created or processed personal data.
+1.2.2.sec=The Commission shall not bring an enforcement action for violations of Title I of this Act seeking civil penalties based on {a_covered_entity}’s conduct undertaken within the first eighteen months after the date {the_covered_entity} first created or processed personal data.
 
 1.2.=[02/Bit/Sec_02]
 
@@ -37,7 +37,7 @@ Ti=TITLE II. Enforcement
 
 2.1.Ti=Civil Action
 
-2.1.sec=If the attorney general of any State has reason to believe that the action of a covered entity in violation of Title I of this Act has caused or is causing harm to a substantial number of that State’s residents, such attorney general may bring a civil action on behalf of those residents exclusively in an appropriate district court of the United States. Unless the Commission brings an action under section 201 of this Act or intervenes and prosecutes an action brought under this section, as described in subsections (b)(2)(A) and (b)(2)(B), the only remedy that may be sought or awarded in any action under this Act is injunctive relief, and nothing in this Act may be construed to provide for any other relief.
+2.1.sec=If the attorney general of any State has reason to believe that the action of {a_covered_entity} in violation of Title I of this Act has caused or is causing harm to a substantial number of that State’s residents, such attorney general may bring a civil action on behalf of those residents exclusively in an appropriate district court of the United States. Unless the Commission brings an action under section 201 of this Act or intervenes and prosecutes an action brought under this section, as described in subsections (b)(2)(A) and (b)(2)(B), the only remedy that may be sought or awarded in any action under this Act is injunctive relief, and nothing in this Act may be construed to provide for any other relief.
 
 2.2.Ti=Federal Trade Commission.—
 
@@ -69,13 +69,13 @@ Ti=TITLE II. Enforcement
 
 3.1.Ti=In General
 
-3.1.0.sec=In an action brought by the Commission or prosecuted by the Commission pursuant to section 202(b)(2)(A) or section 202(b)(2)(B), in addition to any injunctive relief arising from a violation of Title I of this Act, the covered entity is liable for a civil penalty if the covered entity, with actual knowledge or knowledge fairly implied on the basis of objective circumstances, violates the Act. Both the amount of such civil penalty sought by the Commission and the amount of such civil penalty determined by the court shall take into account the degree of culpability, any history of prior such conduct, ability to pay, effect on ability to continue to do business, and such other matters as justice may require.
+3.1.0.sec=In an action brought by the Commission or prosecuted by the Commission pursuant to section 202(b)(2)(A) or section 202(b)(2)(B), in addition to any injunctive relief arising from a violation of Title I of this Act, {the_covered_entity} is liable for a civil penalty if {the_covered_entity}, with actual knowledge or knowledge fairly implied on the basis of objective circumstances, violates the Act. Both the amount of such civil penalty sought by the Commission and the amount of such civil penalty determined by the court shall take into account the degree of culpability, any history of prior such conduct, ability to pay, effect on ability to continue to do business, and such other matters as justice may require.
 
-3.1.1.sec=The civil penalty shall be calculated by multiplying the number of days that the covered entity violates the Act by an amount not to exceed $35,000; or
+3.1.1.sec=The civil penalty shall be calculated by multiplying the number of days that {the_covered_entity} violates the Act by an amount not to exceed $35,000; or
 
-3.1.2.0.sec=If the Commission provides notice to a covered entity, stated with particularity, that identifies a violation of this Act, the civil penalty shall be calculated by multiplying the number of directly affected consumers by an amount not to exceed $5,000, unless, within 45 days of receiving such a notice, the covered entity files with the Commission an objection that satisfies the requirements of subparagraph (A).
+3.1.2.0.sec=If the Commission provides notice to {a_covered_entity}, stated with particularity, that identifies a violation of this Act, the civil penalty shall be calculated by multiplying the number of directly affected consumers by an amount not to exceed $5,000, unless, within 45 days of receiving such a notice, {the_covered_entity} files with the Commission an objection that satisfies the requirements of subparagraph (A).
 
-3.1.2.1.0.sec=An objection shall include an affidavit by the covered entity that to the best of the covered entity’s knowledge, information, and belief, formed after an inquiry reasonable under the circumstances—
+3.1.2.1.0.sec=An objection shall include an affidavit by {the_covered_entity} that to the best of {the_covered_entity}’s knowledge, information, and belief, formed after an inquiry reasonable under the circumstances—
 
 3.1.2.1.1.sec=it is not being filed for any improper purpose;
 
@@ -101,6 +101,6 @@ Ti=TITLE II. Enforcement
 
 3.=[02/Bit/Sec_02]
 
-=[02/Bit/Sec_03]
+=[OMB/CPBR_Format.md]
 
-DocBody=<!DOCTYPE html><html><title>Page Title</title><style>ol {list-style-type: decimal;} ol ol {list-style-type: lower-alpha;} ol ol ol {list-style-type: decimal;} ol ol ol ol {list-style-type: upper-alpha;} ol ol ol ol ol {list-style-type: lower-roman;} ol ol ol ol ol ol {list-style-type: upper-roman;} ol ol ol ol ol ol ol {list-style-type: lower-alpha;}</style><body>{Doc}
+=[02/Bit/Sec_03]

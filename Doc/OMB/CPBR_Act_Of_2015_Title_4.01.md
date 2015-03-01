@@ -4,11 +4,11 @@ Ti=TITLE IV.  Miscellaneous
 
 1.1.Ti=In General
 
-1.1.sec=This Act preempts any provision of a statute, regulation, or rule of a State or local government, with respect to those entities covered pursuant to this Act, to the extent that the provision imposes requirements on covered entities with respect to personal data processing.
+1.1.sec=This Act preempts any provision of a statute, regulation, or rule of a State or local government, with respect to those entities covered pursuant to this Act, to the extent that the provision imposes requirements on {covered_entities} with respect to personal data processing.
 
 1.2.Ti=Safe Harbor Protection
 
-1.2.sec=No State or local government may enforce any personal data processing law against a covered entity to the extent that that entity is entitled to safe harbor protection under section 301(d) of this Act.
+1.2.sec=No State or local government may enforce any personal data processing law against {a_covered_entity} to the extent that that entity is entitled to safe harbor protection under section 301(d) of this Act.
 
 1.3.Ti= Protection of State Consumer Protection Laws
 
@@ -40,7 +40,7 @@ Ti=TITLE IV.  Miscellaneous
 
 2.2.Ti=Unfairness
 
-2.2.sec=Nothing in this Act shall be construed to limit the Commission’s authority to prevent unfair acts or practices relating to personal data processing, except the conduct that underlies a claim by the Commission that a covered entity breached a commitment that it made as part of its adherence to a code of conduct approved under section 301 of this Act.
+2.2.sec=Nothing in this Act shall be construed to limit the Commission’s authority to prevent unfair acts or practices relating to personal data processing, except the conduct that underlies a claim by the Commission that {a_covered_entity} breached a commitment that it made as part of its adherence to a code of conduct approved under section 301 of this Act.
 
 2.=[02/Bit/Sec_02]
 
@@ -56,11 +56,11 @@ Ti=TITLE IV.  Miscellaneous
 
 4.2.Ti=Exemption for Certain Internet Intermediaries
 
-4.2.sec=To the extent that a covered entity qualifies for protection under section 230(c) of the Communications Act of 1934 (47 U.S.C. § 230(c)), processing of personal data protected by section 230(c) is exempt from the requirements of this Act with regard to a request from a person other than the original “information content provider” as defined in 47 U.S.C. § 230(f)(3).
+4.2.sec=To the extent that {a_covered_entity} qualifies for protection under section 230(c) of the Communications Act of 1934 (47 U.S.C. § 230(c)), processing of personal data protected by section 230(c) is exempt from the requirements of this Act with regard to a request from a person other than the original “information content provider” as defined in 47 U.S.C. § 230(f)(3).
 
 4.3.Ti= Qualified Exemption for Persons Subject to Other Federal Privacy and Security Laws
 
-4.3.sec=If a covered entity is subject to a provision of this Act and a comparable provision of a Federal privacy or security law described in subsection (d), such provision of this Act shall not apply to such person to the extent that such provision of Federal privacy or security law applies to such person.
+4.3.sec=If {a_covered_entity} is subject to a provision of this Act and a comparable provision of a Federal privacy or security law described in subsection (d), such provision of this Act shall not apply to such person to the extent that such provision of Federal privacy or security law applies to such person.
 
 4.4.Ti=Effect on Other Federal Laws—
 
@@ -126,19 +126,20 @@ seq.).
 
 4.=[02/Bit/Sec_05]
 
-5.Ti=Exceptions to the Definition of Covered Entity
+5.Ti=Exceptions to the Definition of {Covered_Entity}
 
-5.sec=Rulemaking.—The Commission may promulgate regulations under 5 U.S.C. § 553 to establish additional exceptions from the definition of covered entity for categories of persons. When promulgating regulations under this section, the Commission shall consider, among other factors, the privacy risks posed by personal data processing by categories of persons of various sizes, experiences, resources, and types of commercial activity, including nonprofit activity; the importance of mitigating privacy risks; and the costs and benefits of including those categories of persons as covered entities. A person aggrieved by a regulation promulgated under this subsection may obtain review by a district court of the United States of appropriate jurisdiction, as provided for in 5 U.S.C. § 706. The Commission may modify or revoke such an exception in light of changes in consumer expectations, technology, and market conditions, but no sooner than 3 years after initial promulgation absent materially changed circumstances.
-
+5.sec=Rulemaking.—The Commission may promulgate regulations under 5 U.S.C. § 553 to establish additional exceptions from the definition of {covered_entity} for categories of persons. When promulgating regulations under this section, the Commission shall consider, among other factors, the privacy risks posed by personal data processing by categories of persons of various sizes, experiences, resources, and types of commercial activity, including nonprofit activity; the importance of mitigating privacy risks; and the costs and benefits of including those categories of persons as {covered_entities}. A person aggrieved by a regulation promulgated under this subsection may obtain review by a district court of the United States of appropriate jurisdiction, as provided for in 5 U.S.C. § 706. The Commission may modify or revoke such an exception in light of changes in consumer expectations, technology, and market conditions, but no sooner than 3 years after initial promulgation absent materially changed circumstances.
 
 6.Ti=Effective Date
 
 6.1.sec=The provisions of this Act will take effect as of the date of enactment.
 
-6.2.sec=The obligations of covered entities under Title I of this Act shall not give rise to a cause of action based on this Act less than 2 years after the date of enactment of this Act.
+6.2.sec=The obligations of {covered_entities} under Title I of this Act shall not give rise to a cause of action based on this Act less than 2 years after the date of enactment of this Act.
 
 6.=[02/Bit/Ssec_02]
 
+=[OMB/CPBR_Format.md]
+
 =[02/Bit/Sec_06]
 
-DocBody=<!DOCTYPE html><html><title>Page Title</title><style>ol {list-style-type: decimal;} ol ol {list-style-type: lower-alpha;} ol ol ol {list-style-type: decimal;} ol ol ol ol {list-style-type: upper-alpha;} ol ol ol ol ol {list-style-type: lower-roman;} ol ol ol ol ol ol {list-style-type: upper-roman;} ol ol ol ol ol ol ol {list-style-type: lower-alpha;}</style><body>{Doc}
+PageName=OMB/CPBR_Act_Of_2015_Title_4.01.md

@@ -4,7 +4,7 @@ Ti=Definitions
 
 1.1.Ti=In General
 
-1.1.0.sec=“Personal data” means any data that are under the control of a covered entity, not otherwise generally available to the public through lawful means, and are linked, or as a practical matter linkable by the covered entity, to a specific individual, or linked to a device that is associated with or routinely used by an individual, including but not limited to—
+1.1.0.sec=“Personal data” means any data that are under the control of {a_covered_entity}, not otherwise generally available to the public through lawful means, and are linked, or as a practical matter linkable by {the_covered_entity}, to a specific individual, or linked to a device that is associated with or routinely used by an individual, including but not limited to—
 
 1.1.1.sec=the first name (or initial) and last name;
 
@@ -20,7 +20,7 @@ Ti=Definitions
 
 1.1.7.sec=unique identifiers or other uniquely assigned or descriptive information about personal computing or communication devices; or
 
-1.1.8.sec=any data that are collected, created, processed, used, disclosed, stored, or otherwise maintained and linked, or as a practical matter linkable by the covered entity, to any of the foregoing.
+1.1.8.sec=any data that are collected, created, processed, used, disclosed, stored, or otherwise maintained and linked, or as a practical matter linkable by {the_covered_entity}, to any of the foregoing.
 
 1.1.=[02/Bit/Ssec_08]
 
@@ -28,25 +28,27 @@ Ti=Definitions
 
 1.2.1.Ti=De-identified data
 
-1.2.1.0.sec=The term “personal data” shall not include data otherwise described by paragraph (1) that a covered entity (either directly or through an agent)—
+1.2.1.0.sec=The term “personal data” shall not include data otherwise described by paragraph (1) that {a_covered_entity} (either directly or through an agent)—
 
 1.2.1.1.sec=alters such that there is a reasonable basis for expecting that the data could not be linked as a practical matter to a specific individual or device;
 
 1.2.1.2.sec=publicly commits to refrain from attempting to identify with an individual or device and adopts relevant controls to prevent such identification;
 
-1.2.1.3.sec=causes to be covered by a contractual or other legally enforceable prohibition on each entity to which the covered entity discloses the data from attempting to link the data to a specific individual or device, and requires the same of all onward disclosures; and
+1.2.1.3.sec=causes to be covered by a contractual or other legally enforceable prohibition on each entity to which {the_covered_entity} discloses the data from attempting to link the data to a specific individual or device, and requires the same of all onward disclosures; and
 
-1.2.1.4.sec=requires each entity to which the covered entity discloses the data to publicly commit to refrain from attempting to link to a specific individual or device.
+1.2.1.4.sec=requires each entity to which {the_covered_entity} discloses the data to publicly commit to refrain from attempting to link to a specific individual or device.
 
 1.2.1.=[02/Bit/Ssec_04]
 
 1.2.2.Ti=Deleted data
 
-1.2.2.sec=The term “personal data” shall not include data otherwise described by paragraph (1) that a covered entity deletes.
+1.2.2.sec=The term “personal data” shall not include data otherwise described by paragraph (1) that {a_covered_entity} deletes.
 
 1.2.3.Ti=Employee information
 
-1.2.3.sec=The term “personal data” shall not include an employee’s name, title, business address, business email address, business telephone number, business fax number, or any public licenses or records associated with the employment, when such information is collected or used by the employee’s employer or another covered entity, in connection with such employment status.
+Note=This implies that employee's employer is a "covered entity" - correct?
+
+1.2.3.sec=The term “personal data” shall not include an employee’s name, title, business address, business email address, business telephone number, business fax number, or any public licenses or records associated with the employment, when such information is collected or used by the employee’s employer or {another_covered_entity}, in connection with such employment status.
 
 1.2.4.Ti=Cybersecurity data
 
@@ -70,7 +72,7 @@ Ti=Definitions
 
 1.2.4.1.1.=[02/Bit/Ssec_06]
 
-1.2.4.1.2.sec=from which reasonable efforts have been made to removeinformation that can be used to identify specific persons reasonably believed to be unrelated to the cyber threat.
+1.2.4.1.2.sec=from which reasonable efforts have been made to remove information that can be used to identify specific persons reasonably believed to be unrelated to the cyber threat.
 
 1.2.4.1.=[02/Bit/Ssec_02]
 
@@ -99,13 +101,13 @@ Ti=Definitions
 
 2.1.4.2.sec=does not knowingly collect, use, retain, or disclose any information that is linked with personal data and includes, or relates directly to, that individual’s medical history; national origin; sexual orientation; gender identity; religious beliefs or affiliation; income, assets, or liabilities; precise geolocation information; unique biometric data; or Social Security number.
 
-2.1.4.3.sec=notwithstanding the foregoing, any person that is a covered entity solely because of clause (ii) shall be a covered entity only with regard to the data described in clause (ii).
+2.1.4.3.sec=notwithstanding the foregoing, any person that is {a_covered_entity} solely because of clause (ii) shall be {a_covered_entity} only with regard to the data described in clause (ii).
 
-2.1.4.4.sec=notwithstanding the foregoing, any person described in clauses (i)-(ii) may elect to become a covered entity through public election;
+2.1.4.4.sec=notwithstanding the foregoing, any person described in clauses (i)-(ii) may elect to become {a_covered_entity} through public election;
 
 2.1.4.=[02/Bit/Ssec_04]
 
-2.1.5.sec=any person that has 25 or fewer employees, and would otherwise be a covered entity solely because of data that the person processes related to job applicants and employees in the ordinary course; or
+2.1.5.sec=any person that has 25 or fewer employees, and would otherwise be {a_covered_entity} solely because of data that the person processes related to job applicants and employees in the ordinary course; or
 
 2.1.5.sec=any other exceptions established pursuant to section 405 of this Act.
 
@@ -113,7 +115,7 @@ Ti=Definitions
 
 2.2.Ti=Exception
 
-2.2.1.sec=To the extent that a person collects, creates, processes, uses, retains, or discloses personal data needed to conduct research relating directly to security threats to or vulnerabilities in devices or networks, or to address threats or vulnerabilities identified by that research, such person shall not be deemed a covered entity for purposes of sections 101, 102, 103, 104, or 106 of Title I of this Act.
+2.2.1.sec=To the extent that a person collects, creates, processes, uses, retains, or discloses personal data needed to conduct research relating directly to security threats to or vulnerabilities in devices or networks, or to address threats or vulnerabilities identified by that research, such person shall not be deemed {a_covered_entity} for purposes of sections 101, 102, 103, 104, or 106 of Title I of this Act.
 
 2.2.2.0.sec=This exception shall apply only so long as such person—
 
@@ -141,7 +143,7 @@ subparagraph (A).
 
 5.Ti=“Deletion” or “delete”
 
-5.sec=means remove or destroy data (either directly or through an agent) such that there is a reasonable basis for expecting that the data could not be retrieved in the ordinary course. No requirement to delete, destroy, or de-identify data under this Act shall require a covered entity to delete, destroy, or de-identify data that are retained for backup or archival purposes to the extent that such systems are not accessed in the ordinary course. To the extent such backup or archival systems are accessed in the ordinary course, this Act’s deletion requirements shall apply.
+5.sec=means remove or destroy data (either directly or through an agent) such that there is a reasonable basis for expecting that the data could not be retrieved in the ordinary course. No requirement to delete, destroy, or de-identify data under this Act shall require {a_covered_entity} to delete, destroy, or de-identify data that are retained for backup or archival purposes to the extent that such systems are not accessed in the ordinary course. To the extent such backup or archival systems are accessed in the ordinary course, this Act’s deletion requirements shall apply.
 
 6.Ti=“Minor”
 
@@ -165,29 +167,29 @@ subparagraph (A).
 
 11.Ti=“Context”
 
-11.0.sec=means the circumstances surrounding a covered entity’s processing of personal data, including but not limited to—
+11.0.sec=means the circumstances surrounding {a_covered_entity}’s processing of personal data, including but not limited to—
 
-11.1.sec=the extent and frequency of direct interactions between individuals and the covered entity, if any;
+11.1.sec=the extent and frequency of direct interactions between individuals and {the_covered_entity}, if any;
 
 11.2.sec=the nature and history of the interactions described in paragraph (1);
 
-11.3.sec=the level of understanding that reasonable users of the covered entity’s goods or services would have of how the covered entity processes the personal data that it collects, including through any notice provided by the covered entity;
+11.3.sec=the level of understanding that reasonable users of {the_covered_entity}’s goods or services would have of how {the_covered_entity} processes the personal data that it collects, including through any notice provided by {the_covered_entity};
 
-11.4.sec=the range of goods or services that the covered entity offers, the use of such goods or services by individuals, the benefits of such goods or services to individuals, and the brand names that the covered entity uses to offer such goods or services;
+11.4.sec=the range of goods or services that {the_covered_entity} offers, the use of such goods or services by individuals, the benefits of such goods or services to individuals, and the brand names that {the_covered_entity} uses to offer such goods or services;
 
-11.5.sec=information known by the covered entity about the privacy preferences of individual users of its goods or services;
+11.5.sec=information known by {the_covered_entity} about the privacy preferences of individual users of its goods or services;
 
-11.6.sec=the types of personal data foreseeably processed in order to provide a good or service that an individual requests from the covered entity;
+11.6.sec=the types of personal data foreseeably processed in order to provide a good or service that an individual requests from {the_covered_entity};
 
-11.7.sec=the types of personal data foreseeably processed in order to improve or market a good or service that an individual requests from the covered entity;
+11.7.sec=the types of personal data foreseeably processed in order to improve or market a good or service that an individual requests from {the_covered_entity};
 
 11.8.sec=the types of personal data foreseeably processed as customary business records;
 
-11.9.sec=the age and sophistication of individuals who use the covered entity’s goods or services, including whether the covered entity’s goods or services are directed toward minors or the elderly;
+11.9.sec=the age and sophistication of individuals who use {the_covered_entity}’s goods or services, including whether {the_covered_entity}’s goods or services are directed toward minors or the elderly;
 
-11.10.sec=the extent to which personal data under the control of the covered entity are exposed to public view; and
+11.10.sec=the extent to which personal data under the control of {the_covered_entity} are exposed to public view; and
 
-11.11.sec=the extent to which personal data under the control of the covered entity are obscured.
+11.11.sec=the extent to which personal data under the control of {the_covered_entity} are obscured.
 
 11.=[02/Bit/Ssec_11]
 
@@ -209,9 +211,9 @@ subparagraph (A).
 
 14.3.sec=Protecting the security of devices, networks, or facilities;
 
-14.4.sec=Protecting the rights or property of the covered entity or, upon consent of the customer, the covered entity’s customer;
+14.4.sec=Protecting the rights or property of {the_covered_entity} or, upon consent of the customer, {the_covered_entity}’s customer;
 
-14.5.sec=Monitoring or enforcing agreements between the covered entity and an individual, including but not limited to, terms of service, terms of use, user agreements, or agreements concerning monitoring criminal activity;
+14.5.sec=Monitoring or enforcing agreements between {the_covered_entity} and an individual, including but not limited to, terms of service, terms of use, user agreements, or agreements concerning monitoring criminal activity;
 
 14.6.sec=Processing customary business records (to the extent that such records are retained for reasonable periods of time or as legally required); or
 
@@ -219,8 +221,8 @@ subparagraph (A).
 
 14.=[02/Bit/Ssec_07]
 
+=[OMB/CPBR_Format.md]
+
 =[02/Bit/Sec_14]
 
-=[02/Bit/Sec_04]
-
-DocBody=<!DOCTYPE html><html><title>Page Title</title><style>ol {list-style-type: lower-alpha;} ol ol {list-style-type: decimal;} ol ol ol {list-style-type: upper-alpha;} ol ol ol ol {list-style-type: lower-roman;} ol ol ol ol ol {list-style-type: upper-roman;} ol ol ol ol ol ol {list-style-type: lower-alpha;}</style><body>{Doc}
+PageName=OMB/CPBR_Act_Of_2015_Definitions.01.md
