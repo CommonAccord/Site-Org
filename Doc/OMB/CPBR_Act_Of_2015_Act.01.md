@@ -51,17 +51,3 @@ Title.3.=[OMB/CPBR_Act_Of_2015_Title_3.01.md]
 Title.4.=[OMB/CPBR_Act_Of_2015_Title_4.01.md]
 
 PageName=OMB/CPBR_Act_Of_2015_Act.01.md
-
-d-=<a href="https://github.com/CommonAccord/Org/blob/master/Doc/{PageName}"><font color="green">
-
--d=</font></a>
-
-A_covered_entity=A {covered_entity}
-
-a_covered_entity=a {covered_entity}
-
-Each_covered_entity=Each {covered_entity}
-
-the_covered_entity=the {covered_entity}
-
-covered_entity={d-}covered entity{-d}

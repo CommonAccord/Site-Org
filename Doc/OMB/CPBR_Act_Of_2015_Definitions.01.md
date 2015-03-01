@@ -1,10 +1,10 @@
 Ti=Definitions
 
-1.Ti=“Personal data”
+1.Ti=“{Personal_data}”
 
 1.1.Ti=In General
 
-1.1.0.sec=“Personal data” means any data that are under the control of {a_covered_entity}, not otherwise generally available to the public through lawful means, and are linked, or as a practical matter linkable by {the_covered_entity}, to a specific individual, or linked to a device that is associated with or routinely used by an individual, including but not limited to—
+1.1.0.sec=“{Personal_data}” means any data that are under the control of {a_covered_entity}, not otherwise generally available to the public through lawful means, and are linked, or as a practical matter linkable by {the_covered_entity}, to a specific individual, or linked to a device that is associated with or routinely used by an individual, including but not limited to—
 
 1.1.1.sec=the first name (or initial) and last name;
 
@@ -28,7 +28,7 @@ Ti=Definitions
 
 1.2.1.Ti=De-identified data
 
-1.2.1.0.sec=The term “personal data” shall not include data otherwise described by paragraph (1) that {a_covered_entity} (either directly or through an agent)—
+1.2.1.0.sec=The term “{personal_data}” shall not include data otherwise described by paragraph (1) that {a_covered_entity} (either directly or through an agent)—
 
 1.2.1.1.sec=alters such that there is a reasonable basis for expecting that the data could not be linked as a practical matter to a specific individual or device;
 
@@ -42,17 +42,17 @@ Ti=Definitions
 
 1.2.2.Ti=Deleted data
 
-1.2.2.sec=The term “personal data” shall not include data otherwise described by paragraph (1) that {a_covered_entity} deletes.
+1.2.2.sec=The term “{personal_data}” shall not include data otherwise described by paragraph (1) that {a_covered_entity} deletes.
 
 1.2.3.Ti=Employee information
 
 Note=This implies that employee's employer is a "covered entity" - correct?
 
-1.2.3.sec=The term “personal data” shall not include an employee’s name, title, business address, business email address, business telephone number, business fax number, or any public licenses or records associated with the employment, when such information is collected or used by the employee’s employer or {another_covered_entity}, in connection with such employment status.
+1.2.3.sec=The term “{personal_data}” shall not include an employee’s name, title, business address, business email address, business telephone number, business fax number, or any public licenses or records associated with the employment, when such information is collected or used by the employee’s employer or {another_covered_entity}, in connection with such employment status.
 
 1.2.4.Ti=Cybersecurity data
 
-1.2.4.0.sec=The term “personal data” shall not include cyber threat indicators collected, processed, created, used, retained, or disclosed in order to investigate, mitigate, or otherwise respond to a cybersecurity threat or incident, when processed for those purposes.
+1.2.4.0.sec=The term “{personal_data}” shall not include cyber threat indicators collected, processed, created, used, retained, or disclosed in order to investigate, mitigate, or otherwise respond to a cybersecurity threat or incident, when processed for those purposes.
 
 1.2.4.1.0.sec=The term “cyber threat indicator” means information—
 
@@ -86,7 +86,7 @@ Note=This implies that employee's employer is a "covered entity" - correct?
 
 2.1.Ti=In General
 
-2.1.0.sec=“Covered entity” means a person that collects, creates, processes, retains, uses, or discloses personal data in or affecting interstate commerce.  Such term does not include—
+2.1.0.sec=“Covered entity” means a person that collects, creates, processes, retains, uses, or discloses {personal_data} in or affecting interstate commerce.  Such term does not include—
 
 
 2.1.1.sec=the Federal Government, the Government of any State, the Government of any Indian tribe, or any political subdivision, department, agency, component, entity, or instrumentality thereof;
@@ -97,9 +97,9 @@ Note=This implies that employee's employer is a "covered entity" - correct?
 
 2.1.4.0.sec=any person that—
 
-2.1.4.1.sec=collects, creates, processes, uses, retains, or discloses personal data of fewer than 10,000 individuals and devices during any 12-month period, or has 5 or fewer employees; and
+2.1.4.1.sec=collects, creates, processes, uses, retains, or discloses {personal_data} of fewer than 10,000 individuals and devices during any 12-month period, or has 5 or fewer employees; and
 
-2.1.4.2.sec=does not knowingly collect, use, retain, or disclose any information that is linked with personal data and includes, or relates directly to, that individual’s medical history; national origin; sexual orientation; gender identity; religious beliefs or affiliation; income, assets, or liabilities; precise geolocation information; unique biometric data; or Social Security number.
+2.1.4.2.sec=does not knowingly collect, use, retain, or disclose any information that is linked with {personal_data} and includes, or relates directly to, that individual’s medical history; national origin; sexual orientation; gender identity; religious beliefs or affiliation; income, assets, or liabilities; precise geolocation information; unique biometric data; or Social Security number.
 
 2.1.4.3.sec=notwithstanding the foregoing, any person that is {a_covered_entity} solely because of clause (ii) shall be {a_covered_entity} only with regard to the data described in clause (ii).
 
@@ -115,15 +115,15 @@ Note=This implies that employee's employer is a "covered entity" - correct?
 
 2.2.Ti=Exception
 
-2.2.1.sec=To the extent that a person collects, creates, processes, uses, retains, or discloses personal data needed to conduct research relating directly to security threats to or vulnerabilities in devices or networks, or to address threats or vulnerabilities identified by that research, such person shall not be deemed {a_covered_entity} for purposes of sections 101, 102, 103, 104, or 106 of Title I of this Act.
+2.2.1.sec=To the extent that a person collects, creates, processes, uses, retains, or discloses {personal_data} needed to conduct research relating directly to security threats to or vulnerabilities in devices or networks, or to address threats or vulnerabilities identified by that research, such person shall not be deemed {a_covered_entity} for purposes of sections 101, 102, 103, 104, or 106 of Title I of this Act.
 
 2.2.2.0.sec=This exception shall apply only so long as such person—
 
-2.2.2.1.sec=uses such personal data exclusively for the activities described by subparagraph (A);
+2.2.2.1.sec=uses such {personal_data} exclusively for the activities described by subparagraph (A);
 
 2.2.2.2.sec=takes reasonable steps to mitigate privacy risks when conducting the activities permitted by subparagraph (A); and
 
-2.2.2.3.sec=destroys, deletes, or de-identifies such personal data within a reasonable time after such person has completed the activities permitted by
+2.2.2.3.sec=destroys, deletes, or de-identifies such {personal_data} within a reasonable time after such person has completed the activities permitted by
 subparagraph (A).
 
 2.2.2.=[02/Bit/Ssec_03]
@@ -139,7 +139,7 @@ subparagraph (A).
 
 4.Ti=“Means to/of control”
 
-4.sec=mean enabling individuals to make decisions about the processing of their personal data, including but not limited to, providing mechanisms to obtain consent, withdraw consent, correct inaccurate data, permit or restrict access to data, or otherwise identify and implement the privacy preferences of individuals.
+4.sec=mean enabling individuals to make decisions about the processing of their {personal_data}, including but not limited to, providing mechanisms to obtain consent, withdraw consent, correct inaccurate data, permit or restrict access to data, or otherwise identify and implement the privacy preferences of individuals.
 
 5.Ti=“Deletion” or “delete”
 
@@ -151,7 +151,7 @@ subparagraph (A).
 
 7.Ti=“Privacy risk”
 
-7.sec=means the potential for personal data, on its own or when linked to other information about an individual, to cause emotional distress, or physical, financial, professional or other harm to an individual.
+7.sec=means the potential for {personal_data}, on its own or when linked to other information about an individual, to cause emotional distress, or physical, financial, professional or other harm to an individual.
 
 8.Ti=“Commission”
 
@@ -163,35 +163,37 @@ subparagraph (A).
 
 10.Ti=“Customary business records”
 
-10.sec=mean data, including personal data, typically collected in the ordinary course of conducting business and that is retained for generally accepted purposes for that business, including accounting, auditing, tax, fraud prevention, warranty fulfillment, billing, or other customary business purposes.
+10.sec=mean data, including {personal_data}, typically collected in the ordinary course of conducting business and that is retained for generally accepted purposes for that business, including accounting, auditing, tax, fraud prevention, warranty fulfillment, billing, or other customary business purposes.
 
 11.Ti=“Context”
 
-11.0.sec=means the circumstances surrounding {a_covered_entity}’s processing of personal data, including but not limited to—
+11.0.sec=means the circumstances surrounding {a_covered_entity}’s processing of {personal_data}, including but not limited to—
 
 11.1.sec=the extent and frequency of direct interactions between individuals and {the_covered_entity}, if any;
 
 11.2.sec=the nature and history of the interactions described in paragraph (1);
 
-11.3.sec=the level of understanding that reasonable users of {the_covered_entity}’s goods or services would have of how {the_covered_entity} processes the personal data that it collects, including through any notice provided by {the_covered_entity};
+11.3.sec=the level of understanding that reasonable users of {the_covered_entity}’s goods or services would have of how {the_covered_entity} processes the {personal_data} that it collects, including through any notice provided by {the_covered_entity};
 
 11.4.sec=the range of goods or services that {the_covered_entity} offers, the use of such goods or services by individuals, the benefits of such goods or services to individuals, and the brand names that {the_covered_entity} uses to offer such goods or services;
 
 11.5.sec=information known by {the_covered_entity} about the privacy preferences of individual users of its goods or services;
 
-11.6.sec=the types of personal data foreseeably processed in order to provide a good or service that an individual requests from {the_covered_entity};
+11.6.sec=the types of {personal_data} foreseeably processed in order to provide a good or service that an individual requests from {the_covered_entity};
 
-11.7.sec=the types of personal data foreseeably processed in order to improve or market a good or service that an individual requests from {the_covered_entity};
+11.7.sec=the types of {personal_data} foreseeably processed in order to improve or market a good or service that an individual requests from {the_covered_entity};
 
-11.8.sec=the types of personal data foreseeably processed as customary business records;
+11.8.sec=the types of {personal_data} foreseeably processed as customary business records;
 
 11.9.sec=the age and sophistication of individuals who use {the_covered_entity}’s goods or services, including whether {the_covered_entity}’s goods or services are directed toward minors or the elderly;
 
-11.10.sec=the extent to which personal data under the control of {the_covered_entity} are exposed to public view; and
+11.10.sec=the extent to which {personal_data} under the control of {the_covered_entity} are exposed to public view; and
 
-11.11.sec=the extent to which personal data under the control of {the_covered_entity} are obscured.
+11.11.sec=the extent to which {personal_data} under the control of {the_covered_entity} are obscured.
 
 11.=[02/Bit/Ssec_11]
+
+Note=Should "regarding data" be "regarding personal data"?
 
 12.Ti= “Process personal data” or “personal data processing”
 

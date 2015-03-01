@@ -36,11 +36,11 @@ Ti=TITLE IV.  Miscellaneous
 
 2.1.Ti=Deception
 
-2.1.sec=Nothing in this Act shall be construed to limit the Commission’s authority under section 5 of the FTC Act (15 U.S.C. § 41 et seq.) to prevent any deceptive act or practice relating to personal data processing.
+2.1.sec=Nothing in this Act shall be construed to limit {the_Commission}’s authority under section 5 of the FTC Act (15 U.S.C. § 41 et seq.) to prevent any deceptive act or practice relating to personal data processing.
 
 2.2.Ti=Unfairness
 
-2.2.sec=Nothing in this Act shall be construed to limit the Commission’s authority to prevent unfair acts or practices relating to personal data processing, except the conduct that underlies a claim by the Commission that {a_covered_entity} breached a commitment that it made as part of its adherence to a code of conduct approved under section 301 of this Act.
+2.2.sec=Nothing in this Act shall be construed to limit {the_Commission}’s authority to prevent unfair acts or practices relating to personal data processing, except the conduct that underlies a claim by {the_Commission} that {a_covered_entity} breached a commitment that it made as part of its adherence to a code of conduct approved under section 301 of this Act.
 
 2.=[02/Bit/Sec_02]
 
@@ -128,7 +128,7 @@ seq.).
 
 5.Ti=Exceptions to the Definition of {Covered_Entity}
 
-5.sec=Rulemaking.—The Commission may promulgate regulations under 5 U.S.C. § 553 to establish additional exceptions from the definition of {covered_entity} for categories of persons. When promulgating regulations under this section, the Commission shall consider, among other factors, the privacy risks posed by personal data processing by categories of persons of various sizes, experiences, resources, and types of commercial activity, including nonprofit activity; the importance of mitigating privacy risks; and the costs and benefits of including those categories of persons as {covered_entities}. A person aggrieved by a regulation promulgated under this subsection may obtain review by a district court of the United States of appropriate jurisdiction, as provided for in 5 U.S.C. § 706. The Commission may modify or revoke such an exception in light of changes in consumer expectations, technology, and market conditions, but no sooner than 3 years after initial promulgation absent materially changed circumstances.
+5.sec=Rulemaking.—{The_Commission} may promulgate regulations under 5 U.S.C. § 553 to establish additional exceptions from the definition of {covered_entity} for categories of persons. When promulgating regulations under this section, {the_Commission} shall consider, among other factors, the privacy risks posed by personal data processing by categories of persons of various sizes, experiences, resources, and types of commercial activity, including nonprofit activity; the importance of mitigating privacy risks; and the costs and benefits of including those categories of persons as {covered_entities}. A person aggrieved by a regulation promulgated under this subsection may obtain review by a district court of the United States of appropriate jurisdiction, as provided for in 5 U.S.C. § 706. {The_Commission} may modify or revoke such an exception in light of changes in consumer expectations, technology, and market conditions, but no sooner than 3 years after initial promulgation absent materially changed circumstances.
 
 6.Ti=Effective Date
 

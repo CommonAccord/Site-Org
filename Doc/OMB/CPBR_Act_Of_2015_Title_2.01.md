@@ -6,7 +6,9 @@ Ti=TITLE II. Enforcement
 
 1.1.sec=A violation of Title I of this Act shall be treated as an unfair or deceptive act or practice in violation of section 5 of the Federal Trade Commission Act (15 U.S.C. § 45).
 
-1.2.Ti=Powers of Commission
+Note=Sounds like error of omission. 
+
+1.2.Ti=Powers of {Commission}
 
 1.2.1.Ti=In General
 
@@ -14,7 +16,7 @@ Ti=TITLE II. Enforcement
 
 1.2.2.Ti=Exception
 
-1.2.2.sec=The Commission shall not bring an enforcement action for violations of Title I of this Act seeking civil penalties based on {a_covered_entity}’s conduct undertaken within the first eighteen months after the date {the_covered_entity} first created or processed personal data.
+1.2.2.sec={The_Commission} shall not bring an enforcement action for violations of Title I of this Act seeking civil penalties based on {a_covered_entity}’s conduct undertaken within the first eighteen months after the date {the_covered_entity} first created or processed {personal_data}.
 
 1.2.=[02/Bit/Sec_02]
 
@@ -22,13 +24,13 @@ Ti=TITLE II. Enforcement
 
 1.3.0.sec=The requirements of this Act apply to—
 
-1.3.1.sec=those “persons, partnerships, or corporations” over which the Commission has authority pursuant to section 5(a)(2) of the Federal Trade Commission Act (15 U.S.C. § 45(a)(2)); and
+1.3.1.sec=those “persons, partnerships, or corporations” over which {the_Commission} has authority pursuant to section 5(a)(2) of the Federal Trade Commission Act (15 U.S.C. § 45(a)(2)); and
 
 1.3.2.sec=notwithstanding section 4 and section 5(a)(2) of that Act (15 U.S.C. §§ 44 and 45(a)(2)), any non-profit organization, including any organization described in section 501(c) of the Internal Revenue Code of 1986 that is exempt from taxation under section 501(a) of such Code.
 
 1.3.=[02/Bit/Ssec_02]
 
-1.4.Sec=In enforcing this Act, the Commission shall not require the deployment or use of any specific products or technologies, including any specific device software or hardware.
+1.4.Sec=In enforcing this Act, {the_Commission} shall not require the deployment or use of any specific products or technologies, including any specific device software or hardware.
 
 1.=[02/Bit/Sec_04]
 
@@ -37,25 +39,27 @@ Ti=TITLE II. Enforcement
 
 2.1.Ti=Civil Action
 
-2.1.sec=If the attorney general of any State has reason to believe that the action of {a_covered_entity} in violation of Title I of this Act has caused or is causing harm to a substantial number of that State’s residents, such attorney general may bring a civil action on behalf of those residents exclusively in an appropriate district court of the United States. Unless the Commission brings an action under section 201 of this Act or intervenes and prosecutes an action brought under this section, as described in subsections (b)(2)(A) and (b)(2)(B), the only remedy that may be sought or awarded in any action under this Act is injunctive relief, and nothing in this Act may be construed to provide for any other relief.
+2.1.sec=If the attorney general of any State has reason to believe that the action of {a_covered_entity} in violation of Title I of this Act has caused or is causing harm to a substantial number of that State’s residents, such attorney general may bring a civil action on behalf of those residents exclusively in an appropriate district court of the United States. Unless {the_Commission} brings an action under section 201 of this Act or intervenes and prosecutes an action brought under this section, as described in subsections (b)(2)(A) and (b)(2)(B), the only remedy that may be sought or awarded in any action under this Act is injunctive relief, and nothing in this Act may be construed to provide for any other relief.
 
 2.2.Ti=Federal Trade Commission.—
 
-2.2.1.sec=Notice to Federal Trade Commission.—At least 30 days prior to initiating any action under subsection (a), an attorney general shall provide the Commission with a copy of the entire court complaint and written disclosure of substantially all material evidence and information the attorney general possesses.
+2.2.1.sec=Notice to Federal Trade Commission.—At least 30 days prior to initiating any action under subsection (a), an attorney general shall provide {the_Commission} with a copy of the entire court complaint and written disclosure of substantially all material evidence and information the attorney general possesses.
 
-2.2.2.0.sec=Upon receiving notice from an attorney general of a proposed civil action, the Commission may—
+2.2.2.0.sec=Upon receiving notice from an attorney general of a proposed civil action, {the_Commission} may—
 
 2.2.2.1.sec=intervene as a matter of right as a party to that civil action;
 
 2.2.2.2.sec=intervene as a matter of right as a party to that civil action and assume lead responsibility for the prosecution of the action; or
 
-2.2.2.3.sec=permit the attorney general to proceed with the action without direct Commission participation.
+Note="direct Commission participation" perhaps "direct participation by {the_Commission}
+
+2.2.2.3.sec=permit the attorney general to proceed with the action without direct {Commission} participation.
 
 2.2.2.=[02/Bit/Ssec_03]
 
-2.2.3.sec=In the event that an attorney general believes that immediate action is necessary to protect the residents of the State from a substantial harm, the attorney general may request that the Commission expedite its review of the proposed action, and the Commission shall afford such request appropriate consideration as the circumstances may warrant.
+2.2.3.sec=In the event that an attorney general believes that immediate action is necessary to protect the residents of the State from a substantial harm, the attorney general may request that {the_Commission} expedite its review of the proposed action, and {the_Commission} shall afford such request appropriate consideration as the circumstances may warrant.
 
-2.2.4.sec=In any action brought under Title II of this Act, the district court, and any courts that review the district court’s decision, shall accord substantial weight to the Commission’s interpretations as to the legal requirements of this Act.
+2.2.4.sec=In any action brought under Title II of this Act, the district court, and any courts that review the district court’s decision, shall accord substantial weight to {the_Commission}’s interpretations as to the legal requirements of this Act.
 
 2.2.=[02/Bit/Ssec_04]
 
@@ -69,11 +73,11 @@ Ti=TITLE II. Enforcement
 
 3.1.Ti=In General
 
-3.1.0.sec=In an action brought by the Commission or prosecuted by the Commission pursuant to section 202(b)(2)(A) or section 202(b)(2)(B), in addition to any injunctive relief arising from a violation of Title I of this Act, {the_covered_entity} is liable for a civil penalty if {the_covered_entity}, with actual knowledge or knowledge fairly implied on the basis of objective circumstances, violates the Act. Both the amount of such civil penalty sought by the Commission and the amount of such civil penalty determined by the court shall take into account the degree of culpability, any history of prior such conduct, ability to pay, effect on ability to continue to do business, and such other matters as justice may require.
+3.1.0.sec=In an action brought by {the_Commission} or prosecuted by {the_Commission} pursuant to section 202(b)(2)(A) or section 202(b)(2)(B), in addition to any injunctive relief arising from a violation of Title I of this Act, {the_covered_entity} is liable for a civil penalty if {the_covered_entity}, with actual knowledge or knowledge fairly implied on the basis of objective circumstances, violates the Act. Both the amount of such civil penalty sought by {the_Commission} and the amount of such civil penalty determined by the court shall take into account the degree of culpability, any history of prior such conduct, ability to pay, effect on ability to continue to do business, and such other matters as justice may require.
 
 3.1.1.sec=The civil penalty shall be calculated by multiplying the number of days that {the_covered_entity} violates the Act by an amount not to exceed $35,000; or
 
-3.1.2.0.sec=If the Commission provides notice to {a_covered_entity}, stated with particularity, that identifies a violation of this Act, the civil penalty shall be calculated by multiplying the number of directly affected consumers by an amount not to exceed $5,000, unless, within 45 days of receiving such a notice, {the_covered_entity} files with the Commission an objection that satisfies the requirements of subparagraph (A).
+3.1.2.0.sec=If {the_Commission} provides notice to {a_covered_entity}, stated with particularity, that identifies a violation of this Act, the civil penalty shall be calculated by multiplying the number of directly affected consumers by an amount not to exceed $5,000, unless, within 45 days of receiving such a notice, {the_covered_entity} files with {the_Commission} an objection that satisfies the requirements of subparagraph (A).
 
 3.1.2.1.0.sec=An objection shall include an affidavit by {the_covered_entity} that to the best of {the_covered_entity}’s knowledge, information, and belief, formed after an inquiry reasonable under the circumstances—
 
