@@ -42,12 +42,12 @@ Ti=CONSUMER PRIVACY BILL OF RIGHTS ACT
 
 90.Sec={Title.1.Doc}<hr>{Title.2.Doc}<hr>{Title.3.Doc}<hr>{Title.4.Doc}
 
-Title.1.=[OMB/CPBR_Act_Of_2015_Title_1.01.md]
+Title.1.=[OMB/CPBR_Act_Of_2015_Title_1.md]
 
-Title.2.=[OMB/CPBR_Act_Of_2015_Title_2.01.md]
+Title.2.=[OMB/CPBR_Act_Of_2015_Title_2.md]
 
-Title.3.=[OMB/CPBR_Act_Of_2015_Title_3.01.md]
+Title.3.=[OMB/CPBR_Act_Of_2015_Title_3.md]
 
-Title.4.=[OMB/CPBR_Act_Of_2015_Title_4.01.md]
+Title.4.=[OMB/CPBR_Act_Of_2015_Title_4.md]
 
-PageName=OMB/CPBR_Act_Of_2015_Act.01.md
+PageName=OMB/CPBR_Act_Of_2015.md
