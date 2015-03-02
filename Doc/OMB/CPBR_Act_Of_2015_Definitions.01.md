@@ -6,6 +6,9 @@ used.or={collected}, processed, created, used, retained, or disclosed
 
 using.and={collecting}, retaining, disclosing, using, merging, linking, and combining
 
+destroy.or={delete}, destroy, or de-identify
+
+destroys.or=destroys, {deletes}, or de-identifies
 
 Ti=Definitions
 
@@ -55,7 +58,7 @@ Note=some differences seem intentional, but is "stored" different than "retained
 
 1.2.2.Ti=Deleted data
 
-1.2.2.sec=The term “{personal_data}” shall not include data otherwise described by paragraph (1) that {a_covered_entity} deletes.
+1.2.2.sec=The term “{personal_data}” shall not include data otherwise described by paragraph (1) that {a_covered_entity} {deletes}.
 
 1.2.3.Ti=Employee information
 
@@ -95,13 +98,13 @@ Note=This implies that employee's employer is a "covered entity" - correct?
 
 1.=[02/Bit/Sec_02]
 
-2.Ti=“Covered entity”
+2.Ti=“{Covered_entity}”
 
 2.1.Ti=In General
 
-2.1.0.sec=“Covered entity” means a person that {uses.or} {personal_data} in or affecting interstate commerce.  Such term does not include—
+2.1.0.sec=“{Covered_entity}” means a person that {uses.or} {personal_data} in or affecting interstate commerce.  Such term does not include—
 
-2.1.1.sec=the Federal Government, the Government of any State, the Government of any Indian tribe, or any political subdivision, department, agency, component, entity, or instrumentality thereof;
+2.1.1.sec=the Federal Government, the Government of any {State}, the Government of any Indian tribe, or any political subdivision, department, agency, component, entity, or instrumentality thereof;
 
 2.1.2.sec=any employee, officer, agent, contractor, or organization working on behalf of an entity described in subparagraph (A), with regard to data processed on behalf of such entity;
 
@@ -125,7 +128,7 @@ Note=Different list than for uses.or
 
 2.1.5.sec=any person that has 25 or fewer employees, and would otherwise be {a_covered_entity} solely because of data that the person processes related to job applicants and employees in the ordinary course; or
 
-2.1.5.sec=any other exceptions established pursuant to section 405 of this Act.
+2.1.5.sec=any other exceptions established pursuant to section 405 of {this_Act}.
 
 2.1.=[02/Bit/Ssec_05]
 
@@ -137,9 +140,9 @@ Note=Different list than for uses.or
 
 2.2.2.1.sec=uses such {personal_data} exclusively for the activities described by subparagraph (A);
 
-2.2.2.2.sec=takes reasonable steps to mitigate privacy risks when conducting the activities permitted by subparagraph (A); and
+2.2.2.2.sec=takes reasonable steps to mitigate {privacy_risks} when conducting the activities permitted by subparagraph (A); and
 
-2.2.2.3.sec=destroys, deletes, or de-identifies such {personal_data} within a reasonable time after such person has completed the activities permitted by
+2.2.2.3.sec={destroys.or} such {personal_data} within a reasonable time after such person has completed the activities permitted by
 subparagraph (A).
 
 2.2.2.=[02/Bit/Ssec_03]
@@ -157,23 +160,23 @@ subparagraph (A).
 
 4.sec=mean enabling individuals to make decisions about the processing of their {personal_data}, including but not limited to, providing mechanisms to obtain consent, withdraw consent, correct inaccurate data, permit or restrict access to data, or otherwise identify and implement the privacy preferences of individuals.
 
-5.Ti=“Deletion” or “delete”
+5.Ti=“{Deletion}” or “{delete}”
 
-5.sec=means remove or destroy data (either directly or through an agent) such that there is a reasonable basis for expecting that the data could not be retrieved in the ordinary course. No requirement to delete, destroy, or de-identify data under this Act shall require {a_covered_entity} to delete, destroy, or de-identify data that are retained for backup or archival purposes to the extent that such systems are not accessed in the ordinary course. To the extent such backup or archival systems are accessed in the ordinary course, this Act’s deletion requirements shall apply.
+5.sec=means remove or destroy data (either directly or through an agent) such that there is a reasonable basis for expecting that the data could not be retrieved in the ordinary course. No requirement to {destroy.or} data under this Act shall require {a_covered_entity} to {destroy.or} data that are retained for backup or archival purposes to the extent that such systems are not accessed in the ordinary course. To the extent such backup or archival systems are accessed in the ordinary course, this Act’s {deletion} requirements shall apply.
 
-6.Ti=“Minor”
+6.Ti=“{Minor}”
 
 6.sec=means an individual who is under 18 years of age.
 
-7.Ti=“Privacy risk”
+7.Ti=“{Privacy_risk}”
 
 7.sec=means the potential for {personal_data}, on its own or when linked to other information about an individual, to cause emotional distress, or physical, financial, professional or other harm to an individual.
 
-8.Ti=“Commission”
+8.Ti=“{Commission}”
 
 8.sec=means the Federal Trade Commission.
 
-9.Ti=“State”
+9.Ti=“{State}”
 
 9.sec=includes the several States, the District of Columbia, Federally recognized Indian tribes, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, the Virgin Islands, and any other territory or possession of the United States.
 
@@ -181,9 +184,9 @@ subparagraph (A).
 
 Note=is this use of "collected" intended to be covered by the defined term?
 
-10.sec=mean data, including {personal_data}, typically {collected} in the ordinary course of conducting business and that is retained for generally accepted purposes for that business, including accounting, auditing, tax, fraud prevention, warranty fulfillment, billing, or other customary business purposes.
+10.sec=mean data, including {personal_data}, typically collected in the ordinary course of conducting business and that is retained for generally accepted purposes for that business, including accounting, auditing, tax, fraud prevention, warranty fulfillment, billing, or other customary business purposes.
 
-11.Ti=“Context”
+11.Ti=“{Context}”
 
 11.0.sec=means the circumstances surrounding {a_covered_entity}’s processing of {personal_data}, including but not limited to—
 
@@ -203,7 +206,7 @@ Note=is this use of "collected" intended to be covered by the defined term?
 
 11.8.sec=the types of {personal_data} foreseeably processed as customary business records;
 
-11.9.sec=the age and sophistication of individuals who use {the_covered_entity}’s goods or services, including whether {the_covered_entity}’s goods or services are directed toward minors or the elderly;
+11.9.sec=the age and sophistication of individuals who use {the_covered_entity}’s goods or services, including whether {the_covered_entity}’s goods or services are directed toward {minors} or the elderly;
 
 11.10.sec=the extent to which {personal_data} under the control of {the_covered_entity} are exposed to public view; and
 
@@ -213,15 +216,15 @@ Note=is this use of "collected" intended to be covered by the defined term?
 
 Note=Should "regarding data" be "regarding personal data"?
 
-12.Ti= “Process personal data” or “personal data processing”
+12.Ti= “{Process_personal_data}” or “{personal_data_processing}”
 
 12.sec=means taking any action regarding data that is linked to an individual or a specific device, including but not limited to {using.and} data.
 
-13.Ti=“Adverse action”
+13.Ti=“{Adverse_action}”
 
 13.sec=has the same meaning as in section 701(d) of the Fair Credit Opportunity Act of 1974 (15 U.S.C. § 1691(d)(6)) and section 603(k)(1)(B)(i)-(iii) of the Fair Credit Reporting Act (15 U.S.C. § 1681a(k)(1)(B)(i)-(iii)).
 
-14.Ti=“Enumerated exceptions”
+14.Ti=“{Enumerated_exceptions}”
 
 14.0.sec=means:
 

@@ -4,9 +4,9 @@ Ti=TITLE III. Codes of Conduct to Implement the Consumer Privacy Bill of Rights
 
 1.1.Ti=Commission Review of Codes of Conduct
 
-1.1.1.0.sec=Beginning 1 day after the effective date of {Commission} regulations adopted under subsection (c), any person may apply to {the_Commission} for approval of one or more codes of conduct governing the processing of personal data by {a_covered_entity}. Such application shall include—
+1.1.1.0.sec=Beginning 1 day after the effective date of {Commission} regulations adopted under subsection (c), any person may apply to {the_Commission} for approval of one or more codes of conduct governing the processing of {personal_data} by {a_covered_entity}. Such application shall include—
 
-1.1.1.1.sec=A description of how the proposed code provides equivalent or greater protections for personal data than are provided by the relevant section of Title I;
+1.1.1.1.sec=A description of how the proposed code provides equivalent or greater protections for {personal_data} than are provided by the relevant section of Title I;
 
 1.1.1.2.sec=A description of entities or activities the code is designed to cover;
 
@@ -48,19 +48,19 @@ and
 
 1.1.4.0.sec=Initial Approval.—{The_Commission} shall approve an application only if the applicant demonstrates that the associated code of conduct—
 
-1.1.4.1.sec=provides equivalent or greater protections for personal data pertaining to individuals than those provided by Title I of {this_Act}; and
+1.1.4.1.sec=provides equivalent or greater protections for {personal_data} pertaining to individuals than those provided by Title I of {this_Act}; and
 
-1.1.4.2.sec=contains provisions for periodic review of the code of conduct to ensure that it continues to provide sufficient protection over time for personal data pertaining to individuals.
+1.1.4.2.sec=contains provisions for periodic review of the code of conduct to ensure that it continues to provide sufficient protection over time for {personal_data} pertaining to individuals.
 
 1.1.4.=[02/Bit/Ssec_02]
 
-1.1.5.sec=Presumption of Sufficiency.—Codes of conduct developed through a multistakeholder process pursuant to paragraph (2)(A) that meet the requirements established by {the_Commission} shall be presumed to provide equivalent or greater protections for personal data as those provided by Title I of {this_Act}. A {Commission} finding to the contrary shall be supported by a decision in writing.
+1.1.5.sec=Presumption of Sufficiency.—Codes of conduct developed through a multistakeholder process pursuant to paragraph (2)(A) that meet the requirements established by {the_Commission} shall be presumed to provide equivalent or greater protections for {personal_data} as those provided by Title I of {this_Act}. A {Commission} finding to the contrary shall be supported by a decision in writing.
 
 1.1.6.0.sec=Duration.—
 
-1.1.6.1.sec=No sooner than 3 years and no later than 5 years after approving a code of conduct, {the_Commission} shall reassess such code. If {the_Commission} determines that the code continues to provide equivalent or greater protections for personal data pertaining to individuals than those provided by Title I of {this_Act}, in light of changes in consumer expectations, technology, and market conditions, the code shall continue to qualify as a safe harbor pursuant to subsection (d) for a period of no longer than 5 years following the determination.
+1.1.6.1.sec=No sooner than 3 years and no later than 5 years after approving a code of conduct, {the_Commission} shall reassess such code. If {the_Commission} determines that the code continues to provide equivalent or greater protections for {personal_data} pertaining to individuals than those provided by Title I of {this_Act}, in light of changes in consumer expectations, technology, and market conditions, the code shall continue to qualify as a safe harbor pursuant to subsection (d) for a period of no longer than 5 years following the determination.
 
-1.1.6.2.sec=Notwithstanding subparagraph (A), {the_Commission}, upon request or on its own motion, may reconsider an approval granted under paragraph (4). After receiving public comment, if {the_Commission} determines, based on specific factors or evidence not available in the prior proceeding, that clearly demonstrate that a code of conduct does not or no longer provides equivalent or greater protections for personal data pertaining to individuals  than those provided by Title I of {this_Act}, it shall withdraw its approval of such code of conduct.
+1.1.6.2.sec=Notwithstanding subparagraph (A), {the_Commission}, upon request or on its own motion, may reconsider an approval granted under paragraph (4). After receiving public comment, if {the_Commission} determines, based on specific factors or evidence not available in the prior proceeding, that clearly demonstrate that a code of conduct does not or no longer provides equivalent or greater protections for {personal_data} pertaining to individuals  than those provided by Title I of {this_Act}, it shall withdraw its approval of such code of conduct.
 
 1.1.6.=[02/Bit/Ssec_02]
 
@@ -72,7 +72,7 @@ and
 
 1.2.2.sec={The_Commission} shall approve an application only if an applicant demonstrates that it can effectively and expeditiously address and resolve alleged violations of each code of conduct administered by that applicant.
 
-1.2.3.sec=Commission certification under this subsection shall be effective for no more than 5 years. {The_Commission}, upon request or on its own motion, may review a person’s administration of a code of conduct to determine whether, in light of changes in consumer expectations, technology, and market conditions, such person continues to provide adequate protection for individuals and their personal data. If {the_Commission} determines, after receiving public comment, that a person’s administration or enforcement of a code of conduct does not adequately protect individuals and their personal data, {the_Commission} shall withdraw its certification under this subsection.
+1.2.3.sec=Commission certification under this subsection shall be effective for no more than 5 years. {The_Commission}, upon request or on its own motion, may review a person’s administration of a code of conduct to determine whether, in light of changes in consumer expectations, technology, and market conditions, such person continues to provide adequate protection for individuals and their {personal_data}. If {the_Commission} determines, after receiving public comment, that a person’s administration or enforcement of a code of conduct does not adequately protect individuals and their {personal_data}, {the_Commission} shall withdraw its certification under this subsection.
 
 1.2.4.sec=Each year, each person certified by {the_Commission} under this subsection shall submit to {the_Commission}, in a form specified by {the_Commission}, a report of its activities under this Title during the preceding year.
 

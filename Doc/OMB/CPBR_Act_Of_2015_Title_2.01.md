@@ -16,7 +16,7 @@ Note=Sounds like error of omission.
 
 1.2.2.Ti=Exception
 
-1.2.2.sec={The_Commission} shall not bring an enforcement action for violations of Title I of {this_Act} seeking civil penalties based on {a_covered_entity}’s conduct undertaken within the first eighteen months after the date {the_covered_entity} first created or processed {personal_data}.
+1.2.2.sec={The_Commission} shall not bring an enforcement action for violations of Title I of {this_Act} seeking civil penalties based on {a_covered_entity}’s conduct undertaken within the first eighteen months after the date {the_covered_entity} first created or {processed} {personal_data}.
 
 1.2.=[02/Bit/Sec_02]
 
@@ -35,11 +35,11 @@ Note=Sounds like error of omission.
 1.=[02/Bit/Sec_04]
 
 
-2.Ti=Enforcement by State Attorneys General
+2.Ti=Enforcement by {State} Attorneys General
 
 2.1.Ti=Civil Action
 
-2.1.sec=If the attorney general of any State has reason to believe that the action of {a_covered_entity} in violation of Title I of {this_Act} has caused or is causing harm to a substantial number of that State’s residents, such attorney general may bring a civil action on behalf of those residents exclusively in an appropriate district court of the United States. Unless {the_Commission} brings an action under section 201 of {this_Act} or intervenes and prosecutes an action brought under this section, as described in subsections (b)(2)(A) and (b)(2)(B), the only remedy that may be sought or awarded in any action under {this_Act} is injunctive relief, and nothing in {this_Act} may be construed to provide for any other relief.
+2.1.sec=If the attorney general of any {State} has reason to believe that the action of {a_covered_entity} in violation of Title I of {this_Act} has caused or is causing harm to a substantial number of that {State}’s residents, such attorney general may bring a civil action on behalf of those residents exclusively in an appropriate district court of the United States. Unless {the_Commission} brings an action under section 201 of {this_Act} or intervenes and prosecutes an action brought under this section, as described in subsections (b)(2)(A) and (b)(2)(B), the only remedy that may be sought or awarded in any action under {this_Act} is injunctive relief, and nothing in {this_Act} may be construed to provide for any other relief.
 
 2.2.Ti=Federal Trade Commission.—
 
@@ -57,7 +57,7 @@ Note="direct Commission participation" perhaps "direct participation by {the_Com
 
 2.2.2.=[02/Bit/Ssec_03]
 
-2.2.3.sec=In the event that an attorney general believes that immediate action is necessary to protect the residents of the State from a substantial harm, the attorney general may request that {the_Commission} expedite its review of the proposed action, and {the_Commission} shall afford such request appropriate consideration as the circumstances may warrant.
+2.2.3.sec=In the event that an attorney general believes that immediate action is necessary to protect the residents of the {State} from a substantial harm, the attorney general may request that {the_Commission} expedite its review of the proposed action, and {the_Commission} shall afford such request appropriate consideration as the circumstances may warrant.
 
 2.2.4.sec=In any action brought under Title II of {this_Act}, the district court, and any courts that review the district court’s decision, shall accord substantial weight to {the_Commission}’s interpretations as to the legal requirements of {this_Act}.
 
@@ -65,7 +65,7 @@ Note="direct Commission participation" perhaps "direct participation by {the_Com
 
 2.3.Ti=Investigatory Powers
 
-2.3.sec=Nothing in this section may be construed to prevent the attorney general of a State from exercising the powers conferred on such attorney general by the laws of such State to conduct investigations or to administer oaths or affirmations or to compel the attendance of witnesses or the production of documentary and other evidence.
+2.3.sec=Nothing in this section may be construed to prevent the attorney general of a {State} from exercising the powers conferred on such attorney general by the laws of such {State} to conduct investigations or to administer oaths or affirmations or to compel the attendance of witnesses or the production of documentary and other evidence.
 
 2.=[02/Bit/Sec_03]
 
@@ -108,3 +108,5 @@ Note="direct Commission participation" perhaps "direct participation by {the_Com
 =[OMB/CPBR_Format.md]
 
 =[02/Bit/Sec_03]
+
+PageName=OMB/CPBR_Act_Of_2015_Title_2.01.md
