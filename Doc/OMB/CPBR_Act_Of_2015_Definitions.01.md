@@ -1,3 +1,5 @@
+Note=Some differences in this phrases.  Are the differences intended?
+
 use.or={collect}, use, retain, or disclose 
 
 uses.or={collects}, creates, processes, retains, uses, or discloses
@@ -12,11 +14,11 @@ destroys.or=destroys, {deletes}, or de-identifies
 
 Ti=Definitions
 
-1.Ti=ì{Personal_data}î
+1.Ti=‚Äú{Personal_data}‚Äù
 
 1.1.Ti=In General
 
-1.1.0.sec=ì{Personal_data}î means any data that are under the control of {a_covered_entity}, not otherwise generally available to the public through lawful means, and are linked, or as a practical matter linkable by {the_covered_entity}, to a specific individual, or linked to a device that is associated with or routinely used by an individual, including but not limited toó
+1.1.0.sec=‚Äú{Personal_data}‚Äù means any data that are under the control of {a_covered_entity}, not otherwise generally available to the public through lawful means, and are linked, or as a practical matter linkable by {the_covered_entity}, to a specific individual, or linked to a device that is associated with or routinely used by an individual, including but not limited to‚Äî
 
 1.1.1.sec=the first name (or initial) and last name;
 
@@ -24,11 +26,11 @@ Ti=Definitions
 
 1.1.3.sec=a telephone or fax number;
 
-1.1.4.sec=a social security number, tax identification number, passport number, driverís license number, or any other unique government-issued identification number;
+1.1.4.sec=a social security number, tax identification number, passport number, driver‚Äôs license number, or any other unique government-issued identification number;
 
 1.1.5.sec=any biometric identifier, such as a fingerprint or voice print;
 
-1.1.6.sec=any unique persistent identifier, including a number or alphanumeric string that uniquely identifies a networked device; commercially issued identification numbers and service account numbers, such as a financial account number, credit card or debit card number, health care account number, retail account number; unique vehicle identifiers, including Vehicle Identification Numbers or license plate numbers; or any required security code, access code, or password that is necessary to access an individualís service account;
+1.1.6.sec=any unique persistent identifier, including a number or alphanumeric string that uniquely identifies a networked device; commercially issued identification numbers and service account numbers, such as a financial account number, credit card or debit card number, health care account number, retail account number; unique vehicle identifiers, including Vehicle Identification Numbers or license plate numbers; or any required security code, access code, or password that is necessary to access an individual‚Äôs service account;
 
 1.1.7.sec=unique identifiers or other uniquely assigned or descriptive information about personal computing or communication devices; or
 
@@ -44,7 +46,7 @@ Note=some differences seem intentional, but is "stored" different than "retained
 
 1.2.1.Ti=De-identified data
 
-1.2.1.0.sec=The term ì{personal_data}î shall not include data otherwise described by paragraph (1) that {a_covered_entity} (either directly or through an agent)ó
+1.2.1.0.sec=The term ‚Äú{personal_data}‚Äù shall not include data otherwise described by paragraph (1) that {a_covered_entity} (either directly or through an agent)‚Äî
 
 1.2.1.1.sec=alters such that there is a reasonable basis for expecting that the data could not be linked as a practical matter to a specific individual or device;
 
@@ -58,21 +60,21 @@ Note=some differences seem intentional, but is "stored" different than "retained
 
 1.2.2.Ti=Deleted data
 
-1.2.2.sec=The term ì{personal_data}î shall not include data otherwise described by paragraph (1) that {a_covered_entity} {deletes}.
+1.2.2.sec=The term ‚Äú{personal_data}‚Äù shall not include data otherwise described by paragraph (1) that {a_covered_entity} {deletes}.
 
 1.2.3.Ti=Employee information
 
 Note=This implies that employee's employer is a "covered entity" - correct?
 
-1.2.3.sec=The term ì{personal_data}î shall not include an employeeís name, title, business address, business email address, business telephone number, business fax number, or any public licenses or records associated with the employment, when such information is {collected} or used by the employeeís employer or {another_covered_entity}, in connection with such employment status.
+1.2.3.sec=The term ‚Äú{personal_data}‚Äù shall not include an employee‚Äôs name, title, business address, business email address, business telephone number, business fax number, or any public licenses or records associated with the employment, when such information is {collected} or used by the employee‚Äôs employer or {another_covered_entity}, in connection with such employment status.
 
 1.2.4.Ti=Cybersecurity data
 
-1.2.4.0.sec=The term ì{personal_data}î shall not include cyber threat indicators {used.or} in order to investigate, mitigate, or otherwise respond to a cybersecurity threat or incident, when processed for those purposes.
+1.2.4.0.sec=The term ‚Äú{personal_data}‚Äù shall not include cyber threat indicators {used.or} in order to investigate, mitigate, or otherwise respond to a cybersecurity threat or incident, when processed for those purposes.
 
-1.2.4.1.0.sec=The term ìcyber threat indicatorî means informationó
+1.2.4.1.0.sec=The term ‚Äúcyber threat indicator‚Äù means information‚Äî
 
-1.2.4.1.1.0.sec=that is necessary to indicate, describe or identifyó
+1.2.4.1.1.0.sec=that is necessary to indicate, describe or identify‚Äî
 
 1.2.4.1.1.1.sec=malicious reconnaissance, including communications that reasonably appear to be transmitted for the purpose of gathering technical information related to a cyber threat;
 
@@ -98,11 +100,11 @@ Note=This implies that employee's employer is a "covered entity" - correct?
 
 1.=[02/Bit/Sec_02]
 
-2.Ti=ì{Covered_entity}î
+2.Ti=‚Äú{Covered_entity}‚Äù
 
 2.1.Ti=In General
 
-2.1.0.sec=ì{Covered_entity}î means a person that {uses.or} {personal_data} in or affecting interstate commerce.  Such term does not includeó
+2.1.0.sec=‚Äú{Covered_entity}‚Äù means a person that {uses.or} {personal_data} in or affecting interstate commerce.  Such term does not include‚Äî
 
 2.1.1.sec=the Federal Government, the Government of any {State}, the Government of any Indian tribe, or any political subdivision, department, agency, component, entity, or instrumentality thereof;
 
@@ -110,12 +112,12 @@ Note=This implies that employee's employer is a "covered entity" - correct?
 
 2.1.3.sec=a natural person, unless acting in a non-de-minimis commercial capacity;
 
-2.1.4.0.sec=any person tható
+2.1.4.0.sec=any person that‚Äî
 
 2.1.4.1.sec={uses.or} {personal_data} of fewer than 10,000 individuals and devices during any 12-month period, or has 5 or fewer employees; and
 
 
-2.1.4.2.sec=does not knowingly {use.or} any information that is linked with {personal_data} and includes, or relates directly to, that individualís medical history; national origin; sexual orientation; gender identity; religious beliefs or affiliation; income, assets, or liabilities; precise geolocation information; unique biometric data; or Social Security number.
+2.1.4.2.sec=does not knowingly {use.or} any information that is linked with {personal_data} and includes, or relates directly to, that individual‚Äôs medical history; national origin; sexual orientation; gender identity; religious beliefs or affiliation; income, assets, or liabilities; precise geolocation information; unique biometric data; or Social Security number.
 
 Note=Different list than for uses.or
 
@@ -136,7 +138,7 @@ Note=Different list than for uses.or
 
 2.2.1.sec=To the extent that a person {uses.or} {personal_data} needed to conduct research relating directly to security threats to or vulnerabilities in devices or networks, or to address threats or vulnerabilities identified by that research, such person shall not be deemed {a_covered_entity} for purposes of sections 101, 102, 103, 104, or 106 of Title I of {this_Act}.
 
-2.2.2.0.sec=This exception shall apply only so long as such personó
+2.2.2.0.sec=This exception shall apply only so long as such person‚Äî
 
 2.2.2.1.sec=uses such {personal_data} exclusively for the activities described by subparagraph (A);
 
@@ -152,49 +154,49 @@ subparagraph (A).
 2.=[02/Bit/Sec_02]
 
 
-3.Ti=ì{Collect}î
+3.Ti=‚Äú{Collect}‚Äù
 
 3.sec=means acquire by any means, including but not limited to, direct or indirect interaction with an individual or purchase, lease, or rental.
 
-4.Ti=ìMeans to/of controlî
+4.Ti=‚ÄúMeans to/of control‚Äù
 
 4.sec=mean enabling individuals to make decisions about the processing of their {personal_data}, including but not limited to, providing mechanisms to obtain consent, withdraw consent, correct inaccurate data, permit or restrict access to data, or otherwise identify and implement the privacy preferences of individuals.
 
-5.Ti=ì{Deletion}î or ì{delete}î
+5.Ti=‚Äú{Deletion}‚Äù or ‚Äú{delete}‚Äù
 
-5.sec=means remove or destroy data (either directly or through an agent) such that there is a reasonable basis for expecting that the data could not be retrieved in the ordinary course. No requirement to {destroy.or} data under {this_Act} shall require {a_covered_entity} to {destroy.or} data that are retained for backup or archival purposes to the extent that such systems are not accessed in the ordinary course. To the extent such backup or archival systems are accessed in the ordinary course, {this_Act}ís {deletion} requirements shall apply.
+5.sec=means remove or destroy data (either directly or through an agent) such that there is a reasonable basis for expecting that the data could not be retrieved in the ordinary course. No requirement to {destroy.or} data under {this_Act} shall require {a_covered_entity} to {destroy.or} data that are retained for backup or archival purposes to the extent that such systems are not accessed in the ordinary course. To the extent such backup or archival systems are accessed in the ordinary course, {this_Act}‚Äôs {deletion} requirements shall apply.
 
-6.Ti=ì{Minor}î
+6.Ti=‚Äú{Minor}‚Äù
 
 6.sec=means an individual who is under 18 years of age.
 
-7.Ti=ì{Privacy_risk}î
+7.Ti=‚Äú{Privacy_risk}‚Äù
 
 7.sec=means the potential for {personal_data}, on its own or when linked to other information about an individual, to cause emotional distress, or physical, financial, professional or other harm to an individual.
 
-8.Ti=ì{Commission}î
+8.Ti=‚Äú{Commission}‚Äù
 
 8.sec=means the Federal Trade Commission.
 
-9.Ti=ì{State}î
+9.Ti=‚Äú{State}‚Äù
 
 9.sec=includes the several States, the District of Columbia, Federally recognized Indian tribes, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, the Virgin Islands, and any other territory or possession of the United States.
 
-10.Ti=ìCustomary business recordsî
+10.Ti=‚ÄúCustomary business records‚Äù
 
 Note=is this use of "collected" intended to be covered by the defined term?
 
 10.sec=mean data, including {personal_data}, typically collected in the ordinary course of conducting business and that is retained for generally accepted purposes for that business, including accounting, auditing, tax, fraud prevention, warranty fulfillment, billing, or other customary business purposes.
 
-11.Ti=ì{Context}î
+11.Ti=‚Äú{Context}‚Äù
 
-11.0.sec=means the circumstances surrounding {a_covered_entity}ís processing of {personal_data}, including but not limited toó
+11.0.sec=means the circumstances surrounding {a_covered_entity}‚Äôs processing of {personal_data}, including but not limited to‚Äî
 
 11.1.sec=the extent and frequency of direct interactions between individuals and {the_covered_entity}, if any;
 
 11.2.sec=the nature and history of the interactions described in paragraph (1);
 
-11.3.sec=the level of understanding that reasonable users of {the_covered_entity}ís goods or services would have of how {the_covered_entity} processes the {personal_data} that it {collects}, including through any notice provided by {the_covered_entity};
+11.3.sec=the level of understanding that reasonable users of {the_covered_entity}‚Äôs goods or services would have of how {the_covered_entity} processes the {personal_data} that it {collects}, including through any notice provided by {the_covered_entity};
 
 11.4.sec=the range of goods or services that {the_covered_entity} offers, the use of such goods or services by individuals, the benefits of such goods or services to individuals, and the brand names that {the_covered_entity} uses to offer such goods or services;
 
@@ -206,7 +208,7 @@ Note=is this use of "collected" intended to be covered by the defined term?
 
 11.8.sec=the types of {personal_data} foreseeably processed as customary business records;
 
-11.9.sec=the age and sophistication of individuals who use {the_covered_entity}ís goods or services, including whether {the_covered_entity}ís goods or services are directed toward {minors} or the elderly;
+11.9.sec=the age and sophistication of individuals who use {the_covered_entity}‚Äôs goods or services, including whether {the_covered_entity}‚Äôs goods or services are directed toward {minors} or the elderly;
 
 11.10.sec=the extent to which {personal_data} under the control of {the_covered_entity} are exposed to public view; and
 
@@ -216,15 +218,15 @@ Note=is this use of "collected" intended to be covered by the defined term?
 
 Note=Should "regarding data" be "regarding personal data"?
 
-12.Ti= ì{Process_personal_data}î or ì{personal_data_processing}î
+12.Ti= ‚Äú{Process_personal_data}‚Äù or ‚Äú{personal_data_processing}‚Äù
 
 12.sec=means taking any action regarding data that is linked to an individual or a specific device, including but not limited to {using.and} data.
 
-13.Ti=ì{Adverse_action}î
+13.Ti=‚Äú{Adverse_action}‚Äù
 
-13.sec=has the same meaning as in section 701(d) of the Fair Credit Opportunity Act of 1974 (15 U.S.C. ß 1691(d)(6)) and section 603(k)(1)(B)(i)-(iii) of the Fair Credit Reporting Act (15 U.S.C. ß 1681a(k)(1)(B)(i)-(iii)).
+13.sec=has the same meaning as in section 701(d) of the Fair Credit Opportunity Act of 1974 (15 U.S.C. ¬ß 1691(d)(6)) and section 603(k)(1)(B)(i)-(iii) of the Fair Credit Reporting Act (15 U.S.C. ¬ß 1681a(k)(1)(B)(i)-(iii)).
 
-14.Ti=ì{Enumerated_exceptions}î
+14.Ti=‚Äú{Enumerated_exceptions}‚Äù
 
 14.0.sec=means:
 
@@ -234,7 +236,7 @@ Note=Should "regarding data" be "regarding personal data"?
 
 14.3.sec=Protecting the security of devices, networks, or facilities;
 
-14.4.sec=Protecting the rights or property of {the_covered_entity} or, upon consent of the customer, {the_covered_entity}ís customer;
+14.4.sec=Protecting the rights or property of {the_covered_entity} or, upon consent of the customer, {the_covered_entity}‚Äôs customer;
 
 14.5.sec=Monitoring or enforcing agreements between {the_covered_entity} and an individual, including but not limited to, terms of service, terms of use, user agreements, or agreements concerning monitoring criminal activity;
 
