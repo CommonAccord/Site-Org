@@ -6,11 +6,11 @@ Covered_entity={P1.Handle}
 
 Covered_Entity={P1.Handle}
 
-Covered_entities=???{d-}Covered entities{-d}
+Covered_entities={P1.Handle}
 
 covered_entity={P1.Handle}
 
-covered_entities=???{d-}covered entities{-d}
+covered_entities={P1.Handle}
 
 A_covered_entity={P1.Handle}
 
