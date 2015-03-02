@@ -1,3 +1,6 @@
+This_Act=The {d-}Act{-d}
+
+this_Act=the {d-}Act{-d}
 
 Covered_entity={P1.Handle}
 

@@ -1,3 +1,7 @@
+Org.Name.Full={d-}Public Privacy Partners, Ltd.{-d}
+
+Org.Handle={d-}PPPL{-d}
+
 Heading.Sec={P1.Name.Full} Privacy Policy
 
 Ti=Privacy Policy
@@ -35,3 +39,6 @@ Secs={4.Sec}<li>{Title.1.1.Sec}<li>{Title.1.2.Sec}<li>{Title.1.3.Sec}<li>{Title.
 Act.=[OMB/CPBR_Act_Of_2015.md]
 
 Charter={d-}Charter{-d}
+
+PageName= OMB-Charter/CPBR_Privacy_Charter_Form.01.md
+ &#8195;
