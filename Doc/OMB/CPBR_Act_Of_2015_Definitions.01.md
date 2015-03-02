@@ -134,7 +134,7 @@ Note=Different list than for uses.or
 
 2.2.Ti=Exception
 
-2.2.1.sec=To the extent that a person {uses.or} {personal_data} needed to conduct research relating directly to security threats to or vulnerabilities in devices or networks, or to address threats or vulnerabilities identified by that research, such person shall not be deemed {a_covered_entity} for purposes of sections 101, 102, 103, 104, or 106 of Title I of this Act.
+2.2.1.sec=To the extent that a person {uses.or} {personal_data} needed to conduct research relating directly to security threats to or vulnerabilities in devices or networks, or to address threats or vulnerabilities identified by that research, such person shall not be deemed {a_covered_entity} for purposes of sections 101, 102, 103, 104, or 106 of Title I of {this_Act}.
 
 2.2.2.0.sec=This exception shall apply only so long as such person—
 
@@ -162,7 +162,7 @@ subparagraph (A).
 
 5.Ti=“{Deletion}” or “{delete}”
 
-5.sec=means remove or destroy data (either directly or through an agent) such that there is a reasonable basis for expecting that the data could not be retrieved in the ordinary course. No requirement to {destroy.or} data under this Act shall require {a_covered_entity} to {destroy.or} data that are retained for backup or archival purposes to the extent that such systems are not accessed in the ordinary course. To the extent such backup or archival systems are accessed in the ordinary course, this Act’s {deletion} requirements shall apply.
+5.sec=means remove or destroy data (either directly or through an agent) such that there is a reasonable basis for expecting that the data could not be retrieved in the ordinary course. No requirement to {destroy.or} data under {this_Act} shall require {a_covered_entity} to {destroy.or} data that are retained for backup or archival purposes to the extent that such systems are not accessed in the ordinary course. To the extent such backup or archival systems are accessed in the ordinary course, {this_Act}’s {deletion} requirements shall apply.
 
 6.Ti=“{Minor}”
 

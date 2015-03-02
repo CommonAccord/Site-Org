@@ -4,7 +4,7 @@ d-=<a href="https://github.com/CommonAccord/Org/blob/master/Doc/{PageName}"><fon
 
 -d=</font></a>
 
-Act={-d}Act{-d}
+Act={d-}Act{-d}
 
 This_Act=This {Act}
 
@@ -12,7 +12,7 @@ this_Act=this {Act}
 
 Note="the Act" seems an inconsistency rather than a distinction. 
 
-the_Act=The {Act}
+the_Act=the {Act}
 
 Adverse_action={d-}Adverse action{-d}
 
