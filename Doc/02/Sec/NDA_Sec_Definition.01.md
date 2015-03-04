@@ -1,18 +1,18 @@
 Ti=Definition
 
-0.Sec={Mutual.Def.Sec}
+0.sec={Mutual.0.sec}
 
-Mutual.Def.Sec={Def.Disclosed.Cl} {Mutual.Def.By.cl} {Def.Including.cl}:
+Mutual.0.sec={0.Disclosed.Cl} {Mutual.0.By.cl} {0.Including.cl}:
 
-OneWay.Def.Sec={Def.Disclosed.Cl} {OneWay.Def.By.cl} {Def.Including.cl}:
+OneWay.0.sec={0.Disclosed.Cl} {OneWay.0.By.cl} {0.Including.cl}:
 
-Def.Disclosed.Cl=As used herein, the “{Confidential_Information}” shall mean any and all technical and non-technical information disclosed 
+0.Disclosed.Cl=As used herein, the “{Confidential_Information}” shall mean any and all technical and non-technical information disclosed 
 
-Mutual.Def.By.cl=by a {Party} (the “{Disclosing_Party}”) to the other {Party} (the “{Receiving_Party}”)
+Mutual.0.By.cl=by a {Party} (the “{Disclosing_Party}”) to the other {Party} (the “{Receiving_Party}”)
 
-OneWay.Def.By.cl=by {P1.the} (also referred to as the “{Disclosing_Party}”) to {P2.the} (also referred to as the “{Receiving_Party}”)
+OneWay.0.By.cl=by {P1.the} (also referred to as the “{Disclosing_Party}”) to {P2.the} (also referred to as the “{Receiving_Party}”)
 
-Def.Including.cl=including without limitation information regarding
+0.Including.cl=including without limitation information regarding
 
 1.sec=patent and patent applications
 
