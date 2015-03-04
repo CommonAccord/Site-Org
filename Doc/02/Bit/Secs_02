@@ -6,3 +6,4 @@ secs;and={1.sec}; and<li>{2.sec}.
 
 secs;or={1.sec}; or<li>{2.sec}.
 
+sens={1.sec}  {2.sec}

@@ -23,7 +23,7 @@ Ti=AMENDED AND RESTATED RIGHT OF FIRST REFUSAL AND CO-SALE AGREEMENT
 0.2B.Sec={0.2B.1.Sec}<br>{0.2B.2.Sec}
 
 
-0.2B.1.Sec=WHEREAS, the Company, the Key Holders and certain of the Investors (the “Prior Investors”) previously entered into [a][an] [Amended and Restated] Right of First Refusal and Co-Sale Agreement, dated [_____ __, 20___] (the “Prior Agreement”), in connection with the purchase of shares of Series [__] Preferred Stock of the Company, par value $__ per share (“Series [__] Preferred Stock”);
+0.2B.1.Sec=WHEREAS, the Company, the Key Holders and certain of the Investors (the “Prior Investors”) previously entered into [a][an] [Amended and Restated] Right of First Refusal and Co-Sale Agreement, dated {Prior.ROFR.Agt.YMD} (the “Prior Agreement”), in connection with the purchase of shares of Series {Prior.Cap.Preferred.Series} Preferred Stock of the Company, par value {Prior.Cap.Preferred.Par.$} per share (“Series {Prior.Cap.Preferred.Series} Preferred Stock”);
 
 0.2B.2.Sec=WHEREAS, the Key Holders, the Prior Investors and the Company desire to induce certain of the Investors to purchase shares of Series [__] Preferred Stock of the Company, par value $___ per share (“Series [___] Preferred Stock”), pursuant to the Series [__] Preferred Stock Purchase Agreement dated as of the date hereof by and among the Company and certain of the Investors (the “Purchase Agreement”) by amending and restating the Prior Agreement to provide the Investors with the rights and privileges as set forth herein.]
 
