@@ -8,7 +8,7 @@ P2.=[core/id/solomon_shirley]
 
 =[04/Form/Consult_Form.04.md]
 
-Agree.Whereas.sec={null}
+Agree.Whereas.secs={null}
 
 Agt.Effective.YMD=March 1, 2015
 

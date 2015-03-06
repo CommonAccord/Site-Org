@@ -78,6 +78,6 @@ Agree.sec={Agree.This.sec} {Agree.Whereas.ul}{Agree.AsFollows.sec}
 
 Agree.This.sec=This {Ti} (the “{Agreement}”) is made as of the {Effective_Date} by and between the {parties}.
 
-Agree.Whereas.ul=<ul type="none"><li>{Agree.Whereas.sec}</ul>
+Agree.Whereas.ul=<ul type="none"><li>{Agree.Whereas.secs}</ul>
 
 Agree.AsFollows.sec=In consideration of the mutual promises contained in {this_Agreement} and other good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the {parties} agree as follows:

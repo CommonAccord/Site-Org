@@ -16,7 +16,7 @@ P2.Handle=Shirley
 
 =[04/Form/NDA_Form.04.md]
 
-Agree.Whereas.sec={m-}Acme and Quake wish to discuss the development of a joint product for water purification.{-m}
+Agree.Whereas.secs={m-}Acme and Quake wish to discuss the development of a joint product for water purification.{-m}
 
 Agt.Effective.YMD=March 1, 2015
 
