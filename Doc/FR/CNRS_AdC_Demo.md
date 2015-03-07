@@ -6,11 +6,15 @@ P2.=[FR/FR_Prepositions_Voyelle.md]
 
 P1.Sign.=[core/id/andrea_ang]
 
-P1.Sign.Title=Directeur de recherche
+P1.Sign.Titre.son/sa=sa {P1.Sign.Titre}
+
+P1.Sign.Titre=Directeur de recherche
 
 P2.Sign.=[core/id/abigail_altima]
 
-P2.Sign.Title=Présidente
+P2.Sign.Titre.son/sa=sa {P2.Sign.Titre}
+
+P2.Sign.Titre=Présidente
   
 P1.=[core/id/acme_incorporated]
 
