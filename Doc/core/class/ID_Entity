@@ -4,6 +4,8 @@ entity=legal person
 
 entity.a=a {entity}
 
+entité.un/une=un « {entity} »
+
 Addr.Type=business
 
 Model.Root={Addr.Table}<br>{Pronoun.List}
