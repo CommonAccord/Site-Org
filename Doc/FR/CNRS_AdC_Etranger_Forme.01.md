@@ -6,7 +6,7 @@ Ti=Accord de Confidentialité - Unilateral Etranger
 
 Intro.Agree.Whereas.secs={Motivation.1.sec}<li>{Motivation.2.sec}<li>{Motivation.3.sec}
 
-Motivation.1.sec=Considérant que {P1.le/la} mène des travaux de recherche concernant {Recherche.Sujet.cl} et que {P2.le/la}, spécialisée dans le domaine {P1.Compétence.Domaine.du/de_la}, est intéressée par cette technologie
+Motivation.1.sec=Considérant que {P1.le/la} mène des travaux de recherche concernant {Recherche.Sujet.cl} et que {P2.le/la}, spécialisé{P2./e} dans le domaine {P1.Compétence.Domaine.du/de_la}, est intéressé{P2./e} par cette technologie
 
 Motivation.2.sec=Considérant que {P1.le/la} possède des compétences et un savoir-faire dans le domaine {P1.Compétence.Domaine.du/de_la} et que {P2.le/la} souhaite évaluer l’intérêt que présente pour {P2.lui/elle} ce savoir-faire
 
@@ -23,7 +23,7 @@ Intro.Agree.AsFollows.sec=Dans ce cadre, {P1.le/la} souhaite protéger les {Infor
 
 1.2.Ti={Informations_Confidentielles}
 
-1.2.sec=cette expression désigne les informations de toute nature, communiquées par tous moyens pendant la durée de l’Accord par {P1.le/la} {P2.au/à_la}.
+1.2.sec=cette expression désigne les informations de toute nature, communiquées par tous moyens pendant la durée de l’{Accord} par {P1.le/la} {P2.au/à_la}.
 
 1.=[02/Bit/Sec_02]
 
@@ -34,11 +34,11 @@ Intro.Agree.AsFollows.sec=Dans ce cadre, {P1.le/la} souhaite protéger les {Infor
 
 3.Ti=Obligations des {Parties}
 
-3.0.sec={P2.Le/La} s'engage expressément, pendant un délai de {Conf.Engage.Période} à compter de la date de leur communication, à ce que ces informations&nbsp;:
+3.0.sec={P2.Le/La} s'engage expressément, pendant un délai {Conf.Engage.Période.de} à compter de la date de leur communication, à ce que ces information :
 
-3.1.sec=soient gardées strictement confidentielles et soient traitées avec le même degré de protection que {P2.le/la} accorde à ses propres {Informations_Confidentielles}&nbsp;;
+3.1.sec=soient gardées strictement confidentielles et soient traitées avec le même degré de protection que {P2.le/la} accorde à ses propres {Informations_Confidentielles} ;
 
-3.2.sec=ne soient communiquées qu'aux seuls membres de son personnel ayant à les connaître&nbsp;;&nbsp;et
+3.2.sec=ne soient communiquées qu'aux seuls membres de son personnel ayant à les connaître ; et
 
 3.3.sec=ne soient utilisées que pour les finalités définies dans le préambule de l’{Accord}.
 
@@ -53,13 +53,13 @@ Intro.Agree.AsFollows.sec=Dans ce cadre, {P1.le/la} souhaite protéger les {Infor
 
 4.Ti=Exceptions
 
-4.0.sec=Nonobstant les dispositions de l’article 3, {P2.le/la} peut communiquer les {Informations_Confidentielles} dont {P1.lui/elle} peut apporter la preuve&nbsp;:
+4.0.sec=Nonobstant les dispositions de l’article 3, {P2.le/la} peut communiquer les {Informations_Confidentielles} dont {P1.lui/elle} peut apporter la preuve :
 
-4.1.sec=qu’elles étaient disponibles publiquement préalablement à leur communication ou postérieurement à celle-ci, mais en l’absence de toute faute qui soit imputable {P2.au/à_la}&nbsp;;
+4.1.sec=qu’elles étaient disponibles publiquement préalablement à leur communication ou postérieurement à celle-ci, mais en l’absence de toute faute qui soit imputable {P2.au/à_la} ;
 
-4.2.sec=qu’elles ont été reçues d’un tiers de manière licite&nbsp;;
+4.2.sec=qu’elles ont été reçues d’un tiers de manière licite ;
 
-4.3.sec=qu’elles étaient déjà en sa possession avant la conclusion de l'{Accord}&nbsp;;
+4.3.sec=qu’elles étaient déjà en sa possession avant la conclusion de l'{Accord} ;
 
 4.4.sec=qu’elles ont été développées de manière indépendante et de bonne foi par des membres de son personnel n’ayant pas eu accès à ces {Informations_Confidentielles}.
 
@@ -68,11 +68,11 @@ Intro.Agree.AsFollows.sec=Dans ce cadre, {P1.le/la} souhaite protéger les {Infor
 
 5.Ti=Limites de l’{Accord}
 
-5.0.sec=Aucune disposition de cet {Accord} n’implique&nbsp;:
+5.0.sec=Aucune disposition de cet {Accord} n’implique :
 
-5.1.sec=une obligation pour les {Parties} de se lier contractuellement dans l'avenir&nbsp;;
+5.1.sec=une obligation pour les {Parties} de se lier contractuellement dans l'avenir ;
 
-5.2.sec=une renonciation, pour {P1.le/la}, à la protection d‘{Informations_Confidentielles} par un brevet ou par tout autre droit de propriété intellectuelle&nbsp;;
+5.2.sec=une renonciation, pour {P1.le/la}, à la protection d‘{Informations_Confidentielles} par un brevet ou par tout autre droit de propriété intellectuelle ;
 
 5.3.sec=une cession, par {P1.le/la}, d’un quelconque droit sur ces informations au profit {P2.du/de_la}. Le droit de propriété des {Informations_Confidentielles} appartient en tout état de cause {P1.au/à_la} (sous réserve des droits des tiers).
 
@@ -80,7 +80,7 @@ Intro.Agree.AsFollows.sec=Dans ce cadre, {P1.le/la} souhaite protéger les {Infor
 
 6.Ti=Transmission des {Informations_Confidentielles}
 
-6.0.sec=La transmission des {Informations_Confidentielles} obéit à la procédure suivante&nbsp;:
+6.0.sec=La transmission des {Informations_Confidentielles} obéit à la procédure suivante :
 
 6.1.sec={6.1.1.Cl} {6.1.2.cl}
 
@@ -102,7 +102,7 @@ Note=Des alternatives sont prevues.
 
 7.sec={A.7.sec}
 
-A.7.sec=Les {Informations_Confidentielles}, ainsi que leurs reproductions éventuelles, sont détruites / restituées {P1.au/à_la} sur sa simple demande écrite et en tout état de cause dans les {Conf.Detruite.Jours} suivant l’expiration ou la résiliation de l'{Accord}.  {P2.Le/La} s’engage à fournir un certificat de destruction.
+A.7.sec=Les {Informations_Confidentielles}, ainsi que leurs reproductions éventuelles, sont détruites / restituées {P1.au/à_la} sur sa simple demande écrite et en tout état de cause dans {Conf.Detruite.Jours.les} suivant l’expiration ou la résiliation de l'{Accord}.  {P2.Le/La} s’engage à fournir un certificat de destruction.
 
 8.Ti=Secret de l’{Accord}
 
@@ -114,11 +114,11 @@ A.7.sec=Les {Informations_Confidentielles}, ainsi que leurs reproductions éventu
 
 10.Ti=Résiliation de l’{Accord}
 
-10.sec=L’{Accord} peut être résilié par l’une ou l’autre des {Parties}, par lettre recommandée avec accusé de réception, à tout moment et de plein droit, avec un préavis de {Fin.Préavis.Jours}.
+10.sec=L’{Accord} peut être résilié par l’une ou l’autre des {Parties}, par lettre recommandée avec accusé de réception, à tout moment et de plein droit, avec un préavis {Fin.Préavis.Jours.de}.
 
 11.Ti=Durée de l’Accord  
 
-11.1.sec=L’{Accord} entre en vigueur à compter de la date de sa signature par les {Parties}. Il est conclu pour une durée de {Accord.Durée}. 
+11.1.sec=L’{Accord} entre en vigueur à compter de la date de sa signature par les {Parties}. Il est conclu pour une durée {Accord.Durée.de}.
 
 11.2.sec=Nonobstant l’expiration ou la résiliation dans les conditions prévues à l’article 10 de l’{Accord}, les {Parties} demeurent liées par les engagements souscrits à l’article 3 pendant toute la durée prévue audit article, ainsi que par les articles 7, 8 et 14 de l’{Accord}.
 

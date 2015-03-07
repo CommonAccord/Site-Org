@@ -8,4 +8,6 @@ au/à_la=au {Handle}
 
 lui/elle=lui
 
+/e={null}
+
 =[FR/FR_Autres_Elements.md]

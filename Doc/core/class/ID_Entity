@@ -6,6 +6,8 @@ entity.a=a {entity}
 
 entité.un/une=un « {entity} »
 
+Entité./e={null}
+
 Addr.Type=business
 
 Model.Root={Addr.Table}<br>{Pronoun.List}

@@ -4,6 +4,8 @@ P1.=[FR/FR_Prepositions_Masculines.md]
 
 P2.=[FR/FR_Prepositions_Voyelle.md]
 
+P2.=[FR/FR_Prepositions_Feminines.md]
+
 P1.Sign.=[core/id/andrea_ang]
 
 P1.Sign.Titre.son/sa=sa {P1.Sign.Titre}
@@ -36,20 +38,22 @@ P1.Compétence.Domaine.du/de_la=de l'ingénierie aéronautique
 
 P2.Rep1.Nom.M/Mme=M. Samuel Salmon
 
-Conf.Engage.Période=trois ans
-
 P2.Reps.Nommés=M.Samuel Salmon et Mme. Abigail Altima
 
 6.1.2.cl=par la {P1.Sign.Titre} {P1.du/de_la}
 
 6.3.sec=Les procédés de transmission sont par e-mail avec message de confirmation de reception.
 
-Conf.Detruite.Jours=10 jours
+Conf.Engage.Période.de=de trois ans
 
-Fin.Préavis.Jours=30 jours
+Conf.Detruite.Jours.les=les dix jours
 
-Accord.Durée=un an
+Fin.Préavis.Jours.de=de trente jours
+
+Accord.Durée.de=d'un an
 
 PageBreak={null}
 
 Attach.Block={null}
+
+PageName=FR/CNRS_AdC_Demo.md
