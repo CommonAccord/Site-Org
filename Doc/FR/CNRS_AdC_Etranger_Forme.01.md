@@ -2,6 +2,8 @@ Note=https://www.dgdr.cnrs.fr/daj/modele/contrat/doc/MODELE2_AC_UNILATERAL_ETRAN
 
 =[FR/Accord.FR.01.md]
 
+Ti=Accord de Confidentialité - Unilateral - Etranger
+
 Intro.Agree.Whereas.secs={Motivation.1.sec}<li>{Motivation.2.sec}<li>{Motivation.3.sec}
 
 Motivation.1.sec=Considérant que {P1.le/la} mène des travaux de recherche concernant {Recherche.Sujet.cl} et que {P2.le/la}, spécialisée dans le domaine {P1.Compétence.Domaine.du/de_la}, est intéressée par cette technologie
