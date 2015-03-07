@@ -1,14 +1,14 @@
-Intro.P1.sec={P1.N,E,A}, représenté par {P1.Sign.Titre.son/sa}, {P1.Sign.Name.Full}, ( « {P1.le/la} » )
+Intro.P1.sec={P1.N,E,A}, représenté{P1.Entité./e} par {P1.Sign.Titre.son/sa}, {P1.Sign.Name.Full}, ( « {P1.le/la} » )
 
-Intro.P2.sec={P2.N,E,A}, représenté par {P2.Sign.Titre.son/sa}, {P2.Sign.Name.Full}, ( « {P2.le/la} » )
+Intro.P2.sec={P2.N,E,A}, représenté{P2.Entité./e} par {P2.Sign.Titre.son/sa}, {P2.Sign.Name.Full}, ( « {P2.le/la} » )
 
-Intro.P3.sec={P3.N,E,A}, représenté par {P3.Sign.Titre.son/sa}, {P3.Sign.Name.Full}, ( « {P3.le/la} » )
+Intro.P3.sec={P3.N,E,A}, représenté{P3.Entité./e} par {P3.Sign.Titre.son/sa}, {P3.Sign.Name.Full}, ( « {P3.le/la} » )
 
-Intro.P4.sec={P4.N,E,A}, représenté par {P4.Sign.Titre.son/sa}, {P4.Sign.Name.Full}, ( « {P4.le/la} » )
+Intro.P4.sec={P4.N,E,A}, représenté{P4.Entité./e} par {P4.Sign.Titre.son/sa}, {P4.Sign.Name.Full}, ( « {P4.le/la} » )
 
-Intro.P5.sec={P5.N,E,A}, représenté par {P5.Sign.Titre.son/sa}, {P5.Sign.Name.Full}, ( « {P5.le/la} » )
+Intro.P5.sec={P5.N,E,A}, représenté{P5.Entité./e} par {P5.Sign.Titre.son/sa}, {P5.Sign.Name.Full}, ( « {P5.le/la} » )
 
-Intro.P6.sec={P6.N,E,A}, représenté par {P6.Sign.Titre.son/sa}, {P6.Sign.Name.Full}, ( « {P6.le/la} » )
+Intro.P6.sec={P6.N,E,A}, représenté{P6.Entité./e} par {P6.Sign.Titre.son/sa}, {P6.Sign.Name.Full}, ( « {P6.le/la} » )
 
 Intro.Parties.Ti=Entre les {parties} :
 
@@ -24,7 +24,7 @@ Intro.Friends.xlist=<ul type="none"><li>{Intro.Friends.List}<li>Dénommés individ
 
 Intro.Friends.Ti=Des tierces mentionnés dans cette {Accord}:
 
-Intro.YMD.sec=DATE EFFECTIVE: {Accord.Sign.Date} (la « {Date_Effective} »)
+Intro.YMD.sec=DATE EFFECTIVE: {Accord.Sign.Date} (la « {Date_Effective} » )
 
 Intro.Agree.This.sec={null}
 
