@@ -6,6 +6,6 @@ du/de_la=de la {Handle}
 
 au/à_la=à la {Handle}
 
-lui/elle=elle {Handle}
+lui/elle=elle
 
 =[FR/FR_Autres_Elements.md]
