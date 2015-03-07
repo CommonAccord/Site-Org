@@ -1,16 +1,16 @@
 Note=https://www.dgdr.cnrs.fr/daj/modele/contrat/doc/MODELE2_AC_UNILATERAL_ETRANGER.pdf
 
-=[FR/Accord.FR.01.md]
+Ti=Accord de Confidentialité - Unilateral Etranger
 
-Ti=Accord de Confidentialité - Unilateral - Etranger
+=[FR/Accord.FR.01.md]
 
 Intro.Agree.Whereas.secs={Motivation.1.sec}<li>{Motivation.2.sec}<li>{Motivation.3.sec}
 
 Motivation.1.sec=Considérant que {P1.le/la} mène des travaux de recherche concernant {Recherche.Sujet.cl} et que {P2.le/la}, spécialisée dans le domaine {P1.Compétence.Domaine.du/de_la}, est intéressée par cette technologie
 
-Motivation.2.sec=Considérant que {P1.le/la} possède des compétences et un savoir-faire dans le domaine {P1.Compétence.Domaine.du/de_la} et que {P2.le/la} souhaite évaluer l’intérêt que présente pour elle ce savoir-faire
+Motivation.2.sec=Considérant que {P1.le/la} possède des compétences et un savoir-faire dans le domaine {P1.Compétence.Domaine.du/de_la} et que {P2.le/la} souhaite évaluer l’intérêt que présente pour {P2.lui/elle} ce savoir-faire
 
-Motivation.3.sec=Considérant que {P1.le/la} possède des compétences dans le domaine {P1.Compétence.Domaine.du/de_la} et que {P2.Rep1.Name.Full} {P2.du/de_la} souhaite visiter telle partie {P1.du/de_la} afin d’évaluer l’intérêt que présente pour la société le savoir-faire {P2.du/de_la} sur tels équipements
+Motivation.3.sec=Considérant que {P1.le/la} possède des compétences dans le domaine {P1.Compétence.Domaine.du/de_la} et que {P2.Rep1.Nom.M/Mme} {P2.du/de_la} souhaite visiter telle partie {P1.du/de_la} afin d’évaluer l’intérêt que présente pour {P2.le/la} le savoir-faire {P1.du/de_la} sur tels équipements
 
 Intro.Agree.AsFollows.sec=Dans ce cadre, {P1.le/la} souhaite protéger les {Informations_Confidentielles} dont la communication {P2.au/à_la} serait nécessaire.
 
@@ -113,7 +113,7 @@ A.7.sec=Les {Informations_Confidentielles}, ainsi que leurs reproductions éventu
 
 10.Ti=Résiliation de l’{Accord}
 
-10.sec=L’{Accord} peut être résilié par l’une ou l’autre des {Parties}, par lettre recommandée avec accusé de réception, à tout moment et de plein droit, avec un préavis de {Fin.Préavis.Jours} jours.
+10.sec=L’{Accord} peut être résilié par l’une ou l’autre des {Parties}, par lettre recommandée avec accusé de réception, à tout moment et de plein droit, avec un préavis de {Fin.Préavis.Jours}.
 
 11.Ti=Durée de l’Accord  
 
@@ -141,4 +141,5 @@ A.7.sec=Les {Informations_Confidentielles}, ainsi que leurs reproductions éventu
 
 Informations_Confidentielles={d-}Informations Confidentielles{-d}
 
-PageName=FR/CNRS_AdC_Etranger_Forme.01.md &#8195;
+PageName=FR/CNRS_AdC_Etranger_Forme.01.md
+ &#8195;
