@@ -42,7 +42,7 @@ Intro.Agree.AsFollows.sec=Dans ce cadre, {P1.le/la} souhaite protéger les {Infor
 
 3.90.sec={3.90.1.Sen} {3.90.2.Sen}
 
-3.90.1.Sen=Toute autre communication ou utilisation des {Informations_Confidentielles} implique le consentement préalable et écrit du {P1.du/de_la}.
+3.90.1.Sen=Toute autre communication ou utilisation des {Informations_Confidentielles} implique le consentement préalable et écrit {P1.du/de_la}.
 
 3.90.2.Sen={P2.Le/La} s’engage à ce que son personnel visé au 3.b) ci-dessus respecte les dispositions de l’{Accord}.
 

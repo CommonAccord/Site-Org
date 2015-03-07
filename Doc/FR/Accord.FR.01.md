@@ -30,7 +30,7 @@ Intro.Agree.This.sec={null}
 
 Intro.Agree.AsFollows.sec=Les {Parties} conviennent :
 
-End.Witness.sec=Fait à {Agt.Sign.Lieu}, le {Agt.Sign.Lieu},
+End.Witness.sec=Fait à {Accord.Sign.Lieu}, le {Accord.Sign.Date},
 
 Partie={d-}Partie{-d}
 
