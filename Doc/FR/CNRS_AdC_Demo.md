@@ -40,6 +40,10 @@ Conf.Engage.Période=trois ans
 
 P2.Reps.Nommés=M.Samuel Salmon et Mme. Abigail Altima
 
+6.1.2.cl=par la {P1.Sign.Titre} {P1.du/de_la}
+
+6.3.sec=Les procédés de transmission sont par e-mail avec message de confirmation de reception.
+
 Conf.Detruite.Jours=10 jours
 
 Fin.Préavis.Jours=30 jours

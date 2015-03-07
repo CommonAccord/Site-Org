@@ -129,12 +129,15 @@ A.7.sec=Les {Informations_Confidentielles}, ainsi que leurs reproductions éventu
 
 13.Ti=Loi applicable
 
-13.sec=L’{Accord} est soumis aux lois et règlements français.
+13.sec=L’{Accord} est soumis aux lois et règlements {Loi.Etat}.
+
+Loi.Etat=français
 
 14.Ti= Juridictions compétentes
 
-14.sec=Tous différends que les {Parties} ne peuvent résoudre à l'amiable, sont portés devant les tribunaux français compétents. 
+14.sec=Tous différends que les {Parties} ne peuvent résoudre à l'amiable, sont portés devant {Tribunaux.les}.
 
+Tribunaux.les=les tribunaux français compétents
 
 =[02/Bit/Sec_14]
 
