@@ -16,33 +16,25 @@ include("header.php");
 <hr>
 <h1 class="title">Center for Decentralized Law</h1>
 <hr>
-  <h3 class="title">Legal relationships can be improved by efficient access to precedents.<br>Lawyers can improve precedents incrementally, like software.<br>We are lawyers and programmers working together to build a global system of precedents.</h4>
+  <h3 class="title">Building an open source legal operating system</h4>
 <br/><br/>
 
-<!--
-                        <div id="code" class="jtitle">
-                         We are <b>{</b>Bringing<b>}</b> legal relationships into the personal data store.<br/>
-                        <b>Bringing</b> = Codifying legal documents to bring
-                        </div>
-!-->
 </div></div>
-<div class="row">
-<div class="col-sm-4"></div>
-<div class="col-sm-4" id="code" align="center">
+<table><tr><td valign=top>
+
 <a href="<?=$_SERVER['PHP_SELF']?>?action=demo"><img  src="assets/learn.jpg"></a>
-</div>
+</td><td valign=top>        <h4 class="subtitle"><a href="https://docs.google.com/presentation/d/1goOc9sv1XXI-uuxRK0W406XCKahVkJP41WmO2pAiu2s/edit?usp=sharing">Center for Decentralized Law</a>.</h4>
 
-    <div class="col-sm-4" id="info-more">
-        <h4 class="subtitle"><a href="https://docs.google.com/presentation/d/1goOc9sv1XXI-uuxRK0W406XCKahVkJP41WmO2pAiu2s/edit?usp=sharing">Pitch for a Center for Decentralized Law</a>.</h4>
-
-        <h4 class="subtitle"><a href="https://www.linkedin.com/pulse/law-code-marc-dangeard">Review of Use at Be-Bound</a>.</h4>
+        <h4 class="subtitle"><a href="https://www.linkedin.com/pulse/law-code-marc-dangeard">Use experience at Be-Bound</a>.</h4>
 
         <h4 class="subtitle"><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=/about/how/>how it works</a>.</h4>
         <h4 class="subtitle"><a href=<?=$_SERVER['PHP_SELF']?>?action=explore>the template system.</a></h4>
-        <h4 class="subtitle"><a href="https://github.com/CommonAccord/commonaccord/tree/master/Doc">The Github repo</a>.</h4>
-
-                        <br/><a href="#more"><img src="assets/more.png" height=75></a>
-
+        
+  </td><td valign=top> &emsp; 
+</td><td valign=top align=right width=40%>
+<a class="twitter-timeline" href="https://twitter.com/CommonAccord" data-widget-id="574817616360964096">Tweets by @CommonAccord</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</td></tr></table>
 </div>
 </div>
 
