@@ -25,7 +25,7 @@ Ti=Centralization, Smarts and the "Existential" Problem
 
 12.sec=An alternative path is to build on rather than replace the decentralized method of agreement.  To make it efficient, reduce its friction, complexity, and opacity.  That, we think, will be one of the effects of open-<b>sourcing</b> legal documents.  Like AI, this approach is profoundly disruptive for the those who have mastered the word processing ecosystem, but it is hoped that it can allow more focus on the substance of law and social organization.
 
-13.sec=To do this, we need to keep the IT as simple as possible, open source it, teach it, push control close to the affected persons.  Lego, all the way down, or as far down as we can get it.
+13.sec=To do this, we need to keep the IT as simple as possible, open source it, teach it, push control close to the affected persons.  Lego, all the way down, or as far down as we can get it.  This is compatible with certain trends in IT, including personal control over personal data and decentralized databases. 
 
 
 
