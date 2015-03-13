@@ -22,9 +22,9 @@ td-=<td>
 
 -tr-={-tr}{tr-}
 
-m-=<span style="color:{mcolor}">
+m-=<a href="https://github.com/CommonAccord/Org/tree/master/Doc/{PageName}" style="color:{mcolor}">
 
--m=</span>
+-m=</a>
 
 spanUC-=<span style="text-transform: uppercase">
 
@@ -35,7 +35,7 @@ _=&#8194;
 
 brr=<br><br>
 
-mcolor=red
+mcolor=green
 
 ol-=<ol><li>
 -ol=</li></ol>
@@ -50,4 +50,3 @@ st-=<b>
 -stb=</b><br>
 
 br=<br>
-	  
