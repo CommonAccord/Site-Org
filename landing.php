@@ -9,12 +9,10 @@ include("header.php");
   <div class="container" id ="containerHome" style="padding:50px">
     <div class="row">
      <div class = "col-xs-12">
-
-    
-	 <p align="center"><img src="assets/cmacc-trans.png" style="width:65%" /></p>
+     <p align="center"><img src="assets/cmacc-trans.png" style="width:65%" /></p>
 <br/>
 <hr>
-<h1 class="title">Center for Decentralized Law</h1>
+<h1 class="title">Decentralized Law</h1>
 <hr>
   <h3 class="title">Building an open source legal operating system</h4>
 <br/><br/>
@@ -28,7 +26,7 @@ include("header.php");
         <h4 class="subtitle"><a href="https://www.linkedin.com/pulse/law-code-marc-dangeard">Experience at Be-Bound</a>.</h4>
 
         <h4 class="subtitle"><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=/about/how/>how it works</a>.</h4>
-        <h4 class="subtitle"><a href=<?=$_SERVER['PHP_SELF']?>?action=explore>the template system.</a></h4>
+        <h4 class="subtitle"><a href="http://news.slashdot.org/story/13/07/25/1814255/attorney-jim-hazard-is-working-to-open-source-law-video">The Slashdot interview.</a></h4>
         
   </td><td valign=top> &emsp; 
 </td><td valign=top align=right width=40%>
