@@ -10,7 +10,7 @@ P2.Handle=Shirley
 
 /Note=Massachusetts overrides:
 
-=[04/Juris/Juris_US_CA_NDA.01.md]
+=[04/Juris/Juris_US_MA_NDA.01.md]
 
 /Note=Form of NDA:
 
