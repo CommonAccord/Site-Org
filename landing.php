@@ -25,12 +25,12 @@ include("header.php");
 
         <h4 class="subtitle"><a href="https://www.linkedin.com/pulse/law-code-marc-dangeard">Experience at Be-Bound</a>.</h4>
 
-        <h4 class="subtitle"><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=/about/how/>how it works</a>.</h4>
+        <h4 class="subtitle"><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=/about/Agt/>how it works</a>.</h4>
         <h4 class="subtitle"><a href="http://news.slashdot.org/story/13/07/25/1814255/attorney-jim-hazard-is-working-to-open-source-law-video">The Slashdot interview.</a></h4>
         
   </td><td valign=top> &emsp; 
 </td><td valign=top align=right width=40%>
-<a class="twitter-timeline" href="https://twitter.com/CommonAccord" data-widget-id="574817616360964096">Tweets by @CommonAccord</a>
+<a class="twitter-timeline" href="https://twitter.com/CommonAccord/with_replies" data-widget-id="574817616360964096">Tweets by @CommonAccord</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 </td></tr></table>
 </div>
