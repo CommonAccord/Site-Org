@@ -1,6 +1,6 @@
 Ti=License
 
-0.sec=NOTICE: ALL RIGHTS IN LICENSED PATENTS (as defined below) PROVIDED UNDER THIS DEFENSIVE PATENT LICENSE (“{DPL}”) ARE SUBJECT TO ALL OF THE CONDITIONS AND LIMITATIONS SET FORTH BELOW. MAKING, USING, SELLING, OFFERING FOR SALE, IMPORTING, OR DISTRIBUTING PRODUCTS OR SERVICES EMBODYING THE LICENSED PATENTS, OTHER THAN AS EXPLICITLY AUTHORIZED UNDER THIS LICENSE OR PATENT LAW, IS PROHIBITED.
+0.sec=<span style="text-transform: uppercase">Notice: All rights in {Licensed_Patents} (as defined below) provided under this Defensive Patent License (“{DPL}”) are subject to all of the conditions and limitations set forth below. Making, using, selling, offering for sale, importing, or distributing products or services embodying the {Licensed_Patents}, other than as explicitly authorized under this {License} or patent law, is prohibited.</span>
 
 1.Ti=License Grant
 
@@ -68,12 +68,12 @@ Ti=License
 
 5.Ti=Disclaimer of Warranties
 
-5.sec=<span style="text-transform=uppercase">Unless otherwise mutually agreed to by the parties in writing, {Licensor} offers the {Patent_License} granted herein “as is” and makes no representations or warranties of any kind concerning the {Licensed_Patents} or any product embodying any {Licensed_Patent}, express or implied, statutory or otherwise, including, without limitation, warranties of title, merchantability, fitness for a particular purpose, noninfringement, or the presence or absence of errors, regardless of their discoverability. Some jurisdictions do not allow the exclusion of implied warranties, in which case such exclusion may not apply to licensee.</span>
+5.sec=<span style="text-transform: uppercase">Unless otherwise mutually agreed to by the parties in writing, {Licensor} offers the {Patent_License} granted herein “as is” and makes no representations or warranties of any kind concerning the {Licensed_Patents} or any product embodying any {Licensed_Patent}, express or implied, statutory or otherwise, including, without limitation, warranties of title, merchantability, fitness for a particular purpose, noninfringement, or the presence or absence of errors, regardless of their discoverability. Some jurisdictions do not allow the exclusion of implied warranties, in which case such exclusion may not apply to licensee.</span>
 
 
 6.Ti=Limitation of Liability
 
-6.sec=<span style="text-transform=uppercase">{Licensor} shall not be liable for any damages arising from or related to this {License}, including indirect, incidental, consequential, punitive or special damages, whether on warranty, contract, negligence, or otherwise, even if {Licensor} has been advised of the possibility of such damages prior to such an occurrence.</span>
+6.sec=<span style="text-transform: uppercase">{Licensor} shall not be liable for any damages arising from or related to this {License}, including indirect, incidental, consequential, punitive or special damages, whether on warranty, contract, negligence, or otherwise, even if {Licensor} has been advised of the possibility of such damages prior to such an occurrence.</span>
 
 
 7.Ti=Definitions
