@@ -146,26 +146,47 @@ DocBody={Doc}
 MessageToUser=From <a href="http://www.defensivepatentlicense.org/content/defensive-patent-license">defensivepatentlicense.org</a>
 
 DPL={d-}DPL{-d}
+
 License={d-}License{-d}
+
 Licensor={d-}Licensor{-d}
+
 DPL_User={d-}DPL User{-d}
+
 Licensed_Patents={d-}Licensed Patents{-d}
+
 Licensed_Products_and_Services={d-}Licensed Products and Services{-d}
+
 Licensee={d-}Licensee{-d}
+
 Discontinuation_Date={d-}Discontinuation Date{-d}
+
 Offering_Announcement={d-}Offering Announcement{-d}
+
 Patents={d-}Patents{-d}
+
 Patent={d-}Patent{-d}
+
 Licensed_Patent={d-}Licensed Patent{-d}
+
 Effective_Filing_Date={d-}Effective Filing Date{-d}
+
 DPL_Users={d-}DPL Users{-d}
+
 Infringement_Claim={d-}Infringement Claim{-d}
+
 Defensive_Patent_Claims={d-}Defensive Patent Claims{-d}
+
 Patent_License={d-}Patent License{-d}
+
 Affiliate={d-}Affiliate{-d}
+
 Defensive_Patent_Claim={d-}Defensive Patent Claim{-d}
+
 Discontinuation_Announcement={d-}Discontinuation Announcement{-d}
+
 Affiliates={d-}Affiliates{-d}
+
 Licensees={d-}Licensees{-d}
 
 d-=<a href="https://github.com/CommonAccord/Org/blob/master/Doc/{PageName}"><font color="green">
