@@ -81,8 +81,6 @@ Ti=License
 
 DocBody={Doc}
 
-MessageToUser=From <a href="http://www.defensivepatentlicense.org/content/defensive-patent-license">defensivepatentlicense.org</a>
-
 DPL={d-}DPL{-d}
 
 License={d-}License{-d}

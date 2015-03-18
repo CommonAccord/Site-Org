@@ -9,3 +9,5 @@ xlist={Nlist}
 =[02/Bit/Sec_02]
 
 DocBody={Doc}
+
+MessageToUser=From <a href="http://www.defensivepatentlicense.org/content/defensive-patent-license">defensivepatentlicense.org</a>
