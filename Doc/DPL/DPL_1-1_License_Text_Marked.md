@@ -75,7 +75,7 @@ Ti=License
 
 6.sec=<span style="text-transform: uppercase">{Licensor} shall not be liable for any damages arising from or related to this {License}, including indirect, incidental, consequential, punitive or special damages, whether on warranty, contract, negligence, or otherwise, even if {Licensor} has been advised of the possibility of such damages prior to such an occurrence.</span>
 
-7.=[DPL/DPL_1-1_Sec_Def.md]
+7.=[DPL/DPL_1-1_License_Sec_Def.md]
 
 =[02/Bit/Sec_07]
 
@@ -131,4 +131,4 @@ d-=<a href="https://github.com/CommonAccord/Org/blob/master/Doc/{PageName}"><fon
 
 -d=</font></a>
 
-PageName=DPL/DPL_1-1_Form_Marked.md
+PageName=DPL/DPL_1-1_License_Text_Marked.md
