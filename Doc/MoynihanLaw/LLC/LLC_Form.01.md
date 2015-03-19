@@ -1,28 +1,24 @@
-Ti=LIMITED LIABILITY COMPANY AGREEMENT OF {P1.Name.Full}<br>a Delaware Limited Liability Company
+Ti=LIMITED LIABILITY COMPANY AGREEMENT OF {P1.Name.Full}
 
-0.1.Sec=THIS LIMITED LIABILITY COMPANY AGREEMENT is effective as of this {Agt.Effective.YMDT}, by and among
 
-0.2.Ti=Parties
 
-0.2.90.sec=(referred to individually as a Member and collectively as the Members).
+Intro.Parties.Def.sec=Referred to individually as a Member and collectively as the Members.
 
-0.2.=[02/Bit/Ssec_02]
 
-0.3.Ti=WITNESSETH
+Intro.Agree.sec={Intro.Agree.This.sec}<br>{Whereas.Sec}
 
-0.3.1.sec=WHEREAS, the Members have formed a limited liability company (“Company”) under the laws of the State of Delaware in order to enter into the business of acquiring, owning, and operating an undivided interest in {Property.Definition.cl} (“Property”), more particularly described in Exhibit A attached hereto; and
+Whereas.Ti=WITNESSETH
+
+Whereas.1.sec=WHEREAS, the Members have formed a limited liability company (“Company”) under the laws of the State of Delaware in order to enter into the business of acquiring, owning, and operating an undivided interest in {Property.Definition.cl} (“Property”), more particularly described in Exhibit A attached hereto; and
 
 Property.Definition.cl=that certain commercial real property together with all improvements, rights and appurtenances related thereto, located in {Property.Location}
 
-0.3.2.sec=WHEREAS, the Members enter into this Operating Agreement in order to form and provide for the governance of the Company and the conduct of its business and to specify its rights and obligations;
+Whereas.2.sec=WHEREAS, the Members enter into this Operating Agreement in order to form and provide for the governance of the Company and the conduct of its business and to specify its rights and obligations;
 
-0.3.=[02/Bit/Ssec_02]
+Whereas.=[02/Bit/Ssec_02]
 
-0.3.xlist={0.3.nlist}
+Whereas.xlist={Whereas.nlist}
 
-0.xlist={0.Blist}
-
-0.=[02/Bit/Sec_03]
 
 1.Ti=DEFINITIONS
 
@@ -763,6 +759,14 @@ Business.Purpose.cl=acquiring, owning, managing, maintaining, leasing, and selli
 
 90.sec=IN WITNESS WHEREOF, the Members have executed this Agreement on the year and date first above written.
 
+=[04/Sec/Agt_Parties.1-2.04.md]
+
 =[02/Bit/Sec_10]
+
+Attach.=[MoynihanLaw/LLC/LLC_Attach_ExhibitList.01.md]
+
+Attach.Block={Attach.Doc}
+
+PageName=MoynihanLaw/LLC/LLC_Form.01.md
 
 DocBody=<!DOCTYPE html><html><title>{PageName}</title><style>ol {list-style-type: decimal;} ol ol {list-style-type: decimal;} ol ol ol {list-style-type: upper-alpha;} ol ol ol ol {list-style-type: lower-roman;} ol ol ol ol ol {list-style-type: decimal;} ol ol ol ol ol ol {list-style-type: upper-roman;} ol ol ol ol ol ol ol {list-style-type: lower-alpha;}</style><body>{Doc}

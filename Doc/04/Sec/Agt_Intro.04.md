@@ -6,7 +6,9 @@ Persons.sec={Parties.Sec}<li>{Friends.Sec}
 
 Parties.Sec=<b>{Parties.Ti}</b>{Parties.xlist}
 
-Parties.xlist=<ul type="none"><li>{Parties.List}<li>Each a “{party}” and collectively the “{parties}.”</ul>
+Parties.xlist=<ul type="none"><li>{Parties.List}<li>{Parties.Def.sec}</ul>
+
+Parties.Def.sec=Each a “{party}” and collectively the “{parties}.”
 
 Parties.List={Parties.List.1-6}
 
