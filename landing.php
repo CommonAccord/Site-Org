@@ -14,7 +14,7 @@ include("header.php");
 <hr>
 <h1 class="title">Decentralized Law</h1>
 <hr>
-  <h3 class="title">Building an open source legal operating system</h4>
+  <h3 class="title">Building a legal system for the 21st Century, one document at a time.</h4>
 <br/><br/>
 
 </div></div>
