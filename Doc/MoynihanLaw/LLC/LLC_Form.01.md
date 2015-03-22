@@ -2,7 +2,7 @@ Heading.Sec={P1.Name.Full} OPERATING AGREEMENT
 
 0.1.sec=THIS OPERATING AGREEMENT of {P1.Name.Full} (the “Company”) is entered into as of the date set forth on the signature page hereto by each of the persons named in Exhibit A hereto (referred to individually as a “Member” and collectively as the “Members”).
 	
-0.2.sec=The Members have formed a limited liability company under the Delaware Limited Liability Company Act.  The certificate of organization of the Company filed with the State of Delaware and any amendments thereto are hereby adopted and approved by the Members.
+0.2.sec=The Members have formed a limited liability company under the Delaware Limited Liability Company Act {Purpose.cl}.  The certificate of organization of the Company filed with the State of Delaware and any amendments thereto are hereby adopted and approved by the Members.
 	
 0.3.sec=The Members enter into this agreement to provide for the governance of the Company and the conduct of its business, and to specify their relative rights and obligations.
 
@@ -48,7 +48,7 @@ Heading.Sec={P1.Name.Full} OPERATING AGREEMENT
 
 2.4.Ti=Principal Office
 
-2.4.sec=The Company’s principal office will initially be at [address] but it may be relocated by the Managers at any time.
+2.4.sec=The Company’s principal office will initially be at {P1.Addr.1,2}, but it may be relocated by the Managers at any time.
 
 2.5.Ti=Designated Office and Agent for Service of Process
 
@@ -56,7 +56,7 @@ Heading.Sec={P1.Name.Full} OPERATING AGREEMENT
 
 2.6.Ti=Purposes and Powers
 
-2.6.sec=The Company is formed for the purpose of engaging in the businesses of consulting and investments.  The Company has the power to do all things necessary, incident, or in furtherance of that business or any other lawful business for which limited liability companies may be formed under the Act.
+2.6.sec=The Company is formed for the purpose of engaging in {P1.Business.cl}.  The Company has the power to do all things necessary, incident, or in furtherance of that business or any other lawful business for which limited liability companies may be formed under the Act.
 
 2.7.Ti=Title to Assets
 
@@ -72,7 +72,13 @@ Heading.Sec={P1.Name.Full} OPERATING AGREEMENT
 
 3.2.Ti=Additional Members
 
-3.2.sec=Additional members of the Company may be admitted with the consent of the Managers if the Managers have approved additional capital contributions, the Members have not contributed the maximum amount of such contributions, and the additional members do not contribute any more capital than the difference between the maximum set by the Managers and the amount contributed by the Members.  Additional members may also be admitted pursuant to Section 7.2 of this agreement.  Otherwise, additional members may not be admitted except with the approval of the Members.
+3.2.sec={3.2.1.Sen} {3.2.2.Sen} {3.2.3.Sen} 
+
+3.2.1.Sen=Additional members of the Company may be admitted with the consent of the Managers if the Managers have approved additional capital contributions, the Members have not contributed the maximum amount of such contributions, and the additional members do not contribute any more capital than the difference between the maximum set by the Managers and the amount contributed by the Members.
+
+3.2.2.Sen=Additional members may also be admitted pursuant to Section 7.2 of this agreement.
+
+3.2.3.Sen=Otherwise, additional members may not be admitted except with the approval of the Members.
 
 3.3.Ti=Additional Contributions
 
@@ -96,11 +102,16 @@ Heading.Sec={P1.Name.Full} OPERATING AGREEMENT
 
 4.1.Ti=Allocations
 
-4.1.sec=The profits and losses of the Company and all items of Company income, gain, loss, deduction, or credit shall be allocated, for the Company book purposes and for tax purposes, pro rata in proportion to the relative Membership Interests held by each Member.
+4.1.sec={4.1.1.Sen}
+
+4.1.1.Sen=Prior to allocation and/or distribution, all income and gains shall be donated to a 501(c)(3) charitable as determined by vote of Members holding a majority of the outstanding Membership Interests.
 
 4.2.Ti=Distributions
 
-4.2.sec=The Company shall have the right to make distributions of cash and property to the Members pro rata based on the relative Membership Interests held by each Member.  The timing and amount of distributions shall be determined by the Managers in accordance with the laws of the State of Delaware.  
+4.2.sec={4.2.1.Sen}
+
+4.2.1.Sen=Prior to distribution, all income and gains shall be donated to a 501(c)(3) charitable organization as determined by a vote of Members holding a majority of the outstanding Membership Interests. 
+
 
 4.=[02/Bit/Sec_02]
 
@@ -108,7 +119,21 @@ Heading.Sec={P1.Name.Full} OPERATING AGREEMENT
 
 5.1.Ti=Management
 
-5.1.sec=The business of the Company shall be managed by one or more Managers.  The Members initially nominate and elect the person(s) set forth in Exhibit B to serve as the Manager(s) of the Company.  Managers shall serve at the pleasure of the Members and may be elected or removed by Members holding a majority of the Membership Interests.  Exhibit B shall be amended from time to time to reflect any changes in Managers.  In the event of a dispute between Managers, final determination shall be made by a vote of the majority of the Managers.  Any Manager may bind the Company in all matters in the ordinary course of business.
+5.1.sec={5.1.1.Sen} {5.1.2.Sen} {5.1.3.Sen}  {5.1.4.Sen} {5.1.5.Sen} {5.1.6.Sen}
+
+5.1.1.Sen=The business of the Company shall be managed by one or more Managers.
+
+5.1.2.Sen=The Members initially nominate and elect the person(s) set forth in Exhibit B to serve as the Manager(s) of the Company.  
+
+5.1.3.Sen=Managers shall serve at the pleasure of the Members and may be elected or removed by Members holding a majority of the Membership Interests.
+
+5.1.4.Sen=Exhibit B shall be amended from time to time to reflect any changes in Managers.
+
+5.1.5.Sen=In the event of a dispute between Managers, final determination shall be made by a vote of the majority of the Managers.
+
+5.1.6.Sen=Any Manager may bind the Company in all matters in the ordinary course of business.
+
+
 	
 5.2.Ti=Meetings of Managers
 
@@ -116,7 +141,11 @@ Heading.Sec={P1.Name.Full} OPERATING AGREEMENT
 
 5.3.Ti=Banking
 
-5.3.sec=The Managers are authorized to set up one or more bank accounts and are authorized to execute any banking resolutions provided by the institution where the accounts are being set up.  All funds of the Company shall be deposited in one or more accounts with one or more recognized financial institutions in the name of the Company.
+5.3.sec={5.3.1.Sen} {5.3.2.Sen}
+
+5.3.1.Sen=The Managers are authorized to set up one or more bank accounts and are authorized to execute any banking resolutions provided by the institution where the accounts are being set up.
+
+5.3.2.Sen=All funds of the Company shall be deposited in one or more accounts with one or more recognized financial institutions in the name of the Company.
 	
 5.4.Ti=Officers
 
@@ -124,7 +153,12 @@ Heading.Sec={P1.Name.Full} OPERATING AGREEMENT
 
 5.5.Ti=Other Agents
 
-5.5.sec=By action of the Managers, other agents may be authorized to act on behalf of the Company.  The authority given such agents may be general or may be limited to specific matters.
+5.5.sec={5.5.1.Sen} {5.5.2.Sen}
+
+5.5.1.Sen=By action of the Managers, other agents may be authorized to act on behalf of the Company.
+
+5.5.2.Sen=The authority given such agents may be general or may be limited to specific matters.
+
 
 5.6.Ti=Powers of Members
 
@@ -136,13 +170,23 @@ Heading.Sec={P1.Name.Full} OPERATING AGREEMENT
 
 6.1.Ti=Members and Voting Rights
 
-6.1.sec=Members shall have the right and power to vote on all matters with respect to which this agreement or the laws of the State of Delaware require or permit.  Voting shall be based on Membership Interests.  Unless otherwise stated in this agreement or under the laws of the State of Delaware, the vote of the Members holding a majority of the Membership Interests shall be required to approve or carry an action.
+6.1.sec={6.1.1.Sen}  {6.1.2.Sen} {6.1.3.Sen}
+
+6.1.1.Sen=Members shall have the right and power to vote on all matters with respect to which this agreement or the laws of the State of Delaware require or permit.
+
+6.1.2.Sen=Voting shall be based on Membership Interests.
+
+6.1.3.Sen=Unless otherwise stated in this agreement or under the laws of the State of Delaware, the vote of the Members holding a majority of the Membership Interests shall be required to approve or carry an action.
 
 6.2.Ti=Meetings
 
 6.2.1.sec=Regular or annual meetings of the Members are not required but may be held at such time and place as the Members deem necessary or desirable for the reasonable management of the Company.
 
-6.2.2.sec=In any instance in which the approval of the Members is required under this agreement, such approval may be obtained in any manner permitted by the laws of the State of Delaware, including by conference telephone or similar communications equipment.  In addition, any action which could be taken at a meeting can be approved without a meeting and without notice if a consent in writing, stating the action to be taken, is signed by the holders of the minimum Membership Interests needed to approve the action.
+6.2.2.sec={6.2.2.1.Sen} {6.2.2.2.Sen}
+
+6.2.2.1.Sen=In any instance in which the approval of the Members is required under this agreement, such approval may be obtained in any manner permitted by the laws of the State of Delaware, including by conference telephone or similar communications equipment.
+
+6.2.2.2.Sen=In addition, any action which could be taken at a meeting can be approved without a meeting and without notice if a consent in writing, stating the action to be taken, is signed by the holders of the minimum Membership Interests needed to approve the action.
 
 6.2.=[02/Bit/Ssec_02]
 
@@ -164,7 +208,15 @@ Heading.Sec={P1.Name.Full} OPERATING AGREEMENT
 
 8.1.Ti=Books of Account
 
-8.1.sec=The Managers must keep such books and records relating to the operation of the Company as are appropriate and adequate for the Company's business and for the carrying out of this agreement.  At a minimum, the following must be maintained at the principal office of the Company:  (a) financial statements for the three most recent fiscal years; (b) federal, state, and local income tax returns for the three most recent fiscal years; (c) a register showing the current names and addresses of the Members; (d) a copy of the Company's certificate of organization and any amendments thereto; (e) this agreement and any amendments thereto; (f) minutes of any meetings of Managers or Members; and (g) consents to action by Managers or Members.  Such books and records shall be open to inspection and copying on reasonable notice by any Member, Manager or their authorized representatives during normal business hours for purposes reasonably related to the interest of such person as a Member or Manager.  The costs of such inspection and copying shall be borne by the Member or Manager.
+8.1.sec={8.1.1.Sen}  {8.1.2.2.Sen}
+
+8.1.1.Sen=The Managers must keep such books and records relating to the operation of the Company as are appropriate and adequate for the Company's business and for the carrying out of this agreement.
+
+8.1.2.Sen={8.1.2.1.Cl}  {8.1.2.2.cl}
+
+8.1.2.1.Cl=At a minimum, the following must be maintained at the principal office of the Company:  
+
+8.1.2.2.cl=(a) financial statements for the three most recent fiscal years; (b) federal, state, and local income tax returns for the three most recent fiscal years; (c) a register showing the current names and addresses of the Members; (d) a copy of the Company's certificate of organization and any amendments thereto; (e) this agreement and any amendments thereto; (f) minutes of any meetings of Managers or Members; and (g) consents to action by Managers or Members.  Such books and records shall be open to inspection and copying on reasonable notice by any Member, Manager or their authorized representatives during normal business hours for purposes reasonably related to the interest of such person as a Member or Manager.  The costs of such inspection and copying shall be borne by the Member or Manager.
 
 8.2.Ti=Fiscal Year
 
@@ -232,7 +284,15 @@ Heading.Sec={P1.Name.Full} OPERATING AGREEMENT
 
 12.1.Ti=Indemnification
 
-12.1.0.sec=Except as otherwise provided in this section, the Company must indemnify each of the Managers to the fullest extent permissible under the law of the state in which the Company is organized, as the same exists or may hereafter be amended, against all liability, loss, and costs (including, without limitation, attorneys’ fees) incurred or suffered by the Manager by reason of or arising from the fact that the Manager is or was a manager of the Company, or is or was serving at the request of the Company as a manager, member, director, officer, partner, trustee, employee, or agent of another foreign or domestic limited liability company, corporation, partnership, joint venture, trust, benefit plan, or other enterprise.  The Company may, by action of the Managers, provide indemnification to employees and agents of the Company who are not Managers.  The indemnification provided in this section is not exclusive of any other rights to which any person may be entitled under any statute, agreement, resolution of Managers or Members, contract, or otherwise.  But despite any other provision of this agreement, the Company has no obligation to indemnify a Manager for:
+12.1.0.sec={12.1.0.1.Sen} {12.1.0.2.Sen} {12.1.0.3.Sen} {12.1.0.4.Sen}
+
+12.1.0.1.Sen=Except as otherwise provided in this section, the Company must indemnify each of the Managers to the fullest extent permissible under the law of the state in which the Company is organized, as the same exists or may hereafter be amended, against all liability, loss, and costs (including, without limitation, attorneys’ fees) incurred or suffered by the Manager by reason of or arising from the fact that the Manager is or was a manager of the Company, or is or was serving at the request of the Company as a manager, member, director, officer, partner, trustee, employee, or agent of another foreign or domestic limited liability company, corporation, partnership, joint venture, trust, benefit plan, or other enterprise.
+
+12.1.0.2.Sen=The Company may, by action of the Managers, provide indemnification to employees and agents of the Company who are not Managers.
+
+12.1.0.3.Sen=The indemnification provided in this section is not exclusive of any other rights to which any person may be entitled under any statute, agreement, resolution of Managers or Members, contract, or otherwise.
+
+12.1.0.4.Sen=But despite any other provision of this agreement, the Company has no obligation to indemnify a Manager for:
 
 12.1.1.sec=Any breach of the Manager’s duty of loyalty to the Company;
 
@@ -246,7 +306,11 @@ Heading.Sec={P1.Name.Full} OPERATING AGREEMENT
 
 12.2.Ti=Limitation of Liability
 
-12.2.sec=No Manager of the Company is liable to the Company or to the Members for monetary damages resulting from the Manager’s conduct as a Manager except to the extent that (a) the Act, as it now exists or may be amended in the future, prohibits the elimination or limitation of liability of managers of limited liability companies or (b) the Manager’s conduct was not in good faith and involved gross negligence, intentional misconduct or a knowing violation of law.  No repeal or amendment of this section or of the Act will adversely affect any right or protection of a Manager for actions or omissions prior to the repeal or amendment.
+12.2.sec={12.2.1.Sen} {12.3.2.Sen} {13.3.3.Sen} {13.3.4.Sen} {13.3.5.Sen}
+
+
+
+No Manager of the Company is liable to the Company or to the Members for monetary damages resulting from the Manager’s conduct as a Manager except to the extent that (a) the Act, as it now exists or may be amended in the future, prohibits the elimination or limitation of liability of managers of limited liability companies or (b) the Manager’s conduct was not in good faith and involved gross negligence, intentional misconduct or a knowing violation of law.  No repeal or amendment of this section or of the Act will adversely affect any right or protection of a Manager for actions or omissions prior to the repeal or amendment.
 
 12.=[02/Bit/Sec_02]
 
@@ -262,7 +326,19 @@ Heading.Sec={P1.Name.Full} OPERATING AGREEMENT
 
 13.3.Ti=Notice
 
-13.3.sec=Except as otherwise provided in other sections of this agreement, any notice or other communication required or permitted to be given under this agreement must be in writing and must be mailed by certified mail, return receipt requested, with postage prepaid.  Notices addressed to a Member must be addressed to the Member's address listed in Exhibit A, or if there is no such address listed for a Member, the address of the Member shown on the records of the Company.  Notices addressed to the Company or a Manager must be addressed to the principal office of the Company.  The address of a Member, the Company, or a Manager to which notices or other communications are to be mailed may be changed from time to time by the Member's, the Company's, or the Manager's giving written notice to the Members, the Company, and the Managers.  All notices and other communications will be deemed to be given at the expiration of three days after the date of mailing.
+13.3.sec={13.3.1.Sen} {13.3.2.Sen} {13.3.3.Sen} {13.3.4.Sen} {13.3.5.Sen}
+
+
+13.3.1.Sen=Except as otherwise provided in other sections of this agreement, any notice or other communication required or permitted to be given under this agreement must be in writing and must be mailed by certified mail, return receipt requested, with postage prepaid.
+
+13.3.2.Sen=Notices addressed to a Member must be addressed to the Member's address listed in Exhibit A, or if there is no such address listed for a Member, the address of the Member shown on the records of the Company.
+
+13.3.3.Sen=Notices addressed to the Company or a Manager must be addressed to the principal office of the Company.
+
+13.3.4.Sen=The address of a Member, the Company, or a Manager to which notices or other communications are to be mailed may be changed from time to time by the Member's, the Company's, or the Manager's giving written notice to the Members, the Company, and the Managers.
+
+13.3.5.Sen=All notices and other communications will be deemed to be given at the expiration of three days after the date of mailing.
+
 
 13.4.Ti=Additional Documents
 
