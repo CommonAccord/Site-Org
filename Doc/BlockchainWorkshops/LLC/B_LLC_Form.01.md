@@ -1,4 +1,4 @@
-=[MoynihanLaw/LLC/LLC_Form.01.md]
+=[BlockchainWorkshops/LLC/LLC_Form.01.md]
 
 2.6.sec={m-}The Company is formed for the purpose of engaging in the business of the distribution of copyright license royalties.  The Company has the power to do all things necessary, incident, or in furtherance of that business or any other lawful business for which limited liability companies may be formed under the Act.{-m}
 

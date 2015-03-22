@@ -1,4 +1,4 @@
-=[MoynihanLaw/LLC/Binder.md]
+=[BlockchainWorkshops/LLC/Binder.md]
 
 Co.Name.Full=Distributed Autonomous Collective Collection Society, LLC
 
