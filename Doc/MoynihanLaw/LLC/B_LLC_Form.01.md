@@ -1,22 +1,19 @@
 =[MoynihanLaw/LLC/LLC_Form.01.md]
 
-Ti=Distributed Autonomous Collective Collection Society, LLC
-
 2.6.sec={m-}The Company is formed for the purpose of engaging in the business of the distribution of copyright license royalties.  The Company has the power to do all things necessary, incident, or in furtherance of that business or any other lawful business for which limited liability companies may be formed under the Act.{-m}
 
 3.2.3.Sen={m-}Otherwise, additional members may not be admitted except by vote of Members holding a majority of the outstanding Membership Interests.{-m}
 
-4.1.sec={4.1.1.Sen} {B.4.1.2.Sen}
+4.1.sec={B.4.1.1.Sen} {4.1.1.Sen}
 
-4.1.2.Sen={m-}The profits and losses of the Company and all items of Company income, gain, loss, deduction, or credit shall be allocated, for the Company book purposes and for tax purposes, pro rata in proportion to the relative Membership Interests held by each Member.{-m}
+B.4.1.1.Sen={m-}Prior to allocation and/or distribution, all income and gains shall be donated to a 501(c)(3) charitable as determined by vote of Members holding a majority of the outstanding Membership Interests.{-m}
 
 
 4.2.sec={B.4.2.sec}
 
-B.4.2.sec={4.2.1.Sen} {B.4.2.2.Sen}
+B.4.2.sec={B.4.2.1.Sen} {4.2.1.Sen} {4.2.1.Sen}
 
-B.4.2.1.Sen={m-}The Company shall have the right to make distributions of cash and property to the Members pro rata based on the relative Membership Interests held by each Member.  The timing and amount of distributions shall be determined by the Managers in accordance with the laws of the State of Delaware.{-m}
-
+B.4.2.1.Sen={m-}Prior to distribution, all income and gains shall be donated to a 501(c)(3) charitable organization as determined by a vote of Members holding a majority of the outstanding Membership Interests.{-m}
 
 5.1.sec={B.5.1.1.Sen} {B.5.1.2.Sen} {B.5.1.3.Sen} {5.1.3.Sen}  {5.1.4.Sen} {5.1.5.Sen} {5.1.6.Sen}
 

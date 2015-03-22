@@ -1,8 +1,10 @@
-Heading.Sec={P1.Name.Full} OPERATING AGREEMENT
+Heading.Sec={Ti}<br>of<br>{Co.Name.Full}<br>{Effective.YMD} 
 
-0.1.sec=THIS OPERATING AGREEMENT of {P1.Name.Full} (the “Company”) is entered into as of the date set forth on the signature page hereto by each of the persons named in Exhibit A hereto (referred to individually as a “Member” and collectively as the “Members”).
+Ti=Limited Liability Company Operating Agreement
+
+0.1.sec=THIS {Ti} of {Co.Name.Full} (the “Company”) is entered into as of the date set forth on the signature page hereto by each of the persons named in Exhibit A hereto (referred to individually as a “Member” and collectively as the “Members”).
 	
-0.2.sec=The Members have formed a limited liability company under the Delaware Limited Liability Company Act {Purpose.cl}.  The certificate of organization of the Company filed with the State of Delaware and any amendments thereto are hereby adopted and approved by the Members.
+0.2.sec=The Members have formed a limited liability company under the Delaware Limited Liability Company Act for the purpose of {Purpose.cl}.  The certificate of organization of the Company filed with the State of Delaware and any amendments thereto are hereby adopted and approved by the Members.
 	
 0.3.sec=The Members enter into this agreement to provide for the governance of the Company and the conduct of its business, and to specify their relative rights and obligations.
 
@@ -12,13 +14,13 @@ Heading.Sec={P1.Name.Full} OPERATING AGREEMENT
 
 0.Ti=<b></b>
 
-1.Ti=DEFINITIONS
+1.Ti=Definitions
 
 1.0.sec=Capitalized terms used in this agreement have the meanings specified in this Section 1 or elsewhere in this agreement and when not so defined shall have the meanings set forth in the Delaware Limited Liability Company Act.
 
 1.1.sec=“Capital Contribution” means the amount of cash, property or services contributed to the Company.
 
-1.2.sec=“Company” means [name] LLC, a Delaware limited liability company.
+1.2.sec=“Company” means {Co.Name.Full}, a Delaware limited liability company.
 
 1.3.sec=“Member” means a Person who acquires Membership Interests, as permitted under this agreement, and who becomes or remains a Member.
 
@@ -32,15 +34,19 @@ Heading.Sec={P1.Name.Full} OPERATING AGREEMENT
 
 1.=[02/Bit/Ssec_07]
 
-2.Ti=FORMATION
+2.Ti=Formation
 
 2.1.Ti=Name
 
-2.1.sec=The name of the Company is {P1.Name.Full}.
+2.1.sec=The name of the Company is “{Co.Name.Full}.”
 
 2.2.Ti=Certificate of Organization
 
-2.2.sec=A certificate of organization for the Company was filed with the State of Delaware on March 4, 2015.
+2.2.sec=A certificate of organization for the Company was filed with the State of Delaware on {Certificate.Effective.YMD}.
+
+Note=Making the Certificate signature date the default for Certificate Effective
+
+Certificate.Effective.YMD={Certificate.Incorp.Sign.YMD}
 
 2.3.Ti=Duration
 
@@ -48,15 +54,15 @@ Heading.Sec={P1.Name.Full} OPERATING AGREEMENT
 
 2.4.Ti=Principal Office
 
-2.4.sec=The Company’s principal office will initially be at {P1.Addr.1,2}, but it may be relocated by the Managers at any time.
+2.4.sec=The Company’s principal office will initially be at {Co.Addr.1,2}, but it may be relocated by the Managers at any time.
 
 2.5.Ti=Designated Office and Agent for Service of Process
 
-2.5.sec=The Company's initial designated office will be at the Principal Office and the name of its initial agent for service of process at that address will be {Agent.Name.Full}.  The Company’s designated office and its agent for service of process may only be changed by filing notice of the change with the State of Delaware.
+2.5.sec=The Company's initial designated office will be at the Principal Office and the name of its initial agent for service of process at that address will be {Co.Regis.Name.Full}.  The Company’s designated office and its agent for service of process may only be changed by filing notice of the change with the State of Delaware.
 
 2.6.Ti=Purposes and Powers
 
-2.6.sec=The Company is formed for the purpose of engaging in {P1.Business.cl}.  The Company has the power to do all things necessary, incident, or in furtherance of that business or any other lawful business for which limited liability companies may be formed under the Act.
+2.6.sec=The Company is formed for the purpose of engaging in {Co.Business.cl}.  The Company has the power to do all things necessary, incident, or in furtherance of that business or any other lawful business for which limited liability companies may be formed under the Act.
 
 2.7.Ti=Title to Assets
 
@@ -64,7 +70,7 @@ Heading.Sec={P1.Name.Full} OPERATING AGREEMENT
 
 2.=[02/Bit/Sec_07]
 
-3.Ti=MEMBERS, CONTRIBUTIONS AND INTERESTS
+3.Ti=Members, Contributions and Interests
 
 3.1.Ti=Initial Capital Contributions and Membership Interests
 
@@ -98,24 +104,25 @@ Heading.Sec={P1.Name.Full} OPERATING AGREEMENT
 
 3.=[02/Bit/Sec_06]
 
-4.Ti=ALLOCATION AND DISTRIBUTIONS
+4.Ti=Allocations and Distributions
 
 4.1.Ti=Allocations
 
 4.1.sec={4.1.1.Sen}
 
-4.1.1.Sen=Prior to allocation and/or distribution, all income and gains shall be donated to a 501(c)(3) charitable as determined by vote of Members holding a majority of the outstanding Membership Interests.
+4.1.1.Sen=The profits and losses of the Company and all items of Company income, gain, loss, deduction, or credit shall be allocated, for the Company book purposes and for tax purposes, pro rata in proportion to the relative Membership Interests held by each Member.
 
 4.2.Ti=Distributions
 
-4.2.sec={4.2.1.Sen}
+4.2.sec={4.2.1.Sen} {4.2.2.Sen}
 
-4.2.1.Sen=Prior to distribution, all income and gains shall be donated to a 501(c)(3) charitable organization as determined by a vote of Members holding a majority of the outstanding Membership Interests. 
+4.2.1.Sen=The Company shall have the right to make distributions of cash and property to the Members pro rata based on the relative Membership Interests held by each Member.
 
+4.2.2.Sen=The timing and amount of distributions shall be determined by the Managers in accordance with the laws of the State of Delaware.  
 
 4.=[02/Bit/Sec_02]
 
-5.Ti=MANAGEMENT
+5.Ti=Management
 
 5.1.Ti=Management
 
@@ -133,8 +140,6 @@ Heading.Sec={P1.Name.Full} OPERATING AGREEMENT
 
 5.1.6.Sen=Any Manager may bind the Company in all matters in the ordinary course of business.
 
-
-	
 5.2.Ti=Meetings of Managers
 
 5.2.sec=Regular meetings of the Managers are not required but may be held at such time and place as the Managers deem necessary or desirable for the reasonable management of the Company.  Meetings may take place in person, by conference telephone or by any other means permitted under the laws of the State of Delaware.  In addition, actions may be taken without a meeting if the Managers sign a written consent reflecting the action taken.
@@ -166,7 +171,7 @@ Heading.Sec={P1.Name.Full} OPERATING AGREEMENT
 
 5.=[02/Bit/Sec_06]
 
-6.Ti=MEMBERSHIP – MEETINGS, VOTING
+6.Ti=Membership - Meetings, Voting
 
 6.1.Ti=Members and Voting Rights
 
@@ -192,7 +197,7 @@ Heading.Sec={P1.Name.Full} OPERATING AGREEMENT
 
 6.=[02/Bit/Sec_02]
 
-7.Ti=WITHDRAWAL AND TRANSFERS OF MEMBERSHIP INTERESTS
+7.Ti=Withdrawal and Transfers of Membership Interests
 
 7.1.Ti=Withdrawal
 
@@ -204,7 +209,7 @@ Heading.Sec={P1.Name.Full} OPERATING AGREEMENT
 
 7.=[02/Bit/Sec_02]
 
-8.Ti=ACCOUNTING AND RECORDS
+8.Ti=Accounting and Records
 
 8.1.Ti=Books of Account
 
@@ -228,11 +233,11 @@ Heading.Sec={P1.Name.Full} OPERATING AGREEMENT
 
 8.4.Ti=Tax Matters Member
 
-8.4.sec={P1.Name.Full} shall act as tax matters member of the Company to represent the Company (at the Company’s expense) in connection with all examinations of the Company’s affairs by tax authorities and to expend Company funds for professional services and costs associated therewith.
+8.4.sec={TaxMM.Name.Full} shall act as tax matters member of the Company to represent the Company (at the Company’s expense) in connection with all examinations of the Company’s affairs by tax authorities and to expend Company funds for professional services and costs associated therewith.
 
 8.=[02/Bit/Sec_04]
 
-9.Ti=DISSOCIATION AND DISSOLUTION
+9.Ti=Dissociation and Dissolution
 
 9.1.Ti=Dissolution
 
@@ -252,7 +257,7 @@ Heading.Sec={P1.Name.Full} OPERATING AGREEMENT
 
 9.=[02/Bit/Sec_02]
 
-10.Ti=WINDING UP AND LIQUIDATION
+10.Ti=Winding Up and Liquidation
 
 10.1.Ti=Liquidation Upon Dissolution
 
@@ -276,11 +281,11 @@ Heading.Sec={P1.Name.Full} OPERATING AGREEMENT
 
 10.=[02/Bit/Sec_03]
 
-11.Ti=REPRESENTATIONS AND WARRANTIES OF MEMBERS 
+11.Ti=Representations and Warranties of Members
 
 11.sec=Each Member represents and warrants to the Company and the other Members that such Member has acquired an interest in the Company for such Member's own account for investment and not with a view to distribution of the interest.
 
-12.Ti=INDEMNIFICATION AND LIABILITY LIMITATION
+12.Ti=Indemnification and Liability Limitation
 
 12.1.Ti=Indemnification
 
@@ -302,19 +307,19 @@ Heading.Sec={P1.Name.Full} OPERATING AGREEMENT
 
 12.1.4.sec=Any transaction in which the Manager derives improper personal benefit.
 
-12.1.=[02/Bit/Sec_04]
+12.1.=[02/Bit/Ssec_04]
 
 12.2.Ti=Limitation of Liability
 
-12.2.sec={12.2.1.Sen} {12.3.2.Sen} {13.3.3.Sen} {13.3.4.Sen} {13.3.5.Sen}
+12.2.sec={12.2.1.Sen} {12.2.2.Sen}
 
+12.2.1.Sen=No Manager of the Company is liable to the Company or to the Members for monetary damages resulting from the Manager’s conduct as a Manager except to the extent that (a) the Act, as it now exists or may be amended in the future, prohibits the elimination or limitation of liability of managers of limited liability companies or (b) the Manager’s conduct was not in good faith and involved gross negligence, intentional misconduct or a knowing violation of law.  
 
-
-No Manager of the Company is liable to the Company or to the Members for monetary damages resulting from the Manager’s conduct as a Manager except to the extent that (a) the Act, as it now exists or may be amended in the future, prohibits the elimination or limitation of liability of managers of limited liability companies or (b) the Manager’s conduct was not in good faith and involved gross negligence, intentional misconduct or a knowing violation of law.  No repeal or amendment of this section or of the Act will adversely affect any right or protection of a Manager for actions or omissions prior to the repeal or amendment.
+12.2.2.Sen=No repeal or amendment of this section or of the Act will adversely affect any right or protection of a Manager for actions or omissions prior to the repeal or amendment.
 
 12.=[02/Bit/Sec_02]
 
-13.Ti=MISCELLANEOUS PROVISIONS
+13.Ti=Miscellaneous Provisions
 
 13.1.Ti=Amendment
 
@@ -366,9 +371,12 @@ No Manager of the Company is liable to the Company or to the Members for monetar
 
 13.=[02/Bit/Sec_09]
 
- 
-90.sec=IN WITNESS WHEREOF, the parties have executed or caused to be executed this Operating Agreement as of the date below.
+90.sec={Witness}<br><br>{Co.Sign.Block}<br>{MList.Sign.Block}
+
+Witness=IN WITNESS WHEREOF, the parties have executed or caused to be executed this Operating Agreement as of the date below.
 
 =[02/Bit/Sec_13]
 
 DocBody={Doc}
+
+Co.Sign.Handle=Company
