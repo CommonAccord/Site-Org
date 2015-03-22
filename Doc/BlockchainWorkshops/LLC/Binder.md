@@ -6,4 +6,4 @@ Certificate.=[BlockchainWorkshops/LLC/LLC_CertificateOfFormation.01.md]
 
 Agt.=[BlockchainWorkshops/LLC/B_LLC_Form.01.md]
 
-Joinder.=[BlockchainWorkshops/LLC/Joiner_Agreement_Form.01.md]
+Joinder.=[BlockchainWorkshops/LLC/Joinder_Agreement_Form.01.md]
