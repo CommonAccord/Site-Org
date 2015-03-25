@@ -1,1 +1,0 @@
-Based on the draft Consumer Privacy Bill of Rights, this establishes the chain:<br> STAKEHOLDERS -> CPBR -> Charter -> Privacy Policy ->  CONSUMER  <br>Iteration will establish:<br> CPBR <- Charter <<- Privacy Policy <<<-  CONSUMER<br>Interactive, distributed regulation.

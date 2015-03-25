@@ -34,20 +34,20 @@ Ti=CONSUMER PRIVACY BILL OF RIGHTS ACT
 
 3.=[02/Bit/Ssec_08]
 
-4.=[OMB/CPBR_Act_Of_2015_Definitions.01.md]
+4.=[Privacy/CPBR/Bill/CPBR_Act_Of_2015_Definitions.01.md]
 
-=[OMB/CPBR_Format.md]
+=[Privacy/CPBR/Bill/CPBR_Format.md]
 
 =[02/Bit/Sec_04]
 
 90.Sec={Title.1.Doc}<hr>{Title.2.Doc}<hr>{Title.3.Doc}<hr>{Title.4.Doc}
 
-Title.1.=[OMB/CPBR_Act_Of_2015_Title_1.md]
+Title.1.=[Privacy/CPBR/Bill/CPBR_Act_Of_2015_Title_1.md]
 
-Title.2.=[OMB/CPBR_Act_Of_2015_Title_2.md]
+Title.2.=[Privacy/CPBR/Bill/CPBR_Act_Of_2015_Title_2.md]
 
-Title.3.=[OMB/CPBR_Act_Of_2015_Title_3.md]
+Title.3.=[Privacy/CPBR/Bill/CPBR_Act_Of_2015_Title_3.md]
 
-Title.4.=[OMB/CPBR_Act_Of_2015_Title_4.md]
+Title.4.=[Privacy/CPBR/Bill/CPBR_Act_Of_2015_Title_4.md]
 
-PageName=OMB/CPBR_Act_Of_2015.md
+PageName=Privacy/CPBR/Bill/CPBR_Act_Of_2015.md

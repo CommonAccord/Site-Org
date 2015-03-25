@@ -359,8 +359,8 @@ Note=Different than in the Definitions section.
 
 7.=[02/Bit/Sec_01]
 
-=[OMB/CPBR_Format.md]
+=[Privacy/CPBR/Bill/CPBR_Format.md]
 
 =[02/Bit/Sec_07]
 
-PageName=OMB/CPBR_Act_Of_2015_Title_1.md
+PageName=Privacy/CPBR/Bill/CPBR_Act_Of_2015_Title_1.md

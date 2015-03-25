@@ -8,9 +8,9 @@ Ti=Privacy Policy
 
 P1.Handle={d-}Member Company{-d}
 
-Charter.Link=<a href="{Charter.URL}">OMB-Charter/CPBR_Privacy_Charter_Form.01.md</a>
+Charter.Link=<a href="{Charter.URL}">Privacy/CPBR/Charter/CPBR_Privacy_Charter_Form.01.md</a>
 
-Charter.URL=http://commonaccord.org/index.php?action=source&file=OMB-Charter/CPBR_Privacy_Charter_Form.01.md
+Charter.URL=http://commonaccord.org/index.php?action=source&file=Privacy/CPBR/Charter/CPBR_Privacy_Charter_Form.01.md
 
 0.1.sec=To assure the protection of the {personal_data} of {P1.Handle}'s users, {P1.Handle} has adopted a {Ti}.
 
@@ -24,7 +24,7 @@ Charter.URL=http://commonaccord.org/index.php?action=source&file=OMB-Charter/CPB
 
 Note=Making specific terms such as "covered entity".  (Doing it for each of the Definitions and Title 1.  This could be simplified.)
  
-4.=[OMB-Charter/CPBR_Privacy_Charter_Format.01.md]
+4.=[Privacy/CPBR/Charter/CPBR_Privacy_Charter_Format.01.md]
 
 4.2.sec="{P1.Handle}" means {P1.N,E,A}.
 
@@ -32,9 +32,10 @@ Note=Trimming out secs 4.5 and 4.6 regarding rule making.  Again, this could be 
 
 Title.1.3.Secs={Title.1.3.1.Sec}<li>{Title.1.3.2.Sec}<li>{Title.1.3.3.Sec}<li>{Title.1.3.4.Sec}
 
-Title.1.=[OMB-Charter/CPBR_Privacy_Charter_Format.01.md]
+Title.1.=[Privacy/CPBR/Charter/CPBR_Privacy_Charter_Format.01.md]
 
-=[OMB/CPBR_Act_Of_2015.md]
+
+=[Privacy/CPBR/Bill/CPBR_Act_Of_2015.md]
 
 Secs={4.Sec}<li>{Title.1.1.Sec}<li>{Title.1.2.Sec}<li>{Title.1.3.Sec}<li>{Title.1.4.Sec}<li>{Title.1.5.Sec}<li>{Title.1.6.Sec}<li>{Title.1.7.Sec}
 
@@ -57,9 +58,10 @@ Title.1.6.4.sec={P1.Handle} is an entity subject to Fair Credit Reporting Act (1
 
 FCRA={d-}FCRA{-d}
 
-Act.=[OMB/CPBR_Act_Of_2015.md]
+Act.=[Privacy/CPBR/Bill/CPBR_Act_Of_2015.md]
 
 Charter={d-}Charter{-d}
 
-PageName= OMB-Charter/CPBR_Privacy_Charter_Form.01.md
+PageName=Privacy/CPBR/Charter/CPBR_Privacy_Charter_Form.01.md
+
  &#8195;

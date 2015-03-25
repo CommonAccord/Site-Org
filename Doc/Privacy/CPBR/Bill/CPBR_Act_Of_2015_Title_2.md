@@ -105,8 +105,8 @@ Note="direct Commission participation" perhaps "direct participation by {the_Com
 
 3.=[02/Bit/Sec_02]
 
-=[OMB/CPBR_Format.md]
+=[Privacy/CPBR/Bill/CPBR_Format.md]
 
 =[02/Bit/Sec_03]
 
-PageName=OMB/CPBR_Act_Of_2015_Title_2.md
+PageName=Privacy/CPBR/Bill/CPBR_Act_Of_2015_Title_2.md

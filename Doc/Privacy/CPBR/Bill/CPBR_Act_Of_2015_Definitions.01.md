@@ -246,8 +246,8 @@ Note=Should "regarding data" be "regarding personal data"?
 
 14.=[02/Bit/Ssec_07]
 
-=[OMB/CPBR_Format.md]
+=[Privacy/CPBR/Bill/CPBR_Format.md]
 
 =[02/Bit/Sec_14]
 
-PageName=OMB/CPBR_Act_Of_2015_Definitions.01.md
+PageName=Privacy/CPBR/Bill/CPBR_Act_Of_2015_Definitions.01.md
