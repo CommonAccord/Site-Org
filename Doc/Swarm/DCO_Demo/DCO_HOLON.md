@@ -1,33 +1,22 @@
-1.Ti=Purpose
+Purpose.sec=The purpose of the holon network is to facilitate decentralization by means of local hubs that provide living space to those building this future. One existing HOLON is the LOVENEST.
 
-1.sec=The purpose of the holon network is to facilitate decentralization by means of local hubs that provide living space to those building this future. One existing HOLON is the LOVENEST.
+Token.Value.sec=TOKEN VALUE >>>>
 
-2.Ti=Token Structure: 
+Token.Structure.0.sec=Initial supply of 100 HOLON will be divided as follows
 
-2.0.sec=Initial supply of 100 HOLON will be divided as follows
+Token.Structure.1.sec=25 tokens to issued SWARM holders on a pro rata basis
 
-2.1.sec=25 tokens to issued SWARM holders on a pro rata basis
+Token.Structure.2.sec=50 tokens reserved for contributors 
 
-2.2.sec=50 tokens reserved for contributors 
+Token.Structure.3.sec=25 tokens available for sale at a price to be determined by the market. 
 
-2.3.sec=25 tokens available for sale at a price to be determined by the market. 
+Token.Structure.=[Bit/Ssec_03]
 
-2.=[Bit/Ssec_03]
+Token.Add.sec=None. 
+  
+Delegate.sec=HOLON has a single delegate, Joel Dietz. 
 
-3.Ti=Additional Token value:
+Budget.sec=HOLON has no budget at the start. Any budget approval will follow the model DCO template. 
 
-3.sec=None. 
 
-4.Ti=Delegates: 
-
-4.sec=HOLON has a single delegate, Joel Dietz. 
-
-5.Ti=Budgets 
-
-5.sec=HOLON has no budget at the start. Any budget approval will follow the model DCO template. 
-
-6.Ti=Contract General Terms
-
-6.=[Swarm/DCO_Agt/Swarm_DCO_Agt_Form.01.md]
-
-=[Bit/Sec_06]
+=[Swarm/DCO_Agt/Swarm_DCO_TermSheet.01.md]
