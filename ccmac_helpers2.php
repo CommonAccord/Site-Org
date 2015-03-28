@@ -81,7 +81,7 @@ else if($_REQUEST['action'] == 'edit') {
 
 else if($_REQUEST['action'] == 'pull') {
 
-echo `cd /var/www/www.commonaccord.org/Alpha; git reset --hard HEAD; git pull -f 2>&1`;
+echo `cd /var/www/www.commonaccord.org/Alpha; git reset --hard HEAD; git pull -f --depth 0 2>&1`;
 
 }
 
