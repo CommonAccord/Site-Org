@@ -1,1 +1,0 @@
-Forms are the heart of CommonAccord.

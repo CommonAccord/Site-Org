@@ -1,9 +1,0 @@
-Texts={Text1}
-
-Text1=(statute or regulation with link)
-
-Reqs={Req.ProviderValidateUser}
-
-Req.ProviderValidateUser={Provider} must have validated the {Patient}
-
-etc.
