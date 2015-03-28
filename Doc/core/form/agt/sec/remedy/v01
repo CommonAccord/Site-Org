@@ -1,0 +1,14 @@
+Model.Root={Sec}
+
+Sec=<u>Remedies</u>.&nbsp;  <ol><li>{Cumulative.Sec}</li><li>{Injunct.Sec}</li><li>{AttyFee.Sec}</li><li>{Conf.Return.Sec}</li></ol>
+
+Cumulative.Sec=<u>Remedies Cumulative</u>.&nbsp; Remedies under {this Agreement}, under applicable law{q} or otherwise afforded to any {party} are cumulative and not exclusive or alternative, except as may be otherwise expressly stated.
+
+Injunct.Sec=<u>Injunctions</u>.&nbsp; {The Receiving Party} acknowledges and agrees that:<ol><li>the restrictions contained in {this Agreement} are necessary for the protection of the business and goodwill of {the Disclosing Party} and {the Receiving Party} considers such restrictions to be reasonable for such purpose;</li><li>the misappropriation or unauthorized disclosure of {Confidential Information} is likely to cause substantial and irreparable damage to {the Disclosing Party}; and</li><li>damages may not be an adequate remedy for breach of {this Agreement} by {the Receiving Party}.</li></ol>{The Disclosing Party} shall be entitled to injunctive or other equitable relief, in addition to all other remedies available to a {Disclosing Party} at law or in equity, and no proof of special damages shall be necessary for the enforcement of {this Agreement}.
+
+AttyFee.Sec=<u>Attorneys' Fees</u>&nbsp; In any {3.suit.or} (including arbitration) to enforce or interpret the terms of {this Agreement}, the prevailing party shall be entitled to reasonable attorneys' fees, costs{q} and necessary disbursements in addition to any other relief to which such {party} may be entitled.
+
+Conf.Return.Sec=<u>Return or Destroy {Confidential Information}</u>.&nbsp;  At the request of {the Disclosing Party}, {the Receiving Party} will destroy or re-deliver to {the Disclosing Party} any {Confidential Information} it has received, without retaining any copy thereof.  {The Disclosing Party} will promptly destroy any record derived from {the Confidential Information}.  At the request of {the Disclosing Party}, an officer of {the Receiving Party} will certify that {the Receiving Party} has complied with this Section.
+
+
+

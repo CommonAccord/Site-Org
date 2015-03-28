@@ -1,0 +1,24 @@
+=[core/form/agt/model/Current]
+
+AGT.Title=Framework and Mutual Non-Disclosure Agreement
+
+AGT.Secs={Conf.Sec}</li><li>{Time.Sec}</li><li>{Limit.Sec}</li><li>{Dispute.Sec}</li><li>{Remedy.Sec}</li><li>{Misc.Sec}
+
+/Note=Eliminating the reference to Statements of Work, since there aren't any.
+Time.Term.Sec=<u>Term</u>.  {Time.Term.Base.Sen}  {Time.Term.Retroactive.Sen}
+/Note=instead of:
+Time.Term.Sec=<u>Term</u>.  {Time.Term.Base.Sen}  {Time.Term.Retroactive.Sen}  {Time.Term.SOW.Sen}
+
+EmployeeNDA.=[core/form/agt/master/attach/B_NDA]
+
+EmployeeNDA.Supplier={P2.Name.Full}
+
+Schedule B=Schedule A
+
+Stop.Xnum=2.5
+
+Terms.Survive.Xrefs=Sections 4, 5{q} and 6
+
+AGT.Attach=<hr><b><center>Schedule A</center></b><br><br>{EmployeeNDA.DocBody}
+
+                                                                      

@@ -1,0 +1,10 @@
+Note=Including the expanded General Terms that we broke out from the NDA.  There should be a common core of Misc.  Pulled the injunctions part out of the Misc and made it a separate section, like it is in the NDA.
+
+Misc.=[core/form/agt/nda/docracy50/Misc_Library]
+
+=[core/form/agt/consult/docracy49/v01]
+
+AGT.Secs._Lost=<ol><li>{SOW._Sec}</li><li>{IP._Sec}</li><li>{Rep._Sec}</li><li>{Term._Sec}</li><li>{Relate._Sec}</li><li>{Assign._Sec}</li><li>{Notice._Sec}</li><li>{Remedy.Injunction._Sec}</li><li>{Misc._Sec}</li></ol>
+
+Remedy.Injunction._Sec=<b>Injunctions</b>. Any breach or threatened breach of Sections {2.Xnum}, {3.Xnum} or {6.Xnum} this Agreement will cause irreparable harm to the Company for which damages would not be an adequate remedy, and, therefore, the Company is entitled to injunctive relief with respect thereto (without the necessity of posting any bond) in addition to any other remedies.
+                

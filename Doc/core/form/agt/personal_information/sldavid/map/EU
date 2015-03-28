@@ -1,0 +1,7 @@
+1.=[core/form/agt/personal_information/sldavid/map/EC_95_46]
+2.=[core/form/agt/personal_information/sldavid/map/COE]
+  
+Duty.List=<u>EU</u><ol><li>{1.Duty.List}</li><li>{2.Duty.List}</li></ol>
+
+Model.Root={Duty.List}  
+    

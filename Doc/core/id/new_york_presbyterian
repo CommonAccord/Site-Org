@@ -1,0 +1,17 @@
+Name.Full=NewYork-Presbyterian Hospital
+
+=[core/class/ID_Entity_NFP]
+
+=[core/id/new_york_presbyterian_168]
+
+168.=[core/id/new_york_presbyterian_168]
+
+Sign.=[core/id/solomon_shirley]
+
+Handle=Custodian Organization
+
+Domain.Com=myNYP.org
+Privacy.Email=privacy@nyp.org
+State=New York State
+Privacy.ContactOfficer=Nigel Yalmer, CPO
+          

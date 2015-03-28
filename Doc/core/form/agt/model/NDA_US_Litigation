@@ -1,0 +1,20 @@
+=[core/form/agt/model/Current]
+
+AGT.Title=Framework and Mutual Non-Disclosure Agreement
+
+Dispute.Forum.=[core/form/agt/sec/dispute/forum/court_us/Current]
+
+AGT.Secs={Conf.Sec}</li><li>{Time.Sec}</li><li>{Limit.Sec}</li><li>{Dispute.Sec}</li><li>{Remedy.Sec}</li><li>{Misc.Sec}
+
+EmployeeNDA.=[core/form/agt/master/attach/B_NDA]
+
+EmployeeNDA.Supplier={P2.Name.Full}
+Schedule B=Schedule A
+
+Stop.Xnum=2.5
+
+Terms.Survive.Xrefs=Sections 4, 5{q} and 6
+
+AGT.Attach=<hr><b><center>Schedule A</center></b><br><br>{EmployeeNDA.DocBody}
+
+                                                        

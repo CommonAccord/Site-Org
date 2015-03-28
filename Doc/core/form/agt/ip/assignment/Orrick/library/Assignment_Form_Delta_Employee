@@ -1,0 +1,57 @@
+<b>For Employee</b>=The Orrick docs use the first person.  
+Employee/Consultant=Employee
+P2.Handle=I", "me", "my
+employment/consulting=employment
+reemploys/reengages=reemploys me or engages me as a consultant
+P2./s=<b></b>
+P2./es=<b></b>
+P2.I/C=I
+P2.I/C+=I
+P2.my/C=my
+P2.My/C=My
+P2.me/C=me
+P2.mine/C-mine
+P2.mine/C=mine
+P2.me/C+=me
+P2.me/C+inRelationship=me
+P2.my/C assigns={P2.my/C} heirs, executors, administrators and other legal representatives, and {P2.my/C} successors and assigns
+P2.my/its=my
+P2.my/C's=my
+P2.I have/C has=I have
+
+P2.have/has=have
+P2.am/is=am
+P2.y/ies=y
+P2.do/does=do
+P2.us/them=us
+
+P2.my obligations/C Services=my  obligations to {the Company} under {the Relationship}
+
+P2.I obtain/C obtains=I obtain, access or create
+
+relationship=employment
+
+employment/engagement=employment
+
+becoming/continuing=<b>{? becoming/continuing}  employed (or {P2.my/C} employment being continued)</b>
+
+becoming=my becoming employed
+
+continuing=my employment being continued
+
+
+former employer(s)=former employers and clients
+
+during the period of the Relationship=during the period of {the Relationship}
+
+Invent.Assign.WorkForHire/={Invent.Assign.WorkForHire}
+
+Emp.At-Will._Sec/Consult.NoChange._Sec={Emp.At-Will._Sec}
+
+Rep.NoConflict._Sec={Emp.Rep.NoConflict._Sec}
+
+Misc.Sever._Sec={Emp.Misc.Sever._Sec}
+
+Misc.Entire.Add._cl={Misc.Entire.EmpIsOfficer._cl}
+
+Agt.Attachment={Emp.Agt.Attachment}              

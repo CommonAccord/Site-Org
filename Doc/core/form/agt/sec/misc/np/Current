@@ -1,0 +1,27 @@
+Model.Root={Sec}
+
+Sec=<b>{Title}.</b><ol><li>{Law.Sec}</li><li>{Bind.Sec}</li><li>{Entire.Sec}</li><li>{Sever.Sec}</li><li>{Notice.Sec}</li><li>{Advised.Sec}</li><li>{Counterpart.Sec}</li><li>{Waiver.Sec}</li></li></ol>
+
+
+
+Title=Miscellaneous
+
+Law.Sec=This Agreement shall be subject to and governed by the laws of {Dispute.Law.State.the}.
+
+Bind.Sec=This Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective heirs, legal representatives, executors, administrators, successors and permitted assigns.
+
+Entire.Sec=This Agreement constitutes the entire agreement between the parties hereto with respect to the subject hereof, and supersedes any and all other agreements, either oral or in writing, between the parties hereto with respect to the subject hereof. No change or modification of this Agreement shall be valid unless the same is in writing and signed by both parties hereto. No waiver of any provisions of this Agreement shall be valid unless in writing and signed by the person or party to be charged therewith. It is expressly understood that the terms of this Agreement are separate and distinct from the terms regarding noncompetition and non-disclosure contained in the Employment Agreements, and the terms of this Agreement are intended to and shall remain in full force and effect regardless of any conflicts with, or termination of, the Employment Agreement.
+
+Sever.Sec=If any portion of this Agreement shall be for any reason, invalid or unenforceable, the remaining portion or portions shall nevertheless be valid, enforceable and carried into effect, unless to do so would clearly violate the present legal and valid intention of the parties hereto.
+
+Notice.Sec=All notices, demands, requests, consents, approvals or other communications required or permitted hereunder shall be in writing and shall be delivered by hand, registered or certified mail with return receipt requested or by a nationally recognized overnight delivery service, in each case with all postage or other delivery charges prepaid, and to the address of the party to whom it is directed as indicated below, or to such other address as such party may specify by giving notice to the other in accordance with the terms hereof. Any such notice shall be deemed to be received (i) when delivered, if by hand, (ii) on the next business day following timely deposit with a nationally recognized overnight delivery service, or (iii) on the date shown on the return receipt as received or refused or on the date the postal authorities state that delivery cannot be accomplished, if sent by registered or certified mail, return receipt requested.<br>{Notice.Block}
+
+Advised.Sec=<b>Advised.Sec</b><br><ol><li>MutualAdvised.Sec<br>{MutualAdvised.Sec}</li><li>P2Advised.Sec<br>{P2Advised.Sec}</li></ol>
+MutualAdvised.Sec=Each party represents and warrants that it has had the opportunity to seek the advice of independent legal counsel prior to signing this Agreement, and that each party has recommended to the other that the other party obtain such counsel.
+
+P2Advised.Sec={P2.Handle} represents and warrants that {P2.Handle} has had the opportunity to seek the advice of independent legal counsel prior to signing this Agreement, and that the Company has recommended to {P2.Handle} that {P2.Handle} obtain such counsel.
+
+Counterpart.Sec=This Agreement may be executed in several counterparts, each of which shall be deemed an original, and all of which shall together constitute one and the same instrument.
+
+Waiver.Sec=The failure of any party to enforce at any time any of the provisions of this Agreement shall in no way be construed to be a waiver of any such provision, nor in any way affect the validity of this Agreement or any part hereof or the right of any party thereafter to enforce each and every such provision. No waiver of any breach of this Agreement shall be held to be a waiver of any other or subsequent breach.
+  

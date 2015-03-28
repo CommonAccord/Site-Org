@@ -1,0 +1,16 @@
+=[core/form/agt/startup/nvca/spa/founderrep/Current]
+
+<p>=Eliminating the Founders Reps, see the NVCA_SPA_Knit, key "Alternatives" (line 4).
+
+AGT._Secs={AGT.NoFounder._Secs}
+<p>=
+
+and=while we are at it, we'll add underlining to the headings.
+
+st-=<u><b>
+-st=</b></u>.&ensp;<br>
+<p>=
+<p>=
+and=break the sentences further apart so we can see them.
+
+-sen-={br}--{br}

@@ -1,0 +1,17 @@
+=[core/class/ID_He]
+
+=[core/at/USA/CA/San_Francisco/San_Francisco/Geo]
+
+Addr.1=1101 Mission Street
+
+Addr.Zip=94103
+
+Addr.Type=business
+
+Name.First=Samuel
+
+Name.Last=Hardy
+
+Name.Full={m-}{Name.FL}{-m}
+
+PageName=core/id/samuel_hardy

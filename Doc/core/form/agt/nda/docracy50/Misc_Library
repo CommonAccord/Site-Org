@@ -1,0 +1,27 @@
+_Sec=<b>General.</b>  {L-}{Entire._sec}{-L-}{Counterpart._sec}{-L-}{Fax._sec}{-L-}{Amend._sec}{-L-}{Waive._sec}{-L-}{Cumulative._sec}{-L-}{Sever._sec}{-L-}{Law._sec}{-L-}{Forum._sec}{-L-}{AttyFee._sec}{-L-}{Heading._sec}{-L-}{Notice._sec}{-L}
+
+Entire._sec=This Agreement constitutes the entire agreement, and supersedes all prior negotiations, understandings or agreements (oral or written), between the parties concerning the subject matter hereof.
+
+Counterpart._sec=This Agreement may be executed in one or more counterparts, each of which is an original, but taken together constituting one and the same instrument.
+
+Fax._sec=Execution of a facsimile copy shall have the same force and effect as execution of an original, and a facsimile signature shall be deemed an original and valid signature.
+
+Amend._sec=No change, consent or waiver to this Agreement will be effective unless in writing and signed by the party against which enforcement is sought.
+
+Waive._sec=The failure of either party to enforce its rights under this Agreement at any time for any period shall not be construed as a waiver of such rights.
+
+Cumulative._sec=Unless expressly provided otherwise, each right and remedy in this Agreement is in addition to any other right or remedy, at law or in equity, and the exercise of one right or remedy will not be deemed a waiver of any other right or remedy.
+
+Sever._sec=In the event that any provision of this Agreement shall be determined to be illegal or unenforceable, that provision will be limited or eliminated to the minimum extent necessary so that the Agreement shall otherwise remain in full force and effect and enforceable.
+
+Law._sec=This Agreement shall be governed by and construed in accordance with the laws of {Dispute.Law.State.of} without regard to the conflicts of laws provisions thereof.
+
+Forum._sec=Exclusive jurisdiction and venue for any action arising under this Agreement is in the federal and state courts having jurisdiction for {Forum.City}, and both parties hereby consent to such jurisdiction and venue for this purpose.
+
+AttyFee._sec=In any action or proceeding to enforce or interpret this Agreement, the prevailing party will be entitled to recover from the other party its costs and expenses (including reasonable attorneys' fees) incurred in connection with such action or proceeding and enforcing any judgment or order obtained.
+
+Heading._sec=Headings herein are for convenience of reference only and shall in no way affect interpretation of the Agreement.
+
+Notice._sec=Any notice hereunder will be effective upon receipt and shall be given in writing, in English and delivered to the other party at its address given herein or at such other address designated by written notice.
+
+Model.Root={_Sec}    

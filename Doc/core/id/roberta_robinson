@@ -1,0 +1,21 @@
+=[core/class/ID_She]
+
+=[core/at/USA/NY/Ulster/Woodstock/Geo]
+
+Sign.=[core/id/roberta_robinson]
+
+Sign.Title=Self
+
+Name.Full={m-}Roberta Robinson{-m}
+
+Addr.Type=business
+
+Addr.1=666 Winding Drive
+
+Phone=918.981.8918
+
+Email=roberta@robinsonandson.com
+
+Fax=918.981.8918
+
+PageName=core/id/roberta_robinson
