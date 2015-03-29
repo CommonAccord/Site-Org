@@ -8,11 +8,11 @@ Ti=Representations and Warranties of the Company
 
 2.Ti=Corporate Power
 
-2.sec={The_Company} has all requisite corporate power to execute and deliver {this_Agreement}, to issue each {Note} (collectively, the “{Loan_Documents}”) and to carry out and perform its obligations under the terms of the {Loan_Documents}.  
+2.sec={The_Company} has all requisite corporate power to execute and deliver {this_Agreement}, to issue each {Note} (collectively, the “{Loan_Documents}&rdquo;) and to carry out and perform its obligations under the terms of the {Loan_Documents}.  
 
 3.Ti=Authorization
 
-3.sec=All corporate action on the part of {the_Company}, its directors and its stockholders necessary for the authorization of the {Loan_Documents} and the execution, delivery and performance of all obligations of {the_Company} under the {Loan_Documents}, including the issuance and delivery of the {Notes} and the reservation of the equity securities issuable upon conversion of the {Notes} (collectively, the “{Conversion_Securities}”) has been taken or will be taken prior to the issuance of such {Conversion_Securities}.  The {Loan_Documents}, when executed and delivered by {the_Company}, shall constitute valid and binding obligations of {the_Company} enforceable in accordance with their terms, subject to laws of general application relating to bankruptcy, insolvency, the relief of debtors and, with respect to rights to indemnity, subject to federal and state securities laws.  The {Conversion_Securities}, when issued in compliance with the provisions of the {Loan_Documents} will be validly issued, fully paid and nonassessable and free of any liens or encumbrances and issued in compliance with all applicable federal and securities laws.
+3.sec=All corporate action on the part of {the_Company}, its directors and its stockholders necessary for the authorization of the {Loan_Documents} and the execution, delivery and performance of all obligations of {the_Company} under the {Loan_Documents}, including the issuance and delivery of the {Notes} and the reservation of the equity securities issuable upon conversion of the {Notes} (collectively, the “{Conversion_Securities}&rdquo;) has been taken or will be taken prior to the issuance of such {Conversion_Securities}.  The {Loan_Documents}, when executed and delivered by {the_Company}, shall constitute valid and binding obligations of {the_Company} enforceable in accordance with their terms, subject to laws of general application relating to bankruptcy, insolvency, the relief of debtors and, with respect to rights to indemnity, subject to federal and state securities laws.  The {Conversion_Securities}, when issued in compliance with the provisions of the {Loan_Documents} will be validly issued, fully paid and nonassessable and free of any liens or encumbrances and issued in compliance with all applicable federal and securities laws.
 
 4.Ti=Governmental Consents
 
@@ -28,7 +28,7 @@ Ti=Representations and Warranties of the Company
 
 7.Ti=Offering
 
-7.sec=Assuming the accuracy of the representations and warranties of the {Purchasers} contained in {iRep.Xref} hereof, the offer, issue, and sale of the {Notes} and the {Conversion_Securities} (collectively, the “{Securities}”) are and will be exempt from the registration and prospectus delivery requirements of the Securities Act of 1933, as amended (the “{Act}”), and have been registered or qualified (or are exempt from registration and qualification) under the registration, permit, or qualification requirements of all applicable state securities laws.
+7.sec=Assuming the accuracy of the representations and warranties of the {Purchasers} contained in {iRep.Xref} hereof, the offer, issue, and sale of the {Notes} and the {Conversion_Securities} (collectively, the “{Securities}&rdquo;) are and will be exempt from the registration and prospectus delivery requirements of the Securities Act of 1933, as amended (the “{Act}&rdquo;), and have been registered or qualified (or are exempt from registration and qualification) under the registration, permit, or qualification requirements of all applicable state securities laws.
 
 8.Ti=Use of Proceeds
 

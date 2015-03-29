@@ -2,7 +2,7 @@ Ti=Engagement of {Services}
 
 1.Ti={Project_Assignments}
 
-1.sec={P1.The} may offer {Project_Assignments} to {P2.the} in the form attached to {this_Agreement} as {Project.Attach.Exh.Ti} (each a “{Project_Assignment}”).  {P2.The} shall accept or decline each {Project_Assignment} within five (5) days of the offer by {P1.the}.  Subject to the terms of {this_Agreement}, {P2.the} will render the services set forth in each {Project_Assignment} it accepts (the “{Services}”) by the completion dates set forth in the {Project_Assignment}.  
+1.sec={P1.The} may offer {Project_Assignments} to {P2.the} in the form attached to {this_Agreement} as {Project.Attach.Exh.Ti} (each a “{Project_Assignment}&rdquo;).  {P2.The} shall accept or decline each {Project_Assignment} within five (5) days of the offer by {P1.the}.  Subject to the terms of {this_Agreement}, {P2.the} will render the services set forth in each {Project_Assignment} it accepts (the “{Services}&rdquo;) by the completion dates set forth in the {Project_Assignment}.  
 
 2.Ti=Manner of Performance
 

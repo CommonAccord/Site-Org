@@ -46,7 +46,7 @@ PerpetualLicense.Xref=Section 1.4
 
 3.1.2.Ti=Walk-ins
 
-3.1.2.sec=Patrons not affiliated with {Licensee} who are physically present at {Licensee}'s site(s) (“walk-ins”). 
+3.1.2.sec=Patrons not affiliated with {Licensee} who are physically present at {Licensee}'s site(s) (“walk-ins&rdquo;). 
 
 3.1.=[02/Bit/Sec_02]
 
@@ -56,7 +56,7 @@ PerpetualLicense.Xref=Section 1.4
 
 3.2.1.Ti=IP Addresses
 
-3.2.1.sec={Authorized_Users} shall be identified and authenticated by the use of Internet Protocol (“IP”) addresses provided by {Licensee} to {Licensor}. The use of proxy servers is permitted as long as any proxy server IP addresses provided limit remote or off-campus access to {Authorized_Users}.
+3.2.1.sec={Authorized_Users} shall be identified and authenticated by the use of Internet Protocol (“IP&rdquo;) addresses provided by {Licensee} to {Licensor}. The use of proxy servers is permitted as long as any proxy server IP addresses provided limit remote or off-campus access to {Authorized_Users}.
 
 3.2.=[02/Bit/Sec_01]
 
@@ -118,7 +118,7 @@ PerpetualLicense.Xref=Section 1.4
 
 3.3.13.Ti=Interlibrary Loan
 
-3.3.13.sec=Using electronic, paper, or intermediated means, {Licensee} at its discretion may fulfill occasional requests from other institutions, a practice commonly called Interlibrary Loan.  {Licensee} agrees to fulfill such requests in compliance with Section 108 of the United States Copyright Law (17 USC §108, “Limitations on exclusive rights: Reproduction by libraries and archives”) and the Guidelines for the Proviso of Subsection 108(2g)(2) prepared by the National Commission on New Technological Uses of Copyrighted Works.
+3.3.13.sec=Using electronic, paper, or intermediated means, {Licensee} at its discretion may fulfill occasional requests from other institutions, a practice commonly called Interlibrary Loan.  {Licensee} agrees to fulfill such requests in compliance with Section 108 of the United States Copyright Law (17 USC §108, “Limitations on exclusive rights: Reproduction by libraries and archives&rdquo;) and the Guidelines for the Proviso of Subsection 108(2g)(2) prepared by the National Commission on New Technological Uses of Copyrighted Works.
 
 3.3.=[02/Bit/Sec_13]
 

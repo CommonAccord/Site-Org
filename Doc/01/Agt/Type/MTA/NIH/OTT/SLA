@@ -8,7 +8,7 @@ Heading=<center><b>{Agt.Title}</b></center>
 
 Agt.Title=Simple Letter Agreement for the Transfer of Materials
 
-Intro=In response to RECIPIENT’s request for the MATERIAL {m-}{Material.Description}{-m} the PROVIDER asks that the RECIPIENT and the RECIPIENT SCIENTIST agree to the following before the RECIPIENT receives the MATERIAL: 
+Intro=In response to RECIPIENT&rsquo;s request for the MATERIAL {m-}{Material.Description}{-m} the PROVIDER asks that the RECIPIENT and the RECIPIENT SCIENTIST agree to the following before the RECIPIENT receives the MATERIAL: 
 Sections=<ol><li>{1}</li><li>{2}</li><li>{3}</li><li>{4}</li><li>{5}</li><li>{6}</li><li>{7}</li><li>{8}</li></ol>
 1=The above MATERIAL is the property of the PROVIDER and is made available as a service to the research community. 
 2=THIS MATERIAL IS NOT FOR USE IN HUMAN SUBJECTS. 

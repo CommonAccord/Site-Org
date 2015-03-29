@@ -1,4 +1,4 @@
-1.Sec=This {Ti} (the “{Agreement}”) is made as of {DateOfNotePurchaseAgreement} (the “{Effective_Date}”) by and among {CompanyName}, a Delaware corporation (the “{Company}”), and the persons and entities named on the {Schedule_of_Purchasers} attached hereto (individually, a “{Purchaser}” and collectively, the “{Purchasers}”).
+1.Sec=This {Ti} (the “{Agreement}&rdquo;) is made as of {DateOfNotePurchaseAgreement} (the “{Effective_Date}&rdquo;) by and among {CompanyName}, a Delaware corporation (the “{Company}&rdquo;), and the persons and entities named on the {Schedule_of_Purchasers} attached hereto (individually, a “{Purchaser}&rdquo; and collectively, the “{Purchasers}&rdquo;).
 
 2.Ti=Recital
 

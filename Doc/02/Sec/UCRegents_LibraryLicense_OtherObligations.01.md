@@ -58,9 +58,9 @@ NoticeOfModification.Days=ninety (90) days
 
 2.6.sec={Licensor} will provide regular system and project updates to {Licensee} as they become available.  {Licensor} will provide additional training to {Licensee} staff made necessary by any updates or modifications to the {Licensed_Materials} or any {Licensor} software.
 
-2.7.Ti=Notice of Terms of “Click-Through” License Terms
+2.7.Ti=Notice of Terms of “Click-Through&rdquo; License Terms
 
-2.7.sec=In the event that {Licensor} requires {Authorized_Users} to agree to terms relating to the use of the {Licensed_Materials} before permitting {Authorized_Users} to gain access to the {Licensed_Materials} (commonly referred to as “click-through” licenses), {Licensor} shall provide {Licensee} with notice of and an opportunity to comment on such terms prior to their implementation.  In no event shall the terms of such “click-through” licenses materially differ from the provisions of {this_Agreement}.  In the event of any conflict between the terms of such “click-through” licenses and {this_Agreement}, the terms of {this_Agreement} shall prevail.
+2.7.sec=In the event that {Licensor} requires {Authorized_Users} to agree to terms relating to the use of the {Licensed_Materials} before permitting {Authorized_Users} to gain access to the {Licensed_Materials} (commonly referred to as “click-through&rdquo; licenses), {Licensor} shall provide {Licensee} with notice of and an opportunity to comment on such terms prior to their implementation.  In no event shall the terms of such “click-through&rdquo; licenses materially differ from the provisions of {this_Agreement}.  In the event of any conflict between the terms of such “click-through&rdquo; licenses and {this_Agreement}, the terms of {this_Agreement} shall prevail.
 
 2.8.Ti=Usage Statistics
 

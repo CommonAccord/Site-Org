@@ -4,46 +4,46 @@ Def.Sec=<u>Definitions</u>.<br>  {Def.Intro}:<ol><li>{Def.Affiliate}</li><li>{De
 
 Def.Intro=The following capitalized terms used in this Agreement have the following meanings
 
-Def.Affiliate=<b>“{Affiliate}”</b> means<ol><li>with respect to {P1.Handle}, a {P1 Affiliate}; and</li><li>with {P2.Handle}, a {P2 Affiliate}.</li></ol>
+Def.Affiliate=<b>&ldquo;{Affiliate}&rdquo;</b> means<ol><li>with respect to {P1.Handle}, a {P1 Affiliate}; and</li><li>with {P2.Handle}, a {P2 Affiliate}.</li></ol>
 
-Def.P1=<b>“{P1.Handle}”</b> has the meaning defined in the prologue to this Agreement.
+Def.P1=<b>&ldquo;{P1.Handle}&rdquo;</b> has the meaning defined in the prologue to this Agreement.
 
-Def.P1_Affiliate=<b>“{P1 Affiliate}”</b> means, with respect to {P1.Handle}, any entity, including without limitation, any individual, corporation, company, partnership, limited liability company or group, that directly, or indirectly through one or more intermediaries, controls, is controlled by or is under common control with {P1.Handle}.
+Def.P1_Affiliate=<b>&ldquo;{P1 Affiliate}&rdquo;</b> means, with respect to {P1.Handle}, any entity, including without limitation, any individual, corporation, company, partnership, limited liability company or group, that directly, or indirectly through one or more intermediaries, controls, is controlled by or is under common control with {P1.Handle}.
 
-Def.P1_Personal_Data=<b>“{P1 Personal Data}”</b> includes: <ol><li>{Personal Data} obtained by {P2.Handle} from {P1.Handle};</li><li>{Personal Data} (from whatever source) being "Processed" by {P2.Handle} on behalf of {P1.Handle}; and</li><li>{Personal Data} (from whatever source) pertaining to {P1.Handle} personnel.</li></ol>
+Def.P1_Personal_Data=<b>&ldquo;{P1 Personal Data}&rdquo;</b> includes: <ol><li>{Personal Data} obtained by {P2.Handle} from {P1.Handle};</li><li>{Personal Data} (from whatever source) being "Processed" by {P2.Handle} on behalf of {P1.Handle}; and</li><li>{Personal Data} (from whatever source) pertaining to {P1.Handle} personnel.</li></ol>
 
-Def.P1_Property=<b>“{P1 Property}”</b> means: <ol><li>{Intellectual Property} incorporated into the Services or any deliverables under this Agreement;</li><li>{Intellectual Property} conceived, produced or developed by {P2.Handle}, whether directly or indirectly or alone or jointly with others, in connection with or pursuant to {P2.Handle}’s performance of this Agreement; and</li><li>creations and inventions that are otherwise made by {P2.Handle} through the use of equipment, funds, supplies, facilities, materials and/or {Proprietary Information} of {P1 or its Affiliates};</li></ol> provided, however, that any techniques, technology or tools independently developed by {P2.Handle} and not developed for or paid for by {P1.Handle} shall not be {P1 Property}.
+Def.P1_Property=<b>&ldquo;{P1 Property}&rdquo;</b> means: <ol><li>{Intellectual Property} incorporated into the Services or any deliverables under this Agreement;</li><li>{Intellectual Property} conceived, produced or developed by {P2.Handle}, whether directly or indirectly or alone or jointly with others, in connection with or pursuant to {P2.Handle}&rsquo;s performance of this Agreement; and</li><li>creations and inventions that are otherwise made by {P2.Handle} through the use of equipment, funds, supplies, facilities, materials and/or {Proprietary Information} of {P1 or its Affiliates};</li></ol> provided, however, that any techniques, technology or tools independently developed by {P2.Handle} and not developed for or paid for by {P1.Handle} shall not be {P1 Property}.
 
-Def.Data_Subject=<b>“{Data Subject}”</b> means individuals to whom {Personal Data} pertains.
+Def.Data_Subject=<b>&ldquo;{Data Subject}&rdquo;</b> means individuals to whom {Personal Data} pertains.
 
-Def.Intellectual_Property=<b>“Intellectual Property”</b> means all intellectual property and proprietary rights including without limitation all rights of inventorship and authorship, inventions, patents, patent applications, and know-how for any product, process, method, machine, manufacture, design, composition of matter, or any new or useful improvement thereof, as well as copyrights, trademark, trade dress and service mark rights and all rights in trade secrets, computer software, data and databases, and mask works. 
+Def.Intellectual_Property=<b>&ldquo;Intellectual Property&rdquo;</b> means all intellectual property and proprietary rights including without limitation all rights of inventorship and authorship, inventions, patents, patent applications, and know-how for any product, process, method, machine, manufacture, design, composition of matter, or any new or useful improvement thereof, as well as copyrights, trademark, trade dress and service mark rights and all rights in trade secrets, computer software, data and databases, and mask works. 
 
-Def.IP_Rights=<b>“{IP Rights}”</b> means any and all rights of inventorship and authorship, patents and patent applications, copyrights, trademark and service mark rights, rights in trade secret and proprietary information, rights of attribution and integrity and other moral rights and other intellectual property rights of any type.
+Def.IP_Rights=<b>&ldquo;{IP Rights}&rdquo;</b> means any and all rights of inventorship and authorship, patents and patent applications, copyrights, trademark and service mark rights, rights in trade secret and proprietary information, rights of attribution and integrity and other moral rights and other intellectual property rights of any type.
 
-Def.Personal_Data=<b>“{Personal Data}”</b> means any information relating to an identified or identifiable natural person, including but not limited to any data relating to {P2 Personnel}, as well as {P1.Handle}’s employees, officers, directors, shareholders, customers, prospects, contacts, suppliers or distributors.
+Def.Personal_Data=<b>&ldquo;{Personal Data}&rdquo;</b> means any information relating to an identified or identifiable natural person, including but not limited to any data relating to {P2 Personnel}, as well as {P1.Handle}&rsquo;s employees, officers, directors, shareholders, customers, prospects, contacts, suppliers or distributors.
 
-Def.Processing=<b>“{Processing}”</b> of {Personal Data} (including the forms “{Process}”, “{Processes}”, “ and {Processed}”) means and includes any operation or set of operations which is performed upon personal data, whether or not by automatic means, such as collection, recording, accessing, retrieval, use, organization, storage, adaptation or alteration, consultation, disclosure by transmission, dissemination or otherwise making available, alignment or combination, blocking, erasure or destruction.
+Def.Processing=<b>&ldquo;{Processing}&rdquo;</b> of {Personal Data} (including the forms &ldquo;{Process}&rdquo;, &ldquo;{Processes}&rdquo;, &ldquo; and {Processed}&rdquo;) means and includes any operation or set of operations which is performed upon personal data, whether or not by automatic means, such as collection, recording, accessing, retrieval, use, organization, storage, adaptation or alteration, consultation, disclosure by transmission, dissemination or otherwise making available, alignment or combination, blocking, erasure or destruction.
 
-Def.Proprietary_Information=<b>“Proprietary Information”</b> means information that is or has been disclosed to {P2.Handle} by {P1 or its Affiliates}: {Propietary_Information.Impart._List}  Notwithstanding the foregoing, {Proprietary_Information.Include-By-Category}
+Def.Proprietary_Information=<b>&ldquo;Proprietary Information&rdquo;</b> means information that is or has been disclosed to {P2.Handle} by {P1 or its Affiliates}: {Propietary_Information.Impart._List}  Notwithstanding the foregoing, {Proprietary_Information.Include-By-Category}
 
-Propietary_Information.Impart._List=<ol><li>in writing or by email or other tangible electronic storage medium and is clearly marked “Confidential” or “Proprietary”; or</li><li>orally or visually, and then followed within thirty (30) working days thereafter with a summary or disclosure complying with the requirements of clause (i) above.</li></ol> 
+Propietary_Information.Impart._List=<ol><li>in writing or by email or other tangible electronic storage medium and is clearly marked &ldquo;Confidential&rdquo; or &ldquo;Proprietary&rdquo;; or</li><li>orally or visually, and then followed within thirty (30) working days thereafter with a summary or disclosure complying with the requirements of clause (i) above.</li></ol> 
 
 Proprietary_Information.Include-By-Category={Proprietary Information} includes, without limitation: <ol><li>commercially valuable information of {P1 and its Affiliates} and their successors and assigns, the design and development of which required considerable amounts of time and money;</li><li>any Software Product developed by {P1 and its Affiliates} and/or their successors and assigns; and </li><li>any {P1 Property}.</li></ol>
 
-Def.Software_Materials=<b>“{Software Materials}”</b> means a copy of the object code, source code, documentation and all annotations thereto relating to any software delivered by {P2.Handle}  to {P1.Handle} under this Agreement.
+Def.Software_Materials=<b>&ldquo;{Software Materials}&rdquo;</b> means a copy of the object code, source code, documentation and all annotations thereto relating to any software delivered by {P2.Handle}  to {P1.Handle} under this Agreement.
 
-Def.Software_Product=<b>“{Software Product}”</b> means any computer software product and related information.
+Def.Software_Product=<b>&ldquo;{Software Product}&rdquo;</b> means any computer software product and related information.
 
-Def.P2=<b>“{P2.Handle}”</b> has the meaning defined in the prologue to this Agreement.
+Def.P2=<b>&ldquo;{P2.Handle}&rdquo;</b> has the meaning defined in the prologue to this Agreement.
 
-Def.P2_Affiliate=<b>“{P2 Affiliate}”</b> means, with respect to {P2.Handle}, any entity, including without limitation, any individual, corporation, company, partnership, limited liability company or group, that directly, or indirectly through one or more intermediaries, controls, is controlled by or is under common control with {P2.Handle}.
+Def.P2_Affiliate=<b>&ldquo;{P2 Affiliate}&rdquo;</b> means, with respect to {P2.Handle}, any entity, including without limitation, any individual, corporation, company, partnership, limited liability company or group, that directly, or indirectly through one or more intermediaries, controls, is controlled by or is under common control with {P2.Handle}.
 
-Def.P2_Intellectual_Property=<b>“{P2 Intellectual Property}”</b> means {Intellectual Property} of {P2.Handle}.
+Def.P2_Intellectual_Property=<b>&ldquo;{P2 Intellectual Property}&rdquo;</b> means {Intellectual Property} of {P2.Handle}.
 
-Def.P2_Personnel=<b>“{P2 Personnel}”</b> means all persons providing {Services} under this Agreement.
+Def.P2_Personnel=<b>&ldquo;{P2 Personnel}&rdquo;</b> means all persons providing {Services} under this Agreement.
 
-Def.P2_Reserved_Intellectual_Property=<b>“{P2 Reserved Intellectual Property}”</b> means {P2 Intellectual Property} listed as such on {Attach.ReservedProperty.Xref}, {Attach.ReservedProperty.Title}.
+Def.P2_Reserved_Intellectual_Property=<b>&ldquo;{P2 Reserved Intellectual Property}&rdquo;</b> means {P2 Intellectual Property} listed as such on {Attach.ReservedProperty.Xref}, {Attach.ReservedProperty.Title}.
 
 
-Def.Third_Party_Intellectual_Propery=<b>“{Third Party Intellectual Property}”</b> means any software, applications, or components or other materials subject to {IP Rights} owned by any party (including {P2.Handle}) other than {P1.Handle}.
+Def.Third_Party_Intellectual_Propery=<b>&ldquo;{Third Party Intellectual Property}&rdquo;</b> means any software, applications, or components or other materials subject to {IP Rights} owned by any party (including {P2.Handle}) other than {P1.Handle}.
     

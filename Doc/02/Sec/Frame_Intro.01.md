@@ -5,7 +5,7 @@ Agt.Start={Agt.By.Sec} {Agt.Effective.Sec}<br><br>
 Agt.Intro={Agt.ThisAgreement.Sec} {Agt.Parties.Sec} {Agt.Purpose/Whereas.Sec} {Agt.NowTherefore.Sec}
 
 
-Agt.By.Sec=BY AND BETWEEN: <ul><li>{P1.Name.Full} (“{P1.Handle}”) and<li> {P2.Name.Full} (“{P2.Handle}”)</ul>
+Agt.By.Sec=BY AND BETWEEN: <ul><li>{P1.Name.Full} (“{P1.Handle}&rdquo;) and<li> {P2.Name.Full} (“{P2.Handle}&rdquo;)</ul>
 
 Agt.ByRepresented.Sec=BY AND BETWEEN: <ul><li>{P1.Represented.Cl}; and<li>{P2.Represented.Cl}</ul> 
 
@@ -15,9 +15,9 @@ P2.Represented.Cl={P2.Name.Full} as {P2.Handle}<br>Represented by: {P1.Sign.Name
 
 Agt.Effective.Sec=EFFECTIVE DATE ("{Effective_Date}"): {Agt.Effective.YMD}
 
-Agt.ThisAgreement.Sec=This {Ti} (the “{Agreement}”) is made as of the {Effective_Date} set forth above by and between {P1.N,E,A} (“{P1.Handle}”) and {P2.N,E,A} (“{P2.Handle}”).
+Agt.ThisAgreement.Sec=This {Ti} (the “{Agreement}&rdquo;) is made as of the {Effective_Date} set forth above by and between {P1.N,E,A} (“{P1.Handle}&rdquo;) and {P2.N,E,A} (“{P2.Handle}&rdquo;).
 
-Agt.Parties.Sec={P1.Handle} and {P2.Handle} are each sometimes referred to as a “{party}” and collectively as the “{parties}.”
+Agt.Parties.Sec={P1.Handle} and {P2.Handle} are each sometimes referred to as a “{party}&rdquo; and collectively as the “{parties}.&rdquo;
 
 Agt.Purpose/Whereas.Sec={Agt.Purpose.Sec}
 

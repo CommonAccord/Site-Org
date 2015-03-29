@@ -31,7 +31,7 @@ Back.2.sec=Borrower, Holdings, certain lenders and agents, and Second Lien Agent
 
 Back.3.sec=Holdings has guaranteed, and Holdings and Borrower have agreed to cause certain current and future Subsidiaries of Borrower [and Holdings] (the Guarantor Subsidiaries) to guarantee, Borrower’s Obligations under the First Lien Credit Agreement and the Second Lien Credit Agreement.
 
-Back.4.sec=Each of Borrower, Holdings, each Guarantor Subsidiary, and each other Person that executes and delivers a First Lien Collateral Document or a Second Lien Collateral Document as a “grantor” or “pledgor” (or the equivalent) is a Grantor.
+Back.4.sec=Each of Borrower, Holdings, each Guarantor Subsidiary, and each other Person that executes and delivers a First Lien Collateral Document or a Second Lien Collateral Document as a “grantor&rdquo; or “pledgor&rdquo; (or the equivalent) is a Grantor.
 
 Back.5.sec=A Grantor may enter into Hedge Agreements and Cash Management Agreements with one or more lenders under the First Lien Credit Agreement or their affiliates as counterparties, which may be included in the First Lien Obligations defined below. The First Lien Obligations and the Second Lien Obligations are secured by Liens on substantially all the assets of Borrower, Holdings, and the Guarantor Subsidiaries.
 
@@ -54,7 +54,7 @@ A.1.1.1.sec=A Lien on Collateral securing any First Lien Obligation that is incl
 
 A.1.1.2.sec=A Lien on Collateral securing any First Lien Obligation that is not included in the Capped Obligations will at all times be senior and prior in all respects to a Lien on such Collateral securing any Second Lien Obligation, and a Lien on Collateral securing any Second Lien Obligation will at all times be junior and subordinate in all respects to a Lien on such Collateral securing any First Lien Obligation that is not included in the Capped Obligations.
 
-A.1.1.3.sec=The Lien on Collateral securing any First Lien Obligation that is included in the Capped Obligations in excess of the First Lien Cap will have the priority set forth in section 1.11, “Subordination of Liens Securing Excess First Lien Obligations.”
+A.1.1.3.sec=The Lien on Collateral securing any First Lien Obligation that is included in the Capped Obligations in excess of the First Lien Cap will have the priority set forth in section 1.11, “Subordination of Liens Securing Excess First Lien Obligations.&rdquo;
 
 A.1.1.4.0.sec=Except as otherwise expressly provided herein, the priority of the Liens securing First Lien Obligations and the rights and obligations of the Parties will remain in full force and effect irrespective of
 
@@ -70,7 +70,7 @@ A.1.1.4.5.sec=the modification of a First Lien Obligation or a Second Lien Oblig
 
 A.1.1.4.6.sec=the modification of a First Lien Loan Document or a Second Lien Loan Document,
 
-A.1.1.4.7.sec=the subordination of a Lien on Collateral securing a First Lien Obligation to a Lien securing another obligation of a Grantor or other Person that is permitted under the First Lien Loan Documents as in effect on the date hereof or secures a DIP Financing deemed consented to by the Second Lien Claimholders pursuant to section 6.1, “Use of Collateral and DIP Financing,”
+A.1.1.4.7.sec=the subordination of a Lien on Collateral securing a First Lien Obligation to a Lien securing another obligation of a Grantor or other Person that is permitted under the First Lien Loan Documents as in effect on the date hereof or secures a DIP Financing deemed consented to by the Second Lien Claimholders pursuant to section 6.1, “Use of Collateral and DIP Financing,&rdquo;
 A.1.1.4.8.sec=the exchange of a security interest in any Collateral for a security interest in other Collateral,
 
 A.1.1.4.9.sec=the commencement of an Insolvency Proceeding, or
@@ -90,7 +90,7 @@ B.1.1.1.sec=A Lien on Collateral securing any First Lien Obligation that is incl
 
 B.1.1.2.sec=A Lien on Collateral securing any First Lien Obligation that is not included in the Capped Obligations will at all times be senior and prior in all respects to a Lien on such Collateral securing any Second Lien Obligation, and a Lien on Collateral securing any Second Lien Obligation will at all times be junior and subordinate in all respects to a Lien on such Collateral securing any First Lien Obligation that is not included in the Capped Obligations so long as the Lien securing the First Lien Obligations is valid, perfected, [and unavoidable] [and is not avoided in an Insolvency Proceeding].
 
-B.1.1.3.sec=The Lien on Collateral securing any First Lien Obligation that is included in the Capped Obligations in excess of the First Lien Cap will have the priority set forth in section 1.11, “Subordination of Liens Securing Excess First Lien Obligations.”
+B.1.1.3.sec=The Lien on Collateral securing any First Lien Obligation that is included in the Capped Obligations in excess of the First Lien Cap will have the priority set forth in section 1.11, “Subordination of Liens Securing Excess First Lien Obligations.&rdquo;
 
 B.1.1.3.0.sec=Except as otherwise expressly provided herein, the priority of the Liens securing First Lien Obligations and the rights and obligations of the Parties will remain in full force and effect irrespective of
 
@@ -104,7 +104,7 @@ B.1.1.3.4.sec=the modification of a First Lien Obligation or a Second Lien Oblig
 
 B.1.1.3.5.sec=the modification of a First Lien Loan Document or a Second Lien Loan Document,
 
-B.1.1.3.6.sec=the subordination of a Lien on Collateral securing a First Lien Obligation to a Lien securing another obligation of a Grantor or other Person that is permitted under the First Lien Loan Documents as in effect on the date hereof or secures a DIP Financing deemed consented to by the Second Lien Claimholders pursuant to Section 6.1, “Use of Collateral and DIP Financing,”
+B.1.1.3.6.sec=the subordination of a Lien on Collateral securing a First Lien Obligation to a Lien securing another obligation of a Grantor or other Person that is permitted under the First Lien Loan Documents as in effect on the date hereof or secures a DIP Financing deemed consented to by the Second Lien Claimholders pursuant to Section 6.1, “Use of Collateral and DIP Financing,&rdquo;
 
 B.1.1.3.7.sec=the exchange of a security interest in any Collateral for a security interest in other Collateral, or
 
@@ -140,7 +140,7 @@ A.1.3.1.4.sec=any Cash Management Agreement, or
 
 A.1.3.1.5.sec=any other agreement or instrument granting or providing for the perfection of a Lien securing any of the foregoing.
 
-A.1.3.1.90.sec=Notwithstanding any other provision hereof, the term “First Lien Obligations” will include accrued interest, fees, costs, and other charges incurred under the First Lien Credit Agreement and the other First Lien Loan Documents, whether incurred before or after commencement of an Insolvency Proceeding, and whether or not allowable in an Insolvency Proceeding. To the extent that any payment with respect to the First Lien Obligations (whether by or on behalf of any Grantor, as proceeds of security, enforcement of any right of set-off, or otherwise) is declared to be fraudulent or preferential in any respect, set aside, or required to be paid to a debtor in possession, trustee, receiver, or similar Person, then the obligation or part thereof originally intended to be satisfied will be deemed to be reinstated and outstanding as if such payment had not occurred.
+A.1.3.1.90.sec=Notwithstanding any other provision hereof, the term “First Lien Obligations&rdquo; will include accrued interest, fees, costs, and other charges incurred under the First Lien Credit Agreement and the other First Lien Loan Documents, whether incurred before or after commencement of an Insolvency Proceeding, and whether or not allowable in an Insolvency Proceeding. To the extent that any payment with respect to the First Lien Obligations (whether by or on behalf of any Grantor, as proceeds of security, enforcement of any right of set-off, or otherwise) is declared to be fraudulent or preferential in any respect, set aside, or required to be paid to a debtor in possession, trustee, receiver, or similar Person, then the obligation or part thereof originally intended to be satisfied will be deemed to be reinstated and outstanding as if such payment had not occurred.
 
 A.1.3.1.=[02/Bit/Ssec_05]
 
@@ -179,7 +179,7 @@ B.1.3.1.=[02/Bit/Ssec_05]
 
 1.3.2.4.sec=any agreement or instrument granting or providing for the perfection of a Lien securing any of the foregoing[, except that the aggregate principal amount of the Second Lien Obligations (other than Obligations under Hedge Agreements or Cash Management Agreements) in excess of the Second Lien Cap (as defined below) will not be Second Lien Obligations].
 
-1.3.2.90.sec=Notwithstanding any other provision hereof, the term “Second Lien Obligations” will include accrued interest, fees, costs, and other charges incurred under the Second Lien Credit Agreement and the other Second Lien Loan Documents, whether incurred before or after commencement of an Insolvency Proceeding[, and whether or not allowable in an Insolvency Proceeding].
+1.3.2.90.sec=Notwithstanding any other provision hereof, the term “Second Lien Obligations&rdquo; will include accrued interest, fees, costs, and other charges incurred under the Second Lien Credit Agreement and the other Second Lien Loan Documents, whether incurred before or after commencement of an Insolvency Proceeding[, and whether or not allowable in an Insolvency Proceeding].
 
 1.3.2.=[02/Bit/Ssec_04]
 
@@ -274,13 +274,13 @@ x1.4.3.sec=Capped Obligations means First Lien Obligations for the payment of pr
 
 1.5.2.=[02/Bit/Ssec_02]
 
-1.5.3.sec=Subject to section 1.1, “Seniority of Liens Securing First Lien Obligations,” if a Second Lien Claimholder hereafter acquires a Lien on property to secure a Second Lien Obligation where the property is not also subject to a Lien securing the First Lien Obligations, then such Second Lien Claimholder will give First Lien Agent written notice of such Lien no later than five Business Days after acquiring such Lien. If First Lien Agent also obtains a Lien on such property or if such Second Lien Claimholder fails to provide such timely notice to First Lien Agent, then such property will be deemed to be Collateral for all purposes hereunder.
+1.5.3.sec=Subject to section 1.1, “Seniority of Liens Securing First Lien Obligations,&rdquo; if a Second Lien Claimholder hereafter acquires a Lien on property to secure a Second Lien Obligation where the property is not also subject to a Lien securing the First Lien Obligations, then such Second Lien Claimholder will give First Lien Agent written notice of such Lien no later than five Business Days after acquiring such Lien. If First Lien Agent also obtains a Lien on such property or if such Second Lien Claimholder fails to provide such timely notice to First Lien Agent, then such property will be deemed to be Collateral for all purposes hereunder.
 
 1.5.=[02/Bit/Ssec_03]
 
 1.6.Ti=PLEDGED COLLATERAL
 
-1.6.1.sec=If First Lien Agent has any Collateral in its possession or control (such Collateral being the Pledged Collateral), then, subject to section 1.1, “Seniority of Liens Securing First Lien Obligations,” and this section 1.6, First Lien Agent will possess or control the Pledged Collateral as gratuitous bailee and/or gratuitous agent for perfection for the benefit of Second Lien Agent as secured party, so as to satisfy the requirements of sections 8-106(d)(3), 8-301(a)(2), and 9-313(c) of the U.C.C. In this section 1.6, “control” has the meaning given that term in sections 8-106 and 9-3 14 of the U.C.C.
+1.6.1.sec=If First Lien Agent has any Collateral in its possession or control (such Collateral being the Pledged Collateral), then, subject to section 1.1, “Seniority of Liens Securing First Lien Obligations,&rdquo; and this section 1.6, First Lien Agent will possess or control the Pledged Collateral as gratuitous bailee and/or gratuitous agent for perfection for the benefit of Second Lien Agent as secured party, so as to satisfy the requirements of sections 8-106(d)(3), 8-301(a)(2), and 9-313(c) of the U.C.C. In this section 1.6, “control&rdquo; has the meaning given that term in sections 8-106 and 9-3 14 of the U.C.C.
 
 1.6.2.sec=First Lien Agent will have no obligation to any First Lien Claimholder or Second Lien Claimholder to ensure that any Pledged Collateral is genuine or owned by any of the Grantors or to preserve rights or benefits of any Person except as expressly set forth in this section 1.6. The duties or responsibilities of First Lien Agent under this section 1.6 will be limited solely to possessing or controlling the Pledged Collateral as bailee and/or agent for perfection in accordance with this section 1.6 and delivering the Pledged Collateral upon a Discharge of First Lien Obligations as provided in subsection (d) below.
 
@@ -296,7 +296,7 @@ x1.4.3.sec=Capped Obligations means First Lien Obligations for the payment of pr
 
 1.6.=[02/Bit/Ssec_02]
 
-1.6.5.sec=If Second Lien Agent has any Pledged Collateral in its possession or control, then, subject to section 1.1, “Seniority of Liens Securing First Lien Obligations,” and this section 1.6, Second Lien Agent will possess or control the Pledged Collateral as gratuitous bailee and/or gratuitous agent for perfection for the benefit of First Lien Agent as secured party, so as to satisfy the requirements of sections 8-106(d)(3), 8-301(a)(2), and 9-313(c) of the U.C.C.
+1.6.5.sec=If Second Lien Agent has any Pledged Collateral in its possession or control, then, subject to section 1.1, “Seniority of Liens Securing First Lien Obligations,&rdquo; and this section 1.6, Second Lien Agent will possess or control the Pledged Collateral as gratuitous bailee and/or gratuitous agent for perfection for the benefit of First Lien Agent as secured party, so as to satisfy the requirements of sections 8-106(d)(3), 8-301(a)(2), and 9-313(c) of the U.C.C.
 
 1.6.6.sec=Second Lien Agent will have no obligation to any First Lien Claimholder or Second Lien Claimholder to ensure that any Pledged Collateral is genuine or owned by any of the Grantors or to preserve rights or benefits of any Person except as expressly set forth in this section 1.6. The duties or responsibilities of Second Lien Agent under this section 1.6 will be limited solely to possessing or controlling the Pledged Collateral as bailee and/or agent for perfection in accordance with this section 1.6 and delivering the Pledged Collateral upon a Discharge of Second Lien Obligations [up to any Second Lien Cap] as provided in subsection (h) below.
 
@@ -316,7 +316,7 @@ x1.4.3.sec=Capped Obligations means First Lien Obligations for the payment of pr
 
 1.7.Ti=LIMITATIONS ON DUTIES AND OBLIGATIONS
 
-1.7.1.sec=(1) First Lien Agent will be solely responsible for perfecting and maintaining the perfection of its Liens on the First Lien Collateral, and (2) except for First Lien Agent’s obligations under section 1.6, “Pledged Collateral,” Second Lien Agent will be solely responsible for perfecting and maintaining the perfection of its Liens on the Second Lien Collateral.
+1.7.1.sec=(1) First Lien Agent will be solely responsible for perfecting and maintaining the perfection of its Liens on the First Lien Collateral, and (2) except for First Lien Agent’s obligations under section 1.6, “Pledged Collateral,&rdquo; Second Lien Agent will be solely responsible for perfecting and maintaining the perfection of its Liens on the Second Lien Collateral.
 
 1.7.2.sec=This Agreement is intended solely to govern the respective Lien priorities as between First Lien Claimholders and Second Lien Claimholders and does not impose on First Lien Agent or Second Lien Agent any obligations in respect of the disposition of Proceeds of foreclosure on any Collateral that would conflict with a prior perfected claim in favor of another Person, an order or decree of a court or other Governmental Authority, or applicable law.
 
@@ -344,7 +344,7 @@ x1.4.3.sec=Capped Obligations means First Lien Obligations for the payment of pr
 
 [ADDITIONAL SECTIONS MORE FAVORABLE TO SECOND LIEN LENDERS]
 
-1.8.4.sec=The assertion in any proceeding (including an Insolvency Proceeding) or otherwise by one Party (Party A) of the invalidity or nonperfection of the other Party’s (Party B’s) security interest as a defense to a claim or assertion by Party B against Party A for or alleging breach of this Agreement arising out of Party A’s exercise or assertion of claims or other rights or enforcement of remedies under this Agreement or any First Lien Loan Documents or Second Lien Loan Documents, as applicable, will not be a “contest” for purposes of this section 1.8.
+1.8.4.sec=The assertion in any proceeding (including an Insolvency Proceeding) or otherwise by one Party (Party A) of the invalidity or nonperfection of the other Party’s (Party B’s) security interest as a defense to a claim or assertion by Party B against Party A for or alleging breach of this Agreement arising out of Party A’s exercise or assertion of claims or other rights or enforcement of remedies under this Agreement or any First Lien Loan Documents or Second Lien Loan Documents, as applicable, will not be a “contest&rdquo; for purposes of this section 1.8.
 
 1.8.5.sec=A Second Lien Claimholder who intends to assert a claim or exercise a right or remedy that would violate this Agreement but for the invalidity or nonperfection of the Lien purporting to secure First Lien Obligations will give First Lien Agent at least five Business Days’ prior notice of the contemplated action, stating the basis for the claimant’s belief that the invalidity or nonperfection exists.
 
@@ -364,7 +364,7 @@ x1.4.3.sec=Capped Obligations means First Lien Obligations for the payment of pr
 
 1.9.0.sec=Borrower will cause each Second Lien Collateral Document to include the following language (or language to similar effect approved by First Lien Agent) and any other language First Lien Agent reasonably requests to reflect the subordination of the Lien:
 
-1.9.1.sec=Notwithstanding anything herein to the contrary, the Lien and security interest granted to Second Lien Agent pursuant to this Agreement and the exercise of any right or remedy by Second Lien Agent hereunder are subject to the provisions of the Intercreditor Agreement, dated  _____________ (as amended, restated, supplemented, or otherwise modified from time to time, the “Intercreditor Agreement”), among __________, as First Lien Agent, _____________, as Second Lien Agent, _________________, as Control Agent, and the Grantors (as defined therein) from time to time party thereto and other persons party or that may become party thereto from time to time. If there is a conflict between the terms of the Intercreditor Agreement and this Agreement, the terms of the Intercreditor Agreement will control.
+1.9.1.sec=Notwithstanding anything herein to the contrary, the Lien and security interest granted to Second Lien Agent pursuant to this Agreement and the exercise of any right or remedy by Second Lien Agent hereunder are subject to the provisions of the Intercreditor Agreement, dated  _____________ (as amended, restated, supplemented, or otherwise modified from time to time, the “Intercreditor Agreement&rdquo;), among __________, as First Lien Agent, _____________, as Second Lien Agent, _________________, as Control Agent, and the Grantors (as defined therein) from time to time party thereto and other persons party or that may become party thereto from time to time. If there is a conflict between the terms of the Intercreditor Agreement and this Agreement, the terms of the Intercreditor Agreement will control.
 
 1.9.=[02/Bit/Ssec_01]
 
@@ -394,7 +394,7 @@ x1.4.3.sec=Capped Obligations means First Lien Obligations for the payment of pr
 
 1.10.3.1.sec=releases a Lien on Collateral or a Grantor from its Obligations under its guaranty, which Lien or guaranty is reinstated, or
 
-1.10.3.2.sec=obtains a new Lien or additional guaranty from a Grantor, then Second Lien Agent will be granted a Lien on such Collateral and an additional guaranty, as the case may be, subject to section 1.1, “Seniority of Liens Securing First Lien Obligations.”
+1.10.3.2.sec=obtains a new Lien or additional guaranty from a Grantor, then Second Lien Agent will be granted a Lien on such Collateral and an additional guaranty, as the case may be, subject to section 1.1, “Seniority of Liens Securing First Lien Obligations.&rdquo;
 
 1.10.3.=[02/Bit/Ssec_02]
 
@@ -404,11 +404,11 @@ x1.4.3.sec=Capped Obligations means First Lien Obligations for the payment of pr
 
 1.11.1.sec=If this Agreement provides for a Second Lien Cap, then all Liens securing Second Lien Obligations up to but not exceeding the Second Lien Cap will be senior in all respects and prior to any Lien on the Collateral securing any Excess First Lien Obligations, as defined below (but only with respect to such excess amounts), and all Liens securing any Excess First Lien Obligations will be junior and subordinate in all respects to any Lien securing a Second Lien Obligation up to but not exceeding the Second Lien Cap. All Liens securing Excess First Lien Obligations will be senior in all respects and prior to any Lien on the Collateral securing any Excess Second Lien Obligations and all Liens securing any Excess Second Lien Obligations will be junior and subordinate in all respects and prior to any Lien securing Excess First Lien Obligations.
 
-Example:  Suppose First Lien Obligations are $150 million, with a First Lien Cap of $100 million; Second Lien Obligations are $50 million, with a Second Lien Cap of $20 million; and the total Collateral has a fair market value of $175 million. Then First Lien Claimholders will have a first priority Lien on the first $100 million of Collateral (including Proceeds), Second Lien Claimholders will have a second priority Lien in the next $20 million of Collateral, First Lien Claimholders will have a third priority Lien in the remaining $55 million of Collateral up to the $50 million of Excess First Lien Obligations, and Second Lien Claimholders will have a fourth priority Lien in the remaining $5 million of Collateral. If all of the Collateral is sold at its fair market value, then the $175 million in sales proceeds will be sufficient to pay the First Lien Obligations of $150 million in full and $25 million of the Second Lien Obligations. See also section 4.1, “Application of Proceeds.”
+Example:  Suppose First Lien Obligations are $150 million, with a First Lien Cap of $100 million; Second Lien Obligations are $50 million, with a Second Lien Cap of $20 million; and the total Collateral has a fair market value of $175 million. Then First Lien Claimholders will have a first priority Lien on the first $100 million of Collateral (including Proceeds), Second Lien Claimholders will have a second priority Lien in the next $20 million of Collateral, First Lien Claimholders will have a third priority Lien in the remaining $55 million of Collateral up to the $50 million of Excess First Lien Obligations, and Second Lien Claimholders will have a fourth priority Lien in the remaining $5 million of Collateral. If all of the Collateral is sold at its fair market value, then the $175 million in sales proceeds will be sufficient to pay the First Lien Obligations of $150 million in full and $25 million of the Second Lien Obligations. See also section 4.1, “Application of Proceeds.&rdquo;
 
 1.11.2.sec=If this Agreement provides for a First Lien Cap but does not provide for a maximum limitation of the amount of the Second Lien Obligations (i.e., a Second Lien Cap), then all Liens securing Second Lien Obligations will be senior in all respects and prior to any Lien on the Collateral securing any Excess First Lien Obligations, as defined below (but only with respect to such excess amounts), and all Liens securing any Excess First Lien Obligations will be junior and subordinate in all respects to any Lien securing a Second Lien Obligation.
 
-Example:  Suppose First Lien Obligations are $150 million, with a First Lien Cap of $100 million; Second Lien Obligations are $50 million with no Second Lien Cap; and the total Collateral has a fair market value of $175 million. Then First Lien Claimholders will have a first priority Lien on the first $100 million of Collateral (including Proceeds), Second Lien Claimholders will have a second priority Lien in the next $50 million of Collateral, and First Lien Claimholders will have a third priority Lien on the remaining $25 million in Collateral. If all of the Collateral is sold at its fair market value, then the $1 75 million in sales proceeds will be sufficient to pay $125 million of the First Lien Obligations of $150 million and the Second Lien Obligations totaling $50 million in full. See also section 4.1, “Application of Proceeds.”
+Example:  Suppose First Lien Obligations are $150 million, with a First Lien Cap of $100 million; Second Lien Obligations are $50 million with no Second Lien Cap; and the total Collateral has a fair market value of $175 million. Then First Lien Claimholders will have a first priority Lien on the first $100 million of Collateral (including Proceeds), Second Lien Claimholders will have a second priority Lien in the next $50 million of Collateral, and First Lien Claimholders will have a third priority Lien on the remaining $25 million in Collateral. If all of the Collateral is sold at its fair market value, then the $1 75 million in sales proceeds will be sufficient to pay $125 million of the First Lien Obligations of $150 million and the Second Lien Obligations totaling $50 million in full. See also section 4.1, “Application of Proceeds.&rdquo;
 
 1.11.3.sec=Excess First Lien Obligations means any First Lien Obligations that are included in the Capped Obligations and that are in excess of the First Lien Cap.
 
@@ -444,13 +444,13 @@ Example:  Suppose First Lien Obligations are $150 million, with a First Lien Cap
 
 2.1.2.sec=the Second Lien Obligations may be modified in accordance with their terms, and their aggregate amount increased or Refinanced, without notice to or consent by any First Lien Claimholder, provided that the holders of any Refinancing Indebtedness (or their agent) bind themselves in a writing addressed to First Lien Claimholders to the terms of this Agreement.
 
-2.1.90.sec=However, no such modification may alter or otherwise affect sections 1.1, “Seniority of Liens Securing First Lien Obligations,” or 1.8, “Prohibition on Contesting Liens; No Marshaling.”
+2.1.90.sec=However, no such modification may alter or otherwise affect sections 1.1, “Seniority of Liens Securing First Lien Obligations,&rdquo; or 1.8, “Prohibition on Contesting Liens; No Marshaling.&rdquo;
 
 2.1.=[02/Bit/Ssec_02]
 
 2.2.Ti=MODIFICATIONS REQUIRING CONSENT
 
-2.2.0.sec=Notwithstanding the preceding section 2.1, [and except as otherwise permitted as DIP Financing provided by the First Lien Lenders and deemed consented to by the Second Lien Lenders pursuant to section 6.1, “Use of Cash Collateral and DIP Financing,”] Second Lien Agent must consent to any modification to or Refinancing of the First Lien Obligations, and First Lien Agent must consent to any modification to or Refinancing of the Second Lien Obligations, that:
+2.2.0.sec=Notwithstanding the preceding section 2.1, [and except as otherwise permitted as DIP Financing provided by the First Lien Lenders and deemed consented to by the Second Lien Lenders pursuant to section 6.1, “Use of Cash Collateral and DIP Financing,&rdquo;] Second Lien Agent must consent to any modification to or Refinancing of the First Lien Obligations, and First Lien Agent must consent to any modification to or Refinancing of the Second Lien Obligations, that:
 
 2.2.1.0.sec=increases the aggregate principal amount of loans, letters of credit, bankers acceptances, bonds, debentures, notes, or similar instruments or other similar extensions of credit [(but excluding obligations under Hedge Agreements or Cash Management Agreements) [and, for Second Lien Obligations, any increase resulting from payment of interest in kind permitted under the Second Lien Credit Agreement as in effect on the date hereof ]] or commitments therefor beyond
 
@@ -462,13 +462,13 @@ Example:  Suppose First Lien Obligations are $150 million, with a First Lien Cap
 
 2.2.2.0.sec=increases
 
-2.2.2.1.sec=the interest rate or yield, including by increasing the “applicable margin” or similar component of the interest rate or by modifying the method of computing interest, or
+2.2.2.1.sec=the interest rate or yield, including by increasing the “applicable margin&rdquo; or similar component of the interest rate or by modifying the method of computing interest, or
 
 2.2.2.2.0.sec=a letter of credit, commitment, facility, utilization, or similar fee so that the combined interest rate and fees are increased by more than [_____]% per annum in the aggregate [at any level of pricing], but excluding increases resulting from
 
 2.2.2.2.1.sec=increases in an underlying reference rate not caused by a modification or Refinancing of such Obligations,
 
-2.2.2.2.2.sec=accrual of interest at the “default rate” defined in the loan documents at the date hereof or, for a Refinancing, a rate that corresponds to the default rate, or
+2.2.2.2.2.sec=accrual of interest at the “default rate&rdquo; defined in the loan documents at the date hereof or, for a Refinancing, a rate that corresponds to the default rate, or
 
 2.2.2.2.3.sec=application of a pricing grid set forth in the loan documents at the date hereof;
 
@@ -500,19 +500,19 @@ Example:  Suppose First Lien Obligations are $150 million, with a First Lien Cap
 
 [ADDITIONAL SECTION FOR ASSET-BASED LENDING TRANSACTION]
 
-2.2.11.sec=for the First Lien Obligations, increases the Advance Rate applicable to the Borrowing Base to a rate higher than the Advance Rate on the date hereof, or modifies the definitions of “Borrowing Base,” “Eligible Account,” “Eligible Inventory,” or “Reserves” in the First Lien Credit Agreement on the date hereof so as to increase the amount of credit available to Borrower, provided that First Lien Agent’s discretion to establish additional reserves, to release reserves, and to determine eligibility will not be affected or limited in any manner.
+2.2.11.sec=for the First Lien Obligations, increases the Advance Rate applicable to the Borrowing Base to a rate higher than the Advance Rate on the date hereof, or modifies the definitions of “Borrowing Base,&rdquo; “Eligible Account,&rdquo; “Eligible Inventory,&rdquo; or “Reserves&rdquo; in the First Lien Credit Agreement on the date hereof so as to increase the amount of credit available to Borrower, provided that First Lien Agent’s discretion to establish additional reserves, to release reserves, and to determine eligibility will not be affected or limited in any manner.
 
 [END OF ADDITIONAL SECTION]
 
 2.3.Ti=PARALLEL MODIFICATIONS TO SECOND LIEN OBLIGATIONS
 
-2.3.0.sec=Subject to Section 2.2, “Modifications Requiring Consent,” if a First Lien Claimholder and a Grantor modify a First Lien Collateral Document, the modification will apply automatically to any comparable provision of a Second Lien Collateral Document in which the Grantor grants a Lien on the same Collateral, without the consent of any Second Lien Claimholder and without any action by Second Lien Agent or any Grantor, provided that no such modification will
+2.3.0.sec=Subject to Section 2.2, “Modifications Requiring Consent,&rdquo; if a First Lien Claimholder and a Grantor modify a First Lien Collateral Document, the modification will apply automatically to any comparable provision of a Second Lien Collateral Document in which the Grantor grants a Lien on the same Collateral, without the consent of any Second Lien Claimholder and without any action by Second Lien Agent or any Grantor, provided that no such modification will
 
-2.3.1.sec=remove or release Second Lien Collateral, except to the extent that (1) the release is permitted or required by section 6.1, “Use of Cash Collateral and DIP Financing,” and (2) there is a corresponding release of First Lien Collateral,
+2.3.1.sec=remove or release Second Lien Collateral, except to the extent that (1) the release is permitted or required by section 6.1, “Use of Cash Collateral and DIP Financing,&rdquo; and (2) there is a corresponding release of First Lien Collateral,
 
 2.3.2.sec=impose duties on Second Lien Agent without its consent, [or]
 
-2.3.3.sec=permit other Liens on the Collateral not permitted under the terms of the Second Lien Loan Documents or section 6, “Insolvency Proceedings,” of this Agreement[, or
+2.3.3.sec=permit other Liens on the Collateral not permitted under the terms of the Second Lien Loan Documents or section 6, “Insolvency Proceedings,&rdquo; of this Agreement[, or
 
 2.3.4.sec=be prejudicial to the interest of Second Lien Claimholders to a greater extent than First Lien Claimholders (other than by virtue of their relative priorities and rights and obligations hereunder)].
 
@@ -536,9 +536,9 @@ Example:  Suppose First Lien Obligations are $150 million, with a First Lien Cap
 
 3.1.1.1.sec=commence and maintain an Enforcement Action (including the rights to set off or credit bid their debt),
 
-3.1.1.2.sec=subject to section 1.10, “Release of Liens or Guaranties,” make determinations regarding the release or disposition of, or restrictions with respect to, the Collateral, and
+3.1.1.2.sec=subject to section 1.10, “Release of Liens or Guaranties,&rdquo; make determinations regarding the release or disposition of, or restrictions with respect to, the Collateral, and
 
-3.1.1.3.sec=otherwise enforce the rights and remedies of a secured creditor under the U.C.C. and the Bankruptcy Laws of any applicable jurisdiction, so long as any Proceeds received by First Lien Agent and other First Lien Claimholders in the aggregate in excess of those necessary to achieve Discharge of First Lien Obligations up to the First Lien Cap with respect to First Lien Obligations that are Capped Obligations and in their entirety with respect to First Lien Obligations that are not Capped Obligations are distributed in accordance with Section 4.1, “Application of Proceeds,” except as otherwise required pursuant to the U.C.C. and applicable law, subject to the relative priorities described in section 1.1, “Seniority of Liens Securing First Lien Obligations.”
+3.1.1.3.sec=otherwise enforce the rights and remedies of a secured creditor under the U.C.C. and the Bankruptcy Laws of any applicable jurisdiction, so long as any Proceeds received by First Lien Agent and other First Lien Claimholders in the aggregate in excess of those necessary to achieve Discharge of First Lien Obligations up to the First Lien Cap with respect to First Lien Obligations that are Capped Obligations and in their entirety with respect to First Lien Obligations that are not Capped Obligations are distributed in accordance with Section 4.1, “Application of Proceeds,&rdquo; except as otherwise required pursuant to the U.C.C. and applicable law, subject to the relative priorities described in section 1.1, “Seniority of Liens Securing First Lien Obligations.&rdquo;
 
 3.1.2.sec=Notwithstanding the preceding section 3.1(a), Second Lien Claimholders may commence an Enforcement Action or exercise rights with respect to a Lien securing a Second Lien Obligation if
 
@@ -550,7 +550,7 @@ Example:  Suppose First Lien Obligations are $150 million, with a First Lien Cap
 
 3.1.2.4.sec= [no] [the applicable] Grantor is [not] then a debtor in an Insolvency Proceeding].
 
-3.1.3.sec=Notwithstanding section 3.1(a), [ but subject to section 1.5, “First and Second Lien Collateral to Be Identical,” ] a Second Lien Claimholder may
+3.1.3.sec=Notwithstanding section 3.1(a), [ but subject to section 1.5, “First and Second Lien Collateral to Be Identical,&rdquo; ] a Second Lien Claimholder may
 
 3.1.3.1.sec=file a proof of claim or statement of interest, vote on a plan of reorganization (including a vote to accept or reject a plan of partial or complete liquidation, reorganization, arrangement, composition, or extension), and make other filings, arguments, and motions, with respect to the Second Lien Obligations and the Collateral in any Insolvency Proceeding commenced by or against any Grantor, in each case in accordance with this Agreement,
 
@@ -560,7 +560,7 @@ Example:  Suppose First Lien Obligations are $150 million, with a First Lien Cap
 
 3.1.3.4.sec=join (but not exercise any control over) a judicial foreclosure or Lien enforcement proceeding with respect to the Collateral initiated by First Lien Agent, to the extent that such action could not reasonably be expected to interfere materially with the Enforcement Action, but no Second Lien Claimholder may receive any Proceeds thereof unless expressly permitted herein, and
 
-3.1.3.5.sec=bid for or purchase Collateral at any public, private, or judicial foreclosure upon such Collateral initiated by any First Lien Claimholder, or any sale of Collateral during an Insolvency Proceeding; provided that such bid may not include a “credit bid” in respect of any Second Lien Obligations unless the proceeds of such bid are otherwise sufficient to cause the Discharge of First Lien Obligations up to the First Lien Cap with respect to the Capped Obligations and in their entirety with respect to First Lien Obligations that are not Capped Obligations.
+3.1.3.5.sec=bid for or purchase Collateral at any public, private, or judicial foreclosure upon such Collateral initiated by any First Lien Claimholder, or any sale of Collateral during an Insolvency Proceeding; provided that such bid may not include a “credit bid&rdquo; in respect of any Second Lien Obligations unless the proceeds of such bid are otherwise sufficient to cause the Discharge of First Lien Obligations up to the First Lien Cap with respect to the Capped Obligations and in their entirety with respect to First Lien Obligations that are not Capped Obligations.
 
 [OPTIONAL PROVISIONS]
 
@@ -621,7 +621,7 @@ Example:  Suppose First Lien Obligations are $150 million, with a First Lien Cap
 
 4.1.Ti=APPLICATION OF PROCEEDS
 
-Until the Discharge of First Lien Obligations and the Discharge of Second Lien Obligations, and regardless of whether an Insolvency Proceeding has been commenced, Collateral or Proceeds received in connection with an Enforcement Action or subject to section 6.7, “Reorganization Securities,” received in connection with any Insolvency Proceeding involving a Grantor will be applied
+Until the Discharge of First Lien Obligations and the Discharge of Second Lien Obligations, and regardless of whether an Insolvency Proceeding has been commenced, Collateral or Proceeds received in connection with an Enforcement Action or subject to section 6.7, “Reorganization Securities,&rdquo; received in connection with any Insolvency Proceeding involving a Grantor will be applied
 
 4.1.1.sec=first, to the payment in full or cash collateralization of all First Lien Obligations that are not Excess First Lien Obligations,
 
@@ -643,11 +643,11 @@ First Lien Agent and Second Lien Agent will be named as additional insureds and/
 
 4.2.1.sec=First Lien Agent will have the exclusive right to adjust settlement for any losses covered by an insurance policy covering the Collateral, and to approve an award granted in a condemnation or similar proceeding (or a deed in lieu of condemnation) affecting the Collateral, and
 
-4.2.2.sec=all Proceeds of such policy, award, or deed will be applied in the order provided in section 4.1, “Application of Proceeds,” and thereafter, if no Second Lien Obligations are outstanding, to the payment to the owner of the subject property, such other Person as may be entitled thereto, or as a court of competent jurisdiction may otherwise direct.
+4.2.2.sec=all Proceeds of such policy, award, or deed will be applied in the order provided in section 4.1, “Application of Proceeds,&rdquo; and thereafter, if no Second Lien Obligations are outstanding, to the payment to the owner of the subject property, such other Person as may be entitled thereto, or as a court of competent jurisdiction may otherwise direct.
 
 4.3.Ti=PAYMENT TURNOVER
 
-Until the Discharge of First Lien Obligations up to the First Lien Cap with respect to the Capped Obligations and in their entirety with respect to First Lien Obligations that are not Capped Obligations, whether or not an Insolvency Proceeding has commenced, Collateral or Proceeds (including insurance proceeds or property or Proceeds subject to Liens referred to in paragraph (d) of section 1.5, “First and Second Lien Collateral to Be Identical”) received by a Second Lien Claimholder in connection with an Enforcement Action or, subject to section 6.7, “Reorganization Securities,” received in connection with any Insolvency Proceeding, will be
+Until the Discharge of First Lien Obligations up to the First Lien Cap with respect to the Capped Obligations and in their entirety with respect to First Lien Obligations that are not Capped Obligations, whether or not an Insolvency Proceeding has commenced, Collateral or Proceeds (including insurance proceeds or property or Proceeds subject to Liens referred to in paragraph (d) of section 1.5, “First and Second Lien Collateral to Be Identical&rdquo;) received by a Second Lien Claimholder in connection with an Enforcement Action or, subject to section 6.7, “Reorganization Securities,&rdquo; received in connection with any Insolvency Proceeding, will be
 
 4.3.1.sec=segregated and held in trust, and
 
@@ -818,13 +818,13 @@ B.5.7.2.sec=The purchase and sale of the Purchase Obligations under this section
 
 6.1.1.0.sec=Until the Discharge of First Lien Obligations up to the First Lien Cap with respect to the Capped Obligations and in their entirety with respect to First Lien Obligations that are not Capped Obligations, if an Insolvency Proceeding has commenced, Second Lien Agent, as holder of a Lien on the Collateral, will not contest, protest, or object to, and each Second Lien Claimholder will be deemed to have consented to,
 
-6.1.1.1.sec=any use, sale, or lease of “cash collateral” (as defined in section 363(a) of the Bankruptcy Code), and
+6.1.1.1.sec=any use, sale, or lease of “cash collateral&rdquo; (as defined in section 363(a) of the Bankruptcy Code), and
 
 6.1.1.2.0.sec=Borrower or any other Grantor obtaining DIP Financing if First Lien Agent consents in writing to such use, sale, or lease, or DIP Financing, provided that
 
 6.1.1.2.1.sec=Second Lien Agent otherwise retains  its Lien on the Collateral, [and]
 
-6.1.1.2.2.sec=any Second Lien Claimholder may seek adequate protection as permitted by section 6.4, “Adequate Protection,” and, if such adequate protection is not granted, Second Lien Agent may object under this section 6.1 solely on such basis[.][,]
+6.1.1.2.2.sec=any Second Lien Claimholder may seek adequate protection as permitted by section 6.4, “Adequate Protection,&rdquo; and, if such adequate protection is not granted, Second Lien Agent may object under this section 6.1 solely on such basis[.][,]
 
 6.1.1.2.3.sec=after taking into account the use of cash collateral and the principal amount of any DIP Financing (after giving effect to any Refinancing of First Lien Obligations) on any date, the sum of the then outstanding principal amount of any First Lien Obligations and any DIP Financing does not exceed the First Lien Cap on such date,
 
@@ -832,7 +832,7 @@ B.5.7.2.sec=The purchase and sale of the Purchase Obligations under this section
 
 6.1.1.2.5.sec=the interest rate, fees, advance rates, lending limits, and sublimits are commercially reasonable under the circumstances.] [Upon written request from First Lien Agent, Second Lien Agent, as holder of a Lien on the Collateral, will join any objection by First Lien Agent to the use, sale, or lease of cash collateral for any purpose other than adequate protection payments to Second Lien Claimholders.
 
-6.1.2.0.sec=Any customary “carve-out” or other similar administrative priority expense or claim consented to in writing by First Lien Agent to be paid prior to the Discharge of First Lien Obligations up to the First Lien Cap with respect to the Capped Obligations and in their entirety with respect to First Lien Obligations that are not Capped Obligations will be deemed for purposes of section 6.1(a)
+6.1.2.0.sec=Any customary “carve-out&rdquo; or other similar administrative priority expense or claim consented to in writing by First Lien Agent to be paid prior to the Discharge of First Lien Obligations up to the First Lien Cap with respect to the Capped Obligations and in their entirety with respect to First Lien Obligations that are not Capped Obligations will be deemed for purposes of section 6.1(a)
 
 6.1.2.1.sec=to be a use of cash collateral, and
 
@@ -857,7 +857,7 @@ B.5.7.2.sec=The purchase and sale of the Purchase Obligations under this section
 
 6.2.1.sec=either (i) pursuant to court order, the Liens of Second Lien Claimholders attach to the net Proceeds of the Disposition with the same priority and validity as the Liens held by Second Lien Claimholders on such Collateral, and the Liens remain subject to the terms of this Agreement, or (ii) the Proceeds of a Disposition of Collateral received by First Lien Agent in excess of those necessary to achieve the Discharge of First Lien Obligations, up to the First Lien Cap with respect to the Capped Obligations and in their entirety with respect to First Lien Obligations that are not Capped Obligations, are distributed in accordance with the U.C.C. and applicable law[,] [.]
 
-6.2.2.sec=the net cash Proceeds of the Disposition that are applied to First Lien Obligations permanently reduce the First Lien Obligations pursuant to section 4.1, “Application of Proceeds,” or if not so applied, are subject to the rights of Second Lien Agent to object to any further use notwithstanding section 6.1(a), and
+6.2.2.sec=the net cash Proceeds of the Disposition that are applied to First Lien Obligations permanently reduce the First Lien Obligations pursuant to section 4.1, “Application of Proceeds,&rdquo; or if not so applied, are subject to the rights of Second Lien Agent to object to any further use notwithstanding section 6.1(a), and
 
 6.2.3.sec=Second Lien Claimholders [may] [are not deemed to have waived any rights to] credit bid on the Collateral in any such Disposition in accordance with section 363(k) of the Bankruptcy Code.]
 
@@ -871,13 +871,13 @@ B.5.7.2.sec=The purchase and sale of the Purchase Obligations under this section
 
 6.3.Ti=RELIEF FROM THE AUTOMATIC STAY
 
-6.3.sec=Until the Discharge of First Lien Obligations up to the First Lien Cap with respect to the Capped Obligations and in their entirety with respect to First Lien Obligations that are not Capped Obligations, no Second Lien Claimholder may[, during any Standstill Period,] seek relief from the automatic stay or any other stay in an Insolvency Proceeding in respect of the Collateral without First Lien Agent’s prior written consent [or oppose any request by First Lien Agent for relief from such stay] [, except to the extent that [a First Lien Claimholder (in such capacity)] [First Lien Agent] seeks or obtains relief from or modification of such stay[, or a motion for adequate protection permitted under section 6.4, “Adequate Protection,” is denied by the Bankruptcy Court]]. 
+6.3.sec=Until the Discharge of First Lien Obligations up to the First Lien Cap with respect to the Capped Obligations and in their entirety with respect to First Lien Obligations that are not Capped Obligations, no Second Lien Claimholder may[, during any Standstill Period,] seek relief from the automatic stay or any other stay in an Insolvency Proceeding in respect of the Collateral without First Lien Agent’s prior written consent [or oppose any request by First Lien Agent for relief from such stay] [, except to the extent that [a First Lien Claimholder (in such capacity)] [First Lien Agent] seeks or obtains relief from or modification of such stay[, or a motion for adequate protection permitted under section 6.4, “Adequate Protection,&rdquo; is denied by the Bankruptcy Court]]. 
 
 6.4.Ti=ADEQUATE PROTECTION
 
 6.4.1.0.sec=No Second Lien Claimholder will contest, protest, or object to
 
-6.4.1.1.sec=a request by a First Lien Claimholder for “adequate protection” under any Bankruptcy Law, or
+6.4.1.1.sec=a request by a First Lien Claimholder for “adequate protection&rdquo; under any Bankruptcy Law, or
 
 6.4.1.2.sec=an objection by a First Lien Claimholder to a motion, relief, action, or proceeding based on a First Lien Claimholder claiming a lack of adequate protection.
 
@@ -887,11 +887,11 @@ B.5.7.2.sec=The purchase and sale of the Purchase Obligations under this section
 
 6.4.2.1.sec=Except as permitted in this section 6.4, no Second Lien Claimholders may seek or request adequate protection or relief from the automatic stay imposed by section 362 of the Bankruptcy Code [or other relief].
 
-6.4.2.2.sec=[If a First Lien Claimholder is granted adequate protection in the form of additional or replacement Collateral in connection with a motion described in section 6.1, “Use of Cash Collateral and DIP Financing,” then] Second Lien Agent may seek or request adequate protection in the form of a Lien on [such] additional or replacement Collateral, which Lien will be subordinated to the Liens securing the First Lien Obligations and any DIP Financing (and all related Obligations) on the same basis as the other Liens securing the Second Lien Obligations are subordinated to the Liens securing First Lien Obligations under this Agreement.
+6.4.2.2.sec=[If a First Lien Claimholder is granted adequate protection in the form of additional or replacement Collateral in connection with a motion described in section 6.1, “Use of Cash Collateral and DIP Financing,&rdquo; then] Second Lien Agent may seek or request adequate protection in the form of a Lien on [such] additional or replacement Collateral, which Lien will be subordinated to the Liens securing the First Lien Obligations and any DIP Financing (and all related Obligations) on the same basis as the other Liens securing the Second Lien Obligations are subordinated to the Liens securing First Lien Obligations under this Agreement.
 
-6.4.2.3.sec=Any claim by a Second Lien Claimholder under section 507(b) of the Bankruptcy Code will be subordinate in right of payment to any claim of First Lien Claimholders under section 507(b) of the Bankruptcy Code and any payment thereof will be deemed to be Proceeds of Collateral[, provided that, subject to section 6.7, “Reorganization Securities,” Second Lien Claimholders will be deemed to have agreed pursuant to section 1 129(a)(9) of the Bankruptcy Code that such section 507(b) claims may be paid under a plan of reorganization in any form having a value on the effective date of such plan equal to the allowed amount of such claims].
+6.4.2.3.sec=Any claim by a Second Lien Claimholder under section 507(b) of the Bankruptcy Code will be subordinate in right of payment to any claim of First Lien Claimholders under section 507(b) of the Bankruptcy Code and any payment thereof will be deemed to be Proceeds of Collateral[, provided that, subject to section 6.7, “Reorganization Securities,&rdquo; Second Lien Claimholders will be deemed to have agreed pursuant to section 1 129(a)(9) of the Bankruptcy Code that such section 507(b) claims may be paid under a plan of reorganization in any form having a value on the effective date of such plan equal to the allowed amount of such claims].
 
-6.4.2.4.sec=So long as First Lien Agent is receiving payment in cash of [all] Post-Petition Claims [consisting of all interest at the applicable rate under the First Lien Loan Documents], Second Lien Agent may seek and, subject to the terms hereof, retain payments of Post-Petition Claims [consisting of interest at the [non-default] [applicable] rate] under the Second Lien Loan Documents (Second Lien Adequate Protection Payments). If a Second Lien Claimholder receives Second Lien Adequate Protection Payments before the Discharge of First Lien Obligations up to the First Lien Cap with respect to the Capped Obligations and in their entirety with respect to First Lien Obligations that are not Capped Obligations, then upon the effective date of any plan or the conclusion or dismissal of any Insolvency Proceeding, the Second Lien Claimholder will pay over to First Lien Agent pursuant to section 4.1, “Application of Proceeds,” an amount equal to the lesser of (i) the Second Lien Adequate Protection Payments received by the Second Lien Claimholder and (ii) the amount necessary to Discharge the First Lien Obligations. [Notwithstanding anything herein to the contrary, First Lien Claimholders will [not] be deemed to have consented to, and expressly [waive] [retain] their rights to object to, the payment of Second Lien Adequate Protection Payments.]
+6.4.2.4.sec=So long as First Lien Agent is receiving payment in cash of [all] Post-Petition Claims [consisting of all interest at the applicable rate under the First Lien Loan Documents], Second Lien Agent may seek and, subject to the terms hereof, retain payments of Post-Petition Claims [consisting of interest at the [non-default] [applicable] rate] under the Second Lien Loan Documents (Second Lien Adequate Protection Payments). If a Second Lien Claimholder receives Second Lien Adequate Protection Payments before the Discharge of First Lien Obligations up to the First Lien Cap with respect to the Capped Obligations and in their entirety with respect to First Lien Obligations that are not Capped Obligations, then upon the effective date of any plan or the conclusion or dismissal of any Insolvency Proceeding, the Second Lien Claimholder will pay over to First Lien Agent pursuant to section 4.1, “Application of Proceeds,&rdquo; an amount equal to the lesser of (i) the Second Lien Adequate Protection Payments received by the Second Lien Claimholder and (ii) the amount necessary to Discharge the First Lien Obligations. [Notwithstanding anything herein to the contrary, First Lien Claimholders will [not] be deemed to have consented to, and expressly [waive] [retain] their rights to object to, the payment of Second Lien Adequate Protection Payments.]
 
 6.4.2.=[02/Bit/Ssec_04]
 
@@ -902,23 +902,23 @@ B.5.7.2.sec=The purchase and sale of the Purchase Obligations under this section
 
 6.5.sec={A.6.5.sec } Select:<ol><li>A.6.5.sec: {A.6.5.sec}<li>B.6.5.sec: {B.6.5.sec}</ol>
 
-A.6.5.sec=Subject to section 3.1, “Who May Exercise Remedies,” nothing in this section 6 limits a First Lien Claimholder from objecting in an Insolvency Proceeding or otherwise to any action taken by a Second Lien Claimholder, including the Second Lien Claimholder’s seeking adequate protection [or asserting any of its rights and remedies under the Second Lien Loan Documents or otherwise].
+A.6.5.sec=Subject to section 3.1, “Who May Exercise Remedies,&rdquo; nothing in this section 6 limits a First Lien Claimholder from objecting in an Insolvency Proceeding or otherwise to any action taken by a Second Lien Claimholder, including the Second Lien Claimholder’s seeking adequate protection [or asserting any of its rights and remedies under the Second Lien Loan Documents or otherwise].
 
 [ALTERNATIVE SECTION FAVORABLE TO SECOND LIEN LENDERS]
 
 [6.5 FIRST LIEN Objections TO SECOND LIEN ACTIONS
 
-B.6.5.sec=Subject to section 3.1, “Who May Exercise Remedies,” nothing in this section 6 limits a First Lien Claimholder from objecting in an Insolvency Proceeding or otherwise to any action taken by a Second Lien Claimholder, including the Second Lien Claimholder’s seeking adequate protection (other than adequate protection permitted under section 6.4(b)) or asserting any of its rights and remedies under the Second Lien Loan Documents or otherwise.]
+B.6.5.sec=Subject to section 3.1, “Who May Exercise Remedies,&rdquo; nothing in this section 6 limits a First Lien Claimholder from objecting in an Insolvency Proceeding or otherwise to any action taken by a Second Lien Claimholder, including the Second Lien Claimholder’s seeking adequate protection (other than adequate protection permitted under section 6.4(b)) or asserting any of its rights and remedies under the Second Lien Loan Documents or otherwise.]
 
 [END OF ALTERNATIVE SECTION]
 
 6.6.Ti=AVOIDANCE; REINSTATEMENT OF OBLIGATIONS
 
-6.6.sec=If a First Lien Claimholder or a Second Lien Claimholder receives payment or property on account of a First Lien Obligation or Second Lien Obligation, and the payment is subsequently invalidated, avoided, declared to be fraudulent or preferential, set aside, or otherwise required to be transferred to a trustee, receiver, or the estate of Borrower or other Grantor (a Recovery) , then, to the extent of the Recovery, the First Lien Obligations or Second Lien Obligations intended to have been satisfied by the payment will be reinstated as First Lien Obligations or Second Lien Obligations, as applicable, on the date of the Recovery, and no Discharge of First Lien Obligations or Discharge of Second Lien Obligations, as applicable, will be deemed to have occurred for all purposes hereunder. If this Agreement is terminated prior to a Recovery, this Agreement will be reinstated in full force and effect, and such prior termination will not diminish, release, discharge, impair, or otherwise affect the obligations of the Parties from the date of reinstatement. [Upon any such reinstatement of First Lien Obligations, each Second Lien Claimholder will deliver to First Lien Agent any Collateral or Proceeds thereof received between the Discharge of First Lien Obligations and their reinstatement in accordance with section 4.3, “Payment Turnover.”] [No Second Lien Claimholder may benefit from a Recovery, and any distribution made to a Second Lien Claimholder as a result of a Recovery will be paid over to First Lien Agent for application to the First Lien Obligations in accordance with section 4.1, “Application of Proceeds.”]
+6.6.sec=If a First Lien Claimholder or a Second Lien Claimholder receives payment or property on account of a First Lien Obligation or Second Lien Obligation, and the payment is subsequently invalidated, avoided, declared to be fraudulent or preferential, set aside, or otherwise required to be transferred to a trustee, receiver, or the estate of Borrower or other Grantor (a Recovery) , then, to the extent of the Recovery, the First Lien Obligations or Second Lien Obligations intended to have been satisfied by the payment will be reinstated as First Lien Obligations or Second Lien Obligations, as applicable, on the date of the Recovery, and no Discharge of First Lien Obligations or Discharge of Second Lien Obligations, as applicable, will be deemed to have occurred for all purposes hereunder. If this Agreement is terminated prior to a Recovery, this Agreement will be reinstated in full force and effect, and such prior termination will not diminish, release, discharge, impair, or otherwise affect the obligations of the Parties from the date of reinstatement. [Upon any such reinstatement of First Lien Obligations, each Second Lien Claimholder will deliver to First Lien Agent any Collateral or Proceeds thereof received between the Discharge of First Lien Obligations and their reinstatement in accordance with section 4.3, “Payment Turnover.&rdquo;] [No Second Lien Claimholder may benefit from a Recovery, and any distribution made to a Second Lien Claimholder as a result of a Recovery will be paid over to First Lien Agent for application to the First Lien Obligations in accordance with section 4.1, “Application of Proceeds.&rdquo;]
 
 6.7.Ti=REORGANIZATION SECURITIES
 
-6.7.1.sec=Nothing in this Agreement prohibits or limits the right of a Second Lien Claimholder to receive and retain any debt or equity securities that are issued by a reorganized debtor pursuant to a plan of reorganization or similar dispositive restructuring plan in connection with an Insolvency Proceeding[, provided that any debt securities received by a Second Lien Claimholder on account of a Second Lien Obligation that constitutes a “secured claim” within the meaning of section 506(b) of the Bankruptcy Code will be paid over or otherwise transferred to First Lien Agent for application in accordance with section 4.1, “Application of Proceeds,” unless such distribution is made under a plan that is consented to by the affirmative vote of all classes composed of the secured claims of First Lien Claimholders].
+6.7.1.sec=Nothing in this Agreement prohibits or limits the right of a Second Lien Claimholder to receive and retain any debt or equity securities that are issued by a reorganized debtor pursuant to a plan of reorganization or similar dispositive restructuring plan in connection with an Insolvency Proceeding[, provided that any debt securities received by a Second Lien Claimholder on account of a Second Lien Obligation that constitutes a “secured claim&rdquo; within the meaning of section 506(b) of the Bankruptcy Code will be paid over or otherwise transferred to First Lien Agent for application in accordance with section 4.1, “Application of Proceeds,&rdquo; unless such distribution is made under a plan that is consented to by the affirmative vote of all classes composed of the secured claims of First Lien Claimholders].
 
 6.7.2.sec=If, in an Insolvency Proceeding, debt Obligations of the reorganized debtor secured by Liens upon any property of the reorganized debtor are distributed pursuant to a plan of reorganization or similar dispositive restructuring plan, both on account of First Lien Obligations and on account of Second Lien Obligations, then, to the extent the debt Obligations distributed on account of the First Lien Obligations and on account of the Second Lien Obligations are secured by Liens upon the same property, the provisions of this Agreement will survive the distribution of such debt Obligations pursuant to such plan and will apply with like effect to the Liens securing such debt Obligations.
 
@@ -928,7 +928,7 @@ B.6.5.sec=Subject to section 3.1, “Who May Exercise Remedies,” nothing in this s
 
 6.8.1.sec=No Second Lien Claimholder may oppose or seek to challenge any claim by a First Lien Claimholder for allowance or payment in any Insolvency Proceeding of First Lien Obligations consisting of Post-Petition Claims.
 
-6.8.2.sec=No First Lien Claimholder may oppose or seek to challenge in an Insolvency Proceeding a claim by a Second Lien Claimholder for allowance [and any payment permitted under section 6.4, “Adequate Protection,”] of Second Lien Obligations consisting of Post-Petition Claims.
+6.8.2.sec=No First Lien Claimholder may oppose or seek to challenge in an Insolvency Proceeding a claim by a Second Lien Claimholder for allowance [and any payment permitted under section 6.4, “Adequate Protection,&rdquo;] of Second Lien Obligations consisting of Post-Petition Claims.
 
 6.8.=[02/Bit/Ssec_02]
 
@@ -946,11 +946,11 @@ B.6.5.sec=Subject to section 3.1, “Who May Exercise Remedies,” nothing in this s
 
 6.10.Ti=SEPARATE GRANTS OF SECURITY AND SEPARATE CLASSIFICATION
 
-6.10.sec=The grants of Liens pursuant to the First Lien Collateral Documents and the Second Lien Collateral Documents constitute two separate and distinct grants. Because of, among other things, their differing rights in the Collateral, the Second Lien Obligations, to the extent deemed to be “secured claims” within the meaning of section 506(b) of the Bankruptcy Code, are fundamentally different from the First Lien Obligations and must be separately classified in any plan of reorganization in an Insolvency Proceeding. Second Lien Claimholders will not seek in an Insolvency Proceeding to be treated as part of the same class of creditors as First Lien Claimholders and will not oppose or contest any pleading by First Lien Claimholders seeking separate classification of their respective secured claims.
+6.10.sec=The grants of Liens pursuant to the First Lien Collateral Documents and the Second Lien Collateral Documents constitute two separate and distinct grants. Because of, among other things, their differing rights in the Collateral, the Second Lien Obligations, to the extent deemed to be “secured claims&rdquo; within the meaning of section 506(b) of the Bankruptcy Code, are fundamentally different from the First Lien Obligations and must be separately classified in any plan of reorganization in an Insolvency Proceeding. Second Lien Claimholders will not seek in an Insolvency Proceeding to be treated as part of the same class of creditors as First Lien Claimholders and will not oppose or contest any pleading by First Lien Claimholders seeking separate classification of their respective secured claims.
 
 6.11.Ti=EFFECTIVENESS IN INSOLVENCY PROCEEDINGS
 
-6.11.sec=The Parties acknowledge that this Agreement is a “subordination agreement” under section 510(a) of the Bankruptcy Code, which will be effective before, during, and after the commencement of an Insolvency Proceeding. All references in this Agreement to any Grantor will include such Person as a debtor-in-possession and any receiver or trustee for such Person in an Insolvency Proceeding.
+6.11.sec=The Parties acknowledge that this Agreement is a “subordination agreement&rdquo; under section 510(a) of the Bankruptcy Code, which will be effective before, during, and after the commencement of an Insolvency Proceeding. All references in this Agreement to any Grantor will include such Person as a debtor-in-possession and any receiver or trustee for such Person in an Insolvency Proceeding.
 
 6.=[02/Bit/Ssec_11]
 
@@ -980,7 +980,7 @@ B.6.5.sec=Subject to section 3.1, “Who May Exercise Remedies,” nothing in this s
 
 7.3.4.sec=If a provision of this Agreement is prohibited or unenforceable in a jurisdiction, the prohibition or unenforceability will not invalidate the remaining provisions hereof, or invalidate or render unenforceable that provision in any other jurisdiction.
 
-7.3.5.0.sec=Subject to sections 1.6(d) and 1.6(g), “Pledged Collateral,” 4.1, “Application of Proceed,” 4.4, “Refinancing After Discharge of First Lien Obligations,” 6.5, “First Lien Objections to Second Lien Actions,” and 6.6, “Avoidance; Reinstatement of Obligations,” this Agreement will terminate and be of no further force and effect
+7.3.5.0.sec=Subject to sections 1.6(d) and 1.6(g), “Pledged Collateral,&rdquo; 4.1, “Application of Proceed,&rdquo; 4.4, “Refinancing After Discharge of First Lien Obligations,&rdquo; 6.5, “First Lien Objections to Second Lien Actions,&rdquo; and 6.6, “Avoidance; Reinstatement of Obligations,&rdquo; this Agreement will terminate and be of no further force and effect
 
 7.3.5.1.sec=for First Lien Claimholders, upon the Discharge of First Lien Obligations, and
 
@@ -1069,7 +1069,7 @@ B.6.5.sec=Subject to section 3.1, “Who May Exercise Remedies,” nothing in this s
 
 7.9.2.2.sec=waives any defense of forum nonconveniens, and
 
-7.9.2.3.sec=agrees that service of process in such proceeding may be made by registered or certified mail, return receipt requested, to the Party at its address provided in accordance with section 7.11, “Notices,” and that such service will confer personal jurisdiction over the Party in such proceeding and otherwise constitutes effective and binding service in every respect.
+7.9.2.3.sec=agrees that service of process in such proceeding may be made by registered or certified mail, return receipt requested, to the Party at its address provided in accordance with section 7.11, “Notices,&rdquo; and that such service will confer personal jurisdiction over the Party in such proceeding and otherwise constitutes effective and binding service in every respect.
 
 7.9.2.=[02/Bit/Ssec_03]
 
@@ -1084,7 +1084,7 @@ B.6.5.sec=Subject to section 3.1, “Who May Exercise Remedies,” nothing in this s
 
 7.11.1.sec=Any notice to a First Lien Claimholder or a Second Lien Claimholder under this Agreement must also be given to First Lien Agent and Second Lien Agent, respectively. Unless otherwise expressly provided herein, notices and consents must be in writing and will be deemed to have been given (i) when delivered in person or by courier service and signed for against receipt thereof, (ii) upon receipt of facsimile, and (iii) three Business Days after deposit in the United States mail with first-class postage prepaid and properly addressed. For the purposes hereof, the address of each Party will be as set forth below the Party’s name on the signature pages hereto, or at such other address as the Party may designate by notice to the other Parties.
 
-7.11.2.sec=Failure to give a notice or copies as required by section 2.4, “Notice of Modifications,” [or] section 3.4, “Notice of Exercise,” [or section 3.1(e) regarding notice of Discharge of First Lien Obligations] will not affect the effectiveness or validity of any modification or of this Agreement, or the effectiveness or validity of the exercise of remedies otherwise permitted hereunder and under applicable law, impose any liability on any First Lien Claimholder or Second Lien Claimholder, or waive any rights of any Party.
+7.11.2.sec=Failure to give a notice or copies as required by section 2.4, “Notice of Modifications,&rdquo; [or] section 3.4, “Notice of Exercise,&rdquo; [or section 3.1(e) regarding notice of Discharge of First Lien Obligations] will not affect the effectiveness or validity of any modification or of this Agreement, or the effectiveness or validity of the exercise of remedies otherwise permitted hereunder and under applicable law, impose any liability on any First Lien Claimholder or Second Lien Claimholder, or waive any rights of any Party.
 
 7.11.=[02/Bit/Ssec_02]
 
@@ -1110,7 +1110,7 @@ B.6.5.sec=Subject to section 3.1, “Who May Exercise Remedies,” nothing in this s
 
 7.16.Ti=NO INDIRECT ACTIONS
 
-7.16.sec=Unless otherwise expressly stated, if a Party may not take an action under this Agreement, then it may not take that action indirectly, or assist or support any other Person in taking that action directly or indirectly. “Taking an action indirectly” means taking an action that is not expressly prohibited for the Party but is intended to have substantially the same effects as the prohibited action.
+7.16.sec=Unless otherwise expressly stated, if a Party may not take an action under this Agreement, then it may not take that action indirectly, or assist or support any other Person in taking that action directly or indirectly. “Taking an action indirectly&rdquo; means taking an action that is not expressly prohibited for the Party but is intended to have substantially the same effects as the prohibited action.
 
 7.17.Ti=COUNTERPARTS
 
@@ -1128,7 +1128,7 @@ B.6.5.sec=Subject to section 3.1, “Who May Exercise Remedies,” nothing in this s
 
 Unless otherwise stated or the context otherwise clearly requires, the following terms have the following meanings:
 
-Affiliate means, for a specified Person, another Person that directly, or indirectly through one or more intermediaries, controls or is controlled by or is under common control with the specified Person. For these purposes, “control” means the possession, directly or indirectly, of the power to direct or cause the direction of the management or policies of a Person, whether through the ownership of voting securities, by contract or otherwise, and “controlled” has a correlative meaning.
+Affiliate means, for a specified Person, another Person that directly, or indirectly through one or more intermediaries, controls or is controlled by or is under common control with the specified Person. For these purposes, “control&rdquo; means the possession, directly or indirectly, of the power to direct or cause the direction of the management or policies of a Person, whether through the ownership of voting securities, by contract or otherwise, and “controlled&rdquo; has a correlative meaning.
 
 Agreement is defined in the Preamble.
 
@@ -1146,11 +1146,11 @@ Capped Obligations is defined in section 1.4.
 
 Cash Management Agreement means an agreement to provide cash management services, including treasury, depository, overdraft, credit or debit card, electronic funds transfer, or other cash management arrangements, to which a Grantor is a party and a lender under the First Lien Credit Agreement or an Affiliate of such lender is the applicable counterparty at the date hereof or at the time it enters into such agreement (even if such counterparty later ceases to be such a lender or Affiliate).
 
-Collateral means all of the property of any Grantor, whether real, personal, or mixed, that is (or is required to be) both First Lien Collateral and Second Lien Collateral, including any property subject to Liens granted pursuant to section 6, “Insolvency Proceedings,” to secure both First Lien Obligations and Second Lien Obligations.
+Collateral means all of the property of any Grantor, whether real, personal, or mixed, that is (or is required to be) both First Lien Collateral and Second Lien Collateral, including any property subject to Liens granted pursuant to section 6, “Insolvency Proceedings,&rdquo; to secure both First Lien Obligations and Second Lien Obligations.
 
 [Alternative Definition]
 
-[Collateral means, at any time of determination, the First Lien Collateral and all other property of any Grantor in which each of First Lien Agent and Second Lien Agent has, pursuant to the First Lien Collateral Documents and the Second Lien Collateral Documents, respectively, a valid and perfected Lien (which Lien has not been avoided, disallowed, set aside, invalidated, or subordinated pursuant to Chapter 5 of the Bankruptcy Code or otherwise) securing payment of First Lien Obligations or Second Lien Obligations, respectively, and including any Lien granted pursuant to section 6, “Insolvency Proceedings,” to secure both First Lien Obligations and Second Lien Obligations.]
+[Collateral means, at any time of determination, the First Lien Collateral and all other property of any Grantor in which each of First Lien Agent and Second Lien Agent has, pursuant to the First Lien Collateral Documents and the Second Lien Collateral Documents, respectively, a valid and perfected Lien (which Lien has not been avoided, disallowed, set aside, invalidated, or subordinated pursuant to Chapter 5 of the Bankruptcy Code or otherwise) securing payment of First Lien Obligations or Second Lien Obligations, respectively, and including any Lien granted pursuant to section 6, “Insolvency Proceedings,&rdquo; to secure both First Lien Obligations and Second Lien Obligations.]
 
 [END OF ALTERNATIVE DEFINITION]
 
@@ -1160,7 +1160,7 @@ Defaulting Creditor is defined in section 5.7(c).
 
 DIP Financing means the obtaining of credit or incurring debt secured by Liens on the Collateral pursuant to section 364 of the Bankruptcy Code (or similar Bankruptcy Law).
 
-Discharge of First Lien Obligations means, except to the extent otherwise expressly provided in section 5, “Purchase of First Lien Obligations by Second Lien Claimholders,”
+Discharge of First Lien Obligations means, except to the extent otherwise expressly provided in section 5, “Purchase of First Lien Obligations by Second Lien Claimholders,&rdquo;
 
 x1.sec=payment in full in cash of the principal of and interest (including interest accruing on or after the commencement of an Insolvency Proceeding, whether or not such interest would be allowed in the proceeding) on all outstanding Indebtedness included in the First Lien Obligations,
 
@@ -1182,7 +1182,7 @@ x1.sec=payment in full in cash of the principal of and interest (including inter
 
 x2.sec=payment in full in cash of all other Second Lien Obligations that are due and payable or otherwise accrued and owing at or prior to the time such principal and interest are paid (other than indemnification Obligations for which no claim or demand for payment, whether oral or written, has been made at such time).
 
-Disposition means an “Asset Sale” (as defined in the First Lien Credit Agreement), or other sale, lease, exchange, transfer, or other disposition.
+Disposition means an “Asset Sale&rdquo; (as defined in the First Lien Credit Agreement), or other sale, lease, exchange, transfer, or other disposition.
 
 Enforcement Action means an action under applicable law to
 
@@ -1194,7 +1194,7 @@ x3.sec=to receive a transfer of Collateral in satisfaction of Indebtedness or an
 
 x4.sec=to otherwise enforce a security interest or exercise another right or remedy, as a secured creditor or otherwise, pertaining to the Collateral at law, in equity, or pursuant to the First Lien Loan Documents or Second Lien Loan Documents (including the commencement of applicable legal proceedings or other actions with respect to all or any portion of the Collateral to facilitate the actions described in the preceding clauses, and exercising voting rights in respect of equity interests comprising Collateral), [or
 
-x5.sec=effect the Disposition of Collateral by any Grantor after the occurrence and during the continuation of an event of default under the First Lien Loan Documents or the Second Lien Loan Documents with the consent of First Lien Agent or Second Lien Agent, as applicable,] provided that “Enforcement Action” will [not] be deemed to include the commencement of, or joinder in filing of a petition for commencement of, an Insolvency Proceeding against the owner of Collateral.
+x5.sec=effect the Disposition of Collateral by any Grantor after the occurrence and during the continuation of an event of default under the First Lien Loan Documents or the Second Lien Loan Documents with the consent of First Lien Agent or Second Lien Agent, as applicable,] provided that “Enforcement Action&rdquo; will [not] be deemed to include the commencement of, or joinder in filing of a petition for commencement of, an Insolvency Proceeding against the owner of Collateral.
 
 Equity Interest means, for any Person, any and all shares, interests, participations, or other equivalents, including membership interests (however designated, whether voting or non-voting) of equity of the Person, including, if the Person is a partnership, partnership interests (whether general or limited) or any other interest or participation that confers on a holder the right to receive a share of the profits and losses of, or distributions of assets of, the partnership, but not including debt securities convertible or exchangeable into equity unless and until actually converted or exchanged.
 
@@ -1218,17 +1218,17 @@ First Lien Collateral Documents means the [security] [Collateral] documents defi
 
 First Lien Credit Agreement is defined in the Preamble.
 
-First Lien Lenders means the “Lenders” under and as defined in the First Lien Loan Documents.
+First Lien Lenders means the “Lenders&rdquo; under and as defined in the First Lien Loan Documents.
 
 First Lien Loan Documents means
 
-x1.sec=the First Lien Credit Agreement and the “Loan Documents” defined in the First Lien Credit Agreement,
+x1.sec=the First Lien Credit Agreement and the “Loan Documents&rdquo; defined in the First Lien Credit Agreement,
 
 x2.sec=each other agreement, document, or instrument providing for, evidencing, guaranteeing, or securing an Obligation under the First Lien Credit Agreement,
 
 x3.sec=any other document or instrument executed or delivered at any time in connection with Borrower’s Obligations under the First Lien Credit Agreement, including any guaranty of or grant of Collateral to secure such Obligations, and any intercreditor or joinder agreement to which holders of First Lien Obligations are parties, and
 
-x4.sec=each other agreement, document, or instrument providing for, evidencing, guaranteeing, or securing any DIP Financing provided by or consented to in writing by the First Lien Lenders and deemed consented to by the Second Lien Lenders pursuant to section 6.1, “Use of Cash Collateral and DIP Financing,” to the extent effective at the relevant time[, provided that any such documents or instruments to which any First Lien Claimholder is a party in connection with a DIP financing (other than a DIP financing deemed consented to by Second Lien Lenders pursuant to section 6.1, “Use of Cash Collateral and DIP Financing ”) will not be deemed First Lien Loan Documents unless so designated in writing by First Lien Agent].
+x4.sec=each other agreement, document, or instrument providing for, evidencing, guaranteeing, or securing any DIP Financing provided by or consented to in writing by the First Lien Lenders and deemed consented to by the Second Lien Lenders pursuant to section 6.1, “Use of Cash Collateral and DIP Financing,&rdquo; to the extent effective at the relevant time[, provided that any such documents or instruments to which any First Lien Claimholder is a party in connection with a DIP financing (other than a DIP financing deemed consented to by Second Lien Lenders pursuant to section 6.1, “Use of Cash Collateral and DIP Financing &rdquo;) will not be deemed First Lien Loan Documents unless so designated in writing by First Lien Agent].
 
 First Lien Obligations is defined in section 1.3(a).
 
@@ -1248,7 +1248,7 @@ in either case, to the extent that the incurrence of the obligations in respect 
 
 Holdings is defined in the Preamble.
 
-Indebtedness means and includes all Obligations that constitute “Indebtedness” under the First Lien Credit Agreement or the Second Lien Credit Agreement, as applicable.
+Indebtedness means and includes all Obligations that constitute “Indebtedness&rdquo; under the First Lien Credit Agreement or the Second Lien Credit Agreement, as applicable.
 
 Insolvency Proceeding means
 
@@ -1288,9 +1288,9 @@ Post-Petition Claims means interest, fees, costs, expenses, and other charges th
 
 Proceeds means
 
-x1.sec=all “proceeds,” as defined in Article 9 of the U.C.C., of the Collateral, and
+x1.sec=all “proceeds,&rdquo; as defined in Article 9 of the U.C.C., of the Collateral, and
 
-x2.sec=whatever is recovered when Collateral is sold, exchanged, collected, or disposed of, whether voluntarily or involuntarily, including any additional or replacement Collateral provided during any Insolvency Proceeding and any payment or property received in an Insolvency Proceeding on account of any “secured claim” (within the meaning of section 506(b) of the Bankruptcy Code or similar Bankruptcy Law).
+x2.sec=whatever is recovered when Collateral is sold, exchanged, collected, or disposed of, whether voluntarily or involuntarily, including any additional or replacement Collateral provided during any Insolvency Proceeding and any payment or property received in an Insolvency Proceeding on account of any “secured claim&rdquo; (within the meaning of section 506(b) of the Bankruptcy Code or similar Bankruptcy Law).
 
 Purchase Date is defined in section 5.2(a)(5). Purchase Event is defined in section 5.1(a).
 
@@ -1304,7 +1304,7 @@ Purchasing Creditors is defined in section 5.2(a).
 
 Recovery is defined in section 6.6.
 
-Refinance means, for any Indebtedness, to refinance, replace, refund, or repay, or to issue other Indebtedness in exchange or replacement for such Indebtedness in whole or in part, whether with the same or different lenders, agents, or arrangers. “Refinanced” and “Refinancing” have correlative meanings.
+Refinance means, for any Indebtedness, to refinance, replace, refund, or repay, or to issue other Indebtedness in exchange or replacement for such Indebtedness in whole or in part, whether with the same or different lenders, agents, or arrangers. “Refinanced&rdquo; and “Refinancing&rdquo; have correlative meanings.
 
 Second Lien Adequate Protection Payments is defined in section 6.4(b)(4). Second Lien Agent is defined in the Preamble.
 
@@ -1316,11 +1316,11 @@ Second Lien Collateral Documents means the [security] [Collateral] documents def
 
 Second Lien Credit Agreement is defined in the Preamble.
 
-Second Lien Lenders means the “Lenders” under and as defined in the Second Lien Loan Documents.
+Second Lien Lenders means the “Lenders&rdquo; under and as defined in the Second Lien Loan Documents.
 
 Second Lien Loan Documents means
 
-x1.sec=the Second Lien Credit Agreement and the “Loan Documents” defined in the Second Lien Credit Agreement,
+x1.sec=the Second Lien Credit Agreement and the “Loan Documents&rdquo; defined in the Second Lien Credit Agreement,
 
 x2.sec=each other agreement, document, or instrument providing for, evidencing, guaranteeing, or securing an Obligation under the Second Lien Credit Agreement, and
 
@@ -1330,7 +1330,7 @@ Second Lien Obligations is defined in section 1.3(b).
 
 Standstill Period is defined in section 3. 1(b)(1).
 
-Subsidiary of a Person means a corporation or other entity a majority of whose voting stock is directly or indirectly owned or controlled by the Person. For these purposes, “voting stock” of a Person means securities or other ownership interests of the Person having general power under ordinary circumstances to vote in the election of the directors, or other persons performing similar functions, of the Person. References to a percentage or proportion of voting stock refer to the relevant percentage or proportion of the votes entitled to be cast by the voting stock.
+Subsidiary of a Person means a corporation or other entity a majority of whose voting stock is directly or indirectly owned or controlled by the Person. For these purposes, “voting stock&rdquo; of a Person means securities or other ownership interests of the Person having general power under ordinary circumstances to vote in the election of the directors, or other persons performing similar functions, of the Person. References to a percentage or proportion of voting stock refer to the relevant percentage or proportion of the votes entitled to be cast by the voting stock.
 
 U.C.C. means the Uniform Commercial Code (or any similar legislation) as in effect in any applicable jurisdiction.
 
@@ -1344,17 +1344,17 @@ Singular and plural. Definitions of terms apply equally to the singular and plur
 
 Masculine and feminine. Pronouns will include the corresponding masculine, feminine, and neuter forms.
 
-Will and shall. “Will” and “shall” have the same meaning.
+Will and shall. “Will&rdquo; and “shall&rdquo; have the same meaning.
 
-Time periods. In computing periods from a specified date to a later specified date, the words “from” and “commencing on” (and the like) mean “from and including,” and the words “to,” “until,” and “ending on” (and the like) mean “to but excluding.”
+Time periods. In computing periods from a specified date to a later specified date, the words “from&rdquo; and “commencing on&rdquo; (and the like) mean “from and including,&rdquo; and the words “to,&rdquo; “until,&rdquo; and “ending on&rdquo; (and the like) mean “to but excluding.&rdquo;
 
 When action may be taken. Any action permitted under this Agreement may be taken at any time and from time to time.
 
 Time of day. All indications of time of day mean [New York City] time.
 
-Including. “Including” means “including, but not limited to.”
+Including. “Including&rdquo; means “including, but not limited to.&rdquo;
 
-Or. “A or B” means “A or B or both.”
+Or. “A or B&rdquo; means “A or B or both.&rdquo;
 
 Statutes and regulations. References to a statute refer to the statute and all regulations promulgated under or implementing the statute as in effect at the relevant time. References to a specific provision of a statute or regulation include successor provisions. References to a section of the Bankruptcy Code also refer to any similar provision of Bankruptcy Law.
 
@@ -1366,8 +1366,8 @@ Section references. Section references refer to sections of this Agreement. Refe
 
 Successors and assigns. References to a Person include the Person’s permitted successors and assigns.
 
-Herein, etc. “Herein,” “hereof,” “hereunder,” and words of similar import refer to this Agreement in its entirety and not to any particular provision.
+Herein, etc. “Herein,&rdquo; “hereof,&rdquo; “hereunder,&rdquo; and words of similar import refer to this Agreement in its entirety and not to any particular provision.
 
-Assets and property. “Asset” and “property” have the same meaning and refer to both real and personal, tangible and intangible assets and property, including cash, securities, accounts, and general intangibles.
+Assets and property. “Asset&rdquo; and “property&rdquo; have the same meaning and refer to both real and personal, tangible and intangible assets and property, including cash, securities, accounts, and general intangibles.
 
 =[02/Bit/Sec_08]

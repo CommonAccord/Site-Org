@@ -36,7 +36,7 @@ Misc.=[03/Sec/Library_Sec_Misc.01.md]
 
 =[02/Sec/DT_Consult.01.md]  
 
-Term.Survive.Xrefs={IP.WorkProduct.Xref} (“Ownership of Work Product”), {IP.Preexisting_IP.Xref} (“License to Preexisting IP”), {Rep.Xref} (“Representations and Warranties”), {Confidential.Xref} (“Confidential Information”) and {Unfair.Interference.Xref} (“Noninterference with Business”)
+Term.Survive.Xrefs={IP.WorkProduct.Xref} (“Ownership of Work Product&rdquo;), {IP.Preexisting_IP.Xref} (“License to Preexisting IP&rdquo;), {Rep.Xref} (“Representations and Warranties&rdquo;), {Confidential.Xref} (“Confidential Information&rdquo;) and {Unfair.Interference.Xref} (“Noninterference with Business&rdquo;)
 
 Confidential.Xref={IP.Xref}.3
 

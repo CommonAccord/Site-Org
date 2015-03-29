@@ -26,6 +26,6 @@ Ti=Representations and Warranties of the {Purchasers}
 
 5.Ti=Accredited Investor Status
 
-5.sec=Each {Purchaser} is an “accredited investor” as such term is defined in Rule 501 under the Act.
+5.sec=Each {Purchaser} is an “accredited investor&rdquo; as such term is defined in Rule 501 under the Act.
 
 =[01/Agt/Bit/Secs/05]

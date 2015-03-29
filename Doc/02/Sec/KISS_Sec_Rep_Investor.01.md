@@ -16,13 +16,13 @@ Ti=Representations and Warranties of {the_Investor}
 
 4.Ti=Accredited Investor
 
-4.sec=Investor is an “accredited investor” within the meaning of Rule 501 of Regulation D, as presently in effect, as promulgated by the Securities and Exchange Commission (the “{SEC}”) under the Securities Act of 1933, as amended (the “{Act}”).
+4.sec=Investor is an “accredited investor&rdquo; within the meaning of Rule 501 of Regulation D, as presently in effect, as promulgated by the Securities and Exchange Commission (the “{SEC}&rdquo;) under the Securities Act of 1933, as amended (the “{Act}&rdquo;).
 
 /Note="SEC" is defined in the KISS, but not used, even where it could be.
 
 5.Ti=Restricted Security
 
-5.sec=Investor understands that this {KISS} is characterized as a “restricted security” under the federal securities laws inasmuch as it is being acquired from {the_Company} in a transaction not involving a public offering and that under such laws and applicable regulations such securities may be resold without registration under the {Act}, only in certain limited circumstances.
+5.sec=Investor understands that this {KISS} is characterized as a “restricted security&rdquo; under the federal securities laws inasmuch as it is being acquired from {the_Company} in a transaction not involving a public offering and that under such laws and applicable regulations such securities may be resold without registration under the {Act}, only in certain limited circumstances.
 
 
 =[01/Agt/Bit/Secs/05]

@@ -4,4 +4,4 @@
 
 2.sec={2.1.sec}  {2.2.sec}
 
-2.2.sec=The {parties} appoint {Smart.N,E,A} (the “{Smart_Contract}”) as their agent.
+2.2.sec=The {parties} appoint {Smart.N,E,A} (the “{Smart_Contract}&rdquo;) as their agent.

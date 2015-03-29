@@ -1,14 +1,14 @@
 1.1.0.Sec=BY AND BETWEEN:
 
-1.1.1.sec={P1.N,E,A} (“{P1.Handle}” and a “{party}”)
+1.1.1.sec={P1.N,E,A} (“{P1.Handle}&rdquo; and a “{party}&rdquo;)
 
-1.1.2.sec={P2.N,E,A} (“{P2.Handle}” and a “{party}”)
+1.1.2.sec={P2.N,E,A} (“{P2.Handle}&rdquo; and a “{party}&rdquo;)
 
 1.1.=[02/Bit/Sec_02]
 
 1.1.xlist={1.1.ulist}
 
-1.2.sec=EFFECTIVE DATE: {Agt.Effective.YMDT} (the “{Effective_Date}”)
+1.2.sec=EFFECTIVE DATE: {Agt.Effective.YMDT} (the “{Effective_Date}&rdquo;)
 
 /Note=Default to just the day - backward compatibility
 
@@ -21,7 +21,7 @@ Agt.Effective.YMDT={Agt.Effective.YMD}
 
 2.sec={2.1.sec} {2.2.sec}
 
-2.1.sec=This {Ti} (the “{Agreement}”) is made as of the {Effective_Date} by and between the {parties}.
+2.1.sec=This {Ti} (the “{Agreement}&rdquo;) is made as of the {Effective_Date} by and between the {parties}.
 
 2.2.sec=<b></b>
 

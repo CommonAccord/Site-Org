@@ -6,7 +6,7 @@ Ti={Confidential_Information}
 
 2.Ti=Definition
 
-2.0.Sec=“{Confidential_Information}” as used in {this_Agreement} shall mean all information disclosed by {P1.the} to {P2.the}, whether during or before the term of {this_Agreement}, that is not generally known in {P1.the}’s trade or industry and shall include, without limitation:
+2.0.Sec=“{Confidential_Information}&rdquo; as used in {this_Agreement} shall mean all information disclosed by {P1.the} to {P2.the}, whether during or before the term of {this_Agreement}, that is not generally known in {P1.the}’s trade or industry and shall include, without limitation:
 
 2.1.Sec=concepts and ideas relating to the development and distribution of content in any medium or to the current, future and proposed products or services of {P1.the} or its subsidiaries or affiliates;
 
