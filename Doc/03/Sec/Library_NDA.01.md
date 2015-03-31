@@ -1,6 +1,6 @@
 0.2.2.sec={Purpose.sec}
 
-Purpose.sec=The purpose of {this_Agreement} is to protect the confidentiality of certain confidential information of each {Party} that may be disclosed under {this_Agreement} to the other {Party} for {PermittedUse.cl} (the “{Permitted_Use}&rdquo;).
+Purpose.sec=The purpose of {this_Agreement} is to protect the confidentiality of certain confidential information of each {Party} that may be disclosed under {this_Agreement} to the other {Party} for {PermittedUse.cl} (the "{Permitted_Use}").
  
 PermittedUse.cl=use in evaluating or pursuing a business relationship with {P1.the}  
 

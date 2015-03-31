@@ -3,7 +3,7 @@ Ti=Compensation
 
 1.Ti=Fee Per Project Assignment
 
-1.sec={P1.The} will pay {P2.the} the fee set forth in each {Project_Assignment} for {Services} rendered pursuant to {this_Agreement} as {P2.the}’s sole compensation for such {Services}.
+1.sec={P1.The} will pay {P2.the} the fee set forth in each {Project_Assignment} for {Services} rendered pursuant to {this_Agreement} as {P2.the}'s sole compensation for such {Services}.
 
 2.Ti=Reimbursement
 
@@ -11,11 +11,11 @@ Ti=Compensation
 
 3.Ti=Payment
 
-3.sec=Payment of {P2.the}’s fees and expenses will be in accordance with terms and conditions set forth in the applicable {Project_Assignment}.
+3.sec=Payment of {P2.the}'s fees and expenses will be in accordance with terms and conditions set forth in the applicable {Project_Assignment}.
 
 4.Ti=Time of Payment
 
-4.sec=Unless otherwise provided in a {Project_Assignment}, payment to {P2.the} of undisputed fees will be due thirty (30) days following {P1.the}’s receipt of an invoice which contains accurate records of the work performed sufficient to document the invoiced fees.
+4.sec=Unless otherwise provided in a {Project_Assignment}, payment to {P2.the} of undisputed fees will be due thirty (30) days following {P1.the}'s receipt of an invoice which contains accurate records of the work performed sufficient to document the invoiced fees.
 
 5.Ti=Termination During Performance
 

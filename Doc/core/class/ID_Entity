@@ -4,9 +4,9 @@ entity=legal person
 
 entity.a=a {entity}
 
-entité.un/une=un « {entity} »
+entite'.un/une=un " {entity} "
 
-Entité./e={null}
+Entite'./e={null}
 
 Addr.Type=business
 

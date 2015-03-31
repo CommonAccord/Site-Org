@@ -41,7 +41,7 @@ Except.Compelled._sec={Except.Compelled.Base}
 
 Except.Compelled.Base=The Data User may disclose Confidential Information to the extent required by law or by order of a court or governmental agency.
 
-Except.Compelled.Notice=The Data User will provide the Data Rights Owner with prompt notice of any such requirement or order and will use its best commercially reasonable efforts to cooperate with the Data Rights Owner, at Data Rights Owner’s request and expense, if they are seeking to obtain a protective order or otherwise protect the confidentiality of such Confidential Information.
+Except.Compelled.Notice=The Data User will provide the Data Rights Owner with prompt notice of any such requirement or order and will use its best commercially reasonable efforts to cooperate with the Data Rights Owner, at Data Rights Owner's request and expense, if they are seeking to obtain a protective order or otherwise protect the confidentiality of such Confidential Information.
 
 Except.ThisAgreement=The terms of this Agreement are not confidential.
 
@@ -61,5 +61,5 @@ Return._Sec=<u>{Return.Title}</u><br>{Return._sec}
  
 Return.Title=Return of Confidential Information
 
-Return._sec=In addition to any other obligations owed by Data User to Data Rights Owner under this Agreement the Data User shall promptly return or destroy, at the Data Rights Owner’s option and request, the Data Rights Owner’s Confidential Information and all copies thereof, and shall certify to the Data Rights Owner that it no longer has in its possession or under its control any Confidential Information in any form whatsoever, or any copy thereof.
+Return._sec=In addition to any other obligations owed by Data User to Data Rights Owner under this Agreement the Data User shall promptly return or destroy, at the Data Rights Owner's option and request, the Data Rights Owner's Confidential Information and all copies thereof, and shall certify to the Data Rights Owner that it no longer has in its possession or under its control any Confidential Information in any form whatsoever, or any copy thereof.
   

@@ -22,9 +22,9 @@ P1.www.web.com/P1_Service_1/SLA.Link=<a href="www.acme.com/P1_Service_1/SLA">SLA
 P1.www.web.com/Terms.Link=<a href="www.acme.com/Terms">Terms</a>
 P1.www.web.com/3PartyUseGuidelines.Link=<a href="www.acme.com/3PartyUseGuidelines">Third-Party Use Guidelines</a>
 P1.www.web.com/EnterpriseTerms.Link=<a href="www.acme.com/EnterpriseTerms">Enterprise Terms</a>
-16.Def.Account=“{Account}” means {P2.Handle}’s {P1.Handle} account (either under a gmail.com address or an email address provided under the “{P1_Service_1}” product line), which is offered under and subject to the relevant terms of service.
+16.Def.Account="{Account}" means {P2.Handle}'s {P1.Handle} account (either under a gmail.com address or an email address provided under the "{P1_Service_1}" product line), which is offered under and subject to the relevant terms of service.
 
-16.Def.Documentation=“{Documentation}” means the {P1.Handle} documentation (as may be updated from time to time) in the form generally made available by {P1.Handle} to its customers for use with the following {Services}: {P1_Service_1}, set forth here: {P1.www.web.com/P1_Service_1/AcceptableUse.Link}.
-16.Def.Services=“{Services}” mean, as applicable: {P1_Service_1} and such other services as set forth here: {P1.www.web.com/OtherServices.Link} (including any associated application programming interfaces).
-16.Def.SLA=“{SLA}” means the {Service_Level_Agreement} as applicable to: {P1_Service_1} set forth here: {P1.www.web.com/P1_Service_1/SLA.Link}. 
-16.Def.Terms_URL=“{Terms_URL}” means the following URL set forth here: {P1_Service_1} set forth here: {P1.www.web.com/Terms.Link}.
+16.Def.Documentation="{Documentation}" means the {P1.Handle} documentation (as may be updated from time to time) in the form generally made available by {P1.Handle} to its customers for use with the following {Services}: {P1_Service_1}, set forth here: {P1.www.web.com/P1_Service_1/AcceptableUse.Link}.
+16.Def.Services="{Services}" mean, as applicable: {P1_Service_1} and such other services as set forth here: {P1.www.web.com/OtherServices.Link} (including any associated application programming interfaces).
+16.Def.SLA="{SLA}" means the {Service_Level_Agreement} as applicable to: {P1_Service_1} set forth here: {P1.www.web.com/P1_Service_1/SLA.Link}. 
+16.Def.Terms_URL="{Terms_URL}" means the following URL set forth here: {P1_Service_1} set forth here: {P1.www.web.com/Terms.Link}.

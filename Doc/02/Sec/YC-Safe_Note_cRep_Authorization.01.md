@@ -4,7 +4,7 @@ sec={Authorization.Sec}  {Binding.Sec}  {NoViolation.Sec}
 
 Authorization.Sec=The execution, delivery and performance by {the_Company} of this instrument is within the power of {the_Company} and, other than with respect to the actions to be taken when equity is to be issued to {the_Investor}, has been duly authorized by all necessary actions on the part of {the_Company}.
 
-Binding.Sec=This instrument constitutes a legal, valid and binding obligation of {the_Company}, enforceable against {the_Company} in accordance with its terms, except as limited by bankruptcy, insolvency or other laws of general application relating to or affecting the enforcement of creditors’ rights generally and general principles of equity.
+Binding.Sec=This instrument constitutes a legal, valid and binding obligation of {the_Company}, enforceable against {the_Company} in accordance with its terms, except as limited by bankruptcy, insolvency or other laws of general application relating to or affecting the enforcement of creditors' rights generally and general principles of equity.
 
 NoViolation.Sec=To the knowledge of {the_Company}, it is not in violation of {Comply.List}, {Impact.cl}.
 

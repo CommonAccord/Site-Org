@@ -6,7 +6,7 @@ Ti=Mutual Non-Disclosure Agreement
 
 0.Sec={0.1.Sec}<br>{0.2.Sec}<br>{0.3.Sec}
 
-0.1.Sec={This_Agreement} is made effective as of {Agt.Effective.YMD} (the “Effective Date”) between {P1.N,E,A} (“{P1.Handle}”), and {P2.N,E,A} (“{P2.Handle}”), in anticipation of each {party} disclosing confidential information to the other {party} for the purpose of evaluating technology licensing opportunities relating to {P1.Handle} Case Number {P1.Case#} (the “{Purpose}”). 
+0.1.Sec={This_Agreement} is made effective as of {Agt.Effective.YMD} (the "Effective Date") between {P1.N,E,A} ("{P1.Handle}"), and {P2.N,E,A} ("{P2.Handle}"), in anticipation of each {party} disclosing confidential information to the other {party} for the purpose of evaluating technology licensing opportunities relating to {P1.Handle} Case Number {P1.Case#} (the "{Purpose}"). 
 
 0.2.Sec=The primary contact(s) for disclosing or receiving confidential information for these {parties} are as follows: {Contact.Block}
 
@@ -17,13 +17,13 @@ DocBody={Doc}
 
 1.Ti={Confidential_Information}
 
-1.0.Sec=When used in {this_Agreement}, the term “{Confidential_Information}” means confidential and proprietary information disclosed by one {party} (“{Disclosing_Party}”) to the other (“{Receiving_Party}”) that:
+1.0.Sec=When used in {this_Agreement}, the term "{Confidential_Information}" means confidential and proprietary information disclosed by one {party} ("{Disclosing_Party}") to the other ("{Receiving_Party}") that:
 
 1.1.Sec=prior to disclosure, is marked with a legend indicating its confidential status;
 
 1.2.Sec=is disclosed by {P1.Handle} and is or relates to unpublished research, invention disclosures, or unpublished patent applications; or
 
-1.3.Sec=is disclosed orally or visually, if {the_Disclosing_Party} identifies such information as confidential at the time of disclosure and, within 30 days of such disclosure, delivers to {the_Receiving_Party}’s primary contact for receipt of {Confidential_Information} a notice summarizing the confidential information disclosed.
+1.3.Sec=is disclosed orally or visually, if {the_Disclosing_Party} identifies such information as confidential at the time of disclosure and, within 30 days of such disclosure, delivers to {the_Receiving_Party}'s primary contact for receipt of {Confidential_Information} a notice summarizing the confidential information disclosed.
 
 1.=[01/Agt/Bit/Outline/1-3.Secs]
 
@@ -43,7 +43,7 @@ DocBody={Doc}
 
 6.Ti=No Warranty
 
-6.sec=All {Confidential_Information} is provided “as is.” Neither party makes any warranties, expressed or implied, regarding its {Confidential_Information}’s accuracy, completeness, suitability or performance. 
+6.sec=All {Confidential_Information} is provided "as is." Neither party makes any warranties, expressed or implied, regarding its {Confidential_Information}'s accuracy, completeness, suitability or performance. 
 
 7.Ti=Term of Agreement
 
@@ -55,7 +55,7 @@ DocBody={Doc}
 
 7.3.Sec=the date on which a party provides notice of termination of {this_Agreement} to the other. 
 
-7.90.Sec={A_Receiving_Party}’s obligations with respect to use and nondisclosure of the {Disclosing_Party's_Confidential_Information} shall survive for a period of {PeriodOfEngagement.cl}.
+7.90.Sec={A_Receiving_Party}'s obligations with respect to use and nondisclosure of the {Disclosing_Party's_Confidential_Information} shall survive for a period of {PeriodOfEngagement.cl}.
 
 PeriodOfEngagement.cl=three years from the date of {this_Agreement}
 

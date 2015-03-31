@@ -29,7 +29,7 @@ Notice.Name,Title={Notice.Name.Full}, {Notice.Title}
 
 Sign.Block=<table border="0" cellpadding="1" cellspacing="1" style="width:300px"><tr><td><strong>{Name.Full}</strong></td></tr><tr><td>({Sign.Handle})</td></tr><tr><td>{SignBy}</td></tr><tr><td>{SignDated}</td></tr><tr><td>{Addr.1/2}</td></tr.></table>
  
-Sign.Handle=“{Handle}”
+Sign.Handle="{Handle}"
 
 SignDated=Date: {Sign.YMD}
 

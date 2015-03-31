@@ -16,6 +16,6 @@ Amend.Sec=Any modification to this Agreement must be in writing and agreed to by
 
 Entire.Sec=It is understood and agreed by {P2.the} and {P1.the} that this Agreement constitutes the entire agreement, both written and oral, between the parties, and that all prior agreements respecting the subject matter hereof, either written or oral, expressed or implied, shall be abrogated, canceled, and are null and void and of no effect.
 
-OfferAndAcceptance.Sec=The terms and conditions of this Agreement shall, at {P1.the}&rsquo;s sole option, be considered by {P1.the} to be withdrawn from Institution&rsquo;s consideration and the terms and conditions of this Agreement, and the Agreement itself to be null and void, unless this Agreement is executed by {P2.the} and a fully executed original is received by {P1.the} within sixty (60) days from the date of {P1.the}&rsquo;s signature found at the Signature Page.
+OfferAndAcceptance.Sec=The terms and conditions of this Agreement shall, at {P1.the}'s sole option, be considered by {P1.the} to be withdrawn from Institution's consideration and the terms and conditions of this Agreement, and the Agreement itself to be null and void, unless this Agreement is executed by {P2.the} and a fully executed original is received by {P1.the} within sixty (60) days from the date of {P1.the}'s signature found at the Signature Page.
 
 Model.Root={Sec}

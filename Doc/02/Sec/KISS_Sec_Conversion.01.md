@@ -8,7 +8,7 @@ Equity.Xref={Conversion.Xref}.1
 
 2.Ti={Corporate_Transaction}
 
-2.sec=In the event of a {Corporate_Transaction} prior to the conversion of this {KISS} pursuant to {Equity.Xref} or {Maturity.Xref}, at Investor’s election, (i) this {KISS} shall be converted into that number of {Conversion_Shares} equal to the quotient obtained by dividing the {Purchase_Price} and unpaid accrued interest on this {KISS} by the {Conversion_Price}; or (ii) {the_Investor} shall be paid the {Corporate_Transaction_Payment}.  At least ten (10) days prior to the closing of the {Corporate_Transaction}, {the_Company} shall notify {the_Investor} in writing of the terms of the {Corporate_Transaction}.
+2.sec=In the event of a {Corporate_Transaction} prior to the conversion of this {KISS} pursuant to {Equity.Xref} or {Maturity.Xref}, at Investor&rsquo;s election, (i) this {KISS} shall be converted into that number of {Conversion_Shares} equal to the quotient obtained by dividing the {Purchase_Price} and unpaid accrued interest on this {KISS} by the {Conversion_Price}; or (ii) {the_Investor} shall be paid the {Corporate_Transaction_Payment}.  At least ten (10) days prior to the closing of the {Corporate_Transaction}, {the_Company} shall notify {the_Investor} in writing of the terms of the {Corporate_Transaction}.
 
 Corporate.Xref={Conversion.Xref}.2
 

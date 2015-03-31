@@ -30,7 +30,7 @@ Ti=EMPLOYMENT AGREEMENT
 
 1.8.sec=Related Body Corporate has the same meaning as that set out in section 50 of the Corporations Act 2001.
 
-1.9.sec=Work means any subject matter in which copyright may subsist under the Copyright Act 1968 (Cth), and includes, without limitation, all ‘documents’ (as this term is defined in the Evidence Act 1995 (Cth)) typically produced by or created, whether directly or indirectly, in the ordinary course of business.
+1.9.sec=Work means any subject matter in which copyright may subsist under the Copyright Act 1968 (Cth), and includes, without limitation, all 'documents' (as this term is defined in the Evidence Act 1995 (Cth)) typically produced by or created, whether directly or indirectly, in the ordinary course of business.
 
 1.10.sec=Other terms may be specially defined elsewhere in this Agreement.
 
@@ -38,7 +38,7 @@ Ti=EMPLOYMENT AGREEMENT
 
 2.Ti=Commencement
 
-2.sec=The Employment will commence on date specified in Item 7 of the Schedule (“Commencement Date”).
+2.sec=The Employment will commence on date specified in Item 7 of the Schedule ("Commencement Date").
 
 3.Ti=Term of Employment
 
@@ -50,7 +50,7 @@ Ti=EMPLOYMENT AGREEMENT
 
 5.Ti=Position
 
-5.1.sec=The Employee will be employed in the position designated in Item 8 of the Schedule (“Position”) and will report directly to the person in the role nominated in Item 9 of the Schedule.
+5.1.sec=The Employee will be employed in the position designated in Item 8 of the Schedule ("Position") and will report directly to the person in the role nominated in Item 9 of the Schedule.
 
 5.2.sec=The duties and responsibilities of the Position are set out in the Job Description which forms Annexure A, but the Employer may require the Employee to perform additional or replacement duties. 
 
@@ -58,15 +58,15 @@ Ti=EMPLOYMENT AGREEMENT
 
 5.3.1.sec=the Employee being competent to properly carry out the duties of the Position; and
 
-5.3.2.sec=all representations made by Employee being true and correct concerning the Employee’s qualifications, skills, experience, industry knowledge, business influence, client contacts and employment history.
+5.3.2.sec=all representations made by Employee being true and correct concerning the Employee's qualifications, skills, experience, industry knowledge, business influence, client contacts and employment history.
 
 5.3.=[02/Bit/Ssec_02]
 
 5.4.0.sec=The Employee warrants that:
 
-5.4.1.sec=there are no direct or indirect restrictions on the Employee’s ability to fully perform the duties of the Position; and 
+5.4.1.sec=there are no direct or indirect restrictions on the Employee's ability to fully perform the duties of the Position; and 
 
-5.4.2.sec=entering into this Agreement will not be breach the Employee’s obligations to any third party.
+5.4.2.sec=entering into this Agreement will not be breach the Employee's obligations to any third party.
 
 5.4.=[02/Bit/Ssec_02]
 
@@ -77,7 +77,7 @@ Ti=EMPLOYMENT AGREEMENT
 
 6.Ti=Base Salary Package
 
-6.1.sec=The Employee will be paid an annual base salary of the amount specified in Item 10 of the Schedule (“Base Salary”) plus Superannuation.
+6.1.sec=The Employee will be paid an annual base salary of the amount specified in Item 10 of the Schedule ("Base Salary") plus Superannuation.
 
 6.2.sec=The Employer will pay the Base Salary to the Employee in equal instalments paid in arrears into a bank account nominated by the Employee on the pay period basis specified in Item 11 of the Schedule.
 
@@ -88,9 +88,9 @@ Ti=EMPLOYMENT AGREEMENT
 
 7.Ti=Hours of Work and Payment - Full-time Employees
 
-7.1.sec=The Employee is engaged as a permanent full-time employee, but the working hours are based on client demand and the Employee’s availability will regularly vary as agreed between the parties.
+7.1.sec=The Employee is engaged as a permanent full-time employee, but the working hours are based on client demand and the Employee's availability will regularly vary as agreed between the parties.
 
-7.2.sec=The Employee's hourly rate includes compensation for all hours worked. The Employee will usually work a 38-hour week (“Base Hours”), excluding meal breaks.  
+7.2.sec=The Employee's hourly rate includes compensation for all hours worked. The Employee will usually work a 38-hour week ("Base Hours"), excluding meal breaks.  
 7.3.sec=The duties of the Position may require reasonable additional hours to be worked ("Additional Hours"). 
 
 7.4.sec=The Employer may in consultation with the Employee reasonably vary the work hours to meet operational requirements.
@@ -105,9 +105,9 @@ Ti=EMPLOYMENT AGREEMENT
 
 8.Ti=Hours of Work and Payment - Part-time Employees
 
-8.1.sec=The Employee is engaged as a permanent part-time employee, but the working hours are based on client demand and the Employee’s availability will regularly vary as agreed between the parties.
+8.1.sec=The Employee is engaged as a permanent part-time employee, but the working hours are based on client demand and the Employee's availability will regularly vary as agreed between the parties.
 
-8.2.sec=The Employee's hourly rate includes compensation for all hours worked. The Employee will each week usually work the number of hours specified in Item 13 of the Schedule (“Base Hours”), excluding meal breaks.  
+8.2.sec=The Employee's hourly rate includes compensation for all hours worked. The Employee will each week usually work the number of hours specified in Item 13 of the Schedule ("Base Hours"), excluding meal breaks.  
 
 8.3.sec=The duties of the Position may require reasonable additional hours to be worked ("Additional Hours"). 
 
@@ -122,7 +122,7 @@ Ti=EMPLOYMENT AGREEMENT
 8.6.2.sec=any amounts due for any Additional Hours worked in the previous month.
 8.6.=[02/Bit/Ssec_02]
 
-8.7.sec=The pro-rata hourly rate (“Hourly Rate”) for any Additional Hours will be calculated as follows:<br>Hourly Rate = annual Base Salary/52/number of Base Hours
+8.7.sec=The pro-rata hourly rate ("Hourly Rate") for any Additional Hours will be calculated as follows:<br>Hourly Rate = annual Base Salary/52/number of Base Hours
 8.8.0.sec=The Employee will be paid for any Additional Hours if:
 
 8.8.1.sec=the Employee provides a proper record of the Additional Hours to a designated supervisor the next work day; and
@@ -162,25 +162,25 @@ Ti=EMPLOYMENT AGREEMENT
 
 11.Ti=Probation Period
 
-11.1.sec=The Employee must satisfactorily complete a probation period of three months starting from the Commencement Date (“Probation Period”).
+11.1.sec=The Employee must satisfactorily complete a probation period of three months starting from the Commencement Date ("Probation Period").
 
 11.2.sec=The purpose of the Probation Period is to enable the Employer to assess the Employee's suitability for the position.
 
 11.3.0.sec=During the Probation Period:
 
-11.3.1.sec=the Employee may terminate the Employment by giving one day’s notice in writing;
+11.3.1.sec=the Employee may terminate the Employment by giving one day's notice in writing;
 
-11.3.2.sec=the Employer may terminate the Employment by giving the Employee one day’s notice in writing plus payment of an amount that is equivalent to eight hours of the Hourly Rate.
+11.3.2.sec=the Employer may terminate the Employment by giving the Employee one day's notice in writing plus payment of an amount that is equivalent to eight hours of the Hourly Rate.
 
 11.3.=[02/Bit/Ssec_02]
 
-11.4.sec=Nothing in this clause will affect the Employee’s qualifying period of service for the purposes of the unfair dismissal provisions in the Act.
+11.4.sec=Nothing in this clause will affect the Employee's qualifying period of service for the purposes of the unfair dismissal provisions in the Act.
 
 11.=[02/Bit/Ssec_04]
 
 12.Ti=Conflicts of Interest
 
-12.1.0.sec=The Employee must not, without the Employer’s prior written approval, undertake any activity (including paid or unpaid work) that may compromise or give rise to a conflict with either:
+12.1.0.sec=The Employee must not, without the Employer's prior written approval, undertake any activity (including paid or unpaid work) that may compromise or give rise to a conflict with either:
 
 12.1.1.sec=the duties and responsibilities of the Employee under this Agreement; or
 12.1.2.sec=the business interests of the Employer.
@@ -201,7 +201,7 @@ Ti=EMPLOYMENT AGREEMENT
 
 12.4.1.sec=reasonable involvement in any professional or educational activity or body; or
 
-12.4.2.sec=trading for investment purposes in any company’s stock exchange listed shares.
+12.4.2.sec=trading for investment purposes in any company's stock exchange listed shares.
 
 12.4.=[02/Bit/Ssec_02]
 
@@ -211,7 +211,7 @@ Ti=EMPLOYMENT AGREEMENT
 
 13.Ti=Annual Leave, Personal Leave and Compassionate Leave
 
-13.1.sec=The Employee is entitled to take annual holidays and personal leave in accordance with the Act or any subsequent State or Federal legislation. The employee’s entitlement to paid annual leave accrues progressively during a year of service according to the employee’s ordinary hours of work, and accumulates from year to year. 
+13.1.sec=The Employee is entitled to take annual holidays and personal leave in accordance with the Act or any subsequent State or Federal legislation. The employee's entitlement to paid annual leave accrues progressively during a year of service according to the employee's ordinary hours of work, and accumulates from year to year. 
 13.2.0.sec=If employed full-time, the Employee will be entitled to:
 
 13.2.1.sec=20 days of paid annual leave;
@@ -232,14 +232,14 @@ Ti=EMPLOYMENT AGREEMENT
 
 13.5.0.sec=Personal leave accrues from year to year and can be taken as either personal sick leave or as carer's leave:
 
-13.5.1.sec=Carer's Leave:  is paid or unpaid leave taken to provide care or support for a member of the employee’s immediate family or household, where the member requires care or support because of a personal illness or injury, or an unexpected emergency.
+13.5.1.sec=Carer's Leave:  is paid or unpaid leave taken to provide care or support for a member of the employee's immediate family or household, where the member requires care or support because of a personal illness or injury, or an unexpected emergency.
 
 13.5.2.sec=Sick Leave: 	may be taken if the Employee is sick or injured.
 
 13.5.=[02/Bit/Ssec_02]
 
 
-13.6.sec=The employee is entitled to take compassionate leave in accordance with the Act or any subsequent State or Federal legislation on each occasion when a member of the employee’s immediate family, or a member of the employee’s household contracts or develops a personal illness that poses a serious threat to his or her life, or sustains a personal injury that poses a serious threat to his or her life, or dies.
+13.6.sec=The employee is entitled to take compassionate leave in accordance with the Act or any subsequent State or Federal legislation on each occasion when a member of the employee's immediate family, or a member of the employee's household contracts or develops a personal illness that poses a serious threat to his or her life, or sustains a personal injury that poses a serious threat to his or her life, or dies.
 
 13.7.sec=The employee is not entitled to take Personal or Compassionate leave unless the employee complies with the notice and evidence requirements set out in the Act and the Employer's then-current leave policies.
 
@@ -283,7 +283,7 @@ Ti=EMPLOYMENT AGREEMENT
 
 16.1.sec=safely attend to the duties of the Position;
 
-16.2.sec=become familiar with all applicable occupational health and safety laws, the regulations which are relevant to the duties of the Position and the Employer’s occupational health and safety policies and procedures (“OH&S Policies”); 
+16.2.sec=become familiar with all applicable occupational health and safety laws, the regulations which are relevant to the duties of the Position and the Employer's occupational health and safety policies and procedures ("OH&S Policies"); 
 
 16.3.sec=comply with the OH&S Policies and take steps to ensure that co-workers also comply;
 
@@ -307,7 +307,7 @@ Ti=EMPLOYMENT AGREEMENT
 
 18.Ti=Facilities Use and Surveillance Notification
 
-18.1.sec=The Employee will have access to the Employer’s email, Internet, computer, telephony (mobile and landline), facsimile and photocopy facilities (“Facilities”). 
+18.1.sec=The Employee will have access to the Employer's email, Internet, computer, telephony (mobile and landline), facsimile and photocopy facilities ("Facilities"). 
 
 18.2.0.sec=As the Facilities are provided for business purposes, the Employer will monitor use of the Facilities and the Employee:
 
@@ -319,7 +319,7 @@ Ti=EMPLOYMENT AGREEMENT
 
 18.2.=[02/Bit/Ssec_03]
 
-18.3.sec=The Employee acknowledges that the Employer has, under this clause, given notice in accordance with the Workplace Surveillance Act 2005 (NSW), that the Employer may conduct surveillance (“Surveillance”) that will record, review or copy content or data related to the Employee’s use of the computing, Internet and email facilities of the Employer.
+18.3.sec=The Employee acknowledges that the Employer has, under this clause, given notice in accordance with the Workplace Surveillance Act 2005 (NSW), that the Employer may conduct surveillance ("Surveillance") that will record, review or copy content or data related to the Employee's use of the computing, Internet and email facilities of the Employer.
 
 18.4.sec=The Surveillance may be conducted at any time and could begin when the Employee commences employment and continue on an intermittent or ongoing basis.
 
@@ -390,9 +390,9 @@ Ti=EMPLOYMENT AGREEMENT
 
 20.1.=[02/Bit/Sec_04]
 
-20.2.sec=The relevant notice period increases by one week if the Employee is over 45 years old and has completed at least two years’ continuous service with the Employer.
+20.2.sec=The relevant notice period increases by one week if the Employee is over 45 years old and has completed at least two years' continuous service with the Employer.
 
-20.3.0.sec=Subject to the next subclause, if the Employee is required to work during the notice period, the Employer may (for the primary purpose of protecting the business) issue directions during the notice period (“Notice Period Directions”) that direct the Employee, during some or all of the notice period, to:
+20.3.0.sec=Subject to the next subclause, if the Employee is required to work during the notice period, the Employer may (for the primary purpose of protecting the business) issue directions during the notice period ("Notice Period Directions") that direct the Employee, during some or all of the notice period, to:
 
 20.3.1.sec=not attend any offices or premises of the Employer;
 
@@ -410,7 +410,7 @@ Ti=EMPLOYMENT AGREEMENT
 
 20.4.0.sec=The Employee must comply with any Notice Period Directions if:
 
-20.4.1.sec=the Employer issues the Notice Period Directions for the primary purpose of protecting the Employer’s Business; and
+20.4.1.sec=the Employer issues the Notice Period Directions for the primary purpose of protecting the Employer's Business; and
 
 20.4.2.sec=the Employee continues to receive remuneration under this Agreement (including a reasonable assessment of any commission or bonuses that would otherwise be payable if the Notice Period Directions were not issued).
 
@@ -418,13 +418,13 @@ Ti=EMPLOYMENT AGREEMENT
 
 20.5.0.sec=If the Employee gives the Employer notice of termination in order to commence work with a competitor of the Employer, or an entity otherwise competing with the Employer, the Employee must:
 
-20.5.1.sec=immediately upon giving notice disclose full details of this purpose so the Employer can take steps to protect its business and arrange a hand-over of the Position's duties (including clients, suppliers and business) to another employee (“Protective Measures”); and
+20.5.1.sec=immediately upon giving notice disclose full details of this purpose so the Employer can take steps to protect its business and arrange a hand-over of the Position's duties (including clients, suppliers and business) to another employee ("Protective Measures"); and
 
-20.5.2.sec=comply with any of the Employer’s direction issued to give effect to the Protective Measures.
+20.5.2.sec=comply with any of the Employer's direction issued to give effect to the Protective Measures.
 
 20.5.=[02/Bit/Ssec_02]
 
-20.6.sec=The Employee’s obligations in relation to the Protective Measures do not detract from the Employee's general obligation to immediately disclose any conflict of interest to the Employer.
+20.6.sec=The Employee's obligations in relation to the Protective Measures do not detract from the Employee's general obligation to immediately disclose any conflict of interest to the Employer.
 
 20.7.0.sec=The Employer may also terminate the Employment by either:
 
@@ -444,7 +444,7 @@ In either case, the Employment will be terminated upon the payment in lieu of no
 
 21.1.sec=The provisions set out in this clause only apply if the Employer employs more than 15 employees and the Employee is entitled to be paid redundancy under the Act and these provisions are otherwise of no legal effect and are specifically excluded from this Agreement.
 
-21.2.0.sec=If the Position becomes redundant, the Employer will, in addition to the above notice period, pay a redundancy payment to the Employee (“Redundancy Payment”) based on Base Salary and on the table below.<br>Employee’s period of continuous service with the employer on termination -> Redundancy pay period
+21.2.0.sec=If the Position becomes redundant, the Employer will, in addition to the above notice period, pay a redundancy payment to the Employee ("Redundancy Payment") based on Base Salary and on the table below.<br>Employee's period of continuous service with the employer on termination -> Redundancy pay period
 
 21.2.1.sec=Less than 1 year -> Nil
 
@@ -470,7 +470,7 @@ In either case, the Employment will be terminated upon the payment in lieu of no
 
 21.2.=[02/Bit/Ssec_11]
 
-21.3.0.sec=For the sake of certainty, the Employee’s Base Salary is the rate of pay payable to the Employee for the ordinary hours of work, and does not include:
+21.3.0.sec=For the sake of certainty, the Employee's Base Salary is the rate of pay payable to the Employee for the ordinary hours of work, and does not include:
 
 21.3.1.sec=incentive-based payments and bonuses;
 
@@ -484,7 +484,7 @@ In either case, the Employment will be terminated upon the payment in lieu of no
 
 21.3.=[02/Bit/Ssec_05]
 
-21.4.sec=The Employee’s entitlement to a Redundancy Payment is conditional on the Employee:
+21.4.sec=The Employee's entitlement to a Redundancy Payment is conditional on the Employee:
 
 21.4.1.sec=accepting the period of notice (or a payment in lieu of notice) set out in this Agreement; 
 
@@ -512,11 +512,11 @@ In either case, the Employment will be terminated upon the payment in lieu of no
 
 21.5.5.sec=the Employee is entitled to a redundancy payment under an industrial instrument;
 
-21.5.6.0.sec=the Employer offers the Employee or obtains an offer of alternative employment (“Alternative Employment”) for the Employee from:
+21.5.6.0.sec=the Employer offers the Employee or obtains an offer of alternative employment ("Alternative Employment") for the Employee from:
 
 21.5.6.1.sec=a Related Body Corporate of the Employer;
 
-21.5.6.2.sec=the transferee of the Employer’s business; or 
+21.5.6.2.sec=the transferee of the Employer's business; or 
 
 21.5.6.3.sec=a third party.
 
@@ -531,7 +531,7 @@ In either case, the Employment will be terminated upon the payment in lieu of no
 
 21.6.1.sec=on terms which are no less favourable in aggregate than those set out in this Agreement;
 
-21.6.2.sec=where the Employee’s continuous service is recognised by the new or proposed employer for the purpose of determining service related employee benefits.
+21.6.2.sec=where the Employee's continuous service is recognised by the new or proposed employer for the purpose of determining service related employee benefits.
 
 21.6.=[02/Bit/Ssec_02]
 
@@ -570,7 +570,7 @@ In either case, the Employment will be terminated upon the payment in lieu of no
 
 24.1.0.sec=After the Employment is terminated, the Employee must not without first obtaining the written consent of the Employer, (i) for: a period of six months; or if that period is unenforceable, three months, (ii) in the area of: New South Wales; or if that area is unenforceable, Sydney:
 
-24.1.1.sec=solicit, canvass approach or accept an approach from any person with a view to obtain the custom of that person in a business that is the same or similar to the business of the Employer if that person was at any time during the 12 months prior to the termination, a client of the Employer in the part or parts of the business of the Employer related to the Employee’s role with the Employer;
+24.1.1.sec=solicit, canvass approach or accept an approach from any person with a view to obtain the custom of that person in a business that is the same or similar to the business of the Employer if that person was at any time during the 12 months prior to the termination, a client of the Employer in the part or parts of the business of the Employer related to the Employee's role with the Employer;
 
 24.1.2.sec=induce or seek to induce any person who was at any time while the Employee is employed by the Employer, an employee, officer, contractor or agent of the Employer to leave the employment f the Employer or to terminate or to not renew any contract with the Employer;
 
@@ -589,7 +589,7 @@ In either case, the Employment will be terminated upon the payment in lieu of no
 
 25.Ti=Confidential Information
 
-25.1.sec=The Employee must only use any Confidential Information for the benefit of the Employer and the Employer’s business and not use it for the Employee’s personal benefit or the benefit of any other person without the Employer’s express consent.
+25.1.sec=The Employee must only use any Confidential Information for the benefit of the Employer and the Employer's business and not use it for the Employee's personal benefit or the benefit of any other person without the Employer's express consent.
 
 25.2.sec=The Employee must take all reasonable steps to prevent the unauthorised disclosure or use of any Confidential Information.
 
@@ -659,15 +659,15 @@ In either case, the Employment will be terminated upon the payment in lieu of no
 
 27.Ti=Invention, Patent, Design and Copyright
 
-27.1.sec=Any and all inventions, discoveries, developments, and innovations (“Invention”) and all Intellectual Property Rights conceived by the Employee during the Employment will be the exclusive property of the Employer, and the Employer is assigned all right, title, and interest in any Invention and any Intellectual Property Rights.
+27.1.sec=Any and all inventions, discoveries, developments, and innovations ("Invention") and all Intellectual Property Rights conceived by the Employee during the Employment will be the exclusive property of the Employer, and the Employer is assigned all right, title, and interest in any Invention and any Intellectual Property Rights.
 
 27.2.sec=The Employee will, without remuneration, sign all documents and do anything necessary or desirable to give effect to the matters stated and/or the transactions contemplated in this clause.
 
 27.3.0.sec=The Employee voluntarily and irrevocably either:
 
-27.3.1.sec=waives, as against the Employer and the Employer’s clients, the Employee’s Moral Rights in Works they create in the course of the Employment; or
+27.3.1.sec=waives, as against the Employer and the Employer's clients, the Employee's Moral Rights in Works they create in the course of the Employment; or
 
-27.3.2.sec=consents to the Employer and the Employer’s clients doing or omitting to do anything that would otherwise infringe the Employee’s Moral Rights in Works they create in the course of the Employment.
+27.3.2.sec=consents to the Employer and the Employer's clients doing or omitting to do anything that would otherwise infringe the Employee's Moral Rights in Works they create in the course of the Employment.
 
 27.3.=[02/Bit/Ssec_02]
 
@@ -692,9 +692,9 @@ In either case, the Employment will be terminated upon the payment in lieu of no
 
 28.2.1.sec=personal information - for particular management and administrative purposes;
 
-28.2.2.sec=professional/trade qualifications and other information regarding skill and experience of the Employee - for use by relevant bodies or by the Employer’s clients or potential clients;
+28.2.2.sec=professional/trade qualifications and other information regarding skill and experience of the Employee - for use by relevant bodies or by the Employer's clients or potential clients;
 
-28.2.3.sec=details of rates and hours of work – for use by relevant bodies or by the Employer’s clients or potential clients.
+28.2.3.sec=details of rates and hours of work – for use by relevant bodies or by the Employer's clients or potential clients.
 
 28.2.=[02/Bit/Ssec_03]
 

@@ -2,7 +2,7 @@ Heading.Sec={Ti}<br>of<br>{Co.Name.Full}<br>{Effective.YMD}
 
 Ti=Limited Liability Company Operating Agreement
 
-0.1.sec=THIS {Ti} of {Co.Name.Full} (the “Company”) is entered into as of the date set forth on the signature page hereto by each of the persons named in Exhibit A hereto (referred to individually as a “Member” and collectively as the “Members”).
+0.1.sec=THIS {Ti} of {Co.Name.Full} (the "Company") is entered into as of the date set forth on the signature page hereto by each of the persons named in Exhibit A hereto (referred to individually as a "Member" and collectively as the "Members").
 	
 0.2.sec=The Members have formed a limited liability company under the Delaware Limited Liability Company Act for the purpose of {Purpose.cl}.  The certificate of organization of the Company filed with the State of Delaware and any amendments thereto are hereby adopted and approved by the Members.
 	
@@ -10,7 +10,7 @@ Ti=Limited Liability Company Operating Agreement
 
 0.90.sec=NOW THEREFORE, the Members agree as follows:
 
-0.=[02/Bit/Ssec_03]
+0.=[Bit/Ssec_03]
 
 0.Ti=<b></b>
 
@@ -18,27 +18,27 @@ Ti=Limited Liability Company Operating Agreement
 
 1.0.sec=Capitalized terms used in this agreement have the meanings specified in this Section 1 or elsewhere in this agreement and when not so defined shall have the meanings set forth in the Delaware Limited Liability Company Act.
 
-1.1.sec=“Capital Contribution” means the amount of cash, property or services contributed to the Company.
+1.1.sec="Capital Contribution" means the amount of cash, property or services contributed to the Company.
 
-1.2.sec=“Company” means {Co.Name.Full}, a Delaware limited liability company.
+1.2.sec="Company" means {Co.Name.Full}, a Delaware limited liability company.
 
-1.3.sec=“Member” means a Person who acquires Membership Interests, as permitted under this agreement, and who becomes or remains a Member.
+1.3.sec="Member" means a Person who acquires Membership Interests, as permitted under this agreement, and who becomes or remains a Member.
 
-1.4.sec=“Membership Interests” means either Percentage Interest or Units, based on how ownership in the Company is expressed in Exhibit A.
+1.4.sec="Membership Interests" means either Percentage Interest or Units, based on how ownership in the Company is expressed in Exhibit A.
 
-1.5.sec=“Percentage Interest” means a percent ownership in the Company entitling the holder to an economic and voting interest in the Company.
+1.5.sec="Percentage Interest" means a percent ownership in the Company entitling the holder to an economic and voting interest in the Company.
 
-1.6.sec=“Person” means an individual, partnership, limited partnership, trust, estate, association, corporation, limited liability company, or other entity, whether domestic or foreign.
+1.6.sec="Person" means an individual, partnership, limited partnership, trust, estate, association, corporation, limited liability company, or other entity, whether domestic or foreign.
 
-1.7.sec=“Unit” means a unit of ownership in the Company entitling the Member holding such Unit to an economic interest and voting interest in the Company.
+1.7.sec="Unit" means a unit of ownership in the Company entitling the Member holding such Unit to an economic interest and voting interest in the Company.
 
-1.=[02/Bit/Ssec_07]
+1.=[Bit/Ssec_07]
 
 2.Ti=Formation
 
 2.1.Ti=Name
 
-2.1.sec=The name of the Company is “{Co.Name.Full}.”
+2.1.sec=The name of the Company is "{Co.Name.Full}."
 
 2.2.Ti=Certificate of Organization
 
@@ -54,11 +54,11 @@ Certificate.Effective.YMD={Certificate.Incorp.Sign.YMD}
 
 2.4.Ti=Principal Office
 
-2.4.sec=The Company’s principal office will initially be at {Co.Addr.1,2}, but it may be relocated by the Managers at any time.
+2.4.sec=The Company's principal office will initially be at {Co.Addr.1,2}, but it may be relocated by the Managers at any time.
 
 2.5.Ti=Designated Office and Agent for Service of Process
 
-2.5.sec=The Company's initial designated office will be at the Principal Office and the name of its initial agent for service of process at that address will be {Co.Regis.Name.Full}.  The Company’s designated office and its agent for service of process may only be changed by filing notice of the change with the State of Delaware.
+2.5.sec=The Company's initial designated office will be at the Principal Office and the name of its initial agent for service of process at that address will be {Co.Regis.Name.Full}.  The Company's designated office and its agent for service of process may only be changed by filing notice of the change with the State of Delaware.
 
 2.6.Ti=Purposes and Powers
 
@@ -66,9 +66,9 @@ Certificate.Effective.YMD={Certificate.Incorp.Sign.YMD}
 
 2.7.Ti=Title to Assets
 
-2.7.sec=Title to all assets of the Company will be held in the name of the Company.  No Member has any right to the assets of the Company or any ownership interest in those assets except indirectly as a result of the Member’s ownership of an interest in the Company.  No Member has any right to partition any assets of the Company or any right to receive any specific assets upon liquidation of the Company or upon any other distribution from the Company.
+2.7.sec=Title to all assets of the Company will be held in the name of the Company.  No Member has any right to the assets of the Company or any ownership interest in those assets except indirectly as a result of the Member's ownership of an interest in the Company.  No Member has any right to partition any assets of the Company or any right to receive any specific assets upon liquidation of the Company or upon any other distribution from the Company.
 
-2.=[02/Bit/Sec_07]
+2.=[Bit/Sec_07]
 
 3.Ti=Members, Contributions and Interests
 
@@ -88,7 +88,7 @@ Certificate.Effective.YMD={Certificate.Incorp.Sign.YMD}
 
 3.3.Ti=Additional Contributions
 
-3.3.sec=Except as otherwise provided in the Act, no Member is required to contribute additional capital to the Company.  Additional capital contributions to the Company may be made by the Members only with the approval of the Managers.  If the Managers approve additional capital contributions, the Managers must set a maximum amount of such contributions that will be accepted from the Members.  Each Member will then have the right, but not the obligation, to contribute a pro rata share of the maximum based upon the Member’s Membership Interest. If any Member elects to contribute less than the Member's pro rata share of the maximum, the other Members may contribute the difference on a pro rata basis in accordance with their Membership Interests or on any other basis they may agree upon.
+3.3.sec=Except as otherwise provided in the Act, no Member is required to contribute additional capital to the Company.  Additional capital contributions to the Company may be made by the Members only with the approval of the Managers.  If the Managers approve additional capital contributions, the Managers must set a maximum amount of such contributions that will be accepted from the Members.  Each Member will then have the right, but not the obligation, to contribute a pro rata share of the maximum based upon the Member's Membership Interest. If any Member elects to contribute less than the Member's pro rata share of the maximum, the other Members may contribute the difference on a pro rata basis in accordance with their Membership Interests or on any other basis they may agree upon.
 
 3.4.Ti=No Interest on Capital Contributions
 
@@ -96,13 +96,13 @@ Certificate.Effective.YMD={Certificate.Incorp.Sign.YMD}
 
 3.5.Ti=Capital Accounts
 
-3.5.sec=An individual capital account will be maintained for each Member.  A Member's capital account will be credited with all Capital Contributions made by the Member and with all income and gain (including any income exempt from federal income tax) allocated to the Member.  A Member’s capital account will be charged with the amount of all distributions made to the Member and with all losses and deductions (including deductions attributable to tax-exempt income) allocated to the Member.  Members’ capital accounts must be maintained in accordance with applicable tax laws.
+3.5.sec=An individual capital account will be maintained for each Member.  A Member's capital account will be credited with all Capital Contributions made by the Member and with all income and gain (including any income exempt from federal income tax) allocated to the Member.  A Member's capital account will be charged with the amount of all distributions made to the Member and with all losses and deductions (including deductions attributable to tax-exempt income) allocated to the Member.  Members' capital accounts must be maintained in accordance with applicable tax laws.
 
 3.6.Ti=Limited Liability
 
 3.6.sec=Members shall not be bound by, or be personally liable for, the expenses, liabilities, or obligations of the Company except as otherwise provided in this agreement or as required by law.
 
-3.=[02/Bit/Sec_06]
+3.=[Bit/Sec_06]
 
 4.Ti=Allocations and Distributions
 
@@ -120,7 +120,7 @@ Certificate.Effective.YMD={Certificate.Incorp.Sign.YMD}
 
 4.2.2.Sen=The timing and amount of distributions shall be determined by the Managers in accordance with the laws of the State of Delaware.  
 
-4.=[02/Bit/Sec_02]
+4.=[Bit/Sec_02]
 
 5.Ti=Management
 
@@ -169,7 +169,7 @@ Certificate.Effective.YMD={Certificate.Incorp.Sign.YMD}
 
 5.6.sec=No Member who is acting solely in his or her capacity as a Member is authorized to act on behalf of the Company.
 
-5.=[02/Bit/Sec_06]
+5.=[Bit/Sec_06]
 
 6.Ti=Membership - Meetings, Voting
 
@@ -193,21 +193,21 @@ Certificate.Effective.YMD={Certificate.Incorp.Sign.YMD}
 
 6.2.2.2.Sen=In addition, any action which could be taken at a meeting can be approved without a meeting and without notice if a consent in writing, stating the action to be taken, is signed by the holders of the minimum Membership Interests needed to approve the action.
 
-6.2.=[02/Bit/Ssec_02]
+6.2.=[Bit/Ssec_02]
 
-6.=[02/Bit/Sec_02]
+6.=[Bit/Sec_02]
 
 7.Ti=Withdrawal and Transfers of Membership Interests
 
 7.1.Ti=Withdrawal
 
-7.1.sec=A Member may withdraw from the Company prior to the dissolution and winding up of the Company with the unanimous consent of the other Members, or if such Member transfers or assigns all of his or her Membership Interests pursuant to Section 7.2 below.  A Member which withdraws pursuant to this Section 7.1 shall be entitled to a distribution in an amount equal to such Member’s capital account.
+7.1.sec=A Member may withdraw from the Company prior to the dissolution and winding up of the Company with the unanimous consent of the other Members, or if such Member transfers or assigns all of his or her Membership Interests pursuant to Section 7.2 below.  A Member which withdraws pursuant to this Section 7.1 shall be entitled to a distribution in an amount equal to such Member's capital account.
 
 7.2.Ti=Restrictions on Transfer
 
 7.2.sec=A Member shall not transfer any Membership Interests, whether now owned or later acquired, unless all of the Members consent to such transfer.  A person may acquire Membership Interests directly from the Company upon the written consent of all Members.  A person which acquires Membership Interests in accordance with this section shall be admitted as a Member of the Company after the person has agreed to be bound by the terms of this Operating Agreement by executing a consent in the form of Exhibit D.
 
-7.=[02/Bit/Sec_02]
+7.=[Bit/Sec_02]
 
 8.Ti=Accounting and Records
 
@@ -229,13 +229,13 @@ Certificate.Effective.YMD={Certificate.Incorp.Sign.YMD}
 
 8.3.Ti=Income Tax Returns
 
-8.3.sec=Within 45 days after the end of each taxable year, the Company shall use its best efforts to send to each of the Members all information necessary for the Members to complete their federal and state income tax or information returns and a copy of the Company’s federal, state and local income tax or information returns for such year.
+8.3.sec=Within 45 days after the end of each taxable year, the Company shall use its best efforts to send to each of the Members all information necessary for the Members to complete their federal and state income tax or information returns and a copy of the Company's federal, state and local income tax or information returns for such year.
 
 8.4.Ti=Tax Matters Member
 
-8.4.sec={TaxMM.Name.Full} shall act as tax matters member of the Company to represent the Company (at the Company’s expense) in connection with all examinations of the Company’s affairs by tax authorities and to expend Company funds for professional services and costs associated therewith.
+8.4.sec={TaxMM.Name.Full} shall act as tax matters member of the Company to represent the Company (at the Company's expense) in connection with all examinations of the Company's affairs by tax authorities and to expend Company funds for professional services and costs associated therewith.
 
-8.=[02/Bit/Sec_04]
+8.=[Bit/Sec_04]
 
 9.Ti=Dissociation and Dissolution
 
@@ -249,13 +249,13 @@ Certificate.Effective.YMD={Certificate.Incorp.Sign.YMD}
 
 9.1.3.sec=At any time there are no Members, provided that the Company is not dissolved and is not required to be wound up if, within 90 days after the occurrence of the event that terminated the continued membership of the last remaining Member, the legal representative of the last remaining Member agrees in writing to continue the Company and to the admission of the legal representative of such Member or its assignee to the Company as a Member, effective as of the occurrence of the event that terminated the continued membership of the last remaining Member.  
 
-9.1.=[02/Bit/Ssec_03]
+9.1.=[Bit/Ssec_03]
 
 9.2.Ti=No automatic dissolution upon certain events
 
 9.2.sec=Neither the death, incapacity, disassociation, bankruptcy or withdrawal of a Member shall automatically cause a dissolution of the Company.  
 
-9.=[02/Bit/Sec_02]
+9.=[Bit/Sec_02]
 
 10.Ti=Winding Up and Liquidation
 
@@ -269,17 +269,17 @@ Certificate.Effective.YMD={Certificate.Incorp.Sign.YMD}
 
 10.1.3.sec=To Members in proportion to the positive balances of their capital accounts, after taking into account all adjustments made to capital accounts for the fiscal year during which the distributions to Members are made.
 
-10.1.=[02/Bit/Ssec_03]
+10.1.=[Bit/Ssec_03]
 
 10.2.Ti=Distribution of Property in Kind
 
-10.2.sec=With approval of the Members, property of the Company may be distributed in kind in the process of winding up and liquidation.  Any property distributed in kind will be valued and treated for the Company’s accounting purposes, in accordance with Treasury Regulations §1.704-1(b)(2)(iv)(e)(1), as though the property distributed had been sold at fair market value on the date of distribution.  If property is distributed in kind, the difference between the fair market value of the property and its adjusted tax basis will, solely for the Company’s accounting purposes and to adjust the Members’ capital accounts, be treated as a gain or loss on the sale of the property and will be credited or charged to the Members’ capital accounts in the manner specified in Section 4.1 above.
+10.2.sec=With approval of the Members, property of the Company may be distributed in kind in the process of winding up and liquidation.  Any property distributed in kind will be valued and treated for the Company's accounting purposes, in accordance with Treasury Regulations Sec. 1.704-1(b)(2)(iv)(e)(1), as though the property distributed had been sold at fair market value on the date of distribution.  If property is distributed in kind, the difference between the fair market value of the property and its adjusted tax basis will, solely for the Company's accounting purposes and to adjust the Members' capital accounts, be treated as a gain or loss on the sale of the property and will be credited or charged to the Members' capital accounts in the manner specified in Section 4.1 above.
 
 10.3.Ti=Negative Capital Accounts
 
 10.3.sec=If any Member has a negative balance in the Member's capital account upon liquidation of the Company, the Member will have no obligation to make any contribution to the capital of the Company to make up the deficit, and the deficit will not be considered a debt owed to the Company or any other person for any purpose.
 
-10.=[02/Bit/Sec_03]
+10.=[Bit/Sec_03]
 
 11.Ti=Representations and Warranties of Members
 
@@ -291,7 +291,7 @@ Certificate.Effective.YMD={Certificate.Incorp.Sign.YMD}
 
 12.1.0.sec={12.1.0.1.Sen} {12.1.0.2.Sen} {12.1.0.3.Sen} {12.1.0.4.Sen}
 
-12.1.0.1.Sen=Except as otherwise provided in this section, the Company must indemnify each of the Managers to the fullest extent permissible under the law of the state in which the Company is organized, as the same exists or may hereafter be amended, against all liability, loss, and costs (including, without limitation, attorneys’ fees) incurred or suffered by the Manager by reason of or arising from the fact that the Manager is or was a manager of the Company, or is or was serving at the request of the Company as a manager, member, director, officer, partner, trustee, employee, or agent of another foreign or domestic limited liability company, corporation, partnership, joint venture, trust, benefit plan, or other enterprise.
+12.1.0.1.Sen=Except as otherwise provided in this section, the Company must indemnify each of the Managers to the fullest extent permissible under the law of the state in which the Company is organized, as the same exists or may hereafter be amended, against all liability, loss, and costs (including, without limitation, attorneys' fees) incurred or suffered by the Manager by reason of or arising from the fact that the Manager is or was a manager of the Company, or is or was serving at the request of the Company as a manager, member, director, officer, partner, trustee, employee, or agent of another foreign or domestic limited liability company, corporation, partnership, joint venture, trust, benefit plan, or other enterprise.
 
 12.1.0.2.Sen=The Company may, by action of the Managers, provide indemnification to employees and agents of the Company who are not Managers.
 
@@ -299,7 +299,7 @@ Certificate.Effective.YMD={Certificate.Incorp.Sign.YMD}
 
 12.1.0.4.Sen=But despite any other provision of this agreement, the Company has no obligation to indemnify a Manager for:
 
-12.1.1.sec=Any breach of the Manager’s duty of loyalty to the Company;
+12.1.1.sec=Any breach of the Manager's duty of loyalty to the Company;
 
 12.1.2.sec=Acts or omissions not in good faith that involve gross negligence, intentional misconduct or a knowing violation of law;
 
@@ -307,17 +307,17 @@ Certificate.Effective.YMD={Certificate.Incorp.Sign.YMD}
 
 12.1.4.sec=Any transaction in which the Manager derives improper personal benefit.
 
-12.1.=[02/Bit/Ssec_04]
+12.1.=[Bit/Ssec_04]
 
 12.2.Ti=Limitation of Liability
 
 12.2.sec={12.2.1.Sen} {12.2.2.Sen}
 
-12.2.1.Sen=No Manager of the Company is liable to the Company or to the Members for monetary damages resulting from the Manager’s conduct as a Manager except to the extent that (a) the Act, as it now exists or may be amended in the future, prohibits the elimination or limitation of liability of managers of limited liability companies or (b) the Manager’s conduct was not in good faith and involved gross negligence, intentional misconduct or a knowing violation of law.  
+12.2.1.Sen=No Manager of the Company is liable to the Company or to the Members for monetary damages resulting from the Manager's conduct as a Manager except to the extent that (a) the Act, as it now exists or may be amended in the future, prohibits the elimination or limitation of liability of managers of limited liability companies or (b) the Manager's conduct was not in good faith and involved gross negligence, intentional misconduct or a knowing violation of law.  
 
 12.2.2.Sen=No repeal or amendment of this section or of the Act will adversely affect any right or protection of a Manager for actions or omissions prior to the repeal or amendment.
 
-12.=[02/Bit/Sec_02]
+12.=[Bit/Sec_02]
 
 13.Ti=Miscellaneous Provisions
 
@@ -369,13 +369,13 @@ Certificate.Effective.YMD={Certificate.Incorp.Sign.YMD}
 
 13.9.sec=Each individual executing this agreement on behalf of a corporation or other entity warrants that he or she is authorized to do so and that this agreement will constitute the legally binding obligation of the corporation or other entity that the individual represents.
 
-13.=[02/Bit/Sec_09]
+13.=[Bit/Sec_09]
 
 90.sec={Witness}<br><br>{Co.Sign.Block}<br>{MList.Sign.Block}
 
 Witness=IN WITNESS WHEREOF, the parties have executed or caused to be executed this Operating Agreement as of the date below.
 
-=[02/Bit/Sec_13]
+=[Bit/Sec_13]
 
 DocBody={Doc}
 

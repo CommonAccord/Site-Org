@@ -32,7 +32,7 @@ Ti=Intel Privacy Notice
 
 1.1.3.2.sec=We may collect personal information you provide when you use Intel Services, for example, when you sign up for a newsletter, make a purchase, or use our products or apps.
 
-1.1.3.3.Ti=Through Third Parties’ Services:
+1.1.3.3.Ti=Through Third Parties' Services:
 
 1.1.3.3.sec=We may collect personal information you provide when you use third party services that utilize the Intel Services.
 
@@ -42,7 +42,7 @@ Ti=Intel Privacy Notice
 
 1.1.3.5.Ti=From Other Sources:
 
-1.1.3.5.sec=We may collect your personal information from other sources, such as public databases, joint marketing partners, and social media platforms. We may also receive your personal information from people with whom you are "friends" or otherwise connected on social media platforms.  For example, if you elect to connect your social media account to your Intel Services account, certain personal information from your social media account will be shared with us, which may include personal information that is part of your social media profile or your friends’ profiles.  The reverse is also true if your social media "friends" connect their social media account to their Intel Services account.
+1.1.3.5.sec=We may collect your personal information from other sources, such as public databases, joint marketing partners, and social media platforms. We may also receive your personal information from people with whom you are "friends" or otherwise connected on social media platforms.  For example, if you elect to connect your social media account to your Intel Services account, certain personal information from your social media account will be shared with us, which may include personal information that is part of your social media profile or your friends' profiles.  The reverse is also true if your social media "friends" connect their social media account to their Intel Services account.
 
 1.1.3.=[02/Bit/Sec_05]
 
@@ -89,7 +89,7 @@ Ti=Intel Privacy Notice
 
 1.2.2.5.Ti=Location Data:
 
-1.2.2.5.sec=We may collect the physical location of a connected device, for example, using satellite, cell phone tower or WiFi signals. We may use your device’s physical location to provide you with personalized location-based Intel Services, content and advertising. We may also share your device’s physical location, combined with information about what advertisements you viewed and other information we collect, with our marketing partners to enable them to provide you with more personalized content and to study the effectiveness of advertising campaigns. You can choose whether to allow or deny uses and/or sharing of your device’s location by changing your device settings, but if you choose to deny such uses and/or sharing, we and/or our marketing partners may not be able to provide you with the applicable personalized Intel Services, content and advertising.
+1.2.2.5.sec=We may collect the physical location of a connected device, for example, using satellite, cell phone tower or WiFi signals. We may use your device's physical location to provide you with personalized location-based Intel Services, content and advertising. We may also share your device's physical location, combined with information about what advertisements you viewed and other information we collect, with our marketing partners to enable them to provide you with more personalized content and to study the effectiveness of advertising campaigns. You can choose whether to allow or deny uses and/or sharing of your device's location by changing your device settings, but if you choose to deny such uses and/or sharing, we and/or our marketing partners may not be able to provide you with the applicable personalized Intel Services, content and advertising.
  
 1.2.2.=[02/Bit/Sec_05]
 
@@ -112,7 +112,7 @@ Ti=Intel Privacy Notice
 
 2.1.1.4.sec=To allow you to participate in sweepstakes, contests and similar promotions and to administer these activities. Some of these activities have additional rules, which could contain more information about how we use and disclose your personal information, so we suggest that you read these rules carefully.
 
-2.1.1.5.sec=To allow you to send messages to a friend through the Intel Services. By using this functionality, you are telling us that you are entitled to use and provide us with your friend’s contact information. 
+2.1.1.5.sec=To allow you to send messages to a friend through the Intel Services. By using this functionality, you are telling us that you are entitled to use and provide us with your friend's contact information. 
 
 2.1.1.6.sec=To complete and fulfill your purchase, for example, to process your payments, have your order delivered to you, communicate with you regarding your purchase and provide you with related customer service.
 
@@ -157,7 +157,7 @@ Ti=Intel Privacy Notice
  
 3.Ti=Third-Party Services
 
-3.sec=This Privacy Notice does not address, and we are not responsible for, the policies and practices of third parties or other organizations that are not Intel service providers, including policies and practices related to privacy and security, data collection, processing, use, storage, and disclosure.  This includes:  (a) any third party operating any site or service to which the Intel Services link – the inclusion of a link on the Intel Services does not imply endorsement of the linked site or service by us or by our affiliates; or (b) any app developer, app provider, social media platform provider, operating system provider, wireless service provider or device manufacturer (such as Facebook, Apple, Google, Microsoft, LinkedIn, etc.) - including any personal information you disclose to other organizations through or in connection with the Intel Services or our Social Media Pages. For example, we may use and direct you to a third party payment service to process payments made through the Intel Services.  If you wish to make a payment through the Intel Services, your personal information may be collected by such third party and not by us, and will be subject to the third-party’s privacy policy, rather than this Privacy Notice. 
+3.sec=This Privacy Notice does not address, and we are not responsible for, the policies and practices of third parties or other organizations that are not Intel service providers, including policies and practices related to privacy and security, data collection, processing, use, storage, and disclosure.  This includes:  (a) any third party operating any site or service to which the Intel Services link – the inclusion of a link on the Intel Services does not imply endorsement of the linked site or service by us or by our affiliates; or (b) any app developer, app provider, social media platform provider, operating system provider, wireless service provider or device manufacturer (such as Facebook, Apple, Google, Microsoft, LinkedIn, etc.) - including any personal information you disclose to other organizations through or in connection with the Intel Services or our Social Media Pages. For example, we may use and direct you to a third party payment service to process payments made through the Intel Services.  If you wish to make a payment through the Intel Services, your personal information may be collected by such third party and not by us, and will be subject to the third-party's privacy policy, rather than this Privacy Notice. 
 
  
 4.Ti=Third-Party Advertisers
@@ -168,7 +168,7 @@ Ti=Intel Privacy Notice
 
 5.Ti=Security
 
-5.sec=The Intel Services are designed to provide reasonable organizational, technical and administrative measures to protect personal information within our organization against unauthorized or unlawful access, alteration, disclosure or destruction.  Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure.  If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you have with us has been compromised), please immediately notify us of the problem by contacting us in accordance with the “Contact Us” section below.
+5.sec=The Intel Services are designed to provide reasonable organizational, technical and administrative measures to protect personal information within our organization against unauthorized or unlawful access, alteration, disclosure or destruction.  Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure.  If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you have with us has been compromised), please immediately notify us of the problem by contacting us in accordance with the "Contact Us" section below.
 
 6.Ti=Marketing Preferences
 
@@ -209,21 +209,21 @@ Ti=Intel Privacy Notice
 
 10.1.sec=Like any global company, Intel may transfer your personal information to its parent company, Intel Corporation in the United States (U.S.), or to any Intel group company worldwide when processing that information for the purposes described in this Privacy Notice. We may also transfer your personal information to our third party service providers, who may be located in a different country to you.
 
-10.2.sec=Intel complies with the U.S.-EU and U.S.-Swiss Safe Harbor frameworks as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from the European Union. Intel has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. While the U.S. may not have data privacy laws that are the same as those in the EU and Switzerland, we will protect the information we receive in the U.S. from the EU and Switzerland in accordance with our Safe Harbor commitments. To learn more about the Safe Harbor Program, and to view Intel’s certification, please visit http://www.export.gov/safeharbor.
+10.2.sec=Intel complies with the U.S.-EU and U.S.-Swiss Safe Harbor frameworks as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from the European Union. Intel has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. While the U.S. may not have data privacy laws that are the same as those in the EU and Switzerland, we will protect the information we receive in the U.S. from the EU and Switzerland in accordance with our Safe Harbor commitments. To learn more about the Safe Harbor Program, and to view Intel's certification, please visit http://www.export.gov/safeharbor.
 
 10.=[02/Bit/Ssec_02]
  
 
 11.Ti=Contact Us
 
-11.sec=If you have questions or concerns about Intel’s privacy practices, you can contact us by using the Contact Us form or send a letter to the postal address listed below. Please include your contact information, name of the Intel web site or service, and a detailed description of your request or privacy concern. <br>{P1.Notice.Block}
+11.sec=If you have questions or concerns about Intel's privacy practices, you can contact us by using the Contact Us form or send a letter to the postal address listed below. Please include your contact information, name of the Intel web site or service, and a detailed description of your request or privacy concern. <br>{P1.Notice.Block}
 
 
  
 
 12.Ti=Updates to this Privacy Notice
 
-12.1.sec=We may change this Privacy Notice. The “Last Updated” section at the top of this page states when this Privacy Notice was last revised. Any changes to this Privacy Notice will become effective when we post the revised Privacy Notice on the Intel Services. Your use of the Intel Services following these changes means that you accept the revised Privacy Notice.
+12.1.sec=We may change this Privacy Notice. The "Last Updated" section at the top of this page states when this Privacy Notice was last revised. Any changes to this Privacy Notice will become effective when we post the revised Privacy Notice on the Intel Services. Your use of the Intel Services following these changes means that you accept the revised Privacy Notice.
 
 12.2.sec=If any change may materially affect the privacy of your personal information, we will use reasonable endeavors to notify you in advance and give you a reasonable period of time to object to any changes (which you may do by ceasing to use the Intel Services).
 

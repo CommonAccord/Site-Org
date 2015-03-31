@@ -8,6 +8,6 @@ Unregistered.Sec={The_Investor} has been advised that this instrument and the un
 
 OwnAccount.Sec={The_Investor} is purchasing this instrument and the securities to be acquired by {the_Investor} hereunder for its own account for investment, not as a nominee or agent, and not with a view to, or for resale in connection with, the distribution thereof, and {the_Investor} has no present intention of selling, granting any participation in, or otherwise distributing the same.
 
-Experienced.Sec={The_Investor} has such knowledge and experience in financial and business matters that {the_Investor} is capable of evaluating the merits and risks of such investment, is able to incur a complete loss of such investment without impairing {the_Investor}’s financial condition and is able to bear the economic risk of such investment for an indefinite period of time. 
+Experienced.Sec={The_Investor} has such knowledge and experience in financial and business matters that {the_Investor} is capable of evaluating the merits and risks of such investment, is able to incur a complete loss of such investment without impairing {the_Investor}'s financial condition and is able to bear the economic risk of such investment for an indefinite period of time. 
 
 =[02/Bit/Sec]

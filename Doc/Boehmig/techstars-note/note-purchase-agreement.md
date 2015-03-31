@@ -2,7 +2,7 @@ Heading={CompanyName}<br>CONVERTIBLE PROMISSORY NOTE PURCHASE AGREEMENT
 
 0.Sec={0.1.Sec}<br>{0.2.Sec}<br>{0.3.Sec}<br>{0.4.Sec}<br>{0.5.Sec}
 
-0.1.Sec=THIS CONVERTIBLE PROMISSORY NOTE PURCHASE AGREEMENT (the “{Agreement}”) is made as of {DateOfNotePurchaseAgreement} (the “{Effective_Date}”) by and among {CompanyName}, a Delaware corporation (the “{Company}”), and the persons and entities named on the {Schedule_of_Purchasers} attached hereto (individually, a “{Purchaser}” and collectively, the “{Purchasers}”).
+0.1.Sec=THIS CONVERTIBLE PROMISSORY NOTE PURCHASE AGREEMENT (the "{Agreement}") is made as of {DateOfNotePurchaseAgreement} (the "{Effective_Date}") by and among {CompanyName}, a Delaware corporation (the "{Company}"), and the persons and entities named on the {Schedule_of_Purchasers} attached hereto (individually, a "{Purchaser}" and collectively, the "{Purchasers}").
 
 0.2.Sec=RECITAL
 
@@ -16,7 +16,7 @@ Heading={CompanyName}<br>CONVERTIBLE PROMISSORY NOTE PURCHASE AGREEMENT
 
 1.1.Ti=The Loan
 
-1.1.sec=Subject to the terms of {this_Agreement}, each {Purchaser} agrees to lend to the {Company} at the {Closing} (as hereinafter defined) the amount set forth opposite such {Purchaser}’s name on the {Schedule_of_Purchasers} attached to {this_Agreement} (each, a “{Loan_Amount}”) against the issuance and delivery by the {Company} of a convertible promissory note for such amount, in substantially the form attached hereto as EXHIBIT A (each, a “{Note}” and collectively, the “{Notes}”).  
+1.1.sec=Subject to the terms of {this_Agreement}, each {Purchaser} agrees to lend to the {Company} at the {Closing} (as hereinafter defined) the amount set forth opposite such {Purchaser}'s name on the {Schedule_of_Purchasers} attached to {this_Agreement} (each, a "{Loan_Amount}") against the issuance and delivery by the {Company} of a convertible promissory note for such amount, in substantially the form attached hereto as EXHIBIT A (each, a "{Note}" and collectively, the "{Notes}").  
 
 1.1.=[01/Agt/Bit/Outline/1.Sec]
 
@@ -26,15 +26,15 @@ Heading={CompanyName}<br>CONVERTIBLE PROMISSORY NOTE PURCHASE AGREEMENT
 
 2.1.Ti=Closing
 
-2.1.sec=The closing of the sale and purchase of the {Notes} (the “{Closing}”) shall be held on the {Effective_Date}, or at such other time as the {Company} and {Purchasers} may mutually agree (such date is hereinafter referred to as the “{Closing_Date}”).
+2.1.sec=The closing of the sale and purchase of the {Notes} (the "{Closing}") shall be held on the {Effective_Date}, or at such other time as the {Company} and {Purchasers} may mutually agree (such date is hereinafter referred to as the "{Closing_Date}").
 
 2.2.Ti=Subsequent Sales of {Notes}
 
-2.2.sec=At any time on or before the {AdditionalClosingPeriod} day following the {Closing}, the {Company} may sell {Notes} representing up to the balance of the authorized principal amount not sold at the {Closing} (the “{Additional_Purchasers}”).  All such sales made at any additional closings (each an “{Additional_Closing}”) shall be made on the terms and conditions set forth in {this_Agreement} and (i)  the representations and warranties of the {Company} set forth in Section 3 hereof shall speak as of the {Closing} and the {Company} shall have no obligation to update any disclosure related thereto, and (ii) the representations and warranties of the {Additional_Purchasers} in Section 4 hereof shall speak as of such {Additional_Closing}.  {This_Agreement}, including without limitation, the {Schedule_of_Purchasers}, may be amended by the {Company} without the consent of {Purchasers} to include any {Additional_Purchasers} upon the execution by such {Additional_Purchasers} of a counterpart signature page hereto.  Any {Notes} sold pursuant to this Section 2.2 shall be deemed to be “{Notes},” for all purposes under {this_Agreement} and any {Additional_Purchasers} thereof shall be deemed to be “{Purchasers}” for all purposes under {this_Agreement}.
+2.2.sec=At any time on or before the {AdditionalClosingPeriod} day following the {Closing}, the {Company} may sell {Notes} representing up to the balance of the authorized principal amount not sold at the {Closing} (the "{Additional_Purchasers}").  All such sales made at any additional closings (each an "{Additional_Closing}") shall be made on the terms and conditions set forth in {this_Agreement} and (i)  the representations and warranties of the {Company} set forth in Section 3 hereof shall speak as of the {Closing} and the {Company} shall have no obligation to update any disclosure related thereto, and (ii) the representations and warranties of the {Additional_Purchasers} in Section 4 hereof shall speak as of such {Additional_Closing}.  {This_Agreement}, including without limitation, the {Schedule_of_Purchasers}, may be amended by the {Company} without the consent of {Purchasers} to include any {Additional_Purchasers} upon the execution by such {Additional_Purchasers} of a counterpart signature page hereto.  Any {Notes} sold pursuant to this Section 2.2 shall be deemed to be "{Notes}," for all purposes under {this_Agreement} and any {Additional_Purchasers} thereof shall be deemed to be "{Purchasers}" for all purposes under {this_Agreement}.
 
 2.3.Ti=Delivery
 
-2.3.sec=At the {Closing} and each {Additional_Closing} (i) each {Purchaser} shall deliver to the {Company} a check or wire transfer funds in the amount of such {Purchaser}’s {Loan_Amount}; and (ii) the {Company} shall issue and deliver to each {Purchaser} a {Note} in favor of such {Purchaser} payable in the principal amount of such {Purchaser}’s {Loan_Amount}.
+2.3.sec=At the {Closing} and each {Additional_Closing} (i) each {Purchaser} shall deliver to the {Company} a check or wire transfer funds in the amount of such {Purchaser}'s {Loan_Amount}; and (ii) the {Company} shall issue and deliver to each {Purchaser} a {Note} in favor of such {Purchaser} payable in the principal amount of such {Purchaser}'s {Loan_Amount}.
 
 2.=[01/Agt/Bit/Outline/1-3.Secs]
 
@@ -48,11 +48,11 @@ Heading={CompanyName}<br>CONVERTIBLE PROMISSORY NOTE PURCHASE AGREEMENT
 
 3.2.Ti=Corporate Power
 
-3.2.sec=The {Company} has all requisite corporate power to execute and deliver {this_Agreement}, to issue each {Note} (collectively, the “{Loan_Documents}”) and to carry out and perform its obligations under the terms of the {Loan_Documents}.  
+3.2.sec=The {Company} has all requisite corporate power to execute and deliver {this_Agreement}, to issue each {Note} (collectively, the "{Loan_Documents}") and to carry out and perform its obligations under the terms of the {Loan_Documents}.  
 
 3.3.Ti=Authorization
 
-3.3.sec=All corporate action on the part of the {Company}, its directors and its stockholders necessary for the authorization of the {Loan_Documents} and the execution, delivery and performance of all obligations of the {Company} under the {Loan_Documents}, including the issuance and delivery of the {Notes} and the reservation of the equity securities issuable upon conversion of the {Notes} (collectively, the “{Conversion_Securities}”) has been taken or will be taken prior to the issuance of such {Conversion_Securities}.  The {Loan_Documents}, when executed and delivered by the {Company}, shall constitute valid and binding obligations of the {Company} enforceable in accordance with their terms, subject to laws of general application relating to bankruptcy, insolvency, the relief of debtors and, with respect to rights to indemnity, subject to federal and state securities laws.  The {Conversion_Securities}, when issued in compliance with the provisions of the {Loan_Documents} will be validly issued, fully paid and nonassessable and free of any liens or encumbrances and issued in compliance with all applicable federal and securities laws.
+3.3.sec=All corporate action on the part of the {Company}, its directors and its stockholders necessary for the authorization of the {Loan_Documents} and the execution, delivery and performance of all obligations of the {Company} under the {Loan_Documents}, including the issuance and delivery of the {Notes} and the reservation of the equity securities issuable upon conversion of the {Notes} (collectively, the "{Conversion_Securities}") has been taken or will be taken prior to the issuance of such {Conversion_Securities}.  The {Loan_Documents}, when executed and delivered by the {Company}, shall constitute valid and binding obligations of the {Company} enforceable in accordance with their terms, subject to laws of general application relating to bankruptcy, insolvency, the relief of debtors and, with respect to rights to indemnity, subject to federal and state securities laws.  The {Conversion_Securities}, when issued in compliance with the provisions of the {Loan_Documents} will be validly issued, fully paid and nonassessable and free of any liens or encumbrances and issued in compliance with all applicable federal and securities laws.
 
 3.4.Ti=Governmental Consents
 
@@ -68,7 +68,7 @@ Heading={CompanyName}<br>CONVERTIBLE PROMISSORY NOTE PURCHASE AGREEMENT
 
 3.7.Ti=Offering
 
-3.7.sec=Assuming the accuracy of the representations and warranties of the {Purchasers} contained in Section 4 hereof, the offer, issue, and sale of the {Notes} and the {Conversion_Securities} (collectively, the “{Securities}”) are and will be exempt from the registration and prospectus delivery requirements of the Securities Act of 1933, as amended (the “{Act}”), and have been registered or qualified (or are exempt from registration and qualification) under the registration, permit, or qualification requirements of all applicable state securities laws.
+3.7.sec=Assuming the accuracy of the representations and warranties of the {Purchasers} contained in Section 4 hereof, the offer, issue, and sale of the {Notes} and the {Conversion_Securities} (collectively, the "{Securities}") are and will be exempt from the registration and prospectus delivery requirements of the Securities Act of 1933, as amended (the "{Act}"), and have been registered or qualified (or are exempt from registration and qualification) under the registration, permit, or qualification requirements of all applicable state securities laws.
 
 3.8.Ti=Use of Proceeds
 
@@ -104,16 +104,16 @@ Heading={CompanyName}<br>CONVERTIBLE PROMISSORY NOTE PURCHASE AGREEMENT
 
 4.5.Ti=Accredited Investor Status
 
-4.5.sec=Each {Purchaser} is an “accredited investor” as such term is defined in Rule 501 under the Act.
+4.5.sec=Each {Purchaser} is an "accredited investor" as such term is defined in Rule 501 under the Act.
 
 4.=[01/Agt/Bit/Outline/1-5.Secs]
 
 
 5.Ti=FURTHER AGREEMENTS
 
-5.1.Ti=“Market Stand-Off” Agreement
+5.1.Ti="Market Stand-Off" Agreement
 
-5.1.sec=Each {Purchaser} agrees that such {Purchaser} shall not sell, transfer, make any short sale of, grant any option for the purchase of, or enter into any hedging or similar transaction with the same economic effect as a sale, any {Common_Stock} (or other securities) of the {Company} held by such {Purchaser} (other than those included in the registration) during the 180-day period following the effective date of the {Company}’s first firm commitment underwritten public offering of its {Common_Stock} registered under the Securities Act (or such longer period as the underwriters or the {Company} shall request in order to facilitate compliance with FINRA Rule 2711 or NYSE Member Rule 472 or any successor or similar rule or regulation), provided that all officers and directors of the {Company} are bound by and have entered into similar agreements.  Each {Purchaser} agrees to execute and deliver such other agreements as may be reasonably requested by the {Company} or the underwriters that are consistent with the {Purchaser}’s obligations under Section 5.1 or that are necessary to give further effect to this Section 5.1.  In addition, if requested by the {Company} or the representative of the underwriters of Common Stock (or other securities) of the {Company}, each {Purchaser} shall provide, within 10 days of such request, such information as may be required by the {Company} or such representative in connection with the completion of any public offering of the {Company}’s securities pursuant to a registration statement filed under the Act.  The obligations described in this Section 5.1 shall not apply to a registration relating solely to employee benefit plans on Form S-1 or Form S-8 or similar forms that may be promulgated in the future, or a registration relating solely to a transaction on Form S-4 or similar forms that may be promulgated in the future.
+5.1.sec=Each {Purchaser} agrees that such {Purchaser} shall not sell, transfer, make any short sale of, grant any option for the purchase of, or enter into any hedging or similar transaction with the same economic effect as a sale, any {Common_Stock} (or other securities) of the {Company} held by such {Purchaser} (other than those included in the registration) during the 180-day period following the effective date of the {Company}'s first firm commitment underwritten public offering of its {Common_Stock} registered under the Securities Act (or such longer period as the underwriters or the {Company} shall request in order to facilitate compliance with FINRA Rule 2711 or NYSE Member Rule 472 or any successor or similar rule or regulation), provided that all officers and directors of the {Company} are bound by and have entered into similar agreements.  Each {Purchaser} agrees to execute and deliver such other agreements as may be reasonably requested by the {Company} or the underwriters that are consistent with the {Purchaser}'s obligations under Section 5.1 or that are necessary to give further effect to this Section 5.1.  In addition, if requested by the {Company} or the representative of the underwriters of Common Stock (or other securities) of the {Company}, each {Purchaser} shall provide, within 10 days of such request, such information as may be required by the {Company} or such representative in connection with the completion of any public offering of the {Company}'s securities pursuant to a registration statement filed under the Act.  The obligations described in this Section 5.1 shall not apply to a registration relating solely to employee benefit plans on Form S-1 or Form S-8 or similar forms that may be promulgated in the future, or a registration relating solely to a transaction on Form S-4 or similar forms that may be promulgated in the future.
 
 5.2.Ti=Further Assurances
 
@@ -147,7 +147,7 @@ Heading={CompanyName}<br>CONVERTIBLE PROMISSORY NOTE PURCHASE AGREEMENT
 
 6.6.Ti=Modification; Waiver
 
-6.6.sec=No modification or waiver of any provision of {this_Agreement} or consent to departure therefrom shall be effective only upon the written consent of the {Company} and the holders of the {Notes} representing a majority of the aggregate principal amount of all {Notes} then outstanding (the “{Requisite_Holders}”).  Any provision of the {Notes} may be amended or waived by the written consent of the {Company} and the {Requisite_Holders}.
+6.6.sec=No modification or waiver of any provision of {this_Agreement} or consent to departure therefrom shall be effective only upon the written consent of the {Company} and the holders of the {Notes} representing a majority of the aggregate principal amount of all {Notes} then outstanding (the "{Requisite_Holders}").  Any provision of the {Notes} may be amended or waived by the written consent of the {Company} and the {Requisite_Holders}.
 
 6.7.Ti=Expenses
 

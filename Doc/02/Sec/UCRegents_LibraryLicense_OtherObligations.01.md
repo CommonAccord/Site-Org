@@ -58,13 +58,13 @@ NoticeOfModification.Days=ninety (90) days
 
 2.6.sec={Licensor} will provide regular system and project updates to {Licensee} as they become available.  {Licensor} will provide additional training to {Licensee} staff made necessary by any updates or modifications to the {Licensed_Materials} or any {Licensor} software.
 
-2.7.Ti=Notice of Terms of “Click-Through&rdquo; License Terms
+2.7.Ti=Notice of Terms of "Click-Through" License Terms
 
-2.7.sec=In the event that {Licensor} requires {Authorized_Users} to agree to terms relating to the use of the {Licensed_Materials} before permitting {Authorized_Users} to gain access to the {Licensed_Materials} (commonly referred to as “click-through&rdquo; licenses), {Licensor} shall provide {Licensee} with notice of and an opportunity to comment on such terms prior to their implementation.  In no event shall the terms of such “click-through&rdquo; licenses materially differ from the provisions of {this_Agreement}.  In the event of any conflict between the terms of such “click-through&rdquo; licenses and {this_Agreement}, the terms of {this_Agreement} shall prevail.
+2.7.sec=In the event that {Licensor} requires {Authorized_Users} to agree to terms relating to the use of the {Licensed_Materials} before permitting {Authorized_Users} to gain access to the {Licensed_Materials} (commonly referred to as "click-through" licenses), {Licensor} shall provide {Licensee} with notice of and an opportunity to comment on such terms prior to their implementation.  In no event shall the terms of such "click-through" licenses materially differ from the provisions of {this_Agreement}.  In the event of any conflict between the terms of such "click-through" licenses and {this_Agreement}, the terms of {this_Agreement} shall prevail.
 
 2.8.Ti=Usage Statistics
 
-2.8.sec={Licensor} must provide both composite use data for the system-wide CDL and itemized data for individual campuses, on a monthly basis.  Use data should be at the level of detail required for objective evaluation of both product performance and satisfaction of user needs, including title-by-title use of journals.  Providers should follow the International Coalition of Library Consortia (ICOLC) “Guidelines for Statistical Measures of Usage of Web-Based Information Resources “ or provide information in compliance with COUNTER or other recognized international standard.
+2.8.sec={Licensor} must provide both composite use data for the system-wide CDL and itemized data for individual campuses, on a monthly basis.  Use data should be at the level of detail required for objective evaluation of both product performance and satisfaction of user needs, including title-by-title use of journals.  Providers should follow the International Coalition of Library Consortia (ICOLC) "Guidelines for Statistical Measures of Usage of Web-Based Information Resources " or provide information in compliance with COUNTER or other recognized international standard.
 
 2.9.Ti=Compliance with Americans with Disabilities Act
 
@@ -94,7 +94,7 @@ NoticeOfModification.Days=ninety (90) days
 2.12.2.Sec={Licensor} will enter into good faith discussions with {Licensee} concerning open access business models and how these may influence future business models, including the potential impact on institutional subscription pricing. 
 
 
-2.12.3.Sec={Licensor} has signed an Expression of Interest to fund the Sponsoring Consortium for Open Access Publishing in Particle Physics (SCOAP3), an initiative that would convert certain journals in high energy physics to open access. {Licensor} agrees that should SCOAP3 proceed to the tender stage, the subscription value of {Licensor}’s journals contained within the {Licensed_Materials} and any associated fees (e.g. cross-access fees) will be deducted from the license fees due to {Licensor} so that these funds can be redirected to SCOAP3.
+2.12.3.Sec={Licensor} has signed an Expression of Interest to fund the Sponsoring Consortium for Open Access Publishing in Particle Physics (SCOAP3), an initiative that would convert certain journals in high energy physics to open access. {Licensor} agrees that should SCOAP3 proceed to the tender stage, the subscription value of {Licensor}'s journals contained within the {Licensed_Materials} and any associated fees (e.g. cross-access fees) will be deducted from the license fees due to {Licensor} so that these funds can be redirected to SCOAP3.
 
 2.12.=[01/Agt/Bit/Secs/03]
 

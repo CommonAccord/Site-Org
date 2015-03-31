@@ -1,15 +1,15 @@
 =[core/class/AGT_Frame]
 
 AGT.Title=Technology Assignment Agreement
-Prologue.ThisAgreement=This {AGT.Title} (the “Agreement”) is effective as of  Date between {P1.N,E,A} (“Company”), and {P2.N,E,A} (“Developer”). The assignment and stock issuance hereunder is intended to qualify for tax-free treatment under Internal Revenue Code Section 351.
+Prologue.ThisAgreement=This {AGT.Title} (the "Agreement") is effective as of  Date between {P1.N,E,A} ("Company"), and {P2.N,E,A} ("Developer"). The assignment and stock issuance hereunder is intended to qualify for tax-free treatment under Internal Revenue Code Section 351.
 
 AGT.Secs._Lost=<ol><li>{Assign._Sec}</li><li>{Comp._Sec}</li><li>{Further._Sec}</li><li>{Conf._Sec}</li><li>{Rep._Sec}</li><li>{Misc._Sec}</li></ol>
 
-Assign._Sec=<u>Assignment</u>.  Developer hereby assigns to Company exclusively and throughout the world all right, title and interest (whether or not now existing) in {Assign.The.List} (collectively, “Intellectual Property”). To the extent allowed by applicable law, this Section {Assign.Xnum} includes all rights of paternity, integrity, disclosure and withdrawal and any other rights that may be known as or referred to as moral rights, artist’s rights, droit moral or the like (collectively, “Moral Rights”). To the extent Developer retains any Moral Rights under applicable law, Developer hereby ratifies and consents, and hereby provides all necessary ratifications and consents, to any action that may be taken with respect to such Moral Rights by or authorized by Company, and Developer agrees not to assert any Moral Rights with respect thereto. Developer will confirm any such ratification, consent or agreement from time to time as requested by Company.
+Assign._Sec=<u>Assignment</u>.  Developer hereby assigns to Company exclusively and throughout the world all right, title and interest (whether or not now existing) in {Assign.The.List} (collectively, "Intellectual Property"). To the extent allowed by applicable law, this Section {Assign.Xnum} includes all rights of paternity, integrity, disclosure and withdrawal and any other rights that may be known as or referred to as moral rights, artist's rights, droit moral or the like (collectively, "Moral Rights"). To the extent Developer retains any Moral Rights under applicable law, Developer hereby ratifies and consents, and hereby provides all necessary ratifications and consents, to any action that may be taken with respect to such Moral Rights by or authorized by Company, and Developer agrees not to assert any Moral Rights with respect thereto. Developer will confirm any such ratification, consent or agreement from time to time as requested by Company.
 
 Assign.The.List={Assign.The.Technology}, {Assign.The.Precursors}, and {Assign.The.IPRights}
 
-Assign.The.Technology=the subject matter referred to in Exhibit A (the “Technology”)
+Assign.The.Technology=the subject matter referred to in Exhibit A (the "Technology")
 
 Assign.The.Precursors=all precursors, portions and works in progress with respect thereto and all inventions, works of authorship, mask works, technology, information, know-how, materials and tools relating thereto or to the development, support or maintenance thereof
 
@@ -19,7 +19,7 @@ Comp._Sec={Comp.Stock._Sec}
 
 Comp.Stock._Sec=<u>Consideration</u>. Company agrees to issue to Developer certain shares of common stock of the Company on the effective date of this Agreement pursuant to the provisions of a Stock Purchase Agreement of even date herewith between Company and Developer. Such shares shall be the only consideration required of Company with respect to the subject matter of this Agreement.
 
-Further._Sec=<u>Further Assurances</u>. Developer agrees to assist Company in every proper way to evidence, record and perfect the Section {Assign.Xnum} assignment and to apply for and obtain recordation of and from time to time enforce, maintain and defend the assigned rights. If Company is unable for any reason whatsoever to secure Developer’s signature to any document it is entitled to under this Section {Further.Xnum}, Developer hereby irrevocably designates and appoints Company and its duly authorized officers and agents, as his agents and attorneys-in-fact with full power of substitution to act for and on his behalf and instead of Developer, to execute and file any such document or documents and to do all other lawfully permitted acts to further the purposes of the foregoing with the same legal force and effect as if executed by Developer.
+Further._Sec=<u>Further Assurances</u>. Developer agrees to assist Company in every proper way to evidence, record and perfect the Section {Assign.Xnum} assignment and to apply for and obtain recordation of and from time to time enforce, maintain and defend the assigned rights. If Company is unable for any reason whatsoever to secure Developer's signature to any document it is entitled to under this Section {Further.Xnum}, Developer hereby irrevocably designates and appoints Company and its duly authorized officers and agents, as his agents and attorneys-in-fact with full power of substitution to act for and on his behalf and instead of Developer, to execute and file any such document or documents and to do all other lawfully permitted acts to further the purposes of the foregoing with the same legal force and effect as if executed by Developer.
 
 Assign.Xnum=1
 
@@ -44,7 +44,7 @@ Rep.P2.IP.TitleToIP=has not assigned, transferred, licensed, pledged or otherwis
 
 Rep.P2.IP.Authority=has full power and authority to enter into this Agreement and to make the assignment provided in Section {Assign.Xnum}
 
-Rep.P2.IP.NonInfringe=is not aware of any violation, infringement or misappropriation of any third party’s rights (or any claim thereof) by the Technology or Intellectual Property
+Rep.P2.IP.NonInfringe=is not aware of any violation, infringement or misappropriation of any third party's rights (or any claim thereof) by the Technology or Intellectual Property
 
 Rep.P2.IP.NotWorkProduct=was not acting within the scope of employment by any third party when conceiving, creating or otherwise performing any activity with respect to anything purportedly assigned in Section {Assign.Xnum}
 
@@ -65,7 +65,7 @@ Misc.Law._Sen=This Agreement shall be deemed to have been made in, and shall be 
 
 Misc.Forum._Sen=Any legal action or proceeding relating to this Agreement shall be brought exclusively in {Dispute.Forum._cl}, and each party consents to the jurisdiction thereof.
 
-Misc.AttyFee._Sen=The prevailing party in any action to enforce this Agreement shall be entitled to recover costs and expenses including, without limitation, attorneys’ fees.
+Misc.AttyFee._Sen=The prevailing party in any action to enforce this Agreement shall be entitled to recover costs and expenses including, without limitation, attorneys' fees.
 
 Misc.Amend._Sen=Any waivers or amendments shall be effective only if made in writing and signed by a representative of the respective parties authorized to bind the parties.
 
@@ -75,7 +75,7 @@ Sign.Witness=IN WITNESS WHEREOF, the parties hereto have executed this Agreement
 
 AGT.Attach=<center><b>Exhibit A</b></center><br><br>Technology<br><br>{TheTechnology}<br><br>{TheIP}
 
-TheTechnology=The “Technology” includes, but is not limited to, all ideas, concepts, specifications, designs, models, prototypes, techniques, tools, diagrams, outlines, descriptions and other documentation, information, data, and all other technology of any kind applicable to the presently intended business of Company, including {Technology.Description}.
+TheTechnology=The "Technology" includes, but is not limited to, all ideas, concepts, specifications, designs, models, prototypes, techniques, tools, diagrams, outlines, descriptions and other documentation, information, data, and all other technology of any kind applicable to the presently intended business of Company, including {Technology.Description}.
 
 TheIP=The Intellectual Property assigned hereunder includes the following documents and other materials that were created in connection with development of, and further describe, the Technology:
 

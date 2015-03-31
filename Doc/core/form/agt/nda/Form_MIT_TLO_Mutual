@@ -24,7 +24,7 @@ Contact.Roles._cl=disclosing or receiving confidential information for these par
 
 DP.Each=Each party 
 
-Export.Consent._cl=the written consent of {RP.theOther}.  In the case of {P1.Handle}, the written consent must be executed by {P1.Handle}’s Export Control Officer
+Export.Consent._cl=the written consent of {RP.theOther}.  In the case of {P1.Handle}, the written consent must be executed by {P1.Handle}'s Export Control Officer
 
 <b>Text</b>=
 
@@ -32,9 +32,9 @@ Prologue.ThisAgreement={MIT.Prologue.ThisAgreement._Sen}
 
 MIT.Prologue.ThisAgreement._Sen={MIT.Prologue.ThisAgreement._Cl}, in anticipation of {Purpose._cl}.
 
-MIT.Prologue.ThisAgreement._Cl=This Agreement is made effective as of {AGT.Effective.YMD} (the “Effective Date”) between {P2.N,E,A} (“{P2.Defined}”), and {P1.N,E,A} ("{P1.Defined}”)
+MIT.Prologue.ThisAgreement._Cl=This Agreement is made effective as of {AGT.Effective.YMD} (the "Effective Date") between {P2.N,E,A} ("{P2.Defined}"), and {P1.N,E,A} ("{P1.Defined}")
 
-Purpose._cl={Purpose.Roles} for the purpose of evaluating technology licensing opportunities {relating to} {Deal.#} (the “Purpose”)
+Purpose._cl={Purpose.Roles} for the purpose of evaluating technology licensing opportunities {relating to} {Deal.#} (the "Purpose")
 
 Prologue.Recital={Contact._Sen}
 
@@ -56,7 +56,7 @@ Conf.Title=Confidential Information
 
 Conf._sec={Conf.Defined._Cl} that {Conf.Impart.List}.   {Conf.Except._Sen}   {CC.Students._Sen}
 
-Conf.Defined._Cl=When used in this Agreement, the term “Confidential Information” means confidential and proprietary information disclosed by {Conf.Roles}
+Conf.Defined._Cl=When used in this Agreement, the term "Confidential Information" means confidential and proprietary information disclosed by {Conf.Roles}
 
 Conf.Impart.List=(i) {Conf.Impart.Marked}, (ii) {Conf.Impart.SubjectMatter}; or (iii) {Conf.Impart.LiveConfirmed}
 
@@ -64,13 +64,13 @@ Conf.Impart.Marked=prior to disclosure, is marked with a legend indicating its c
 
 Conf.Impart.SubjectMatter=is disclosed by {P1.Handle} and is or relates to unpublished research, invention disclosures{q} or unpublished patent applications
 
-Conf.Impart.LiveConfirmed=is disclosed orally or visually, if {DP.the} identifies such information as confidential at the time of disclosure and, within 30 days of such disclosure, delivers to {RP.the}’s primary contact for receipt of Confidential Information a notice summarizing the confidential information disclosed
+Conf.Impart.LiveConfirmed=is disclosed orally or visually, if {DP.the} identifies such information as confidential at the time of disclosure and, within 30 days of such disclosure, delivers to {RP.the}'s primary contact for receipt of Confidential Information a notice summarizing the confidential information disclosed
 
 Conf.Except._Sen=Notwithstanding the foregoing, in no event is information Confidential Information if {Conf.Except.List}.
 
 Conf.Except.List=it (a) {Conf.Except.Had}; (b) {Conf.Except.Public}; (c) {Conf.Except.Finds}; or (d) {Conf.Except.Makes}
 
-Conf.Except.Had=was in {RP.the}’s possession before receipt from {DP.the}
+Conf.Except.Had=was in {RP.the}'s possession before receipt from {DP.the}
 
 Conf.Except.Public=is or becomes a matter of public knowledge through no fault of {RP.the}
 
@@ -78,7 +78,7 @@ Conf.Except.Finds=is received by {RP.the}, without restriction as to further dis
 
 <b>NoteX</b>=There is a slight difference here -- In mutual it says "to disclose the information <b>to the Receiving Party</b>."  In In-Bound it says to disclose the information."  I figured it was an unwanted difference and kept the more complete form.  
 
-Conf.Except.Makes=is independently developed by {RP.the} without use of {DP.the}’s Confidential Information
+Conf.Except.Makes=is independently developed by {RP.the} without use of {DP.the}'s Confidential Information
 
 CC.Students._Sen=For purposes of this Agreement, {P1.Handle} students are not third parties vis-a-vis {P1.Handle}. 
 
@@ -88,9 +88,9 @@ Use.Title=Limitations on Use
 
 Use._sec={Conf.Use._Sen}  {Limit.NoLicense._Sen}
 
-Conf.Use._Sen={RP.The} shall use {DP.the}’s Confidential Information solely for the Purpose.
+Conf.Use._Sen={RP.The} shall use {DP.the}'s Confidential Information solely for the Purpose.
 
-Limit.NoLicense._Sen=Disclosure by {DP.the} of its Confidential Information does not constitute a grant to {RP.the} of any right or license to {DP.the}’s Confidential Information, except as set forth herein.
+Limit.NoLicense._Sen=Disclosure by {DP.the} of its Confidential Information does not constitute a grant to {RP.the} of any right or license to {DP.the}'s Confidential Information, except as set forth herein.
 
 Care._Sec=<u>{Care.Title}</u>.  {Care._sec}
 
@@ -98,9 +98,9 @@ Care.Title=Care of Confidential Information
 
 Care._sec={Care.Reasonable._Cl}, except that {CC.NeedToKnow_Warned._cl}.
 
-Care.Reasonable._Cl={RP.The} shall exert reasonable efforts to maintain {DP.the}’s Confidential Information in confidence
+Care.Reasonable._Cl={RP.The} shall exert reasonable efforts to maintain {DP.the}'s Confidential Information in confidence
 
-CC.NeedToKnow_Warned._cl={RP.the} may disclose or permit disclosure of any of {DP.the}’s Confidential Information to {CC.Persons} who need to know such Confidential Information to fulfill the Purpose and who have been advised of and have agreed to maintain the confidential nature of the Confidential Information
+CC.NeedToKnow_Warned._cl={RP.the} may disclose or permit disclosure of any of {DP.the}'s Confidential Information to {CC.Persons} who need to know such Confidential Information to fulfill the Purpose and who have been advised of and have agreed to maintain the confidential nature of the Confidential Information
 
 CC.Persons=its directors (in the case of {P1.Handle}, members), officers, employees, consultants, advisors and, in the case of {P1.Handle}, students,
 
@@ -130,13 +130,13 @@ Disclaim.Warranty._Sec=<u>{Disclaim.Warranty.Title}</u>.  {Disclaim.Warranty._se
 
 Disclaim.Warranty.Title=No Warranty
 
-Disclaim.Warranty._sec=All Confidential Information is provided “as is.”  {DP.NeitherMakes} any warranties, expressed or implied, regarding its Confidential Information’s accuracy, completeness, suitability{q} or performance.
+Disclaim.Warranty._sec=All Confidential Information is provided "as is."  {DP.NeitherMakes} any warranties, expressed or implied, regarding its Confidential Information's accuracy, completeness, suitability{q} or performance.
 
 Term._Sec=<u>{Term.Title}</u>.  {Term._sec}
 
 Term.Title=Term of Agreement
 
-Term._sec=The term of this Agreement shall commence on the Effective Date and terminate on the earliest of {Term.Stop.List}.  {RP.A}’s obligations with respect to use and non-disclosure of {DP.the}’s Confidential Information shall survive for a period of {Conf.Protect.Period}.
+Term._sec=The term of this Agreement shall commence on the Effective Date and terminate on the earliest of {Term.Stop.List}.  {RP.A}'s obligations with respect to use and non-disclosure of {DP.the}'s Confidential Information shall survive for a period of {Conf.Protect.Period}.
 
 Conf.Protect.Period={Conf.Protect.Period.Years} following receipt of the information
 
@@ -152,7 +152,7 @@ Remedy.Conf.Return._Sec=<u>{Remedy.Title}</u>.  {Remedy._sec}
 
 Remedy.Title=Return or Destruction of Confidential Information
 
-Remedy._sec=Following termination of this Agreement, {RP.the} shall, at the direction of {DP.the}, either destroy or return to {DP.the} all documents, materials, and other tangible manifestations of {DP.the}’s Confidential Information and shall destroy any electronic or digital manifestations of {DP.the}’s Confidential Information, except that {RP.the} may retain one copy of the Confidential Information solely for the purpose of monitoring its obligations under this Agreement.
+Remedy._sec=Following termination of this Agreement, {RP.the} shall, at the direction of {DP.the}, either destroy or return to {DP.the} all documents, materials, and other tangible manifestations of {DP.the}'s Confidential Information and shall destroy any electronic or digital manifestations of {DP.the}'s Confidential Information, except that {RP.the} may retain one copy of the Confidential Information solely for the purpose of monitoring its obligations under this Agreement.
 
 Notice._Sec=<u>{Notice.Title}</u>.  {Notice._sec}
 
@@ -196,7 +196,7 @@ Misc.Assign._Sec=<u>{Misc.Assign.Title}</u>.  {Misc.Assign._sec}
 
 Misc.Assign.Title=Assignment
 
-Misc.Assign._sec=This Agreement may not be assigned by either party without the other party’s prior written consent.
+Misc.Assign._sec=This Agreement may not be assigned by either party without the other party's prior written consent.
 
 Misc.Sever._Sec=<u>{Misc.Sever.Title}</u>.  {Misc.Sever._sec}
 
@@ -238,7 +238,7 @@ DP.Each=Each party
 
 DP.each=each party
 
-DP.Defined=one party (“Disclosing Party”)
+DP.Defined=one party ("Disclosing Party")
 
 <b>Unneeded inconsistency</b="the other party" vs "the other"
 
@@ -246,7 +246,7 @@ RP.theOther=the other party
 
 RP.other=the other
 
-RP.Defined=the other (“Receiving Party”)
+RP.Defined=the other ("Receiving Party")
 
 parties=parties
 

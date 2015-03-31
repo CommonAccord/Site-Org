@@ -6,7 +6,7 @@ Ti=Representations and Warranties
 
 2.Sec={Work_Product} will be an original work of {P2.the},
 
-3.Sec={P2.The} has the right and unrestricted ability to assign the ownership of {Work_Product} to {P1.the} as set forth in {IP.WorkProduct.Xref} (including without limitation the right to assign the ownership of any {Work_Product} created by {P2.the}’s employees or contractors),
+3.Sec={P2.The} has the right and unrestricted ability to assign the ownership of {Work_Product} to {P1.the} as set forth in {IP.WorkProduct.Xref} (including without limitation the right to assign the ownership of any {Work_Product} created by {P2.the}&rsquo;s employees or contractors),
 
 4.Sec=the {Work_Product} nor any element thereof will infringe upon or misappropriate any copyright, patent, trademark, trade secret, right of publicity or privacy{q} or any other proprietary right of any person, whether contractual, statutory{q} or common law,
 

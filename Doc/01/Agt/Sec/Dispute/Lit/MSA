@@ -11,7 +11,7 @@ Dispute.Sec=<b>Disputes; Law.</b> <ol><li>{Dispute.Law.Sec}</li><li>{Dispute.Ami
 
 Dispute.Law.Sec=<b>Applicable Law.</b><br> {Dispute.Law.Base.Sen}  {Dispute.Law.Exclude.CISG.Sen}
 
-Dispute.Law.Base.Sen=Each {party}&rsquo;s rights and obligations under or in connection with {this Agreement} shall be governed by the laws of {Dispute.Law.State.of} (excluding its conflict of laws rules).
+Dispute.Law.Base.Sen=Each {party}'s rights and obligations under or in connection with {this Agreement} shall be governed by the laws of {Dispute.Law.State.of} (excluding its conflict of laws rules).
 
 Dispute.Law.Exclude.CISG.Sen=The United Nations Convention on Contracts for the International Sale of Goods does not apply to this Agreement.
 

@@ -4,13 +4,13 @@ EscrowAGT.Doc.Body={AGT.Prologue} {AGT._Secs} {AGT.Signature}
 
 AGT.Prologue =<p><strong>ESCROW AGREEMENT</strong></p><p>{Intro.ThisAgreement}</p><p>{Intro.OtherPersons}</p><p>{Intro.Whereas}<br> {Intro.NowTherefore}</p>
 
-Intro.ThisAgreement=This escrow agreement (“Escrow Agreement”) is made and entered into on {Escrow.Effective.YMD} by and among:<ul><li>{Purchaser.N,E,A}, (“Purchaser”),</li><li>{Escrow.N,E,A}, (“Escrow Agent”),</li><li>{Seller.N,E,A} ("Seller"),</li></ul>as of {Escrow.Sign.YMD}.
+Intro.ThisAgreement=This escrow agreement ("Escrow Agreement") is made and entered into on {Escrow.Effective.YMD} by and among:<ul><li>{Purchaser.N,E,A}, ("Purchaser"),</li><li>{Escrow.N,E,A}, ("Escrow Agent"),</li><li>{Seller.N,E,A} ("Seller"),</li></ul>as of {Escrow.Sign.YMD}.
 
 Intro.OtherPersons=Additional persons referenced in this Agreement are:<ul><li>{Shipper.N,E,A} ("Shipper"); and</li><li>{Arbitrator.N,E,A} ("Arbitrator").</li></ul>
 
 Intro.Whereas=<ul><li>{Intro.Whereas.TheAgreement};</li><li> {Intro.Whereas.TheDeposit};</li><li>{Intro.Whereas.AppointAgent};</li><li>{Intro.Whereas.AgentAccepts}; and</li><li>{Intro.Whereas.Arbitrator}.</li></ul>
 
-Intro.Whereas.TheAgreement=WHEREAS, the Purchaser and the Seller have entered into a purchase agreement (“Purchase Agreement”) for the sale to the Purchaser of {Product.Description} (the “Products”) owned by the Seller in exchange for {Price.$} (the "Purchase Price") (altogether, the "Transaction")
+Intro.Whereas.TheAgreement=WHEREAS, the Purchaser and the Seller have entered into a purchase agreement ("Purchase Agreement") for the sale to the Purchaser of {Product.Description} (the "Products") owned by the Seller in exchange for {Price.$} (the "Purchase Price") (altogether, the "Transaction")
 
 Intro.Whereas.TheDeposit=WHEREAS, pursuant to said Purchase Agreement, the Purchaser has agreed to deposit the Purchase Price into an Escrow Account ("the Escrow Account")
 
@@ -37,7 +37,7 @@ Claim._Sec=<u>Claim</u>. If the Purchaser notifies the Escrow Agent of a claim o
 
 RelianceByEscrow._Sec=<u>Reliance by Escrow Agent</u>. The Escrow Agent may act in reliance upon any writing, instrument, or signature that the Escrow Agent, in good faith, believes to be genuine; and may assume any person purporting to give any notice, writing, advice, or instructions in connection with any provision herein has been duly authorized to do so.
 
-IndemnEscrow._Sec=<u>Indemnification of Escrow Agent</u>. The Purchaser and the Seller agree to indemnify and hold harmless the Escrow Agent from any and all claims, liabilities, losses, expenses, actions, suits, or proceedings at law or in equity, or any other expense, fees, or charges of any character or nature whatever that it may incur by reason of acting as the Escrow Agent under this Escrow Agreement except for the Escrow Agent&srquo;s gross negligence, bad faith or willful misconduct. The Escrow Agent shall not be required to institute or maintain any litigation unless indemnified to its satisfaction for its counsel fees, costs, disbursements and all other expenses and liabilities that it may be subjected to in connection with the aforesaid action.
+IndemnEscrow._Sec=<u>Indemnification of Escrow Agent</u>. The Purchaser and the Seller agree to indemnify and hold harmless the Escrow Agent from any and all claims, liabilities, losses, expenses, actions, suits, or proceedings at law or in equity, or any other expense, fees, or charges of any character or nature whatever that it may incur by reason of acting as the Escrow Agent under this Escrow Agreement except for the Escrow Agent&rsquo;s gross negligence, bad faith or willful misconduct. The Escrow Agent shall not be required to institute or maintain any litigation unless indemnified to its satisfaction for its counsel fees, costs, disbursements and all other expenses and liabilities that it may be subjected to in connection with the aforesaid action.
 
 AgentSubmitDispute._Sec=<u>Submission of Dispute by Escrow Agent</u>. If the Seller and the Purchaser disagree about the interpretation of this Escrow Agreement, about the rights and obligations of the parties, or the propriety of any action contemplated by the Escrow Agent hereunder, the Escrow Agent may submit such dispute to the Arbitrator. The Escrow Agent shall be indemnified for any costs, including reasonable attorney fees in connection with the aforesaid action.
 

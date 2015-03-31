@@ -14,6 +14,6 @@ noticePeriod=thirty (30) days
 
 3.sec={3.sec.1}
 
-3.sec.1={The_Receiving_Party}’s obligations with respect to {Confidential_Information_of_the_Disclosing_Party} will survive termination of {this_Agreement}.
+3.sec.1={The_Receiving_Party}'s obligations with respect to {Confidential_Information_of_the_Disclosing_Party} will survive termination of {this_Agreement}.
 
 =[02/Bit/Sec_03]

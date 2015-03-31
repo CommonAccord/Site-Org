@@ -10,7 +10,7 @@ WasPublic=was in the public domain at the time it was disclosed to {the_Receivin
 
 BecomesPublic=entered the public domain subsequent to the time it was disclosed to {the_Receiving_Party}, through no fault of {the_Receiving_Party}
 
-Had=was in {the_Receiving_Party}’s possession free of any obligation of confidence at the time it was disclosed to {the_Receiving_Party}
+Had=was in {the_Receiving_Party}'s possession free of any obligation of confidence at the time it was disclosed to {the_Receiving_Party}
 
 Finds=was rightfully communicated to {the_Receiving_Party} free of any obligation of confidence subsequent to the time it was disclosed to {the_Receiving_Party}
 

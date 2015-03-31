@@ -86,9 +86,9 @@ Delivery.Account=<b>{P2.Account}</b> (Patients with an active {P2.Account} accou
 Purpose=<b>Purpose:</b> The purpose(s) for which disclosure is authorized (check where applicable): {Purpose.List}
 Purpose.List={Purpose.List.Select}
 
-Purpose.List.Select={Purpose.List } Select: {Purpose.Request } Individual’s request {Purpose.Care } Medical Care {Purpose.Insurance } Insurance {Purpose.Immunization } Immunization  {Purpose.Legal } Legal {Purpose.Other }
+Purpose.List.Select={Purpose.List } Select: {Purpose.Request } Individual's request {Purpose.Care } Medical Care {Purpose.Insurance } Insurance {Purpose.Immunization } Immunization  {Purpose.Legal } Legal {Purpose.Other }
 
-Purpose.Request=Individual’s request
+Purpose.Request=Individual's request
 Purpose.Care=Medical Care
 Purpose.Insurance=Insurance
 Purpose.Immunization=Immunization

@@ -34,10 +34,16 @@ Attachments.sec=This agreement is subject to the General Terms (Attachment 1).  
 
 Attachments.=[Bit/Sec_01]
 
+Disputes.Ti=Dispute Resolution
+
+Disputes.sec=The "Dispute Resolution Jurisdiction" means {Dispute.Forum}.
+
+Disputes.=[Bit/Sec_01]
+
 90.Sec={Attach.Doc}
 
 =[Bit/Sec_05]  
 
-xlist=<ol><li>{Purpose.Sec}<li>{Token.Sec}<li>{Delegate.Sec}<li>{Budget.Sec}<li>{Attachments.Sec}</ol>
+xlist=<ol><li>{Purpose.Sec}<li>{Token.Sec}<li>{Delegate.Sec}<li>{Budget.Sec}<li>{Disputes.Sec}<li>{Attachments.Sec}</ol>
 
 Attach.=[Swarm/DCO_Agt/Swarm_DCO_and_LLC_Attachments.01.md]

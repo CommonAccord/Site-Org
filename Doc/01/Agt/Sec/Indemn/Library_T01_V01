@@ -10,20 +10,20 @@ secs={1-6.Secs}
 Ti=Indemnification
 
 1.Ti=By {P2.Handle}
-1.sec=Unless prohibited by applicable law, {P2.Handle} will defend and indemnify {P1.Handle} and its {Affiliates} against {Indemnified_Liabilities} in any {Third-Party_Legal_Proceeding} to the extent arising from: (i) any {Application}, {Project}, {Instance}, {P2_Data} or Customer {Brand_Features}; or (ii) {P2.Handle}&rsquo;s, or its {End_Users}&rsquo;, use of the {Services} in violation of the {AUP}.
+1.sec=Unless prohibited by applicable law, {P2.Handle} will defend and indemnify {P1.Handle} and its {Affiliates} against {Indemnified_Liabilities} in any {Third-Party_Legal_Proceeding} to the extent arising from: (i) any {Application}, {Project}, {Instance}, {P2_Data} or Customer {Brand_Features}; or (ii) {P2.Handle}'s, or its {End_Users}', use of the {Services} in violation of the {AUP}.
 
 2.Ti=By {P1.Handle}
-2.sec=P1.Handle} will defend and indemnify {P2.Handle} and its {Affiliates} against {Indemnified_Liabilities} in any {Third-Party_Legal_Proceeding} to the extent arising solely from an {Allegation} that use of (a) {P1.Handle}&rsquo;s technology used to provide the {Services} (excluding any open source software) or (b) any {P1_Brand_Feature} infringes or misappropriates the third party&rsquo;s patent, copyright, trade secret, or trademark. 
+2.sec=P1.Handle} will defend and indemnify {P2.Handle} and its {Affiliates} against {Indemnified_Liabilities} in any {Third-Party_Legal_Proceeding} to the extent arising solely from an {Allegation} that use of (a) {P1.Handle}'s technology used to provide the {Services} (excluding any open source software) or (b) any {P1_Brand_Feature} infringes or misappropriates the third party's patent, copyright, trade secret, or trademark. 
 
 3.Ti=Exclusions
 
 3.0.Sec=This Section {Xnum} will not apply to the extent the underlying {Allegation} arises from:
 
-3.1.Sec=the indemnified party&rsquo;s breach of {this Agreement};
+3.1.Sec=the indemnified party's breach of {this Agreement};
 
-3.2.Sec=modifications to the indemnifying party&rsquo;s technology or {Brand_Features} by anyone other than the indemnifying party;
+3.2.Sec=modifications to the indemnifying party's technology or {Brand_Features} by anyone other than the indemnifying party;
 
-3.3.Sec=combination of the indemnifying party&rsquo;s technology or {Brand_Features} with materials not provided by the indemnifying party; or
+3.3.Sec=combination of the indemnifying party's technology or {Brand_Features} with materials not provided by the indemnifying party; or
 
 3.4.Sec=use of non-current or unsupported versions of the {Services} or {Brand_Features}.
 
@@ -32,15 +32,15 @@ Ti=Indemnification
 
 4.0.Sec=Sections {Xnum}.1 and {Xnum}.2 will apply only to the extent:
 
-4.1.Sec=The indemnified party has promptly notified the indemnifying party in writing of any {Allegation}(s) that preceded the {Third-Party_Legal_Proceeding} and cooperates reasonably with the indemnifying party to resolve the {Allegation}(s) and {Third-Party_Legal_Proceeding}. If breach of this Section {Xnum}.4(a) prejudices the defense of the {Third-Party_Legal_Proceeding}, the indemnifying party&rsquo;s obligations under Section {Xnum}.1 or {Xnum}.2 (as applicable) will be reduced in proportion to the prejudice.
+4.1.Sec=The indemnified party has promptly notified the indemnifying party in writing of any {Allegation}(s) that preceded the {Third-Party_Legal_Proceeding} and cooperates reasonably with the indemnifying party to resolve the {Allegation}(s) and {Third-Party_Legal_Proceeding}. If breach of this Section {Xnum}.4(a) prejudices the defense of the {Third-Party_Legal_Proceeding}, the indemnifying party's obligations under Section {Xnum}.1 or {Xnum}.2 (as applicable) will be reduced in proportion to the prejudice.
 
-4.2.Sec=The indemnified party tenders sole control of the indemnified portion of the {Third-Party_Legal_Proceeding} to the indemnifying party, subject to the following: (i) the indemnified party may appoint its own non-controlling counsel, at its own expense; and (ii) any settlement requiring the indemnified party to admit liability, pay money, or take (or refrain from taking) any action, will require the indemnified party&rsquo;s prior written consent, not to be unreasonably withheld, conditioned, or delayed.
+4.2.Sec=The indemnified party tenders sole control of the indemnified portion of the {Third-Party_Legal_Proceeding} to the indemnifying party, subject to the following: (i) the indemnified party may appoint its own non-controlling counsel, at its own expense; and (ii) any settlement requiring the indemnified party to admit liability, pay money, or take (or refrain from taking) any action, will require the indemnified party's prior written consent, not to be unreasonably withheld, conditioned, or delayed.
 
 5.Ti=Remedies
 
-5.1.Sec=If {P1.Handle} reasonably believes the {Services} might infringe a third party&rsquo;s {Intellectual_Property_Rights}, then {P1.Handle} may, at its sole option and expense: (a) procure the right for {P2.Handle} to continue using the {Services}; (b) modify the {Services} to make them non-infringing without materially reducing their functionality; or (c) replace the {Services} with a non-infringing, functionally equivalent alternative.
+5.1.Sec=If {P1.Handle} reasonably believes the {Services} might infringe a third party's {Intellectual_Property_Rights}, then {P1.Handle} may, at its sole option and expense: (a) procure the right for {P2.Handle} to continue using the {Services}; (b) modify the {Services} to make them non-infringing without materially reducing their functionality; or (c) replace the {Services} with a non-infringing, functionally equivalent alternative.
 
-5.2.Sec=If {P1.Handle} does not believe the remedies in Section {Xnum}.5(a) are commercially reasonable, then {P1.Handle} may suspend or terminate {P2.Handle}&rsquo;s use of the impacted {Services}.
+5.2.Sec=If {P1.Handle} does not believe the remedies in Section {Xnum}.5(a) are commercially reasonable, then {P1.Handle} may suspend or terminate {P2.Handle}'s use of the impacted {Services}.
 
 6.Ti=Sole Rights and Obligations
-6.sec=Without affecting either party&rsquo;s termination rights, this Section {Xnum} states the parties&rsquo; only rights and obligations under {this Agreement} for {Intellectual_Property_Rights}-related {Allegations} and {Third-Party_Legal_Proceedings}.
+6.sec=Without affecting either party's termination rights, this Section {Xnum} states the parties' only rights and obligations under {this Agreement} for {Intellectual_Property_Rights}-related {Allegations} and {Third-Party_Legal_Proceedings}.

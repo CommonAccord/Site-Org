@@ -12,20 +12,20 @@ Setting.Lsee.Receive._Sen=The Licensee desires to acquire commercialization righ
 
 Def._Sec=<u>Definitions</u>. <ol><li>{Def.Affiliate(s)}</li><li>{Def.Benchmarks}</li><li>{Def.Commercial_Development_Plan}</li><li>{Def.CRADA}</li><li>{Def.FDA}</li><li>{Def.First_Commercial_Sale}</li><li>{Def.Government}</li><li>{Def.Licensed_Fields_of_Use}</li><li>{Def.Licensed_Patent_Rights}</li><li>{Def.Licensed_Processes}</li><li>{Def.Licensed_Products}</li><li>{Def.Licensed_Territory}</li><li>{Def.Net_Sales}</li><li>{Def.Practical_Application}</li><li>{Def.Research_License}</li></ol>
 
-Def.Affiliate(s)=&ldquo;Affiliate(s)&rdquo; means a corporation or other business entity, which directly or indirectly is controlled by or controls, or is under common control with the Licensee.&nbsp; For this purpose, the term "control" shall mean ownership of more than fifty percent (50%) of the voting stock or other ownership interest of the corporation or other business entity, or the power to elect or appoint more than fifty percent (50%) of the members of the governing body of the corporation or other business entity.
-Def.Benchmarks=&ldquo;Benchmarks&rdquo; mean the performance milestones that are set forth in Appendix D.
-Def.Commercial_Development_Plan=&ldquo;Commercial Development Plan&rdquo; means the written commercialization plan attached as Appendix E.
-Def.CRADA=&ldquo;CRADA&rdquo; means a Cooperative Research and Development Agreement.
+Def.Affiliate(s)="Affiliate(s)&rdquo; means a corporation or other business entity, which directly or indirectly is controlled by or controls, or is under common control with the Licensee.&nbsp; For this purpose, the term "control" shall mean ownership of more than fifty percent (50%) of the voting stock or other ownership interest of the corporation or other business entity, or the power to elect or appoint more than fifty percent (50%) of the members of the governing body of the corporation or other business entity.
+Def.Benchmarks="Benchmarks&rdquo; mean the performance milestones that are set forth in Appendix D.
+Def.Commercial_Development_Plan="Commercial Development Plan&rdquo; means the written commercialization plan attached as Appendix E.
+Def.CRADA="CRADA&rdquo; means a Cooperative Research and Development Agreement.
 
-Def.FDA=&ldquo;FDA&rdquo; means the Food and Drug Administration.
+Def.FDA="FDA&rdquo; means the Food and Drug Administration.
 
-Def.First_Commercial_Sale=&ldquo;First Commercial Sale&rdquo; means the initial transfer by or on behalf of the Licensee or its sublicensees of the Licensed Products or the initial practice of a Licensed Process by or on behalf of the Licensee or its sublicensees in exchange for cash or some equivalent to which value can be assigned for the purpose of determining Net Sales.
+Def.First_Commercial_Sale="First Commercial Sale&rdquo; means the initial transfer by or on behalf of the Licensee or its sublicensees of the Licensed Products or the initial practice of a Licensed Process by or on behalf of the Licensee or its sublicensees in exchange for cash or some equivalent to which value can be assigned for the purpose of determining Net Sales.
 
-Def.Government=&ldquo;Government&rdquo; means the Government of the United States of America.
+Def.Government="Government&rdquo; means the Government of the United States of America.
 
-Def.Licensed_Fields_of_Use=&ldquo;Licensed Fields of Use&rdquo; means the fields of use identified in Appendix B.
+Def.Licensed_Fields_of_Use="Licensed Fields of Use&rdquo; means the fields of use identified in Appendix B.
 
-Def.Licensed_Patent_Rights=&ldquo;Licensed Patent Rights&rdquo; shall mean:<ol><li>{LPR.Listed._Cl};</li><li>{LPR.Incl._Cl}</li><li>{LPR.Foreign._Cl}; and</li><li>{LPR.Except._Cl}.</li></ol>
+Def.Licensed_Patent_Rights="Licensed Patent Rights&rdquo; shall mean:<ol><li>{LPR.Listed._Cl};</li><li>{LPR.Incl._Cl}</li><li>{LPR.Foreign._Cl}; and</li><li>{LPR.Except._Cl}.</li></ol>
 
 LPR.Listed._Cl=Patent applications (including provisional patent applications and PCT patent applications) or patents listed in Appendix A, all divisions and continuations of these applications, all patents issuing from these applications, divisions, and continuations, and any reissues, reexaminations, and extensions of these patents
  
@@ -48,17 +48,17 @@ LPR.Foreign._Cl=to the extent that the following contain one or more claims dire
 LPR.Except._Cl=Licensed Patent Rights shall not include 2.9(2) or 2.9(3) to the extent that they contain one or more claims directed to new matter which is not the subject matter disclosed in 2.9(1)
 
 
-Def.Licensed_Processes=&ldquo;Licensed Processes&rdquo; means processes which, in the course of being practiced, would be within the scope of one or more claims of the Licensed Patent Rights that have not been held unpatentable, invalid or unenforceable by an unappealed or unappealable judgment of a court of competent jurisdiction.
+Def.Licensed_Processes="Licensed Processes&rdquo; means processes which, in the course of being practiced, would be within the scope of one or more claims of the Licensed Patent Rights that have not been held unpatentable, invalid or unenforceable by an unappealed or unappealable judgment of a court of competent jurisdiction.
 
-Def.Licensed_Products=&ldquo;Licensed Products&rdquo; means tangible materials which, in the course of manufacture, use, sale, or importation, would be within the scope of one or more claims of the Licensed Patent Rights that have not been held unpatentable, invalid or unenforceable by an unappealed or unappealable judgment of a court of competent jurisdiction.
+Def.Licensed_Products="Licensed Products&rdquo; means tangible materials which, in the course of manufacture, use, sale, or importation, would be within the scope of one or more claims of the Licensed Patent Rights that have not been held unpatentable, invalid or unenforceable by an unappealed or unappealable judgment of a court of competent jurisdiction.
 
-Def.Licensed_Territory=&ldquo;Licensed Territory&rdquo; means the geographical area identified in Appendix B.
+Def.Licensed_Territory="Licensed Territory&rdquo; means the geographical area identified in Appendix B.
 
-Def.Net_Sales=&ldquo;Net Sales&rdquo; means the total gross receipts for sales of Licensed Products or practice of Licensed Processes by or on behalf of the Licensee or its sublicensees, and from leasing, renting, or otherwise making the Licensed Products available to others without sale or other dispositions, whether invoiced or not, less returns and allowances, packing costs, insurance costs, freight out, taxes or excise duties imposed on the transaction (if separately invoiced), and wholesaler and cash discounts in amounts customary in the trade to the extent actually granted.&nbsp; No deductions shall be made for commissions paid to individuals, whether they are with independent sales agencies or regularly employed by the Licensee, or sublicensees, and on its payroll, or for the cost of collections.
+Def.Net_Sales="Net Sales&rdquo; means the total gross receipts for sales of Licensed Products or practice of Licensed Processes by or on behalf of the Licensee or its sublicensees, and from leasing, renting, or otherwise making the Licensed Products available to others without sale or other dispositions, whether invoiced or not, less returns and allowances, packing costs, insurance costs, freight out, taxes or excise duties imposed on the transaction (if separately invoiced), and wholesaler and cash discounts in amounts customary in the trade to the extent actually granted.&nbsp; No deductions shall be made for commissions paid to individuals, whether they are with independent sales agencies or regularly employed by the Licensee, or sublicensees, and on its payroll, or for the cost of collections.
 
-Def.Practical_Application=&ldquo;Practical Application&rdquo; means to manufacture in the case of a composition or product, to practice in the case of a process or method, or to operate in the case of a machine or system; and in each case, under these conditions as to establish that the invention is being utilized and that its benefits are to the extent permitted by law or Government regulations available to the public on reasonable terms.
+Def.Practical_Application="Practical Application&rdquo; means to manufacture in the case of a composition or product, to practice in the case of a process or method, or to operate in the case of a machine or system; and in each case, under these conditions as to establish that the invention is being utilized and that its benefits are to the extent permitted by law or Government regulations available to the public on reasonable terms.
 
-Def.Research_License=&ldquo;Research License&rdquo; means a nontransferable, nonexclusive license to make and to use the Licensed Products or the Licensed Processes as defined by the Licensed Patent Rights for purposes of research and not for purposes of commercial manufacture or distribution or in lieu of purchase.
+Def.Research_License="Research License&rdquo; means a nontransferable, nonexclusive license to make and to use the Licensed Products or the Licensed Processes as defined by the Licensed Patent Rights for purposes of research and not for purposes of commercial manufacture or distribution or in lieu of purchase.
 
 <b>License</b>=-
 
@@ -172,12 +172,12 @@ Bear.Tax._Sec=The Licensee shall be solely responsible for determining if any ta
 
 Pay.Late._Sec=Additional royalties may be assessed by the {P1.Handle} on any payment that is more than ninety (90) days overdue at the rate of one percent (1%) per month.&nbsp; This one percent (1%) per month rate may be applied retroactively from the original due date until the date of receipt by the {P1.Handle} of the overdue payment and additional royalties.&nbsp; The payment of any additional royalties shall not prevent the {P1.Handle} from exercising any other rights it may have as a consequence of the lateness of any payment.
 
-Report.Conf._Sec=All plans and reports required by this Article {Report._Sec.Xnum} and marked &ldquo;confidential&rdquo; by the Licensee shall, to the extent permitted by law, be treated by the {P1.Handle} as commercial and financial information obtained from a person and as privileged and confidential, and any proposed disclosure of these records by the {P1.Handle} under the Freedom of Information Act (FOIA), 5 U.S.C. &sect;552 shall be subject to the predisclosure notification requirements of 45 C.F.R. &sect;5.65(d).
+Report.Conf._Sec=All plans and reports required by this Article {Report._Sec.Xnum} and marked "confidential&rdquo; by the Licensee shall, to the extent permitted by law, be treated by the {P1.Handle} as commercial and financial information obtained from a person and as privileged and confidential, and any proposed disclosure of these records by the {P1.Handle} under the Freedom of Information Act (FOIA), 5 U.S.C. &sect;552 shall be subject to the predisclosure notification requirements of 45 C.F.R. &sect;5.65(d).
 
 
 Commerce._Sec=<u>Performance</u>.<ol><li>{Commerce.Effort._Sec}</li><li>{Commerce.PublicAccess._Sec}</li><li>{Commerce.PatientAssistance._Sec}</li><li>{Commerce.Educate._Sec}</li><li>{Commerce.Sample._Sec}</li></ol>
 
-Commerce.Effort._Sec=The Licensee shall use its reasonable commercial efforts to bring the Licensed Products and the Licensed Processes to Practical Application.&nbsp; &ldquo;Reasonable commercial efforts&rdquo; for the purposes of this provision shall include adherence to the Commercial Development Plan in Appendix E and performance of the Benchmarks in Appendix D.&nbsp; The efforts of a sublicensee shall be considered the efforts of the Licensee.
+Commerce.Effort._Sec=The Licensee shall use its reasonable commercial efforts to bring the Licensed Products and the Licensed Processes to Practical Application.&nbsp; "Reasonable commercial efforts&rdquo; for the purposes of this provision shall include adherence to the Commercial Development Plan in Appendix E and performance of the Benchmarks in Appendix D.&nbsp; The efforts of a sublicensee shall be considered the efforts of the Licensee.
 
 Commerce.PublicAccess._Sec=Upon the First Commercial Sale, until the expiration or termination of this Agreement, the Licensee shall use its reasonable commercial efforts to make the Licensed Products and the Licensed Processes reasonably accessible to the United States public.
 
@@ -284,7 +284,7 @@ Misc.AbideMaterialsLaw._Sec=<u>Legal Use of Materials</u>.&nbsp; The Licensee ag
 
 Misc.AbideUSLaw._Sec=<u>Compliance with US Law</u>.&nbsp; The Licensee acknowledges that it is subject to and agrees to abide by the United States laws and regulations (including the Export Administration Act of 1979 and Arms Export Control Act) controlling the export of technical data, computer software, laboratory prototypes, biological material, and other commodities.&nbsp; The transfer of these items may require a license from the appropriate agency of the U.S. Government or written assurances by the Licensee that it shall not export these items to certain foreign countries without prior approval of this agency.&nbsp; The {P1.Handle} neither represents that a license is or is not required or that, if required, it shall be issued.
 
-Misc.PatentMarking._Sec=<u>Patent Marking</u>.&nbsp; The Licensee agrees to mark the Licensed Products or their packaging sold in the United States with all applicable U.S. patent numbers and similarly to indicate &ldquo;Patent Pending&rdquo; status.&nbsp; All the Licensed Products manufactured in, shipped to, or sold in other countries shall be marked in a manner to preserve the {P1.Handle}&rsquo;s patent rights in those countries.
+Misc.PatentMarking._Sec=<u>Patent Marking</u>.&nbsp; The Licensee agrees to mark the Licensed Products or their packaging sold in the United States with all applicable U.S. patent numbers and similarly to indicate "Patent Pending&rdquo; status.&nbsp; All the Licensed Products manufactured in, shipped to, or sold in other countries shall be marked in a manner to preserve the {P1.Handle}&rsquo;s patent rights in those countries.
 
 Disclaim.Lcsor.Endorse._Sec=<u>Disclaim Endorsement</u>.&nbsp; By entering into this Agreement, the {P1.Handle} does not directly or indirectly endorse any product or service provided, or to be provided, by the Licensee whether directly or indirectly related to this Agreement.&nbsp; The Licensee shall not state or imply that this Agreement is an endorsement by the Government, the {P1.Handle}, any other Government organizational unit, or any Government employee.&nbsp; Additionally, the Licensee shall not use the names of the {P1.Handle}, the FDA or the HHS or the Government or their employees in any advertising, promotional, or sales literature without the prior written approval of the {P1.Handle}.
 

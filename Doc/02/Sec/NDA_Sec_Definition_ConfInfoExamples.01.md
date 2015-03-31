@@ -1,6 +1,6 @@
 sec={cl}
 
-cl={infoTypes} related to {subject}, including without limitation {the_Disclosing_Party}’s information concerning {infoExamples}
+cl={infoTypes} related to {subject}, including without limitation {the_Disclosing_Party}'s information concerning {infoExamples}
 
 infoTypes={infoTypes.1}
 

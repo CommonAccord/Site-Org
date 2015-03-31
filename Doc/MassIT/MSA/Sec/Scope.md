@@ -2,11 +2,11 @@ Ti=PURPOSE; SCOPE.
 
 1.Ti=Overview.
 
-1.1.Sec=The purpose of this Agreement is to enable Client, on behalf of the MassHealth program and the Commonwealth Health Insurance Connector Authority (the “Connector”), to achieve the Work Streams as set forth in the recitals of this Agreement. The parties will use good faith efforts to conduct the Project in a manner consistent with the CMS Guide.
+1.1.Sec=The purpose of this Agreement is to enable Client, on behalf of the MassHealth program and the Commonwealth Health Insurance Connector Authority (the "Connector"), to achieve the Work Streams as set forth in the recitals of this Agreement. The parties will use good faith efforts to conduct the Project in a manner consistent with the CMS Guide.
 
-1.2.Sec=Each Task Order will be subject to an independent validation and verification process (the “IV&V Process”) during system development and implementation. Client, through a separate procurement, will hire a Third Party Vendor to perform the IV&V Process (the “IV&V Vendor”). The IV&V Vendor shall enter into a confidentiality agreement with Client to protect the confidentiality of Contractor’s Confidential Information as set forth in Section 15.1(b). Throughout the lifecycle of each Task Order, Contractor will be required to provide documentation and to meet with the Project management team and the IV&V Vendor to review the Project progress.
+1.2.Sec=Each Task Order will be subject to an independent validation and verification process (the "IV&V Process") during system development and implementation. Client, through a separate procurement, will hire a Third Party Vendor to perform the IV&V Process (the "IV&V Vendor"). The IV&V Vendor shall enter into a confidentiality agreement with Client to protect the confidentiality of Contractor's Confidential Information as set forth in Section 15.1(b). Throughout the lifecycle of each Task Order, Contractor will be required to provide documentation and to meet with the Project management team and the IV&V Vendor to review the Project progress.
 
-1.3.Sec=In Client’s discretion, including without limitation as a result of an IV&V Process described in the foregoing paragraph, Client may at any time during the Term initiate a procurement process to seek bids from other vendors for services provided by Contractor hereunder and that Contractor will be required to provide documentation and other information relating to the Services to Client and such bidders in connection with the procurement process (in which Contractor may be a participant); provided, however, that Contractor shall not be required to disclose Confidential Information that is not a public record as defined under Mass. Gen. Laws c. 4 § 7 cl. 26. Any such bidder shall enter into a confidentiality agreement with Client containing substantially similar terms as the confidentiality provisions set forth in Section 15 of this Agreement.
+1.3.Sec=In Client's discretion, including without limitation as a result of an IV&V Process described in the foregoing paragraph, Client may at any time during the Term initiate a procurement process to seek bids from other vendors for services provided by Contractor hereunder and that Contractor will be required to provide documentation and other information relating to the Services to Client and such bidders in connection with the procurement process (in which Contractor may be a participant); provided, however, that Contractor shall not be required to disclose Confidential Information that is not a public record as defined under Mass. Gen. Laws c. 4 § 7 cl. 26. Any such bidder shall enter into a confidentiality agreement with Client containing substantially similar terms as the confidentiality provisions set forth in Section 15 of this Agreement.
 
 1.=[01/Agt/Bit/Outline/1-3.Secs]
 
@@ -24,7 +24,7 @@ Ti=PURPOSE; SCOPE.
 
 3.2.Ti=T&M Task Orders
 
-3.2.sec=Contractor will perform hourly Services up to the Not-ToExceed Price and deliver Project Works in accordance with the T&M Task Order. Unless expressly set forth in the T&M Task Order, Contractor’s performance under a T&M Task Order will not be subject to the following provisions of this Agreement: Section 2.4 (Scope Details, System Requirements and Project Phases), Section 8 (Delivery, Evaluation and Acceptance, Delays and Liquidated Damages), Section 12.6 (Holdback), Section 17.1 (Warranty Support Obligations), Section 18 (Improvements and New Technology), and other Sections of this Agreement that are expressly stated to apply only to FP Task Orders unless otherwise agreed by the parties.
+3.2.sec=Contractor will perform hourly Services up to the Not-ToExceed Price and deliver Project Works in accordance with the T&M Task Order. Unless expressly set forth in the T&M Task Order, Contractor's performance under a T&M Task Order will not be subject to the following provisions of this Agreement: Section 2.4 (Scope Details, System Requirements and Project Phases), Section 8 (Delivery, Evaluation and Acceptance, Delays and Liquidated Damages), Section 12.6 (Holdback), Section 17.1 (Warranty Support Obligations), Section 18 (Improvements and New Technology), and other Sections of this Agreement that are expressly stated to apply only to FP Task Orders unless otherwise agreed by the parties.
 
 3.3.Ti=Hybrid Task Orders
 
@@ -38,11 +38,11 @@ Ti=PURPOSE; SCOPE.
 
 4.3.Sec=If a System requires hosting by Contractor, such details shall be set forth in the Task Order.
 
-4.4.Sec=Unless otherwise expressly set forth in a Task Order; (i) Contractor will use a phased/modular implementation approach to the development of each System to be delivered, with each implementation phase supporting a particular function and/or adding to functionality developed in a previous phase; and (ii) Contractor must identify “quick hit” functionality(ies) to show progress towards goals, and with regard to New HIX/IES, with an implemented solution available by the Mandatory Go Live Date for a System.
+4.4.Sec=Unless otherwise expressly set forth in a Task Order; (i) Contractor will use a phased/modular implementation approach to the development of each System to be delivered, with each implementation phase supporting a particular function and/or adding to functionality developed in a previous phase; and (ii) Contractor must identify "quick hit" functionality(ies) to show progress towards goals, and with regard to New HIX/IES, with an implemented solution available by the Mandatory Go Live Date for a System.
 
 4.5.Sec=Detailed Requirements for a System will be set forth in the respective Task Order.
 
-4.6.Sec=Contractor shall maintain and update a Bug List for each System throughout the Term of each respective Task Order and make the then-current Bug List for each System available to Client upon Client’s request during the Term of each respective Task Order.
+4.6.Sec=Contractor shall maintain and update a Bug List for each System throughout the Term of each respective Task Order and make the then-current Bug List for each System available to Client upon Client's request during the Term of each respective Task Order.
 
 4.=[01/Agt/Bit/Outline/1-6.Secs]
 

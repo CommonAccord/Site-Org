@@ -4,13 +4,13 @@ Ti=Access
 
 sec={!-}Choose "sec"{-!}: <ol><li>Base.sec:<br> {Base.sec}<li>Kit.sec:<br> {Kit.sec}<li>NoCC.sec:<br> {NoCC.sec}</ol> 
 
-Base.sec={The_Receiving_Party} will limit access to the {Confidential_Information_of_the_Disclosing_Party} to only those of {the_Receiving_Party}’s employees or authorized representatives having a need to know and who have signed confidentiality agreements containing, or are otherwise bound by, confidentiality obligations at least as restrictive as those contained herein.
+Base.sec={The_Receiving_Party} will limit access to the {Confidential_Information_of_the_Disclosing_Party} to only those of {the_Receiving_Party}'s employees or authorized representatives having a need to know and who have signed confidentiality agreements containing, or are otherwise bound by, confidentiality obligations at least as restrictive as those contained herein.
 
 Kit.sec={Intro.Cl} {Role.cl} {Condition.cl}.
 
 Intro.Cl={The_Receiving_Party} will limit access to the {Confidential_Information_of_the_Disclosing_Party} to
 
-Role.cl=only those of {the_Receiving_Party}’s employees or authorized representatives
+Role.cl=only those of {the_Receiving_Party}'s employees or authorized representatives
 
 Condition.cl={!-}Choose "Condition.cl":{-!} <ol><li>Condition.NTK_and_Bound.cl:<br> {Condition.NTK_and_Bound.cl}<li>Condition.NTK_and_NDA.cl:<br> {Condition.NTK_and_NDA.cl}<li>Condition.NTK.cl:<br> {Condition.NTK.cl}</ol>
 

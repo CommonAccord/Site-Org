@@ -46,7 +46,7 @@ PerpetualLicense.Xref=Section 1.4
 
 3.1.2.Ti=Walk-ins
 
-3.1.2.sec=Patrons not affiliated with {Licensee} who are physically present at {Licensee}'s site(s) (“walk-ins&rdquo;). 
+3.1.2.sec=Patrons not affiliated with {Licensee} who are physically present at {Licensee}'s site(s) ("walk-ins"). 
 
 3.1.=[02/Bit/Sec_02]
 
@@ -56,7 +56,7 @@ PerpetualLicense.Xref=Section 1.4
 
 3.2.1.Ti=IP Addresses
 
-3.2.1.sec={Authorized_Users} shall be identified and authenticated by the use of Internet Protocol (“IP&rdquo;) addresses provided by {Licensee} to {Licensor}. The use of proxy servers is permitted as long as any proxy server IP addresses provided limit remote or off-campus access to {Authorized_Users}.
+3.2.1.sec={Authorized_Users} shall be identified and authenticated by the use of Internet Protocol ("IP") addresses provided by {Licensee} to {Licensor}. The use of proxy servers is permitted as long as any proxy server IP addresses provided limit remote or off-campus access to {Authorized_Users}.
 
 3.2.=[02/Bit/Sec_01]
 
@@ -82,9 +82,9 @@ PerpetualLicense.Xref=Section 1.4
 
 3.3.5.Ti=Archival/Backup Copy
 
-3.3.5.1.Sec=Upon request of {Licensee}, {Licensee} may receive from {Licensor} and/or create one (1) copy of the entire set of {Licensed_Materials} to be maintained as a backup or archival copy during the term of {this_Agreement}, or as required to exercise {Licensee}’s rights under {PerpetualLicense.Xref}, ‘Perpetual License’, of {this_Agreement}. 
+3.3.5.1.Sec=Upon request of {Licensee}, {Licensee} may receive from {Licensor} and/or create one (1) copy of the entire set of {Licensed_Materials} to be maintained as a backup or archival copy during the term of {this_Agreement}, or as required to exercise {Licensee}'s rights under {PerpetualLicense.Xref}, 'Perpetual License', of {this_Agreement}. 
 
-3.3.5.2.Sec={Licensor} acknowledges that {Licensee} may engage the services of third-party trusted archives and/or participate in collaborative archiving endeavors to exercise {Licensee}’s rights under {PerpetualLicense.Xref}, ‘Perpetual License’, of {this_Agreement}.  {Licensor} agrees to cooperate with such archiving entities and/or initiatives as reasonably necessary to make the {Licensed_Materials} available for archiving purposes. {Licensee} may perpetually use the third-party trusted system to access or store the {Licensed_Materials}, so long as {Licensee}'s use is otherwise consistent with {this_Agreement}. {Licensor} further acknowledges and agrees that, in using the third-party archival system, {Licensed_Materials} may be made available to other system participants who indicate a right to those {Licensed_Materials}. 
+3.3.5.2.Sec={Licensor} acknowledges that {Licensee} may engage the services of third-party trusted archives and/or participate in collaborative archiving endeavors to exercise {Licensee}'s rights under {PerpetualLicense.Xref}, 'Perpetual License', of {this_Agreement}.  {Licensor} agrees to cooperate with such archiving entities and/or initiatives as reasonably necessary to make the {Licensed_Materials} available for archiving purposes. {Licensee} may perpetually use the third-party trusted system to access or store the {Licensed_Materials}, so long as {Licensee}'s use is otherwise consistent with {this_Agreement}. {Licensor} further acknowledges and agrees that, in using the third-party archival system, {Licensed_Materials} may be made available to other system participants who indicate a right to those {Licensed_Materials}. 
 
 3.3.5.=[02/Bit/Sec_02]
 
@@ -106,7 +106,7 @@ PerpetualLicense.Xref=Section 1.4
 
 3.3.10.Ti=Electronic Links
 
-3.3.10.sec={The_P1_Institute} is committed to the use of the emerging OpenURL standard to allow linking to related materials in other locations. If {Licensor} does not use the OpenURL standard, {Licensor} staff will provide information to {Licensee} upon request to assist the {Licensee} in creating links directly from {the_P1_Institute}’s library catalogs and licensed resources to the content at the journal, issue and article levels.
+3.3.10.sec={The_P1_Institute} is committed to the use of the emerging OpenURL standard to allow linking to related materials in other locations. If {Licensor} does not use the OpenURL standard, {Licensor} staff will provide information to {Licensee} upon request to assist the {Licensee} in creating links directly from {the_P1_Institute}'s library catalogs and licensed resources to the content at the journal, issue and article levels.
 
 3.3.11.Ti=Scholarly Sharing
 
@@ -118,7 +118,7 @@ PerpetualLicense.Xref=Section 1.4
 
 3.3.13.Ti=Interlibrary Loan
 
-3.3.13.sec=Using electronic, paper, or intermediated means, {Licensee} at its discretion may fulfill occasional requests from other institutions, a practice commonly called Interlibrary Loan.  {Licensee} agrees to fulfill such requests in compliance with Section 108 of the United States Copyright Law (17 USC §108, “Limitations on exclusive rights: Reproduction by libraries and archives&rdquo;) and the Guidelines for the Proviso of Subsection 108(2g)(2) prepared by the National Commission on New Technological Uses of Copyrighted Works.
+3.3.13.sec=Using electronic, paper, or intermediated means, {Licensee} at its discretion may fulfill occasional requests from other institutions, a practice commonly called Interlibrary Loan.  {Licensee} agrees to fulfill such requests in compliance with Section 108 of the United States Copyright Law (17 USC Sec. 108, "Limitations on exclusive rights: Reproduction by libraries and archives") and the Guidelines for the Proviso of Subsection 108(2g)(2) prepared by the National Commission on New Technological Uses of Copyrighted Works.
 
 3.3.=[02/Bit/Sec_13]
 
@@ -134,7 +134,7 @@ PerpetualLicense.Xref=Section 1.4
 
 3.5.Ti=Shared Print Archive
 
-3.5.sec=At {Licensee}’s request, {Licensor} will provide to {Licensee} a single print archival copy of the titles selected from the {Licensed_Materials}, on a mutually agreed upon schedule, shipped to a single ship-to address of {Licensee} or third party agent, at no additional cost. This term does not apply if {Licensor} ceases to produce paper editions of such titles. 
+3.5.sec=At {Licensee}'s request, {Licensor} will provide to {Licensee} a single print archival copy of the titles selected from the {Licensed_Materials}, on a mutually agreed upon schedule, shipped to a single ship-to address of {Licensee} or third party agent, at no additional cost. This term does not apply if {Licensor} ceases to produce paper editions of such titles. 
 
 3.=[02/Bit/Sec_05]
 

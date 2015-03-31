@@ -87,7 +87,7 @@ Intro.Agree.sec=By sending funds you are entering into a binding stakeholder agr
 
 3.2.Ti=Budget adjustment
 
-3.2.sec=“Budget adjustments” include any outgoing usage of funds and may include money necessary for operations paid to delegates or other full-time staff, bounties or other monies paid to contractors for work, distribution of stakeholder rights in exchange for services, or some sort of reward that are returned to stakeholders for their contributions. 
+3.2.sec="Budget adjustments" include any outgoing usage of funds and may include money necessary for operations paid to delegates or other full-time staff, bounties or other monies paid to contractors for work, distribution of stakeholder rights in exchange for services, or some sort of reward that are returned to stakeholders for their contributions. 
 
 3.=[Bit/Ssec_02]
 
@@ -115,12 +115,14 @@ Delegate.Chosen.Sen=To be chosen by stakeholders within 90 days after sale end a
 
 5.Ti=Approval 
 
-5.1.sec=By sending of Bitcoin or other assets it is assumed that you approve the following contract , as well as any accompanying budget.
+5.1.sec=By sending of Bitcoin or other assets it is assumed that you approve the following contract, as well as any accompanying budget.
 
-5.2.sec=In the case that there is no included budget, a budget will be issued within 30 days after the close of the sale (no later than 90 days after purchase date) to be approved by stakeholders within the context of a “critical decision.” 
+5.2.sec=In the case that there is no included budget, a budget will be issued within 30 days after the close of the sale (no later than 90 days after purchase date) to be approved by stakeholders within the context of a "critical decision."
 
-5.3.sec=In event of a dispute arising from perceived improper, arbitration will be conducted by Swarm or the dispute shall be submitted to arbitration in accordance with the laws of the State of California. This decision shall be made by Swarm. 
+5.=[Bit/Ssec_02]
 
-5.=[Bit/Ssec_03]
+6.Sec={SeriesSeed.8.12.Sec}
 
-=[Bit/Sec_05]
+SeriesSeed.=[02/Sec/SeriesSeed_InvAgt_Text.01.md]
+
+=[Bit/Sec_06]

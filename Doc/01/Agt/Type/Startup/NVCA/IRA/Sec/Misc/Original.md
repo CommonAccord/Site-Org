@@ -65,11 +65,11 @@ Ti=Miscellaneous
 9.secs={9.1-2.Secs}
 9.Ti=Additional Investors
 
-9.1.Sec=Notwithstanding anything to the contrary contained herein, if the Company issues additional shares of {Co.StockSeries} after the date hereof, {9.1.A-Ins} any purchaser of such shares of {Co.StockSeries} may become a party to this Agreement by executing and delivering an additional counterpart signature page to this Agreement, and thereafter shall be deemed an &ldquo;Investor&rdquo; for all purposes hereunder.
+9.1.Sec=Notwithstanding anything to the contrary contained herein, if the Company issues additional shares of {Co.StockSeries} after the date hereof, {9.1.A-Ins} any purchaser of such shares of {Co.StockSeries} may become a party to this Agreement by executing and delivering an additional counterpart signature page to this Agreement, and thereafter shall be deemed an "Investor" for all purposes hereunder.
 
 9.1.A-Ins=whether pursuant to the Purchase Agreement or otherwise,
 
-9.2.Sec=No action or consent by the Investors shall be required for such joinder to this Agreement by such additional Investor, so long as such additional Investor has agreed in writing to be bound by all of the obligations as an &ldquo;Investor&rdquo; hereunder.
+9.2.Sec=No action or consent by the Investors shall be required for such joinder to this Agreement by such additional Investor, so long as such additional Investor has agreed in writing to be bound by all of the obligations as an "Investor" hereunder.
 
 10.Ti=Entire Agreement
 
@@ -94,7 +94,7 @@ Ti=Miscellaneous
 
 11.1.B.Sec={11.1.B.1.Sec}  {11.1.B.2.Sec}  {11.1.B.3.Sec}  {11.1.B.4.Sec}  
 
-11.1.B.1.Sec=Any unresolved controversy or claim arising out of or relating to this Agreement, except as (i) otherwise provided in this Agreement, or (ii) any such controversies or claims arising out of either party&rsquo;s intellectual property rights for which a provisional remedy or equitable relief is sought, shall be submitted to arbitration by one arbitrator mutually agreed upon by the parties, and if no agreement can be reached within thirty (30) days after names of potential arbitrators have been proposed by the American Arbitration Association (the &ldquo;AAA&rdquo;), then by one arbitrator having reasonable experience in corporate finance transactions of the type provided for in this Agreement and who is chosen by the AAA.
+11.1.B.1.Sec=Any unresolved controversy or claim arising out of or relating to this Agreement, except as (i) otherwise provided in this Agreement, or (ii) any such controversies or claims arising out of either party&rsquo;s intellectual property rights for which a provisional remedy or equitable relief is sought, shall be submitted to arbitration by one arbitrator mutually agreed upon by the parties, and if no agreement can be reached within thirty (30) days after names of potential arbitrators have been proposed by the American Arbitration Association (the "AAA"), then by one arbitrator having reasonable experience in corporate finance transactions of the type provided for in this Agreement and who is chosen by the AAA.
 
 11.1.B.2.Sec=The arbitration shall take place in {Arb.Seat}, in accordance with the AAA rules then in effect, and judgment upon any award rendered in such arbitration will be binding and may be entered in any court having jurisdiction thereof.
 

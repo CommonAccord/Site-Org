@@ -24,13 +24,13 @@ Ti=CONSUMER PRIVACY BILL OF RIGHTS ACT
 
 3.4.sec=Laws must keep pace as technology and businesses practices evolve.
 
-3.5.sec=Preserving individuals’ trust and confidence that personal data will be protected appropriately, while supporting flexibility and the free flow of information, will promote continued innovation and economic growth in the networked economy.
+3.5.sec=Preserving individuals' trust and confidence that personal data will be protected appropriately, while supporting flexibility and the free flow of information, will promote continued innovation and economic growth in the networked economy.
 
 3.6.sec=Enforcement of general principles in law will ensure that individuals continue to enjoy meaningful privacy protections while affording ample flexibility for technologies and business models to evolve.
 
 3.7.sec=Enforceable codes of conduct developed through open, transparent processes will provide certainty for businesses and strong privacy protections for individuals.
 
-3.8.sec=It is the sense of Congress that each covered entity should provide, when reasonable, a version of the notice required under {this_Act} in a format that is computer-readable, to facilitate the development of information technology tools that will help individuals compare covered entities’ personal data practices.
+3.8.sec=It is the sense of Congress that each covered entity should provide, when reasonable, a version of the notice required under {this_Act} in a format that is computer-readable, to facilitate the development of information technology tools that will help individuals compare covered entities' personal data practices.
 
 3.=[02/Bit/Ssec_08]
 

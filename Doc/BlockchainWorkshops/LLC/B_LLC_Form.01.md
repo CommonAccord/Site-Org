@@ -38,7 +38,7 @@ B.5.1.3.Sen={m-}At their discretion, the Members may from time to time nominate 
 
 6.2.2.2.Sen={m-}In addition, any action which could be taken at a meeting can be approved without a meeting and without notice if a consent in writing, stating the action to be taken, is signed or authenticated by the holders of the minimum Membership Interests needed to approve the action.{-m}
 
-7.1.2.Sen={m-}Subject to Section 4, a Member which withdraws pursuant to this Section 7.1 shall be entitled to a distribution in an amount equal to such Member’s capital account.{-m}
+7.1.2.Sen={m-}Subject to Section 4, a Member which withdraws pursuant to this Section 7.1 shall be entitled to a distribution in an amount equal to such Member's capital account.{-m}
 
 7.2.1.Sen={m-}A Member shall not transfer any Membership Interests, whether now owned or later acquired, unless upon the written or electronically authenticated consent to such transfer.{-m}  
 
@@ -46,14 +46,14 @@ B.5.1.3.Sen={m-}At their discretion, the Members may from time to time nominate 
 
 8.1.sec={8.1.2.1.Cl}  {8.1.2.2.cl}
 
-8.1.2.Cl={m-}Each Member of the Company, in person or by an attorney or other agent, has the right, subject to such reasonable standards as may be set forth in this Agreement, to obtain from the Company from time to time upon reasonable demand for any purpose reasonably related to the Member’s interest including but not limited to electronic form as permitted by Section 18-305(d) of the Act:{-m}
+8.1.2.Cl={m-}Each Member of the Company, in person or by an attorney or other agent, has the right, subject to such reasonable standards as may be set forth in this Agreement, to obtain from the Company from time to time upon reasonable demand for any purpose reasonably related to the Member's interest including but not limited to electronic form as permitted by Section 18-305(d) of the Act:{-m}
 
 
 10.1.2.sec={m-}To any reserves set up for contingent or unliquidated liabilities or obligations of the Company deemed reasonably necessary by vote of Members holding a majority of the outstanding Membership Interests , which reserves may be paid over to an escrow agent by the Managers to be held by such escrow agent for disbursement in satisfaction of the liabilities and obligations of the Company, with any excess being distributed to the Members as provided below; and{-m}
 
 10.1.3.sec={m-}Subject to Section 4, to Members in proportion to the positive balances of their capital accounts, after taking into account all adjustments made to capital accounts for the fiscal year during which the distributions to Members are made.{-m}
 
-12.1.0.1.Sen={m-}Except as otherwise provided in this section, the Company must indemnify each of the Managers, if any, to the fullest extent permissible under the law of the state in which the Company is organized, as the same exists or may hereafter be amended, against all liability, loss, and costs (including, without limitation, attorneys’ fees) incurred or suffered by the Manager by reason of or arising from the fact that the Manager is or was a manager of the Company, or is or was serving at the request of the Company as a manager, member, director, officer, partner, trustee, employee, or agent of another foreign or domestic limited liability company, corporation, partnership, joint venture, trust, benefit plan, or other enterprise.{-m}
+12.1.0.1.Sen={m-}Except as otherwise provided in this section, the Company must indemnify each of the Managers, if any, to the fullest extent permissible under the law of the state in which the Company is organized, as the same exists or may hereafter be amended, against all liability, loss, and costs (including, without limitation, attorneys' fees) incurred or suffered by the Manager by reason of or arising from the fact that the Manager is or was a manager of the Company, or is or was serving at the request of the Company as a manager, member, director, officer, partner, trustee, employee, or agent of another foreign or domestic limited liability company, corporation, partnership, joint venture, trust, benefit plan, or other enterprise.{-m}
 
 12.1.0.2.Sen={m-}The Company may, by action of the Managers or vote of Members holding a majority of the outstanding Membership Interests, provide indemnification to employees and agents of the Company who are not Managers.{-m}
 

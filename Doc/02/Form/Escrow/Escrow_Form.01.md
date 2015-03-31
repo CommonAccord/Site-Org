@@ -2,9 +2,9 @@ Ti=Escrow Agreement
 
 0.1.Ti=Parties
 
-0.1.1.sec=This {Ti} (this “{Agreement}&rdquo;) is made and entered into on {Escrow.Effective.YMD} by and among:<ul><li>{Purchaser.N,E,A}, (“{Purchaser}&rdquo;),</li><li>{Escrow.N,E,A}, (“{Escrow_Agent}&rdquo;),</li><li>{Seller.N,E,A} (“{Seller}&rdquo;),</li></ul>as of {Escrow.Sign.YMD}.
+0.1.1.sec=This {Ti} (this "{Agreement}") is made and entered into on {Escrow.Effective.YMD} by and among:<ul><li>{Purchaser.N,E,A}, ("{Purchaser}"),</li><li>{Escrow.N,E,A}, ("{Escrow_Agent}"),</li><li>{Seller.N,E,A} ("{Seller}"),</li></ul>as of {Escrow.Sign.YMD}.
 
-0.1.2.sec=Additional persons referenced in {this_Agreement} are:<ul><li>{Shipper.N,E,A} (“{Shipper}&rdquo;); and</li><li>{Arbitrator.N,E,A} (“{Arbitrator}&rdquo;).</li></ul>
+0.1.2.sec=Additional persons referenced in {this_Agreement} are:<ul><li>{Shipper.N,E,A} ("{Shipper}"); and</li><li>{Arbitrator.N,E,A} ("{Arbitrator}").</li></ul>
 
 0.1.=[02/Bit/Sec_02]
 
@@ -13,15 +13,15 @@ Ti=Escrow Agreement
 
 0.2.Ti=Recitals
 
-0.2.1.sec=Whereas, {the_Purchaser} and {the_Seller} have entered into a purchase agreement (“{Purchase_Agreement}&rdquo;) for the sale to {the_Purchaser} of {Product.Description} (the “{Products}&rdquo;) owned by {the_Seller} in exchange for {Price.$} (the “{Purchase_Price}&rdquo;) (altogether, the “{Transaction}&rdquo;).
+0.2.1.sec=Whereas, {the_Purchaser} and {the_Seller} have entered into a purchase agreement ("{Purchase_Agreement}") for the sale to {the_Purchaser} of {Product.Description} (the "{Products}") owned by {the_Seller} in exchange for {Price.$} (the "{Purchase_Price}") (altogether, the "{Transaction}").
 
-0.2.2.sec=Whereas, pursuant to {the_Purchase_Agreement}, {the_Purchaser} has agreed to deposit {the_Purchase_Price} into an escrow account (the “{Escrow_Account}&rdquo;).
+0.2.2.sec=Whereas, pursuant to {the_Purchase_Agreement}, {the_Purchaser} has agreed to deposit {the_Purchase_Price} into an escrow account (the "{Escrow_Account}").
 
 0.2.3.sec=Whereas, {the_Purchaser} and {the_Seller} have agreed to use {the_Escrow_Agent} to hold {the_Purchase_Price} and act as {the_Escrow_Agent}.
 
 0.2.4.sec=Whereas, {the_Escrow_Agent} has agreed to act in such capacity upon the terms and conditions contained herein.
 
-0.2.5.sec=Whereas, {the_Seller}, {the_Purchaser} and {the_Escrow_Agent} agree to use the {Arbitrator} to resolve any disputes among them regarding the meaning of {this_Escrow_Agreement} or the performance of {this_Escrow_Agreement}, including any “{Claim}&rdquo; as defined below.
+0.2.5.sec=Whereas, {the_Seller}, {the_Purchaser} and {the_Escrow_Agent} agree to use the {Arbitrator} to resolve any disputes among them regarding the meaning of {this_Escrow_Agreement} or the performance of {this_Escrow_Agreement}, including any "{Claim}" as defined below.
 
 0.2.=[02/Bit/Sec_05]
 
@@ -47,11 +47,11 @@ Ti=Escrow Agreement
 
 4.Ti={Cancellation}
 
-4.sec=If {the_Seller} fails to deliver {the_Products} to {the_Shipper} by {Pickup.Time.Max}, {the_Purchaser} shall have the option to cancel {the_Transaction} (“{Cancellation}&rdquo;) at any time after {Pickup.Time.Max} and before {the_Shipper} notifies {the_Escrow_Agent} that {the_Shipper} has received {the_Products} from {the_Seller}. If there is a {Cancellation}, {the_Escrow_Agent} shall return {the_Purchase_Price} to {the_Purchaser} and {the_Purchaser} shall have no other obligation to {the_Seller}.
+4.sec=If {the_Seller} fails to deliver {the_Products} to {the_Shipper} by {Pickup.Time.Max}, {the_Purchaser} shall have the option to cancel {the_Transaction} ("{Cancellation}") at any time after {Pickup.Time.Max} and before {the_Shipper} notifies {the_Escrow_Agent} that {the_Shipper} has received {the_Products} from {the_Seller}. If there is a {Cancellation}, {the_Escrow_Agent} shall return {the_Purchase_Price} to {the_Purchaser} and {the_Purchaser} shall have no other obligation to {the_Seller}.
 
 5.Ti={Claim}
 
-5.sec=If {the_Purchaser} notifies {the_Escrow_Agent} of a claim of defect in the Product (a “{Claim}&rdquo;) not later than {Delivery-Claim.Delay} after notification by {the_Shipper} of delivery to {the_Purchaser}, then {the_Escrow_Agent} shall not release {the_Purchase_Price} to {the_Seller} while the {Claim} is being handled. {The_Escrow_Agent} shall notify {the_Seller}, {the_Purchaser}, and {the_Arbitrator} of the existence of the {Claim}.
+5.sec=If {the_Purchaser} notifies {the_Escrow_Agent} of a claim of defect in the Product (a "{Claim}") not later than {Delivery-Claim.Delay} after notification by {the_Shipper} of delivery to {the_Purchaser}, then {the_Escrow_Agent} shall not release {the_Purchase_Price} to {the_Seller} while the {Claim} is being handled. {The_Escrow_Agent} shall notify {the_Seller}, {the_Purchaser}, and {the_Arbitrator} of the existence of the {Claim}.
 
 6.Ti=Reliance by {the_Escrow_Agent}
 
@@ -89,7 +89,7 @@ Ti=Escrow Agreement
 
 15.Ti=Notices
 
-15.sec=All notices under {this_Escrow_Agreement} shall be delivered by electronic message using the “blockchain&rdquo; technology through which {this_Escrow_Agreement} was entered.
+15.sec=All notices under {this_Escrow_Agreement} shall be delivered by electronic message using the "blockchain" technology through which {this_Escrow_Agreement} was entered.
 
 16.=[02/Sec/Sec_Misc_InterpretationToConformToCode.01.md]
 

@@ -6,19 +6,19 @@ _Body={Heading}<br><br>{Intro}<br><br>{Provisions}<br><br>{Sincerely}
 
 Heading=<center>{P1.Letterhead}<br></center><br><br>{P2.D/N/1/2}<br><br>Date: {DOC.Sign.YMD}<br>RE:	Engagement For Legal Representation<br><br>Dear {P2.Name.Dear}:
 
-P1.I/we-me/us=“I,” or “me”
+P1.I/we-me/us="I," or "me"
 
 Provisions=<ol><li>{Scope-of-Attorney-Client-Relationship}</li><li>{Client-Rights-and-Responsibilities}</li><li>{Confidentiality}</li><li>{Fees-Invoices-Office-Closures-and-Records}</li><li>{Mutual-Right-to-Terminate-Engagement}</li><li>{Use-of-Email}</li><li>{Approval-and-Return-of-Signature}</li></ol>
 
-Intro={P1.I/We} am pleased that you have asked {P1.Name.Full} (“{P1.Handle},” {P1.I/we-me/us}) to serve as your legal counsel, and {P1.I/we} look forward to working with you.  At the outset of the engagement, it is appropriate to confirm our understanding regarding your engagement of {P1.Handle}, and to describe the basis on which {P1.Handle} will be agreeing to provide legal services.  Accordingly, {P1.I/we} submit for your approval the following provisions governing the engagement.  If you are in agreement, please sign the letter in the space provided below.  If you have any questions about these provisions, or if you would like to discuss possible modifications, please call {P1.me/us}.
+Intro={P1.I/We} am pleased that you have asked {P1.Name.Full} ("{P1.Handle}," {P1.I/we-me/us}) to serve as your legal counsel, and {P1.I/we} look forward to working with you.  At the outset of the engagement, it is appropriate to confirm our understanding regarding your engagement of {P1.Handle}, and to describe the basis on which {P1.Handle} will be agreeing to provide legal services.  Accordingly, {P1.I/we} submit for your approval the following provisions governing the engagement.  If you are in agreement, please sign the letter in the space provided below.  If you have any questions about these provisions, or if you would like to discuss possible modifications, please call {P1.me/us}.
 
 Scope-of-Attorney-Client-Relationship=<b>Scope of Attorney-Client Relationship</b><br>{Scope.WhoIsClient}<br>{Scope.PatentProsecution}<br>{Scope.Additional}<br>{Scope.Limit}
 
-Scope.WhoIsClient={P1.Handle}’s client in this matter will be {P2.Name.Full} (“you” or “your”).  
+Scope.WhoIsClient={P1.Handle}'s client in this matter will be {P2.Name.Full} ("you" or "your").  
 
 Scope.PatentProsecution={P1.Handle} will be engaged to represent you in connection with the preparation and filing of a non-provisional utility patent application with the United States Patent and Trademark Office and of an international patent application filed in accordance with the Patent Cooperation Treaty (PCT).  These applications will be directed to {Patent.IncomingSituation}.
 
-Patent.IncomingSituation (Note)=DESCRIPTION OF INVENTION AND WHETHER THERE’S A PROVISIONAL ON FILE
+Patent.IncomingSituation (Note)=DESCRIPTION OF INVENTION AND WHETHER THERE'S A PROVISIONAL ON FILE
 
 Scope.Additional={P1.I/We} would be happy to discuss with you  {P1.my/our}  engagement for additional purposes; any such engagement may be subject to a separate letter.  {P1.I/We} will work on those particular tasks that you ask {P1.me/us} to do in connection with this matter.  
 
@@ -45,7 +45,7 @@ Confidentiality=<b>Confidentiality</b><br>In the course of the engagement, {P1.H
 Fees-Invoices-Office-Closures-and-Records=<b>Standard Terms of Engagement - Fees, Invoices, Office Closures, and Records</b><ol><li>{Term.Fee}</li><li>{Invoices-and-Statements}</li><li>{OfficeClosure}</li><li>{Records}</li></ol>
 
 
-Term.Fee=<u>Fees for Legal Services</u><br>{P1.Handle}’s charges for services rendered in connection with this engagement are based upon a flat-fee {rate} of {Flat-Fee-Total}.  These charges are based upon two flat-fee{_rates}:<ol><li>{Fee.USPTO}</li><li>{Fee.PCT}</li><li>{Fee.Filing}</li></ol>{Fee.Stop}<br>{Fee.AdditionalInventions}<br>{Patent-Search-Limitations}<br>{Fee.Shared}<br>{Fee.NotContingent}
+Term.Fee=<u>Fees for Legal Services</u><br>{P1.Handle}'s charges for services rendered in connection with this engagement are based upon a flat-fee {rate} of {Flat-Fee-Total}.  These charges are based upon two flat-fee{_rates}:<ol><li>{Fee.USPTO}</li><li>{Fee.PCT}</li><li>{Fee.Filing}</li></ol>{Fee.Stop}<br>{Fee.AdditionalInventions}<br>{Patent-Search-Limitations}<br>{Fee.Shared}<br>{Fee.NotContingent}
 rate=<b></b>
 _rates=<b></b>
 Fee.USPTO={Fee.USPTO.Application} {Fee.USPTO.Review} {Fee.USPTO.Reporting}
@@ -89,7 +89,7 @@ OfficeClosure=<u>Office Closures</u><br>Please note our office will be closed on
 
 Records=<u>Client Records</u><br>After this engagement has ended, you may request the return of files pertaining to the work performed for you.  It is  {P1.my/our}  practice to retain the permanent records of the matter, in accordance with  {P1.my/our}  records retention policy, for a period of not less than 7 years after the matter with you has ended.  If you do not request the files in writing before the end of the retention period, upon the expiration of that period {P1.I/We} will have no further obligation to retain the files and may at  {P1.my/our}  discretion destroy the files without further notice to you.
 
-Mutual-Right-to-Terminate-Engagement=<b>Mutual Right to Terminate Engagement</b><br>You may terminate {P1.Handle}’s engagement at any time by notifying me.  Likewise, {P1.Handle} may withdraw from this representation by written notice any time for any reason - including, e.g., by reason of your failure to pay fees or expenses - provided withdrawal is permitted or required under applicable rules of professional conduct.  Notwithstanding any such notice, you will remain responsible for payment of any outstanding statements and accrued fees and expenses incurred before termination, or incurred thereafter in connection with an orderly transition of the matter.
+Mutual-Right-to-Terminate-Engagement=<b>Mutual Right to Terminate Engagement</b><br>You may terminate {P1.Handle}'s engagement at any time by notifying me.  Likewise, {P1.Handle} may withdraw from this representation by written notice any time for any reason - including, e.g., by reason of your failure to pay fees or expenses - provided withdrawal is permitted or required under applicable rules of professional conduct.  Notwithstanding any such notice, you will remain responsible for payment of any outstanding statements and accrued fees and expenses incurred before termination, or incurred thereafter in connection with an orderly transition of the matter.
 
 Use-of-Email=<b>Use of Email</b><br>{Email.Use}<br>{Email.ClientAddress}
 

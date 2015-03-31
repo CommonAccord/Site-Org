@@ -4,7 +4,7 @@ Note=discovered via http://www.cooleygo.com/us-department-education-data-privacy
 
 Ti=Privacy-Related Terms of Service Provisions
 
-1.Ti=Definition of “Data”
+1.Ti=Definition of "Data"
 
 1.sec=Data include all Personally Identifiable Information (PII) and other non-public information. Data include, but are not limited to, student data, metadata, and user content.
 

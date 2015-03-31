@@ -6,11 +6,11 @@ Mutual.0.sec={0.Disclosed.Cl} {Mutual.0.By.cl} {0.Including.cl}:
 
 OneWay.0.sec={0.Disclosed.Cl} {OneWay.0.By.cl} {0.Including.cl}:
 
-0.Disclosed.Cl=As used herein, the “{Confidential_Information}&rdquo; shall mean any and all technical and non-technical information disclosed 
+0.Disclosed.Cl=As used herein, the "{Confidential_Information}" shall mean any and all technical and non-technical information disclosed 
 
-Mutual.0.By.cl=by a {Party} (the “{Disclosing_Party}&rdquo;) to the other {Party} (the “{Receiving_Party}&rdquo;)
+Mutual.0.By.cl=by a {Party} (the "{Disclosing_Party}") to the other {Party} (the "{Receiving_Party}")
 
-OneWay.0.By.cl=by {P1.the} (also referred to as the “{Disclosing_Party}&rdquo;) to {P2.the} (also referred to as the “{Receiving_Party}&rdquo;)
+OneWay.0.By.cl=by {P1.the} (also referred to as the "{Disclosing_Party}") to {P2.the} (also referred to as the "{Receiving_Party}")
 
 0.Including.cl=including without limitation information regarding
 

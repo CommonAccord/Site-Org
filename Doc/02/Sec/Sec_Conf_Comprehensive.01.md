@@ -2,11 +2,11 @@ Ti={Confidential_Information}
 
 1.Ti=Engagement
 
-1.sec={P2.The} agrees that during the term of {this_Agreement} and thereafter it will not use or permit the use of {P1.the}’s {Confidential_Information} in any manner or for any purpose not expressly set forth in {this_Agreement}, will hold such {Confidential_Information} in confidence and protect it from unauthorized use and disclosure, and will not disclose such {Confidential_Information} to any third parties except as set forth in {Employee.Xref}.
+1.sec={P2.The} agrees that during the term of {this_Agreement} and thereafter it will not use or permit the use of {P1.the}&rsquo;s {Confidential_Information} in any manner or for any purpose not expressly set forth in {this_Agreement}, will hold such {Confidential_Information} in confidence and protect it from unauthorized use and disclosure, and will not disclose such {Confidential_Information} to any third parties except as set forth in {Employee.Xref}.
 
 2.Ti=Definition
 
-2.0.Sec=“{Confidential_Information}&rdquo; as used in {this_Agreement} shall mean all information disclosed by {P1.the} to {P2.the}, whether during or before the term of {this_Agreement}, that is not generally known in {P1.the}’s trade or industry and shall include, without limitation:
+2.0.Sec="{Confidential_Information}" as used in {this_Agreement} shall mean all information disclosed by {P1.the} to {P2.the}, whether during or before the term of {this_Agreement}, that is not generally known in {P1.the}&rsquo;s trade or industry and shall include, without limitation:
 
 2.1.Sec=concepts and ideas relating to the development and distribution of content in any medium or to the current, future and proposed products or services of {P1.the} or its subsidiaries or affiliates;
 
@@ -18,7 +18,7 @@ Ti={Confidential_Information}
 
 2.5.Sec=any information regarding the skills and compensation of employees, contractors or other agents of {P1.the} or its subsidiaries or affiliates.
 
-2.90.Sec={Confidential_Information} also includes proprietary or confidential information of any third party who may disclose such information to {P1.the} or {P2.the} in the course of {P1.the}’s business.
+2.90.Sec={Confidential_Information} also includes proprietary or confidential information of any third party who may disclose such information to {P1.the} or {P2.the} in the course of {P1.the}&rsquo;s business.
 
 2.=[02/Bit/Sec_05]
 
@@ -30,7 +30,7 @@ Ti={Confidential_Information}
 
 3.2.Sec=is disclosed to {P2.the} by a third party without restrictions on disclosure, or
 
-3.3.Sec=was in {P2.the}’s lawful possession prior to the disclosure and was not obtained by {P2.the} either directly or indirectly from {P1.the}.
+3.3.Sec=was in {P2.the}&rsquo;s lawful possession prior to the disclosure and was not obtained by {P2.the} either directly or indirectly from {P1.the}.
 
 3.=[02/Bit/Sec_03]
 

@@ -7,7 +7,7 @@ Note/Source/Last modified=March 31, 2014
 Ti=Privacy Policy
 0.Sec={0.1.Sec}<br>{0.2.Sec}
 
-0.1.Sec=There are many different ways you can use our services. {P1.Services}  As you use our services, we want you to be clear how we’re using information and the ways in which you can protect your privacy.
+0.1.Sec=There are many different ways you can use our services. {P1.Services}  As you use our services, we want you to be clear how we're using information and the ways in which you can protect your privacy.
 
 
 0.2.=[01/Agt/Type/Web/Bit/Outline.md]
@@ -26,7 +26,7 @@ Ti=Privacy Policy
 
 0.2.3.Sec=The choices we offer, including how to access and update information.
 
-0.2.90.Sec=We’ve tried to keep it as simple as possible, but if you’re not familiar with terms like cookies, IP addresses, pixel tags and browsers, then first read about these {P1.www.KeyTerms.Link}. Your privacy matters to Google so whether you are new to Google or a long-time user, please do take the time to get to know our practices – and if you have any questions {P1.www.Questions}.
+0.2.90.Sec=We've tried to keep it as simple as possible, but if you're not familiar with terms like cookies, IP addresses, pixel tags and browsers, then first read about these {P1.www.KeyTerms.Link}. Your privacy matters to Google so whether you are new to Google or a long-time user, please do take the time to get to know our practices – and if you have any questions {P1.www.Questions}.
 
 secs={1-12.Secs}
 
@@ -34,11 +34,11 @@ secs={1-12.Secs}
 
 1.Ti=Information we collect
 
-1.1.Sec=We collect information to provide better services to all of our users – from figuring out basic stuff like which language you speak, to more complex things like which <a class="highlight" href="../../policies/privacy/example/ads-youll-find-most-useful.html" id="ads-youll-find-most-useful">ads you’ll find most useful</a> or <a class="highlight" href="../../policies/privacy/example/the-people-who-matter-most.html" id="the-people-who-matter-most">the people who matter most to you online</a>.
+1.1.Sec=We collect information to provide better services to all of our users – from figuring out basic stuff like which language you speak, to more complex things like which <a class="highlight" href="../../policies/privacy/example/ads-youll-find-most-useful.html" id="ads-youll-find-most-useful">ads you'll find most useful</a> or <a class="highlight" href="../../policies/privacy/example/the-people-who-matter-most.html" id="the-people-who-matter-most">the people who matter most to you online</a>.
 
 1.2.Sec=We collect information in two ways: <ol><li>{1.2.1.Sec}</li><li>{1.2.2.Sec}</ol>
 
-1.2.1.Sec=<b>Information you give us.</b><br>For example, many of our services require you to sign up for a Google Account. When you do, we’ll ask for <a href="../../policies/privacy/key-terms/#toc-terms-personal-info">personal information</a>, like your name, email address, telephone number or <a class="highlight" href="../../policies/privacy/example/credit-card.html" id="credit-card">credit card</a>. If you want to take full advantage of the sharing features we offer, we might also ask you to create a publicly visible <a href="http://support.google.com/accounts/bin/answer.py?hl=en&answer=112783">Google Profile</a>, which may include your name and photo.
+1.2.1.Sec=<b>Information you give us.</b><br>For example, many of our services require you to sign up for a Google Account. When you do, we'll ask for <a href="../../policies/privacy/key-terms/#toc-terms-personal-info">personal information</a>, like your name, email address, telephone number or <a class="highlight" href="../../policies/privacy/example/credit-card.html" id="credit-card">credit card</a>. If you want to take full advantage of the sharing features we offer, we might also ask you to create a publicly visible <a href="http://support.google.com/accounts/bin/answer.py?hl=en&answer=112783">Google Profile</a>, which may include your name and photo.
 
 1.2.2.=[01/Agt/Type/Web/Bit/Outline.md]  
 
@@ -93,7 +93,7 @@ secs={1-12.Secs}
 
 2.3.Sec=When you contact Google, we may keep a record of your communication to help solve any issues you might be facing. We may use your email address to inform you about our services, such as letting you know about upcoming changes or improvements.
 
-2.4.Sec=We use information collected from cookies and other technologies, like <a href="../../policies/privacy/key-terms/#toc-terms-pixel">pixel tags</a>, to <a class="highlight" href="../../policies/privacy/example/improve-your-user-experience.html" id="improve-your-user-experience">improve your user experience</a> and the overall quality of our services. For example, by saving your language preferences, we’ll be able to have our services appear in the language you prefer. When showing you tailored ads, we will not associate a cookie or anonymous identifier with <a href="../../policies/privacy/key-terms/#toc-terms-sensitive-categories">sensitive categories</a>, such as those based on race, religion, sexual orientation or health.
+2.4.Sec=We use information collected from cookies and other technologies, like <a href="../../policies/privacy/key-terms/#toc-terms-pixel">pixel tags</a>, to <a class="highlight" href="../../policies/privacy/example/improve-your-user-experience.html" id="improve-your-user-experience">improve your user experience</a> and the overall quality of our services. For example, by saving your language preferences, we'll be able to have our services appear in the language you prefer. When showing you tailored ads, we will not associate a cookie or anonymous identifier with <a href="../../policies/privacy/key-terms/#toc-terms-sensitive-categories">sensitive categories</a>, such as those based on race, religion, sexual orientation or health.
 
 2.5.Sec=We may <a class="highlight" href="../../policies/privacy/example/combine-personal-information.html" id="combine-personal-information">combine personal information from one service with information, including personal information, from other Google services</a> – for example <a class="highlight" href="../../policies/privacy/example/to-make-it-easier-to-share.html" id="to-make-it-easier-to-share">to make it easier to share things with people you know</a>. We will not combine DoubleClick cookie information with personally identifiable information unless we have your opt-in consent.
 
@@ -123,7 +123,7 @@ secs={1-12.Secs}
 
 3.1.5.Sec=<a href="http://www.dataliberation.org/">Take information</a> out of many of our services.
 
-3.2.Sec=You may also set your browser to block all cookies, including cookies associated with our services, or to indicate when a cookie is being set by us. However, it’s important to remember that many of our services <a class="highlight" href="../../policies/privacy/example/may-not-function-properly.html" id="may-not-function-properly">may not function properly</a> if your cookies are disabled. For example, we may not remember your language preferences.
+3.2.Sec=You may also set your browser to block all cookies, including cookies associated with our services, or to indicate when a cookie is being set by us. However, it's important to remember that many of our services <a class="highlight" href="../../policies/privacy/example/may-not-function-properly.html" id="may-not-function-properly">may not function properly</a> if your cookies are disabled. For example, we may not remember your language preferences.
 
 4.Ti=Information you share
 
@@ -166,7 +166,7 @@ secs={1-12.Secs}
 
 6.2.6.Sec=restrict your ability to delete or edit information or privacy settings.
 
-6.2.90.Sec=Please refer to your domain administrator’s privacy policy for more information.
+6.2.90.Sec=Please refer to your domain administrator's privacy policy for more information.
 
 6.3.Ti=For external processing
 
@@ -229,7 +229,7 @@ secs={1-12.Secs}
 
 12.Ti=Other useful privacy and security related materials
 
-12.0.Sec=Further useful privacy and security related materials can be found through Google’s <a href="../../policies/">policies and principles pages</a>, including:
+12.0.Sec=Further useful privacy and security related materials can be found through Google's <a href="../../policies/">policies and principles pages</a>, including:
 
 12.1.=[01/Agt/Type/Web/Bit/Outline.md]  
 
@@ -247,4 +247,4 @@ secs={1-12.Secs}
 
 12.2.Sec=A <a href="../../policies/privacy/partners/">page</a> that explains what data is shared with Google when you visit websites that use our advertising, analytics and social products.
 
-12.3.Sec=Google’s <a href="//www.google.com/intl/en/safetycenter/">safety center</a>, which provides information on how to stay safe and secure online.
+12.3.Sec=Google's <a href="//www.google.com/intl/en/safetycenter/">safety center</a>, which provides information on how to stay safe and secure online.

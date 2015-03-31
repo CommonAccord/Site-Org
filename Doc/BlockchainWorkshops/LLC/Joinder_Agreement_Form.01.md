@@ -1,6 +1,6 @@
 Ti=Joinder Agreement
 
-1.sec=Reference is hereby made to that certain {Agt.Ti}, dated as of {Agt.Effective.YMD}, as amended and/or restated from time to time (the “LLC Agreement”) of {Co.Name.Full}, a Delaware limited liability company.
+1.sec=Reference is hereby made to that certain {Agt.Ti}, dated as of {Agt.Effective.YMD}, as amended and/or restated from time to time (the "LLC Agreement") of {Co.Name.Full}, a Delaware limited liability company.
 
 2.sec=Pursuant to the terms of the LLC Agreement, the undersigned hereby acknowledges that it has received and reviewed a complete copy of the LLC Agreement and agrees that upon execution of this Joinder Agreement such Person shall become a party to the LLC Agreement.
 

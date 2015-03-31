@@ -18,9 +18,9 @@ Model.Root={3}
 
 <p><strong>The Solution:</strong></p>
 
-<p>The “Open ID Connect” project aims to ease this pain point by building an “Open ID” architecture which will allow users to develop identity profiles which can be used, with the users permission, to provide basic personal information to applications, and avoid the need for repetitive data entry.</p>
+<p>The "Open ID Connect" project aims to ease this pain point by building an "Open ID" architecture which will allow users to develop identity profiles which can be used, with the users permission, to provide basic personal information to applications, and avoid the need for repetitive data entry.</p>
 
-<p>In addition to providing a better experience when completing forms and applications, the personal identity profiles which contain “richer” personal information which can be provided by the user to the City as desired to allow for a richer, more targeted delivery of services based on user profiles.</p>
+<p>In addition to providing a better experience when completing forms and applications, the personal identity profiles which contain "richer" personal information which can be provided by the user to the City as desired to allow for a richer, more targeted delivery of services based on user profiles.</p>
 
 <p>Forms targeted for this initial protoype include:</p>
 
@@ -39,8 +39,8 @@ Model.Root={3}
 	<li>Gender</li>
 	<li>Ethnicity</li>
 	<li>Financial Data (Tax, Revenue)</li>
-	<li>“Assistance Needed”</li>
-	<li>“Preferences” or “Interests”</li>
+	<li>"Assistance Needed"</li>
+	<li>"Preferences" or "Interests"</li>
 </ul>
 
 <p><strong>The Approach:</strong></p>
@@ -189,7 +189,7 @@ Model.Root={3}
 
 <p><strong>Do you know what the zoning code does and does not allow you to do with your space?</strong></p>
 
-<p>You've answered no . Please see the information below. Zoning determines how property can be used. It is very important to ensure, before starting the permitting process, that what you’re plannin</p>
+<p>You've answered no . Please see the information below. Zoning determines how property can be used. It is very important to ensure, before starting the permitting process, that what you're plannin</p>
 
 <p><strong>Will you have a pool table?</strong></p>
 
@@ -245,7 +245,7 @@ Model.Root={3}
 
 <p><strong>Do you want to offer valet parking?</strong></p>
 
-<p>You've answered yes . Please see the information below. Contact the Boston Transportation Department’s Off-Street Parking Division at <a href="file://localhost/tel/617-635-4489">617-635-4489</a>.</p>
+<p>You've answered yes . Please see the information below. Contact the Boston Transportation Department's Off-Street Parking Division at <a href="file://localhost/tel/617-635-4489">617-635-4489</a>.</p>
 
 <p><strong>Will you be putting up a sign or canopy?</strong></p>
 
@@ -477,7 +477,7 @@ Model.Root={3}
 
 <p><strong>Do you plan on offering take-out?</strong></p>
 
-<p>You've answered yes . Please see the information below. Before you can offer take-out, you will need to ensure that it is allowed under your building’s zoning. To do that, you can visit one of th</p>
+<p>You've answered yes . Please see the information below. Before you can offer take-out, you will need to ensure that it is allowed under your building's zoning. To do that, you can visit one of th</p>
 
 <p><strong>Will your construction work generate sufficient smoke or dust to potentially set off a fire alarm?</strong></p>
 

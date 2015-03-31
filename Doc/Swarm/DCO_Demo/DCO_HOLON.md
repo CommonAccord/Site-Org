@@ -18,5 +18,6 @@ Delegate.sec=HOLON has a single delegate, Joel Dietz.
 
 Budget.sec=HOLON has no budget at the start. Any budget approval will follow the model DCO template. 
 
+Dispute.Forum=JAMS Arbitration, with all procedings taking place in Santa Clara County, California, USA
 
 =[Swarm/DCO_Agt/Swarm_DCO_TermSheet.01.md]

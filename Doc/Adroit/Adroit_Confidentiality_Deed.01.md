@@ -14,7 +14,7 @@ Ti=Confidentiality Deed
 
 3.2.sec=Party A possesses Confidential Information relating to: {P2.Conf.Subject}
 
-3.3.sec={P1.Handle} and {P2.Handle} wish to conduct discussions and negotiations (“Discussions”) concerning the following matters and those matters are the reason (“Sole Purpose”) why each party is willing to disclose Confidential Information to the other party:<br>{Discussion.Subject}
+3.3.sec={P1.Handle} and {P2.Handle} wish to conduct discussions and negotiations ("Discussions") concerning the following matters and those matters are the reason ("Sole Purpose") why each party is willing to disclose Confidential Information to the other party:<br>{Discussion.Subject}
 
 3.4.sec=The parties agree that the Discussions will require the exchange of confidential information and that it is important that the information exchanged as part of the Discussions must remain confidential.
 

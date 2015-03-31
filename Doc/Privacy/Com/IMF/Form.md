@@ -20,7 +20,7 @@ Doc.Version=Last Updated:  October 30, 2007
 
 1.3.Sec=This information is used by the IMF to understand which countries the users of the website visit from, when they visit, and other information about how users access the website. The intention is to inform analysis about how to improve and develop www.imf.org. The IMF also monitors network traffic to identify unauthorized attempts to upload or change information or to otherwise cause damage to the site.
 
-1.4.Sec=The IMF does not distribute, sell or rent any personal information collected via its website. This is also true for personal information (for example, email and postal addresses) sent to the website’s email addresses. The IMF does not send unsolicited emails to users of its site. The transmission of personal information entered via the site’s registration forms (e.g. <a href="https://www.imf.org/external/np/adm/rec/db/index.htm">IMF Online Employment Application form</a>, Annual and Spring Meetings registration form) is protected by security features.
+1.4.Sec=The IMF does not distribute, sell or rent any personal information collected via its website. This is also true for personal information (for example, email and postal addresses) sent to the website's email addresses. The IMF does not send unsolicited emails to users of its site. The transmission of personal information entered via the site's registration forms (e.g. <a href="https://www.imf.org/external/np/adm/rec/db/index.htm">IMF Online Employment Application form</a>, Annual and Spring Meetings registration form) is protected by security features.
 
 2.secs={2.1-2.Secs}
 

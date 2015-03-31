@@ -10,7 +10,7 @@ _Secs=<ol><li>{ConfInfo._Sec}</li><li>{Use._Sec}</li><li>{Care._Sec}</li><li>{En
 
 ConfInfo._Sec=<u>Confidential Information</u>.<ol><li>{Means._Sec}</li><li>{Except._Sec}</li></ol>
 
-Means._Sec=When used in this Agreement, &ldquo;Confidential Information&rdquo; means confidential and proprietary information of any kind which is disclosed by the Sponsor to {P1.Handle} that:  {Convey._List}
+Means._Sec=When used in this Agreement, "Confidential Information&rdquo; means confidential and proprietary information of any kind which is disclosed by the Sponsor to {P1.Handle} that:  {Convey._List}
 
 Convey._List=<ol><li>{Convey.Marked._cl}; or</li><li>{Convey.SayAndConfirm._cl}.</li></ol>
 

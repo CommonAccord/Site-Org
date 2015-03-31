@@ -40,7 +40,7 @@ P2.Handle={d-}Consultant{-d}
 
 6.=[02/Sec/Sec_Term.02.md]
 
-6.Survive.Xrefs={IP.WorkProduct.Xref} (“Ownership of Work Product&rdquo;), {IP.Preexisting_IP.Xref} (“License to Preexisting IP&rdquo;), {Rep.Xref} (“Representations and Warranties&rdquo;), {Confidential.Xref} (“Confidential Information&rdquo;) and {Unfair.Interference.Xref} (“Noninterference with Business&rdquo;)
+6.Survive.Xrefs={IP.WorkProduct.Xref} ("Ownership of Work Product"), {IP.Preexisting_IP.Xref} ("License to Preexisting IP"), {Rep.Xref} ("Representations and Warranties"), {Confidential.Xref} ("Confidential Information") and {Unfair.Interference.Xref} ("Noninterference with Business")
 
 7.=[02/Sec/Consult_Sec_Dispute.01.md]
 

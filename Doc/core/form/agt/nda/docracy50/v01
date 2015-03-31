@@ -3,10 +3,10 @@
 MessageToReader=From Docracy/50/mutual-nondisclosure-agreement  Gunderson Dettmar
 
 AGT.Title=Mutual Non-Disclosure Agreement
-Prologue.Recital=To explore the possibility of a business relationship between {P1.Handle} and {P2.Handle}, each party (“Discloser”) may disclose sensitive information to the other (“Recipient”).
+Prologue.Recital=To explore the possibility of a business relationship between {P1.Handle} and {P2.Handle}, each party ("Discloser") may disclose sensitive information to the other ("Recipient").
 
 AGT.Secs._Lost=<ol><li>{Def.Proprietary_Information}</li><li>{Conf.Engage}</li><li>{Conf.Except.Compelled}</li><li>{Limit}</li><li>{Term}</li><li>{Remedy}</li><li>{Misc}</li></ol>
-Def.Proprietary_Information=<b>Definition</b>.  The term “Proprietary Information” means, to the extent previously, presently or subsequently disclosed by or for Discloser to Recipient, all financial, business, legal and technical information of Discloser or any of its affiliates, suppliers, customers and employees (including information about research, development, operations, marketing, transactions, regulatory affairs, discoveries, inventions, methods, processes, articles, materials, algorithms, software, specifications, designs, drawings, data, strategies, plans, prospects, know-how and ideas, whether tangible or intangible, and including all copies, abstracts, summaries, analyses and other derivatives thereof), that is marked or otherwise identified as proprietary or confidential at the time of disclosure, or that by its nature would be understood by a reasonable person to be proprietary or confidential. Proprietary Information shall not include any information that: {Conf.Except.List} Discloser represents and warrants to Recipient that it is authorized to disclose any and all Proprietary Information made available to Recipient under this Agreement.
+Def.Proprietary_Information=<b>Definition</b>.  The term "Proprietary Information" means, to the extent previously, presently or subsequently disclosed by or for Discloser to Recipient, all financial, business, legal and technical information of Discloser or any of its affiliates, suppliers, customers and employees (including information about research, development, operations, marketing, transactions, regulatory affairs, discoveries, inventions, methods, processes, articles, materials, algorithms, software, specifications, designs, drawings, data, strategies, plans, prospects, know-how and ideas, whether tangible or intangible, and including all copies, abstracts, summaries, analyses and other derivatives thereof), that is marked or otherwise identified as proprietary or confidential at the time of disclosure, or that by its nature would be understood by a reasonable person to be proprietary or confidential. Proprietary Information shall not include any information that: {Conf.Except.List} Discloser represents and warrants to Recipient that it is authorized to disclose any and all Proprietary Information made available to Recipient under this Agreement.
 
 Conf.Except.List={L-}{Conf.Except.Has}{;L}{Conf.Except.Finds}{;L}{Conf.Except.Public}{;orL}{Conf.Except.Makes}{.L}
 
@@ -20,7 +20,7 @@ Conf.Except.Makes=is independently developed by Recipient or its employees witho
 
 Conf.Engage=<b>Restrictions.</b>  {Conf.Engage.Base}  {Conf.Include.ThisAgreement} {ResponsibleForAgents}
 
-Conf.Engage.Base=As to the other party’s Proprietary Information, Recipient agrees: {Conf.Engage.List}
+Conf.Engage.Base=As to the other party's Proprietary Information, Recipient agrees: {Conf.Engage.List}
 
 Conf.Engage.List={L-}{Conf.Engage.UseForPurpose}{;L}{Conf.Engage.Preserve}{;L}{Conf.Engage.NoCopy}{;L}{Conf.Engage.NotDisclose}{;L}{Conf.Engage.NotDecompile}{;andL}{Conf.Engage.NotExport}{.L}  
 
@@ -34,7 +34,7 @@ Conf.Engage.Preserve=to maintain the Proprietary Information as confidential, an
 
 Conf.Engage.NoCopy=not to copy the Proprietary Information
 
-Conf.Engage.NotDisclose=not to disclose the Proprietary Information to any third party other than Recipient’s employees and agents who have a need to know for the permitted purpose and who are apprised of the confidential nature of the Proprietary Information and all of the restrictions in this Agreement
+Conf.Engage.NotDisclose=not to disclose the Proprietary Information to any third party other than Recipient's employees and agents who have a need to know for the permitted purpose and who are apprised of the confidential nature of the Proprietary Information and all of the restrictions in this Agreement
 
 Conf.Engage.NotDecompile=not to decompile, disassemble or otherwise reverse engineer any Proprietary Information, or use any similar means to discover its underlying composition, structure, source code or trade secrets
 
@@ -42,7 +42,7 @@ Conf.Engage.NotExport=not to export or re-export any Proprietary Information or 
 
 Conf.Except.Compelled=<b>Compelled Disclosures.</b>  These restrictions will not prevent either party from complying with any law, regulation, court order or other legal requirement that purports to compel disclosure of any Proprietary Information. Recipient will promptly notify Discloser upon learning of any such legal requirement, and cooperate with Discloser in the exercise of its right to protect the confidentiality of the Proprietary Information before any tribunal or governmental agency.
 
-Limit=<b>No Warranties or Licenses.</b>  All Proprietary Information is provided “AS IS.” Discloser will not be liable to Recipient for damages arising from any use of the Proprietary Information, from errors, omissions or otherwise. All of Discloser’s rights in and to its Proprietary Information remain the exclusive property of Discloser. Neither this Agreement, nor any disclosure of Proprietary Information hereunder: {Limit.List}
+Limit=<b>No Warranties or Licenses.</b>  All Proprietary Information is provided "AS IS." Discloser will not be liable to Recipient for damages arising from any use of the Proprietary Information, from errors, omissions or otherwise. All of Discloser's rights in and to its Proprietary Information remain the exclusive property of Discloser. Neither this Agreement, nor any disclosure of Proprietary Information hereunder: {Limit.List}
 
 Note=Limits are phrased positively but denied in the intro.  This leads to odd labels. 
 
@@ -62,9 +62,9 @@ Term=<b>Termination</b>.  {Term.Expiration}
 
 Term.Expiration=This Agreement will terminate as to the further exchange of Proprietary Information immediately upon the earlier of (a) receipt by one party of written notice from the other and (b) {End-Of-Communication-Period}. 
 
-Engage.Survive=The confidentiality obligations of this Agreement, as they apply to any Proprietary Information disclosed prior to termination, will survive termination for a period of {Length-Of-Engagement-Period}; provided, Recipient’s obligations hereunder shall survive and continue in effect thereafter with respect to any Proprietary Information that is a trade secret under applicable law. 
+Engage.Survive=The confidentiality obligations of this Agreement, as they apply to any Proprietary Information disclosed prior to termination, will survive termination for a period of {Length-Of-Engagement-Period}; provided, Recipient's obligations hereunder shall survive and continue in effect thereafter with respect to any Proprietary Information that is a trade secret under applicable law. 
 
-Remedy.Return=Upon termination of this Agreement for any reason, or upon Discloser’s request at any time, Recipient shall promptly return to Discloser all originals and copies of any Proprietary Information and destroy all information, records and materials developed therefrom.
+Remedy.Return=Upon termination of this Agreement for any reason, or upon Discloser's request at any time, Recipient shall promptly return to Discloser all originals and copies of any Proprietary Information and destroy all information, records and materials developed therefrom.
 
 Remedy=<b>Remedies.</b>  Due to the unique nature of the Proprietary Information, the parties agree that any breach or threatened breach of this Agreement will cause not only financial harm to Discloser, but also irreparable harm for which money damages will not be an adequate remedy. Therefore, Discloser shall be entitled, in addition to any other legal or equitable remedies, to an injunction or similar equitable relief against any such breach or threatened breach without the necessity of posting any bond.
 

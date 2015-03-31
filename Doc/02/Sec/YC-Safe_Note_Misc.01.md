@@ -6,7 +6,7 @@ Ti=Miscellaneous
 
 2.Ti=Notice
 
-2.sec=Any notice required or permitted by {this_instrument} will be deemed sufficient when delivered personally or by overnight courier or sent by email to the relevant address listed on the signature page, or 48 hours after being deposited in the U.S. mail as certified or registered mail with postage prepaid, addressed to the {party} to be notified at such {party}’s address listed on the signature page, as subsequently modified by written notice.
+2.sec=Any notice required or permitted by {this_instrument} will be deemed sufficient when delivered personally or by overnight courier or sent by email to the relevant address listed on the signature page, or 48 hours after being deposited in the U.S. mail as certified or registered mail with postage prepaid, addressed to the {party} to be notified at such {party}'s address listed on the signature page, as subsequently modified by written notice.
 
 3.Ti=No Rights as Stockholder
 
@@ -18,9 +18,9 @@ Ti=Miscellaneous
 
 4.Excepts.cl=provided, however, that {4.Except.Investor.cl}; and provided, further, that {4.Except.Company.cl}
 
-4.Except.Investor.cl={this_instrument} and/or the rights contained herein may be assigned without {the_Company}’s consent by {the_Investor} to any other entity who directly or indirectly, controls, is controlled by or is under common control with {the_Investor}, including, without limitation, any general partner, managing member, officer or director of {the_Investor}, or any venture capital fund now or hereafter existing which is controlled by one or more general partners or managing members of, or shares the same management company with, {the_Investor}
+4.Except.Investor.cl={this_instrument} and/or the rights contained herein may be assigned without {the_Company}'s consent by {the_Investor} to any other entity who directly or indirectly, controls, is controlled by or is under common control with {the_Investor}, including, without limitation, any general partner, managing member, officer or director of {the_Investor}, or any venture capital fund now or hereafter existing which is controlled by one or more general partners or managing members of, or shares the same management company with, {the_Investor}
 
-4.Except.Company.cl={the_Company} may assign {this_instrument} in whole, without the consent of {the_Investor}, in connection with a reincorporation to change {the_Company}’s domicile
+4.Except.Company.cl={the_Company} may assign {this_instrument} in whole, without the consent of {the_Investor}, in connection with a reincorporation to change {the_Company}'s domicile
 
 5.Ti=Interpretation for Enforceability
 

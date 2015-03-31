@@ -1,6 +1,6 @@
 /Source=http://www.genome.gov/Pages/PolicyEthics/InformedConsent/5_GTEx_ENCODE_Sample_Consent.pdf
 
-Disease.List.and=Alzheimer’s, Parkinson’s and Autism
+Disease.List.and=Alzheimer's, Parkinson's and Autism
 
 /Dummy=-
 
@@ -21,17 +21,17 @@ Ti=Authorization for Tissue Donation in National Institutes of Health Research P
 
 Explain.1.sec=This project was established to do two things: first, it is a BIOBANK. A biobank is a facility that stores donated tissues from many people so that it can be used in medical research studies. Second, the donated tissue will be analyzed for their genetic information. This will be put into a DNA DATABASE that will be made available to researchers.
 
-Explain.2.sec=Scientists will use the tissue to examine each donor’s complete genetic makeup. This information along with information from the donor’s medical record will all be stored in a DNA database on the Internet. Qualified scientists and companies from around the world will be able to use the tissue and information in the DNA database for many kinds of medical research. A limited portion of this database will be made available publicly on the Internet.
+Explain.2.sec=Scientists will use the tissue to examine each donor's complete genetic makeup. This information along with information from the donor's medical record will all be stored in a DNA database on the Internet. Qualified scientists and companies from around the world will be able to use the tissue and information in the DNA database for many kinds of medical research. A limited portion of this database will be made available publicly on the Internet.
 
 Explain.3.sec=Brain tissue is important to the study of many diseases like {Disease.List.and}, and if allowed, the entire brain will be recovered. In other areas of the body only very small amounts of tissue, about the size of 8 stacked quarters, will be collected.
 
 Explain.4.sec=Some tissues may be treated so that it grows forever and can be studied for many years. The tissue may be stored indefinitely and cells from the tissue can also be transformed into different kinds of cells. For example, skin cells could be transformed into nerve cells.
 
-Explain.5.sec=There is a chance that the donor and the blood relatives of the donor could be identified. The project will make every effort possible to keep this from happening. The donor’s name and other things like address and medical record numbers will be removed from the database and the labeling of the tissues. No researchers using the tissues or database will know the identity of the donors as the information and tissues will be labeled only with a code number.
+Explain.5.sec=There is a chance that the donor and the blood relatives of the donor could be identified. The project will make every effort possible to keep this from happening. The donor's name and other things like address and medical record numbers will be removed from the database and the labeling of the tissues. No researchers using the tissues or database will know the identity of the donors as the information and tissues will be labeled only with a code number.
 
 Explain.6.sec=You can change your mind and withdraw the tissue or health information from the study by calling {Institution} at {Contact #} and referencing {Project.Title}. In this case, any tissue remaining in the biobank will be destroyed and never used again. Health information and genetic data will be removed from the database and never distributed further. However, you cannot stop samples and information from being used that have already been sent to researchers.
 
-Explain.7.sec=Families will not be given results of any testing done using the donor’s samples. We will send you a brochure about the project, which includes websites designed specifically for the public and for people who donated to this important research.
+Explain.7.sec=Families will not be given results of any testing done using the donor's samples. We will send you a brochure about the project, which includes websites designed specifically for the public and for people who donated to this important research.
 
 Explain.8.sec=We would also like to collect additional samples of tissue for use in other important research projects that are not connected to this particular project. Donated tissues may be stored indefinitely and these projects will vary in purpose. For instance, there is a possibility that some of the donated tissue may be used for genetic research, treated to grow forever, and be transformed into different types of cells that could be used to make medical products.  However, you will not be informed about what types of research projects the tissues are used for or about what happens to the tissue after it is collected. Only small amounts of additional tissue would be collected.
 

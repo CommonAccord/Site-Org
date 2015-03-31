@@ -16,7 +16,7 @@ CompanyProperty.Assign.Further._Cl={Supplier} and {Supplier}'s successors in int
 
 CompanyProperty.Assign.NotRegister._Cl={Supplier} agrees that it will not apply for any state, federal or other U.S. or foreign jurisdiction's registration of rights in any of the {Company Property} and that it will not oppose or object in any way to applications for registration of same by {Company} or others designated by {Company}
 
-SupplierProperty._Sec=<u>{Supplier}'s Property</u>.&#8194; The assignment in Section {6.1.3} above does not include {Supplier's Reserved Intellectual Property} properly listed on {Schedule F}.&#8194; {Supplier} will obtain a {Company} representative’s signature on {Schedule F} before incorporating any of {Supplier's Intellectual Property} into the {Services} and/or any deliverables under this Agreement.&#8194; {Supplier} will own {Supplier's Reserved Intellectual Property} reflected on a properly executed {Schedule F}.&#8194; However, {Supplier} grants {Company} a fully-paid, perpetual, irrevocable, world-wide, non-exclusive license to: {SR.License._List}
+SupplierProperty._Sec=<u>{Supplier}'s Property</u>.&#8194; The assignment in Section {6.1.3} above does not include {Supplier's Reserved Intellectual Property} properly listed on {Schedule F}.&#8194; {Supplier} will obtain a {Company} representative's signature on {Schedule F} before incorporating any of {Supplier's Intellectual Property} into the {Services} and/or any deliverables under this Agreement.&#8194; {Supplier} will own {Supplier's Reserved Intellectual Property} reflected on a properly executed {Schedule F}.&#8194; However, {Supplier} grants {Company} a fully-paid, perpetual, irrevocable, world-wide, non-exclusive license to: {SR.License._List}
 
 SR.License._List=<ol><li>{SR.License.Derivative._cl};</li><li>{SR.License.Reproduce._cl}; and</li><li>{SR.License.MUDPDTSub._cl}.</li></ol>
 
@@ -26,13 +26,13 @@ SR.License.Reproduce._cl=reproduce {Supplier's Reserved Intellectual Property} a
 
 SR.License.MUDPDTSub._cl=make, use, distribute, perform, display and transmit {Supplier's Reserved Intellectual Property} and derivative works and reproductions thereof, and to sublicense the rights granted to {Company} in this paragraph
 
-3Party._Sec=<u>{Third Party Intellectual Property}</u>.&#8194; {Supplier} shall not, without {Company}’s written authorization, disclose or use in {Supplier}’s work with the {Company}, any secret or confidential information of others, nor incorporate into the Services and/or any deliverables to {Company} under this Agreement: {3Party.BarredIP._Lost}  {3Party._Cont}
+3Party._Sec=<u>{Third Party Intellectual Property}</u>.&#8194; {Supplier} shall not, without {Company}'s written authorization, disclose or use in {Supplier}'s work with the {Company}, any secret or confidential information of others, nor incorporate into the Services and/or any deliverables to {Company} under this Agreement: {3Party.BarredIP._Lost}  {3Party._Cont}
 
-3Party.BarredIP._Lost=<ol><li>{Third Party Intellectual Property}; or</li><li>any software, applications, or components or other materials, which are functionally dependent upon {Company}’s use of {Third Party Intellectual Property}.</li></ol> 
+3Party.BarredIP._Lost=<ol><li>{Third Party Intellectual Property}; or</li><li>any software, applications, or components or other materials, which are functionally dependent upon {Company}'s use of {Third Party Intellectual Property}.</li></ol> 
 
 3Party._Cont=If {Company} provides such written authorization, {Supplier} shall, in the absence of written agreement to the contrary, provide, at no expense to {Company}, all licenses to such {Third Party Intellectual Property} and which {Company} does not already have and which are reasonably necessary for {Company} to lawfully make all uses of the Services and/or any deliverables contemplated in this Agreement
 
-CodeEscrow._Sec=<u>Escrow of Code</u>.&#8194; To the extent that any deliverables provided by {Supplier} under this Agreement include software, upon {Company}’s request, {Supplier} agrees to deposit any and all {Software Materials} in escrow: {CodeEscrow._Lost} {CodeEscrow._Cont}
+CodeEscrow._Sec=<u>Escrow of Code</u>.&#8194; To the extent that any deliverables provided by {Supplier} under this Agreement include software, upon {Company}'s request, {Supplier} agrees to deposit any and all {Software Materials} in escrow: {CodeEscrow._Lost} {CodeEscrow._Cont}
 
 CodeEscrow._Lost=<ol><li>with an escrow agent designated by {Company}; and</li><li>pursuant to a written escrow agreement to be approved by {Company} in writing.</li></ol> 
 

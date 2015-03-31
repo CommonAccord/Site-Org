@@ -1,15 +1,15 @@
-Ti=“bigdata” Research Data Use Agreement
+Ti="bigdata" Research Data Use Agreement
 
 0.Sec={0.1.Sec}<br>{0.2.Sec}<br>{0.3.Sec}<br>{0.4.Sec}<br>{0.5.Sec}
 
 Note/0.1.Sec=The word "Data" is stated in uppercase, but not defined and not otherwise used.  Should this read "Data Set"?
-0.1.Sec=This Agreement is made effective as of {DATE} (the “{Effective_Date}”) between {P2.N,E,A} (“{P2.Handle}”), and {P1.N,E,A} (“{P1.Handle}”), in anticipation of {P2.Handle}’s disclosure to {P1.Handle} of the data identified in Attachment A (the “{Data_Set}”) for the following purpose (the “{Purpose}”): analysis and interpretation of the Data, alone or in combination with data from other sources, in connection with the Research Project identified in Attachment A.
+0.1.Sec=This Agreement is made effective as of {DATE} (the "{Effective_Date}") between {P2.N,E,A} ("{P2.Handle}"), and {P1.N,E,A} ("{P1.Handle}"), in anticipation of {P2.Handle}'s disclosure to {P1.Handle} of the data identified in Attachment A (the "{Data_Set}") for the following purpose (the "{Purpose}"): analysis and interpretation of the Data, alone or in combination with data from other sources, in connection with the Research Project identified in Attachment A.
 
 0.2.Sec=Primary Technical Contact(s) for disclosure of the {Data_Set} on behalf of {P2.Handle}:<br> {P2.Contact.List}
  
 0.3.Sec=Primary Technical Contact(s) for receipt of the {Data_Set} on behalf of {P1.Handle}:<br> {P1.Contact.List}
 
-0.4.Sec=This Agreement applies to data disclosed between the {Effective_Date} and {DATE} (“End Date”), unless earlier terminated or extended by mutual written agreement.
+0.4.Sec=This Agreement applies to data disclosed between the {Effective_Date} and {DATE} ("End Date"), unless earlier terminated or extended by mutual written agreement.
 
 0.5.Sec=In consideration of {P2.Handle} making the {Data_Set} available to {P1.Handle}, the parties hereby agree as follows:
 
@@ -18,19 +18,19 @@ Note/0.1.Sec=The word "Data" is stated in uppercase, but not defined and not oth
 
 1.sec={1.1.Sec} {1.2.Sec} {1.3.Sec}
 
-1.1.Sec=When used in this Agreement, the term “{Confidential_Data}” means confidential and proprietary data in the {Data_Set} disclosed by {P2.Handle} to {P1.Handle} in connection with the {Purpose} that {1.1.List}
+1.1.Sec=When used in this Agreement, the term "{Confidential_Data}" means confidential and proprietary data in the {Data_Set} disclosed by {P2.Handle} to {P1.Handle} in connection with the {Purpose} that {1.1.List}
 
 1.1.List=(i) {1.1.1.Sec} or (ii) {1.1.2.Sec}.
 
 1.1.1.Sec=prior to disclosure, is marked with a legend indicating its confidential status
 
-1.1.2.Sec=if disclosed orally or visually is identified by {P2.Handle} as confidential at the time of disclosure and is summarized to {P1.Handle}’s Primary Technical Contact by {P2.Handle} within 30 days following such disclosure
+1.1.2.Sec=if disclosed orally or visually is identified by {P2.Handle} as confidential at the time of disclosure and is summarized to {P1.Handle}'s Primary Technical Contact by {P2.Handle} within 30 days following such disclosure
 
 1.2.Sec=Notwithstanding the foregoing, in no event is data {Confidential_Data} if it {1.2.List}.
 
 1.2.List=(a) {1.2.1.Sec}; (b) {1.2.2.Sec}; (c) {1.2.3.Sec}; or (d) {1.2.4.Sec}
 
-1.2.1.Sec=was in {P1.Handle}’s possession before receipt from {P2.Handle}
+1.2.1.Sec=was in {P1.Handle}'s possession before receipt from {P2.Handle}
 
 1.2.2.Sec=is or becomes a matter of public knowledge through no fault of {P1.Handle}
 
@@ -46,7 +46,7 @@ Note/0.1.Sec=The word "Data" is stated in uppercase, but not defined and not oth
 
 2.1.Sec=Notwithstanding anything to the contrary in this Agreement, {P2.Handle} shall not provide {P1.Handle} with any {Personally-Identifiable_Information}.
 
-2.2.Sec=For purposes of this Agreement, {Personally-Identifiable_Information} is any information that, when used alone or combined with other data, may be used to identify any individuals, including {P2.Handle}, employees, clients, suppliers, or other third parties and which includes, but is not limited to, an individual’s name, mailing address, email address, phone number, account information, title, birth date, gender, occupation, or other information that is unique to or permits identification of that individual.
+2.2.Sec=For purposes of this Agreement, {Personally-Identifiable_Information} is any information that, when used alone or combined with other data, may be used to identify any individuals, including {P2.Handle}, employees, clients, suppliers, or other third parties and which includes, but is not limited to, an individual's name, mailing address, email address, phone number, account information, title, birth date, gender, occupation, or other information that is unique to or permits identification of that individual.
 
 3.Ti=Limitations on Use
 
@@ -68,7 +68,7 @@ Note/0.1.Sec=The word "Data" is stated in uppercase, but not defined and not oth
 
 5.Ti=Non-Disclosure of Source
 
-5.sec={P1.Handle} shall not identify {P2.Handle} as the provider of the {Confidential_Data} in any publication or public presentation of research in which {Confidential_Data} is used (each a “Publication”) without obtaining {P2.Handle}’s prior written consent.
+5.sec={P1.Handle} shall not identify {P2.Handle} as the provider of the {Confidential_Data} in any publication or public presentation of research in which {Confidential_Data} is used (each a "Publication") without obtaining {P2.Handle}'s prior written consent.
 
 6.Ti=Required Disclosure
 
@@ -78,7 +78,7 @@ Note/0.1.Sec=The word "Data" is stated in uppercase, but not defined and not oth
 
 7.sec={7.1.Sec} {7.2.Sec} {7.3.Sec}
 
-7.1.Sec={P2.Handle} acknowledges that {P1.Handle} is receiving {Confidential_Data} in anticipation of preparation and publication of scholarly papers (“{Scholarly_Work}”).
+7.1.Sec={P2.Handle} acknowledges that {P1.Handle} is receiving {Confidential_Data} in anticipation of preparation and publication of scholarly papers ("{Scholarly_Work}").
 
 7.2.Sec=Prior to publication of any {Scholarly_Work}, {P2.Handle} will have a {ScholarlyWorkReviewPeriod} period to review the publication for any disclosure of {Confidential_Data}.
 
@@ -86,7 +86,7 @@ Note/0.1.Sec=The word "Data" is stated in uppercase, but not defined and not oth
 
 8.Ti=Use of Names
 
-8.sec={P2.Handle} and its affiliates shall not use {P1.BrandNames}, or any variation, adaptation, or abbreviation thereof, or the name of any of {P1.Handle}’s trustees, officers, faculty members, students, employees, or agents, or any trademark owned by {P1.Handle}, in any promotional material or other public announcement or disclosure without the prior written consent of {P1.TLO}, which consent {P1.Handle} may withhold in its sole discretion.
+8.sec={P2.Handle} and its affiliates shall not use {P1.BrandNames}, or any variation, adaptation, or abbreviation thereof, or the name of any of {P1.Handle}'s trustees, officers, faculty members, students, employees, or agents, or any trademark owned by {P1.Handle}, in any promotional material or other public announcement or disclosure without the prior written consent of {P1.TLO}, which consent {P1.Handle} may withhold in its sole discretion.
 
 9.Ti=Disclaimers
 
@@ -94,7 +94,7 @@ Note/0.1.Sec=The word "Data" is stated in uppercase, but not defined and not oth
 
 9.1.sec=<span style="text-transform: uppercase">{9.1.raw}</span>
 
-9.1.raw=All {Confidential_Data} are provided “as is.” {P2.Handle} makes no warranty, expressed or implied, regarding the accuracy, completeness, suitability or performance of {Confidential_Data} disclosed under this Agreement.
+9.1.raw=All {Confidential_Data} are provided "as is." {P2.Handle} makes no warranty, expressed or implied, regarding the accuracy, completeness, suitability or performance of {Confidential_Data} disclosed under this Agreement.
 
 
 9.2.Ti={P1.Handle} Disclaimer
@@ -118,7 +118,7 @@ Note/0.1.Sec=The word "Data" is stated in uppercase, but not defined and not oth
 
 10.Ti=Term and Termination
 
-10.sec=Either party may terminate this Agreement with or without cause by providing at least ninety days’ prior written notice to the other party.  {P1.Handle}’s obligations with respect to use and non-disclosure of {Confidential_Data} shall survive for a period of {ConfPeriod} following expiration or any earlier termination of this Agreement.
+10.sec=Either party may terminate this Agreement with or without cause by providing at least ninety days' prior written notice to the other party.  {P1.Handle}'s obligations with respect to use and non-disclosure of {Confidential_Data} shall survive for a period of {ConfPeriod} following expiration or any earlier termination of this Agreement.
 
 11.Ti=Return or Destruction of {Confidential_Data} and Information
 

@@ -14,7 +14,7 @@ Insurance.Commercial._Sec=Commercial General Liability with minimum limits for B
 
 Insurance.Auto._Sec=Business Automobile Liability Insurance covering all vehicles used in connection with the work and covering Bodily Injury and Property Damage with a minimum limit equal to: {Auto.Occur.$} per accident.
 
-Insurance.Errors._Sec=Professional Errors and Omissions Insurance covering the activities of {Supplier} written on a &ldquo;claims made&rdquo; basis with a minimum limit equal to: {Prof.Occur.$} per occurrence.
+Insurance.Errors._Sec=Professional Errors and Omissions Insurance covering the activities of {Supplier} written on a "claims made&rdquo; basis with a minimum limit equal to: {Prof.Occur.$} per occurrence.
 
 AdditionalInsured._Sec=<u>Additional Insurance Requirements</u>. <ol><li>{AdditionalInsured.Named._Sec}</li><li>{AdditionalInsured.Primary._Sec}</li><li>{AdditionalInsured.Primary._Sec}</li><li>{AdditionalInsured.Cancellation._Sec}</li><li>{AdditionalInsured.Subrogation._Sec}</li></ol>
 

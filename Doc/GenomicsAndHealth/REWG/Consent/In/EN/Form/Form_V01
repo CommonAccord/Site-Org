@@ -67,7 +67,7 @@ Framework.URL=www.commonaccord.org/GenomicsAndHealth/REWG/Framework/V01
 
 2.Ti=What is the purpose of this research?
 
-2.1.1.Sen=Genes are the basic “instruction book” for the cells that make up our bodies.
+2.1.1.Sen=Genes are the basic "instruction book" for the cells that make up our bodies.
 
 2.1.2.Sen=All genes are made of DNA.
 
@@ -183,7 +183,7 @@ Framework.URL=www.commonaccord.org/GenomicsAndHealth/REWG/Framework/V01
 
 10.1.1.Sen=It will probably take a long time to interpret the data accurately.
 
-10.1.2.Sen=You can check the project’s web site at {m-}{Study.www.me.com}{-m} to read about the project’s progress and to see if there are any general results.
+10.1.2.Sen=You can check the project's web site at {m-}{Study.www.me.com}{-m} to read about the project's progress and to see if there are any general results.
 
 10.2.sec=<b>Include the local policy on return of individual health results/incidental findings and role of physician where applicable</b>
 

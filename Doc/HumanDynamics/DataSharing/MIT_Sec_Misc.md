@@ -4,7 +4,7 @@ Ti=MISCELLANEOUS PROVISIONS
 
 Note/1.sec=Original referred to "Company".  Should have been "Provider."  Fixed. 
 
-1.sec=The parties will not knowingly disclose, and will use commercially reasonable efforts to prevent disclosure of, any information subject to ITAR controls or in the Commerce Control List (EAR Part 774 and Supplements) or 10 CFR Part 810 Restricted Data or Sensitive Nuclear Technology.  If {P2.Handle} intends to disclose export-controlled information to {P1.Handle} in connection with this Agreement, {P2.Handle} will not disclose such information to {P1.Handle} unless and until a plan for transfer, use, dissemination, and control of the information has been approved by {P1.Handle}’s Export Control Officer.
+1.sec=The parties will not knowingly disclose, and will use commercially reasonable efforts to prevent disclosure of, any information subject to ITAR controls or in the Commerce Control List (EAR Part 774 and Supplements) or 10 CFR Part 810 Restricted Data or Sensitive Nuclear Technology.  If {P2.Handle} intends to disclose export-controlled information to {P1.Handle} in connection with this Agreement, {P2.Handle} will not disclose such information to {P1.Handle} unless and until a plan for transfer, use, dissemination, and control of the information has been approved by {P1.Handle}'s Export Control Officer.
 
 2.Ti=CREATE Act
 

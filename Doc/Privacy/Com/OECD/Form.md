@@ -38,7 +38,7 @@ Doc.Version=Updated: 17 November 2011
 
 3.3.Sec=You may also choose to receive promotional or marketing information from other organisations. When you do so, the OECD will only disclose your name and physical and electronic addresses to them. However, you should note that these organisations may follow privacy policies and practices which may be different from those of the OECD. At any time you can ask the OECD not to further disclose your name and addresses by sending an e-mail to the relevant contacts indicated on the website where you registered, e.g. <a href="mailto:oecddirect@oecd.org">oecddirect@oecd.org</a>, <a href="mailto:oecdilibrary@oecd.org">oecdilibrary@oecd.org</a> or <a href="mailto:webmaster@oecd.org">webmaster@oecd.org</a>.
 
-3.4.Sec=With the "MyOECD" function, the OECD provides a personalised URL (link) that brings you to a personalised web page. By using this option, you agree to let OECD collect information about your session visits. This information helps the OECD provide you with information that matches your interests. Please note that if you register to “MyOECD”, your information may be made available to OECD staff and to Member countries delegations for the purpose of events management.
+3.4.Sec=With the "MyOECD" function, the OECD provides a personalised URL (link) that brings you to a personalised web page. By using this option, you agree to let OECD collect information about your session visits. This information helps the OECD provide you with information that matches your interests. Please note that if you register to "MyOECD", your information may be made available to OECD staff and to Member countries delegations for the purpose of events management.
 
 4.secs={4.1-2.Secs}
 

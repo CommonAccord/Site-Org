@@ -4,7 +4,7 @@ Sec=<u>Term and Termination</u>.  <ol><li>{Term.Sec}</li><li>{DurationOfDiscussi
 
 Term.Sec=<u>Term</u>.  {Term.Base.Sen}  {Term.Retroactive.Sen}  {Term.SOW.Sen}
 
-Term.Base.Sen=The term of {this Agreement} (“{Term}”) shall begin on the “{Effective Date}” and end on {Term.End.YMD} (“{Expiration Date}”), unless sooner terminated as provided in Section {Stop.Xnum}.
+Term.Base.Sen=The term of {this Agreement} ("{Term}") shall begin on the "{Effective Date}" and end on {Term.End.YMD} ("{Expiration Date}"), unless sooner terminated as provided in Section {Stop.Xnum}.
 
 Term.Retroactive.Sen=If signed after the {Effective Date}, {this Agreement} shall be deemed retroactive to the {Effective Date}.
 

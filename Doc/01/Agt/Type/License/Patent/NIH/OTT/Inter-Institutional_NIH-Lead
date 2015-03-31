@@ -15,7 +15,7 @@ Why.Sec=<b>{Why.Title}</b><ol><li>{Why.1}</li><li>{Why.2}</li></ol>
 
 Why.Title=BACKGROUND
 
-Why.1=In the course of {Invent.Background}, {Inventor.List} (hereinafter referred to as the &ldquo;Inventor(s)&rdquo;) made or reduced to practice certain inventions, which are included within the Patent Rights, as defined in Paragraph 2.1.
+Why.1=In the course of {Invent.Background}, {Inventor.List} (hereinafter referred to as the "Inventor(s)") made or reduced to practice certain inventions, which are included within the Patent Rights, as defined in Paragraph 2.1.
 
 Why.2=It is the mutual desire of {P2.the} and {P1.the} that their respective undivided interests in the Patent Rights be administered in a manner to ensure the rapid commercialization of the Patent Rights and to make their benefits widely available to the public.  
 
@@ -26,9 +26,9 @@ Def.Sec=<b>{Def.Title}</b><ol type"none"><li>{Def.Government}</li><li>{Def.FDA}<
 
 Def.Title=DEFINITIONS
 
-Def.Government=&ldquo;Government&rdquo; means the government of the United States of America.
-Def.FDA=&ldquo;FDA&rdquo; means the Food and Drug Administration.
-Def.Patent_Rights=&ldquo;Patent Rights&rdquo; means:<ol type="a"><li>{Def.Patent_Rights.1}</li><li>{Def.Patent_Rights.2}</li><li>{Def.Patent_Rights.3}</li><li>{Def.Patent_Rights.4}</li></ol>
+Def.Government="Government" means the government of the United States of America.
+Def.FDA="FDA" means the Food and Drug Administration.
+Def.Patent_Rights="Patent Rights" means:<ol type="a"><li>{Def.Patent_Rights.1}</li><li>{Def.Patent_Rights.2}</li><li>{Def.Patent_Rights.3}</li><li>{Def.Patent_Rights.4}</li></ol>
 
 Def.Patent_Rights.1=Patent applications (including provisional patent applications and PCT patent applications) or patents as follows: {Patent.Identification}, and any patent application(s) claiming the benefit of priority thereof including all divisions and continuations of these applications, all patents issuing from such applications, divisions, and continuations, and any reissues, reexaminations, and extensions of all such patents to the extent that at least one Inventor from {P2.the} is an Inventor thereon;
 
@@ -45,9 +45,9 @@ Def.Patent_Rights.2.5=any reissues, reexaminations, and extensions of all these 
 Def.Patent_Rights.3=to the extent that the following contain one or more claims directed to the invention or inventions disclosed in 2.3(a) and to the extent that at least one Inventor from {P2.the} is an Inventor: all counterpart foreign and U.S. patent applications and patents to 2.3(a) and 2.3(b); and
 Def.Patent_Rights.4=Patent Rights shall not include 2.3(b) or 2.3(c) to the extent that they contain one or more claims directed to new matter which is not the subject matter disclosed in 2.3(a).
 
-Def.Net_Revenues=&ldquo;Net Revenues&rdquo; means all consideration received by {P1.the} from the licensing of the Patent Rights pursuant to this Agreement less (a) Expenses and then (b) fifteen percent (15%) of the remaining consideration for administrative overhead.  In the event that a license is executed by {P1.the} with a third party wherein the Patent Rights are licensed together with other technologies not falling under the definition of the Patent Rights, all consideration received by {P1.the} from the licensing of the Patent Rights pursuant to this Agreement through the third-party executed license shall correspond to the Patent Rights&rsquo; percentage contribution to the total amount received for all licensed technologies as determined by {P1.the}.
+Def.Net_Revenues="Net Revenues" means all consideration received by {P1.the} from the licensing of the Patent Rights pursuant to this Agreement less (a) Expenses and then (b) fifteen percent (15%) of the remaining consideration for administrative overhead.  In the event that a license is executed by {P1.the} with a third party wherein the Patent Rights are licensed together with other technologies not falling under the definition of the Patent Rights, all consideration received by {P1.the} from the licensing of the Patent Rights pursuant to this Agreement through the third-party executed license shall correspond to the Patent Rights' percentage contribution to the total amount received for all licensed technologies as determined by {P1.the}.
 
-Def.Expenses=&ldquo;Expenses&rdquo; means all reasonable and actual out-of-pocket costs, excluding those reimbursed by a third party, paid by {P1.the} for the preparation, filing, prosecution, and licensing of United States and foreign patent applications, extraordinary expenses as provided in Paragraph 4.6, and the maintenance of the resulting patents or patent applications, exclusive of any salaries, administrative, or other indirect costs.
+Def.Expenses="Expenses" means all reasonable and actual out-of-pocket costs, excluding those reimbursed by a third party, paid by {P1.the} for the preparation, filing, prosecution, and licensing of United States and foreign patent applications, extraordinary expenses as provided in Paragraph 4.6, and the maintenance of the resulting patents or patent applications, exclusive of any salaries, administrative, or other indirect costs.
 
 
 Grant.Sec=<b>{Grant.Title}</b><ol><li>{Grant.1}</li><li>{Grant.2}</li></ol>
@@ -123,7 +123,7 @@ Dispute.Title=GOVERNING LAWS, SETTLING DISPUTES
 
 Dispute.1=This Agreement shall be construed in accordance with U.S. Federal law, as interpreted and applied by the U.S. Federal courts in the District of Columbia.  Federal law and regulations shall preempt any conflicting or inconsistent provisions in this Agreement.  {P2.The} agrees to be subject to the jurisdiction of U.S. courts.
 
-Dispute.2=Any controversy or any disputed claim by either party against the other arising under or related to this Agreement shall be submitted jointly to {P2.the}&rsquo;s President or designee and to the Director of {P1.the} or designee for resolution.  {P2.The} and {P1.the} shall be free after written decisions are issued by those officials to pursue any and all administrative or judicial remedies which may be available.
+Dispute.2=Any controversy or any disputed claim by either party against the other arising under or related to this Agreement shall be submitted jointly to {P2.the}'s President or designee and to the Director of {P1.the} or designee for resolution.  {P2.The} and {P1.the} shall be free after written decisions are issued by those officials to pursue any and all administrative or judicial remedies which may be available.
 
 Time.Sec=<b>{Time.Title}</b><ol><li>{Time.1}</li><li>{Time.2}</li><li>{Time.3}</li><li>{Time.4}</li></ol>
 
@@ -184,7 +184,7 @@ Mailing Address:
 Email Address:		
 Phone:		
 Fax:		
-Official and Mailing Address for Financial notices ({P2.The}&rsquo;s contact person for royalty payments)
+Official and Mailing Address for Financial notices ({P2.The}'s contact person for royalty payments)
 	
 Name
 	
@@ -200,4 +200,4 @@ Fax:
 
 Agt.Attach={WarningAgainstPerjury}
 
-WarningAgainstPerjury=Any false or misleading statements made, presented, or submitted to the Government, including any relevant omissions, under this Agreement and during the course of negotiation of this Agreement are subject to all applicable civil and criminal statutes including Federal statutes 31 U.S.C. §§3801-3812 (civil liability) and 18 U.S.C. §1001 (criminal liability including fine(s) or imprisonment).
+WarningAgainstPerjury=Any false or misleading statements made, presented, or submitted to the Government, including any relevant omissions, under this Agreement and during the course of negotiation of this Agreement are subject to all applicable civil and criminal statutes including Federal statutes 31 U.S.C. Secs.3801-3812 (civil liability) and 18 U.S.C. Sec 1001 (criminal liability including fine(s) or imprisonment).

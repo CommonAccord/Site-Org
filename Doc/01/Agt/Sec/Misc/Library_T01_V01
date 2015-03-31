@@ -10,7 +10,7 @@ Ti=Miscellaneous
 
 1.Ti=Notices
 
-1.sec=All notices must be in writing and addressed to the other {party}&rsquo;s legal department and primary point of contact.  The email address for notices being sent to {P1.Handle}&rsquo;s Legal Department is {P1.Legal.Email.Link}.  Notice will be treated as given on receipt as verified by written or automated receipt or by electronic log (as applicable).
+1.sec=All notices must be in writing and addressed to the other {party}'s legal department and primary point of contact.  The email address for notices being sent to {P1.Handle}'s Legal Department is {P1.Legal.Email.Link}.  Notice will be treated as given on receipt as verified by written or automated receipt or by electronic log (as applicable).
 
 2.Ti=Assignment
 
@@ -46,7 +46,7 @@ Ti=Miscellaneous
 
 9.Ti=Equitable Relief
 
-9.sec=Nothing in {this Agreement} will limit either {party}&rsquo;s ability to seek equitable relief.
+9.sec=Nothing in {this Agreement} will limit either {party}'s ability to seek equitable relief.
 
 11.Ti=Amendments
 

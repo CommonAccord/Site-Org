@@ -4,7 +4,7 @@ sec=No consents or approvals are required in connection with the performance of 
 
 Consent.List=(i) {Corporate.cl}; (ii) {SecuritiesLaws.cl}; and (iii) {StockApproval.cl}
 
-Corporate.cl={the_Company}’s corporate approvals
+Corporate.cl={the_Company}'s corporate approvals
 
 SecuritiesLaws.cl=any qualifications or filings under applicable securities laws
 
