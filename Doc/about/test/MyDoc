@@ -1,0 +1,25 @@
+H=Hello
+
+L=Legal
+
+W=World
+
+Secs={HLW}
+
+HLW={H} {L} {W}
+
+=[04/Sec/Agt_Parties.1-2.04.md]
+
+P1.=[core/id/acme_incorporated]
+P2.=[core/id/quake_incorporated]
+
+P1.Handle=Company
+P2.Handle=Consultant
+
+Agt.Effective.YMD=April 3, 2015
+Agree.Whereas.secs=The parties wish to enter into a consulting relationship.
+PageBreak=
+
+P1.Sign.Block=
+P2.Sign.Block=
+Attach.Block=
