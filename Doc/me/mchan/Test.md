@@ -25,4 +25,13 @@ Alt-B.Sen=SOMETHING DIFFERENT
 
 Alternative 3=-
 
-3.sec=YET AGAIN, SOMETHING DIFFERENT
+3.sec=YET AGAIN, SOMETHING DIFFERENT 
+
+
+q=,
+
+PageName=me/mchan/Test.md
+
+Some defined terms=-
+
+=[02/Sec/DT_Consult.01.md]
