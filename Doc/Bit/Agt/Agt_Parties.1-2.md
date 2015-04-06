@@ -4,4 +4,4 @@ Intro.Parties.List={Intro.Parties.List.1-2}
 
 End.Parties.List={End.Parties.List.1-2}
  
-=[Startup/Sec/Agt.md]
+=[Bit/Agt/Agt.md]

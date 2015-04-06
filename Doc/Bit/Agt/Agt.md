@@ -1,6 +1,6 @@
-Intro.=[Startup/Sec/Agt_Intro.md]
+Intro.=[Bit/Agt/Agt_Intro.md]
 
-End.=[Startup/Sec/Agt_End.md]
+End.=[Bit/Agt/Agt_End.md]
 
 Attach.=[Bit/Attach]
   
@@ -22,4 +22,4 @@ Note=To make blank - could be improved:
 
 null=<b></b>
 
-=[Startup/Sec/DT_Base.md]
+=[Bit/Agt/DT_Base.md]

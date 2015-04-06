@@ -6,14 +6,13 @@ Ti=Accord de Confidentialité - Unilateral Etranger
 
 Intro.Agree.Whereas.secs={Motivation.1.sec}<li>{Motivation.2.sec}<li>{Motivation.3.sec}
 
-Motivation.1.sec=Considérant que {P1.le/la} mène des travaux de recherche concernant {Recherche.Sujet.cl} et que {P2.le/la}, spécialisé{P2./e} dans le domaine {P1.Compétence.Domaine.du/de_la}, est intéressé{P2./e} par cette technologie
+Motivation.1.sec=Considérant que {P1.le/la} mène des travaux de recherche concernant {Recherche.Sujet.cl} et que {P2.le/la}, spécialisé{P2./e} dans le domaine {P1.Competence.Domaine.du/de_la}, est intéressé{P2./e} par cette technologie
 
-Motivation.2.sec=Considérant que {P1.le/la} possède des compétences et un savoir-faire dans le domaine {P1.Compétence.Domaine.du/de_la} et que {P2.le/la} souhaite évaluer l’intérêt que présente pour {P2.lui/elle} ce savoir-faire
+Motivation.2.sec=Considérant que {P1.le/la} possède des compétences et un savoir-faire dans le domaine {P1.Competence.Domaine.du/de_la} et que {P2.le/la} souhaite évaluer l’intérêt que présente pour {P2.lui/elle} ce savoir-faire
 
-Motivation.3.sec=Considérant que {P1.le/la} possède des compétences dans le domaine {P1.Compétence.Domaine.du/de_la} et que {P2.Rep1.Nom.M/Mme} {P2.du/de_la} souhaite visiter telle partie {P1.du/de_la} afin d’évaluer l’intérêt que présente pour {P2.le/la} le savoir-faire {P1.du/de_la} sur tels équipements
+Motivation.3.sec=Considérant que {P1.le/la} possède des compétences dans le domaine {P1.Competence.Domaine.du/de_la} et que {P2.Rep1.Nom.M/Mme} {P2.du/de_la} souhaite visiter telle partie {P1.du/de_la} afin d’évaluer l’intérêt que présente pour {P2.le/la} le savoir-faire {P1.du/de_la} sur tels équipements
 
-Intro.Agree.AsFollows.sec=Dans ce cadre, {P1.le/la} souhaite protéger les {Informations_Confidentielles} dont la communication {P2.au/à_la} serait nécessaire.
-
+Intro.Agree.AsFollows.sec=Dans ce cadre, {P1.le/la} souhaite protéger les {Informations_Confidentielles} dont la communication {P2.au/a_la} serait nécessaire.
 
 1.Ti=Définitions
 
@@ -23,9 +22,9 @@ Intro.Agree.AsFollows.sec=Dans ce cadre, {P1.le/la} souhaite protéger les {Infor
 
 1.2.Ti={Informations_Confidentielles}
 
-1.2.sec=cette expression désigne les informations de toute nature, communiquées par tous moyens pendant la durée de l’{Accord} par {P1.le/la} {P2.au/à_la}.
+1.2.sec=cette expression désigne les informations de toute nature, communiquées par tous moyens pendant la durée de l’{Accord} par {P1.le/la} {P2.au/a_la}.
 
-1.=[02/Bit/Sec_02]
+1.=[Bit/Sec_02]
 
 2.Ti=Objet de l’{Accord}
 
@@ -48,7 +47,7 @@ Intro.Agree.AsFollows.sec=Dans ce cadre, {P1.le/la} souhaite protéger les {Infor
 
 3.90.2.Sen={P2.Le/La} s’engage à ce que son personnel visé au 3.b) ci-dessus respecte les dispositions de l’{Accord}.
 
-3.=[02/Bit/Ssec_03]
+3.=[Bit/Ssec_03]
   
 
 4.Ti=Exceptions
@@ -63,7 +62,7 @@ Intro.Agree.AsFollows.sec=Dans ce cadre, {P1.le/la} souhaite protéger les {Infor
 
 4.4.sec=qu’elles ont été développées de manière indépendante et de bonne foi par des membres de son personnel n’ayant pas eu accès à ces {Informations_Confidentielles}.
 
-4.=[02/Bit/Ssec_04]
+4.=[Bit/Ssec_04]
   
 
 5.Ti=Limites de l’{Accord}
@@ -76,7 +75,7 @@ Intro.Agree.AsFollows.sec=Dans ce cadre, {P1.le/la} souhaite protéger les {Infor
 
 5.3.sec=une cession, par {P1.le/la}, d’un quelconque droit sur ces informations au profit {P2.du/de_la}. Le droit de propriété des {Informations_Confidentielles} appartient en tout état de cause {P1.au/à_la} (sous réserve des droits des tiers).
 
-5.=[02/Bit/Ssec_03]
+5.=[Bit/Ssec_03]
 
 6.Ti=Transmission des {Informations_Confidentielles}
 
@@ -94,7 +93,7 @@ Intro.Agree.AsFollows.sec=Dans ce cadre, {P1.le/la} souhaite protéger les {Infor
 
 6.3.sec=Les procédés de transmission sont [à adapter – exemples : lettre simple, lettre recommandée avec accusé de réception, e-mail, etc.]
 
-6.=[02/Bit/Ssec_03]
+6.=[Bit/Ssec_03]
 
 7.Ti=Destruction / Restitution des {Informations_Confidentielles}
 
@@ -122,7 +121,7 @@ A.7.sec=Les {Informations_Confidentielles}, ainsi que leurs reproductions éventu
 
 11.2.sec=Nonobstant l’expiration ou la résiliation dans les conditions prévues à l’article 10 de l’{Accord}, les {Parties} demeurent liées par les engagements souscrits à l’article 3 pendant toute la durée prévue audit article, ainsi que par les articles 7, 8 et 14 de l’{Accord}.
 
-11.=[02/Bit/Ssec_02]
+11.=[Bit/Ssec_02]
 
 12.Ti=Langue de l’{Accord}
 
@@ -140,7 +139,7 @@ Loi.Etat=français
 
 Tribunaux.les=les tribunaux français compétents
 
-=[02/Bit/Sec_14]
+=[Bit/Sec_14]
 
 
 Informations_Confidentielles={d-}Informations Confidentielles{-d}

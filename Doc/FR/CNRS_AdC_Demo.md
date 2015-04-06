@@ -1,10 +1,10 @@
 =[FR/CNRS_AdC_Etranger_Forme.01.md]
 
-P1.=[FR/FR_Prepositions_Masculines.md]
+P1.Nom.=[FR/FR_Prepositions_Voyelle.md]
 
-P2.=[FR/FR_Prepositions_Voyelle.md]
+P1.Nom.=[FR/FR_Prepositions_Masculines.md]
 
-P2.=[FR/FR_Prepositions_Feminines.md]
+P2.Nom.=[FR/FR_Prepositions_Masculines.md]
 
 P1.Sign.=[core/id/andrea_ang]
 
@@ -24,7 +24,13 @@ P2.=[core/id/quake_incorporated]
 
 P1.Handle={d-}Laboratoire{-d}
 
+P1.=[FR/FR_Prepositions_Masculines.md]
+
 P2.Handle={d-}Entreprise{-d}
+
+P2.=[FR/FR_Prepositions_Voyelle.md]
+
+P2.=[FR/FR_Prepositions_Feminines.md]
 
 Accord.Sign.Lieu=Boston, Massachusetts, Etats-unis
 
@@ -34,7 +40,7 @@ Sign.YMD={Accord.Sign.Date}
 
 Recherche.Sujet.cl=la lévitation
 
-P1.Compétence.Domaine.du/de_la=de l'ingénierie aéronautique
+P1.Competence.Domaine.du/de_la=de l'ingénierie aéronautique
 
 P2.Rep1.Nom.M/Mme=M. Samuel Salmon
 
