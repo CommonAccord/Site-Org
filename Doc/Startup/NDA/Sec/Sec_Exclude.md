@@ -8,6 +8,6 @@ secs={CooleyGO}
 
 CooleyGO={Item.WP-BP-Had-Finds-Makes}
 
-Item.=[Startup/Sec/Sec_Exclude_Items.md]
+Item.=[Startup/NDA/Sec/Sec_Exclude_Items.md]
 
 =[Bit/Ssec_05]

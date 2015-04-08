@@ -14,4 +14,4 @@ Law.=[Startup/YC/SAFE/Sec/YC-Safe_Note_Misc_Law.01.md]
 
 Secs={Waive.Sec}<li>{Notice.Sec}<li>{NotStockholder.Sec}<li>{Assign.Sec}<li>{Sever.Sec}<li>{Law.Sec}
 
-=[02/Bit/Sec_06]
+=[Bit/Sec_06]

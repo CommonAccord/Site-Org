@@ -20,6 +20,6 @@ Ti=Engagement
 
 3.Sec={CC.Sec}
 
-CC.=[Startup/Sec/Sec_Engage_CC.md]
+CC.=[Startup/NDA/Sec/Sec_Engage_CC.md]
 
 =[Bit/Sec_03]

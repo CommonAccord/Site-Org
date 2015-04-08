@@ -78,9 +78,9 @@ Standard_Preferred_Stock={d-}Standard Preferred Stock{-d}
 
 Valuation_Cap={d-}Valuation Cap{-d}
 
-=[02/Sec/DT_Base.01.md]
+=[Bit/Agt/DT_Base.md]
 
-dPageName=02/Sec/YC-Safe_Note_DT.01.md
+dPageName=Startup/YC/SAFE/Sec/YC-Safe_Note_DT.01.md
 
 q=,
 

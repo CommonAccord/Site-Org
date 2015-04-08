@@ -8,7 +8,7 @@ Dissolution.=[Startup/YC/SAFE/Sec/YC-Safe_Note_Event_Dissolution.01.md]
 
 Termination.=[Startup/YC/SAFE/Sec/YC-Safe_Note_Event_Termination.01.md]
 
-=[02/Bit/Sec_04]
+=[Bit/Sec_04]
 
 Secs={Equity.Sec}<li>{Liquidity.Sec}<li>{Dissolution.Sec}<li>{Termination.Sec}
 

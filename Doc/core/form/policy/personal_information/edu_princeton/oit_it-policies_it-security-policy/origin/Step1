@@ -54,7 +54,7 @@ University-held information must be protected against unauthorized exposure, tam
 
 The information's sensitivity level must be defined to convey what level of protection is expected to all employees/agents who are authorized to access the information.
 The individuals who should have access to sensitive information must be identified, either by role or by name.
-For purposes of managing information, the University's various types of information must be segregated into logical collections (e.g., medical records, employee benefit data, payroll data, undergraduate student records, graduate student records, personal data regarding alumni, financial records). Each collection must be "managed" by an individual known as an “Information Guardian,” who must:
+For purposes of managing information, the University's various types of information must be segregated into logical collections (e.g., medical records, employee benefit data, payroll data, undergraduate student records, graduate student records, personal data regarding alumni, financial records). Each collection must be "managed" by an individual known as an "Information Guardian,” who must:
 
 Define the collection’s sensitivity level consistent with this policy,
 Convey the collection’s requirements to the managers of departments that will have access to the collection,
@@ -70,27 +70,27 @@ To facilitate the assessment process and ensure that these requirements are expr
 
 The confidentiality requirement for an information collection will be expressed in the following terms:
 
-“Public” information can be freely shared with individuals on or off campus without any further authorization by the appropriate Information Guardian/designee.
-“Internal” information can be freely shared with members of the University community. Sharing such information with individuals outside of the University community requires authorization by the appropriate Information Guardian/designee.
-“Departmental” information can be freely shared with members of the owning department. Sharing such information with individuals outside of the owning department requires authorization by the appropriate Information Guardian/designee.
-“Confidential” information can only be shared on a “need to know” basis with individuals who have been authorized by the appropriate Information Guardian/designee, either by job function or by name.
-“Highly confidential” information can only be shared on a “need to know” basis with a limited number of individuals who have been identified by the appropriate Information Guardian/ designee.
+"Public” information can be freely shared with individuals on or off campus without any further authorization by the appropriate Information Guardian/designee.
+"Internal” information can be freely shared with members of the University community. Sharing such information with individuals outside of the University community requires authorization by the appropriate Information Guardian/designee.
+"Departmental” information can be freely shared with members of the owning department. Sharing such information with individuals outside of the owning department requires authorization by the appropriate Information Guardian/designee.
+"Confidential” information can only be shared on a "need to know” basis with individuals who have been authorized by the appropriate Information Guardian/designee, either by job function or by name.
+"Highly confidential” information can only be shared on a "need to know” basis with a limited number of individuals who have been identified by the appropriate Information Guardian/ designee.
 The integrity/availability requirement for an information collection will be expressed as follows:
 
-Information is “Non-critical” if its unauthorized modification, loss or destruction would cause little more than temporary inconvenience to the user community and support staff, and incur limited recovery costs. Reasonable measures to protect information deemed “non-critical” include storing physical information in locked cabinets and/or office space, using standard access control mechanisms that prevent unauthorized individuals from updating computer-based information, and making regular backup copies.
-Information is “Critical” if its unauthorized modification, loss, or destruction through malicious activity, accident or irresponsible management could potentially cause the University to:
+Information is "Non-critical” if its unauthorized modification, loss or destruction would cause little more than temporary inconvenience to the user community and support staff, and incur limited recovery costs. Reasonable measures to protect information deemed "non-critical” include storing physical information in locked cabinets and/or office space, using standard access control mechanisms that prevent unauthorized individuals from updating computer-based information, and making regular backup copies.
+Information is "Critical” if its unauthorized modification, loss, or destruction through malicious activity, accident or irresponsible management could potentially cause the University to:
 Suffer significant financial loss or damage to its reputation,
 Be out of compliance with legal/regulatory or contractual requirements,
 Adversely impact its clients.
 Additional safeguards for "Critical" information:
-“Critical” information must be verified either visually or against other sources on a regular basis, and
-A business continuity plan to recover “critical” information that has been lost or damaged must be developed, documented, deployed and tested annually.
+"Critical” information must be verified either visually or against other sources on a regular basis, and
+A business continuity plan to recover "critical” information that has been lost or damaged must be developed, documented, deployed and tested annually.
 Personally Identifiable Information (PII)
-Personally Identifiable Information (or “PII,” as used in this Policy) is information that can be used (either alone or in combination with other information) to identify, contact or locate a unique person. Examples include (but are not limited to): name, social security number, address, birth date, telephone number, account numbers, etc.
+Personally Identifiable Information (or "PII,” as used in this Policy) is information that can be used (either alone or in combination with other information) to identify, contact or locate a unique person. Examples include (but are not limited to): name, social security number, address, birth date, telephone number, account numbers, etc.
 
 All Personally Identifiable Information in the possession of Princeton University is considered Confidential unless:
 
-The information is designated as “Directory Information” by the appropriate Information Guardian; or
+The information is designated as "Directory Information” by the appropriate Information Guardian; or
 The Information Guardian has otherwise authorized its disclosure.
 The University requires that the following pieces of PII may not be collected, stored or used except in situations where there is legitimate business need and no reasonable alternative:
 
@@ -105,17 +105,17 @@ Drivers license numbers.
 Managers must ensure that their employees understand the need to safeguard this information, and that adequate procedures are in place to minimize this risk. Access to such information may only be granted to authorized individuals on a need to know basis.
 
 Directory information
-All Personally Identifiable Information in the possession of Princeton University is considered Confidential unless designated as “Directory Information” by the appropriate Information Guardian or otherwise authorized to be disclosed.
+All Personally Identifiable Information in the possession of Princeton University is considered Confidential unless designated as "Directory Information” by the appropriate Information Guardian or otherwise authorized to be disclosed.
 
 Directory information for current and former students
-While the Family Educational Rights and Privacy Act (FERPA) generally prohibits the disclosure of information regarding current and former students that was created or collected during their enrollment (see Appendix B - Potentially Applicable Laws), FERPA does allow for the disclosure of certain “Directory Information” provided that the given student has not expressly objected to such disclosure.
+While the Family Educational Rights and Privacy Act (FERPA) generally prohibits the disclosure of information regarding current and former students that was created or collected during their enrollment (see Appendix B - Potentially Applicable Laws), FERPA does allow for the disclosure of certain "Directory Information” provided that the given student has not expressly objected to such disclosure.
 
 Note: The Registrar maintains the record of students who have objected to such disclosure.
 
-The relevant Information Guardians define the following to be “Directory Information” that may be shared:
+The relevant Information Guardians define the following to be "Directory Information” that may be shared:
 
 Name
-Address (While FERPA permits sharing address information, the Guardians require that it be treated as “Internal” and not disclosed absent compelling reason)
+Address (While FERPA permits sharing address information, the Guardians require that it be treated as "Internal” and not disclosed absent compelling reason)
 Telephone number
 E-mail address
 Photo
@@ -126,13 +126,13 @@ Weight and height of members of athletic teams
 Degrees and awards
 Academic institution attended immediately prior to Princeton University.
 Information about parents or guardians
-The following information about parents/guardians is considered to be “Directory Information”:
+The following information about parents/guardians is considered to be "Directory Information”:
 
 Name
 Address
 Relationship to student.
 Information about faculty and staff
-The following information about current and former staff and faculty is considered to be “Directory Information”:
+The following information about current and former staff and faculty is considered to be "Directory Information”:
 
 Name
 Dates of his or her affiliation with the University
@@ -197,13 +197,13 @@ As summarized below, a number of federal and state laws may also apply to inform
 
 Key Statutes
 The Family Educational Rights and Privacy Act (FERPA)
-This law impacts every office and employee of the University who comes in contact with student records. All University employees are expected to be familiar with the requirements of FERPA and its application to their work. Enacted in 1974, FERPA (also known as the Buckley Amendment) affords students certain rights with respect to the student’s “education records.” As defined by FERPA, the term “education records” encompasses a broad range of materials and information such as disciplinary, financial and academic records created during a given student’s enrollment and maintained by the University, whether in paper form, in databases or other means of storage. In particular, FERPA provides that “education records” and personally identifiable information contained therein may not be disclosed without the written consent of the student. Violations of FERPA may result not only from the unauthorized disclosure of education records but also from the failure to exercise due care in protecting such records against unauthorized access from outsiders. However, even in the absence of express student consent, FERPA permits disclosure of education records to University employees who have a legitimate interest in the student and to outside parties in a variety of circumstances, such as those where public health or safety are at issue.
+This law impacts every office and employee of the University who comes in contact with student records. All University employees are expected to be familiar with the requirements of FERPA and its application to their work. Enacted in 1974, FERPA (also known as the Buckley Amendment) affords students certain rights with respect to the student’s "education records.” As defined by FERPA, the term "education records” encompasses a broad range of materials and information such as disciplinary, financial and academic records created during a given student’s enrollment and maintained by the University, whether in paper form, in databases or other means of storage. In particular, FERPA provides that "education records” and personally identifiable information contained therein may not be disclosed without the written consent of the student. Violations of FERPA may result not only from the unauthorized disclosure of education records but also from the failure to exercise due care in protecting such records against unauthorized access from outsiders. However, even in the absence of express student consent, FERPA permits disclosure of education records to University employees who have a legitimate interest in the student and to outside parties in a variety of circumstances, such as those where public health or safety are at issue.
 
 Health Insurance Portability and Accountability Act (HIPAA)
 Enacted in 1996, HIPAA imposes obligations on health plans, health care clearinghouses, and health care providers to protect health information when electronically transmitted. As a provider of self-insured group health plans, the University is subject to certain HIPAA requirements. Therefore, certain offices must take steps to appropriately manage contracts with business associates, complete training on applicable privacy policies and procedures and/or complete a confidentiality acknowledgement. HIPAA may also apply to certain research activities such as the collection and use of personally identifying health information from patient populations in clinical settings. Further information regarding compliance with HIPAA is available through the University’s Privacy Officer, Director of Risk Management, or from the Office of the General Counsel.
 
-The “Red Flags Rule”
-The University’s loan programs are subject to the Federal Trade Commission’s (FTC) Red Flag Rule, which implements sections 114 and 315 of the Fair and Accurate Credit Transaction Act (FACT) of 2003. Compliance requires that the University take steps to protect the identity of those to whom it extends credit and that it develop and implement an identity theft program for new and existing accounts. Adherence is mandatory for “creditors or financial institutions that provide covered accounts”. In addition, the regulation requires users of consumer reports to develop reasonable policies and procedures to react to a notice of an address discrepancy or a fraud alert. This provision applies when credit or background checks are done on prospective employees or when credit checks are requested for new loan applicants or assessment of delinquent account holders. Further information is available from the University’s Identity Theft Prevention Coordinator.
+The "Red Flags Rule”
+The University’s loan programs are subject to the Federal Trade Commission’s (FTC) Red Flag Rule, which implements sections 114 and 315 of the Fair and Accurate Credit Transaction Act (FACT) of 2003. Compliance requires that the University take steps to protect the identity of those to whom it extends credit and that it develop and implement an identity theft program for new and existing accounts. Adherence is mandatory for "creditors or financial institutions that provide covered accounts”. In addition, the regulation requires users of consumer reports to develop reasonable policies and procedures to react to a notice of an address discrepancy or a fraud alert. This provision applies when credit or background checks are done on prospective employees or when credit checks are requested for new loan applicants or assessment of delinquent account holders. Further information is available from the University’s Identity Theft Prevention Coordinator.
 
 PCI-DSS
 To reduce their losses due to credit card fraud, five members of the payment card industry, Visa, Master Card, American Express, Discover and JCB, banded together to develop security standards for any organization that accepts, captures, stores, transmits and/or processes credit card information either manually or through an automated system. This set of standards is referred to as the Payment Card Industry’s Data Security Standard, or "PCI-DSS." PCI-DSS is enforced through the contracts that Princeton University, as a merchant account holder, has with our merchant bank, i.e., the financial institution that serves as a liaison between Princeton University merchants and the payment card companies. Penalties for non-compliance can include increased credit card transaction fees, a suspension of credit card privileges, and fines in cases where a credit or debit card account is compromised.
@@ -212,16 +212,16 @@ The University Policy for Accepting and Handling Credit and Debit Card Payments 
 
 Other Statutes and Restrictions
 Computer Fraud and Abuse Act (CFAA)
-Enacted in 1984 (and revised in 1994), the CFAA criminalizes unauthorized access to a “protected computer” with the intent to defraud, obtain any information of value or cause damage to the computer. Under the CFAA, a “protected computer” is defined as a computer that is used in interstate or foreign commerce or communication or that is used by or for a financial institution or the government of the United States. For example, the act of “hacking” into a secure web site from an out-of-state computer may violate the CFAA.
+Enacted in 1984 (and revised in 1994), the CFAA criminalizes unauthorized access to a "protected computer” with the intent to defraud, obtain any information of value or cause damage to the computer. Under the CFAA, a "protected computer” is defined as a computer that is used in interstate or foreign commerce or communication or that is used by or for a financial institution or the government of the United States. For example, the act of "hacking” into a secure web site from an out-of-state computer may violate the CFAA.
 
 Electronic Communications Privacy Act (ECPA)
 Enacted in 1986, the ECPA broadly prohibits (and makes criminal) the unauthorized use or interception of the contents or substance of wire, oral or electronic communications. In addition, the ECPA prohibits unauthorized access to or disclosure of electronically stored communications or information. Such prohibitions may apply to University employees who willfully exceed the scope of their duties or authorizations by accessing certain databases housed within the University system. The ECPA does not, however, prohibit the University from monitoring network usage levels and patterns in order to ensure the proper functioning of its information systems.
 
 The Financial Services Modernization Act of 1999 (also known as the Gramm-Leach-Bliley Act (GLBA))
-Enacted in 1999, the GLBA requires financial institutions to carefully protect customers’ financial information. Universities are “financial institutions” by virtue of their loan servicing and therefore must comply with GLBA provisions. The GLBA has two relevant components: (1) “safeguarding” rules and (2) privacy rules. All personally identifiable financial information from students, parents, and employees must be safeguarded against foreseeable risks of disclosure, intrusion and systems failure. The University has designated information security program managers in the business units that handle financial information, identified risks to the security of financial information, and is developing security programs to protect against risks. As the privacy standards of GLBA must be followed for all non-student financial information, the University is developing a privacy policy to comply with GLBA and will make required privacy notifications to non-student customers whose financial information is obtained. More information is available on the Federal Trade Commission website.
+Enacted in 1999, the GLBA requires financial institutions to carefully protect customers’ financial information. Universities are "financial institutions” by virtue of their loan servicing and therefore must comply with GLBA provisions. The GLBA has two relevant components: (1) "safeguarding” rules and (2) privacy rules. All personally identifiable financial information from students, parents, and employees must be safeguarded against foreseeable risks of disclosure, intrusion and systems failure. The University has designated information security program managers in the business units that handle financial information, identified risks to the security of financial information, and is developing security programs to protect against risks. As the privacy standards of GLBA must be followed for all non-student financial information, the University is developing a privacy policy to comply with GLBA and will make required privacy notifications to non-student customers whose financial information is obtained. More information is available on the Federal Trade Commission website.
 
 The HITECH Act
-In February 2009, the American Recovery and Reinvestment Act of 2009 (“ARRA”) was enacted. Title XIII of the ARRA, The Health Information Technology for Economic and Clinical Health Act (“HITECH Act” or the “Act”), imposed new federal security breach notice requirements and added numerous new privacy and data security restrictions for covered entities and their business associates under the Health Insurance Portability and Accountability Act of 1996 (“HIPAA”). Princeton, as a sponsor of self-insured group health plans, has certain offices that are required to comply with HIPAA and therefore must comply with the HITECH Act. The HITECH Act created numerous modifications to the HIPAA Privacy and Security Regulations, such as further restricting permitted disclosures and requiring additional record-keeping for disclosures, as well as requiring changes to agreements with business associates. The Act also creates new federal security breach notice laws that apply to all personal information held by a health plan sponsor such as Princeton. These laws require notice to individuals, government agencies, and, in some cases, the media.
+In February 2009, the American Recovery and Reinvestment Act of 2009 ("ARRA”) was enacted. Title XIII of the ARRA, The Health Information Technology for Economic and Clinical Health Act ("HITECH Act” or the "Act”), imposed new federal security breach notice requirements and added numerous new privacy and data security restrictions for covered entities and their business associates under the Health Insurance Portability and Accountability Act of 1996 ("HIPAA”). Princeton, as a sponsor of self-insured group health plans, has certain offices that are required to comply with HIPAA and therefore must comply with the HITECH Act. The HITECH Act created numerous modifications to the HIPAA Privacy and Security Regulations, such as further restricting permitted disclosures and requiring additional record-keeping for disclosures, as well as requiring changes to agreements with business associates. The Act also creates new federal security breach notice laws that apply to all personal information held by a health plan sponsor such as Princeton. These laws require notice to individuals, government agencies, and, in some cases, the media.
 
 The Technology, Education, and Copyright Harmonization Act (TEACH Act)
 Enacted in 2002, the TEACH Act relaxes certain copyright restrictions so that accredited, non-profit colleges and universities may use multimedia content for instructional purposes in technology-mediated settings. However, the TEACH Act carries a number of security requirements designed to ensure that digitally transmitted content will be accessible only to students who are properly enrolled in a given course.

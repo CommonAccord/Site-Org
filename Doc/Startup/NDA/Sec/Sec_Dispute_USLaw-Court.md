@@ -1,8 +1,8 @@
 Ti=Dispute Resolution
 
-Law.=[Startup/Sec/Sec_Dispute_USLaw.md]
+Law.=[Startup/NDA/Sec/Sec_Dispute_USLaw.md]
 
-Forum.=[Startup/Sec/Sec_Dispute_USCourt.md]
+Forum.=[Startup/NDA/Sec/Sec_Dispute_USCourt.md]
 
 1.Sec={Law.Sec}
 

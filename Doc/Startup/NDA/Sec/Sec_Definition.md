@@ -18,7 +18,7 @@ OneWay.0.By.cl=by {P1.the} (also referred to as the "{Disclosing_Party}") to {P2
 
 2.sec=trade secrets
 
-3.=[Startup/Sec/Sec_Definition_ConfInfoExamples.md]
+3.=[Startup/NDA/Sec/Sec_Definition_ConfInfoExamples.md]
 
 4.sec=information {the_Disclosing_Party} provides regarding third parties
 

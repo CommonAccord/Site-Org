@@ -10,4 +10,4 @@ OwnAccount.Sec={The_Investor} is purchasing this instrument and the securities t
 
 Experienced.Sec={The_Investor} has such knowledge and experience in financial and business matters that {the_Investor} is capable of evaluating the merits and risks of such investment, is able to incur a complete loss of such investment without impairing {the_Investor}'s financial condition and is able to bear the economic risk of such investment for an indefinite period of time. 
 
-=[02/Bit/Sec]
+=[Bit/Sec]

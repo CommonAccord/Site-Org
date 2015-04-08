@@ -6,4 +6,4 @@ sec={1.Sec}  {2.Sec}
 
 2.Sec=If immediately prior to the consummation of the {Dissolution_Event}, the assets of {the_Company} legally available for distribution to {the_Investor} and all holders of all other {Safes} (the "{Dissolving_Investors}"), as determined in good faith by {the_Company}'s board of directors, are insufficient to permit the payment to the {Dissolving_Investors} of their respective {Purchase_Amounts}, then the entire assets of {the_Company} legally available for distribution will be distributed with equal priority and pro rata among the {Dissolving_Investors} in proportion to the {Purchase_Amounts} they would otherwise be entitled to receive pursuant to this {Event.Dissolution.Xref}.
 
-=[02/Bit/Sec]
+=[Bit/Sec]

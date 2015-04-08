@@ -170,7 +170,7 @@ Ti=DEFINITIONS
 
 84.Def="hCentive Agreement" has the meaning set forth in Section 6.1(c).
 
-85 "hCentive Credit" has the meaning set forth in Section 12.3.
+85.Ti"hCentive Credit" has the meaning set forth in Section 12.3.
 
 86.Def="hCentive Software" means the hCentive product identified in the Task Order for New HIX/IES.
 
