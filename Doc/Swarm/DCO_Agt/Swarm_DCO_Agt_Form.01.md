@@ -121,8 +121,10 @@ Delegate.Chosen.Sen=To be chosen by stakeholders within 90 days after sale end a
 
 5.=[Bit/Ssec_02]
 
-6.Sec={SeriesSeed.8.12.Sec}
+From Series Seed=8.12
 
-SeriesSeed.=[02/Sec/SeriesSeed_InvAgt_Text.01.md]
+6.Ti=Dispute Resolution
+
+6.sec=Each party (a) hereby irrevocably and unconditionally submits to the personal jurisdiction of the {Dispute_Resolution_Jurisdiction} for the purpose of any suit, action, or other proceeding arising out of or based upon {this_Agreement}; (b) shall not commence any suit, action or other proceeding arising out of or based upon {this_Agreement} except in the {Dispute_Resolution_Jurisdiction}; and (c) hereby waives, and shall not assert, by way of motion, as a defense, or otherwise, in any such suit, action or proceeding, any claim that it is not subject to the personal jurisdiction of the {Dispute_Resolution_Jurisdiction}, that its property is exempt or immune from attachment or execution, that the suit, action or proceeding is brought in an inconvenient forum, that the venue of the suit, action or proceeding is improper or that {this_Agreement}, or the subject matter hereof and thereof may not be enforced in or by the {Dispute_Resolution_Jurisdiction}.
 
 =[Bit/Sec_06]

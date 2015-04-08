@@ -38,7 +38,7 @@ Note=Also, if additional fees will be required for overages, include details her
 
 6.2.sec=Implementation Fee (one-time) {ImplementationFee.$}
 
-6.=[02/Bit/Ssec_02]
+6.=[Bit/Ssec_02]
 
 Note=OPTIONAL: If you delete this section, remove any reference to “Implementation Services” in the Terms and Conditions
 
@@ -52,20 +52,24 @@ Note=OPTIONAL:  delete this section if you are not offering a pilot
 
 7.3.sec=Pilot Use Fee: {PilotUse.Fee.$}
 
-7.=[02/Bit/Ssec_03]
+7.=[Bit/Ssec_03]
 
-90.=[02/Sec/Frame_End.04.md]
+=[Bit/Agt/Agt.md]
 
-=[02/Bit/Sec_07]
+=[Bit/Sec_07]
 
 DocBody={Doc}
 
 90.Attach.Block=<hr><hr>{TC.Doc}
 
-TC.=[YC/Sales/YC_Sales_TC.01.md]
+TC.=[Startup/YC/Sales/YC_Sales_TC.01.md]
 
-MessageToUser=From YC/Sales/YC_Sales_Form.01.md
+MessageToUser=From {PageName}
+
+PageName=Startup/YC/Sales/YC_Sales_Form.01.md
 
 P1.Handle=Company
 
 P2.Handle=Customer
+
+=[Bit/Agt/DT_Base.md]

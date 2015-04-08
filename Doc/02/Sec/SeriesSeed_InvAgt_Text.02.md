@@ -310,8 +310,6 @@ Note/1.2.2.Sec= is "Additional Closing Period" used again?
 
 8.=[Bit/Sec_12]
 
-Model.Root=hello
-
 =[Bit/Sec_08]
 
 DocBody={Doc}

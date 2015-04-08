@@ -24,7 +24,7 @@ WorkProduct.and=ideas, concepts, processes, discoveries, developments, formulae,
  
 IPRights.and=copyrights, patents, trademarks, trade secrets{q} and other intellectual property rights
 
-MChan=-
+MChan=[about/posse/mchan]
 
 Alt-B.Sen=Furthermore, {P2.the} has the right to use or not use {Work_Product} and to use, reproduce, re-use, alter, modify, edit, or change {Work_Product} as it sees fit and for any purpose.
 

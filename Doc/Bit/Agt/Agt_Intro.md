@@ -2,7 +2,7 @@ Model.Root={Sec}
 
 Sec=<ul type="none" style="padding-left: 0"><li>{Persons.sec}<li>{YMD.sec}</ul>{Agree.sec}
 
-Persons.sec={Parties.Sec}<li>{Friends.Sec}
+Persons.sec={Parties.Sec}
 
 Parties.Sec=<b>{Parties.Ti}</b>{Parties.xlist}
 
@@ -10,7 +10,7 @@ Parties.xlist=<ul type="none"><li>{Parties.List}<li>{Parties.Def.sec}</ul>
 
 Parties.Def.sec=Each a "{party}" and collectively the "{parties}."
 
-Parties.List={Parties.List.1-6}
+Parties.List={Parties.List.1-2}
 
 Parties.List.1-2={P1.sec}<li>{P2.sec}
 

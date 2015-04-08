@@ -2,6 +2,8 @@
 
 entity=legal person
 
+entity.a=a {entity}
+
 For French:
 
 Forme=un {entity}

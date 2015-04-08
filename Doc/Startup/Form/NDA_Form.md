@@ -20,7 +20,7 @@ Misc.=[Startup/Sec/Sec_Misc.md]
 
 =[Startup/Sec/Secs_Back.md]
 
-=[Startup/Sec/Agt_Parties.1-2.md]
+=[Bit/Agt/Agt_Parties.1-2.md]
 
 =[Startup/Sec/DT_NDA.md]
 

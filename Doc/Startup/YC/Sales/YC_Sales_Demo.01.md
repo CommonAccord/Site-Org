@@ -1,4 +1,4 @@
-=[YC/Sales/YC_Sales_Form.01.md]
+=[Startup/YC/Sales/YC_Sales_Form.01.md]
 
 P1.=[core/id/acme_incorporated]
 

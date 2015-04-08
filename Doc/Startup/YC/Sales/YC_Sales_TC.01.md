@@ -26,11 +26,12 @@ Ti=TERMS AND CONDITIONS
 
 1.2.2.B.cl=in accordance with Company’s standard practice
 
-1.=[02/Bit/Ssec_02]
+1.=[Bit/Ssec_02]
 
 2.Ti=Restrictions and Responsibilities
 
 2.1.sec=Customer will not, directly or indirectly: reverse engineer, decompile, disassemble or otherwise attempt to discover the source code, object code or underlying structure, ideas, know-how or algorithms relevant to the Services or any software, documentation or data related to the Services (“Software”); modify, translate, or create derivative works based on the Services or any Software (except to the extent expressly permitted by Company or authorized within the Services); use the Services or any Software for timesharing or service bureau purposes or otherwise for the benefit of a third; or remove any proprietary notices or labels.  With respect to any Software that is distributed or provided to Customer for use on Customer premises or devices, Company hereby grants Customer a non-exclusive, non-transferable, non-sublicensable license to use such Software during the Term only in connection with the Services.
+
 /Note=OPTIONAL: if there is no distributed software, this clause can be deleted. (this means above)
 
 2.2.sec=Further, Customer may not remove or export from the United States or allow the export or re-export of the Services, Software or anything related thereto, or any direct product thereof in violation of any restrictions, laws or regulations of the United States Department of Commerce, the United States Department of Treasury Office of Foreign Assets Control, or any other United States or foreign agency or authority.  As defined in FAR section 2.101, the Software and documentation are “commercial items” and according to DFAR section 252.227 7014(a)(1) and (5) are deemed to be “commercial computer software” and “commercial computer software documentation.”  Consistent with DFAR section 227.7202 and FAR section 12.212, any use modification, reproduction, release, performance, display, or disclosure of such commercial software or commercial software documentation by the U.S. Government will be governed solely by the terms of this Agreement and will be prohibited except to the extent expressly permitted by the terms of this Agreement.
@@ -49,7 +50,7 @@ Note=many larger customers resist these types of indemnity clauses.  The decisio
 
 2.4.sec=Customer shall be responsible for obtaining and maintaining any equipment and ancillary services needed to connect to, access or otherwise use the Services, including, without limitation, modems, hardware, servers, software, operating systems, networking, web servers and the like (collectively, “Equipment”).  Customer shall also be responsible for maintaining the security of the Equipment, Customer account, passwords (including but not limited to administrative and user passwords) and files, and for all uses of Customer account or the Equipment with or without Customer’s knowledge or consent.
 
-2.=[02/Bit/Ssec_04] 
+2.=[Bit/Ssec_04] 
 
 3.Ti=Confidentiality; Proprietary Rights
 
@@ -75,7 +76,7 @@ Note= it is important to determine what data rights are necessary for the compan
 
 3.3.2.Sen=No rights or licenses are granted except as expressly set forth herein.   
 
-3.=[02/Bit/Ssec_03] 
+3.=[Bit/Ssec_03] 
 
 
 4.Ti=Payment of Fees
@@ -85,7 +86,7 @@ Note= it is important to determine what data rights are necessary for the compan
 4.2.sec=Company may choose to bill through an invoice, in which case, full payment for invoices issued in any given month must be received by Company thirty (30) days after the mailing date of the invoice.  Unpaid amounts are subject to a finance charge of 1.5% per month on any outstanding balance, or the maximum permitted by law, whichever is lower, plus all expenses of collection and may result in immediate termination of Service. Customer shall be responsible for all taxes associated with Services other than U.S. taxes based on Company’s net income.  
 
 
-4.=[02/Bit/Ssec_02] 
+4.=[Bit/Ssec_02] 
 
 5.Ti=Term and Termination
 
@@ -102,7 +103,7 @@ Note=Confirm appropriate language for customer  data retrieval upon termination,
 5.2.3.Sen=All sections of this Agreement which by their nature should survive termination will survive termination, including, without limitation, accrued rights to payment, confidentiality obligations, warranty disclaimers, and limitations of liability.
 
 
-5.=[02/Bit/Ssec_02] 
+5.=[Bit/Ssec_02] 
 
 6.Ti=Warranty and Disclaimer
 
@@ -147,7 +148,7 @@ Misc.Press.Sen=The parties shall work together in good faith to issue at least o
 Note=OPTIONAL: there are several variations on these concepts that could be used as a starting point, but start-ups should typically expect resistance from large customers on these points]
 
 
-=[02/Bit/Sec_09] 
+=[Bit/Sec_09] 
  
 EXHIBIT A
 
@@ -176,7 +177,7 @@ Note=OPTIONAL: the language below is an example of a very simple short-form SLA.
 
 SLA.sec=The Services shall be available 99.9%, measured monthly, excluding holidays and weekends and scheduled maintenance.  If Customer requests maintenance during these hours, any uptime or downtime calculation will exclude periods affected by such maintenance.  Further, any downtime resulting from outages of third party connections or utilities or other reasons beyond Company’s control will also be excluded from any such calculation. Customer's sole and exclusive remedy, and Company's entire liability, in connection with Service availability shall be that for each period of downtime lasting longer than {Downtime.Period}, Company will credit Customer 5% of Service fees for each period of 30 or more consecutive minutes of downtime; provided that no more than one such credit will accrue per day.  Downtime shall begin to accrue as soon as Customer (with notice to Company) recognizes that downtime is taking place, and continues until the availability of the Services is restored.  In order to receive downtime credit, Customer must notify Company in writing within 24 hours from the time of downtime, and failure to provide such notice will forfeit the right to receive downtime credit.  Such credits may not be redeemed for cash and shall not be cumulative beyond a total of credits for one (1) week of Service Fees in any one (1) calendar month in any event.  Company will only apply a credit to the month in which the incident occurred.  Company’s blocking of data communications or other Service in accordance with its policies shall not be deemed to be a failure of Company to provide adequate service levels under this Agreement.
 
-SLA.=[02/Bit/Sec_01] 
+SLA.=[Bit/Sec_01] 
 
 EXHIBIT C
 
@@ -190,4 +191,4 @@ Support.2.sec=Customer may initiate a helpdesk ticket during Support Hours by ca
 
 Support.3.sec=Company will use commercially reasonable efforts to respond to all Helpdesk tickets within one (1) business day.
 
-Support.=[02/Bit/Ssec_03]
+Support.=[Bit/Ssec_03]
