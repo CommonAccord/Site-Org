@@ -4,7 +4,7 @@ Note=Made this into a conventionally-formatted agreement - can be remixed to be 
 
 Ti=SAAS SERVICES AGREEMENT
 
-0.sec=This SaaS Services Agreement ("Agreement") is entered into on {Agt.Effective.YMD} (the "Effective Date") between {P1.N,E,A} ("Company"), and {P2.N,E,A} ("Customer").  This Agreement includes and incorporates the {Order Form}, as well as the attached Terms and Conditions and contains, among other things, warranty disclaimers, liability limitations and use limitations.  There shall be no force or effect to any different terms of any related purchase order or similar form even if signed by the parties after the date hereof.
+Intro.Agree.sec=This SaaS Services Agreement ("Agreement") is entered into on {Agt.Effective.YMD} (the "Effective Date") between {P1.N,E,A} ("Company"), and {P2.N,E,A} ("Customer").  This Agreement includes and incorporates the {Order Form}, as well as the attached Terms and Conditions and contains, among other things, warranty disclaimers, liability limitations and use limitations.  There shall be no force or effect to any different terms of any related purchase order or similar form even if signed by the parties after the date hereof.
 
 Order Form=terms below
 
@@ -60,7 +60,7 @@ Note=OPTIONAL:  delete this section if you are not offering a pilot
 
 DocBody={Doc}
 
-90.Attach.Block=<hr><hr>{TC.Doc}
+Attach.Block=<hr><hr>{TC.Doc}
 
 TC.=[Startup/YC/Sales/YC_Sales_TC.01.md]
 

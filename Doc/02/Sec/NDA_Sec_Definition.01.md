@@ -24,6 +24,6 @@ OneWay.0.By.cl=by {P1.the} (also referred to as the "{Disclosing_Party}") to {P2
 
 5.sec=all other information that {the_Receiving_Party} knew, or reasonably should have known, was the {Confidential_Information_of_the_Disclosing_Party}
 
-=[02/Bit/Ssec_05]
+=[Bit/Ssec_05]
 
 secs={secs;and}
