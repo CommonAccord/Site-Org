@@ -20,12 +20,10 @@ Project_Assignments={d-}Project Assignments{-d}
 
 Work_Product={d-}Work Product{-d}
 
-d-=<a href="https://github.com/CommonAccord/Org/blob/master/Doc/{dPageName}"><font color="green">
+d-=<a href="https://github.com/CommonAccord/Org/blob/master/Doc/{PageName}"><font color="green">
 
 -d=</font></a>
 
 m-=<a href="https://github.com/CommonAccord/Org/blob/master/Doc/{mPageName}"><font color="magenta">
 
 -m=</font></a>
-
-dPageName=Startup/Consulting/Sec/DT_Consulting.01.md
