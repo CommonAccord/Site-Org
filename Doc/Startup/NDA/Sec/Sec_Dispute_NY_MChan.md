@@ -35,6 +35,12 @@ ConsentVenue.sec=Each {party} hereby irrevocably waives any objection that such 
 
 ConsentVenue.=[Bit/Sec]
 
-Secs={Law.Sec}<li>{ConsentJuris.Sec}<li>{ConsentService.Sec}<li>{ConsentVenue.Sec}
+JuryWaiver.Ti=Waiver of Jury Trial
+
+JuryWaiver.sec=<span style="text-transform: uppercase">The {parties} hereby unconditionally waive their respective rights to a jury trial of any claim or cause of action based upon or arising directly or indirectly out of (i) {this_Agreement} or (ii) any dealings between them relating to the subject matter of {this_Agreement}.
+
+JuryWaiver.=[Bit/Sec]
+
+Secs={Law.Sec}<li>{ConsentJuris.Sec}<li>{ConsentService.Sec}<li>{ConsentVenue.Sec}<li>{JuryWaiver.Sec}
 
 =[Bit/Sec]

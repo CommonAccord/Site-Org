@@ -10,23 +10,22 @@ Ti=APPOINTMENT; SCOPE OF SERVICES
 
 3.Ti=Precedence of Terms
 
-3.0.Sec=Except as otherwise expressly stated in this Agreement, in the event of a conflict between or among the provisions contained in this Agreement and its related documents, the following order of precedence shall control:
+3.0.sec=Except as otherwise expressly stated in this Agreement, in the event of a conflict between or among the provisions contained in this Agreement and its related documents, the following order of precedence shall control:
 
-3.1.Sec=the Commonwealth Terms;
+3.1.sec=the Commonwealth Terms;
 
-3.2.Sec=the Standard Contract Form;
+3.2.sec=the Standard Contract Form;
 
-3.3.Sec=this MSA;
+3.3.sec=this MSA;
 
-3.4.Sec=Data Management and Confidentiality Agreement;
+3.4.sec=Data Management and Confidentiality Agreement;
 
-3.5.Sec=the Task Orders; and
+3.5.sec=the Task Orders; and
 
-3.6.Sec=the Exhibits (other than the Task Orders and the Data Management and Confidentiality Agreement).
+3.6.sec=the Exhibits (other than the Task Orders and the Data Management and Confidentiality Agreement).
 
-90.Sec=Contractor has signed or will contemporaneously with this Agreement sign the Commonwealth Terms and the Standard Contract Form.
+90.sec=Contractor has signed or will contemporaneously with this Agreement sign the Commonwealth Terms and the Standard Contract Form.
 
+3.=[Bit/Ssec_06]
 
-3.=[01/Agt/Bit/Outline/1-6.Secs]
-
-=[01/Agt/Bit/Outline/1-3.Secs]
+=[Bit/Sec_03]

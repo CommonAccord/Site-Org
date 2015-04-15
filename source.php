@@ -76,7 +76,7 @@ foreach($contents as $n) {
 
 <?php
 echo "<form action=$_SERVER[PHP_SELF] method='post'>
-        <textarea id='textedit' cols=125 rows=30 name='newcontent' style='padding:20px;'>";
+        <textarea id='textedit' cols=125 rows=25 name='newcontent' style='padding:20px;'>";
 echo file_get_contents($path.$dir, FILE_USE_INCLUDE_PATH);
 
 echo '  </textarea><br>
