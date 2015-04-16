@@ -1,0 +1,26 @@
+=[core/class/ID_Entity]
+
+=[core/at/USA/MA/Middlesex/Cambridge/Geo]
+
+Addr.1=Massachusetts Hall
+
+Addr.Zip=02138
+
+Phone=617.495.1000
+
+Name.Full=Harvard University
+
+Addr.Type=official
+
+entity=corporation
+
+OSP=Harvard Office for Sponsored Programs
+
+TLO=Harvard Office of Technology Development
+
+Corp=Harvard Corporation
+
+Contact.=[core/id/harvard_otd]
+
+Notice.=[core/id/harvard_otd]
+Notice.Title=Director

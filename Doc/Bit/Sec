@@ -1,0 +1,147 @@
+Model.Root={DocBody}
+
+DocBody={Sec}
+
+Doc=<font color="grey">{MessageToUser}</font><center><h4>{Heading.Sec}</h4></center><br>{sec} 
+
+Heading.Sec={0.Heading.Sec}
+
+0.Heading.Sec={Ti}
+
+Heading.Sec={Ti}
+
+Sec=<b>{Ti}</b><br>{sec}
+
+sec={0.Sec} {xlist} {90.Sec}
+
+xlist={Olist}
+
+Olist=<{ol}><li>{Secs}</li></ol>
+
+olist=<{ol}><li>{secs}</li></ol>
+
+ol=ol
+
+ol-a=ol type="a"
+
+ol-A=ol type="A"
+
+ol-I=ol type="I"
+
+ol-i=ol type="i"
+
+
+Alist=<ol type="a"><li>{Secs}</li></ol>
+
+alist=<ol type="a"><li>{secs}</li></ol>
+
+Ilist=<ol type="i"><li>{Secs}</li></ol>
+
+ilist=<ol type="i"><li>{secs}</li></ol>
+
+Ulist=<ul><li>{Secs}</li></ul>
+
+ulist=<ul><li>{secs}</li></ul>
+
+Nlist=<ul type="none"><li>{Secs}</li></ul>
+
+nlist=<ul type="none"><li>{secs}</li></ul>
+
+/blist = for "break list" e.g. < br>
+ 
+Blist=<ul type="none" style="padding-left: 0"><li>{Secs}</ul>
+
+blist=<ul type="none" style="padding-left: 0"><li>{secs}</ul>
+
+/Note=backwards compatibility - please use 0.sec in future
+0.Sec={0.sec}
+
+0.sec=<b></b>
+
+90.Sec={90.sec}
+
+90.sec=<b></b>
+
+Doc.4.Xref={d-}Section 4{-d}
+
+Doc.5.Xref={d-}Section 5{-d}
+
+1.=[Bit/SubSec]
+
+2.=[Bit/SubSec]
+
+3.=[Bit/SubSec]
+
+4.=[Bit/SubSec]
+
+5.=[Bit/SubSec]
+
+6.=[Bit/SubSec]
+
+7.=[Bit/SubSec]
+
+8.=[Bit/SubSec]
+
+9.=[Bit/SubSec]
+
+10.=[Bit/SubSec]
+
+11.=[Bit/SubSec]
+
+12.=[Bit/SubSec]
+
+13.=[Bit/SubSec]
+
+14.=[Bit/SubSec]
+
+15.=[Bit/SubSec]
+
+16.=[Bit/SubSec]
+
+17.=[Bit/SubSec]
+
+18.=[Bit/SubSec]
+
+19.=[Bit/SubSec]
+
+20.=[Bit/SubSec]
+
+21.=[Bit/SubSec]
+
+22.=[Bit/SubSec]
+
+23.=[Bit/SubSec]
+
+24.=[Bit/SubSec]
+
+25.=[Bit/SubSec]
+
+26.=[Bit/SubSec]
+
+27.=[Bit/SubSec]
+
+28.=[Bit/SubSec]
+
+29.=[Bit/SubSec]
+
+30.=[Bit/SubSec]
+
+31.=[Bit/SubSec]
+
+32.=[Bit/SubSec]
+
+33.=[Bit/SubSec]
+
+34.=[Bit/SubSec]
+
+35.=[Bit/SubSec]
+
+36.=[Bit/SubSec]
+
+37.=[Bit/SubSec]
+
+38.=[Bit/SubSec]
+
+39.=[Bit/SubSec]
+
+40.=[Bit/SubSec]

@@ -1,0 +1,16 @@
+Stub for legal requirements
+
+Source.1=<a href="http://business.ftc.gov/documents/0493-Complying-with-COPPA-Frequently-Asked-Questions">business.ftc.gov ..</a>
+
+Text.1=Operators covered by the Rule must:</p><blockquote><ol class="rteindent1"><li>{Text.1.1}</li><li>{Text.1.2}</li><li>Give parents the choice of consenting to the operator&rsquo;s collection and internal use of a child&rsquo;s information, but prohibiting the operator from disclosing that information to third parties (unless disclosure is integral to the site or service, in which case, this must be made clear to parents);</li><li>Provide parents access to their child&#39;s personal information to review and/or have the information deleted;</li><li>Give parents the opportunity to prevent further use or online collection of a child&#39;s personal information;</li><li>Maintain the confidentiality, security, and integrity of information they collect from children, including by taking reasonable steps to release such information only to parties capable of maintaining its confidentiality and security; and</li><li>Retain personal information collected online from a child for only as long as is necessary to fulfill the purpose for which it was collected and delete the&nbsp; information using reasonable measures to protect against its unauthorized access or use.<br />&nbsp;</li></ol>
+
+
+Text.1.1=Post a clear and comprehensive online privacy policy describing their information practices for personal information collected online from children;
+
+Text.1.2=Provide direct notice to parents and obtain verifiable parental consent, with limited exceptions, before collecting personal information online from children;
+
+Inform.Post.Policy={Text.1.1}
+
+Inform.NoticeToParent={Text.1.2}
+
+Obtain.Consent.Parent={Text.1.2}

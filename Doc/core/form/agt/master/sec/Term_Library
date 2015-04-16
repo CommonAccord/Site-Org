@@ -1,0 +1,5 @@
+Model.Root={_Sec}
+
+_Sec=<u>Term</u>.  The term of this Agreement ("{Term}") shall begin on the "{Effective Date}" and end on {Term.End.YMD} ("{Expiration Date}"), unless sooner terminated as provided in Section {Expire.Xnum}.  If signed after the {Effective Date}, this Agreement shall be deemed retroactive to the {Effective Date}.  The parties further agree that if any {PO} or {SOW} is in effect at the time of the expiration of this Agreement, then as it applies to such {PO} or {SOW} only, the {Term} of this Agreement will be extended until the expiration or termination of such {PO} or {SOW}.
+
+  

@@ -1,0 +1,14 @@
+=[core/class/Geo_FR]
+
+US.=[core/class/Geo_USA]
+
+Adr.FR=FR
+
+Adr.Nation=France
+
+Addr.UK=FR
+
+Addr.Nation=France
+
+Model.Root={Geo.?}<br><br>{US.Geo.?}<br><br>
+			

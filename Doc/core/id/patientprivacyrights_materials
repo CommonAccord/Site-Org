@@ -1,0 +1,30 @@
+Model.Root={app.tou.Model.Root}<hr>{app.privacypolicy.Model.Root}
+
+app.tou.We.=[core/id/agate_health_systems]
+
+app.tou.=[core/form/agt/web/tou/form_1]
+
+P1.Name.Full={Me.Name.Full}
+
+app.privacypolicy.P2.=[core/id/agate_health_systems]
+
+app.privacypolicy.=[core/form/policy/health/privacy/NYP_Patient_Brochure]
+
+app.privacypolicy.10=This policy applies to all operations by {app.privacypolicy.P2.Name.Full}.
+
+
+app.tou.Copyright._Sec=_deleted_by_ppr_
+
+app.tou.UserContent._Sec=_deleted_by_ppr_
+
+app.tou.TakeDown._Sec=_deleted_by_ppr_
+
+app.tou.3PartyContent._Sec=_deleted_by_ppr_
+
+app.tou.Arbitration._Sec=_deleted_by_ppr_
+
+Dispute.Laws.State.of={Me.Addr.State}
+
+Dispute.Forum._cl=in a the patient's home jurisdiction
+
+    

@@ -1,0 +1,17 @@
+=[core/class/ID_Entity_Agency]
+
+=[core/at/USA/TX/Dallas/Dallas/Geo]
+
+Name.Full=Texas Health Presbyterian Hospital Dallas
+
+Addr.1=8200 Walnut Hill Lane 
+
+Phone=214-345-6789
+
+Addr.Zip=75231
+
+Domain.Com=texashealth.org
+
+CEO.=[core/id/barclay_c_berdan]
+
+                

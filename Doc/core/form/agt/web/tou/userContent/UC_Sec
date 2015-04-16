@@ -1,0 +1,34 @@
+Model.Root={_Sec}
+
+_Sec=<u>User Content</u><ol><li>{Has._Sec}</li><li>{Banned._Sec}</li><li>{NotMonitored._Sec}</li><li>{TakeDown._Sec}</li><li>{License._Sec}</li><li>{Rep._Sec}</li></ol>
+
+Banned._Sec=By using the Site, you agree not to post, upload to, transmit, distribute, store, create or otherwise publish or send through the Site any of the following:{Banned._Lost}
+
+Banned._Lost=<ol><li>{Banned.Uncouth._cl}</li><li>{Banned.Unlawful._cl}</li><li>{Banned.Impinge._cl}</li><li>{Banned.Infringe._cl}</li><li>{Banned.Masks._cl}</li><li>{Banned.Virus._cl}</li><li>{Banned.Unwanted._cl}</li></ol>
+
+
+Has._Sec=The Site includes interactive areas or services ("Interactive Areas&rdquo;) in which you or other users may create, post, send or store ads, messages, materials, data, information, text, music, sound, photos, video, graphics, applications, code, links or other items or content on the Site ("User Content&rdquo;).
+
+Has._Sec=The Site includes interactive areas or services ("Interactive Areas&rdquo;) in which you or other users may create, post, send or store ads, messages, materials, data, information, text, music, sound, photos, video, graphics, applications, code, links or other items or content on the Site ("User Content&rdquo;).
+
+Banned.Uncouth._cl=User Content that is unlawful, libelous, defamatory, obscene, pornographic, indecent, lewd, suggestive, harassing, threatening, abusive, inflammatory, fraudulent, false, misleading or otherwise objectionable;
+
+Banned.Unlawful._cl=User Content that would constitute, encourage or provide instructions for a criminal offense, violate the rights of any party or that would otherwise create liability or violate any local, state, national or international law;
+
+Banned.Impinge._cl=User Content that may impinge upon the publicity, privacy or data protection rights of others, including pictures or information about another individual where you have not obtained such individual&rsquo;s consent;
+
+Banned.Infringe._cl=User Content that may infringe any patent, trademark, trade secret, copyright or other intellectual or proprietary right of any party.&nbsp; By posting any User Content, you represent and warrant that you have the lawful right to distribute and reproduce such User Content;
+
+Banned.Masks._cl=User Content that impersonates any person or entity or otherwise misrepresents your affiliation with a person or entity;
+
+Banned.Virus._cl=Viruses, corrupted data or other harmful, disruptive or destructive files; or
+
+Banned.Unwanted._cl=User Content that, in the sole judgment of {We.Handle}, is objectionable or which restricts or inhibits any other person from using or enjoying the Interactive Areas, the Site, or which may expose {We.Handle} or its users to any harm or liability of any type.
+
+NotMonitored._Sec={We.Handle} does not control, take responsibility for or assume liability for any User Content posted, stored or uploaded by you or any third party, or for any loss or damage thereto, nor is {We.Handle} liable for any user conduct or any mistakes, defamation, slander, libel, omissions, falsehoods, obscenity, pornography or profanity you may encounter.&nbsp; When you participate in Interactive Areas, you understand that certain information and content you choose to post may be displayed publicly or to select users.&nbsp; You are solely responsible for your use of the Site and the Interactive Areas and use them at your own risk.
+
+TakeDown._Sec=If you become aware of User Content that you believe violates these Terms, you may report it by emailing {We.takedown@we.com}.&nbsp; Enforcement of the Terms, however, is solely in our discretion and the absence of enforcement of these Terms in some instances does not constitute a waiver of our right to enforce the Terms in other instances.&nbsp; In addition, these Terms do not create any private right of action on the part of any third party or any reasonable expectation or promise that the Site will not contain any content that is prohibited by the Terms.&nbsp; Although {We.Handle} has no obligation to screen, edit or monitor any of the User Content posted on the Site, {We.Handle} reserves the right, and has absolute discretion, to remove, screen or edit any User Content posted or stored on the Site at any time and for any reason without notice, and you are solely responsible for creating backup copies and replacing any User Content you post or store on the Site at your sole cost and expense.&nbsp; Any use of the Site in violation of these Terms may result in, among other things, termination or suspension of your rights to use the Interactive Areas and/or the Site.
+
+License._Sec=Except as otherwise provided herein, on the Site or in a separate agreement (such as the rules of an {We.Handle} contest), {We.Handle} claims no ownership or control over any User Content.&nbsp; However, if you post User Content to the Site, you grant {We.Handle} a nonexclusive, royalty-free, perpetual, irrevocable and fully sublicensable right to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, perform and display such User Content on our websites and on third-party sites.&nbsp; This license will terminate when you remove your User Content, except that the license will continue with respect to any offsite uses that have already been made and any cached or archived uses that may still exist when User Content is removed.&nbsp; By posting User Content, you hereby release {We.Handle} and its agents and employees from any claims that such use, as authorized above, violates any of your rights and you understand that you will not be entitled to any additional compensation for any use of your User Content.
+
+Rep._Sec=By posting User Content to the Site, you represent and warrant that: (a) such User Content is non-confidential; (b) you own and control all of the rights to the User Content or you otherwise have the right to post and use such User Content and to grant the rights to {We.Handle} that you grant in these Terms; (c) the User Content is accurate and not misleading or harmful in any manner; and (d) the User Content, and your use and posting thereof in connection with this Site, does not, and will not, violate these Terms or any applicable law, rule or regulation.

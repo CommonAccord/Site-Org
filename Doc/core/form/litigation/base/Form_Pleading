@@ -1,0 +1,22 @@
+
+Model.Root={Plead.Doc.Body}
+
+Plead.Doc.Body={Plead.Head}<br><br>{Plead.Text}<br><br>{Plead.Sign}<br><hr>{Plead.Attachment}
+
+Plead.Head={Plead.Proponent}<br><br><center><span style="text-transform: uppercase;">{Case.Forum.Name.Full}</span></center><br><table frame="below"><tr><td width="500">{Case.Caption.P/v/D}</td><td width="500"><br>Case No. {Case.#}<br>{Plead.Title}</td></tr></table>
+
+Plead.Proponent.Plaintiff={P1.Firm.Team}<br>{P1.Firm.N/Addr/Tel/Fax}<br>Attorneys for Plaintiff<br><span style="text-transform: uppercase;">{P1.Name.Full}</span> 
+
+Plead.Proponent.Defendant={D1.Firm.Team}<br>{D1.Firm.N/Addr/Tel/Fax}<br>Attorneys for Defendant<br><span style="text-transform: uppercase;">{D1.Name.Full}</span> 
+
+Case.Caption={P1.Name.Full} v. {D1.Name.Full}
+Case.Caption.P/v/D={P1.Name,Entity}<br> <center>Plaintiff</center><br>v. <br><br>{D1.Name,Entity}<br><center>Defendant</center>
+
+Plead.Sign=<table><tr><td width="500">Dated: {Plead.Date}</td><td width="500">{Plead.Sign.Block}</td></tr></table>
+
+Plead.Sign.Block.D1.Atty.1={D1.Name.Full}<br><br>By: <br>{D1.Atty.1.Name.Full}<br>Attorneys for Defendant<br>{D1.Name.Full}
+
+Plead.Sign.Block.P1.Atty.1={P1.Name.Full}<br><br>By: <br>{P1.Atty.1.Name.Full}<br>Attorneys for Plaintiff<br>{P1.Name.Full}
+
+
+Case.Name={P1.Name.Full} v. {D1.Name.Full}

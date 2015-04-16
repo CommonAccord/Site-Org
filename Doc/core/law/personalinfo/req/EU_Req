@@ -1,0 +1,8 @@
+
+Stub for legal requirements
+
+=[core/law/personalinfo/req/Req_Class]
+
+Convention.=[core/law/personalinfo/req/EU_Council_Convention_1981-01-28]
+  
+Requires=Required under the Convention: {Convention.Requires}

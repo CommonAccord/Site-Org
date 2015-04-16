@@ -1,0 +1,9 @@
+P1.Handle=Company
+P2.Handle=Member
+P3.Handle=Selling Entities
+P4.Handle=Company Shareholder
+P5.Handle=Principal Customer
+P6.List=urologist, anesthesiologist, radiologic technologist, medical technician or other medical professional
+
+Compete.Ban.Carveout=(i) from engaging in the practice of urology as a physician in a medical practice or hospital strictly on a fee for service or salary basis, (ii) from performing services for any entity or enterprise that provides {P1.BusinessField}, or other services competitive with the Company or its subsidiaries, on the condition that the services performed by {P2.Handle} are wholly unrelated to the {P1.BusinessField} or other competitive services provided by such entity or enterprise, or (iii) from owning the interests, or holding the positions or maintaining the associations specifically disclosed on Schedule A hereto
+

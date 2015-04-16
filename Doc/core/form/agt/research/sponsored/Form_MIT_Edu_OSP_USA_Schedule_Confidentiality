@@ -1,0 +1,43 @@
+Body=<center><b>{Heading}</b></center><br><br>{_Text}
+
+_Text={Prologue} {_Secs}
+
+Heading=Attachment {Attach.Conf}: Sponsor Confidential Information
+
+Prologue=If, in the performance of the Research, the Principal Investigator and members of the {P1.Handle} research team designated by him/her require and accept access offered by the Sponsor to certain information that the Sponsor considers confidential, the rights and obligations of the Parties with respect to such information are as follows:
+
+_Secs=<ol><li>{ConfInfo._Sec}</li><li>{Use._Sec}</li><li>{Care._Sec}</li><li>{EngageDuration._Sec}</li><li>{ExceptMandatory._Sec}</li><li>{Destroy._Sec}</li></ol>
+
+ConfInfo._Sec=<u>Confidential Information</u>.<ol><li>{Means._Sec}</li><li>{Except._Sec}</li></ol>
+
+Means._Sec=When used in this Agreement, "Confidential Information&rdquo; means confidential and proprietary information of any kind which is disclosed by the Sponsor to {P1.Handle} that:  {Convey._List}
+
+Convey._List=<ol><li>{Convey.Marked._cl}; or</li><li>{Convey.SayAndConfirm._cl}.</li></ol>
+
+Convey.Marked._cl=prior to disclosure, is marked with a legend indicating its confidential status
+
+Convey.SayAndConfirm._cl=is disclosed orally or visually, if the Sponsor identifies such information as confidential at the time of disclosure and, within 30 days of such disclosure, delivers to the Principal Investigator a notice summarizing the confidential information disclosed
+
+Except._Sec=Notwithstanding the foregoing, in no event is information Confidential Information if it:{Except._List}
+
+Except._List=<ol><li>{Except.Has._cl};</li><li>{Except.Public._cl};</li><li>{Except.Finds._cl}; or</li><li>{Except.Makes._cl}.</li></ol>
+
+Except.Has._cl=was in {P1.Handle}&rsquo;s possession before receipt from the Sponsor
+
+Except.Public._cl=is or becomes a matter of public knowledge through no fault of {P1.Handle}
+
+Except.Finds._cl=is received by {P1.Handle} from a third party having an apparent <i>bona fide</i> right to disclose the information without a duty of confidentiality to the Sponsor
+
+Except.Makes._cl=is independently developed by {P1.Handle} without use of the Confidential Information
+
+Use._Sec=<u>Limitations on Use</u>.<br>{P1.Handle} shall use the Confidential Information solely for the purposes of the Research. Disclosure by the Sponsor of the Confidential Information does not constitute a grant to {P1.Handle} of any right or license to the Confidential Information except as set forth herein or in a duly executed license agreement.
+
+Care._Sec=<u>Care of Confidential Information</u>.<br>{P1.Handle} shall exert reasonable efforts to maintain the Confidential Information in confidence, except that {P1.Handle} may disclose or permit disclosure of any of the Confidential Information to its directors (members of the {P1.Corp}), officers, employees, consultants, advisors, students, subcontractors and agents, who need to know such Confidential Information in the performance of the Research and who have been advised of and have agreed to maintain the confidential nature of the Confidential Information.  {P1.Handle} shall be deemed to have discharged its obligations hereunder provided {P1.Handle} has exercised the foregoing degree of care and provided further that {P1.Handle} shall immediately, upon discovery of any disclosure not authorized hereunder, notify the Sponsor and take reasonable steps to prevent any further unauthorized disclosure or unauthorized use.
+
+EngageDuration._Sec=<u>Term of Confidentiality</u>.<br>{P1.Handle}&rsquo;s obligations of confidentiality with respect to use and non-disclosure of Confidential Information provided under this Agreement shall survive for a period of {Duration.Period}.
+
+Duration.Period=three (3) years following receipt of the information
+
+ExceptMandatory._Sec=<u>Required Disclosures</u>.<br>Nothing in this Agreement shall be construed to prevent {P1.Handle} from disclosing Confidential Information as required by law or legal process, as long as {P1.Handle}, if permitted by applicable law, promptly notifies the Sponsor of its obligation to disclose and provides reasonable cooperation to the Sponsor in any efforts to contest or limit the scope of the disclosure.
+
+Destroy._Sec=<u>Return or Destruction of Confidential Information</u>.<br>When the Confidential Information is no longer required for the purposes of this Agreement, {P1.Handle} shall, at the direction of the Sponsor, either destroy or return to the Sponsor all Confidential Information and shall destroy any electronic or digital manifestations of the Confidential Information, except that {P1.Handle} may retain one copy of the Confidential Information solely for the purposes of monitoring its obligations under this Agreement.

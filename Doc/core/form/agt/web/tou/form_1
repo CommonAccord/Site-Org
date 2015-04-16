@@ -1,0 +1,216 @@
+Model.Root={Doc.Body}
+
+UserContent.=[core/form/agt/web/tou/userContent/UC_Sec]
+
+Arbitration.=[core/form/agt/web/tou/arbitration/Arb_Sec]
+
+Doc.Body={Prologue}{AGT.Secs._Lost}
+
+Prologue={Prologue.Warning}<br><br>{Prologue.Scope}<br><br>{Prologue.WeMayModify}
+
+AGT.Secs._Lost=<ol><li>{Eligibility._Sec}</li><li>{Register._Sec}</li><li>{Privacy._Sec}</li><li>{YourRisk._Sec}</li><li>{Copyright._Sec}</li><li>{UserContent._Sec}</li><li>{Reoffend._Sec}</li><li>{TakeDown._Sec}</li><li>{Trademark._Sec}</li><li>{LinkLicense._Sec}</li><li>{3PartyContent._Sec}</li><li>{Feedback._Sec}</li><li>{ModifySite._Sec}</li><li>{Blocking._Sec}</li><li>{Liability-Misc._Sec}</li><li>{Contact._Sec}</li></ol>
+
+Eligibility._Sec=<u>Eligibility</u>.&#8194; By accessing or using the Site, you represent and warrant that: {Ineligibility._Lost}
+
+Ineligibility._Lost=<ol><li>{Ineligible.Offender._cl};</li><li>{Ineligible.Embargoed._cl};</li><li>{Ineligible.SDN._cl};</li><li>{Ineligible.DeniedPerson._cl}; and</li><li>{Ineligible.YourLaw._cl}.</li></ol>
+
+Register._Sec=<u>Registration and Account</u>.&#8194;  In order to access and use certain features on the Site, you must create an account with {We.Handle} ("Account").&#8194; You agree to: {Register._Lost}
+
+Register._Lost=<ol><li>{Register.Truthful._cl};</li><li>{Register.Current._cl};</li><li>{Register.Secure._cl};</li><li>{Register.Notify._cl}; and</li><li>{Register.BearRisk._cl}.</li></ol>
+
+YourRisk._Sec=<u>Assumption of Risk with {We.System}</u>.&#8194;  <ol><li>{FOSS.Founder._Sec}</li><li>{FOSS.Contributor._Sec}</li><li>{FOSS.Independence._Sec}</li><li>{YourRisk.Prudence._Sec}</li><li>{YourRisk.Admit._Sec}</li><li>{YourRisk.YouControl._Sec}</li><li>{YourRisk.WeDisclaim._Sec}</li></ol>
+
+YourRisk.Admit._Sec=You acknowledge and agree that {We.Handle}: {YourRisk.Admit._Lost}
+
+YourRisk.Admit._Lost=<ol><li>{YourRisk.Admit.WeDontOwn._cl};</li><li>{YourRisk.Admit.WeDontControlTransactions._cl};</li><li>{YourRisk.Admit.WeAreNotPartyTo._cl}; and</li><li>{YourRisk.Admit.WeDontPolice._cl}.</li></ol>
+
+YourRisk.YouControl._Lost=<ol><li>{YourRisk.YouControl.Payment._cl}</li><li>{YourRisk.YouControl.Counterparties._cl}</li><li>{YourRisk.YouControl.Interactions._cl}</li><li>{YourRisk.YouControl.Gateways._cl}</li></ol>
+
+Copyright._Sec=<u>Copyright and Limited License</u>.&#8194;  <ol><li>{Copyright.WeOwn._Sec}</li><li>{Copyright.YourLicense._Sec}</li></ol>
+
+TakeDown._Sec=<u>Copyright Complaints</u>.&#8194;  <ol><li>{TakeDown.To._Sec}</li><li>{TakeDown.Form._Sec}</li><li>{TakeDown.False._Sec}</li></ol>
+
+Trademark._Sec=<u>Trademarks</u>.&#8194; <ol><li>{Trademark.WeOwn._Sec}</li><li>{Trademark.Hidden._Sec}</li><li>{Trademark.LookFeel._Sec}</li><li>{Trademark.3Party._Sec}</li></ol>
+
+LinkLicense._Sec=<u>Hyperlinks</u>.&#8194;  <ol><li>{LinkLicense.Grant._Sec}</li><li>{LinkLicense.Revoke._Sec}</li><li>{LinkLicense.Frame._Sec}</li><li>{LinkLicense.Implied._Sec}</li></ol>
+
+3PartyContent._Sec=<u>Third Party Content</u>.&#8194;  <ol><li>{3PartyContent.Host._Sec}</li><li>{3PartyContent.AsIs._Sec}</li><li>{3PartyContent.NoRep._Sec}</li><li>{3PartyContent.NoPrivity._Sec}</li></ol>
+
+Feedback._Sec=<u>Feedback</u>.&#8194;  <ol><li>{Feedback.YouGive._Sec}</li><li>{Feedback.WeOwn._Sec}</li></ol>
+Liability-Misc._Sec=<u>Liability; Miscellaneous</u><ol><li>{Indemnify._Sec}</li><li>{Disclaim._Sec}</li><li>{LimitLiab._Sec}</li><li>{Law._Sec}</li><li>{Dispute._Sec}</li><li>{Misc.Survive._Sec}</li><li>{Misc.Sever._Sec}</li></ol>
+
+Indemnify._Sec=<u>Indemnification</u>.&#8194; <ol><li>{Indemnify.YouWill._Sec}</li><li>{Indemnify.Limits._Sec}</li><li>{Indemnify.Control._Sec}</li></ol>
+
+Disclaim._Sec=<u>Disclaimer of Warranties</u>.&#8194; <ol style="text-transform: uppercase;"><li>{Disclaim.Uninterrupted._Sec}</li><li>{Disclaim.AsIs._Sec}</li><li>{Disclaim.Accuracy._Sec}</li><li>{Disclaim.Changes._Sec}</li><li>{Disclaim.Endorsement._Sec}</li><li>{Disclaim.MayNotApply._Sec}</li></ol>
+
+LimitLiab._Sec=<u>Limitation of Liability</u><ol style="text-transform: uppercase;"><li>{LimitLiab.Damages._Sec}</li><li>{LimitLiab.Aggregate._Sec}</li><li>{LimitLiab.MayNotApply._Sec}</li></ol>
+
+Dispute._Sec={Arbitration._Sec}
+
+<b>Introduction</b>=-
+
+Prologue.Warning=PLEASE READ THESE TERMS OF USE CAREFULLY.&#8194; BY ACCESSING OR USING THE SITE, YOU AGREE TO BE BOUND BY THE TERMS DESCRIBED HEREIN AND ALL TERMS INCORPORATED BY REFERENCE.&#8194; IF YOU DO NOT AGREE TO THESE TERMS, DO NOT USE THE SITE.
+
+Prologue.Scope={Prologue.Scope.Site._Sen} {Prologue.Scope.NotSystem._Sen} {Prologue.Scope.OtherAGTs._Sen}
+
+Prologue.Scope.Site._Sen=These Terms of Use ("Terms") apply to your access to, and use of, the websites of {We.Handle} and its subsidiaries and affiliated companies ("{We.Handle}," "we" or "us"), including {We.Domain.Com} (collectively, the "Site").
+
+Prologue.Scope.NotSystem._Sen=These Terms do not apply to the {We.App} or the {We.Network} accessed through that software (collectively, "{We.System}"), which may be accessed via our Site.&#8194; As further described in Section 4 (Assumption of Risk with {We.System}), {We.Handle} does not own or control {We.System} and you are solely responsible for your use of {We.System}.
+
+Prologue.Scope.OtherAGTs._Sen=Additionally, these Terms do not alter the terms or conditions of any other agreement you may have with {We.Handle} for products, services or otherwise.
+
+Prologue.WeMayModify={We.Handle} reserves the right to change or modify the terms and conditions contained in these Terms or any policy or guideline of the Site, at any time and in its sole discretion.&#8194; We will provide notice of these changes by posting the revised Terms to the Site and changing the "Last Revised" date at the top of the Terms, or by providing other means of notice as {We.Handle} will determine each time in its sole discretion.&#8194; Using a particular form of notice in some instances does not obligate us to use the same form in other instances.&#8194; Any changes or modifications will be effective immediately upon posting the revisions to the Site, and will apply to your subsequent use of the Site.&#8194; You waive any right you may have to receive specific notice of such changes or modifications.&#8194; Your continued use of this Site will confirm your acceptance of such changes or modifications; therefore, you should review the Terms and applicable policies whenever you use the Site to understand the terms that apply to such use.&#8194; The most current version of the Terms can be reviewed by clicking on the "Terms of Use" hypertext link located at the bottom of our web pages.&#8194; If you do not agree to the Terms in effect when you access or use the Site, you must stop using the Site.
+
+<b>Provisions</b>=-
+
+Eligibility._Sec=<u>Eligibility</u>.&#8194; By accessing or using the Site, you represent and warrant that: {Ineligibility._Lost}
+
+Ineligible.Offender._cl=you have not previously been suspended or removed from the Site
+
+Ineligible.Embargoed._cl=you are not located in, under the control of, or a national or resident of any country to which the United States has embargoed goods or services
+
+Ineligible.SDN._cl=you are not  identified as a "Specially Designated National"
+
+Ineligible.DeniedPerson._cl=you are not placed on the Commerce Department's Denied Persons List
+
+Ineligible.YourLaw._cl=you will not use the Site if the laws of your country prohibit you from doing so in accordance with these Terms
+
+<b>Section 2</b>=-
+
+Register.Truthful._cl=provide accurate, current and complete information when creating or updating an Account
+
+Register.Current._cl=maintain and promptly update your Account information
+
+Register.Secure._cl=maintain the security and confidentiality of your login credentials and restrict access to your Account and your computer
+
+Register.Notify._cl=promptly notify {We.Handle} if you discover or otherwise suspect any security breaches related to the Site
+
+Register.BearRisk._cl=take responsibility for all activities that occur under your Account and accept all risks of unauthorized access
+
+<b>Section 3</b>=-
+
+Privacy._Sec=<u>Privacy Policy</u><br>Please refer to our Privacy Policy for information about how {We.Handle} collects, uses and discloses information about its users.
+
+FOSS.Founder._Sec={We.Handle} developed the original protocol for {We.System}, and continues to promote its use as a distributed open source payment network.
+
+FOSS.Contributor._Sec=Additionally, as a member of the open source community, {We.Handle} may contribute updates and modifications to the {We.System} source code.
+
+FOSS.Independence._Sec=However, {We.Handle} does not own or control {We.System}.&#8194; {We.System} is an open source protocol that anyone can use, copy, modify and distribute.
+
+YourRisk.Prudence._Sec=We encourage you to take precautions when considering whether to use {We.System}, particularly when participating in any {We.System} transaction with a stranger.
+
+YourRisk.Admit._Sec=You acknowledge and agree that {We.Handle}: {YourRisk.Admit._Lost}
+
+YourRisk.Admit.WeDontOwn._cl=does not own or control {We.System}
+
+YourRisk.Admit.WeDontControlTransactions._cl=does not have any authority or responsibility to prohibit, restrict, rescind or approve any transaction or other interaction that occurs through {We.System}
+
+YourRisk.Admit.WeAreNotPartyTo._cl=is not a party to, has no involvement or interest in, makes no representations or warranties as to, and has no responsibility or liability with respect to any communications, transactions, interactions, disputes or any relations whatsoever between you and any other participant, person or organization that uses {We.System}
+
+YourRisk.Admit.WeDontPolice._cl=does not investigate or verify the reputation, conduct, morality or criminal background of any {We.System} participant, including without limitation any {We.System} gateway
+
+YourRisk.YouControl._Sec=You acknowledge and agree that you are solely responsible for your access and use of {We.System}, including without limitation for:{YourRisk.YouControl._Lost}
+
+YourRisk.YouControl.Payment._cl=any payments or other {We.System} transactions you complete
+
+YourRisk.YouControl.Counterparties._cl=investigating or screening other {We.System} participants before engaging in any {We.System} transaction with such participants
+
+YourRisk.YouControl.Interactions._cl=any interactions you have with other {We.System} participants or gateways
+
+YourRisk.YouControl.Gateways._cl=your use of any {We.System} gateways to exchange any currency or other items of value that you may have stored in your {We.System} wallet
+
+YourRisk.WeDisclaim._Sec=<span text-transform ="uppercase">{We.Handle} ASSUMES NO RESPONSIBILITY FOR ANY CONSEQUENCES RELATING DIRECTLY OR INDIRECTLY TO ANY ACTION OR INACTION YOU TAKE WITHIN {We.System}.&#8194; YOU ASSUME ALL RISKS ASSOCIATED WITH USING {We.System}.</span>
+
+Copyright.WeOwn._Sec=Unless otherwise indicated on the Site, the Site and all content and other materials on the Site, including, without limitation, the {We.Handle} logo and all designs, text, graphics, pictures, information, data, software, sound files, other files and the selection and arrangement thereof (collectively, "{We.Handle} Materials") are the proprietary property of {We.Handle} or its licensors or users and are protected by U.S. and international copyright laws.
+
+Copyright.YourLicense._Sec=You are granted a limited, non-sublicensable license to access and use the Site and {We.Handle} Materials; subject to these Terms.&#8194; Except as expressly permitted on the Site, in these Terms or otherwise in writing by {We.Handle}, such license does not include: (a) any resale or commercial use of the Site or the {We.Handle} Materials; (b) the distribution, public performance or public display of any {We.Handle} Materials; (c) modifying or otherwise making any derivative uses of the Site and the {We.Handle} Materials, or any portion thereof; (d) use of any data mining, robots or similar data gathering or extraction methods; (e) downloading (other than the page caching) of any portion of the Site, the {We.Handle} Materials or any information contained therein; or (f) any use of the Site or the {We.Handle} Materials other than for its intended purpose.&#8194; Any use of the Site or the {We.Handle} Materials other than as specifically authorized herein, without the prior written permission of {We.Handle}, is strictly prohibited and will terminate the license granted herein.&#8194; Such unauthorized use may also violate applicable laws, including, without limitation, copyright and trademark laws and applicable communications regulations and statutes.&#8194; Unless explicitly stated herein, nothing in these Terms will be construed as conferring any license to intellectual property rights, whether by estoppel, implication or otherwise.&#8194; This license is revocable at any time.
+
+
+Reoffend._Sec=<u>Repeat Infringer Policy</u><br>In accordance with the Digital Millennium Copyright Act ("DMCA") and other applicable law, {We.Handle} has adopted a policy of terminating, in appropriate circumstances and in {We.Handle}'s sole discretion, users who are deemed to be repeat infringers.&#8194; {We.Handle} may also, in its sole discretion, limit access to the Site and/or terminate the Account of any user who infringes any intellectual property rights of others, whether or not there is any repeat infringement.
+
+TakeDown.To._Sec=If you believe anything on the Site infringes upon any copyright which you own or control, you may file a notification of such infringement with our Designated Agent as set forth below.<br><table><tr><td width="15%"></td><td>{We.DesignatedAgent.NoticeBlock}</td></tr></table>
+
+We.DesignatedAgent.NoticeBlock=Name of Designated Agent: {We.DA.Name.Full}<br>Full Address of Designated Agent: {We.DA.Addr.1,2}<br>Telephone Number of Designated Agent: {We.DA.Phone}<br>Facsimile Number of Designated Agent: {We.DA.Fax}<br>E-Mail Address of Designated Agent: {We.DA.Email}<br>
+
+TakeDown.Form._Sec=Please see 17 U.S.C. § 512(c)(3) for the requirements of a proper notification.
+
+TakeDown.False._Sec=You should note that if you knowingly misrepresent in your notification that the material or activity is infringing, you will be liable for any damages, including costs and attorneys' fees, incurred by us or the alleged infringer as the result of our relying upon such misrepresentation in removing or disabling access to the material or activity claimed to be infringing.
+
+Trademark.WeOwn._Sec="{We.Handle}," "{We.System},", the {We.Handle} logos and any other {We.Handle} product or service name, logo or slogan contained in the Site are trademarks or service marks of {We.Handle} (the "{We.Handle} Marks") and may not be copied, imitated or used, in whole or in part, except as expressly permitted in these Terms or on the Site or with the prior written permission of {We.Handle}.
+
+Trademark.Hidden._Sec=You may not use any metatags or any other "hidden text" utilizing any {We.Handle} Marks without our prior written permission.
+
+Trademark.LookFeel._Sec=In addition, the look and feel of the Site, including all page headers, custom graphics, button icons and scripts, is the service mark, trademark and/or trade dress of {We.Handle} and is part of the {We.Handle} Marks and may not be copied, imitated or used, in whole or in part, without our prior written permission except as expressly permitted herein or on the Site.
+
+Trademark.3Party._Sec=All other trademarks, registered trademarks, product names and company names or logos mentioned in the Site are the property of their respective owners and may not be copied, imitated or used, in whole or in part, without the written permission of the applicable trademark holder.&#8194; Reference to any products, services, processes or other information, by trade name, trademark, manufacturer, supplier or otherwise does not constitute or imply endorsement, sponsorship or recommendation thereof by us.
+
+
+LinkLicense.Grant._Sec=You are granted a limited, non-exclusive right to create a text hyperlink to the Site, provided such link does not portray {We.Handle} or any of our Site in a false, misleading, derogatory or otherwise defamatory manner and provided further that the linking site does not contain any adult or illegal material or any material that is offensive, harassing or otherwise objectionable.
+
+LinkLicense.Revoke._Sec=This limited right may be revoked at any time.&#8194; You may not use any {We.Handle} Marks or other proprietary graphic of {We.Handle} to link to the Site without the express written permission of {We.Handle}.
+
+LinkLicense.Frame._Sec=Further, you may not use, frame or utilize framing techniques to enclose any {We.Handle} trademark, logo or other proprietary information, including the images found on the Site, the content of any text or the layout/design of any page or form contained on a page of the Site without {We.Handle}'s express written consent.
+
+LinkLicense.Implied._Sec=Except as noted above, you are not conveyed any right or license by implication, estoppel or otherwise in or under any patent, trademark, copyright or other proprietary right of {We.Handle} or any third party.
+
+3PartyContent.Host._Sec={We.Handle} and its users may provide third party content on the Site and may provide links to web pages and content that are not owned or controlled by {We.Handle}, including but not limited to {We.System} and any third party advertisements or promotions (collectively the "Third Party Content") as a service to those interested in this information.
+
+3PartyContent.AsIs._Sec={We.Handle} does not control, endorse or adopt any Third Party Content and makes no representation or warranties of any kind regarding the Third Party Content, including without limitation regarding its accuracy or completeness.
+
+3PartyContent.NoRep._Sec=You acknowledge and agree that {We.Handle} is not responsible or liable in any manner for any Third Party Content and undertakes no responsibility to update or review any Third Party Content.&#8194; Users use such Third Party Content contained therein at their own risk.
+
+3PartyContent.NoPrivity._Sec=Your business dealings or correspondence with, or participation in promotions of, any third parties, and any terms, conditions, warranties or representations associated with such dealings or promotions, are solely between you and such third parties.&#8194; {We.Handle} is not responsible or liable for any loss or damage of any sort incurred as the result of any such dealings or promotions or as the result of the presence of such Third Party Content on the Site.
+
+Feedback.YouGive._Sec=You acknowledge and agree that any materials, including but not limited to questions, comments, feedback, suggestions, ideas, plans, notes, drawings, original or creative materials or other information, regarding {We.Handle} or the Site (collectively, "Feedback") that are provided by you, whether by email, posting to the Site or otherwise, are non-confidential and will become the sole property of {We.Handle}.
+
+Feedback.WeOwn._Sec={We.Handle} will own exclusive rights, including all intellectual property rights, and will be entitled to the unrestricted use and dissemination of such Feedback for any purpose, commercial or otherwise, without acknowledgment or compensation to you.
+
+
+ModifySite._Sec=<u>Modifications to the Site</u><br>{We.Handle} reserves the right to modify or discontinue, temporarily or permanently, the Site or any features or portions thereof without prior notice.&#8194; You agree that {We.Handle} will not be liable for any modification, suspension or discontinuance of the Site or any part thereof.
+
+Blocking._Sec=<u>Termination and Suspension</u><br>Notwithstanding any of these Terms, {We.Handle} reserves the right, without notice and in its sole discretion, to terminate or suspend your right to use the Site, and to block or prevent your future access to, and use of, the Site.
+
+Indemnify.YouWill._Sec=You agree to defend, indemnify and hold harmless {We.Handle}, its independent contractors, service providers and consultants, and their respective directors, employees and agents, from and against any claims, damages, costs, liabilities and expenses (including, but not limited to, reasonable attorneys' fees) arising out of or related to: (a) your use of the Site; (b) any User Content or Feedback you provide; (c) your violation of these Terms; (d) your violation of any rights of another; or (e) your conduct in connection with the Site.
+
+Indemnify.Limits._Sec=Some jurisdictions limit consumer indemnities, so some or all of the indemnity provisions above may not apply to you.
+
+Indemnify.Control._Sec=If you are obligated to indemnify us, we will have the right, in our sole and unfettered discretion, to control any action or proceeding and determine whether we wish to settle it, and if so, on what terms.
+
+Disclaim.Uninterrupted._Sec={We.Handle} provides no guarantee as to the performance or the uninterrupted availability of the Site or the {We.Handle} materials.
+
+Disclaim.AsIs._Sec=The Site and {We.Handle} materials are provided on an "as is," "as available" basis without warranties of any kind, either express or implied.
+
+Disclaim.Warranty._Sec={We.Handle} disclaims all warranties, express or implied, including, without limitation, implied warranties of merchantability, fitness for a particular purpose, title and non-infringement as to the Site and the information, content and materials contained therein.
+
+Disclaim.Accuracy._Sec={We.Handle} does not represent or warrant that {We.Handle} materials or the Site are accurate, complete, reliable, current or error-free.
+
+Disclaim.SiteSafety._Sec=While {We.Handle} attempts to make your access and use of the Site safe, {We.Handle} cannot and does not represent or warrant that the Site or its server(s) are free of viruses or other harmful components; therefore, you should use industry-recognized software to detect and disinfect viruses from any download.
+
+Disclaim.Changes._Sec={We.Handle} reserves the right to change any and all content contained in the Site at any time without notice.
+
+Disclaim.Endorsement._Sec=Reference to any products, services, processes or other information, by trade name, trademark, manufacturer, supplier or otherwise does not constitute or imply endorsement, sponsorship or recommendation thereof, or any affiliation therewith, by {We.Handle}.
+
+Disclaim.MayNotApply._Sec=Some jurisdictions do not allow the disclaimer of implied terms in contracts with consumers, so some or all of the disclaimers in this section may not apply to you.
+
+LimitLiab.Damages._Sec=In no event will {We.Handle}, its directors, employees or agents be liable for any direct, special, indirect or consequential damages, or any other damages of any kind, including but not limited to loss of use, loss of profits or loss of data, whether in an action in contract, tort (including but not limited to negligence) or otherwise, arising out of or in any way connected with the use of or inability to use the site, the {We.Handle} materials or the content or the materials contained in or accessed through the site, including without limitation any damages caused by or resulting from reliance by user on any information obtained from {We.Handle}, or that result from mistakes, omissions, interruptions, deletion of files or email, errors, defects, viruses, delays in operation or transmission or any failure of performance, whether or not resulting from acts of god, communications failure, theft, destruction or unauthorized access to {We.Handle}'s records, programs or site.
+
+LimitLiab.Aggregate._Sec=In no event will the aggregate liability of {We.Handle}, whether in contract, warranty, tort (including negligence, whether active, passive or imputed), product liability, strict liability or other theory, arising out of or relating to the use of or inability to use the site exceed any compensation you pay, if any, to {We.Handle} for access to or use of the site.
+
+LimitLiab.MayNotApply._Sec=Some jurisdictions do not allow the limitation of liability in contracts with consumers, so some or all of these limitations of liability may not apply to you
+
+Law._Sec=<u>Applicable Law and Venue</u><br>These Terms and your use of the Site will be governed by and construed in accordance with the laws of {Dispute.Laws.State.of}, without resort to its conflict of law provisions.&#8194; You agree that any action at law or in equity arising out of or relating to these Terms not subject to arbitration (as set forth below), will be filed only in {Dispute.Forum._cl} and you hereby irrevocably and unconditionally consent and submit to the exclusive jurisdiction of such courts over any suit, action or proceeding arising out of these Terms.
+
+Blocking._Sec=<u>Termination and Suspension</u><br>Notwithstanding any of these Terms, {We.Handle} reserves the right, without notice and in its sole discretion, to terminate or suspend your right to use the Site, and to block or prevent your future access to, and use of, the Site.
+
+Misc.Survive._Sec=<u>Survival</u><br>Sections 4 (Assumption of Risk with {We.System}), 6 (User Content), 9 (Trademarks), 11 (Third Party Content), 12 (Feedback), 15 (Liability; Miscellaneous) will survive any termination or expiration of these Terms.
+
+Misc.Sever._Sec=<u>Severability</u><br>If any provision of these Terms is deemed unlawful, void or for any reason unenforceable, then that provision shall be deemed severable from these Terms and will not affect the validity and enforceability of any remaining provisions.
+
+Contact._Sec=<u>Questions & Contact Information</u><br>Questions or comments about the Site or these Terms may be directed to {We.Handle} by emailing {We.info@we.com}.
+
+We.www.com=www.{We.com}
+
+we.info@we.com=contact@{We.com}
+
+	
+				  

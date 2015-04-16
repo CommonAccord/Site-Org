@@ -1,0 +1,20 @@
+Model.Root={Sec}
+
+Sec=<u>Limitations; Disclaimers</u>. <ol><li>{NoDeal.Sec}</li><li>{NotExclusive.Sec}</li><li>{NoLicense.Sec}</li><li>{NoAgency.Sec}</li><li>{NoRightToInfo.Sec}</li><li>{NoRepresentationReInfo.Sec}</li></ol>
+
+NoDeal.Sec=<u>No Agreement to Transact</u>.  Except as may be expressly provided, nothing in {this Agreement} obligates either {party} to proceed with any transaction.  Each {party} reserves the right to terminate the discussions contemplated by {this Agreement} in its sole discretion and without liability to the other.
+
+NotExclusive.Sec=<u>Discussions Are Not-Exclusive</u>. The discussions contemplated by {this Agreement} are not exclusive and each {party} reserves the right to have similar, competing{q} or conflicting discussions with other persons, including with competitors of the other {parties}.
+
+NoLicense.Sec=<u>No License</u>.  {This Agreement} does not grant any right in or to any intellectual property of another {party}.  In particular, it does not authorize use or disclosure of {Confidential Information} (except for the express purpose of {this Agreement}) or grant any right or license under any {IP Right} of any {party}.
+
+NoAgency.Sec=<u>No Agency, Joint Venture{q} or Partnership</u>. Nothing in {this Agreement} and no action taken by the {parties} pursuant to {this Agreement} shall create a relationship of principal and agent or constitute a partnership or joint venture of any kind between the {parties}. Except as may otherwise be expressly provided, no {party} has any authority to bind another {party}.
+
+NoRightToInfo.Sec=<u>No Obligation to Provide Information</u>.  {NoRightToInfo.Base.Sen} {NoRightToInfo.Except.Sen}
+
+NoRightToInfo.Base.Sen=No {party} has any obligation under {this Agreement} to communicate any information, nor any obligation to update or complete any information that has been communicated to any other {party}.
+NoRightToInfo.Except.Sen=This Section does not immunize misleading, fraudulent{q} or grossly misleading activity.
+
+NoRepresentationReInfo.Sec=<u>No Representation Regarding Information</u>. <span style="text-transform:uppercase;">All information is provided "as is."  Neither {party} makes any warranty or representation, express, implied{q} or otherwise, written or oral with respect to information, and all such representations and warranties are hereby disclaimed, including without limitation: (i) warranties or conditions of merchantability, (ii) satisfactory quality, accuracy, fitness for a particular purpose, completeness or performance{q} or title and non-infringement, and (iii) those arising by statue or from a course of dealing or usage of trade.</span>
+
+   

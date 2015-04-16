@@ -1,0 +1,25 @@
+1={Heading}<br>{1.Head}
+
+2={Heading}<br>{1.Head}<hr><hr>{2.Head}
+
+3={Heading}<br>{1.Head}<hr><hr>{2.Head}<hr><hr>{3.Head}
+
+4={Heading}<br>{1.Head}<hr><hr>{2.Head}<hr><hr>{3.Head}<hr>{4.Head}
+
+Heading=<hr><hr><center><b>Exhibits, Schedules and Attachments</b></center><br><br>
+
+1.Head=<center><h3>{1.Exh.Ti}</h3></center><hr>{1.Doc}
+
+2.Head=<center><h3>{2.Exh.Ti}</h3></center><hr>{2.Doc}
+
+3.Head=<center><h3>{3.Exh.Ti}</h3></center><hr>{3.Doc}
+
+4.Head=<center><h3>{4.Exh.Ti}</h3></center><hr>{4.Doc}
+
+1.Exh.Ti=Exhibit A
+
+2.Exh.Ti=Exhibit B
+
+3.Exh.Ti=Exhibit C
+
+4.Exh.Ti=Exhibit D

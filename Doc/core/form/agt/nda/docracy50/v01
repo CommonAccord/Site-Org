@@ -1,0 +1,106 @@
+=[core/class/AGT_Frame]
+
+MessageToReader=From Docracy/50/mutual-nondisclosure-agreement  Gunderson Dettmar
+
+AGT.Title=Mutual Non-Disclosure Agreement
+Prologue.Recital=To explore the possibility of a business relationship between {P1.Handle} and {P2.Handle}, each party ("Discloser") may disclose sensitive information to the other ("Recipient").
+
+AGT.Secs._Lost=<ol><li>{Def.Proprietary_Information}</li><li>{Conf.Engage}</li><li>{Conf.Except.Compelled}</li><li>{Limit}</li><li>{Term}</li><li>{Remedy}</li><li>{Misc}</li></ol>
+Def.Proprietary_Information=<b>Definition</b>.  The term "Proprietary Information" means, to the extent previously, presently or subsequently disclosed by or for Discloser to Recipient, all financial, business, legal and technical information of Discloser or any of its affiliates, suppliers, customers and employees (including information about research, development, operations, marketing, transactions, regulatory affairs, discoveries, inventions, methods, processes, articles, materials, algorithms, software, specifications, designs, drawings, data, strategies, plans, prospects, know-how and ideas, whether tangible or intangible, and including all copies, abstracts, summaries, analyses and other derivatives thereof), that is marked or otherwise identified as proprietary or confidential at the time of disclosure, or that by its nature would be understood by a reasonable person to be proprietary or confidential. Proprietary Information shall not include any information that: {Conf.Except.List} Discloser represents and warrants to Recipient that it is authorized to disclose any and all Proprietary Information made available to Recipient under this Agreement.
+
+Conf.Except.List={L-}{Conf.Except.Has}{;L}{Conf.Except.Finds}{;L}{Conf.Except.Public}{;orL}{Conf.Except.Makes}{.L}
+
+Conf.Except.Has=was rightfully known to Recipient without restriction before receipt from Discloser
+
+Conf.Except.Finds=is rightfully disclosed to Recipient without restriction by a third party
+
+Conf.Except.Public=is or becomes generally known to the public without violation of this Agreement by Recipient
+
+Conf.Except.Makes=is independently developed by Recipient or its employees without access to or reliance on such information
+
+Conf.Engage=<b>Restrictions.</b>  {Conf.Engage.Base}  {Conf.Include.ThisAgreement} {ResponsibleForAgents}
+
+Conf.Engage.Base=As to the other party's Proprietary Information, Recipient agrees: {Conf.Engage.List}
+
+Conf.Engage.List={L-}{Conf.Engage.UseForPurpose}{;L}{Conf.Engage.Preserve}{;L}{Conf.Engage.NoCopy}{;L}{Conf.Engage.NotDisclose}{;L}{Conf.Engage.NotDecompile}{;andL}{Conf.Engage.NotExport}{.L}  
+
+Conf.Include.ThisAgreement=The terms and conditions of any transaction or possible transaction between the parties, the fact that disclosures, evaluations or discussions are taking place, and the status and results thereof will also be held in confidence by both parties and not disclosed to any third party. 
+
+ResponsibleForAgents=Each party shall be responsible for any breach of its confidentiality obligations by its respective employees and agents.
+
+Conf.Engage.UseForPurpose=to use the Proprietary Information only for its consideration internally of a business relationship or transaction between the parties, and its performance in any resulting arrangement, but not for any other purpose
+
+Conf.Engage.Preserve=to maintain the Proprietary Information as confidential, and exercise reasonable precautions to prevent any unauthorized access, use or disclosure
+
+Conf.Engage.NoCopy=not to copy the Proprietary Information
+
+Conf.Engage.NotDisclose=not to disclose the Proprietary Information to any third party other than Recipient's employees and agents who have a need to know for the permitted purpose and who are apprised of the confidential nature of the Proprietary Information and all of the restrictions in this Agreement
+
+Conf.Engage.NotDecompile=not to decompile, disassemble or otherwise reverse engineer any Proprietary Information, or use any similar means to discover its underlying composition, structure, source code or trade secrets
+
+Conf.Engage.NotExport=not to export or re-export any Proprietary Information or product thereof in violation of U.S. or other export control laws or regulations
+
+Conf.Except.Compelled=<b>Compelled Disclosures.</b>  These restrictions will not prevent either party from complying with any law, regulation, court order or other legal requirement that purports to compel disclosure of any Proprietary Information. Recipient will promptly notify Discloser upon learning of any such legal requirement, and cooperate with Discloser in the exercise of its right to protect the confidentiality of the Proprietary Information before any tribunal or governmental agency.
+
+Limit=<b>No Warranties or Licenses.</b>  All Proprietary Information is provided "AS IS." Discloser will not be liable to Recipient for damages arising from any use of the Proprietary Information, from errors, omissions or otherwise. All of Discloser's rights in and to its Proprietary Information remain the exclusive property of Discloser. Neither this Agreement, nor any disclosure of Proprietary Information hereunder: {Limit.List}
+
+Note=Limits are phrased positively but denied in the intro.  This leads to odd labels. 
+
+Limit.List={L-}{Limit.NoGrant}{;L}{Limit.NotPursue}{;L}{Limit.Products}{;L}{Limit.Personnel}{;orL}{Limit.OtherBusiness}{.L}
+
+Limit.NoGrant=grants to Recipient any right or license under any copyright, patent, mask work, trade secret or other intellectual property right, except solely for the use expressly permitted herein
+
+Limit.NotPursue=obligates either party to disclose or receive any information, perform any work or enter into any agreement
+
+Limit.Products=limits either party from developing, manufacturing or marketing products or services that may be competitive with those of the other except insofar as this Agreement limits the use and disclosure of Proprietary Information
+
+Limit.Personnel=limits either party from assigning or reassigning its employees in any way
+
+Limit.OtherBusiness=limits either party from entering into any business relationship with third parties.
+
+Term=<b>Termination</b>.  {Term.Expiration}
+
+Term.Expiration=This Agreement will terminate as to the further exchange of Proprietary Information immediately upon the earlier of (a) receipt by one party of written notice from the other and (b) {End-Of-Communication-Period}. 
+
+Engage.Survive=The confidentiality obligations of this Agreement, as they apply to any Proprietary Information disclosed prior to termination, will survive termination for a period of {Length-Of-Engagement-Period}; provided, Recipient's obligations hereunder shall survive and continue in effect thereafter with respect to any Proprietary Information that is a trade secret under applicable law. 
+
+Remedy.Return=Upon termination of this Agreement for any reason, or upon Discloser's request at any time, Recipient shall promptly return to Discloser all originals and copies of any Proprietary Information and destroy all information, records and materials developed therefrom.
+
+Remedy=<b>Remedies.</b>  Due to the unique nature of the Proprietary Information, the parties agree that any breach or threatened breach of this Agreement will cause not only financial harm to Discloser, but also irreparable harm for which money damages will not be an adequate remedy. Therefore, Discloser shall be entitled, in addition to any other legal or equitable remedies, to an injunction or similar equitable relief against any such breach or threatened breach without the necessity of posting any bond.
+
+Misc=<b>General.</b>  {L-}{Misc.Entire}{-L-}{Misc.Counterpart}{-L-}{Misc.Fax}{-L-}{Misc.Amend}{-L-}{Misc.Waive}{-L-}{Misc.Cumulative}{-L-}{Misc.Sever}{-L-}{Misc.Law}{-L-}{Misc.Forum}{-L-}{Misc.AttyFee}{-L-}{Misc.Notice}{-L}
+
+Misc.Entire=This Agreement constitutes the entire agreement, and supersedes all prior negotiations, understandings or agreements (oral or written), between the parties concerning the subject matter hereof.
+
+Misc.Counterpart=This Agreement may be executed in one or more counterparts, each of which is an original, but taken together constituting one and the same instrument.
+
+Misc.Fax=Execution of a facsimile copy shall have the same force and effect as execution of an original, and a facsimile signature shall be deemed an original and valid signature.
+
+Misc.Amend=No change, consent or waiver to this Agreement will be effective unless in writing and signed by the party against which enforcement is sought.
+
+Misc.Waive=The failure of either party to enforce its rights under this Agreement at any time for any period shall not be construed as a waiver of such rights.
+
+Misc.Cumulative=Unless expressly provided otherwise, each right and remedy in this Agreement is in addition to any other right or remedy, at law or in equity, and the exercise of one right or remedy will not be deemed a waiver of any other right or remedy.
+
+Misc.Sever=In the event that any provision of this Agreement shall be determined to be illegal or unenforceable, that provision will be limited or eliminated to the minimum extent necessary so that the Agreement shall otherwise remain in full force and effect and enforceable.
+
+Misc.Law=This Agreement shall be governed by and construed in accordance with the laws of {Dispute.Law.State.of} without regard to the conflicts of laws provisions thereof.
+
+Misc.Forum=Exclusive jurisdiction and venue for any action arising under this Agreement is in the federal and state courts having jurisdiction for {Forum.City}, and both parties hereby consent to such jurisdiction and venue for this purpose.
+
+Misc.AttyFee=In any action or proceeding to enforce or interpret this Agreement, the prevailing party will be entitled to recover from the other party its costs and expenses (including reasonable attorneys' fees) incurred in connection with such action or proceeding and enforcing any judgment or order obtained.
+
+Misc.Notice=Any notice hereunder will be effective upon receipt and shall be given in writing, in English and delivered to the other party at its address given herein or at such other address designated by written notice.
+
+Sign.InWitness=IN WITNESS WHEREOF, the parties hereto have executed this Agreement as a sealed instrument, effective as of {AGT.Effective.YMD}.
+
+Note=for lists of clauses
+L-=<ol><li>
+;L=,</li><li>
+;andL=, and</li><li>
+;orL=, or</li><li>
+.L=.</li></ol>
+Note=for lists of sentences
+-L-=</li><li>
+-L=</li></ol>
+                        

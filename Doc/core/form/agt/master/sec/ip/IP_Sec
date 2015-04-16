@@ -1,0 +1,46 @@
+Model.Root={_Sec}
+
+_Sec=<u>Intellectual Property</u>. <ol><li>{CompanyProperty._Sec}</li><li>{SupplierProperty._Sec}</li><li>{3Party._Sec}</li><li>{CodeEscrow._Sec}</li></ol>
+
+CompanyProperty._Sec=<u>{Company Property}</u>. <ol><li>{CompanyProperty.Reserve._Sec}</li><li>{CompanyProperty.Assign._Sec}</li></ol>
+
+CompanyProperty.Reserve._Sec=<u>Acknowledgement</u>.&#8194; {Supplier} acknowledges that {Company} claims and reserves all rights and benefits afforded under federal and international intellectual property laws in all {Intellectual Property} and {Proprietary Information} furnished by {Company} to {Supplier} hereunder and that {Supplier} is granted only a limited right of use of such {Intellectual Property} and {Proprietary Information} as set forth in this Agreement.
+
+CompanyProperty.Assign._Sec=<u>Assignment and Recordation of {Company Property}</u>.&#8194; {Supplier} agrees that: <ol><li>{CompanyProperty.Assign.WorkForHire._Cl};</li><li>{CompanyProperty.Assign.Grant._Cl};</li><li>{CompanyProperty.Assign.Further._Cl}: and</li><li>{CompanyProperty.Assign.NotRegister._Cl}.</li></ol>
+
+CompanyProperty.Assign.WorkForHire._Cl=All copyrightable {Intellectual Property}, which are created by {Supplier} pursuant to this Agreement, shall be deemed "Works Made for Hire", as that phrase is defined in Section 101 of the United States Copyright Act, 17 U.S.C. § 101, and used in 17 U.S.C. § 201, on behalf of {Company}, and {Company} shall own all right, title and interest, including the worldwide copyright, in and to such materials
+
+CompanyProperty.Assign.Grant._Cl={Supplier} hereby assigns and agrees to assign to {Company} all of its respective rights, title, and interest in {Company Property}, including all {IP Rights}
+
+CompanyProperty.Assign.Further._Cl={Supplier} and {Supplier}'s successors in interest will, at {Company}'s request and without further consideration, communicate to {Company} any facts known to them respecting {Company Property}, and testify in any legal proceedings, make all rightful oaths, sign all lawful papers and other instruments and generally do everything possible for title to the {IP Rights} in the {Company Property} to be clearly and exclusively held by {Company}
+
+CompanyProperty.Assign.NotRegister._Cl={Supplier} agrees that it will not apply for any state, federal or other U.S. or foreign jurisdiction's registration of rights in any of the {Company Property} and that it will not oppose or object in any way to applications for registration of same by {Company} or others designated by {Company}
+
+SupplierProperty._Sec=<u>{Supplier}'s Property</u>.&#8194; The assignment in Section {6.1.3} above does not include {Supplier's Reserved Intellectual Property} properly listed on {Schedule F}.&#8194; {Supplier} will obtain a {Company} representative's signature on {Schedule F} before incorporating any of {Supplier's Intellectual Property} into the {Services} and/or any deliverables under this Agreement.&#8194; {Supplier} will own {Supplier's Reserved Intellectual Property} reflected on a properly executed {Schedule F}.&#8194; However, {Supplier} grants {Company} a fully-paid, perpetual, irrevocable, world-wide, non-exclusive license to: {SR.License._List}
+
+SR.License._List=<ol><li>{SR.License.Derivative._cl};</li><li>{SR.License.Reproduce._cl}; and</li><li>{SR.License.MUDPDTSub._cl}.</li></ol>
+
+SR.License.Derivative._cl=prepare derivative works from {Supplier's Reserved Intellectual Property} (using either {Company}'s own employees or independent contractors)
+
+SR.License.Reproduce._cl=reproduce {Supplier's Reserved Intellectual Property} and derivative works therefrom
+
+SR.License.MUDPDTSub._cl=make, use, distribute, perform, display and transmit {Supplier's Reserved Intellectual Property} and derivative works and reproductions thereof, and to sublicense the rights granted to {Company} in this paragraph
+
+3Party._Sec=<u>{Third Party Intellectual Property}</u>.&#8194; {Supplier} shall not, without {Company}'s written authorization, disclose or use in {Supplier}'s work with the {Company}, any secret or confidential information of others, nor incorporate into the Services and/or any deliverables to {Company} under this Agreement: {3Party.BarredIP._Lost}  {3Party._Cont}
+
+3Party.BarredIP._Lost=<ol><li>{Third Party Intellectual Property}; or</li><li>any software, applications, or components or other materials, which are functionally dependent upon {Company}'s use of {Third Party Intellectual Property}.</li></ol> 
+
+3Party._Cont=If {Company} provides such written authorization, {Supplier} shall, in the absence of written agreement to the contrary, provide, at no expense to {Company}, all licenses to such {Third Party Intellectual Property} and which {Company} does not already have and which are reasonably necessary for {Company} to lawfully make all uses of the Services and/or any deliverables contemplated in this Agreement
+
+CodeEscrow._Sec=<u>Escrow of Code</u>.&#8194; To the extent that any deliverables provided by {Supplier} under this Agreement include software, upon {Company}'s request, {Supplier} agrees to deposit any and all {Software Materials} in escrow: {CodeEscrow._Lost} {CodeEscrow._Cont}
+
+CodeEscrow._Lost=<ol><li>with an escrow agent designated by {Company}; and</li><li>pursuant to a written escrow agreement to be approved by {Company} in writing.</li></ol> 
+
+CodeEscrow._Cont={CodeEscrow.Expense._Sen}&#8194; {CodeEscrow.Default._Sen}&#8194; {CodeEscrow.License._Sen}
+
+CodeEscrow.Expense._Sen={Company} agrees to pay any amount necessary to create such escrow account and/or any related deposit fees.
+
+CodeEscrow.Default._Sen=The escrow agreement shall provide, among other things, that in the event this Agreement is terminated for insolvency or default as provided in Sections {16.4} or {16.5} below, the escrowed {Software Materials} shall be delivered to {Company}.
+
+CodeEscrow.License._Sen={Company} is hereby granted a license to use the {Software Materials}, when delivered to repair, modify, improve upon and use the deliverables under his Agreement as contemplated under this Agreement, including but not limited to the rights to reproduce, prepare derivative works, distribute, perform, display and transmit.
+    

@@ -1,0 +1,14 @@
+Model.Root={Sec}
+
+Sec={Court-NoJury.Sec}
+
+Court-NoJury.Sec={Court.Sec}</li><li>{NoJury.Sec}
+
+Court.Sec=<u>Forum - Litigation</u>  {Each party}:<ol><li>hereby irrevocably and unconditionally submits to {Dispute.Forum._cl} as the exclusive forum for the purpose of any {3.suit.or} arising out of or based upon {this Agreement};</li><li>agrees not to commence any {3.suit.or} arising out of or based upon {this Agreement} except in such forum; and</li><li>hereby waives, and agrees not to assert, by way of motion, as a defense or otherwise, in any such {3.suit.or}, any claim that:<ol><li>it is not subject personally to the jurisdiction of such forum;</li><li>that its property is exempt or immune from attachment or execution;</li><li>that the {3.suit.or} in such forum is brought in an inconvenient forum;</li><li>that the venue of the {3.suit.or} is improper or that {this Agreement} or the subject matter hereof and thereof may not be enforced in or by such forum.</li></ol></li></ol>
+
+/Note=Borrowed from ABA Model Share Purchase Agreement
+
+NoJury.Sec=<u>WAIVER OF JURY TRIAL</u>  EACH PARTY, KNOWINGLY, VOLUNTARILY{q} AND INTENTIONALLY, WAIVES ITS RIGHT TO TRIAL BY JURY IN ANY PROCEEDING ARISING OUT OF OR RELATING TO THIS AGREEMENT OR ANY CONTEMPLATED TRANSACTION, WHETHER SOUNDING IN CONTRACT, TORT{q} OR OTHERWISE.
+
+3.suit.or=claim, suit, action, demand{q} or proceeding
+      

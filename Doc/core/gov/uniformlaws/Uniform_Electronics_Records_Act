@@ -1,0 +1,110 @@
+1=This is the Uniform Act. http://www.uniformlaws.org/shared/docs/electronic%20legal%20material/uelma_final_2011.pdf
+
+2=It is "forked" into two state versions:
+
+2a=[[UniformLaws_ELMA_USA-MA_Delta]]
+
+2b=[[UniformLaws_ELMA_USA-OR_Delta]]
+
+3=This work is not complete, but gives the idea. 
+
+4=<a href="http://youtu.be/C-Mcx62-2o8">A video introduction for the MIT Legal Hackathon.</a>
+
+Model.Root={Act.Body}
+
+Act.Body=<u>UNIFORM ELECTRONIC LEGAL MATERIAL ACT</u><ol><li>{ActTitle._Sec}<li>{Def._Sec}</li><li>{Applies._Sec}</li><li>{OfficialRecord._Sec}</li><li>{AuthenticateHow._Sec}</li><li>{AuthenticateEffect._Sec}</li><li>{Care._Sec}</li><li>{Access._Sec}</li><li>{Standards._Sec}</li><li>{Interprete._Sec}</li><li>{OtherLaw._Sec}</li><li>{StartDate._Sec}</li></ol>
+
+ActTitle._Sec=<u>SHORT TITLE</u>. {This act} may be cited as the Uniform Electronic Legal Material Act.
+
+Applies._Sec=<u>APPLICABILITY</u>. {This act applies} to all legal material in an electronic record that is designated as official under Section 4 and first published electronically on or after the effective date of this {act}.
+
+This act applies=This act applies
+
+Def._Sec=<u>DEFINITIONS</u>. {Def.Intro}:<ol><li>"Electronic&rdquo; means relating to technology having electrical, digital, magnetic, wireless, optical, electromagnetic, or similar capabilities.<li>"Legal material&rdquo; means, whether or not in effect:<ol type="A">{Def.Legal_Material.List}</ol><li>"Official publisher&rdquo; means:<ol type="A">{Def.Official_Publisher.List}</ol><li>"Publish&rdquo; means to display, present, or release to the public, or cause to be displayed,  presented, or released to the public, by the official publisher.<li>"Record&rdquo; means information that is inscribed on a tangible medium or that is stored in  an electronic or other medium and is retrievable in perceivable form.<li>"State&rdquo; means a state of the United States, the District of Columbia, Puerto Rico, the  United States Virgin Islands, or any territory or insular possession subject to the jurisdiction of  the United States.</ol>
+
+Def.Intro=In this {act}
+
+Def.Legal_Material.List=<ol type="A"><li>{LM.Const};</li><li>{LM.Session};</li><li>{LM.Code};</li><li>{LM.AgencyRule};</li><li>{LM.AgencyDecision};</li><li>{LM.CourtDecision};</li><li>{LM.CourtRule}; or</li><li>{LM.Other}.</li></ol>
+
+LM.Const=the {name of constitution of this state}
+
+LM.Session=the {name of session laws}
+
+LM.Code=the {name of state code}
+
+LM.AgencyRule=a state agency rule that has or had the effect of law
+
+LM.AgencyDecision=the following categories of state administrative agency decisions {categories of decisions to be included}
+
+LM.CourtDecision=reported decisions of the following state courts: {specify courts}
+
+LM.CourtRule=state court rules
+
+LM.Other={list any other category of legal material to be included}
+
+Def.Official_Publisher.List=<ol type="A"><li>{OP.Const};</li><li>{OP.Session};</li><li>{OP.Code};</li><li>{OP.AgencyRule};</li><li>{OP.AgencyDecision};</li><li>{OP.CourtDecision};</li><li>{OP.CourtRule}; or</li><li>{OP.Other}.</li></ol>
+
+OP.Const=for {name of constitution of this state}, the {Constitution.appropriate agency or official}
+
+OP.Session=for {name of session laws}, the {SessionLaws.appropriate agency or official}
+
+OP.Code=for {name of state code}, the {StateCode.agency or official}
+
+OP.AgencyRule=for a rule published in the {name of administrative code}, the {Rule.agency or official}
+
+OP.AgencyDecision=for a rule not published in the {name of administrative code}, the state  agency adopting the rule
+
+OP.CourtDecision=for a state administrative agency decision included under paragraph ({Def.Xnum})(E),  the {StateAgency.appropriate agency or official}
+
+OP.CourtDecision=for a state court decision included under paragraph ({Def.Xnum})(F), the {StateCourtDecision.appropriate agency or official}
+
+OP.CourtRule=for state court rules, the {StateCourtRules.appropriate agency or official}
+
+OP.Other=for {any other category of legal material included}, {Other.appropriate agency  or official}
+
+
+OfficialRecord._Sec=<u>LEGAL MATERIAL IN OFFICIAL ELECTRONIC RECORD</u>.<ol type="a"><li>If an official publisher publishes legal material only in an electronic record, the publisher shall:<ol><li>designate the electronic record as official; and<li>comply with Sections {AuthenticateHow.Xnum}, {Care.Xnum}, and {Access.Xnum}.</ol><li>An official publisher that publishes legal material in an electronic record and also publishes the material in a record other than an electronic record may designate the electronic record as official if the publisher complies with Sections {AuthenticateHow.Xnum}, {Care.Xnum}, and {Access.Xnum}.</ol>
+
+
+AuthenticateHow._Sec=<u>AUTHENTICATION OF OFFICIAL ELECTRONIC RECORD</u>. An official publisher of legal material in an electronic record that is designated as official under Section {OfficialRecord.Xnum} shall authenticate the record. To authenticate an electronic record, the publisher shall provide a method for a user to determine that the record received by the user from the publisher is unaltered from the official record published by the publisher.
+
+AuthenticateEffect._Sec=<u>EFFECT OF AUTHENTICATION</u>.<ol type="a"><li>Legal material in an electronic record that is authenticated under Section {AuthenticateHow.Xnum} is presumed to be an accurate copy of the legal material.<li>If another state has adopted a law substantially similar to {this act}, legal material in an electronic record that is designated as official and authenticated by the official publisher in that state is presumed to be an accurate copy of the legal material.<li>A party contesting the authentication of legal material in an electronic record authenticated under Section {AuthenticateHow.Xnum} has the burden of proving by a preponderance of the evidence that the record is not authentic.</ol>
+
+Care._Sec=<u>PRESERVATION AND SECURITY OF LEGAL MATERIAL IN OFFICIAL ELECTRONIC RECORD</u>.<ol type="a"><li>An official publisher of legal material in an electronic record that is or was designated as official under Section 4 shall provide for the preservation and security of the record in an electronic form or a form that is not electronic.<li>If legal material is preserved under subsection (a) in an electronic record, the official publisher shall:<ol><li>ensure the integrity of the record;<li>provide for backup and disaster recovery of the record; and<li>ensure the continuing usability of the material.</ol></ol>
+
+Access._Sec=<u>PUBLIC ACCESS TO LEGAL MATERIAL IN OFFICIAL ELECTRONIC RECORD</u>. An official publisher of legal material in an electronic record that is required to be preserved under Section {Care.Xnum} shall ensure that the material is reasonably available for use by the public on a permanent basis.
+Standards._Sec=<u>STANDARDS</u>. In implementing {this act}, an official publisher of legal material in an electronic record shall consider:<ol><li>standards and practices of other jurisdictions;<li>the most recent standards regarding authentication of, preservation and security of, and public access to, legal material in an electronic record and other electronic records, as promulgated by national standard-setting bodies;<li>the needs of users of legal material in an electronic record;<li>the views of governmental officials and entities and other interested persons; and<li>to the extent practicable, methods and technologies for the authentication of, preservation and security of, and public access to, legal material which are compatible with the methods and technologies used by other official publishers in this state and in other states that have adopted a law substantially similar to {this act}.</ol>
+Interprete._Sec=<u>UNIFORMITY OF APPLICATION AND CONSTRUCTION</u>. In applying and construing {this uniform act}, consideration must be given to the need to promote uniformity of the law with respect to its subject matter among states that enact it.
+
+OtherLaw._Sec=<u>RELATION TO ELECTRONIC SIGNATURES IN GLOBAL AND NATIONAL COMMERCE ACT</u>. {This act modifies} the Electronic Signatures in Global and National Commerce Act, 15 U.S.C. Section 7001 et seq., but {does not modify} Section 101(c) of that act, 15 U.S.C. Section 7001(c), or authorize electronic delivery of any of the notices described in Section 103(b) of that act, 15 U.S.C. Section 7003(b).
+
+This act modifies=This {act} modifies, limits, and supersedes
+
+does not modify=does not modify, limit, or supersede
+
+StartDate._Sec=<u>{StartDate.Title}</u>.  {StartDate._sec}
+
+StartDate.Title=EFFECTIVE DATE
+
+StartDate._sec=This {act} takes effect {. . . .}.
+
+Def.Xnum=2
+
+OfficialRecord.Xnum=4
+
+AuthenticateHow.Xnum=5
+
+Care.Xnum=7
+
+Access.Xnum=8
+
+StartDate.Xnum=12
+
+This act=This act
+
+act=act
+
+this act=this act
+
+this uniform act=this uniform act
+
