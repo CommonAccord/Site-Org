@@ -1,6 +1,0 @@
-Stub for legal requirements
-=[core/law/personalinfo/req/Req_Class]  
-
-EU.=[core/law/personalinfo/req/EU_Req]  
-
-Requires=France Requires: {UnDeuxTrois}<br>EU.Requires: {EU.Requires}    

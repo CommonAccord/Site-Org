@@ -1,8 +1,0 @@
-Model.Root={Sec}
-
-Sec=<u>Disputes</u><ol><li>{Law.Sec}</li><li>{Forum.Sec}</li></li></ol>
-
-Note=Borrowed (and adapted) from the ABA's Model Share Purchase Agreement.  
-
-Law.Sec=<u>Governing Law</u>  All matters relating to or arising out of {this Agreement} or any transaction contemplated by {this Agreement} and the rights of the {parties} (whether sounding in contract, tort, or otherwise) will be governed by and construed and interpreted under the laws of {Dispute.Law.State.of} without regard to conflicts of laws principles that would require the application of any other law.
-    

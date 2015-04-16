@@ -1,5 +1,0 @@
-NOTHING TO SEE, SO FAR.  <br>This is intended for a tree of legal requirements for transfer of personal information.  Beginning perhaps with medical info use case.  The idea is to populate lists with key=values that correspond to specific requirements.  The lists will be organized based on jurisdiction and law, using multiple inheritance.  So, a developer or other person trying to figure out if a transfer is permitted will situate themselves in this graph in such a way that the appropriate jurisdictions are in their namespace, and therefore the set of requirements are the collection of keys in that namespace.  
-
-Inheritance enables us to express complex sets of thoughts in an organized format.
-
-We can use this framework to help developers write applications that respect the rules.  We can also populate it with suggested legal text for defining the relationships.     
