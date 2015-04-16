@@ -1,0 +1,13 @@
+Doc={hw}
+
+hw={h} {w}
+
+w=world
+
+h=hello
+
+Prior.PageName=none
+
+Next.PageName=about/how/Lesson2
+
+=[about/Agt/Support]

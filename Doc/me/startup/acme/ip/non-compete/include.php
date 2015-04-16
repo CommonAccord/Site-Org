@@ -1,0 +1,1 @@
+"Toto, we're not in California anymore." Non-competes are not allowed in California.  They are allowed in NY and MA. It is said that they are a major item of negotiation and dispute in those markets.  Codification would allow market practices to develop with better fit and finer granularity.  This model is courtesy of Nixon Peabody.  

@@ -1,0 +1,23 @@
+=[01/Agt/Bit/Outline/Library_T01_V01]
+
+secs={1-3.Secs}
+
+Ti=Governing Law
+
+1.Sec=<b>For U.S. City, County, and State Government Entities.</b>  If {P2.Handle} is a U.S. city, county or state government entity, then {this Agreement} will be silent regarding governing law and venue.
+
+2.Sec=<b>For U.S. Federal Government Entities.</b>  {2.sec}
+
+2.sec={2.1.Sen}  {2.2.Sen}
+2.1.Sen=If {P2.Handle} is a U.S. federal government entity then the following applies:  <span style="text-transform: uppercase;">All claims arising out of or relating to {this Agreement} or the {Services} will be governed by the laws of the United States of America, excluding its conflict of laws rules.
+
+2.2.Sen=Solely to the extent permitted by federal law: (i) the laws of {Dispute.Law.State.the} (excluding {Dispute.Law.State}'s conflict of laws rules) will apply in the absence of applicable federal law; and (ii) for all claims arising out of or relating to {this Agreement} or the services, the {parties} consent to personal jurisdiction in, and the exclusive venue of, {Dispute.Forum._cl}</span>.
+
+3.Sec=<b>For All Other Entities.</b> {3.sec}
+3.sec={3.1.Cl} {3.2.Sen}
+3.1.Cl=If {P2.Handle} is any entity not set forth in Section {1.Xnum} or {2.Xnum} then the following applies:
+
+3.2.Sen=<span style="text-transform: uppercase;">All claims arising out of or relating to {this Agreement} or the {Services} will be governed by {Dispute.Law.State} law, excluding that state's conflict of laws rules, and will be litigated exclusively in {Dispute.Forum._cl}; the {parties} consent to personal jurisdiction in those courts.</span> 
+
+1.Xnum={Xnum}.1
+2.Xnum={Xnum}.2

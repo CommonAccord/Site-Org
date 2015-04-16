@@ -1,0 +1,16 @@
+Supply systems
+
+With=Code for America:<br><brWorke on putting the Boston City Code into digital format - <br><br>Did a food truck permit application. To show the connection.
+Food Truck=[event/food_truck/Truck_Example]
+
+Working on deepening the terms of the Master Services Agreement:
+
+MSA=[core/form/agt/master/Current]
+particularly=[core/form/agt/master/sec/ip/IP_Sec]
+and=[core/form/agt/master/sec/personaldata/PD_Sec]
+
+Working= on the NVCA - Term Sheet.  This is very complex work.
+=[core/form/agt/startup/nvca/ts/Current]
+Going=deep into the structure of the /nvca/ts/NVCA_TS_IRA
+Creating=a vocabulary to simplify the html stuff.  Also automating replacements.  Likely there are other, perhaps better, approaches.  This has the virtue of being native. 
+  

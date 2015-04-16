@@ -1,0 +1,11 @@
+Title=Isolate the patient
+1=Triage rapidly to a separate room /holding area
+2=The holding area should be:
+3=Distant from other crowded areas
+4=Well ventilated
+5=Have adequate sunlight
+6=Known to everyone in the facility
+List=<ol><li>{1}</li><li>{2}</li><li>{3}</li><li>{4}</li><li>{5}</li><li>{6}</li></ol>
+Model.Root={DocBody}
+DocBody=<b>{Title}</b> {List}
+  

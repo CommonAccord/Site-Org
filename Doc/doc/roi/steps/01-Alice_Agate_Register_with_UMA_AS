@@ -1,0 +1,16 @@
+P1.xSignature=xANDREA ANG
+
+P1.Sign.YMD=August 3, 2014
+
+P2.xSignature=xALICE
+
+P2.Sign.YMD=August 4, 2014
+
+P1.=[doc/roi/id/Agate]
+
+P2.=[doc/roi/id/Alice]
+
+=[doc/roi/ppr/General_Library]
+
+DocBody={Register_with_UMA_AS} 
+           

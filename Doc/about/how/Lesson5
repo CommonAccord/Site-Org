@@ -1,0 +1,23 @@
+=[about/how/Lesson4]
+
+AGT.Effective.YMD=September 4, 2014
+
+Prologue.Recital={m-}{P1.Handle} and {P2.Handle} wish to assure that {P2.Handle} will protect {P1.Handle}'s confidential information.{-m}
+
+The=whole system is
+
+= {key}
+
+=expands into value
+
+= and
+
+ =[listname]
+ 
+=expands into the key/values of the referenced list. 
+
+Commentary=Adding an actual engagement.
+
+Prior.PageName=about/how/Lesson4
+
+Next.PageName=about/how/Lesson6

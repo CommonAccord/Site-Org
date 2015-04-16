@@ -1,0 +1,46 @@
+Bugs:
+
+Done: hazardj kludged this by removing <title>  could be cleaned up.  
+Put the page name, not the site name, in the title of the page (so you can see it in the history). 
+Could REALLY use an error report when something doesn't render.  1) because there is no Model.Root or 2) bz a file is missing (misspelled, etc.).  Model.Root missing should return {Model.Root}.  Missing page should return the name of the file/page we were looking for. 
+
+
+Get rid of the calls to outside http done in the framing of pages.  
+
+I can't actually use the browser-based editing bz of privileges problem.  Work this out.  Could be far more productive.
+
+Let's keep our eye out for what causes the problem with pull at .Org
+
+
+
+
+
+Features:
+
+Get some of the rest of the team making documents.  Will show the strengths and weaknesses.
+
+Interface the parser to Eclipse or another IDE. So can render from Eclipse. 
+
+What links here?  Backlinks (happy to adopt other vocabulary).
+
+Provide values for Missing fields (e.g., a text appears next to each missing field, the user optionally enters text, the text is saved as key=value at the top of the text. (DO NOT make entry of text mandatory.  Most of the time we don't want to complete the fields.)   Please also add a false missing field called "Comment" so the user can add comments when they want. 
+
+In rendered view, mark text based on where it comes from.  
+
+UI- Slide a different person (or other file) into a deal.  Take one out. 
+
+Hmmm - think about this for future - I already to symlinks in the data model to a particular file.  (A file that is only =[other_file]) Think about how one would do a symlink to another folder and whether it would be useful.  Seems like it might be very useful.  But not needed for demo.
+
+
+JH-Did:
+
+Removed second copy Doc2 from the repository.
+
+Moved /about/include.php to /about/vision/include.php to get it out of the way.  Seems to be a duplicate of /explore.php.  Delete?
+
+  
+
+For the future:  
+
+Render view now takes a couple of steps to see updated.  Refresh page and click Render.  
+

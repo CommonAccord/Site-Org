@@ -1,0 +1,17 @@
+=[about/how/Lesson3]
+
+=[core/class/AGT_Frame]
+
+AGT.Title={r-}Non-Disclosure Agreement{-r}
+
+P1.Handle={r-}Acme{-r}
+
+P2.Handle={r-}Quake{-r}
+
+MessageToReader={Commentary}<br>{ToNextPage}
+
+Commentary=Adding a few specifics - marked in {r-}red{-r}.
+
+Prior.PageName=about/how/Lesson3
+  
+Next.PageName=about/how/Lesson5

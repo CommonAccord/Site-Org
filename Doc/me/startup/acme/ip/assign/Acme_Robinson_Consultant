@@ -1,0 +1,11 @@
+=[core/form/agt/ip/assignment/Orrick/Assignment_Form_Employee]
+P1.=[core/id/acme_incorporated]
+P2.=[core/id/roberta_robinson]
+
+AGT.Effective.YMD=October 1, 2014
+becoming/continuing=becoming
+Invent.StateLaw.Exclusion={Invent.StateLaw.Exclusion.Yes}
+Dispute.Law.State.of=California
+Injunction.Bond.Amount.$=20,000.00
+Exh.Invent.StateLaw.Text={Exh.Invent.StateLaw.CA.Text}
+      

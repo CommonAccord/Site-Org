@@ -1,0 +1,17 @@
+=[wef/letter/us_tx_dshs/Order_2014-10-16_Form]
+P1.xSignature=xDavid  Lakey MD
+P1.Sign.YMD=10/16/14
+P1.=[core/id/us_tx_dhsh]
+
+Shelter.=[core/id/texas_health_presbyterian_hospital_dallas]  
+
+the AffectedPeople={m-}the first Ebola patient{-m}
+
+the AffectedPeople's={m-}the first Ebola patient's{-m}
+ 
+Ban.Vehicle.Far.List={m-}airplane, ship, long-distance bus, or train{-m}
+
+Ban.Vehicle.Near.List={m-}taxi, bus{-m}
+
+Ban.Place.List={m-}restaurants, grocery stores, theaters, or other places where the public may be in attendance or gather{-m}
+          

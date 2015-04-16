@@ -1,0 +1,4 @@
+John.=[about/test/John]
+=[about/test/Beatles]
+
+/Model.Root=John played {John.Instrument} as {John.Role} of the Beatles.

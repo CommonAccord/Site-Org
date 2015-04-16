@@ -1,0 +1,23 @@
+=[doc/medical/info_release_drafts/Medical_Info_Release_Hazardj_v01]
+
+
+
+P1.Site={168.Site}
+Info.Time.Begin.YMD=January 20, 2014
+Info.Time.End.YMD=September 20, 2014
+Info.Source.List={Source.Admission}; {Source.Surgery}; and {Source.Outpatient}
+Info.Report.List={Lab}; {Radiology}; and {Operative}
+
+Info.Sensitive.List={Genetic}
+Delivery.Format.List ={Electronic}
+
+Delivery.Account.Confirm=CONFIRM
+Purpose.List={Purpose.Insurance}
+Expire.YMD=October 31, 2014
+
+P2.xSignature=xJAMES HAZARD
+P2.Rep.xSignature=N/A
+P2.Sign.YMD=September 27, 2014
+P2.Rep.Relationship=N/A
+P2.Witness.xSignature=xSOLOMON
+  

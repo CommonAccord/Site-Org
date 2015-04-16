@@ -1,0 +1,7 @@
+=[core/form/policy/health/privacy/NYP_Patient_Brochure]
+
+P1.=[core/id/acme_incorporated]    
+
+Effective Date=September 1, 2014
+
+10=<b>Applicability:</b>  This Notice of Privacy Practices applies to {P1.Name.Full}.

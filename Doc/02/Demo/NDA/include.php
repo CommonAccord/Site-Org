@@ -1,0 +1,1 @@
+These examples show how the base form of NDA - 02/Form/NDA/NDA_Form.02.md - can be used and adapted.  The Mutual is the base, the OneWay adapts it, etc.  Click on the "Source" tab in each case to see how it is done and navigate to the sources.

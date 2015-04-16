@@ -1,0 +1,11 @@
+Note/=A non-falsifiable version of a document from HD repository.  Diffed "locally".  
+
+Co.=[?https://raw.githubusercontent.com/CommonAccord/Org/4e3f3e44f0bbdbfc741bcd229f786b94adc114a1/Doc/core/id/acme_incorporated]
+
+=[?https://raw.githubusercontent.com/HumanDynamics/commonaccord/a275de9bafe82887c8277df74df94a4f08ddd8e3/Doc/core/form/agt/startup/yc/seriesAA/Form_YC_AA_CertificateOfIncorporation]
+
+5.4.4._Sec={m-}{Cap.AA.Vote.Bd.1}{-m}
+5.4.4.Vote.Bd.Together.If={m-}{Vote.Bd.Together}{-m}
+
+m-=<font color="red">
+-m=</font>

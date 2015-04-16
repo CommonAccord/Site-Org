@@ -1,0 +1,24 @@
+Model.Root=<b>Representations</b>:  See "Source" Tab.<br>Representations and warranties - the list of things that should be true, that a party can rely on and that the party in a position to know or control should repair if not true.  This is the longest section of many kinds of documents and could be easily standardized.  Again, the best format will be static, in the repo and on the site, but as we move there, here are examples that can be integrated into documents with a {X.Sec}.
+
+
+Consult=[02/Sec/Consult_Sec_Rep.01.md]
+
+KISS.Company.=[02/Sec/KISS_Sec_Rep_Company.01.md]
+
+KISS.Investor.=[02/Sec/KISS_Sec_Rep_Investor.01.md]
+
+KISS.Misc.=[02/Sec/KISS_Sec_Rep_Misc.01.md]
+
+NDA.NotViolate3PartyRight.=[02/Sec/NDA_Sec_Rep_NotViolate3PartyRight.01.md]
+
+TechStars.Company.=[02/Sec/TechStars_NotePurchase_cRep.01.md]
+
+TechStars.Investor.=[02/Sec/TechStars_NotePurchase_iRep.01.md]
+
+YC.Company.=[02/Sec/YC-Safe_Note_cRep.01.md]
+
+YC.Investor.=[02/Sec/YC-Safe_Note_iRep.01.md]
+
+ABA.MSPA.Buyer.=[ABA/MSPA/Sec/ABA-MSPA_bRep.md]
+
+ABA.MSPA.Seller.=[ABA/MSPA/Sec/ABA-MSPA_sRep.md]

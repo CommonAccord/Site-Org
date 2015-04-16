@@ -1,0 +1,43 @@
+Model.Root=<table><tr><td>{_Row}</td></tr></table>
+
+_row=Protective Provisions:</td><td>{While}addition to any other vote or approval required under the Company's Charter or Bylaws, the Company will not, without the written consent of the holders of at least {A.Vote.%} of the Company's Series A Preferred, either directly or by amendment, merger, consolidation, or otherwise: {Grey.List}
+
+<hr>
+Eliminate this insert by making Protect.While=In
+<hr>
+While=So long as {PortionOfShares} shares of Series A Preferred are outstanding, in 
+/PortionOfShares=insert fixed number, or %, or "any"
+<hr>
+
+Grey.List=(i) {Grey.Liquidate}; (ii) {Grey.Amend}; (iii) {Grey.Dilute}; (iv) {Grey.Redeem}; (v) {Grey.Debt}; (vi) {Grey.Subsidiary}; or (vii) {Grey.Board}.
+
+Grey.Liquidate=liquidate, dissolve or wind-up the affairs of the Company, or effect any merger or consolidation or any other Deemed Liquidation Event
+
+Grey.Amend=amend, alter, or repeal any provision of the Certificate of Incorporation or Bylaws {Grey.Amend.Adverse}
+ <hr>
+Grey.Amend.Adverse=in a manner adverse to the Series A Preferred
+
+Grey.Dilute=create or authorize the creation of or issue any other security convertible into or exercisable for any equity security, having rights, preferences or privileges senior to or on parity with the Series A Preferred, or increase the authorized number of shares of Series A Preferred
+<hr>
+
+Grey.Redeem=purchase or redeem or pay any dividend on any capital stock prior to the Series A Preferred{Grey.Redeem.ExceptEmployee}; {Grey.Redeem.Except.BDVote}
+
+Grey.Redeem.ExceptEmployee=, other than stock repurchased from former employees or consultants in connection with the cessation of their employment/services, at the lower of fair market value or cost
+
+Grey.Redeem.Except.BDVote=other than as approved by the Board, including the approval of {Grey.Redeem.Except.BDVote.Directors.#} Series A Director(s)
+
+Grey.Debt=create or authorize the creation of any debt security {Grey.Debt.IfExceed} {Grey.Debt.Except}
+
+Grey.Debt.IfExceed=if the Company's aggregate indebtedness would exceed ${Grey.Debt.IfExceed.$}
+
+Grey.Debt.Except={Grey.Debt.Except.LeaseOrLOC} {Grey.Debt.Except.BDVote}
+
+Grey.Debt.Except.LeaseOrLOC=other than equipment leases or bank lines of credit
+
+Grey.Debt.Except.BDVote=unless such debt security has received the prior approval of the Board of Directors, including the approval of {Grey.Debt.Except.BDVote.Directors.#} Series A Director(s)
+
+Grey.Subsidiary=create or hold capital stock in any subsidiary that is not a wholly-owned subsidiary or dispose of any subsidiary stock or all or substantially all of any subsidiary asset
+
+Grey.Board=increase or decrease the size of the Board of Directors
+
+  

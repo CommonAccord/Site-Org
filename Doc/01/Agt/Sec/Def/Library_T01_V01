@@ -1,0 +1,86 @@
+Model.Root={Sec}
+
+Ti=Definitions
+Sec=<b>{Ti}</b><ul><li>{Def.Account}</li><li>{Def.Admin_Console}</li><li>{Def.Affiliate}</li><li>{Def.Allegation}</li><li>{Def.Application}</li><li>{Def.AUP}</li><li>{Def.Brand_Features}</li><li>{Def.Committed_Purchase(s)}</li><li>{Def.Confidential_Information}</li><li>{Def.Control}</li><li>{Def.Data_Processing_and_Security_Terms}</li><li>{Def.Documentation}</li><li>{Def.Emergency_Security_Issue}</li><li>{Def.End_Users}</li><li>{Def.Fee_Threshold}</li><li>{Def.Fees}</li><li>{Def.High_Risk_Activities}</li><li>{Def.HIPAA}</li><li>{Def.Indemnified_Liabilities}</li><li>{Def.Instance}</li><li>{Def.Intellectual_Property_Rights}</li><li>{Def.Legal_Process}</li><li>{Def.License_Term}</li><li>{Def.Package_Purchase}</li><li>{Def.P2_Data}</li><li>{Def.Project}</li><li>{Def.Reserved_Capacity_Units}</li><li>{Def.Reserved_Unit_Term}</li><li>{Def.Reserved_Units}</li><li>{Def.Services}</li><li>{Def.Service_Specific_Terms}</li><li>{Def.SLA}</li><li>{Def.Software}</li><li>{Def.Taxes}</li><li>{Def.Terms_URL}</li><li>{Def.Third-Party_Legal_Proceeding}</li><li>{Def.Token}</li><li>{Def.Trademark_Guidelines}</li><li>{Def.TSS}</li><li>{Def.TSS_Guidelines}</li><li>{Def.Updates}</li></ul>
+
+Def.Account="{Account}" means {P2.Handle}'s {P1.Handle} account (either under a gmail.com address or an email address provided under the "{P1_Service_3}" product line), which is offered under and subject to the relevant terms of service.
+
+Def.Admin_Console="{Admin_Console}" means the online console(s) and/or tool(s) provided by {P1.Handle} to {P2.Handle} for administering the {Services}.
+
+Def.Affiliate="{Affiliate}" means any entity that directly or indirectly {Controls}, is {Controlled} by, or is under common {Control} with a party.
+
+Def.Allegation="{Allegation}" means an unaffiliated third party's allegation.
+
+Def.Application="{Application(s)}" means any web or other application {P2.Handle} creates using the {Services}, including any source code written by {P2.Handle} to be used with the {Services}, or hosted in an Instance.
+
+Def.AUP="{AUP}" means the acceptable use policy set forth here for the {Services}: {P1.www.web.com/AcceptableUse.Link}
+
+Def.Brand_Features="{Brand_Features}" means the trade names, trademarks, service marks, logos, domain names, and other distinctive brand features of each party, respectively, as secured by such party from time to time.
+
+Def.Committed_Purchase(s)="{Committed_Purchase(s)}" have the meaning set forth in the {Service_Specific_Terms}.
+
+Def.Confidential_Information="{Confidential_Information}" means information that one party (or an {Affiliate}) discloses to the other party under this Agreement, and which is marked as confidential or would normally under the circumstances be considered confidential information.  It does not include information that the recipient already rightfully knew, that becomes public through no fault of the recipient, that was independently developed by the recipient, or that was lawfully given to the recipient by a third party.   {P2_Data} is considered {P2.Handle}'s {Confidential_Information}.
+
+Def.Control="{Control}" means control of greater than fifty percent of the voting rights or equity interests of a party.
+
+Def.Data_Processing_and_Security_Terms="{Data_Processing_and_Security_Terms}" means the terms set forth at: {P1.www.web.com/DataProcessingAndSecurityTerms.Link}.
+
+Def.Documentation="{Documentation}" means the {P1.Handle} documentation (as may be updated from time to time) in the form generally made available by {P1.Handle} to its customers for use with the following {Services}: (a) {P1_Service_1}, set forth here: {P1.www.web.com/P1_Service_1/AcceptableUse.Link}; (b) {P1_Service_3}, set forth here: {P1.www.web.com/P1_Service_3/AcceptableUse.Link}; (c) {P1_Service_2}, set forth here: {P1.www.web.com/P1_Service_2/AcceptableUse.Link}; and(d) {P1_Service_4}, set forth here: {P1.www.web.com/P1_Service_4/AcceptableUse.Link}.
+
+Def.Emergency_Security_Issue="{Emergency_Security_Issue}" means either: (a) {P2.Handle}'s or its {End_User}'s use of the {Services} in violation of the {AUP}, which could disrupt: (i) the {Services}; (ii) other customers' or its {End_Users}' use of the {Services}; or (iii) the {P1.Handle} network or servers used to provide the {Services}; or (b) unauthorized third party access to the {Services}.
+
+Def.End_Users="{End_Users}" means the individuals {P2.Handle} permits to use the {Services}, Application, or {Project}.
+
+Def.Fee_Threshold="{Fee_Threshold}" means the threshold (as may be updated from time to time), as applicable for certain {Services}, as set forth here: {P1.www.web.com/Pricing.Link}.
+
+Def.Fees="{Fees}" means the applicable fees for each Service and any applicable {Taxes}. The {Fees} for each Service are set forth here: {P1.www.web.com/Pricing.Link}.
+
+Def.High_Risk_Activities="{High_Risk_Activities}" means uses such as the operation of nuclear facilities, air traffic control, or life support systems, where the use or failure of the {Services} could lead to death, personal injury, or environmental damage.
+
+Def.HIPAA="{HIPAA}" means the Health Insurance Portability and Accountability Act of 1996 as it may be amended from time to time, and any regulations issued thereunder.
+
+Def.Indemnified_Liabilities="{Indemnified_Liabilities}" means any (i) settlement amounts approved by the indemnifying party; and (ii) damages and costs finally awarded against the indemnified party and its {Affiliate}s by a court of competent jurisdiction.
+
+Def.Instance="{Instance}" means a virtual machine instance, configured and managed by {P2.Handle}, which runs on the {Services}.  {Instances} are more fully described in the {Documentation}.
+
+Def.Intellectual_Property_Rights="{Intellectual_Property_Rights}" means current and future worldwide rights under patent, copyright, trade secret, trademark, and moral rights laws, and other similar rights.
+
+Def.Legal_Process="{Legal_Process}" means a data disclosure request made under law, governmental regulation, court order, subpoena, warrant, governmental regulatory or agency request, or other valid legal authority, legal procedure, or similar process.
+
+Def.License_Term="{License_Term}" means the term of the Agreement, which will begin on the Effective Date and continue until the Agreement is terminated as set forth herein.
+
+Def.P2_Data="{P2_Data}" means content provided, transmitted, or displayed via the {Services} by {P2.Handle} or its {End_Users}; but excluding any data provided as part of the {Account}.
+
+Def.Package_Purchase="{Package_Purchase}" has the meaning set forth in the {Service_Specific_Terms}.
+
+Def.Project="{Project}" means a grouping of computing, storage, and API resources for {P2.Handle}, and via which {P2.Handle} may use the {Services}.  {Projects} are more fully described in the {Documentation}.
+
+Def.Reserved_Capacity_Units="{Reserved_Capacity_Units}" have the meaning set forth in the {Service_Specific_Terms}.
+
+Def.Reserved_Unit_Term="{Reserved_Unit_Term}" has the meaning set forth in the {Service_Specific_Terms}.
+
+Def.Reserved_Units="{Reserved_Units}" have the meaning set forth in the {Service_Specific_Terms}.
+
+Def.Services="{Services}" mean, as applicable: (a) {P1_Service_1}; (b) {P1_Service_2}; (c) {P1_Service_3}; and (d) {P1_Service_4}, and such other services as set forth here: {P1.www.web.com/OtherServices.Link} (including any associated application programming interfaces).
+
+Def.Service_Specific_Terms="{Service_Specific_Terms}" means the terms specific to one or more {Services} set forth here:  {P1.www.web.com/ServiceTerms.Link}.
+
+Def.SLA="{SLA}" means the {Service_Level_Agreement} as applicable to: (a) {P1_Service_1} set forth here: {P1.www.web.com/P1_Service_1/SLA.Link}; (b) {P1_Service_2} set forth here: {P1.www.web.com/P1_Service_2/SLA.Link}; (c) {P1_Service_3} set forth here: {P1.www.web.com/P1_Service_3/SLA.Link}; and (d) {P1_Service_4} set forth here: {P1.www.web.com/P1_Service_4/SLA.Link}.
+
+Def.Software="{Software}" means any downloadable tools, software development kits or other such proprietary computer software provided by {P1.Handle} in connection with the {Services}, which may be downloaded by {P2.Handle}, and any updates {P1.Handle} may make to such {Software} from time to time.
+
+Def.Taxes="{Taxes}" means any duties, customs fees, or taxes (other than {P1.Handle}'s income tax) associated with the purchase of the {Services}, including any related penalties or interest.
+
+Def.Terms_URL="{Terms_URL}" means the following URL set forth here: {P1_Service_2} set forth here: {P1.www.web.com/Terms.Link}.
+
+Def.Third-Party_Legal_Proceeding="{Third-Party_Legal_Proceeding}" means any formal legal proceeding filed by an unaffiliated third party before a court or government tribunal (including any appellate proceeding).
+
+Def.Token="{Token}" means an alphanumeric key that is uniquely associated with {P2.Handle}'s {Account}.
+
+Def.Trademark_Guidelines="{Trademark_Guidelines}" means {P1.Handle}'s Guidelines for Third Party Use of {P1_Brand_Features}, located at: {P1.www.web.com/3PartyUseGuidelines.Link}.
+
+Def.TSS="{TSS}" means the technical support service provided by {P1.Handle} to the administrators pursuant to the {TSS_Guidelines}.
+
+Def.TSS_Guidelines="{TSS_Guidelines}" means {P1.Handle}'s technical support services guidelines then in effect for the {Services}. {TSS_Guidelines} are at the following URL: {P1.www.web.com/EnterpriseTerms.Link}.
+
+Def.Updates="{Updates}" means the periodic software updates provided by {P1.Handle} to {P2.Handle} from time to time.  {Updates} are designed to improve, enhance and further develop the {Services} and may take the form of bug fixes, enhanced functions, new software modules and completely new versions.

@@ -1,0 +1,12 @@
+ts.=[core/form/agt/startup/seriesseed/ts/Current]
+
+invest.=[core/form/agt/startup/seriesseed/invest/Current]
+incorp.=[core/form/agt/startup/seriesseed/incorp/Current]
+
+Co.=[core/id/acme_incorporated]
+
+P1.=[core/id/quake_incorporated]
+
+Model.Root={ts.DocBody}<hr><hr>{invest.DocBody}<hr><hr>{incorp.DocBody}
+
+P1-N._Row=<tr><td>{P1.N/1/2}<br>{P1.Email}</td><td>{P1.Shares.Quantity}</td><td>{P1.Shares.IndebtednessCancelled}</td><td>{P1.Shares.CashPaid}</td><td>{P1.Shares.TotalPrice}</td></tr>            

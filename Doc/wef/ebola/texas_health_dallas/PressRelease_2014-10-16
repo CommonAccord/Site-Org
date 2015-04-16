@@ -1,0 +1,61 @@
+/Note=<href="http://www.texashealth.org/news-alert.cfm?id=1629&action=detail&ref=1901">Press Release</a>
+/Note=modified, less history.
+=[core/class/Doc_Table]
+P1.=[core/id/texas_health_presbyterian_hospital_dallas]
+P2.=[core/id/tanya_taylor]
+P1.Handle={m-}Texas Health Dallas{-m}
+P2.Handle={m-}Ms. Taylor{-m}
+Best.=[core/id/alison_andrews]
+Best.Title=Spokesperson
+CDC.=[core/id/gov_cdc]
+
+Model.Root={SummaryOfMeasures}
+
+SummaryOfMeasures={P1.Letterhead}<br>{Intro}{Measures.List}<br>{Setting}<br><br>{Closing}<br><br>{Contact}
+
+Intro={Intro.EmployeeRelations}<br>{Intro.NonRetaliation}<br>{Intro.EmployeeComplaintSystem}
+
+Intro.EmployeeRelations={P1.Name.Full} is committed to working together with its employees to provide a safe, healthy and satisfying workplace.
+
+Intro.NonRetaliation=In the pursuit of open feedback, {P1.Handle} has a strict nonretaliation policy. Employees are encouraged to raise issues and concerns via the chain of command. This process is a core tenet of our culture and values. It is documented in our Code of Business Ethics.
+
+Intro.EmployeeComplaintSystem=In addition, {P1.Handle} employees have two mechanisms available to anonymously raise issues about safety concerns or related matters. It is important to note that no {P1.Handle} employee did so concerning their care of {P2.Handle} or our two co-workers.
+
+Measures.List=<ul><li>{Measure.Isolation}</li><li>{Measure.Notification}</li><li>{Measure.SpecimenHandling.1}</li><li>{Measure.SpecimenHandling.2}</li><li>{Measure.Covering.1}</li><li>{Measure.Covering.2}</li><li>{Measure.Covering.3}</li><li>{Measure.HCW.TreatOtherPatients}</li><li>{Measure.OtherPatients}</li><li>{Measure.TrashHandling}</li><li>{Measure.Improvised}</li></ul>
+
+
+Measure.Isolation=When {P2.Handle} returned to the Emergency Department (ED), he arrived via EMS. {P2.He/She} was moved directly to a private room with a negative air pressure and placed in isolation. There were no other patients in that room. Again, THD staff wore the appropriate PPE as recommended by {CDC.Short} at the time.
+
+Measure.Notification=The Infection Prevention coordinator was properly notified in a timely manner of the initial diagnosis and followed {Regulator2.Name.Full} process of notification, which includes notification of the {CDC.Short}.
+
+Measure.SpecimenHandling.1={P2.Handle}ís initial ED specimens were handled in accordance with normal protocol, bagged and sent in a sealed container through the tube delivery system. There was no spillage of {P2.Handle}ís specimens.
+
+Measure.SpecimenHandling.2={P2.Handle}ís later specimens in the ED were triple-bagged, placed in a transport container and hand-carried to the lab utilizing the buddy system.
+Measure.SpecimenHandling.3={P2.Handle}ís specimens in the Medical ICU were hand-carried and sealed per protocol. Routine labs were done in his room via wireless equipment.
+
+Measure.Covering.1=Nurses who interacted with {P2.Handle} wore PPE consistent with {CDC.Short} guidelines. Staff had shoe covers, face shields were required, and N-95 mask was optional - again, consistent with {CDC.Short} guidelines at the time. 
+
+Measure.Covering.2=When {CDC.Short} issued updates, as they did with leg covers, we followed their guidelines.
+
+Measure.Covering.3=When {CDC.Short} recommended that nurses wear isolation suits, the nurses raised questions and concerns about the fact that the skin on their neck was exposed. Two onsite {CDC.Short} members approved and recommended that they pinch and tape the necks of the gown. Because our nurses continued to be concerned, particularly about removing the tape, we ordered medical shrouds.
+
+Measure.HCW.TreatOtherPatients=The {CDC.Short} classified risk/exposure levels. Nurses who were classified as ìno known exposureîù or ìno riskîù were allowed to treat other patients per {CDC.Short} guidance.
+
+Measure.OtherPatients=Patients who may have been exposed were always housed or isolated per {CDC.Short} guidance.
+Waste was contained in accordance with {CDC.Short} standards, and waste was located in safe and containable locations. 
+Measure.TrashHandling=It is a gross exaggeration to say that trash was stacked up to the ceiling.
+
+Measure.Improvised=When we received Tyvek suits, some were too large. We have since received smaller sizes, but it is possible that nurses used tape to cinch the suits for a better fit.
+
+Setting={Setting.1}<br>{Setting.2}
+
+Setting.1=It is incorrect and disturbing to many of our staff to hear media exaggerations about their commitment to the organization they love. They are understandably worried and concerned in the eye of this storm, but they are steadfastly supporting their patients, each other, and the hospital they love.
+
+Setting.2={P1.Handle} was the first hospital in the United States to receive a patient with undiagnosed Ebola. We have acknowledged that we made mistakes and that we are deeply sorry. Our amazing caregiving team did not hesitate to rise to the challenge despite being in an unprecedented situation.
+
+
+Closing={P1.Handle} remains a safe place for employees and patients. We support the tireless and selfless dedication of our nurses and physicians, and we hope these facts clarify inaccuracies recently reported in the media.
+
+
+Contact=Contact: {Best.Name.Full}<br>{Best.Phone}<br>{Best.Email}
+                                

@@ -1,0 +1,1 @@
+This ToU is just a way to get the ball rolling.  Borrowed from our friends at Ripple Labs.  No endorsement.  It is relatively extensive and includes some issues that will be unneeded in many circumstances, because it deals with digital currency.  If you have a better solution, please suggest it.  <a href='http://twitter.com/commonaccord'>@commonaccord</a>.

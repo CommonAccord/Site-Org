@@ -1,0 +1,77 @@
+=[01/Agt/Bit/Outline/Library_T01_V01]
+
+secs={1-13.Secs}
+
+10.Xnum={Xnum}.10
+
+Ti=Miscellaneous
+
+1.Ti=Notices
+
+1.sec=All notices must be in writing and addressed to the other {party}'s legal department and primary point of contact.  The email address for notices being sent to {P1.Handle}'s Legal Department is {P1.Legal.Email.Link}.  Notice will be treated as given on receipt as verified by written or automated receipt or by electronic log (as applicable).
+
+2.Ti=Assignment
+
+2.sec=Neither {party} may assign any part of {this Agreement} without the written consent of the other, except to an {Affiliate} where: (a) the assignee has agreed in writing to be bound by the terms of {this Agreement}; (b) the assigning {party} remains liable for obligations under {this Agreement} if the assignee defaults on them; and (c) the assigning {party} has notified the other {party} of the assignment.  Any other attempt to assign is void.
+
+3.Ti=Change of Control
+
+3.sec=If a {party} experiences a change of {Control} (for example, through a stock purchase or sale, merger, or other form of corporate transaction): (a) that {party} will give written notice to the other {party} within thirty days after the change of {Control}; and (b) the other {party} may immediately terminate {this Agreement} any time between the change of {Control} and thirty days after it receives that written notice.
+
+4.Ti=Force Majeure
+
+4.sec=Neither {party} will be liable for failure or delay in performance to the extent caused by circumstances beyond its reasonable control.
+
+5.Ti=No Agency
+
+5.sec={This Agreement} does not create any agency, partnership or joint venture between the {parties}.
+
+
+6.Ti=No Waiver
+
+6.sec=Neither {party} will be treated as having waived any rights by not exercising (or delaying the exercise of) any rights under {this Agreement}.
+
+
+7.Ti=Severability
+
+7.sec=If any term (or part of a term) of {this Agreement} is invalid, illegal, or unenforceable, the rest of {this Agreement} will remain in effect.
+
+
+8.Ti=No Third-Party Beneficiaries
+
+8.sec={This Agreement} does not confer any benefits on any third party unless it expressly states that it does.
+
+
+9.Ti=Equitable Relief
+
+9.sec=Nothing in {this Agreement} will limit either {party}'s ability to seek equitable relief.
+
+10.Ti=Conflicting Terms
+
+10.sec=If there is a conflict between the documents that make up {this Agreement}, the documents will control in the following order: {this Agreement}, and the terms at any URL.  
+
+11.Ti=Amendments
+
+11.sec=Any {11.Base.cl}.
+
+11.Except.Cl=Except as set forth in Section {1.7.2.Xref}, any 
+
+11.Base.cl=amendment to {this Agreement} must be in writing, signed by both {parties}, and expressly state that it is amending {this Agreement}
+
+12.Ti=Survival
+
+12.sec=The following Sections will survive expiration or termination of {this Agreement}: {Surviving.Xnums}
+
+Surviving.Xnums=5, 7, 8.5, 12, 13, and 15
+
+13.Ti=Entire Agreement
+
+13.sec={13.1.Sen}  {13.2.Sen}  {13.3.Sen}  {13.4.Sen}
+ 
+13.1.Sen={This Agreement} sets out all terms agreed between the {parties} and supersedes all other agreements between the {parties} relating to its subject matter.
+
+13.2.Sen=In entering into {this Agreement}, neither {party} has relied on, and neither {party} will have any right or remedy based on, any statement, representation or warranty (whether made negligently or innocently), except those expressly set out in {this Agreement}.
+
+13.3.Sen=The terms located at a URL referenced in {this Agreement} and the {Documentation} are incorporated by reference into {this Agreement}.
+
+13.4.Sen=After the {Effective_Date}, {P1.Handle} may provide an updated URL in place of any URL in {this Agreement}.

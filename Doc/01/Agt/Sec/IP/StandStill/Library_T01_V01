@@ -1,0 +1,25 @@
+=[01/Agt/Bit/Outline/Library_T01_V01]
+
+secs={1-3.Secs}
+
+Ti={Intellectual_Property_Rights}; Use of {P2_Data}; Feedback
+
+1.Ti={Intellectual_Property_Rights}
+
+1.sec={1.1.Sen}  {1.2.Sen}
+
+1.1.Sen=Except as expressly set forth in {this Agreement}, {this Agreement} does not grant either {party} any rights, implied or otherwise, to the other {party}'s content or intellectual property.
+
+1.2.Sen=As between the {parties}, {P2.Handle} owns all {Intellectual_Property_Rights} in {P2_Data} and the {Application} or {Project} (if applicable), and {P1.Handle} owns all {Intellectual_Property_Rights} in the {Services} and {Software}.
+
+2.Ti=Use of {P2_Data}
+
+2.sec={2.1.Sen}  {2.2.Sen}
+
+2.1.Sen={P1.Handle} may use {P2_Data} and {Applications} only to provide the {Services} to {P2.Handle} and its {End_Users} and to help secure and improve the {Services}.
+
+2.2.Sen=For instance, this may include identifying and fixing problems in the {Services}, enhancing the {Services} to better protect against attacks and abuse, and making suggestions aimed at improving performance or reducing cost.
+
+3.Ti={P2.Handle} Feedback
+
+3.sec=If {P2.Handle} provides {P1.Handle} feedback or suggestions about the {Services}, then {P1.Handle} may use that information without obligation to {P2.Handle}, and {P2.Handle} hereby irrevocably assigns to {P1.Handle} all right, title, and interest in that feedback or those suggestions.

@@ -1,0 +1,59 @@
+=[core/form/agt/master/Current]
+
+=[core/form/agt/master/config/Finance_Type1]
+
+P1.=[core/id/acme_incorporated]
+
+P2.=[core/id/quake_incorporated]
+
+<b>P1 - Company</br>=
+
+P1.ParentAndSub={P1.N,E,A} on behalf of itself and its affiliates
+
+P1.Handle=Company
+
+P1.FinanceWing.Name=Acme Receiving Corporation Company
+
+P1.FinanceWing.-=ARCC
+
+<b>P2 - Supplier</b>=
+
+P2.Handle=Supplier
+
+AGT.Title=Acme Master Services Agreement
+
+AGT.Effective.YMD=August 15, 2014
+
+Services.Description=HR management
+
+Term.End.YMD=December 31, 2019
+
+Confidential.Engage.Duration=three (3) years from the date of each disclosure of Proprietary Information
+
+P1.Guidelines=Acme Supplier Guidelines
+
+CWD.Full=Contingent Workers Database
+
+email.CWD.com=admin@contingentworkers.com
+
+CWD.Addr.1,2=111 Main Street, Indianapolis, Indiana 46077
+
+P1.FinanceWing.Handle=Acme Financial
+
+P1.EmploymentDataPolicyURL=acme.com/employeedatastandards.html
+
+Compensation.Intro.NB={_delete!_}
+
+ClaimForAdjustment.days=within ten (10) days
+
+Dispute.Forum._cl=the state courts sitting in the County of Suffolk and the federal courts for the District of Massachusetts
+
+Dispute.Law.State.of=the Commonwealth of Massachusetts
+
+P1.xSignature=x Andrea Ang
+
+P2.xSignature=x C Kendall
+
+Sign.YMD=September 2, 2014
+
+PageName=doc/master/Acme-Quake_MasterServices_Demo_1_d01

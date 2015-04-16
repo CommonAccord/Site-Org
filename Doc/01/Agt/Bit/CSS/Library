@@ -1,0 +1,7 @@
+body {
+    background-color: lightblue;
+}
+ol ol {
+    color: navy;
+    margin-left: 20px;
+}

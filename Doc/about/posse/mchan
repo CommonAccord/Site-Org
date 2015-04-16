@@ -1,0 +1,26 @@
+Model.Root={URL}<br>{Addr.Table}
+
+=[core/class/ID_He]
+
+Name.First=Michael
+
+Name.Last=Chan
+
+Addr.Type=professional
+
+Addr.1=55 West End Avenue, Suite 9-H
+
+Addr.2={Addr.City}, {Addr.ST}  {Addr.Zip}
+
+Addr.City=New York
+
+Addr.ST=NY
+
+Addr.Zip=10023
+
+Phone=646-580-8860
+
+Email=info@melwanichan.com
+
+
+URL=<a href="http://melwanichan.com/attorneys/">Melwani Chan</a>

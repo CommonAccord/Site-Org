@@ -1,0 +1,23 @@
+[[01/Agt/Sec/Dispute/Lit/]]
+
+<binder>
+01/Agt/Sec/Dispute/Lit/MSA
+</binder>
+
+<field>
+Default_Field={Dispute.Sec}
+
+Dispute.Sec=<b>Disputes; Law.</b> <ol><li>{Dispute.Law.Sec}</li><li>{Dispute.Amical.Sec}<br></li><li>{Dispute.Forum.Sec}</li></ol>
+
+Dispute.Law.Sec=<b>Applicable Law.</b><br> {Dispute.Law.Base.Sen}  {Dispute.Law.Exclude.CISG.Sen}
+
+Dispute.Law.Base.Sen=Each {party}'s rights and obligations under or in connection with {this Agreement} shall be governed by the laws of {Dispute.Law.State.of} (excluding its conflict of laws rules).
+
+Dispute.Law.Exclude.CISG.Sen=The United Nations Convention on Contracts for the International Sale of Goods does not apply to this Agreement.
+
+Dispute.Amical.Sec=<b>Amicable Resolution.</b><br> The {parties} shall attempt amicably to resolve any controversy, dispute or difference arising out of {this Agreement}.  Either {party} may invoke this provision by sending a notice to the other.  If there is no resolution of the dispute within {Dispute.Amical.Period.Max}, then either {party} may initiate litigation.
+
+Dispute.Forum.Sec=<b>Exclusive Forum.</b><br> The exclusive forum for litigation is {Dispute.Forum._cl}.  Each {party} submits to personal jurisdiction in said courts and waives all defenses to such jurisdiction, including defenses based on venue or <i>forum non conveniens</i>.
+
+Dispute.Amical.Period.Max=60 days
+</field>

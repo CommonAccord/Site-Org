@@ -1,0 +1,19 @@
+Referencing=Lesson 1
+
+
+<p>= and extending it:
+
+hw={hlw}
+
+hlw={h} {r-}{l}{-r} {w}
+
+l=legal
+
+
+Prior.PageName=about/how/Lesson1
+
+Next.PageName=about/how/Lesson3
+
+PageName=about/how/Lesson2
+
+=[about/how/Lesson1]

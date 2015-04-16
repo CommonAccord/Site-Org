@@ -1,0 +1,26 @@
+=[core/form/agt/nda/Form_MIT_TLO_Mutual]
+
+=[core/ids/mit_quake]
+
+P1.Handle=MIT
+
+P2.Handle=Company
+
+AGT.Effective.YMD=August 23, 2014
+
+State.Of=the Commonwealth of Massachusetts
+
+AGT.Attach=test
+
+Deal.#=Contract 2014-01-234l2
+
+Sign.YMD=September 1, 2014
+
+P1.xSignature=x S Shirley
+
+P2.xSignature=x C Kendall
+
+AGT.Attach=<b> </b>
+
+
+																														    

@@ -1,0 +1,12 @@
+=Now we change the Note into an equity version (w/o) interest or maturity.
+
+=[core/form/agt/startup/500/Delta_KISS_Equity]
+
+=[me/startup/acme/funds/debt/500/KISS_Demo_1_Debt]
+ 
+Co.Sign.YMD=August 24, 2014
+
+Investor.Sign.YMD=August 26, 2014
+
+
+					    

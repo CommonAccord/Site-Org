@@ -1,0 +1,23 @@
+Note/=This shows one way to use meaningful labels AND maintain a numerical system that permits easy matching of equivalents across languages. 
+Model.Root={Sec}
+Sec=<b>Disclaimer.</b><br>  {NoWarranty.Sen}  {LostData.Sen}  {P2Backup.Sen}  {NotErrorFree.Sen}  {NotForHighRisk.Sen}  
+
+NoWarranty.Sen={1.Sen}
+
+1.Sen=Except as expressly provided for herein, to the maximum extent permitted by applicable law, {P1.Handle} and its suppliers do not make any other warranty of any kind, whether express, implied, statutory or otherwise, including without limitation warranties of merchantability, fitness for a particular use and noninfringement.
+
+LostData.Sen={2.Sen}
+
+2.Sen={P1.Handle} and its suppliers are not responsible or liable for the deletion of or failure to store any {P2_Data} and other communications maintained or transmitted through use of the services.
+
+P2Backup.Sen={3.Sen}
+
+3.Sen={P2.Handle} is solely responsible for securing and backing up its application, project, and {P2_Data}.
+
+NotErrorFree.Sen={4.Sen}
+
+4.Sen=Neither {P1.Handle} nor its suppliers, warrants that the operation of the software or the services will be error-free or uninterrupted.
+
+NotForHighRisk.Sen={5.Sen}
+
+5.Sen=Neither the software nor the services are designed, manufactured, or intended for high risk activities.

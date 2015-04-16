@@ -1,0 +1,2 @@
+A sketch of the needs of a startup.   Drawing documents from a number of sources.  Note that none of these, so far, are endorsed or supported by the sources.  If you are a source, or have another solution, please feel free to claim the source or contribute the solution.  If you have an itch that this might scratch, please let the community know.  <a href='http://twitter.com/commonaccord'>@commonaccord</a>.  
+

@@ -1,0 +1,91 @@
+Co.Handle=Company
+Co.=[core/id/acme_incorporated]
+P1.Handle=Lead Investor
+P1.=[core/id/quake_incorporated]
+P1.Director.=[core/id/colleen_kendall]
+P2.=[core/id/roberta_robinson]
+ts.Summary.Round.Raise.BridgeLoan=<b></b>
+ts.=[NVCA/TermSheet/Form.md]
+spa.=[core/form/agt/startup/nvca/spa/nofounderrep/Current]
+ts.Charter.Protect.PortionOfShares=10% of
+BARELY A STUB=just a start on parameterizing
+Model.Root={ts.DocBody}<hr><hr>{spa.DocBody}
+
+Dispute.Law.State.of=the Commonwealth of Massachusetts
+
+P1.Shares.#=1,000
+P1.Shares.%=30%
+P1.Shares.$=$300,000
+P2.Shares.#=500
+P2.Shares.%=15%
+P2.Shares.$=$150,000
+
+Round.Raise.Total.$=$1,000,000
+Round.Price.$=$100
+PreR.Valuation.$=$4,000,000
+Round.Raise.BridgeLoan=<b></b>
+PostR.Valuation.$=$10,000,000
+
+PostR.Emp.Valuation.%=$100,000
+
+Div.Cumulative.Preference.%=8%
+Div.NonCumulative.Preference.$=6%
+priceMultiple=2
+Charter.Div.Alternative={Charter.Div.Alternative1}
+Charter.Liq.Alternative={Charter.Liq.Alternative1}
+
+Liq.PriceMultiple=2
+
+Div.Cumulative.Preference.%=
+Div.NonCumulative.Preference.$=
+priceMultiple=
+Liq.PriceMultiple=
+Liq.Trigger.Except.%=
+Vote.DirA.Threshold=
+Vote.DirA.#=
+PortionOfShares=
+A.Vote.%=
+Grey.Redeem.Except.BDVote.Directors.#=
+Grey.Debt.IfExceed.$=
+Grey.Debt.Except.BDVote.Directors.#=
+
+From TS Charter Mandatory:
+Mand.firm commitment=firm commitment
+Mand.Multiple=2
+MandatoryConvert.net/gross=gross
+MandatoryConvert-QPO-Min-Proceeds-$=$50 million
+MandatoryConvert.Consent-of-A-Holders.%=50%
+
+Grey.Redeem.Except.BDVote.Directors.#={m-}two-thirds{-m}
+Grey.Debt.IfExceed.$=$50,000
+Grey.Debt.Except.BDVote.Directors.#={m-}two-thirds{-m}
+P2.Atty.Fee.Max=$15,000
+Period-Following-IPO-When-May-Demand-Registration=one year
+Min-Percentage-of-Securities-To-Make-Demand=25%
+Number-Of-Times-May-Request-Registration=two
+Min-Offering-Price-For-Demanded-Registration=$200,000
+Percentage-Of-Holders-Who-May-Require-S3-Registration=10%
+Min-S3-Offering-Amount=$100,000
+Max-Number-Of-S3-Per-Year=two
+Min-Number-Of-Piggyback-Shares=10,000
+Max-Fees-For-Stockholder's-Atty-For-Registration=$30,000
+Amount-That-Investor-Must-Purchase-To-Qualify-As-Major-Investor.$=$50,000
+IDA.one/both=one
+Amount-Of-Borrowing-Requiring-Investor-Director-Approval=$100,000
+Amount-Of-Corporate-Transaction-Requiring-Investor-Director-Approval=$200,000
+ESO.AddToPool.Share.#=200,000
+ESO.TotalPool.#=400,000
+BD.Size.#=5
+P1.Director.Name.Full=Samantha Sangel
+P2-N.Director.Name.Full=Terrance Tengen
+Founder.All.Director.Name.Full=Fred Ferron
+Independent.Directors.#=Ulf Uellendorf and Victor Vento
+Drag.FutureCommon.%=10%
+Vote.Drag.Pref.%=10%
+NoShop.weeks=six
+NoShop.Begin.YMD=September 10, 2014
+NoShop.LiqDamages.Unless.Offers=????
+NoShop.LiqDam.$=$100,000
+TS.Expire.Fixed.YMD=November 30, 2014
+AGT.Effective.YMD=September 10, 2014
+Sign.Block=<table><tr><td>{Co.Sign.Block}</td><td>{P1.Sign.Block}</td></tr></table>				                                            

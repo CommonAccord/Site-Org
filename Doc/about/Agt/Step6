@@ -1,0 +1,11 @@
+=[about/Agt/Step5]
+
+Misc.=[03/Sec/Library_Sec_Misc.01.md]
+
+Misc.Sec={Misc.NDA.1.Sec}
+
+MessageToUser=Adding a library of Miscellaneous provisions and selecting a mix of them. 
+
+Prior.PageName=about/Agt/Step5
+
+Next.PageName=about/Agt/Step7

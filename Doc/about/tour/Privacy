@@ -1,0 +1,20 @@
+A couple of links for privacy. 
+
+<p>=Definitions Section
+
+=[core/form/agt/master/sec/Definition_Library]
+
+<p>=Section On Privacy
+
+PD.=[core/form/agt/master/sec/personaldata/PD_Sec]
+
+<p>=In the context of a whole document
+
+Master.=[core/form/agt/master/Current]
+
+Model.Root=<ol><li>Def.Company_Personal_Data:<br> {Def.SelectSections}</li><li>Def.Proprietary_Information:<br> {Def.Proprietary_Information}</li><li>personaldata._Sec:<br> {PD._Sec}</li><li>Whole Master Agreement<br>{Master.AGT.DocBody}</li></ol>
+
+
+Def.SelectSections=<ol><li>{Def.Company_Personal_Data}</li><li>{Def.Data_Subjects}</li><li>{Def.Personal_Data}</li><li>{Def.Supplier's_Personnel}</li></ol>
+
+							  

@@ -1,0 +1,21 @@
+=[wef/mta/form/ott_nih_gov_sla]
+
+Material.=[wef/mta/sample/re_bio_terastio_kaki]
+Fee.$=GRATIS
+has/has not=has not
+  
+P1.Scientist.=[core/id/abigail_altima]
+P1.Officer.=[core/id/alison_andrews]
+P1.Officer.Title=Director of Technology Transfer
+P1.Officer.xSignature=xALISON ANDREWS
+P1.Sign.YMD=October 23, 2014
+P1.=[core/id/mit]
+
+P2.Scientist.=[core/id/solomon_shirley]
+P2.Officer.=[core/id/roberta_robinson]
+P2.Officer.Title=Chief of Laboratory
+P2.Scientist.xSignature=xROBERTA ROBINSON
+P2.Scientist.Sign.YMD=October 24, 2014  
+P2.=[core/id/nih]
+
+  

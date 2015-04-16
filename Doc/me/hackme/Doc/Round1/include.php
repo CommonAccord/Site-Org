@@ -1,0 +1,1 @@
+Acme is offering a NOTE on the Y-Combinator SAFE model, cap, no discount.  This round is $100k.  

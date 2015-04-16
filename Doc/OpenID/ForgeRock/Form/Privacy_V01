@@ -1,0 +1,121 @@
+Model.Root={PolicyBody}
+
+PolicyBody={Top}<br>{0}<ol><li>{1.Sec}</li><li>{2.Sec}</li><li>{3.Sec}</li><li>{4.Sec}</li><li>{5.Sec}</li><li>{6.Sec}</li><li>{7.Sec}</li><li>{8.Sec}</li><li>{9.Sec}</li></ol>
+
+Top=<center><b>{Agt.Ti}</b></center><br><br>Revision Date:  {Revision.Date}<br><br>
+
+P1.Handles={P1.Handle}, "us"
+P1.Handle=Service Provider
+
+
+P2.Handles={P2.Name.Full} or "you"
+P2.Handle=you
+Agt.Ti=Privacy Policy
+
+Revision.Date=Oct. 1, 2012
+
+0={0.1.sec}  {0.2.sec}
+
+0.1.sec={P1.The} is committed to protecting your privacy.  
+
+0.2.sec={ModeOfAgreement.Cl}, you are consenting to the information collection and use practices described in this privacy statement.
+
+ModeOfAgreement.Cl=By accessing the site
+
+1.Sec=<b>{1.Ti}</b><br>{1.sec}
+2.Sec=<b>{2.Ti}</b><br>{2.sec}
+3.Sec=<b>{3.Ti}</b><br>{3.sec}
+4.Sec=<b>{4.Ti}</b><br>{4.sec}
+5.Sec=<b>{5.Ti}</b><br>{5.sec}
+6.Sec=<b>{6.Ti}</b><br>{6.sec}
+7.Sec=<b>{7.Ti}</b><br>{7.sec}
+8.Sec=<b>{8.Ti}</b><br>{8.sec}
+9.Sec=<b>{9.Ti}</b><br>{9.sec}
+
+1.Ti=Collecting Your Personal Information
+
+1.sec={1.1.Sen}  {1.2.Sen}  {1.3.Sen}  {1.4.Sen}  {1.5.Sen}  {1.6.Sen}  {1.7.Sen}  {1.8.Sen}
+
+1.1.Sen=We will ask you when we need information that personally identifies you (personal information) or allows us to contact you to provide a service or carry out a transaction that you have requested such as requesting information about {P1.the}, ordering e-mail newsletters, joining {P1.the}, signing up for an event or training.
+1.2.Sen=The personal information we collect may include {PersonalDataScope.Active.list.cl}.
+
+
+PersonalDataScope.list.cl=your name, title, company or organization name, work e-mail, work phone, work or home address, information about your job function, and information about your company
+
+1.3.Sen=When you register for an online event or resource on our site you are asked for your name, email address, country, and job title.
+
+1.4.Sen=Although the event registration page has the same look and feel as {P1.www.web.com} you may actually be submitting registration information to our third party service provider who then shares the information back with {P1.www.web.com} in order to fulfill your registration request.
+
+1.5.Sen=Please note that our privacy statement does apply and that our service provider must treat your personal information in accordance with our privacy statement.
+1.6.Sen=Your security is important to our third party service provider.
+
+1.7.Sen=The Site may collect certain anonymous information about your visit, such as  {PersonalDataScope.Active.list.cl}. 
+
+PersonalDataScope.Active.list.cl=the name of the Internet service provider and the Internet Protocol (IP) address through which you access the Internet; the date and time you access the Site; the pages that you access while at the Site and the Internet address of the Web site from which you linked directly to our site
+
+1.8.Sen=This information is used to help improve the Site, analyze trends, and administer the Site.
+
+
+2.Ti=Links
+
+2.sec={2.1.Sen}  {2.2.Sen}  {2.3.Sen}  {2.4.Sen}  {2.5.Sen}  {2.6.Sen}  {2.7.Sen}  {2.8.Sen}  {2.9.Sen}  {2.10.Sen}
+
+2.1.Sen=The personal information collected through our offline forms will be used to operate the site and to provide the service(s) or carry out the transaction(s) you have requested or authorized.
+
+2.2.Sen=In support of these uses, {P1.the} may use personal information to provide you with more effective customer service, to improve the site and any related {P1.the} products or services.
+
+2.3.Sen=We may use your personal information to provide you with important information about the product or service that you are using, including critical updates and notifications.
+
+2.4.Sen={P1.The} occasionally hires other companies, consultants and contractors to provide limited services on our behalf, such as Web site hosting, packaging, public relations, mailing, answering customer questions about products and services, and sending information about our products, special offers and other new services. 
+
+2.5.Sen=We will only provide those companies the personal information they need to deliver the service.
+
+2.6.Sen=They are required to maintain the confidentiality of the information and are prohibited from using that information for any other purpose.
+
+2.7.Sen={P1.The} may disclose personal information if required to do so by law or in the good faith belief that such action is necessary to (a) conform to the edicts of the law or comply with legal process served on {P1.the} or the Site; (b) protect and defend the rights or property of {P1.the} or (c) act in urgent circumstances to protect the personal safety of {P1.the} employees or agents, users of {P1.the} products or services, or members of the public.
+
+2.8.Sen=We will retain your information for as long as your account is active or as needed to provide you services.
+
+2.9.Sen=If you wish to cancel your account or request that we no longer use your information to provide you services, contact us at info@forgerock.com.
+
+2.10.Sen=We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+
+3.Ti=Control of Your Personal Information
+
+3.sec=Except as otherwise described in this statement, personal information you provide on the site will not be shared outside of {P1.the} without your permission.
+
+
+4.Ti=Access to Your Personal Information
+
+4.sec=You can review and edit the personal information and any contact preferences provided at the Site by sending e-mail to info@forgerock.com or in writing to: <br>{P1.Notice.Block}
+
+5.Ti=Security of Your Personal Information
+
+
+5.sec={5.1.Sen}  {5.2.Sen}  {5.3.Sen}  {5.4.Sen}  {5.5.Sen}
+
+5.1.Sen={P1.The} is committed to protecting the security of your personal information.
+5.2.Sen=We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure.
+5.3.Sen=For example, we store the personal information you provide on computer servers with limited access that are located in controlled facilities.
+5.4.Sen=No method of transmission over the Internet, or method of electronic storage, is 100% secure.
+5.5.Sen=Therefore, we cannot guarantee its absolute security.
+
+6.Ti=Cookies
+6.sec=We use both session ID and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. Persistent cookies enable us to track and target the interests of our users to enhance the experience on our site including access to our member's only area. The use of cookies by our partners or service providers is not covered by our privacy statement. We do not have access or control over these cookies. Our partners and service providers may utilize session ID cookies to make it easier for you to navigate our site, in order for you to register for events, pay membership dues, etc.
+
+7.Ti=Changes to This Privacy Statement
+
+7.sec=We may occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of the privacy statement. For material changes to this privacy statement, we will notify you either by placing a prominent notice on the homepage of our website or by directly sending you a notification prior to the changes taking effect. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
+
+8.Ti=Changes in Ownership
+
+8.sec=If {P1.the} is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+
+9.Ti=Contact Information
+
+9.sec={9.1.sec}<br>{9.2.sec}
+ 
+9.1.sec={P1.The} welcomes your comments regarding this privacy statement. If you believe that {P1.the} has not adhered to this privacy statement, please contact us by e-mail at info@forgerock.com or via postal mail at the address provided below, and we will use commercially reasonable efforts to promptly determine and remedy the problem. <br>{P1.Contact.Block}
+
+9.2.sec=If you no longer wish to receive our newsletter communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at info@forgerock.com or you may contact us at our address.
