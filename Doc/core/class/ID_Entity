@@ -4,6 +4,11 @@ entity=legal person
 
 For French:
 
+<<<<<<< HEAD
+=======
+For French:
+
+>>>>>>> origin/master
 Forme=un {entity}
 
 Addr.Type=business

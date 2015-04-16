@@ -12,4 +12,4 @@ lui/elle=elle
 
 /e=e
 
-=[FR/FR_Autres_Elements.md]
+=[FR/Sec/FR_Autres_Elements.md]
