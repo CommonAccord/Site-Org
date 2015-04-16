@@ -1,1 +1,0 @@
-Done by our friend:  <a href="valcu.com">valcu.com</a>

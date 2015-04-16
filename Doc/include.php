@@ -1,3 +1,0 @@
-
-
-These folders present a surfeit of examples, including the really good ones linked from <a href="http://commonaccord.org/index.php?action=demo">here</a>.  <br>The more focused work - and the core of a fully-codified approach to legal documents is at /02/, then /03/ and then /04/ below.  We are some distance, but the goal is in sight.<br>So the future is something like what is shown in /04/.  The rest is resource. As with long division, it shows our work.

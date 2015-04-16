@@ -1,1 +1,0 @@
-This Escrow form is used in <a href="http://www.commonaccord.org/index.php?action=list&file=./doc/escrow/">the Escrow demo</a>.

@@ -1,5 +1,0 @@
-=[OpenID/ForgeRock/Form/Summary_Library]
-
-PersonalDataScope={PersonalDataScope.list.cl} and {PersonalDataScope.Active.list.cl}
-
-Constraints=<ol><li><b>2.5.Sen </b> {2.5.Sen}</li><li><b>2.6.Sen </b> {2.6.Sen}</li><li><b>3.sec </b> {3.sec}</li></ol>

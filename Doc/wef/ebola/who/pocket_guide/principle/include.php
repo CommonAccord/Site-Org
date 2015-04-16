@@ -1,1 +1,0 @@
- Initial response to a suspected or confirmed case of Ebola/Marburg, Lassa fever or CCHF21

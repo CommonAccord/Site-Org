@@ -1,7 +1,0 @@
-=[OpenID/ForgeRock/Form/Acme_Summary]
-P1.=[core/id/acme_incorporated]
-P2.=[core/id/alicia_applegate]
-
-P1.xSignature=xANDREA ANG
-P2.xSignature=xALICIA APPLEGATE
-Sign.YMD=November 13, 2014

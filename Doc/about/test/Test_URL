@@ -1,1 +1,0 @@
-=[?https://raw.githubusercontent.com/CommonAccord/Boehmig/master/series-seed/term-sheet.md]

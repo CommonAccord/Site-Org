@@ -1,3 +1,0 @@
-The NDA is presented in two different organizations, each of which returns the same document.  The .01.md version numbers the sections, 1, 2, 3 ....   The 02.md version uses names for the sections - Confidential, Limit, Misc, etc.  (The difference is visible only in the Source view.) <br>
-
-The second approach has some advantages for authoring as well as reading.  Feedback on the two approaches is invited.   

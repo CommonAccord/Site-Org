@@ -1,9 +1,0 @@
-DocBody={Monitor.Letterhead}<br><br>{Report}<br><br>{Signature}
-
-Report=As of {YMD:T}, the patient {P2.Name.Full} has a body temperature of {Temperature.F}.   
-
-Signature=Name: {Best.Name.Full}<br>{Best.Title}<br>Time: {YMD:T}
-
-Model.Root={DocBody}
-
-                              

@@ -1,8 +1,0 @@
-Title=Notify/Refer the patient
-1=Make every effort to reduce the waiting time between initially seeing the patient and notification/referral
-2=Develop a system to move patients quickly and reduce the time that others are exposed
-
-List=<ol><li>{1}</li><li>{2}</li></ol>
-Model.Root={DocBody}
-DocBody=<b>{Title}</b> {List}
-  

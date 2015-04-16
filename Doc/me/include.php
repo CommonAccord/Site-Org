@@ -1,1 +1,0 @@
-This is just a stub to tell you that this is where you could put your documents.  We've put some non-core examples here, too.

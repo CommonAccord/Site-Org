@@ -1,9 +1,0 @@
-Doc={Doc.Model.Root}
-
-Doc.Model.Root=Let's build a document
-
-Navigate=Next: {ToNextPage}
-
-Next.PageName=about/Agt/Step2
-
-=[about/Agt/Support]
