@@ -4,7 +4,7 @@
 
 1.1.2.sec={P2.N,E,A} ("{P2.Handle}" and a "{party}")
 
-1.1.=[02/Bit/Sec_02]
+1.1.=[Bit/Sec_02]
 
 1.1.xlist={1.1.ulist}
 
@@ -16,7 +16,7 @@ Agt.Effective.YMDT={Agt.Effective.YMD}
 
 1.sec={1.blist}<br>
 
-1.=[02/Bit/Ssec_02]
+1.=[Bit/Ssec_02]
 
 
 2.sec={2.1.sec} {2.2.sec}
@@ -33,4 +33,4 @@ Agt.Effective.YMDT={Agt.Effective.YMD}
   
 Sec={blist}
 
-=[02/Bit/Ssec_04]
+=[Bit/Ssec_04]

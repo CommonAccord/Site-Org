@@ -30,6 +30,10 @@ Notice.Name.Ms={President.Name.Full}, {President.Title}
 
 SignBy=By: <u>{xSignature}</u><br/>Name: {President.Name.Full}<br/>Its: {President.Title}
 
+Sign.=[core/id/andrea_ang]
+
+Sign.Title=President
+
 President.=[core/id/andrea_ang]
 
 President.Title=President

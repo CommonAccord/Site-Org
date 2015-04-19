@@ -1,22 +1,5 @@
 http://www.cityofboston.gov/copyright/privacypolicy.asp
 
-Model.Root={DocBody}
-
-DocBody={Head}<br><br><ol><li>{1.Sec}</li><li>{2.Sec}</li><li>{3.Sec}</li><li>{4.Sec}</li><li>{5.Sec}</li><li>{6.Sec}</li><li>{7.Sec}</li><li>{8.Sec}</li><li>{9.Sec}</li><li>{10.Sec}</li><li>{11.Sec}</li><li>{12.Sec}</li><li>{Comments.Sec}</li><li>{Liability.Sec}</li></ol>
-
-1.Sec=<b>{1.Ti}</b><br>{1.sec}<ol><li>{1.1.Cl}</li><li>{1.2.Cl}</li><li>{1.3.Cl}</li></ol>{1.91.sec}
-2.Sec=<b>{2.Ti}</b><br>{2.sec}
-3.Sec=<b>{3.Ti}</b><br>{3.sec}
-4.Sec=<b>{4.Ti}</b><br>{4.sec}
-5.Sec=<b>{5.Ti}</b><br>{5.sec}
-6.Sec=<b>{6.Ti}</b><br>{6.sec}
-7.Sec=<b>{7.Ti}</b><br>{7.sec}
-8.Sec=<b>{8.Ti}</b><br>{8.1.sec}<br>{8.2.sec}<br>{8.3.sec}
-9.Sec=<b>{9.Ti}</b><br>{9.sec}
-10.Sec=<b>{10.Ti}</b><br>{10.sec}
-11.Sec=<b>{11.Ti}</b><br>{11.sec}
-12.Sec=<b>{12.Ti}</b><br>{12.sec}
-
 
 Head=<center><b>{Ti}</b></center><br>{0.sec}
 
@@ -68,6 +51,8 @@ Ti=Privacy and Security Statement
 
 8.3.sec=As a governmental agency, the {P1.PublicRecordsLaws.withCitation} governs our activities. Any information received through use of the site is subject to the same provisions as information provided on paper. Otherwise we do not share any personally identifying information with any third party. For a more complete discussion of the implications of the {P1.PublicRecordsLaw.Handle}, please refer to {P1.PublicRecords.Link} that include FAQs as well as the text of the statute.
 
+8.=[Bit/Ssec_03]
+
 9.Ti=Children
 
 9.sec={P1.Youth.com} is an adjunct site to the site and attracts many young users due to its ability to provide information about youth services and programs. It also publishes web content from {P1.City} youth in approved after-school or summer programs. This site in its entirety conforms to the Children's Online Privacy and Protection Act (COPPA) of 1998. In an effort to reach our youth constituency, users can become members of the site that entitles them to receive e-mail and early notification of events or programs of interest to them. There are no message boards, chat rooms or the ability for youth to interact with each other. The membership will only be used to inform users of events, programs and activities of interest to them. In addition, all the privacy protections provided under the {P1.web.com} apply to the {P1.Youth.com} site.
@@ -84,14 +69,12 @@ Ti=Privacy and Security Statement
 
 12.sec=If you have any questions regarding our privacy policy and security, please contact the {P1.Webmaster.Link}.
 
-Comments.Sec=<b>{Comments.Ti}</b><br>{Comments.sec}
+13.Ti=Annotation of or Comments on This Policy
 
-Comments.Ti=Annotation of or Comments on This Policy
+13.sec=Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
 
-Comments.sec=Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+14.Ti=Liability and Disclaimers
 
-Liability.Sec=<b>{Liability.Ti}</b><br>{Liability.sec}
+14.sec=At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Spaceflights cannot be stopped. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
 
-Liability.Ti=Liability and Disclaimers
-
-Liability.sec=At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Spaceflights cannot be stopped. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+=[Bit/Sec_14]

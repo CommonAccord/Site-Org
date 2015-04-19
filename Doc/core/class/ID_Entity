@@ -4,15 +4,17 @@ entity=legal person
 
 entity.a=a {entity}
 
-entite'.un/une=un " {entity} "
+For French:
 
-Entite'./e={null}
+Forme=un {entity}
 
 Addr.Type=business
 
 Model.Root={Addr.Table}<br>{Pronoun.List}
 
 SignBy=By: <u>{xSignature}</u><br/>Name: {Sign.Name.Full}<br/>Its: {Sign.Title}
+
+SignBy.FR=Par : <u>{xSignature}</u><br/>Nom : {Sign.Name.Full}<br/>Titre : {Sign.Title}
  
 Male/Female=Legal
 
