@@ -1,1 +1,1 @@
-Une invitation à créer un équivalent pour des documents français.  contact@commonaccord.org
+Une invitation Ã Â crÃ©er un Ã©quivalent pour des documents franÃ§ais.  contact@commonaccord.org
