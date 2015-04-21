@@ -18,21 +18,21 @@ DE.ARB.#=<b>Wahlen: {DE.ARB.#.1} or {DE.ARB.#.2}</b>
 
 
 EN.ARB.#.1=one arbitrator appointed
-FR.ARB.#.1=un arbitre nommÈ
-ES.ARB.#.1=uno ·rbitro nombrado
+FR.ARB.#.1=un arbitre nomm√©
+ES.ARB.#.1=uno √°rbitro nombrado
 <b>DE.ARB.#</b>=Note that the German construction embeds the reference to the rules.  So far this is merely an artifact and not a problem for compatibility.
-DE.ARB.#.1=ein gem‰ﬂ dieser Ordnung ernannte Schiedsrichter
+DE.ARB.#.1=ein gem√§√ü dieser Ordnung ernannte Schiedsrichter
 
 <b>ARB.#</b>=Number of arbitrators (original text)
 EN.ARB.#.2=one or more arbitrators  appointed
-FR.ARB.#.2=un ou plusieurs arbitres nommÈs
-ES.ARB.#.2=uno o m·s ·rbitros nombrados
-DE.ARB.#.2=einem oder mehreren gem‰ﬂ dieser Ordnung ernannten Schiedsrichtern
+FR.ARB.#.2=un ou plusieurs arbitres nomm√©s
+ES.ARB.#.2=uno o m√°s √°rbitros nombrados
+DE.ARB.#.2=einem oder mehreren gem√§√ü dieser Ordnung ernannten Schiedsrichtern
 
 EN.ARB.#.3=three arbitrators  appointed
-FR.ARB.#.3=trois arbitres nommÈs
-ES.ARB.#.3=tres ·rbitros nombrados
-DE.ARB.#.3=drei gem‰ﬂ dieser Ordnung ernannten Schiedsrichtern
+FR.ARB.#.3=trois arbitres nomm√©s
+ES.ARB.#.3=tres √°rbitros nombrados
+DE.ARB.#.3=drei gem√§√ü dieser Ordnung ernannten Schiedsrichtern
 
 Model.Root=<b>Table</b>{Table}<b>Columns</b>{Columns}<b>List</b>{List}
 
@@ -55,27 +55,28 @@ EN.ARB.2={EN.ARB.1}  The Emergency Arbitrator Provisions shall not apply.
 EN.ADR.1=In the event of any dispute arising out of or in connection with the present contract, the parties agree to submit the matter to settlement proceedings under the ICC ADR Rules.  If the dispute has not been settled pursuant to the said Rules within {ADR.45} days following the filing of a Request for ADR or within such other period as the parties may agree in writing, such dispute {EN.ARB.1.1}.
 EN.EXP.1=In the event of any dispute arising out of or in connection with clause {EXP.1.Xref} of the present contract, the parties agree to submit the matter, in the first instance, to administered expertise proceedings in accordance with the Rules for Expertise of the International Chamber of Commerce. If the dispute has not been resolved through such administered expertise proceedings it shall, after the Centre's notification of the termination of the expertise proceedings, be finally settled under the Rules of Arbitration of the International Chamber of Commerce by {EN.ARB.#.1} in accordance with the said Rules of Arbitration.
 
-FR.List=<u>FranÁais</u>. <ol><li>{FR.ARB.1}</li><li>{FR.ARB.2}</li><li>{FR.ADR.1}</li><li>{FR.EXP.1}</li></ol> 
-FR.ARB.1=Tous diffÈrends dÈcoulant du prÈsent contrat ou en relation avec celui-ci seront tranchÈs dÈfinitivement suivant le RËglement d'arbitrage de la Chambre de commerce internationale par {FR.ARB.#} conformÈment ‡ ce RËglement. 
-FR.ARB.2={FR.ARB.1}  Les Dispositions relatives ‡ l'arbitre d'urgence ne s'appliquent pas.
-FR.ADR.1=En cas de diffÈrend rÈsultant du prÈsent contrat ou s'y rapportant, les parties conviennent de soumettre ce diffÈrend ‡ la procÈdure de rËglement des diffÈrends prÈvue par le RËglement ADR de la CCI. Si le diffÈrend n'a pas ÈtÈ rÈglÈ dans le cadre dudit RËglement dans un dÈlai de {ADR.45} jours suivant le dÈpÙt de la demande d'ADR ou dans tout autre dÈlai dont les parties peuvent convenir par Ècrit, le diffÈrend sera tranchÈ dÈfinitivement suivant le RËglement d'arbitrage de la Chambre de commerce internationale par {FR.ARB.#} conformÈment ‡ celui-ci.
-FR.EXP.1=En cas de diffÈrend dÈcoulant de la clause {EXP.1.Xref} du prÈsent contrat ou en relation avec celle-ci, les parties conviennent de soumettre ce diffÈrend, au prÈalable, ‡ une procÈdure d'expertise administrÈe conformÈment au RËglement d'expertise de la Chambre de commerce internationale. Si le diffÈrend n'a pas ÈtÈ rÈglÈ au moyen d'une telle procÈdure d'expertise administrÈe, il sera, aprËs notification par le Centre de l'achËvement de la procÈdure d'expertise, tranchÈ dÈfinitivement suivant le RËglement d'arbitrage de la Chambre de commerce internationale par {FR.ARB.#} conformÈment audit rËglement d'arbitrage.
+FR.List=<u>Fran√ßais</u>. <ol><li>{FR.ARB.1}</li><li>{FR.ARB.2}</li><li>{FR.ADR.1}</li><li>{FR.EXP.1}</li></ol> 
+FR.ARB.1=Tous diff√©rends d√©coulant du pr√©sent contrat ou en relation avec celui-ci seront tranch√©s d√©finitivement suivant le R√®glement d'arbitrage de la Chambre de commerce internationale par {FR.ARB.#} conform√©ment √† ce R√®glement. 
+FR.ARB.2={FR.ARB.1}  Les Dispositions relatives √† l'arbitre d'urgence ne s'appliquent pas.
+FR.ADR.1=En cas de diff√©rend r√©sultant du pr√©sent contrat ou s'y rapportant, les parties conviennent de soumettre ce diff√©rend √† la proc√©dure de r√®glement des diff√©rends pr√©vue par le R√®glement ADR de la CCI. Si le diff√©rend n'a pas √©t√© r√©gl√© dans le cadre dudit R√®glement dans un d√©lai de {ADR.45} jours suivant le d√©p√¥t de la demande d'ADR ou dans tout autre d√©lai dont les parties peuvent convenir par √©crit, le diff√©rend sera tranch√© d√©finitivement suivant le R√®glement d'arbitrage de la Chambre de commerce internationale par {FR.ARB.#} conform√©ment √† celui-ci.
+FR.EXP.1=En cas de diff√©rend d√©coulant de la clause {EXP.1.Xref} du pr√©sent contrat ou en relation avec celle-ci, les parties conviennent de soumettre ce diff√©rend, au pr√©alable, √† une proc√©dure d'expertise administr√©e conform√©ment au R√®glement d'expertise de la Chambre de commerce internationale. Si le diff√©rend n'a pas √©t√© r√©gl√© au moyen d'une telle proc√©dure d'expertise administr√©e, il sera, apr√®s notification par le Centre de l'ach√®vement de la proc√©dure d'expertise, tranch√© d√©finitivement suivant le R√®glement d'arbitrage de la Chambre de commerce internationale par {FR.ARB.#} conform√©ment audit r√®glement d'arbitrage.
 
 ES.List=<u>Espanol</u>. <ol><li>{ES.ARB.1}</li><li>{ES.ARB.2}</li><li>{ES.ADR.1}</li><li>{ES.EXP.1}</li></ol> 
 
-ES.ARB.1=Todas las desavenencias que deriven del presente contrato o que guarden relaciÛn con Èste ser·n resueltas definitivamente de acuerdo con el Reglamento de Arbitraje de la C·mara de Comercio Internacional por {ES.ARB.#} conforme a este Reglamento.
+ES.ARB.1=Todas las desavenencias que deriven del presente contrato o que guarden relaci√≥n con √©ste ser√°n resueltas definitivamente de acuerdo con el Reglamento de Arbitraje de la C√°mara de Comercio Internacional por {ES.ARB.#} conforme a este Reglamento.
 
-ES.ARB.2={ES.ARB.1}  Las Disposiciones sobre el ¡rbitro de Emergencia no ser·n aplicables.
-ES.ADR.1=En caso de desavenencias derivadas del presente contrato o relacionadas con Èl, las partes se comprometen a someterlas al proceso de soluciÛn de desavenencias del Reglamento ADR de la CCI. A falta de resoluciÛn de las desavenencias seg˙n dicho Reglamento dentro de los {ADR.45} dÌas siguientes a la presentaciÛn de la demanda de ADR, o al vencimiento de otro plazo que hubiera sido acordado por escrito por las partes, dichas desavenencias ser·n definitivamente resueltas de acuerdo con el Reglamento de Arbitraje de la C·mara de Comercio Internacional por {ES.ARB.#} conforme a dicho Reglamento de Arbitraje.
-ES.EXP.1=En caso de cualquier desavenencia que derive de la cl·usula {EXP.1.Xref} del presente contrato o guarde relaciÛn con la misma, las partes acuerdan someter el asunto, en primera instancia, al procedimiento de peritaje administrado conforme al Reglamento de Peritaje de la C·mara de Comercio Internacional. Cuando la desavenencia no haya sido resuelta mediante tal procedimiento de peritaje administrado y una vez la finalizaciÛn del procedimiento de peritaje haya sido notificada por el Centro, dicha desavenencia ser· resuelta definitivamente de acuerdo con al Reglamento de Arbitraje de la C·mara de Comercio Internacional por {ES.ARB.#} conforme a dicho Reglamento de Arbitraje.
+ES.ARB.2={ES.ARB.1}  Las Disposiciones sobre el √Årbitro de Emergencia no ser√°n aplicables.
+ES.ADR.1=En caso de desavenencias derivadas del presente contrato o relacionadas con √©l, las partes se comprometen a someterlas al proceso de soluci√≥n de desavenencias del Reglamento ADR de la CCI. A falta de resoluci√≥n de las desavenencias seg√∫n dicho Reglamento dentro de los {ADR.45} d√≠as siguientes a la presentaci√≥n de la demanda de ADR, o al vencimiento de otro plazo que hubiera sido acordado por escrito por las partes, dichas desavenencias ser√°n definitivamente resueltas de acuerdo con el Reglamento de Arbitraje de la C√°mara de Comercio Internacional por {ES.ARB.#} conforme a dicho Reglamento de Arbitraje.
+ES.EXP.1=En caso de cualquier desavenencia que derive de la cl√°usula {EXP.1.Xref} del presente contrato o guarde relaci√≥n con la misma, las partes acuerdan someter el asunto, en primera instancia, al procedimiento de peritaje administrado conforme al Reglamento de Peritaje de la C√°mara de Comercio Internacional. Cuando la desavenencia no haya sido resuelta mediante tal procedimiento de peritaje administrado y una vez la finalizaci√≥n del procedimiento de peritaje haya sido notificada por el Centro, dicha desavenencia ser√° resuelta definitivamente de acuerdo con al Reglamento de Arbitraje de la C√°mara de Comercio Internacional por {ES.ARB.#} conforme a dicho Reglamento de Arbitraje.
 
 DE.List=<u>Deutsch</u>. <ol><li>{DE.ARB.1}</li><li>{DE.ARB.2}</li><li>{DE.ADR.1}</li><li>{DE.EXP.1}</li></ol> 
 
-DE.ARB.#=einem oder mehreren gem‰ﬂ dieser Ordnung ernannten Schiedsrichtern
-DE.ARB.1=Alle Streitigkeiten, die sich aus oder in Zusammenhang mit dem vorliegenden Vertrag ergeben, werden nach der Schiedsgerichtsordnung der Internationalen Handelskammer (ICC) von {DE.ARB.#} endg¸ltig entschieden.
+DE.ARB.#=einem oder mehreren gem√§√ü dieser Ordnung ernannten Schiedsrichtern
+DE.ARB.1=Alle Streitigkeiten, die sich aus oder in Zusammenhang mit dem vorliegenden Vertrag ergeben, werden nach der Schiedsgerichtsordnung der Internationalen Handelskammer (ICC) von {DE.ARB.#} endg√ºltig entschieden.
 DE.ARB.2={DE.ARB.1}  Die Bestimmungen zum Eilschiedsrichterverfahren finden keine Anwendung.
 
-DE.ADR.1=Die Parteien vereinbaren, im Falle aller Streitigkeiten, die sich aus oder in Zusammenhang mit dem vorliegenden Vertrag ergeben, ein Streitbeilegungsverfahren nach den ICC-ADR-Regeln durchzuf¸hren. Wird die Streitigkeiten nicht innerhalb einer Frist von {ADR.45} Tagen ab dem Tag des Einreichens des Antrags auf Durchf¸hrung eines ICC-ADR-Verfahrens oder innerhalb einer anderen, von den Parteien schriftlich vereinbarten Frist im Einklang mit den ICC-ADR-Regeln beigelegt, wird die Streitigkeit nach der Schiedsgerichtsordnung der Internationalen Handelskammer (ICC) von {DE.ARB.#} endg¸ltig entschieden.
+DE.ADR.1=Die Parteien vereinbaren, im Falle aller Streitigkeiten, die sich aus oder in Zusammenhang mit dem vorliegenden Vertrag ergeben, ein Streitbeilegungsverfahren nach den ICC-ADR-Regeln durchzuf√ºhren. Wird die Streitigkeiten nicht innerhalb einer Frist von {ADR.45} Tagen ab dem Tag des Einreichens des Antrags auf Durchf√ºhrung eines ICC-ADR-Verfahrens oder innerhalb einer anderen, von den Parteien schriftlich vereinbarten Frist im Einklang mit den ICC-ADR-Regeln beigelegt, wird die Streitigkeit nach der Schiedsgerichtsordnung der Internationalen Handelskammer (ICC) von {DE.ARB.#} endg√ºltig entschieden.
 
 DE.EXP.1=<b>Nicht zu finden zu ICCWBO !</b> 
+
                 
