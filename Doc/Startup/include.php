@@ -1,1 +1,1 @@
-See <a href="startup.commonaccord.org">startup.commonaccord.org</a>
+See <a href="http://startup.commonaccord.org">startup.commonaccord.org</a>
