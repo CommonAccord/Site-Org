@@ -1,5 +1,0 @@
-1.=[GA4GH/REWG/Demo/Quentin_Quade_FR]
-2.=[GA4GH/REWG/Demo/Roberta_Robinson_US]
-3.=[GA4GH/REWG/Demo/Geraldine_Graber_DE]
-
-Model.Root=<ol><li>{1.Doc.Sign}</li><li>{2.Doc.Sign}</li><li>{3.Doc.Sign}</li></ol>
