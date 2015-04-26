@@ -2,7 +2,7 @@ Ti=Use of License Material
 
 1.Ti=Permitted Use
 
-1.sec=This license is granted for the sole purpose fulfilling the agreed to scope of work (Attachment 2). If {the_City} agrees that an alteration in the Permitted Use is necessary to adequately fulfill the scope of work, both parties may amend the the scope of work in writing to alter the Permitted Use..
+1.sec=This license is granted for the sole purpose fulfilling the agreed to scope of work (Attachment 2). If {the_City} agrees that an alteration in the Permitted Use is necessary to adequately fulfill the scope of work, both parties may amend the the scope of work in writing to alter the Permitted Use.
 
 2.Ti=Derivative Licensed Material
 
