@@ -64,21 +64,7 @@ Ti=The Data Sharing Agreement
 
 3.=[Bit/Ssec_03]
 
-4.Ti=Use of License Material
-
-4.1.Ti=Permitted Use
-
-4.1.sec=This license is granted for the sole purpose fulfilling the agreed to scope of work (Attachment 2). If {the_City} agrees that an alteration in the Permitted Use is necessary to adequately fulfill the scope of work, both parties may amend the the scope of work in writing to alter the Permitted Use..
-
-4.2.Ti=Derivative Licensed Material
-
-4.2.sec={Contractor} shall not use the {Licensed_Material} except as specifically permitted as a Permitted Use. {Contractor} will establish adequate mechanisms to ensure, to the best of {Contractor}'s ability, that the Licensed  Material will be used in full compliance with the Permitted Use and for no other  purpose whatsoever.  Merging or appending multiple files into a single geospatial theme shall not alter the Permitted Use of the {Licensed_Material}.
-
-4.3.Ti=Reserved Rights
-
-4.3.sec=Nothing in {this_Agreement} transfers or is intended to transfer any rights, title, or interest {City} holds in the {Licensed_Material} to {Contractor}, other than the rights set forth herein. {City} may license the {Licensed_Material} covered by this license to other users so long as such licensing does not interfere with Licensee's rights under {this_Agreement}.
-
-4.=[Bit/Sec_03]
+4.=[UMKC/DataSharing_Sec_Use.md]
 
 5.Ti=Data Security
 
@@ -203,36 +189,4 @@ Forum.cl=Jackson County, Kansas City, Missouri
 
 DocBody={Doc}
 
-Note=Defined Terms
-
-Agreement={d-}{-d}
-
-this_Agreement={d-}this Agreement{-d}
-
-Adapted_Material={d-}Adapted Material{-d}
-
-City={d-}City{-d}
-
-The_City=The {d-}City{-d}
-
-the_City=the {d-}City{-d}
-
-Contractor={d-}Contractor{-d}
-
-The_Contractor=The {d-}Contractor{-d}
-
-the_Contractor=the {d-}Contractor{-d}
-
-Data_Sharing_Agreement={d-}Data Sharing Agreement{-d}
-
-Licensed_Material={d-}Licensed Material{-d}
-
-Share={d-}Share{-d}
-
-d-=<a href="https://github.com/CommonAccord/Org/blob/master/Doc/{PageName}"><font color="{dcolor}">
-
--d=</font></a>
-
-PageName=UMKC/DataSharing_Form.md
-
-dcolor=green
+=[UMKC/DataSharing_DefinedTerms.md]
