@@ -4,9 +4,9 @@ Ti={Park.Name} RV Space Rental Agreement
 
 0.sec={0.1.sec}<br>{0.2.sec}{0.3.sec}<br><br>
 
-0.1.sec=Space No. {Space.#} (“Space”).
+0.1.sec=Space No. {Space.#} (â€œSpaceâ€).
 
-0.2.sec=This {Ti} (“Agreement”) is entered into {Agt.Effective.YMD} by and between:<ul><li>{Owner.N,E,A} the park owner (“Lessor”) of {Park.Name} (“Park”), located at: {Park.Addr.1,2,3} and<li>Tenant(s) (names): ________________________________________________ (severally and collectively “Tenant”).</ul>
+0.2.sec=This {Ti} (â€œAgreementâ€) is entered into {Agt.Effective.YMD} by and between:<ul><li>{Owner.N,E,A} the park owner (â€œLessorâ€) of {Park.Name} (â€œParkâ€), located at: {Park.Addr.1,2,3} and<li>Tenant(s) (names): ________________________________________________ (severally and collectively â€œTenantâ€).</ul>
 
 0.3.sec=This Agreement includes the terms below and the Addendum to {Park.Name} RV Space Rental Agreement.
 
@@ -24,7 +24,7 @@ Ti={Park.Name} RV Space Rental Agreement
 
 4.Ti=Beginning Monthly Rent
 
-4.sec=Beginning Monthly Rent: $___________________ (Please note: rent may be increased during term with 30 days’ notice)
+4.sec=Beginning Monthly Rent: $___________________ (Please note: rent may be increased during term with 30 daysâ€™ notice)
 
 5.Ti=Recreational Vehicle Information
 
@@ -48,4 +48,4 @@ Tenant.Sign.Block=TENANT<br>Date:_______________________<br>Print Name:_________
 
 Space.#=_____________
 
-Tenant.Household.Members=_______________________________________________________
+Tenant.Household.Members=_______________________________________________________  
