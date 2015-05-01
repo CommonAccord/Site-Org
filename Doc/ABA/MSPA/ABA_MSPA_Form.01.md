@@ -1696,7 +1696,7 @@ Misc.Ti=MISCELLANEOUS
 
 Misc.1.Ti=EXPENSES
 
-Misc.1.1.Sec={Misc.1.1.Base.Sen} {Misc.1.1.Specified.Sen} {Misc.1.1.Past.Sen}  {Misc.1.1.Breach.Sen}
+Misc.1.1.sec={Misc.1.1.Base.Sen} {Misc.1.1.Specified.Sen} {Misc.1.1.Past.Sen}  {Misc.1.1.Breach.Sen}
 
 Misc.1.1.Base.Sen=Except as otherwise provided in {this_Agreement} or the other documents to be delivered pursuant to {this_Agreement}, each party will bear its respective fees and expenses incurred in connection with the preparation, negotiation, execution, and performance of {this_Agreement} and the consummation and performance of the {Contemplated_Transactions}, including all fees and expenses of its {Representatives}.
 
@@ -1706,9 +1706,11 @@ Misc.1.1.Past.Sen=No {Acquired_Company} has incurred, and {Sellers} will cause {
 
 Misc.1.1.Breach.Sen=The obligation of each party to bear its own fees and expenses will be subject to any rights of such party arising from a {Breach} of {this_Agreement} by another party.
 
-Misc.1.2.Sec=All stamp, documentary, and other transfer {Taxes} (including any penalties and interest) incurred in connection with {this_Agreement}, whether pertaining to {the_Shares} or any assets and properties of {the_Acquired_Companies}, will be paid by {Sellers}.  Each {Seller} will, at its own expense, file all necessary {Tax_Returns} and other documentation with respect to all such {Taxes}.
+Misc.1.2.sec=All stamp, documentary, and other transfer {Taxes} (including any penalties and interest) incurred in connection with {this_Agreement}, whether pertaining to {the_Shares} or any assets and properties of {the_Acquired_Companies}, will be paid by {Sellers}.  Each {Seller} will, at its own expense, file all necessary {Tax_Returns} and other documentation with respect to all such {Taxes}.
 
-Misc.1.=[01/Agt/Bit/Secs/02]
+Misc.1.xlist={Misc.1.alist}
+
+Misc.1.=[Bit/Ssec_02]
 
 Misc.2.Ti=PUBLIC ANNOUNCEMENTS
 
@@ -1716,11 +1718,13 @@ Misc.2.sec=Notwithstanding any confidentiality obligation to which {Buyer} is su
 
 Misc.3.Ti=DISCLOSURE LETTER
 
-Misc.3.1.Sec=In the event of any inconsistency between the statements in {this_Agreement} and those in {the_Disclosure_Letter} (other than an exception expressly set forth as such in {the_Disclosure_Letter} with respect to a specifically identified representation or warranty), the statements in {this_Agreement} will control.
+Misc.3.1.sec=In the event of any inconsistency between the statements in {this_Agreement} and those in {the_Disclosure_Letter} (other than an exception expressly set forth as such in {the_Disclosure_Letter} with respect to a specifically identified representation or warranty), the statements in {this_Agreement} will control.
 
-Misc.3.2.Sec=Notwithstanding anything to the contrary contained in {the_Disclosure_Letter} or any supplement to {the_Disclosure_Letter}, the statements in {the_Disclosure_Letter}, and those in any supplement thereto, relate only to the provisions in the Sections of {this_Agreement} to which they expressly relate and not to any other provision in {this_Agreement}.
+Misc.3.2.sec=Notwithstanding anything to the contrary contained in {the_Disclosure_Letter} or any supplement to {the_Disclosure_Letter}, the statements in {the_Disclosure_Letter}, and those in any supplement thereto, relate only to the provisions in the Sections of {this_Agreement} to which they expressly relate and not to any other provision in {this_Agreement}.
 
-Misc.3.=[01/Agt/Bit/Secs/02]
+Misc.3.xlist={Misc.3.alist}
+
+Misc.3.=[Bit/Ssec_02]
 
 Misc.4.Ti=NATURE OF SELLERS' OBLIGATIONS
 
@@ -1728,23 +1732,25 @@ Misc.4.sec=The liabilities of {Sellers} under {this_Agreement} are joint and sev
 
 Misc.5.Ti=SELLERS' REPRESENTATIVE
 
-Misc.5.1.0.Sec=Each {Seller} constitutes and appoints {05.1.SellerRep} as its representative (the "{Sellers'_Representative}") and its true and lawful attorney in fact, with full power and authority in its name and on its behalf:
+Misc.5.1.0.sec=Each {Seller} constitutes and appoints {05.1.SellerRep} as its representative (the "{Sellers'_Representative}") and its true and lawful attorney in fact, with full power and authority in its name and on its behalf:
 
-Misc.5.1.1.Sec=to act on such {Seller}'s behalf in the absolute discretion of {Sellers'_Representative} with respect to all matters relating to {this_Agreement}, including execution and delivery of any amendment, supplement, or modification of {this_Agreement} and any waiver of any claim or right arising out of {this_Agreement}
+Misc.5.1.1.sec=to act on such {Seller}'s behalf in the absolute discretion of {Sellers'_Representative} with respect to all matters relating to {this_Agreement}, including execution and delivery of any amendment, supplement, or modification of {this_Agreement} and any waiver of any claim or right arising out of {this_Agreement}
 
-Misc.5.1.2.Sec=in general, to do all things and to perform all acts, including executing and delivering all agreements, certificates, receipts, instructions, and other instruments contemplated by or deemed advisable to effectuate the provisions of this Section {12.5}
+Misc.5.1.2.sec=in general, to do all things and to perform all acts, including executing and delivering all agreements, certificates, receipts, instructions, and other instruments contemplated by or deemed advisable to effectuate the provisions of this Section {12.5}
 
-Misc.5.1.90.Sec=This appointment and grant of power and authority is coupled with an interest and is in consideration of the mutual covenants made in {this_Agreement} and is irrevocable and will not be terminated by any act of any {Seller} or by operation of law, whether by the death or incapacity of any {Seller} or by the occurrence of any other event.  Each {Seller} hereby consents to the taking of any and all actions and the making of any decisions required or permitted to be taken or made by {Sellers'_Representative} pursuant to this Section {12.5}.  Each {Seller} agrees that {Sellers'_Representative} shall have no obligation or liability to any {Person} for any action taken or omitted by {Sellers'_Representative} in good faith, and each {Seller} shall indemnify and hold harmless {Sellers'_Representative} from, and shall pay to {Sellers'_Representative} the amount of, or reimburse {Sellers'_Representative} for, any {Loss} that {Sellers'_Representative} may suffer, sustain, or become subject to as a result of any such action or omission by {Sellers'_Representative} under {this_Agreement}.
+Misc.5.1.90.sec=This appointment and grant of power and authority is coupled with an interest and is in consideration of the mutual covenants made in {this_Agreement} and is irrevocable and will not be terminated by any act of any {Seller} or by operation of law, whether by the death or incapacity of any {Seller} or by the occurrence of any other event.  Each {Seller} hereby consents to the taking of any and all actions and the making of any decisions required or permitted to be taken or made by {Sellers'_Representative} pursuant to this Section {12.5}.  Each {Seller} agrees that {Sellers'_Representative} shall have no obligation or liability to any {Person} for any action taken or omitted by {Sellers'_Representative} in good faith, and each {Seller} shall indemnify and hold harmless {Sellers'_Representative} from, and shall pay to {Sellers'_Representative} the amount of, or reimburse {Sellers'_Representative} for, any {Loss} that {Sellers'_Representative} may suffer, sustain, or become subject to as a result of any such action or omission by {Sellers'_Representative} under {this_Agreement}.
 
-Misc.5.1.=[01/Agt/Bit/Secs/02]
+Misc.5.1.xlist={Misc.5.1.ilist}
 
-Misc.5.1.Sec={Misc.5.1.sec}
+Misc.5.1.=[Bit/Ssec_02]
 
-Misc.5.2.Sec={Buyer} shall be entitled to rely upon any document or other paper delivered by {Sellers'_Representative} as being authorized by {Sellers}, and {Buyer} shall not be liable to any {Seller} for any action taken or omitted to be taken by {Buyer} based on such reliance.
+Misc.5.2.sec={Buyer} shall be entitled to rely upon any document or other paper delivered by {Sellers'_Representative} as being authorized by {Sellers}, and {Buyer} shall not be liable to any {Seller} for any action taken or omitted to be taken by {Buyer} based on such reliance.
 
-Misc.5.3.Sec=Until all obligations under {this_Agreement} shall have been discharged (including all indemnification obligations under Article 11), {Sellers} who, immediately prior to {the_Closing}, are entitled in the aggregate to receive more than 50% of the {Purchase_Price}, may, from time to time upon notice to {Buyer}, appoint a new {Sellers'_Representative} upon the death, incapacity, or resignation of {Sellers'_Representative}.  If, after the death, incapacity, or resignation of {Sellers'_Representative}, a successor {Sellers'_Representative} shall not have been appointed by {Sellers} within 15 {Business_Days} after a request by {Buyer}, {Buyer} may appoint a {Sellers'_Representative} from among the {Sellers} to fill any vacancy so created by notice of such appointment to {Sellers}.
+Misc.5.3.sec=Until all obligations under {this_Agreement} shall have been discharged (including all indemnification obligations under Article 11), {Sellers} who, immediately prior to {the_Closing}, are entitled in the aggregate to receive more than 50% of the {Purchase_Price}, may, from time to time upon notice to {Buyer}, appoint a new {Sellers'_Representative} upon the death, incapacity, or resignation of {Sellers'_Representative}.  If, after the death, incapacity, or resignation of {Sellers'_Representative}, a successor {Sellers'_Representative} shall not have been appointed by {Sellers} within 15 {Business_Days} after a request by {Buyer}, {Buyer} may appoint a {Sellers'_Representative} from among the {Sellers} to fill any vacancy so created by notice of such appointment to {Sellers}.
 
-Misc.5.=[01/Agt/Bit/Secs/03]
+Misc.5.xlist={Misc.5.alist}
+
+Misc.5.=[Bit/Ssec_03]
 
 Misc.6.Ti=FURTHER ASSURANCES
 
@@ -1820,13 +1826,15 @@ Misc.20.sec=With regard to all dates and time periods set forth or referred to i
 
 Misc.21.Ti=COUNTERPARTS AND ELECTRONIC SIGNATURES
 
-Misc.21.1.Sec={This_Agreement} and other documents to be delivered pursuant to {this_Agreement} may be executed in one or more counterparts, each of which will be deemed to be an original copy and all of which, when taken together, will be deemed to constitute one and the same agreement or document, and will be effective when counterparts have been signed by each of the parties and delivered to the other parties.
+Misc.21.1.sec={This_Agreement} and other documents to be delivered pursuant to {this_Agreement} may be executed in one or more counterparts, each of which will be deemed to be an original copy and all of which, when taken together, will be deemed to constitute one and the same agreement or document, and will be effective when counterparts have been signed by each of the parties and delivered to the other parties.
 
-Misc.21.2.Sec=A manual signature on {this_Agreement} or other documents to be delivered pursuant to {this_Agreement}, an image of which shall have been transmitted electronically, will constitute an original signature for all purposes.  The delivery of copies of {this_Agreement} or other documents to be delivered pursuant to {this_Agreement}, including executed signature pages where required, by electronic transmission will constitute effective delivery of {this_Agreement} or such other document for all purposes.
+Misc.21.2.sec=A manual signature on {this_Agreement} or other documents to be delivered pursuant to {this_Agreement}, an image of which shall have been transmitted electronically, will constitute an original signature for all purposes.  The delivery of copies of {this_Agreement} or other documents to be delivered pursuant to {this_Agreement}, including executed signature pages where required, by electronic transmission will constitute effective delivery of {this_Agreement} or such other document for all purposes.
 
-Misc.21.=[01/Agt/Bit/Secs/02]
+Misc.21.xlist={Misc.21.alist}
 
-Misc.=[01/Agt/Bit/Secs/21]
+Misc.21.=[Bit/Sec_02]
+
+Misc.=[Bit/Sec_21]
 
 
 05.1.SellerRep={d-}05.1.SellerRep{-d}
