@@ -15,7 +15,10 @@ echo "
 &emsp; &emsp; &emsp; &emsp;  
 <a href=$_SERVER[PHP_SELF]?action=print&file=$rootdir[dirname]/$filenameX>Print</a>
   &emsp;  &emsp;  &emsp;  
-<a href=https://github.com/CommonAccord/Org/blob/master/Doc/$rootdir[dirname]/$filenameX>GitHub</a>
+<a href=https://github.com/$GitHubRepo/blob/master/Doc/$rootdir[dirname]/$filenameX>View at GitHub</a>
+
+&emsp;  &emsp;  &emsp;  
+<a href=https://github.com/$GitHubRepo/edit/master/Doc/$rootdir[dirname]/$filenameX>Edit at GitHub</a>
 
 ";
 
@@ -31,8 +34,8 @@ echo "
 
 <div id="tab-render">
 <?php
-	echo `perl parser2.pl $path/$dir`;
-	#system("perl parser2.pl $path/$dir  > $path/Output999.html");
+	echo `perl parser.pl $path/$dir`;
+	#system("perl parser.pl $path/$dir  > $path/Output999.html");
 	#echo file_get_contents("Output999.html", FILE_USE_INCLUDE_PATH);
 
 

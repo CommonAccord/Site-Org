@@ -1,6 +1,6 @@
-Model.Root=:<ol><li>{Agt.Secs}</li></ol>
+=[Bit/Agt/Agt_Parties.1-2.md]
 
-Agt.Secs={Def.Sec}<li>{Sale.Sec}<li>{Rep.Sec}<li>{Cov.Sec}<li>{Cond.Sec}<li>{Term.Sec}<li>{IPRR.Sec}<li>{Misc.Sec}
+Secs={Def.Sec}<li>{Sale.Sec}<li>{Rep.Sec}<li>{Cov.Sec}<li>{Cond.Sec}<li>{Term.Sec}<li>{IPRR.Sec}<li>{Misc.Sec}
 
 Def.Sec=<u>{Def.Title}</u><ol><li>{Def.List.Sec}<li>{Usage.Sec}</li></ol>
 
@@ -309,8 +309,6 @@ Usage.Heading.Sec=The headings contained in {this_Agreement} are for convenience
 ______________________________
 ABA/MSPA/Sec/ABA-MSPA_Sale.md
 
-Model.Root={Sale.Sec}
-
 Sale.Sec=<u>{Sale.Title}</u><ol><li>{Sale.Share.Sec}<li>{Sale.Price.Sec}<li>{Sale.Close.Sec}<li>{Sale.CloseOblig.Sec}<li>{Sale.Adjust$.Sec}<li>{Sale.AdjustProc.Sec}</li></ol>
 
 <b>Sec Sale and Shares</b>=
@@ -416,8 +414,6 @@ Sale.AdjustProc.DisputeProc.Fee.sec={Sellers} and {Buyer} shall each bear one-ha
 _______________________
 
 ABA/MSPA/Sec/ABA-MSPA_aRep.md
-
-Model.Root={aRep.Sec}
 
 aRep.Sec=<u>{aRep.Title}</u><br/>{aRep.Intro}:<ol><li>{aRep.Org.Sec}<li>{aRep.Authority.Sec}<li>{aRep.Cap.Sec}<li>{aRep.FinanState.Sec}<li>{aRep.Record.Sec}<li>{aRep.Property.Sec}<li>{aRep.ConditionOfAssets.Sec}<li>{aRep.AccountReceivable.Sec}<li>{aRep.Inventory.Sec}<li>{aRep.Liability.Sec}<li>{aRep.Tax.Sec}<li>{aRep.MAC.Sec}<li>{aRep.EmpBenefit.Sec}<li>{aRep.Compliance.Sec}<li>{aRep.Litig.Sec}<li>{aRep.Event.Sec}<li>{aRep.Contract.Sec}<li>{aRep.Insurance.Sec}<li>{aRep.Environment.Sec}<li>{aRep.Personnel.Sec}<li>{aRep.Labor.Sec}<li><b>{aRep.IP.Sec}</b><li>{aRep.FCPA+.Sec}<li>{aRep.Insider.Sec}<li>{aRep.Securities.Sec}<li>{aRep.CustomerAndSupplier.Sec}<li>{aRep.ProductLiability.Sec}<li>{aRep.Broker.Sec}<li>{aRep.True.Sec}</li></ol>
 
@@ -1141,15 +1137,9 @@ bRep.5.Sec=<b>{bRep.5.Ti}</b></br>{bRep.5.sec}
 
 bRep.5.sec=Neither {Buyer} nor any of its {Representatives} has incurred any obligation or liability, contingent or otherwise, for any brokerage or finder's fee, agent's commission, or other similar payment in connection with {this_Agreement} or the {Contemplated_Transactions}.
 
-bRep.Model.Root={bRep.Sec}
-
-
-
 _____________________________
 
 ABA/MSPA/Sec/ABA-MSPA_aCov.md
-
-Model.Root={aCov.Sec}
 
 aCov.Sec=<u>{aCov.Title}</u><ol><li>{aCov.1.Sec}<li>{aCov.2.Sec}<li>{aCov.3.Sec}<li>{aCov.4.Sec}<li>{aCov.5.Sec}<li>{aCov.6.Sec}<li>{aCov.7.Sec}<li>{aCov.08.Sec}<li>{aCov.09.Sec}</li></ol>
 
@@ -1239,8 +1229,6 @@ _______________________
 
 ABA/MSPA/Sec/ABA-MSPA_bCov.md
 
-Model.Root={bCov.Sec}
-
 bCov.Sec=<u>{bCov.Title}</u><ol><li>{bCov.1.Sec}<li>{bCov.2.Sec}<li>{bCov.3.Sec}</li></ol>
 
 bCov.Title=Covenants of {Buyer} Prior to {Closing_Date}
@@ -1269,7 +1257,6 @@ _______________________
 
 ABA/MSPA/Sec/ABA-MSPA_cCov.md
 
-Model.Root={cCov.Sec}
 
 cCov.Sec=<u>{cCov.Title}</u><ol><li>{cCov.1.Sec}<li>{cCov.2.Sec}<li>{cCov.3.Sec}<li>{cCov.4.Sec}</li></ol>
 
@@ -1348,8 +1335,6 @@ cCov.4.2.Sec=After {the_Closing}, no {Seller} shall take any action, either dire
 _______________________
 
 ABA/MSPA/Sec/ABA-MSPA_bCond.md
-
-Model.Root={bCond.Sec}
 
 bCond.Sec=<u>{bCond.Title}</u><br/>{bCond.Intro}:<ol><li>{bCond.1.Sec}<li>{bCond.2.Sec}<li>{bCond.3.Sec}<li>{bCond.4.Sec}<li>{bCond.5.Sec}<li>{bCond.6.Sec}<li>{bCond.7.Sec}<li>{bCond.08.Sec}<li>{bCond.09.Sec}<li>{bCond.10.Sec}<li>{bCond.11.Sec}<li>{bCond.12.Sec}</li></ol>
 
@@ -1450,8 +1435,6 @@ bCond.12.Tx=Since the date of {this_Agreement}, no {Acquired_Company} will have 
 _______________________
 
 ABA/MSPA/Sec/ABA-MSPA_aCond.md
-
-aCond.Model.Root={aCond.Sec}
 
 aCond.Sec=<u>{aCond.Title}</u><br/>{aCond.Intro}:<ol><li>{aCond.1.Sec}<li>{aCond.2.Sec}<li>{aCond.3.Sec}<li>{aCond.4.Sec}<li>{aCond.5.Sec}<li>{aCond.6.Sec}</li></ol>
 

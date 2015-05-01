@@ -1,0 +1,20 @@
+Name.2,3,4,5={Name.Full}, {Name.PhD}
+
+Name.Full={Name.First} {Name.M}. {Name.Last}
+
+Name.Full,PhD={Name.Full}, {Name.PhD}
+
+Model.Root=<u>Fields</u><ul><li>Name.Full={Name.Full}<li>Addr.1,2,3={Addr.1,2,3}<li>Addr.1/2/3=<br>{Addr.1/2/3}</u>  
+
+Addr.1,2,3={Addr.1}, {Addr.2}, {Addr.3}
+
+Addr.1/2/3={Addr.1}<br>{Addr.2}<br>{Addr.3}
+
+
+The=The {Handle}
+
+the=The {Handle}
+
+N/A/T/E={Name.Full}<br>{Addr.1/2/3}<br>{Telephone}<br>{Email}
+
+N,1,2,3={Name.Full}, {Addr.1,2,3}
