@@ -50,205 +50,206 @@ Def.List.Title=DEFINITIONS
 
 Def.List.Intro=For purposes of {this_Agreement}, the following terms have the meanings specified or referred to in this Section {Def.List.Xnum}
 
-Def.List=<ol><li>{Def.Acquired_Companies}<li>{Def.Adjoining_Property}<li>{Def.Adjustment_Amount}<li>{Def.Agreement}<li>{Def.Applicable_Contract}<li>{Def.Balance_Sheet_Date}<li>{Def.Breach}<li>{Def.Business_Day}<li>{Def.Buyer}<li>{Def.Buyer_Group}<li>{Def.Buyer_Indemnified_Persons}<li>{Def.Buyer's_Closing_Documents}<li>{Def.Cleanup}<li>{Def.Closing}<li>{Def.Closing_Balance_Sheet}<li>{Def.Closing_Date}<li>{Def.Closing_Date_Shareholders'_Equity}<li>{Def.Closing_Payment}<li>{Def.COBRA}<li>{Def.Code}<li>{Def.Company}<li>{Def.Confidential_Information}<li>{Def.Consent}<li>{Def.Contemplated_Transactions}<li>{Def.Contract}<li>{Def.Copyrights}<li>{Def.Disclosure_Letter}<li>{Def.Employee_Plan}<li>{Def.Encumbrance}<li>{Def.End_Date}<li>{Def.Environment}<li>{Def.Environmental,_Health,_and_Safety_Liability}<li>{Def.Environmental_Law}<li>{Def.Equity_Security}<li>{Def.ERISA}<li>{Def.Escrow_Agreement}<li>{Def.Escrow_Funds}<li>{Def.Exchange_Act}<li>{Def.Facilities}<li>{Def.Financial_Statements}<li>{Def.GAAP}<li>{Def.Governmental_Authorization}<li>{Def.Governmental_Body}<li>{Def.Hazardous_Activity}<li>{Def.Hazardous_Material}<li>{Def.HSR_Act}<li>{Def.Indemnified_Person}<li>{Def.Indemnifying_Person}<li>{Def.Independent_Accountants}<li>{Def.Intellectual_Property_Assets}<li>{Def.Interim_Balance_Sheet}<li>{Def.Interim_Balance_Sheet_Date}<li>{Def.Interim_Shareholders'_Equity}<li>{Def.Invention_Disclosures}<li>{Def.IRS}<li>{Def.Knowledge}<li>{Def.Knowledge_of_Sellers}<li>{Def.Leased_Real_Property}<li>{Def.Legal_Requirement}<li>{Def.Loss}<li>{Def.Major_Suppliers}<li>{Def.Major_Customers}<li>{Def.Marks}<li>{Def.Material_Adverse_Change}<li>{Def.Material_Consents}<li>{Def.Net_Names}<li>{Def.Objection_Notice}<li>{Def.Occupational_Safety_and_Health_Law}<li>{Def.Order}<li>{Def.Ordinary_Course_of_Business}<li>{Def.Organizational_Documents}<li>{Def.Owned_Real_Property}<li>{Def.Patents}<li>{Def.Permitted_Encumbrances}<li>{Def.Person}<li>{Def.Plan}<li>{Def.Proceeding}<li>{Def.Promissory_Notes}<li>{Def.Purchase_Price}<li>{Def.Real_Property}<li>{Def.Record}<li>{Def.Related_Person}<li>{Def.Release}<li>{Def.Representative}<li>{Def.Securities_Act}<li>{Def.Seller(s)}<li>{Def.Sellers'_Closing_Documents}<li>{Def.Sellers'_Releases}<li>{Def.Sellers'_Representative}<li>{Def.Shares}<li>{Def.Software}<li>{Def.Subsidiary}<li>{Def.Tax}<li>{Def.Tax_Return}<li>{Def.Third_Party}<li>{Def.Third-Party_Claim}<li>{Def.Threat_of_Release}<li>{Def.Trade_Secrets}</li></ol>
+Def.List=<ul type="none"><li>{Def.Acquired_Companies}<li>{Def.Adjoining_Property}<li>{Def.Adjustment_Amount}<li>{Def.Agreement}<li>{Def.Applicable_Contract}<li>{Def.Balance_Sheet_Date}<li>{Def.Breach}<li>{Def.Business_Day}<li>{Def.Buyer}<li>{Def.Buyer_Group}<li>{Def.Buyer_Indemnified_Persons}<li>{Def.Buyer's_Closing_Documents}<li>{Def.Cleanup}<li>{Def.Closing}<li>{Def.Closing_Balance_Sheet}<li>{Def.Closing_Date}<li>{Def.Closing_Date_Shareholders'_Equity}<li>{Def.Closing_Payment}<li>{Def.COBRA}<li>{Def.Code}<li>{Def.Company}<li>{Def.Confidential_Information}<li>{Def.Consent}<li>{Def.Contemplated_Transactions}<li>{Def.Contract}<li>{Def.Copyrights}<li>{Def.Disclosure_Letter}<li>{Def.Employee_Plan}<li>{Def.Encumbrance}<li>{Def.End_Date}<li>{Def.Environment}<li>{Def.Environmental,_Health,_and_Safety_Liability}<li>{Def.Environmental_Law}<li>{Def.Equity_Security}<li>{Def.ERISA}<li>{Def.Escrow_Agreement}<li>{Def.Escrow_Funds}<li>{Def.Exchange_Act}<li>{Def.Facilities}<li>{Def.Financial_Statements}<li>{Def.GAAP}<li>{Def.Governmental_Authorization}<li>{Def.Governmental_Body}<li>{Def.Hazardous_Activity}<li>{Def.Hazardous_Material}<li>{Def.HSR_Act}<li>{Def.Indemnified_Person}<li>{Def.Indemnifying_Person}<li>{Def.Independent_Accountants}<li>{Def.Intellectual_Property_Assets}<li>{Def.Interim_Balance_Sheet}<li>{Def.Interim_Balance_Sheet_Date}<li>{Def.Interim_Shareholders'_Equity}<li>{Def.Invention_Disclosures}<li>{Def.IRS}<li>{Def.Knowledge}<li>{Def.Knowledge_of_Sellers}<li>{Def.Leased_Real_Property}<li>{Def.Legal_Requirement}<li>{Def.Loss}<li>{Def.Major_Suppliers}<li>{Def.Major_Customers}<li>{Def.Marks}<li>{Def.Material_Adverse_Change}<li>{Def.Material_Consents}<li>{Def.Net_Names}<li>{Def.Objection_Notice}<li>{Def.Occupational_Safety_and_Health_Law}<li>{Def.Order}<li>{Def.Ordinary_Course_of_Business}<li>{Def.Organizational_Documents}<li>{Def.Owned_Real_Property}<li>{Def.Patents}<li>{Def.Permitted_Encumbrances}<li>{Def.Person}<li>{Def.Plan}<li>{Def.Proceeding}<li>{Def.Promissory_Notes}<li>{Def.Purchase_Price}<li>{Def.Real_Property}<li>{Def.Record}<li>{Def.Related_Person}<li>{Def.Release}<li>{Def.Representative}<li>{Def.Securities_Act}<li>{Def.Seller(s)}<li>{Def.Sellers'_Closing_Documents}<li>{Def.Sellers'_Releases}<li>{Def.Sellers'_Representative}<li>{Def.Shares}<li>{Def.Software}<li>{Def.Subsidiary}<li>{Def.Tax}<li>{Def.Tax_Return}<li>{Def.Third_Party}<li>{Def.Third-Party_Claim}<li>{Def.Threat_of_Release}<li>{Def.Trade_Secrets}</li></ul>
+ma
 <b>Definitions</b>= Listed
 
-Def.Acquired_Companies="{Acquired_Companies}"—{the_Company_and_its_Subsidiaries}, collectively, and "{Acquired_Company}" means any one of the {Acquired_Companies}.
+Def.Acquired_Companies="{Acquired_Companies}" - {the_Company_and_its_Subsidiaries}, collectively, and "{Acquired_Company}" means any one of the {Acquired_Companies}.
 
-Def.Adjoining_Property="{Adjoining_Property}"—as defined in Section {3.19(e)}.
+Def.Adjoining_Property="{Adjoining_Property}" - as defined in Section {3.19(e)}.
 
-Def.Adjustment_Amount="{Adjustment_Amount}"—as defined in Section {2.5(a)}.
+Def.Adjustment_Amount="{Adjustment_Amount}" - as defined in Section {2.5(a)}.
 
-Def.Agreement="{Agreement}"—as defined in the first paragraph of {this_Agreement}.
+Def.Agreement="{Agreement}" - as defined in the first paragraph of {this_Agreement}.
 
-Def.Applicable_Contract="{Applicable_Contract}"—any {Contract} (a) under which any {Acquired_Company} has or could acquire any rights, (b) under which any {Acquired_Company} has or could become subject to any obligation or liability, or (c) by which any {Acquired_Company} or any assets owned or used by it is or could become bound.
+Def.Applicable_Contract="{Applicable_Contract}" - any {Contract} (a) under which any {Acquired_Company} has or could acquire any rights, (b) under which any {Acquired_Company} has or could become subject to any obligation or liability, or (c) by which any {Acquired_Company} or any assets owned or used by it is or could become bound.
 
-Def.Balance_Sheet_Date="{Balance_Sheet_Date}"—as defined in Section {3.4}.
+Def.Balance_Sheet_Date="{Balance_Sheet_Date}" - as defined in Section {3.4}.
 
-Def.Breach="{Breach}"—any breach of, or any inaccuracy in, any representation or warranty or breach of, or failure to perform or comply with, any covenant or obligation in or of the {Contract} in question, or any event that with the passing of time or the giving of notice, or both, would constitute such a breach, inaccuracy, or failure.
+Def.Breach="{Breach}" - any breach of, or any inaccuracy in, any representation or warranty or breach of, or failure to perform or comply with, any covenant or obligation in or of the {Contract} in question, or any event that with the passing of time or the giving of notice, or both, would constitute such a breach, inaccuracy, or failure.
 
-Def.Business_Day="{Business_Day}"—any day other than (a) Saturday or Sunday or (b) any other day on which national banks in {Business_Day_Jurisd} are generally permitted or required to be closed.
+Def.Business_Day="{Business_Day}" - any day other than (a) Saturday or Sunday or (b) any other day on which national banks in {Business_Day_Jurisd} are generally permitted or required to be closed.
 
-Def.Buyer="{Buyer}"—as defined in the first paragraph of {this_Agreement}.
+Def.Buyer="{Buyer}" - as defined in the first paragraph of {this_Agreement}.
 
-Def.Buyer_Group="{Buyer_Group}"—as defined in Section {5.1}.
+Def.Buyer_Group="{Buyer_Group}" - as defined in Section {5.1}.
 
-Def.Buyer_Indemnified_Persons="{Buyer_Indemnified_Persons}"—as defined in Section {11.2}.
+Def.Buyer_Indemnified_Persons="{Buyer_Indemnified_Persons}" - as defined in Section {11.2}.
 
-Def.Buyer's_Closing_Documents="{Buyer's_Closing_Documents}"—the {Promissory_Notes} and the {Escrow_Agreement}.
+Def.Buyer's_Closing_Documents="{Buyer's_Closing_Documents}" - the {Promissory_Notes} and the {Escrow_Agreement}.
 
-Def.Cleanup="{Cleanup}"—all actions to clean up, remove, treat, or in any other way address the presence, {Release}, or {Threat_of_Release} of any {Hazardous_Material} whether or not any expense incurred in connection with such action constitutes a capital expenditure.
+Def.Cleanup="{Cleanup}" - all actions to clean up, remove, treat, or in any other way address the presence, {Release}, or {Threat_of_Release} of any {Hazardous_Material} whether or not any expense incurred in connection with such action constitutes a capital expenditure.
 
-Def.Closing="{Closing}"—as defined in Section {2.3}.
+Def.Closing="{Closing}" - as defined in Section {2.3}.
 
-Def.Closing_Balance_Sheet="{Closing} Balance Sheet"—as defined in Section {2.6(a)}.
+Def.Closing_Balance_Sheet="{Closing} Balance Sheet" - as defined in Section {2.6(a)}.
 
-Def.Closing_Date="{Closing_Date}"—the date on which the {Closing} occurs.
+Def.Closing_Date="{Closing_Date}" - the date on which the {Closing} occurs.
 
-Def.Closing_Date_Shareholders'_Equity="{Closing_Date_Shareholders'_Equity}"—as defined in Section {2.5(a)}.
+Def.Closing_Date_Shareholders'_Equity="{Closing_Date_Shareholders'_Equity}" - as defined in Section {2.5(a)}.
 
-Def.Closing_Payment="{Closing_Payment}"—as defined in Section {2.2}.
+Def.Closing_Payment="{Closing_Payment}" - as defined in Section {2.2}.
 
-Def.COBRA="{COBRA}"—as defined in Section {3.13(d)}.
+Def.COBRA="{COBRA}" - as defined in Section {3.13(d)}.
 
-Def.Code="{Code}"—the Internal Revenue Code of 1986.
+Def.Code="{Code}" - the Internal Revenue Code of 1986.
 
-Def.Company="{Company}"—as defined in the Recitals of {this_Agreement}.
+Def.Company="{Company}" - as defined in the Recitals of {this_Agreement}.
 
-Def.Confidential_Information="{Confidential_Information}"—as defined in Section {7.3(a)}.
+Def.Confidential_Information="{Confidential_Information}" - as defined in Section {7.3(a)}.
 
-Def.Consent="{Consent}"—any approval, consent, ratification, waiver, or other authorization.
+Def.Consent="{Consent}" - any approval, consent, ratification, waiver, or other authorization.
 
-Def.Contemplated_Transactions="{Contemplated_Transactions}"—the transactions contemplated by {this_Agreement}.
+Def.Contemplated_Transactions="{Contemplated_Transactions}" - the transactions contemplated by {this_Agreement}.
 
-Def.Contract="{Contract}"—any agreement, contract, lease, consensual obligation, promise, commitment, or undertaking (whether written or oral and whether express or implied), whether or not legally binding.
+Def.Contract="{Contract}" - any agreement, contract, lease, consensual obligation, promise, commitment, or undertaking (whether written or oral and whether express or implied), whether or not legally binding.
 
-Def.Copyrights="{Copyrights}"—as defined in Section {3.22(a)(iii)}.
+Def.Copyrights="{Copyrights}" - as defined in Section {3.22(a)(iii)}.
 
 Def.Disclosure_Letter="{Disclosure_Letter}" the disclosure letter delivered by {Sellers} to {Buyer} concurrently with the execution and delivery of {this_Agreement}.
 
-Def.Employee_Plan="{Employee_Plan}"—as defined in Section {3.13(a)}.
+Def.Employee_Plan="{Employee_Plan}" - as defined in Section {3.13(a)}.
 
-Def.Encumbrance="{Encumbrance}"—any charge, claim, community or other marital property interest, condition, equitable interest, lien, option, pledge, security interest, mortgage, right of way, easement, encroachment, servitude, right of first option, right of first refusal, or similar restriction, including any restriction on use, voting, transfer, receipt of income, or exercise of any other attribute of ownership.
+Def.Encumbrance="{Encumbrance}" - any charge, claim, community or other marital property interest, condition, equitable interest, lien, option, pledge, security interest, mortgage, right of way, easement, encroachment, servitude, right of first option, right of first refusal, or similar restriction, including any restriction on use, voting, transfer, receipt of income, or exercise of any other attribute of ownership.
 
-Def.End_Date="{End_Date}"—as defined in Section {10.1(d)}.
+Def.End_Date="{End_Date}" - as defined in Section {10.1(d)}.
 
-Def.Environment="{Environment}"—soil, land surface and subsurface strata, surface waters (including navigable and nonnavigable inland and ocean waters), groundwaters, drinking water supply, stream sediments, ambient air (indoor air), plant and animal life, and any other environmental medium or natural resource.
+Def.Environment="{Environment}" - soil, land surface and subsurface strata, surface waters (including navigable and nonnavigable inland and ocean waters), groundwaters, drinking water supply, stream sediments, ambient air (indoor air), plant and animal life, and any other environmental medium or natural resource.
 
-Def.Environmental,_Health,_and_Safety_Liability="{Environmental,_Health,_and_Safety_Liability}"—any {Loss}, obligation, or other responsibility resulting from or arising under an {Environmental_Law} or an {Occupational_Safety_and_Health_Law}.
+Def.Environmental,_Health,_and_Safety_Liability="{Environmental,_Health,_and_Safety_Liability}" - any {Loss}, obligation, or other responsibility resulting from or arising under an {Environmental_Law} or an {Occupational_Safety_and_Health_Law}.
 
-Def.Environmental_Law="{Environmental_Law}" any {Legal_Requirement} that provides for or relates to:<ol><li>advising appropriate authorities, employees, or the public with respect to the use of any {Hazardous_Material}, the {Release} or {Threat_of_Release} of {Hazardous_Material}, violation of discharge or emission limits or other prohibitions, or any {Hazardous_Activity} or any activity, such as resource extraction or construction, that could have a significant effect on the {Environment};<li>preventing or reducing to acceptable levels the {Release} of {Hazardous_Material} into the {Environment};<li>reducing the quantities, or minimizing or controlling the hazardous characteristics, of {Hazardous_Material} that are generated;<li>assuring that products are designed, formulated, packaged, and used so that they do not present an unreasonable risk to human health or the {Environment} when used or disposed of;<li>protecting the {Environment};<li>reducing the risks involved in the transportation of {Hazardous_Material};<li>the cleanup of {Hazardous_Material} that has been {Released}, preventing its {Release}, or addressing the {Threat_of_Release}, or paying the costs of such actions; or <li>making a {Person} compensate any other {Person} for damage done to its health or property or the {Environment} or permitting self-appointed representatives of the public interest to recover for injuries done to public assets or resources. </li></ol>
+Def.Environmental_Law="{Environmental_Law}" any {Legal_Requirement} that provides for or relates to:<ol type="a"><li>advising appropriate authorities, employees, or the public with respect to the use of any {Hazardous_Material}, the {Release} or {Threat_of_Release} of {Hazardous_Material}, violation of discharge or emission limits or other prohibitions, or any {Hazardous_Activity} or any activity, such as resource extraction or construction, that could have a significant effect on the {Environment};<li>preventing or reducing to acceptable levels the {Release} of {Hazardous_Material} into the {Environment};<li>reducing the quantities, or minimizing or controlling the hazardous characteristics, of {Hazardous_Material} that are generated;<li>assuring that products are designed, formulated, packaged, and used so that they do not present an unreasonable risk to human health or the {Environment} when used or disposed of;<li>protecting the {Environment};<li>reducing the risks involved in the transportation of {Hazardous_Material};<li>the cleanup of {Hazardous_Material} that has been {Released}, preventing its {Release}, or addressing the {Threat_of_Release}, or paying the costs of such actions; or <li>making a {Person} compensate any other {Person} for damage done to its health or property or the {Environment} or permitting self-appointed representatives of the public interest to recover for injuries done to public assets or resources. </li></ol>
 
-Def.Equity_Security="{Equity_Security}"—in respect of any {Person}, (a) any capital stock or similar security, (b) any security convertible into or exchangeable for any security described in clause (a), (c) any option, warrant, or other right to purchase or otherwise acquire any security described in clauses (a), (b), or (c), and (d) any "equity security" within the meaning of the {Exchange_Act}.
+Def.Equity_Security="{Equity_Security}" - in respect of any {Person}, (a) any capital stock or similar security, (b) any security convertible into or exchangeable for any security described in clause (a), (c) any option, warrant, or other right to purchase or otherwise acquire any security described in clauses (a), (b), or (c), and (d) any "equity security" within the meaning of the {Exchange_Act}.
 
-Def.ERISA="{ERISA}"—the Employee Retirement Income Security Act of 1974.
+Def.ERISA="{ERISA}" - the Employee Retirement Income Security Act of 1974.
 
-Def.Escrow_Agent="{Escrow_Agent}"—as defined in the {Escrow_Agreement}.
+Def.Escrow_Agent="{Escrow_Agent}" - as defined in the {Escrow_Agreement}.
 
-Def.Escrow_Agreement="{Escrow_Agreement}"—as defined in Section {2.4(a)(vii)}.
+Def.Escrow_Agreement="{Escrow_Agreement}" - as defined in Section {2.4(a)(vii)}.
 
-Def.Escrow_Funds="{Escrow_Funds}"—as defined in Section {2.2(c)}.
+Def.Escrow_Funds="{Escrow_Funds}" - as defined in Section {2.2(c)}.
 
-Def.Exchange_Act="{Exchange_Act}"—the Securities Exchange Act of 1934.
+Def.Exchange_Act="{Exchange_Act}" - the Securities Exchange Act of 1934.
 
-Def.Facilities="{Facilities}"—any real property owned or operated or formerly owned or operated by any {Acquired_Company} and any buildings, plants, structures, or equipment (including motor vehicles, tank cars, and rolling stock) owned or operated or formerly owned or operated by any {Acquired_Company}.
+Def.Facilities="{Facilities}" - any real property owned or operated or formerly owned or operated by any {Acquired_Company} and any buildings, plants, structures, or equipment (including motor vehicles, tank cars, and rolling stock) owned or operated or formerly owned or operated by any {Acquired_Company}.
 
-Def.Financial_Statements="{Financial_Statements}"—as defined in Section {3.4}.
+Def.Financial_Statements="{Financial_Statements}" - as defined in Section {3.4}.
 
-Def.GAAP="{GAAP}"—generally accepted accounting principles in the United States.
+Def.GAAP="{GAAP}" - generally accepted accounting principles in the United States.
 
-Def.Governmental_Authorization="{Governmental_Authorization}"—any (a) {Consent}, license, registration, or permit issued, granted, given, or otherwise made available by or under the authority of any {Governmental_Body} or pursuant to any {Legal_Requirement}; or (b) right under any {Contract} with any {Governmental_Body}.
+Def.Governmental_Authorization="{Governmental_Authorization}" - any (a) {Consent}, license, registration, or permit issued, granted, given, or otherwise made available by or under the authority of any {Governmental_Body} or pursuant to any {Legal_Requirement}; or (b) right under any {Contract} with any {Governmental_Body}.
 
-Def.Governmental_Body="{Governmental_Body}"—any:<ol><li>nation, state, county, city, town, borough, village, district, or other jurisdiction;<li>federal, state, local, municipal, foreign, multinational, or other government;<li>governmental or quasi-governmental authority of any nature (including any agency, branch, department, board, commission, court, tribunal, or other entity exercising governmental or quasi-governmental powers);<li>body exercising, or entitled or purporting to exercise, any administrative, executive, judicial, legislative, police, regulatory, or taxing authority or power, whether local, national, or international; or<li>official of any of the foregoing.</li></ol>
+Def.Governmental_Body="{Governmental_Body}" - any:<ol type="a"><li>nation, state, county, city, town, borough, village, district, or other jurisdiction;<li>federal, state, local, municipal, foreign, multinational, or other government;<li>governmental or quasi-governmental authority of any nature (including any agency, branch, department, board, commission, court, tribunal, or other entity exercising governmental or quasi-governmental powers);<li>body exercising, or entitled or purporting to exercise, any administrative, executive, judicial, legislative, police, regulatory, or taxing authority or power, whether local, national, or international; or<li>official of any of the foregoing.</li></ol>
 
-Def.Hazardous_Activity="{Hazardous_Activity}"—the distribution, generation, handling, importing, management, manufacturing, processing, production, refinement, {Release}, storage, transfer, transportation, treatment, or use of {Hazardous_Material} and any other act, business, operation, or activity that increases the danger, or poses a risk of harm, to the {Environment}.
+Def.Hazardous_Activity="{Hazardous_Activity}" - the distribution, generation, handling, importing, management, manufacturing, processing, production, refinement, {Release}, storage, transfer, transportation, treatment, or use of {Hazardous_Material} and any other act, business, operation, or activity that increases the danger, or poses a risk of harm, to the {Environment}.
 
-Def.Hazardous_Material="{Hazardous_Material}"—any substance, material, or waste that is or will foreseeably be regulated by any {Governmental_Body}, including any material, substance, or waste that is defined or classified as a "hazardous waste," "hazardous material," "hazardous substance," "extremely hazardous waste," "pollutant," "restricted hazardous waste," "contaminant," "toxic waste," "pollutant," or "toxic substance" under any provision of {Environmental_Law}, including petroleum, petroleum products, asbestos, presumed asbestos-containing material or asbestos-containing material, urea formaldehyde, or polychlorinated biphenyls.
+Def.Hazardous_Material="{Hazardous_Material}" - any substance, material, or waste that is or will foreseeably be regulated by any {Governmental_Body}, including any material, substance, or waste that is defined or classified as a "hazardous waste," "hazardous material," "hazardous substance," "extremely hazardous waste," "pollutant," "restricted hazardous waste," "contaminant," "toxic waste," "pollutant," or "toxic substance" under any provision of {Environmental_Law}, including petroleum, petroleum products, asbestos, presumed asbestos-containing material or asbestos-containing material, urea formaldehyde, or polychlorinated biphenyls.
 
-Def.HSR_Act="{HSR_Act}"—the Hart-Scott-Rodino Antitrust Improvements Act of 1976.
+Def.HSR_Act="{HSR_Act}" - the Hart-Scott-Rodino Antitrust Improvements Act of 1976.
 
-Def.Indemnified_Person="{Indemnified_Person}"—as defined in Section {11.8(a)}.
+Def.Indemnified_Person="{Indemnified_Person}" - as defined in Section {11.8(a)}.
 
-Def.Indemnifying_Person="Indemnifying {Person}"—as defined in Section {11.8(a)}.
+Def.Indemnifying_Person="Indemnifying {Person}" - as defined in Section {11.8(a)}.
 
-Def.Independent_Accountants="{Independent_Accountants}"—as defined in Section {2.6(d)}.
+Def.Independent_Accountants="{Independent_Accountants}" - as defined in Section {2.6(d)}.
 
-Def.Intellectual_Property_Assets="{Intellectual_Property_Assets}"—as defined in Section {3.22(a)}.
+Def.Intellectual_Property_Assets="{Intellectual_Property_Assets}" - as defined in Section {3.22(a)}.
 
-Def.Interim_Balance_Sheet="{Interim_Balance_Sheet}"—as defined in Section {3.4}.
+Def.Interim_Balance_Sheet="{Interim_Balance_Sheet}" - as defined in Section {3.4}.
 
-Def.Interim_Balance_Sheet_Date="{Interim_Balance_Sheet_Date}"—as defined in Section {3.4}.
+Def.Interim_Balance_Sheet_Date="{Interim_Balance_Sheet_Date}" - as defined in Section {3.4}.
 
-Def.Interim_Shareholders'_Equity="{Interim_Shareholders'_Equity}"—as defined in Section {2.5(a)}.
+Def.Interim_Shareholders'_Equity="{Interim_Shareholders'_Equity}" - as defined in Section {2.5(a)}.
 
-Def.Invention_Disclosures="{Invention_Disclosures}"—as defined in Section {3.22(c)(i)}.
+Def.Invention_Disclosures="{Invention_Disclosures}" - as defined in Section {3.22(c)(i)}.
 
-Def.IRS="{IRS}"—the United States Internal Revenue Service or any successor agency, and, to the extent relevant, the United States Department of the Treasury.
-Def.Knowledge="{Knowledge}"<ol><li>An individual will be deemed to have {Knowledge} of a particular fact or other matter if:<ol><li>that individual is actually aware of that fact or matter; or<li>a prudent individual could be expected to discover or otherwise become aware of that fact or matter in the course of conducting a reasonably comprehensive investigation regarding the accuracy of any representation or warranty in {this_Agreement}.</li></ol><li>A {Person} (other than an individual) will be deemed to have {Knowledge} of a particular fact or other matter if any individual who is serving, or who has at any time served, as a director, officer, partner, manager, executor, or trustee of that {Person} (or in any similar capacity) has, or at any time had, {Knowledge} of that fact or other matter (as set forth in clauses (a)(i) and (ii) above).</li></ol>
+Def.IRS="{IRS}" - the United States Internal Revenue Service or any successor agency, and, to the extent relevant, the United States Department of the Treasury.
+Def.Knowledge="{Knowledge}"<ol type="a"><li>An individual will be deemed to have {Knowledge} of a particular fact or other matter if:<ol type="i"><li>that individual is actually aware of that fact or matter; or<li>a prudent individual could be expected to discover or otherwise become aware of that fact or matter in the course of conducting a reasonably comprehensive investigation regarding the accuracy of any representation or warranty in {this_Agreement}.</li></ol><li>A {Person} (other than an individual) will be deemed to have {Knowledge} of a particular fact or other matter if any individual who is serving, or who has at any time served, as a director, officer, partner, manager, executor, or trustee of that {Person} (or in any similar capacity) has, or at any time had, {Knowledge} of that fact or other matter (as set forth in clauses (a)(i) and (ii) above).</li></ol>
 
-Def.Knowledge_of_Sellers="{Knowledge_of_Sellers}"—Knowledge of any {Seller} or any {Acquired_Company}.
+Def.Knowledge_of_Sellers="{Knowledge_of_Sellers}" - Knowledge of any {Seller} or any {Acquired_Company}.
 
-Def.Leased_Real_Property="{Leased_Real_Property}"—as defined in Section {3.6(b)}.
+Def.Leased_Real_Property="{Leased_Real_Property}" - as defined in Section {3.6(b)}.
 
-Def.Legal_Requirement="{Legal_Requirement}"—any constitution, law, ordinance, principle of common law, code, rule, regulation, statute, act, treaty, or order of general applicability of any {Governmental_Body}, including rules and regulations promulgated thereunder.
+Def.Legal_Requirement="{Legal_Requirement}" - any constitution, law, ordinance, principle of common law, code, rule, regulation, statute, act, treaty, or order of general applicability of any {Governmental_Body}, including rules and regulations promulgated thereunder.
 
-Def.Loss="{Loss}"—any cost, loss, liability, obligation, claim, cause of action, damage, deficiency, expense (including costs of investigation and defense and reasonable attorneys' fees and expenses), fine, penalty, judgment, award, assessment, or diminution of value.
+Def.Loss="{Loss}" - any cost, loss, liability, obligation, claim, cause of action, damage, deficiency, expense (including costs of investigation and defense and reasonable attorneys' fees and expenses), fine, penalty, judgment, award, assessment, or diminution of value.
 
-Def.Major_Suppliers="{Major_Suppliers}"—as defined in Section {3.26}.
+Def.Major_Suppliers="{Major_Suppliers}" - as defined in Section {3.26}.
 
-Def.Major_Customers="{Major_Customers}"—as defined in Section {3.26}
+Def.Major_Customers="{Major_Customers}" - as defined in Section {3.26}
 
-Def.Marks="{Marks}"—as defined in Section {3.22(a)(i)}.
+Def.Marks="{Marks}" - as defined in Section {3.22(a)(i)}.
 
-Def.Material_Adverse_Change="{Material_Adverse_Change}"—with respect to an {Acquired_Company}, any event, change, development, or occurrence that, individually or together with any other event, change, development, or occurrence, is materially adverse to its business, condition (financial or otherwise), assets, results of operations, or prospects.
+Def.Material_Adverse_Change="{Material_Adverse_Change}" - with respect to an {Acquired_Company}, any event, change, development, or occurrence that, individually or together with any other event, change, development, or occurrence, is materially adverse to its business, condition (financial or otherwise), assets, results of operations, or prospects.
 
-Def.Material_Consents="{Material_Consents}"—as defined in Section {8.4}.
+Def.Material_Consents="{Material_Consents}" - as defined in Section {8.4}.
 
-Def.Net_Names="{Net_Names}"—as defined in Section {3.22(a)(vii)}.
+Def.Net_Names="{Net_Names}" - as defined in Section {3.22(a)(vii)}.
 
-Def.Objection_Notice="{Objection_Notice}"—as defined in Section {2.6(c)}.
+Def.Objection_Notice="{Objection_Notice}" - as defined in Section {2.6(c)}.
 
-Def.Occupational_Safety_and_Health_Law="{Occupational_Safety_and_Health_Law}"—any {Legal_Requirement} designed to promote safe and healthful working conditions and to reduce occupational safety and health hazards, including the Occupational Safety and Health Act, and any program, whether governmental or private (such as those promulgated or sponsored by industry associations and insurance companies), designed to promote safe and healthful working conditions.
+Def.Occupational_Safety_and_Health_Law="{Occupational_Safety_and_Health_Law}" - any {Legal_Requirement} designed to promote safe and healthful working conditions and to reduce occupational safety and health hazards, including the Occupational Safety and Health Act, and any program, whether governmental or private (such as those promulgated or sponsored by industry associations and insurance companies), designed to promote safe and healthful working conditions.
 
-Def.Order="{Order}"—any order, injunction, judgment, decree, ruling, assessment, or arbitration award of any {Governmental_Body} or arbitrator.
+Def.Order="{Order}" - any order, injunction, judgment, decree, ruling, assessment, or arbitration award of any {Governmental_Body} or arbitrator.
 
-Def.Ordinary_Course_of_Business="{Ordinary_Course_of_Business}"—an action taken by a {Person} will be deemed to have been taken in the {Ordinary_Course_of_Business} only if that action:<ol><li>is consistent in nature, scope, and magnitude with the past practices of such {Person} and is taken in the ordinary course of the normal, day-to-day operations of such {Person}; and<li>does not require authorization by the board of directors of such {Person} (or by any {Person} or group of {Persons} exercising similar authority) and does not require any other separate or special authorization of any nature.</li></ol>
+Def.Ordinary_Course_of_Business="{Ordinary_Course_of_Business}" - an action taken by a {Person} will be deemed to have been taken in the {Ordinary_Course_of_Business} only if that action:<ol type="a"><li>is consistent in nature, scope, and magnitude with the past practices of such {Person} and is taken in the ordinary course of the normal, day-to-day operations of such {Person}; and<li>does not require authorization by the board of directors of such {Person} (or by any {Person} or group of {Persons} exercising similar authority) and does not require any other separate or special authorization of any nature.</li></ol>
 
-Def.Organizational_Documents="{Organizational_Documents}"—(a) the articles or certificate of incorporation and the bylaws of a corporation; (b) the certificate of formation and limited liability company agreement, operating agreement, or like agreement of a limited liability company; (c) the partnership agreement and any statement of partnership of a general partnership; (d) the limited partnership agreement and the certificate of limited partnership of a limited partnership; (e) any charter or agreement or similar document adopted or filed in connection with the creation, formation, or organization of a {Person}; and (f) any amendment to or restatement of any of the foregoing.
+Def.Organizational_Documents="{Organizational_Documents}" - (a) the articles or certificate of incorporation and the bylaws of a corporation; (b) the certificate of formation and limited liability company agreement, operating agreement, or like agreement of a limited liability company; (c) the partnership agreement and any statement of partnership of a general partnership; (d) the limited partnership agreement and the certificate of limited partnership of a limited partnership; (e) any charter or agreement or similar document adopted or filed in connection with the creation, formation, or organization of a {Person}; and (f) any amendment to or restatement of any of the foregoing.
 
-Def.Owned_Real_Property="{Owned_Real_Property}"—as defined in Section {3.6(a)}.
+Def.Owned_Real_Property="{Owned_Real_Property}" - as defined in Section {3.6(a)}.
 
-Def.Patents="{Patents}"—as defined in Section {3.22(a)(ii)}.
+Def.Patents="{Patents}" - as defined in Section {3.22(a)(ii)}.
 
-Def.Permitted_Encumbrances="{Permitted_Encumbrances}"—(a) {Encumbrances} for {Taxes} and other governmental charges and assessments (except assessments for public improvements levied, pending, or deferred against {Owned_Real_Property}) that are not yet due and payable, (b) {Encumbrances} of carriers, warehousemen, mechanics, and materialmen and other like {Encumbrances} arising in the {Ordinary_Course_of_Business} (provided lien statements have not been filed or such {Encumbrances} otherwise perfected), (c) statutory {Encumbrances} in favor of lessors arising in connection with any property leased to any {Acquired_Company}, and (d) {Encumbrances} disclosed in the {Financial_Statements}.
+Def.Permitted_Encumbrances="{Permitted_Encumbrances}" - (a) {Encumbrances} for {Taxes} and other governmental charges and assessments (except assessments for public improvements levied, pending, or deferred against {Owned_Real_Property}) that are not yet due and payable, (b) {Encumbrances} of carriers, warehousemen, mechanics, and materialmen and other like {Encumbrances} arising in the {Ordinary_Course_of_Business} (provided lien statements have not been filed or such {Encumbrances} otherwise perfected), (c) statutory {Encumbrances} in favor of lessors arising in connection with any property leased to any {Acquired_Company}, and (d) {Encumbrances} disclosed in the {Financial_Statements}.
 
-Def.Person="{Person}"—an individual, partnership, corporation, business trust, limited liability company, limited liability partnership, joint stock company, trust, unincorporated association, joint venture, other entity, or a {Governmental_Body}.
+Def.Person="{Person}" - an individual, partnership, corporation, business trust, limited liability company, limited liability partnership, joint stock company, trust, unincorporated association, joint venture, other entity, or a {Governmental_Body}.
 
-Def.Plan="{Plan}"—as defined in Section {3.13}.
+Def.Plan="{Plan}" - as defined in Section {3.13}.
 
-Def.Proceeding="{Proceeding}"—any action, arbitration, mediation, audit, hearing, investigation, litigation, or suit (whether civil, criminal, administrative, judicial, or investigative) commenced, brought, conducted, or heard by or before, or otherwise involving, any {Governmental_Body} or arbitrator.
+Def.Proceeding="{Proceeding}" - any action, arbitration, mediation, audit, hearing, investigation, litigation, or suit (whether civil, criminal, administrative, judicial, or investigative) commenced, brought, conducted, or heard by or before, or otherwise involving, any {Governmental_Body} or arbitrator.
 
-Def.Promissory_Notes="{Promissory_Notes}"—as defined in Section {2.2(b)}.
+Def.Promissory_Notes="{Promissory_Notes}" - as defined in Section {2.2(b)}.
 
-Def.Purchase_Price="{Purchase_Price}"—as defined in Section {2.2}.
+Def.Purchase_Price="{Purchase_Price}" - as defined in Section {2.2}.
 
-Def.Real_Property="{Real_Property}"—as defined in Section {3.6(b)}.
+Def.Real_Property="{Real_Property}" - as defined in Section {3.6(b)}.
 
-Def.Record="{Record}"—information that is inscribed on a tangible medium or that is stored in an electronic or other medium.
+Def.Record="{Record}" - information that is inscribed on a tangible medium or that is stored in an electronic or other medium.
 
-Def.Related_Person="{Related_Person}"—<ol><li>With respect to an individual:<ol><li>each other member of such individual's {Family};<li>any {Person} that is directly or indirectly controlled by such individual or any one or more members of such individual's {Family};<li>any {Person} in which members of such individual's {Family} hold (individually or in the aggregate) a {Material_Interest}; and<li>any {Person} with respect to which one or more members of such individual's {Family} serves as a director, officer, partner, manager, executor, or trustee (or in a similar capacity).</li></ol><li>With respect to a {Person} other than an individual:<ol><li>any {Person} that directly or indirectly controls, is directly or indirectly controlled by, or is directly or indirectly under common control with, such specified {Person};<li>any {Person} that holds a {Material_Interest} in such specified {Person};<li>each {Person} that serves as a director, officer, partner, manager, executor, or trustee of such specified {Person} (or in a similar capacity);<li>any {Person} in which such specified {Person} holds a {Material_Interest}; and <li>any {Person} with respect to which such specified {Person} serves as a general partner, manager, or a trustee (or in a similar capacity). </li></ol><li>For purposes of this definition:<ol><li>"control" (including "controlling," "controlled by," and "under common control with") means the possession, direct or indirect, of the power to direct or cause the direction of the management and policies of a {Person}, whether through the ownership of voting securities, by contract, or otherwise, and shall be construed as such term is used in the rules promulgated under the {Exchange_Act};<li>the "{Family}" of an individual includes (A) the individual, (B) the individual's spouse, (C) any other natural person who is related to the individual or the individual's spouse within the second degree, and (D) any other natural person who resides with such individual; and<li>"{Material_Interest}" means direct or indirect beneficial ownership (as defined in Rule 13d-3 under the {Exchange_Act}) of voting securities or other voting interests representing at least 10% of the outstanding voting power of a {Person} or Equity Securities representing at least 10% of the outstanding equity interests in a {Person}.</li></ol></li></ol>
+Def.Related_Person="{Related_Person}" - <ol type="a"><li>With respect to an individual:<ol type="i"><li>each other member of such individual's {Family};<li>any {Person} that is directly or indirectly controlled by such individual or any one or more members of such individual's {Family};<li>any {Person} in which members of such individual's {Family} hold (individually or in the aggregate) a {Material_Interest}; and<li>any {Person} with respect to which one or more members of such individual's {Family} serves as a director, officer, partner, manager, executor, or trustee (or in a similar capacity).</li></ol><li>With respect to a {Person} other than an individual:<ol type="i"><li>any {Person} that directly or indirectly controls, is directly or indirectly controlled by, or is directly or indirectly under common control with, such specified {Person};<li>any {Person} that holds a {Material_Interest} in such specified {Person};<li>each {Person} that serves as a director, officer, partner, manager, executor, or trustee of such specified {Person} (or in a similar capacity);<li>any {Person} in which such specified {Person} holds a {Material_Interest}; and <li>any {Person} with respect to which such specified {Person} serves as a general partner, manager, or a trustee (or in a similar capacity). </li></ol><li>For purposes of this definition:<ol type="i"><li>"control" (including "controlling," "controlled by," and "under common control with") means the possession, direct or indirect, of the power to direct or cause the direction of the management and policies of a {Person}, whether through the ownership of voting securities, by contract, or otherwise, and shall be construed as such term is used in the rules promulgated under the {Exchange_Act};<li>the "{Family}" of an individual includes (A) the individual, (B) the individual's spouse, (C) any other natural person who is related to the individual or the individual's spouse within the second degree, and (D) any other natural person who resides with such individual; and<li>"{Material_Interest}" means direct or indirect beneficial ownership (as defined in Rule 13d-3 under the {Exchange_Act}) of voting securities or other voting interests representing at least 10% of the outstanding voting power of a {Person} or Equity Securities representing at least 10% of the outstanding equity interests in a {Person}.</li></ol></li></ol>
 
-Def.Release="{Release}"—any release, spill, emission, leaking, pumping, pouring, dumping, emptying, injection, deposit, disposal, discharge, dispersal, leaching, or migration on or into the {Environment}, or into or out of any property.
+Def.Release="{Release}" - any release, spill, emission, leaking, pumping, pouring, dumping, emptying, injection, deposit, disposal, discharge, dispersal, leaching, or migration on or into the {Environment}, or into or out of any property.
 
-Def.Representative="{Representative}"—with respect to a particular {Person}, includes any director, officer, manager, employee, agent, consultant, advisor, accountant, financial advisor, or legal counsel of such {Person}.
+Def.Representative="{Representative}" - with respect to a particular {Person}, includes any director, officer, manager, employee, agent, consultant, advisor, accountant, financial advisor, or legal counsel of such {Person}.
 
-Def.Securities_Act="{Securities_Act}"—the Securities Act of 1933.
+Def.Securities_Act="{Securities_Act}" - the Securities Act of 1933.
 
-Def.Seller(s)="{Seller(s)}"—as defined in the first paragraph of {this_Agreement}.
+Def.Seller(s)="{Seller(s)}" - as defined in the first paragraph of {this_Agreement}.
 
-Def.Sellers'_Closing_Documents="{Sellers'_Closing_Documents}"—the releases specified in Section {2.4(a)(v)}, the {Escrow_Agreement}, and each other document to be executed or delivered by any {Seller} at {the_Closing}.
+Def.Sellers'_Closing_Documents="{Sellers'_Closing_Documents}" - the releases specified in Section {2.4(a)(v)}, the {Escrow_Agreement}, and each other document to be executed or delivered by any {Seller} at {the_Closing}.
 
-Def.Sellers'_Releases="{Sellers'_Releases}"—as defined in Section {2.4}.
+Def.Sellers'_Releases="{Sellers'_Releases}" - as defined in Section {2.4}.
 
-Def.Sellers'_Representative="{Sellers'_Representative}"—as defined in Section {12.5(a)}.
+Def.Sellers'_Representative="{Sellers'_Representative}" - as defined in Section {12.5(a)}.
 
-Def.Shares="{Shares}"—as defined in the Recitals of {this_Agreement}.
+Def.Shares="{Shares}" - as defined in the Recitals of {this_Agreement}.
 
-Def.Software="{Software}"—as defined in Section {3.22(a)(v)}.
+Def.Software="{Software}" - as defined in Section {3.22(a)(v)}.
 
-Def.Subsidiary="{Subsidiary}"—with respect to any {Person} (the "{Owner}"), any corporation or other {Person} of which securities or other interests having the power to elect a majority of that corporation's or other {Person}'s board of directors or similar governing body, or otherwise having the power to direct the business and policies of that corporation or other {Person} (other than {Equity_Securities} or other interests having such power only upon the happening of a contingency that has not occurred) are held by the {Owner} or one or more of its {Subsidiaries}; when used without reference to a particular {Person}, "{Subsidiary}" means a {Subsidiary_of_the_Company}.
+Def.Subsidiary="{Subsidiary}" - with respect to any {Person} (the "{Owner}"), any corporation or other {Person} of which securities or other interests having the power to elect a majority of that corporation's or other {Person}'s board of directors or similar governing body, or otherwise having the power to direct the business and policies of that corporation or other {Person} (other than {Equity_Securities} or other interests having such power only upon the happening of a contingency that has not occurred) are held by the {Owner} or one or more of its {Subsidiaries}; when used without reference to a particular {Person}, "{Subsidiary}" means a {Subsidiary_of_the_Company}.
 
-Def.Tax="{Tax}"—any income, gross receipts, license, payroll, employment, excise, severance, stamp, occupation, premium, property, environmental, windfall profit, customs, vehicle, airplane, boat, vessel or other title or registration, capital stock, franchise, employees' income withholding, foreign or domestic withholding, Social Security, unemployment, disability, real property, personal property, sales, use, transfer, value added, concession, alternative, add-on minimum and other tax, fee, assessment, levy, tariff, charge, or duty of any kind whatsoever and any interest, penalty, addition, or additional amount thereon imposed, assessed, or collected by or under the authority of any {Governmental_Body} or payable under any tax-sharing agreement or any other {Contract}.
+Def.Tax="{Tax}" - any income, gross receipts, license, payroll, employment, excise, severance, stamp, occupation, premium, property, environmental, windfall profit, customs, vehicle, airplane, boat, vessel or other title or registration, capital stock, franchise, employees' income withholding, foreign or domestic withholding, Social Security, unemployment, disability, real property, personal property, sales, use, transfer, value added, concession, alternative, add-on minimum and other tax, fee, assessment, levy, tariff, charge, or duty of any kind whatsoever and any interest, penalty, addition, or additional amount thereon imposed, assessed, or collected by or under the authority of any {Governmental_Body} or payable under any tax-sharing agreement or any other {Contract}.
 
-Def.Tax_Return="{Tax_Return}"—any return (including any information return), report, statement, schedule, notice, form, declaration, claim for refund, or other document or information filed with or submitted to, or required to be filed with or submitted to, any {Governmental_Body} in connection with the determination, assessment, collection, or payment of any Tax or in connection with the administration, implementation, or enforcement of or compliance with any {Legal_Requirement} relating to any {Tax}.
+Def.Tax_Return="{Tax_Return}" - any return (including any information return), report, statement, schedule, notice, form, declaration, claim for refund, or other document or information filed with or submitted to, or required to be filed with or submitted to, any {Governmental_Body} in connection with the determination, assessment, collection, or payment of any Tax or in connection with the administration, implementation, or enforcement of or compliance with any {Legal_Requirement} relating to any {Tax}.
 
-Def.Third_Party="{Third_Party}"—a {Person} that is not an {Acquired_Company} or a party to {this_Agreement}.
+Def.Third_Party="{Third_Party}" - a {Person} that is not an {Acquired_Company} or a party to {this_Agreement}.
 
-Def.Third-Party_Claim="{Third-Party_Claim}"—any claim against any {Indemnified_Person} by a {Third_Party}, whether or not involving a {Proceeding}.
+Def.Third-Party_Claim="{Third-Party_Claim}" - any claim against any {Indemnified_Person} by a {Third_Party}, whether or not involving a {Proceeding}.
 
-Def.Threat_of_Release="{Threat_of_Release}"—a reasonable possibility of a {Release} that could require action (including triggering notification or reporting under {Environmental_Law}) in order to prevent or mitigate damage to the {Environment} that could result from such {Release}.
+Def.Threat_of_Release="{Threat_of_Release}" - a reasonable possibility of a {Release} that could require action (including triggering notification or reporting under {Environmental_Law}) in order to prevent or mitigate damage to the {Environment} that could result from such {Release}.
 
-Def.Trade_Secrets="{Trade_Secrets}"—as defined in Section {3.22(a)(vi)}.
+Def.Trade_Secrets="{Trade_Secrets}" - as defined in Section {3.22(a)(vi)}.
 
 
 _______________________
@@ -257,11 +258,11 @@ ABA/MSPA/Sec/ABA-MSPA_Usage.md
 
 Note/=From the ABA's Model Share Purchase Agreement.  If we use this as a start, maybe we could get the job done.
 
-Usage.Sec=<u>{Usage.Title}</u> <ol><li>{Usage.Phrase.Sec}<li>{Usage.GAAP.Sec}<li>{Usage.NeutralConstruction.Sec}<li>{Usage.Heading.Sec}</li></ol>
+Usage.Sec=<u>{Usage.Title}</u> <ol type="a"><li>{Usage.Phrase.Sec}<li>{Usage.GAAP.Sec}<li>{Usage.NeutralConstruction.Sec}<li>{Usage.Heading.Sec}</li></ol>
 
 Usage.Title=USAGE
 
-Usage.Phrase.Sec=In {this_Agreement}, unless expressly stated otherwise:<ol><li>{Usage.Singular};<li>{Usage.Person};<li>{Usage.Gender};<li>{Usage.Document};<li>{Usage.Legal_Requirement};<li>{Usage.LR_Section};<li>{Usage.AnyWhereOf};<li>{Usage.Include};<li>{Usage.Or};<li>{Usage.Any};<li>{Usage.FromToTime};<li>{Usage.Document};<li>{Usage.Copy}; and<li>{Usage.ListReference}.</li></ol>
+Usage.Phrase.Sec=In {this_Agreement}, unless expressly stated otherwise:<ol type="i"><li>{Usage.Singular};<li>{Usage.Person};<li>{Usage.Gender};<li>{Usage.Document};<li>{Usage.Legal_Requirement};<li>{Usage.LR_Section};<li>{Usage.AnyWhereOf};<li>{Usage.Include};<li>{Usage.Or};<li>{Usage.Any};<li>{Usage.FromToTime};<li>{Usage.Document};<li>{Usage.Copy}; and<li>{Usage.ListReference}.</li></ol>
 
 Usage.GAAP.Sec=Unless otherwise specified in {this_Agreement}, all accounting terms used in {this_Agreement} will be interpreted, and all accounting determinations under {this_Agreement} will be made, in accordance with {GAAP}.
 
@@ -333,13 +334,13 @@ Sale.Close.Tx=Subject to Article {10-}, the purchase and sale (the "{Closing}") 
 
 Sale.Close.Effective.Date=<b>{the_Closing_Date}/the {Business_Day} prior to {the_Closing_Date}</b>
 
-Sale.CloseOblig.Sec=<u>{Sale.CloseOblig.Title}</u><br>{Sale.CloseOblig.Intro}:<ol><li>{Sale.CloseOblig.Seller.Sec}<li>{Sale.CloseOblig.Buyer.Sec}</li></ol>
+Sale.CloseOblig.Sec=<u>{Sale.CloseOblig.Title}</u><br>{Sale.CloseOblig.Intro}:<ol type="a"><li>{Sale.CloseOblig.Seller.Sec}<li>{Sale.CloseOblig.Buyer.Sec}</li></ol>
 
 Sale.CloseOblig.Title=CLOSING OBLIGATIONS
 
 Sale.CloseOblig.Intro=At {the_Closing}
 
-Sale.CloseOblig.Seller.Sec={Sale.CloseOblig.Seller.Intro}<ol><li>{Sale.CloseOblig.Seller.Cert.cl};<li>{Sale.CloseOblig.Seller.OrgDoc.Filed.cl};<li>{Sale.CloseOblig.Seller.OrgDoc.Unfiled.cl};<li>{Sale.CloseOblig.Seller.GoodStand.cl};<li>{Sale.CloseOblig.Seller.Release.cl};<li>{Sale.CloseOblig.Seller.EmpAgt.cl}; and <li>{Sale.CloseOblig.Seller.EscrowAgt.cl}.</li></ol>
+Sale.CloseOblig.Seller.Sec={Sale.CloseOblig.Seller.Intro}<ol type="i"><li>{Sale.CloseOblig.Seller.Cert.cl};<li>{Sale.CloseOblig.Seller.OrgDoc.Filed.cl};<li>{Sale.CloseOblig.Seller.OrgDoc.Unfiled.cl};<li>{Sale.CloseOblig.Seller.GoodStand.cl};<li>{Sale.CloseOblig.Seller.Release.cl};<li>{Sale.CloseOblig.Seller.EmpAgt.cl}; and <li>{Sale.CloseOblig.Seller.EscrowAgt.cl}.</li></ol>
 
 Sale.CloseOblig.Seller.Intro={Sellers} shall deliver to {Buyer}:
 
@@ -363,7 +364,7 @@ Sale.CloseOblig.Seller.EscrowAgt.cl=an escrow agreement in the form of Exhibit {
 
 Sale.CloseOblig.Seller.Cert8.cl=the certificate referred to in Section {8.3}.
 
-Sale.CloseOblig.Buyer.Sec={Sale.CloseOblig.Buyer.Intro}:<ol><li>{Sale.CloseOblig.Buyer.Payment.cl};<li>{Sale.CloseOblig.Buyer.PromNote.cl};<li>{Sale.CloseOblig.Buyer.EscrowFund.cl};<li>{Sale.CloseOblig.Buyer.EscrowAgt.cl}; and<li>{Sale.CloseOblig.Buyer.Cert9.cl}.</li></ol>
+Sale.CloseOblig.Buyer.Sec={Sale.CloseOblig.Buyer.Intro}:<ol type="i"><li>{Sale.CloseOblig.Buyer.Payment.cl};<li>{Sale.CloseOblig.Buyer.PromNote.cl};<li>{Sale.CloseOblig.Buyer.EscrowFund.cl};<li>{Sale.CloseOblig.Buyer.EscrowAgt.cl}; and<li>{Sale.CloseOblig.Buyer.Cert9.cl}.</li></ol>
 
 Sale.CloseOblig.Buyer.Intro={Buyer} shall deliver to {Sellers'_Representative} (or in the case of the {Escrow_Funds}, to {the_Escrow_Agent})
 
@@ -379,7 +380,7 @@ Sale.CloseOblig.Buyer.Cert9.cl=the certificate referred to in Section {9.3}
 
 Sale.Adjust$.Title=ADJUSTMENT AMOUNT AND PAYMENT
 
-Sale.Adjust$.Sec=<u>{Sale.Adjust$.Title}</u><ol><li>{Sale.Adjust$.Calculate.Sec}<li>{Sale.Adjust$.Calculate.Sec}<li>{Sale.Adjust$.Pay.Sec}<li>{Sale.Adjust$.Interest.Sec}</li></ol>
+Sale.Adjust$.Sec=<u>{Sale.Adjust$.Title}</u><ol type="a"><li>{Sale.Adjust$.Calculate.Sec}<li>{Sale.Adjust$.Calculate.Sec}<li>{Sale.Adjust$.Pay.Sec}<li>{Sale.Adjust$.Interest.Sec}</li></ol>
 
 Sale.Adjust$.Calculate.Sec=The "{Adjustment_Amount}" will be the difference, if any, between (i) the consolidated shareholders' equity of {the_Company_and_its_Subsidiaries}  as of {the_Closing_Date}, as shown on {the_Closing_Balance_Sheet} (the "{Closing_Date_Shareholders'_Equity}"), and (ii) {Sale.Adjust$.Calculate.Base.Dollars($)} (the consolidated shareholders' equity of {the_Company_and_its_Subsidiaries} as shown on {the_Interim_Balance_Sheet}) (the "{Interim_Shareholders'_Equity}").  If {the_Closing_Date_Shareholders'_Equity} is less than the {Interim_Shareholders'_Equity}, {the_Adjustment_Amount} shall be paid by {Sellers} to {Buyer}.  If {the_Closing_Date_Shareholders'_Equity} is greater than the {Interim_Shareholders'_Equity}, subject to Section {11.7}, {the_Adjustment_Amount} shall be paid by {Buyer} to {Sellers}.
 
@@ -387,7 +388,7 @@ Sale.Adjust$.Pay.Sec=If {the_Adjustment_Amount} or, after giving effect to Secti
 
 Sale.Adjust$.Interest.Sec=All payments under this Section {2.5} shall be made together with interest at the rate set forth in the {Promissory_Notes}, which interest will begin accruing on {the_Closing_Date} and end on the day before the payment is made.  Within three (3) {Business_Days} after {the_Closing_Balance_Sheet} and {Adjustment_Amount} become binding on the parties pursuant to Section {2.6}, {Sellers} or {Buyer}, as the case may be, shall make the payment provided for in this Section {2.5}.
 
-Sale.AdjustProc.Sec=<u>{Sale.AdjustProc.Title}</u><ol><li>{Sale.AdjustProc.Balance.sec}<li>{Sale.AdjustProc.Access.sec}<li>{Sale.AdjustProc.ObjectPeriod.sec}<li>{Sale.AdjustProc.Accountant.sec}<li>{Sale.AdjustProc.DisputeRes.sec}<li>{Sale.AdjustProc.DisputeProc.sec}</li></ol>
+Sale.AdjustProc.Sec=<u>{Sale.AdjustProc.Title}</u><ol type="a"><li>{Sale.AdjustProc.Balance.sec}<li>{Sale.AdjustProc.Access.sec}<li>{Sale.AdjustProc.ObjectPeriod.sec}<li>{Sale.AdjustProc.Accountant.sec}<li>{Sale.AdjustProc.DisputeRes.sec}<li>{Sale.AdjustProc.DisputeProc.sec}</li></ol>
 
 Sale.AdjustProc.Title=ADJUSTMENT PROCEDURE
 
@@ -401,7 +402,7 @@ Sale.AdjustProc.Accountant.sec=If {Sellers'_Representative} timely gives {Buyer}
 
 Sale.AdjustProc.DisputeRes.sec=The parties shall negotiate in good faith in order to seek agreement on the procedures to be followed by {the_Independent_Accountants}, including procedures with regard to the presentation of evidence.  If the parties are unable to agree upon procedures within 10 days of the submission to {the_Independent_Accountants}, {the_Independent_Accountants} shall establish such procedures giving due regard to the intention of the parties to resolve disputes as promptly, efficiently, and inexpensively as possible, which procedures may, but need not, be those proposed by either {Buyer} or {Sellers}' {Representative}.  The {Independent_Accountants} shall be directed to resolve only those issues in dispute and render a written report on their resolution of disputed issues with respect to {the_Closing_Balance_Sheet} and the resulting {Adjustment_Amount} as promptly as practicable, but no later than 60 days after the date on which {the_Independent_Accountants} are engaged.  The determination by {the_Independent_Accountants} will be based solely on written submissions of {Buyer}, on the one hand, and {Sellers'_Representative}, on the other hand, and will not involve independent review.  Any determination of {the_Closing_Balance_Sheet} or {the_Adjustment_Amount} by {the_Independent_Accountants} will not be outside the range established by the amounts in (i) {the_Closing_Balance_Sheet} and the determination of {the_Adjustment_Amount} proposed by {Buyer}, and (ii) {Sellers'_Representative}'s proposed adjustments thereto.  Such determination will be final, binding, and conclusive on the parties as of the date of the determination notice sent by {the_Independent_Accountants}.
 
-Sale.AdjustProc.DisputeProc.sec=If issues are submitted to {the_Independent_Accountants} for resolution:<ol><li>{Sale.AdjustProc.DisputeProc.Agt.sec};<li>{Sale.AdjustProc.DisputeProc.Docs.sec};<li>{Sale.AdjustProc.DisputeProc.NewBalance.sec}; and<li>{Sale.AdjustProc.DisputeProc.Fee.sec}.</li></ol>
+Sale.AdjustProc.DisputeProc.sec=If issues are submitted to {the_Independent_Accountants} for resolution:<ol type="i"><li>{Sale.AdjustProc.DisputeProc.Agt.sec};<li>{Sale.AdjustProc.DisputeProc.Docs.sec};<li>{Sale.AdjustProc.DisputeProc.NewBalance.sec}; and<li>{Sale.AdjustProc.DisputeProc.Fee.sec}.</li></ol>
 
 Sale.AdjustProc.DisputeProc.Agt.sec={Sellers'_Representative} and {Buyer} shall execute any agreement required by {the_Independent_Accountants} to accept their engagement pursuant to Section {2.6(d)}
 
@@ -419,7 +420,7 @@ aRep.Sec=<u>{aRep.Title}</u><br/>{aRep.Intro}:<ol><li>{aRep.Org.Sec}<li>{aRep.Au
 
 aRep.Intro={Sellers}, jointly and severally, represent and warrant to {Buyer} as follows
 
-aRep.Org.Sec=<u>{aRep.Org.Title}</u><ol><li>{aRep.Org.1.Sec}<li>{aRep.Org.2.Sec}<li>{aRep.Org.3.Sec}</li></ol>
+aRep.Org.Sec=<u>{aRep.Org.Title}</u><ol type="a"><li>{aRep.Org.1.Sec}<li>{aRep.Org.2.Sec}<li>{aRep.Org.3.Sec}</li></ol>
 
 aRep.Org.Title=ORGANIZATION AND GOOD STANDING
 
@@ -429,13 +430,13 @@ aRep.Org.2.Sec={Sellers} have delivered to {Buyer} copies of the {Organizational
 
 aRep.Org.3.Sec=No {Acquired_Company} has conducted business under or otherwise used, for any purpose or in any jurisdiction, any legal, fictitious, assumed, or trade name other than the names listed in Part {3.1}.
 
-aRep.Authority.Sec=<u>{aRep.Authority.Title}</u><ol><li>{aRep.Authority.1.Sec}<li>{aRep.Authority.2.Sec}<li>{aRep.Authority.3.Sec}</li></ol>
+aRep.Authority.Sec=<u>{aRep.Authority.Title}</u><ol type="a"><li>{aRep.Authority.1.Sec}<li>{aRep.Authority.2.Sec}<li>{aRep.Authority.3.Sec}</li></ol>
 
 aRep.Authority.Title=ENFORCEABILITY AND AUTHORITY; NO CONFLICT
 
 aRep.Authority.1.Sec={This_Agreement} has been duly executed and delivered by each {Seller} and constitutes the legal, valid, and binding obligation of each {Seller}, enforceable against each {Seller} in accordance with its terms.  Upon the execution and delivery of {Sellers'_Closing_Documents} by each {Seller} party thereto, each {Sellers'_Closing_Document} will constitute the legal, valid, and binding obligation of such {Seller}, enforceable against such {Seller} in accordance with its terms.  Each {Seller} has the absolute and unrestricted right, power, authority, and capacity to execute and deliver, and to perform its obligations under, {this_Agreement} and each {Sellers'_Closing_Document} to which it is a party.
 
-aRep.Authority.2.Sec={aRep.Authority.2.Intro}:<ol><li>{aRep.Authority.2.1.Sec};<li>{aRep.Authority.2.2.Sec};<li>{aRep.Authority.2.3.Sec};<li>{aRep.Authority.2.4.Sec};<li>{aRep.Authority.2.5.Sec};<li>{aRep.Authority.2.6.Sec};<li>{aRep.Authority.2.7.Sec}; or<li>{aRep.Authority.2.08.Sec}.</li></ol>
+aRep.Authority.2.Sec={aRep.Authority.2.Intro}:<ol type="i"><li>{aRep.Authority.2.1.Sec};<li>{aRep.Authority.2.2.Sec};<li>{aRep.Authority.2.3.Sec};<li>{aRep.Authority.2.4.Sec};<li>{aRep.Authority.2.5.Sec};<li>{aRep.Authority.2.6.Sec};<li>{aRep.Authority.2.7.Sec}; or<li>{aRep.Authority.2.08.Sec}.</li></ol>
 
 aRep.Authority.2.Intro=Except as set forth in Part {3.2(b)}, neither the execution and delivery of {this_Agreement} nor the consummation or performance of any {Contemplated_Transaction} will, directly or indirectly (with or without notice or lapse of time)
 
@@ -457,7 +458,7 @@ aRep.Authority.2.08.Sec=result in, or give any other {Person} the right or optio
 
 aRep.Authority.3.Sec=Except as set forth in Part {3.2(c)}, no {Seller} or {Acquired_Company} is or shall be required to give notice to, or obtain {Consent} from, any {Person} in connection with the execution and delivery of {this_Agreement} or the consummation or performance of any {Contemplated_Transaction}.
 
-aRep.Cap.Sec=<u>{aRep.Cap.Title}</u><ol><li>{aRep.Cap.1.Sec}<li>{aRep.Cap.2.Sec}<li>{aRep.Cap.3.Sec}</li></ol>
+aRep.Cap.Sec=<u>{aRep.Cap.Title}</u><ol type="a"><li>{aRep.Cap.1.Sec}<li>{aRep.Cap.2.Sec}<li>{aRep.Cap.3.Sec}</li></ol>
 
 aRep.Cap.Title=CAPITALIZATION OF COMPANY AND SUBSIDIARIES
 
@@ -477,7 +478,7 @@ aRep.FinanState.1.Sen={Sellers} have delivered to {Buyer}:  (a) audited consolid
 
 aRep.FinanState.2.Sen=The {Financial_Statements} (i) fairly present the consolidated financial condition and the results of operations, changes in shareholders' equity, and cash flows of {the_Company_and_its_Subsidiaries} as at the respective dates of, and for the periods referred to in, the {Financial_Statements}, and (ii) were prepared in accordance with {GAAP}, subject, in the case of the Unaudited {Financial_Statements}, to normal recurring year-end adjustments (the effect of which will not, individually or in the aggregate, be material) and the absence of notes (that, if presented, would not differ materially from those included in the Audited {Financial_Statements}).  The {Financial_Statements} reflect the consistent application of {GAAP} throughout the periods involved, except as disclosed in the notes to the Audited {Financial_Statements}.  No financial statements of any {Person} other than the {Acquired_Companies} are required by {GAAP} to be included or reflected in the {Financial_Statements}.  The {Financial_Statements} were prepared from, and are consistent with, the accounting {Records} of each {Acquired_Company}.  {Sellers} have also delivered to {Buyer} copies of all letters from {the_Company}'s auditors to {the_Company}'s board of directors or audit committee thereof during the 36 months prior to the date of {this_Agreement}, together with copies of all responses thereto.
 
-aRep.Record.Sec=<u>{aRep.Record.Title}</u><br/><ol><li>{aRep.Record.1.Sec}<li>{aRep.Record.2.Sec}</li></ol>
+aRep.Record.Sec=<u>{aRep.Record.Title}</u><br/><ol type="a"><li>{aRep.Record.1.Sec}<li>{aRep.Record.2.Sec}</li></ol>
 
 aRep.Record.Title=BOOKS AND RECORDS
 
@@ -485,7 +486,7 @@ aRep.Record.1.Sec=The books of account and other {Records} of each {Acquired_Com
 
 aRep.Record.2.Sec=The minute books of each {Acquired_Company} contain complete and correct {Records} of all meetings held of, and actions taken by written consent of, the holders of voting securities, the board of directors or {Persons} exercising similar authority, and committees of the board of directors or such {Persons} of such {Acquired_Company}, and no meeting of any such holders, board of directors, {Persons}, or committee has been held, and no other action has been taken, for which minutes or other evidence of action have not been prepared and are not contained in such minute books.  Each {Acquired_Company} has at all times maintained complete and correct {Records} of all issuances and transfers of its {Equity_Securities}.  At {the_Closing}, all such minute books and {Records} will be in the possession of {the_Company} and located at {aRep.Books.Location}.
 
-aRep.Property.Sec=<u>{aRep.Property.Title}</u><br/><ol><li>{aRep.Property.1.Sec}<li>{aRep.Property.2.Sec}<li>{aRep.Property.3.Sec}<li>{aRep.Property.4.Sec}</li></ol>
+aRep.Property.Sec=<u>{aRep.Property.Title}</u><br/><ol type="a"><li>{aRep.Property.1.Sec}<li>{aRep.Property.2.Sec}<li>{aRep.Property.3.Sec}<li>{aRep.Property.4.Sec}</li></ol>
 
 aRep.Property.Title=REAL AND PERSONAL PROPERTY
 
@@ -497,7 +498,7 @@ aRep.Property.3.Sec=The {Owned_Real_Property} and the {Acquired_Companies}' inte
 
 aRep.Property.4.Sec=The {Acquired_Companies} own all tangible personal property reflected as owned in {the_Interim_Balance_Sheet} (other than inventory sold since {the_Interim_Balance_Sheet} Date in the {Ordinary_Course_of_Business}), free and clear of all {Encumbrances}, other than  {Permitted_Encumbrances} and as set forth in Part {3.6(d)}.  All the tangible personal property purchased or otherwise acquired by the {Acquired_Companies} since {the_Interim_Balance_Sheet} Date (other than inventory acquired and sold since {the_Interim_Balance_Sheet} Date in the {Ordinary_Course_of_Business}) is owned by the {Acquired_Companies} free and clear of all {Encumbrances}, other than  {Permitted_Encumbrances} and as set forth in  Part {3.6(d)}.  A copy of the fixed asset register of each {Acquired_Company} has been delivered to {Buyer}.  Each such register contains a complete and correct list of the fixed assets of the applicable {Acquired_Company} as of the date specified.
 
-aRep.ConditionOfAssets.Sec=<u>{aRep.ConditionOfAssets.Title}</u><br/><ol><li>{aRep.ConditionOfAssets.1.Sec}<li>{aRep.ConditionOfAssets.2.Sec}</li></ol>
+aRep.ConditionOfAssets.Sec=<u>{aRep.ConditionOfAssets.Title}</u><br/><ol type="a" ><li>{aRep.ConditionOfAssets.1.Sec}<li>{aRep.ConditionOfAssets.2.Sec}</li></ol>
 
 aRep.ConditionOfAssets.Title=CONDITION AND SUFFICIENCY OF ASSETS
 
@@ -527,11 +528,11 @@ aRep.Liability.Title=NO UNDISCLOSED LIABILITIES
 
 aRep.Liability.Tx=Except as set forth in Part {3.10}, no {Acquired_Company} has any liability or obligation of any nature (whether known or unknown and whether absolute, accrued, contingent, or otherwise) other than liabilities or obligations to the extent shown on {the_Interim_Balance_Sheet} and current liabilities incurred in the {Ordinary_Course_of_Business} since the date of {the_Interim_Balance_Sheet}.
 
-aRep.Tax.Sec=<u>{aRep.Tax.Title}</u><ol><li>{aRep.Tax.1.Sec}<li>{aRep.Tax.2.Sec}<li>{aRep.Tax.3.Sec}<li>{aRep.Tax.4.Sec}<li>{aRep.Tax.5.Sec}</li></ol>
+aRep.Tax.Sec=<u>{aRep.Tax.Title}</u><ol type="a"><li>{aRep.Tax.1.Sec}<li>{aRep.Tax.2.Sec}<li>{aRep.Tax.3.Sec}<li>{aRep.Tax.4.Sec}<li>{aRep.Tax.5.Sec}</li></ol>
 
 aRep.Tax.Title=TAXES
 
-aRep.Tax.1.Sec=<u>{aRep.Tax.1.Title}</u><ol><li>{aRep.Tax.1.1.Sec}<li>{aRep.Tax.1.2.Sec}<li>{aRep.Tax.1.3.Sec}<li>{aRep.Tax.1.4.Sec}<li>{aRep.Tax.1.5.Sec}<li>{aRep.Tax.1.6.Sec}<li>{aRep.Tax.1.7.Sec}</li></ol>
+aRep.Tax.1.Sec=<u>{aRep.Tax.1.Title}</u><ol type="i"><li>{aRep.Tax.1.1.Sec}<li>{aRep.Tax.1.2.Sec}<li>{aRep.Tax.1.3.Sec}<li>{aRep.Tax.1.4.Sec}<li>{aRep.Tax.1.5.Sec}<li>{aRep.Tax.1.6.Sec}<li>{aRep.Tax.1.7.Sec}</li></ol>
 
 aRep.Tax.1.Title=Filed Returns and Tax Payments
 
@@ -549,7 +550,7 @@ aRep.Tax.1.6.Sec=Part {3.11(a)} lists each {Tax_Return} filed by any {Acquired_C
 
 aRep.Tax.1.7.Sec=No claim has ever been made by any {Governmental_Body} in a jurisdiction where any {Acquired_Company} does not file {Tax_Returns} that it is or could be subject to taxation by that jurisdiction, nor is there any reasonable basis for such a claim.
 
-aRep.Tax.2.Sec=<u>{aRep.Tax.2.Title}</u><ol><li>{aRep.Tax.2.1.Sec}<li>{aRep.Tax.2.2.Sec}<li>{aRep.Tax.2.3.Sec}<li>{aRep.Tax.2.4.Sec}<li>{aRep.Tax.2.5.Sec}<li>{aRep.Tax.2.6.Sec}</li></ol>
+aRep.Tax.2.Sec=<u>{aRep.Tax.2.Title}</u><ol type="i"><li>{aRep.Tax.2.1.Sec}<li>{aRep.Tax.2.2.Sec}<li>{aRep.Tax.2.3.Sec}<li>{aRep.Tax.2.4.Sec}<li>{aRep.Tax.2.5.Sec}<li>{aRep.Tax.2.6.Sec}</li></ol>
 
 aRep.Tax.2.Title=Audited or Closed Tax Years
 
@@ -571,15 +572,15 @@ aRep.Tax.3.Title=Accruals and Reserves
 
 aRep.Tax.3.Tx=The charges, accruals, and reserves with respect to {Taxes} on the accounting {Records} of each {Acquired_Company} are adequate and are at least equal to that {Acquired_Company}'s liability for {Taxes} and to the {Acquired_Companies}' liability for {Taxes} on a consolidated basis, respectively.
 
-aRep.Tax.4.Sec=<u>{aRep.Tax.4.Title}</u><br/>{aRep.Tax.4.Tx}
+aRep.Tax.4.Sec=<u>{aRep.Tax.4.Title}</u><br/><ol type="i"><li>{aRep.Tax.4.1.Sec}<li>{aRep.Tax.5.2.Sec}</ol>
 
 aRep.Tax.4.Title=Status of {Acquired_Companies}
 
-aRep.Tax.4.Sec=No {Acquired_Company} is, or within the five-year period preceding the date of {this_Agreement} has been, an "S corporation" within the meaning of Section 1361(a)(1) of {the_Code}.
+aRep.Tax.4.1.Sec=No {Acquired_Company} is, or within the five-year period preceding the date of {this_Agreement} has been, an "S corporation" within the meaning of Section 1361(a)(1) of {the_Code}.
 
-aRep.Tax.4.Tx=No {Acquired_Company} has been a member of any affiliated group of corporations (other than a group of which {the_Company} is the common parent) which has filed a combined, consolidated, or unitary income {Tax_Return} with any {Governmental_Body}.  No {Acquired_Company} is liable for the {Taxes} of any {Person} (other than another {Acquired_Company}) under Treasury Regulation Section 1.1502-6 or any similar provision of any applicable {Legal_Requirement}, as a transferee or successor, by contract, or otherwise.
+aRep.Tax.4.2.Sec=No {Acquired_Company} has been a member of any affiliated group of corporations (other than a group of which {the_Company} is the common parent) which has filed a combined, consolidated, or unitary income {Tax_Return} with any {Governmental_Body}.  No {Acquired_Company} is liable for the {Taxes} of any {Person} (other than another {Acquired_Company}) under Treasury Regulation Section 1.1502-6 or any similar provision of any applicable {Legal_Requirement}, as a transferee or successor, by contract, or otherwise.
 
-aRep.Tax.5.Sec=<u>{aRep.Tax.5.Title}</u><ol><li>{aRep.Tax.5.1.Sec}<li>{aRep.Tax.5.2.Sec}<li>{aRep.Tax.5.3.Sec}<li>{aRep.Tax.5.4.Sec}<li>{aRep.Tax.5.5.Sec}<li>{aRep.Tax.5.6.Sec}<li>{aRep.Tax.5.7.Sec}<li>{aRep.Tax.5.08.Sec}</li></ol>
+aRep.Tax.5.Sec=<u>{aRep.Tax.5.Title}</u><ol type="i"><li>{aRep.Tax.5.1.Sec}<li>{aRep.Tax.5.2.Sec}<li>{aRep.Tax.5.3.Sec}<li>{aRep.Tax.5.4.Sec}<li>{aRep.Tax.5.5.Sec}<li>{aRep.Tax.5.6.Sec}<li>{aRep.Tax.5.7.Sec}<li>{aRep.Tax.5.08.Sec}</li></ol>
 
 aRep.Tax.5.Title=Miscellaneous
 
@@ -605,7 +606,7 @@ aRep.MAC.Title=NO MATERIAL ADVERSE CHANGE
 
 aRep.MAC.Tx=Since the {Balance_Sheet_Date}, no {Acquired_Company} has suffered any {Material_Adverse_Change} and no event has occurred, and no circumstance exists, that can reasonably be expected to result in a {Material_Adverse_Change}.
 
-aRep.EmpBenefit.Sec=<u>{aRep.EmpBenefit.Title}</u><ol><li>{aRep.EmpBenefit.1.Sec}<li>{aRep.EmpBenefit.2.Sec}<li>{aRep.EmpBenefit.3.Sec}<li>{aRep.EmpBenefit.4.Sec}<li>{aRep.EmpBenefit.5.Sec}<li>{aRep.EmpBenefit.6.Sec}<li>{aRep.EmpBenefit.7.Sec}<li>{aRep.EmpBenefit.08.Sec}<li>{aRep.EmpBenefit.09.Sec}<li>{aRep.EmpBenefit.10.Sec}<li>{aRep.EmpBenefit.11.Sec}<li>{aRep.EmpBenefit.12.Sec}<li>{aRep.EmpBenefit.13.Sec}</li></ol>
+aRep.EmpBenefit.Sec=<u>{aRep.EmpBenefit.Title}</u><ol type="a"><li>{aRep.EmpBenefit.1.Sec}<li>{aRep.EmpBenefit.2.Sec}<li>{aRep.EmpBenefit.3.Sec}<li>{aRep.EmpBenefit.4.Sec}<li>{aRep.EmpBenefit.5.Sec}<li>{aRep.EmpBenefit.6.Sec}<li>{aRep.EmpBenefit.7.Sec}<li>{aRep.EmpBenefit.08.Sec}<li>{aRep.EmpBenefit.09.Sec}<li>{aRep.EmpBenefit.10.Sec}<li>{aRep.EmpBenefit.11.Sec}<li>{aRep.EmpBenefit.12.Sec}<li>{aRep.EmpBenefit.13.Sec}</li></ol>
 
 aRep.EmpBenefit.Title=EMPLOYEE BENEFITS
 
@@ -635,11 +636,11 @@ aRep.EmpBenefit.12.Sec=No {Acquired_Company} contributes to, has any obligation 
 
 aRep.EmpBenefit.13.Sec=Except as set forth in Part 3.13(m), no {Employee_Plan} is subject to Section 409A of {the_Code}.  Each {Employee_Plan} subject to Section 409A of {the_Code} ("Deferred Compensation Plan") complies in all material respects with Section 409A of {the_Code}.  No {Acquired_Company} has (i) granted to any {Person} an interest in any Deferred Compensation Plan that is, or upon the lapse of a substantial risk of forfeiture with respect to such interest will be, subject to the Tax imposed by Section 409A(a)(1)(B) or (b)(4)(A) of {the_Code}, or (ii) materially modified any Deferred Compensation Plan in a manner that could cause an interest previously granted under such plan to become subject to the Tax imposed by Section 409A(a)(1)(B) or (b)(4) of {the_Code}.
 
-aRep.Compliance.Sec=<u>{aRep.Compliance.Title}</u><ol><li>{aRep.Compliance.1.Sec}<li>{aRep.Compliance.2.Sec}<li>{aRep.Compliance.3.Sec}</li></ol>
+aRep.Compliance.Sec=<u>{aRep.Compliance.Title}</u><ol type="a"><li>{aRep.Compliance.1.Sec}<li>{aRep.Compliance.2.Sec}<li>{aRep.Compliance.3.Sec}</li></ol>
 
 aRep.Compliance.Title=COMPLIANCE WITH LEGAL REQUIREMENTS; GOVERNMENTAL AUTHORIZATIONS
 
-aRep.Compliance.1.Sec={aRep.Compliance.1.Intro}:<ol><li>{aRep.Compliance.1.1.Sec};<li>{aRep.Compliance.1.2.Sec};<li>{aRep.Compliance.1.3.Sec}; and<li>{aRep.Compliance.1.4.Sec}.</li></ol>
+aRep.Compliance.1.Sec={aRep.Compliance.1.Intro}:<ol type="i"><li>{aRep.Compliance.1.1.Sec};<li>{aRep.Compliance.1.2.Sec};<li>{aRep.Compliance.1.3.Sec}; and<li>{aRep.Compliance.1.4.Sec}.</li></ol>
 
 aRep.Compliance.1.Intro=Except as set forth in Part {3.14(a)}
 
@@ -651,7 +652,7 @@ aRep.Compliance.1.3.Sec=no {Acquired_Company} has received any notice or other c
 
 aRep.Compliance.1.4.Sec=no proposed {Legal_Requirement} could have an adverse consequence on any {Acquired_Company} or could require an expenditure of ${aRep.EmpBenefit.1.4.LR.Threshold.$} or more by any {Acquired_Company} to comply with such {Legal_Requirement}
 
-aRep.Compliance.2.Sec={aRep.Compliance.2.Intro}:<ol><li>{aRep.Compliance.2.1.Sec};<li>{aRep.Compliance.2.2.Sec};<li>{aRep.Compliance.2.3.Sec}; and<li>{aRep.Compliance.2.4.Sec}.</li></ol>
+aRep.Compliance.2.Sec={aRep.Compliance.2.Intro}:<ol type="i"><li>{aRep.Compliance.2.1.Sec};<li>{aRep.Compliance.2.2.Sec};<li>{aRep.Compliance.2.3.Sec}; and<li>{aRep.Compliance.2.4.Sec}.</li></ol>
 
 aRep.Compliance.2.Intro=Part {3.14(b)} lists each {Governmental_Authorization} that is held by any {Acquired_Company} or that otherwise relates to the business of, or to any assets owned or used by, any {Acquired_Company}.  Each {Governmental_Authorization} listed in Part {3.14(b)} is valid and in full force and effect.  Except as set forth in Part {3.14(b)}
 
@@ -665,11 +666,11 @@ aRep.Compliance.2.4.Sec=all applications required to have been filed for the ren
 
 aRep.Compliance.3.Sec=The {Governmental_Authorizations} listed in Part {3.14(b)} constitute all {Governmental_Authorizations} necessary to permit each {Acquired_Company} lawfully to continue to conduct its business in the manner in which it conducts such business and to own and use its assets in the manner in which it owns and uses such assets.
 
-aRep.Litig.Sec=<u>{aRep.Litig.Title}</u><ol><li>{aRep.Litig.1.Sec}<li>{aRep.Litig.2.Sec}<li>{aRep.Litig.3.Sec}</li></ol>
+aRep.Litig.Sec=<u>{aRep.Litig.Title}</u><ol type="a"><li>{aRep.Litig.1.Sec}<li>{aRep.Litig.2.Sec}<li>{aRep.Litig.3.Sec}</li></ol>
 
 aRep.Litig.Title=LEGAL PROCEEDINGS; ORDERS
 
-aRep.Litig.1.Sec={aRep.Litig.1.Intro}:<ol><li>{aRep.Litig.1.1.Sec}; or<li>{aRep.Litig.1.2.Sec}; or<li>{aRep.Litig.1.3.Sec}.</li></ol>{aRep.Litig.1.Cont}
+aRep.Litig.1.Sec={aRep.Litig.1.Intro}:<ol type="i"><li>{aRep.Litig.1.1.Sec}; or<li>{aRep.Litig.1.2.Sec}; or<li>{aRep.Litig.1.3.Sec}.</li></ol>{aRep.Litig.1.Cont}
 
 aRep.Litig.1.Intro=Except as set forth in Part {3.15(a)}, since {aRep.015.1.Litig.Since.Year} there has not been, and there is not pending or, to the {Knowledge_of_Sellers}, threatened, any {Proceeding}
 
@@ -681,7 +682,7 @@ aRep.Litig.1.3.Sec=that challenges, or that could have the effect of preventing,
 
 aRep.Litig.1.Cont=To the {Knowledge_of_Sellers}, no event has occurred or circumstance exists that could give rise to or serve as a basis for the commencement of any such {Proceeding}.  {Sellers} have delivered to {Buyer} copies of all pleadings, correspondence, and other documents relating to each pending or threatened {Proceeding} listed in Part {3.15(a)}.  None of the pending or threatened {Proceedings} listed in Part {3.15(a)}, individually or in the aggregate, will or could reasonably be expected to result in an adverse consequence to any {Acquired_Company} or in any {Acquired_Company} incurring {Losses} of ${aRep.Litig.1.3.Litig.MaxLoss.$} or more or being subjected to any {Order}.
 
-aRep.Litig.2.Sec={aRep.Litig.2.Intro}:<ol><li>{aRep.Litig.2.1.Sec}; and<li>{aRep.Litig.2.2.Sec}.</li></ol>
+aRep.Litig.2.Sec={aRep.Litig.2.Intro}:<ol type="i"><li>{aRep.Litig.2.1.Sec}; and<li>{aRep.Litig.2.2.Sec}.</li></ol>
 
 aRep.Litig.2.Intro=Except as set forth in Part {3.15(b)}
 
@@ -689,7 +690,7 @@ aRep.Litig.2.1.Sec=there is no {Order} to which any {Acquired_Company}, or any a
 
 aRep.Litig.2.2.Sec=no {Seller} is subject to any {Order} that relates to the business of, or any assets owned or used by, any {Acquired_Company}
 
-aRep.Litig.3.Sec={aRep.Litig.3.Intro}:<ol><li>{aRep.Litig.3.1.Sec};<li>{aRep.Litig.3.2.Sec}; and<li>{aRep.Litig.3.3.Sec}.</li></ol>
+aRep.Litig.3.Sec={aRep.Litig.3.Intro}:<ol type="i"><li>{aRep.Litig.3.1.Sec};<li>{aRep.Litig.3.2.Sec}; and<li>{aRep.Litig.3.3.Sec}.</li></ol>
 
 aRep.Litig.3.Intro=Except as set forth in Part {3.15(c)}
 
@@ -699,7 +700,7 @@ aRep.Litig.3.2.Sec=no event has occurred or circumstance exists that could const
 
 aRep.Litig.3.3.Sec=no {Acquired_Company} or {Seller} has, at any time received any notice or other communication (whether oral or written) from any {Governmental_Body} or any other {Person} regarding any actual, alleged, or potential violation of, or failure to comply with, any {Order} to which (A) any {Acquired_Company}, or any assets owned or used by any {Acquired_Company}, is subject, or (B) any {Seller} is subject that relates to the business of, or any assets owned or used by, any {Acquired_Company}
 
-aRep.Event.Sec=<u>{aRep.Event.Title}</u><br/>{aRep.Event.Intro}:<ol><li>{aRep.Event.1.Sec};<li>{aRep.Event.2.Sec};<li>{aRep.Event.3.Sec};<li>{aRep.Event.4.Sec};<li>{aRep.Event.5.Sec};<li>{aRep.Event.6.Sec};<li>{aRep.Event.7.Sec};<li>{aRep.Event.08.Sec};<li>{aRep.Event.09.Sec};<li>{aRep.Event.10.Sec};<li>{aRep.Event.11.Sec};<li>{aRep.Event.12.Sec};<li>{aRep.Event.13.Sec}; or<li>{aRep.Event.14.Sec}.</li></ol>
+aRep.Event.Sec=<u>{aRep.Event.Title}</u><br/>{aRep.Event.Intro}:<ol type="a"><li>{aRep.Event.1.Sec};<li>{aRep.Event.2.Sec};<li>{aRep.Event.3.Sec};<li>{aRep.Event.4.Sec};<li>{aRep.Event.5.Sec};<li>{aRep.Event.6.Sec};<li>{aRep.Event.7.Sec};<li>{aRep.Event.08.Sec};<li>{aRep.Event.09.Sec};<li>{aRep.Event.10.Sec};<li>{aRep.Event.11.Sec};<li>{aRep.Event.12.Sec};<li>{aRep.Event.13.Sec}; or<li>{aRep.Event.14.Sec}.</li></ol>
 
 aRep.Event.Title=ABSENCE OF CERTAIN CHANGES AND EVENTS
 
@@ -733,11 +734,11 @@ aRep.Event.13.Sec={Contract} by any {Acquired_Company} or any {Seller} to do any
 
 aRep.Event.14.Sec=other material occurrence, event, action, failure to act, or transaction outside the {Ordinary_Course_of_Business} involving any {Acquired_Company}
 
-aRep.Contract.Sec=<u>{aRep.Contract.Title}</u><ol><li>{aRep.Contract.1.Sec}<li>{aRep.Contract.2.Sec}<li>{aRep.Contract.3.Sec}<li>{aRep.Contract.4.Sec}<li>{aRep.Contract.5.Sec}</ol>
+aRep.Contract.Sec=<u>{aRep.Contract.Title}</u><ol type="a" ><li>{aRep.Contract.1.Sec}<li>{aRep.Contract.2.Sec}<li>{aRep.Contract.3.Sec}<li>{aRep.Contract.4.Sec}<li>{aRep.Contract.5.Sec}</ol>
 
 aRep.Contract.Title=CONTRACTS
 
-aRep.Contract.1.Sec={aRep.Contract.1.Intro}:<ol><li>{aRep.Contract.1.1.Sec};<li>{aRep.Contract.1.2.Sec};<li>{aRep.Contract.1.3.Sec};<li>{aRep.Contract.1.4.Sec};<li>{aRep.Contract.1.5.Sec};<li>{aRep.Contract.1.6.Sec};<li>{aRep.Contract.1.7.Sec};<li>{aRep.Contract.1.08.Sec};<li>{aRep.Contract.1.09.Sec};<li>{aRep.Contract.1.10.Sec};<li>{aRep.Contract.1.11.Sec};<li>{aRep.Contract.1.12.Sec};<li>{aRep.Contract.1.13.Sec};<li>{aRep.Contract.1.14.Sec};<li>{aRep.Contract.1.15.Sec};<li>{aRep.Contract.1.16.Sec};<li>{aRep.Contract.1.17.Sec};<li>{aRep.Contract.1.18.Sec};<li>{aRep.Contract.1.19.Sec};<li>{aRep.Contract.1.20.Sec}; and<li>{aRep.Contract.1.21.Sec}.</li></ol>
+aRep.Contract.1.Sec={aRep.Contract.1.Intro}:<ol type="i"><li>{aRep.Contract.1.1.Sec};<li>{aRep.Contract.1.2.Sec};<li>{aRep.Contract.1.3.Sec};<li>{aRep.Contract.1.4.Sec};<li>{aRep.Contract.1.5.Sec};<li>{aRep.Contract.1.6.Sec};<li>{aRep.Contract.1.7.Sec};<li>{aRep.Contract.1.08.Sec};<li>{aRep.Contract.1.09.Sec};<li>{aRep.Contract.1.10.Sec};<li>{aRep.Contract.1.11.Sec};<li>{aRep.Contract.1.12.Sec};<li>{aRep.Contract.1.13.Sec};<li>{aRep.Contract.1.14.Sec};<li>{aRep.Contract.1.15.Sec};<li>{aRep.Contract.1.16.Sec};<li>{aRep.Contract.1.17.Sec};<li>{aRep.Contract.1.18.Sec};<li>{aRep.Contract.1.19.Sec};<li>{aRep.Contract.1.20.Sec}; and<li>{aRep.Contract.1.21.Sec}.</li></ol>
 
 aRep.Contract.1.Intro= Part {3.17(a)} lists, and {Sellers} have delivered to {Buyer} a copy of, each {Applicable_Contract}
 
@@ -783,7 +784,7 @@ aRep.Contract.1.20.Sec=containing any obligation of confidentiality or nondisclo
 
 aRep.Contract.1.21.Sec=constituting an amendment, supplement, or modification (whether oral or written) in respect of any of the foregoing
 
-aRep.Contract.2.Sec={aRep.Contract.2.Intro}:<ol><li>{aRep.Contract.2.1.Sec};<li>{aRep.Contract.2.2.Sec}; and<li>{aRep.Contract.2.3.Sec}.</li></ol>
+aRep.Contract.2.Sec={aRep.Contract.2.Intro}:<ol type="i"><li>{aRep.Contract.2.1.Sec};<li>{aRep.Contract.2.2.Sec}; and<li>{aRep.Contract.2.3.Sec}.</li></ol>
 
 aRep.Contract.2.Intro=Except as set forth in Part {3.17(b)}
 
@@ -793,7 +794,7 @@ aRep.Contract.2.2.Sec=the completion or performance of each Applicable {Contract
 
 aRep.Contract.2.3.Sec=the completion or performance of each Applicable {Contract} listed in Part {3.17(a)} will not result in an adverse consequence to any {Acquired_Company}
 
-aRep.Contract.3.Sec={aRep.Contract.3.Intro}:<ol><li>{aRep.Contract.3.1.Sec};<li>{aRep.Contract.3.2.Sec};<li>{aRep.Contract.3.3.Sec};<li>{aRep.Contract.3.4.Sec} and<li>{aRep.Contract.3.5.Sec}.</li></ol>
+aRep.Contract.3.Sec={aRep.Contract.3.Intro}:<ol type="i"><li>{aRep.Contract.3.1.Sec};<li>{aRep.Contract.3.2.Sec};<li>{aRep.Contract.3.3.Sec};<li>{aRep.Contract.3.4.Sec} and<li>{aRep.Contract.3.5.Sec}.</li></ol>
 
 aRep.Contract.3.Intro=Except as set forth in Part {3.17(c)}
 
@@ -813,9 +814,9 @@ aRep.Contract.5.Sec=Each Applicable {Contract} relating to the sale, design, man
 
 aRep.Insurance.Title=INSURANCE
 
-aRep.Insurance.Sec=<u>{aRep.Insurance.Title}</u><ol><li>{aRep.Insurance.1.Sec}<li>{aRep.Insurance.2.Sec}<li>{aRep.Insurance.3.Sec}<li>{aRep.Insurance.4.Sec}<li>{aRep.Insurance.5.Sec}<li>{aRep.Insurance.6.Sec}</li></ol>
+aRep.Insurance.Sec=<u>{aRep.Insurance.Title}</u><ol type="a"><li>{aRep.Insurance.1.Sec}<li>{aRep.Insurance.2.Sec}<li>{aRep.Insurance.3.Sec}<li>{aRep.Insurance.4.Sec}<li>{aRep.Insurance.5.Sec}<li>{aRep.Insurance.6.Sec}</li></ol>
 
-aRep.Insurance.1.Sec={aRep.Insurance.1.Intro}:<ol><li>{aRep.Insurance.1.1.Sec};<li>{aRep.Insurance.1.2.Sec}; and<li>{aRep.Insurance.1.3.Sec}.</li></ol>
+aRep.Insurance.1.Sec={aRep.Insurance.1.Intro}:<ol type="i"><li>{aRep.Insurance.1.1.Sec};<li>{aRep.Insurance.1.2.Sec}; and<li>{aRep.Insurance.1.3.Sec}.</li></ol>
 
 aRep.Insurance.1.Intro={Sellers} have delivered to {Buyer}
 
@@ -825,7 +826,7 @@ aRep.Insurance.1.2.Sec=copies of all pending applications for policies of insura
 
 aRep.Insurance.1.3.Sec=any written statement by the auditor of any {Acquired_Company} or any consultant or risk management advisor provided to or in the possession of an {Acquired_Company} with regard to the adequacy of its coverage or its reserves for actual or potential claims
 
-aRep.Insurance.2.Sec={aRep.Insurance.2.Intro}:<ol><li>{aRep.Insurance.2.1.Sec};<li>{aRep.Insurance.2.2.Sec}; and<li>{aRep.Insurance.2.3.Sec}.</li></ol>
+aRep.Insurance.2.Sec={aRep.Insurance.2.Intro}:<ol type="i"><li>{aRep.Insurance.2.1.Sec};<li>{aRep.Insurance.2.2.Sec}; and<li>{aRep.Insurance.2.3.Sec}.</li></ol>
 
 aRep.Insurance.2.Intro=Part 3.18(b) sets forth
 
@@ -835,25 +836,25 @@ aRep.Insurance.2.2.Sec=any {Contract}, other than a policy of insurance, for the
 
 aRep.Insurance.2.3.Sec=all obligations of any {Acquired_Company} to third parties with respect to insurance coverage (including such obligations under leases and service agreements) and identifying the policy under which such coverage is provided.
 
-aRep.Insurance.3.Sec={aRep.Insurance.3.Intro}:<ol><li>{aRep.Insurance.3.1.Sec};<li>{aRep.Insurance.3.2.Sec}<li>{aRep.Insurance.3.3.Sec}.</li></ol>
+aRep.Insurance.3.Sec={aRep.Insurance.3.Intro}:<ol type="i"><li>{aRep.Insurance.3.1.Sec};<li>{aRep.Insurance.3.2.Sec}<li>{aRep.Insurance.3.3.Sec}.</li></ol>
 
 aRep.Insurance.3.Intro=Part {3.18(c)} sets forth for each {Acquired_Company} for the current policy year and each of the preceding {aRep.Insurance.3.Policy.Years} policy years by year
 
 aRep.Insurance.3.1.Sec=a summary of the loss experience under each policy of insurance
 
-aRep.Insurance.3.2.Sec=a statement describing each claim under a policy of insurance for an amount in excess of ${aRep.Insurance.3.2.Ins.Policy.Amt.$}, which sets forth:<ol><li>the name of the claimant;<li>a description of the policy by insurer, type of insurance, and period of coverage; and<li>the amount and a brief description of the claim; and</li></ol>
+aRep.Insurance.3.2.Sec=a statement describing each claim under a policy of insurance for an amount in excess of ${aRep.Insurance.3.2.Ins.Policy.Amt.$}, which sets forth:<ol type="A"><li>the name of the claimant;<li>a description of the policy by insurer, type of insurance, and period of coverage; and<li>the amount and a brief description of the claim; and</li></ol>
 
 aRep.Insurance.3.3.Sec=a statement describing the loss experience for all claims that were self-insured, including the number and aggregate cost of such claims
 
-aRep.Insurance.4.Sec={aRep.Insurance.4.Intro}:<ol><li>{aRep.Insurance.4.1.Sec}<li>{aRep.Insurance.4.2.Sec}<li>{aRep.Insurance.4.3.Sec};<li>{aRep.Insurance.4.4.Sec}; and<li>{aRep.Insurance.4.5.Sec}.</li></ol>
+aRep.Insurance.4.Sec={aRep.Insurance.4.Intro}:<ol type="i"><li>{aRep.Insurance.4.1.Sec}<li>{aRep.Insurance.4.2.Sec}<li>{aRep.Insurance.4.3.Sec};<li>{aRep.Insurance.4.4.Sec}; and<li>{aRep.Insurance.4.5.Sec}.</li></ol>
 
 aRep.Insurance.4.Intro=Except as set forth in Part {3.18(d)}
 
-aRep.Insurance.4.1.Sec=all policies of insurance to which any {Acquired_Company} is a party, an insured, or a beneficiary or that provide coverage to any {Seller} in such {Seller}'s capacity as a shareholder of {the_Company}, any {Acquired_Company}, or any director, officer, or manager of an {Acquired_Company} in such capacity:<ol><li>are valid, outstanding, and enforceable;<li>are issued by an insurer that is financially sound and reputable;<li>taken together, provide adequate insurance coverage for the assets and the operations of each {Acquired_Company} {aRep.Insurance.4.1.Risks}{aRep.Insurance.4.1.Risks};<li>are sufficient for compliance with applicable {Legal_Requirements} and all {Applicable_Contracts} to which any {Acquired_Company} is a party or by which it is bound;<li>will continue in full force and effect following the consummation and performance of the {Contemplated_Transactions}; and<li>do not provide for any retrospective premium adjustment or other experience-based liability on the part of any {Acquired_Company};</li></ol>
+aRep.Insurance.4.1.Sec=all policies of insurance to which any {Acquired_Company} is a party, an insured, or a beneficiary or that provide coverage to any {Seller} in such {Seller}'s capacity as a shareholder of {the_Company}, any {Acquired_Company}, or any director, officer, or manager of an {Acquired_Company} in such capacity:<ol type="A"><li>are valid, outstanding, and enforceable;<li>are issued by an insurer that is financially sound and reputable;<li>taken together, provide adequate insurance coverage for the assets and the operations of each {Acquired_Company} {aRep.Insurance.4.1.Risks}{aRep.Insurance.4.1.Risks};<li>are sufficient for compliance with applicable {Legal_Requirements} and all {Applicable_Contracts} to which any {Acquired_Company} is a party or by which it is bound;<li>will continue in full force and effect following the consummation and performance of the {Contemplated_Transactions}; and<li>do not provide for any retrospective premium adjustment or other experience-based liability on the part of any {Acquired_Company};</li></ol>
 
 aRep.Insurance.4.1.Risks=<b>[for all risks normally insured against by a {Person} carrying on the same business or businesses as such {Acquired_Company}] [for all risks to which such {Acquired_Company} is normally exposed]</b>
 
-aRep.Insurance.4.2.Sec=since {aRep.Insurance.4.2.Ins.NoDeny.Since.Year}, no {Seller} or {Acquired_Company} has received:<ol><li>any refusal of insurance coverage or any notice that a defense will be afforded with reservation of rights; or<li>any notice of cancellation or any other indication that any policy of insurance is no longer in full force or effect or will not be renewed or that the issuer of any policy of insurance is not willing or able to perform its obligations thereunder;</li></ol>
+aRep.Insurance.4.2.Sec=since {aRep.Insurance.4.2.Ins.NoDeny.Since.Year}, no {Seller} or {Acquired_Company} has received:<ol type="A"><li>any refusal of insurance coverage or any notice that a defense will be afforded with reservation of rights; or<li>any notice of cancellation or any other indication that any policy of insurance is no longer in full force or effect or will not be renewed or that the issuer of any policy of insurance is not willing or able to perform its obligations thereunder;</li></ol>
 
 aRep.Insurance.4.3.Sec=each {Acquired_Company} has paid all premiums due, and has otherwise performed its obligations, under each policy of insurance to which it is a party or that provides coverage to it or to any of its directors, officers, or managers, in their capacity as such
 
@@ -867,7 +868,7 @@ aRep.Insurance.6.Sec=Part {3.18(f)} describes the manner in which {the_Company} 
 
 aRep.Environment.Title=ENVIRONMENTAL MATTERS
 
-aRep.Environment.Sec=<u>{aRep.Environment.Title}</u><br/>{aRep.Environment.Intro}<ol><li>{aRep.Environment.1.Sec}<li>{aRep.Environment.2.Sec}<li>{aRep.Environment.3.Sec}<li>{aRep.Environment.4.Sec}<li>{aRep.Environment.5.Sec}<li>{aRep.Environment.6.Sec}<li>{aRep.Environment.7.Sec}</li></ol>
+aRep.Environment.Sec=<u>{aRep.Environment.Title}</u><br/>{aRep.Environment.Intro}<ol type="a"><li>{aRep.Environment.1.Sec}<li>{aRep.Environment.2.Sec}<li>{aRep.Environment.3.Sec}<li>{aRep.Environment.4.Sec}<li>{aRep.Environment.5.Sec}<li>{aRep.Environment.6.Sec}<li>{aRep.Environment.7.Sec}</li></ol>
 
 aRep.Environment.Intro=Except as set forth in Part {3.19}:
 
@@ -887,7 +888,7 @@ aRep.Environment.7.Sec={Sellers} have delivered to {Buyer} copies of all reports
 
 aRep.Personnel.Title=EMPLOYEES AND CONSULTANTS
 
-aRep.Personnel.Sec=<u>{aRep.Personnel.Title}</u><ol><li>{aRep.Personnel.1.Sec}<li>{aRep.Personnel.2.Sec}<li>{aRep.Personnel.3.Sec}<li>{aRep.Personnel.4.Sec}<li>{aRep.Personnel.5.Sec}<li>{aRep.Personnel.6.Sec}<li>{aRep.Personnel.7.Sec}</li></ol>
+aRep.Personnel.Sec=<u>{aRep.Personnel.Title}</u><ol type="a"><li>{aRep.Personnel.1.Sec}<li>{aRep.Personnel.2.Sec}<li>{aRep.Personnel.3.Sec}<li>{aRep.Personnel.4.Sec}<li>{aRep.Personnel.5.Sec}<li>{aRep.Personnel.6.Sec}<li>{aRep.Personnel.7.Sec}</li></ol>
 
 aRep.Personnel.1.Sec=Part {3.20(a)} lists the following information for each employee of each {Acquired_Company}, including each employee on leave of absence or layoff status:  employer, name, job title, date of hiring, date of commencement of employment, details of leave of absence or layoff, rate of compensation, bonus arrangement, and any change in compensation or bonus since {aRep.Personnel.1.Emp.Since.YMD}, vacation, sick time, and personal leave accrued as of {aRep.Personnel.1.Emp.Accrue.AsOf.YMD}, and service credited for purposes of vesting and eligibility to participate under any {Employee_Plan}.
 
@@ -905,11 +906,11 @@ aRep.Personnel.7.Sec=To the {Knowledge_of_Sellers}, no director, officer, employ
 
 aRep.Labor.Title=LABOR DISPUTES; COMPLIANCE
 
-aRep.Labor.Sec=<u>{aRep.Labor.Title}</u><ol><li>{aRep.Labor.1.Sec}<li>{aRep.Labor.2.Sec}</li></ol>
+aRep.Labor.Sec=<u>{aRep.Labor.Title}</u><ol type="a"><li>{aRep.Labor.1.Sec}<li>{aRep.Labor.2.Sec}</li></ol>
 
 aRep.Labor.1.Sec=Each {Acquired_Company} has at all times complied with all {Legal_Requirements} relating to employment practices, terms, and conditions of employment, equal employment opportunity, nondiscrimination, sexual harassment, immigration, wages, hours, benefits, collective bargaining and similar requirements, the payment of Social Security and similar {Taxes}, and occupational safety and health.  No {Acquired_Company} is liable for the payment of any {Taxes}, fines, penalties, or other amounts, however designated, for failure to comply with any of the foregoing {Legal_Requirements}.
 
-aRep.Labor.2.Sec={aRep.Labor.2.Intro}:<ol><li>{aRep.Labor.2.1.Sec}<li>{aRep.Labor.2.2.Sec}<li>{aRep.Labor.2.3.Sec};<li>{aRep.Labor.2.4.Sec}<li>{aRep.Labor.2.5.Sec};<li>{aRep.Labor.2.6.Sec}; and<li>{aRep.Labor.2.7.Sec}.</li></ol>
+aRep.Labor.2.Sec={aRep.Labor.2.Intro}:<ol type="i"><li>{aRep.Labor.2.1.Sec}<li>{aRep.Labor.2.2.Sec}<li>{aRep.Labor.2.3.Sec};<li>{aRep.Labor.2.4.Sec}<li>{aRep.Labor.2.5.Sec};<li>{aRep.Labor.2.6.Sec}; and<li>{aRep.Labor.2.7.Sec}.</li></ol>
 
 aRep.Labor.2.Intro=Except as set forth in Part 3.21(b)
 
@@ -929,9 +930,9 @@ aRep.Labor.2.7.Sec=since {aRep.Labor.2.7.Labor.Year}, there has not been, and th
 
 aRep.IP.Title=INTELLECTUAL PROPERTY ASSETS
 
-aRep.IP.Sec=<u>{aRep.IP.Title}</u><ol><li>{aRep.IP.1.Sec}<li>{aRep.IP.2.Sec}<li>{aRep.IP.3.Sec}<li>{aRep.IP.4.Sec}<li>{aRep.IP.5.Sec}<li>{aRep.IP.6.Sec}<li>{aRep.IP.7.Sec}<li>{aRep.IP.08.Sec}</li></ol>
+aRep.IP.Sec=<u>{aRep.IP.Title}</u><ol type="a"><li>{aRep.IP.1.Sec}<li>{aRep.IP.2.Sec}<li>{aRep.IP.3.Sec}<li>{aRep.IP.4.Sec}<li>{aRep.IP.5.Sec}<li>{aRep.IP.6.Sec}<li>{aRep.IP.7.Sec}<li>{aRep.IP.08.Sec}</li></ol>
 
-aRep.IP.1.Sec=<u>{aRep.IP.1.Title}</u><br/>{aRep.IP.1.Intro}:<ol><li>{aRep.IP.1.1.Sec};<li>{aRep.IP.1.2.Sec};<li>{aRep.IP.1.3.Sec};<li>{aRep.IP.1.4.Sec};<li>{aRep.IP.1.5.Sec};<li>{aRep.IP.1.6.Sec}; and<li>{aRep.IP.1.7.Sec}.</li></ol>
+aRep.IP.1.Sec=<u>{aRep.IP.1.Title}</u><br/>{aRep.IP.1.Intro}:<ol type="i"><li>{aRep.IP.1.1.Sec};<li>{aRep.IP.1.2.Sec};<li>{aRep.IP.1.3.Sec};<li>{aRep.IP.1.4.Sec};<li>{aRep.IP.1.5.Sec};<li>{aRep.IP.1.6.Sec}; and<li>{aRep.IP.1.7.Sec}.</li></ol>
 
 aRep.IP.1.Title=Definition of {Intellectual_Property_Assets}
 
@@ -951,7 +952,7 @@ aRep.IP.1.6.Sec=all know-how, trade secrets, confidential or proprietary informa
 
 aRep.IP.1.7.Sec=all rights in Internet websites, Internet domain names, and keywords held by an {Acquired_Company} (collectively "{Net_Names}")
 
-aRep.IP.2.Sec=<u>{aRep.IP.2.Title}</u><ol><li>{aRep.IP.2.1.Sec}<li>{aRep.IP.2.2.Sec}<li>{aRep.IP.2.3.Sec}<li>{aRep.IP.2.4.Sec}<li>{aRep.IP.2.5.Sec}</li></ol>
+aRep.IP.2.Sec=<u>{aRep.IP.2.Title}</u><ol type="a"><li>{aRep.IP.2.1.Sec}<li>{aRep.IP.2.2.Sec}<li>{aRep.IP.2.3.Sec}<li>{aRep.IP.2.4.Sec}<li>{aRep.IP.2.5.Sec}</li></ol>
 
 aRep.IP.2.Title=Nature of {Intellectual_Property_Assets}
 
@@ -965,7 +966,7 @@ aRep.IP.2.4.Sec=Since {aRep.IP.2.2.Assign.Since.Year}, no {Acquired_Company} has
 
 aRep.IP.2.5.Sec=No {Acquired_Company} is or ever was a member or promoter of, or a contributor to, any industry standards body or other organization that could require or obligate any {Acquired_Company} to grant or offer to any other {Person} any license or right to any Intellectual Property Asset.
 
-aRep.IP.3.Sec=<u>{aRep.IP.3.Title}</u><ol><li>{aRep.IP.3.1.Sec}<li>{aRep.IP.3.2.Sec}<li>{aRep.IP.3.3.Sec}<li>{aRep.IP.3.4.Sec}<li>{aRep.IP.3.5.Sec}</li></ol>
+aRep.IP.3.Sec=<u>{aRep.IP.3.Title}</u><ol type="i"><li>{aRep.IP.3.1.Sec}<li>{aRep.IP.3.2.Sec}<li>{aRep.IP.3.3.Sec}<li>{aRep.IP.3.4.Sec}<li>{aRep.IP.3.5.Sec}</li></ol>
 
 aRep.IP.3.Title=Patents
 
@@ -979,7 +980,7 @@ aRep.IP.3.4.Sec=No {Patent} is or has been infringed or has been challenged or, 
 
 aRep.IP.3.5.Sec=All products made, used, or sold under the {Patents} have been marked with the proper patent notice.
 
-aRep.IP.4.Sec=<u>{aRep.IP.4.Title}</u><ol><li>{aRep.IP.4.1.Sec}<li>{aRep.IP.4.2.Sec}<li>{aRep.IP.4.3.Sec}<li>{aRep.IP.4.4.Sec}<li>{aRep.IP.4.5.Sec}<li>{aRep.IP.4.6.Sec}.</li></ol>
+aRep.IP.4.Sec=<u>{aRep.IP.4.Title}</u><ol type="i"><li>{aRep.IP.4.1.Sec}<li>{aRep.IP.4.2.Sec}<li>{aRep.IP.4.3.Sec}<li>{aRep.IP.4.4.Sec}<li>{aRep.IP.4.5.Sec}<li>{aRep.IP.4.6.Sec}.</li></ol>
 
 aRep.IP.4.Title=Marks
 
@@ -995,7 +996,7 @@ aRep.IP.4.5.Sec=No {Mark} is or has been infringed or has been challenged and, t
 
 aRep.IP.4.6.Sec=All products and materials containing a registered {Mark} bear the proper federal registration notice where permitted by law.
 
-aRep.IP.5.Sec=<u>{aRep.IP.5.Title}</u><ol><li>{aRep.IP.5.1.Sec}<li>{aRep.IP.5.2.Sec}<li>{aRep.IP.5.3.Sec}<li>{aRep.IP.5.4.Sec}</li></li></ol>
+aRep.IP.5.Sec=<u>{aRep.IP.5.Title}</u><ol type="i"><li>{aRep.IP.5.1.Sec}<li>{aRep.IP.5.2.Sec}<li>{aRep.IP.5.3.Sec}<li>{aRep.IP.5.4.Sec}</li></li></ol>
 
 aRep.IP.5.Title=Copyrights
 
@@ -1007,7 +1008,7 @@ aRep.IP.5.3.Sec=No Copyright listed in Part {3.22(e)} is or has been infringed o
 
 aRep.IP.5.4.Sec=All works encompassed by the {Copyrights} listed in Part {3.22(e)} have been marked with the proper copyright notice.
 
-aRep.IP.6.Sec=<u>{aRep.IP.6.Title}</u><ol><li>{aRep.IP.6.1.Sec}<li>{aRep.IP.6.2.Sec}<li>{aRep.IP.6.3.Sec}</li></li></ol>
+aRep.IP.6.Sec=<u>{aRep.IP.6.Title}</u><ol type="i"><li>{aRep.IP.6.1.Sec}<li>{aRep.IP.6.2.Sec}<li>{aRep.IP.6.3.Sec}</li></li></ol>
 
 aRep.IP.6.Title={Trade_Secrets}
 
@@ -1025,7 +1026,7 @@ aRep.IP.7.Tx=All {Software} owned, licensed, or used by any {Acquired_Company} (
 
 Software.List.Xrefs=Parts {3.22(c)}, (e), or (f) or {3.17(a)(v)}
 
-aRep.IP.08.Sec=<u>{aRep.IP.08.Title}</u><ol><li>{aRep.IP.08.1.Sec}<li>{aRep.IP.08.2.Sec}<li>{aRep.IP.08.3.Sec}<li>{aRep.IP.08.4.Sec}<li>{aRep.IP.08.5.Sec}</li></li></ol>
+aRep.IP.08.Sec=<u>{aRep.IP.08.Title}</u><ol type="i"><li>{aRep.IP.08.1.Sec}<li>{aRep.IP.08.2.Sec}<li>{aRep.IP.08.3.Sec}<li>{aRep.IP.08.4.Sec}<li>{aRep.IP.08.5.Sec}</li></li></ol>
 
 aRep.IP.08.Title={Net_Names}
 
@@ -1053,7 +1054,7 @@ aRep.Insider.Tx=No {Seller} and no {Related_Person} of any {Seller} or of any {A
 
 aRep.Securities.Title=SECURITIES LAW MATTERS
 
-aRep.Securities.Sec=<u>{aRep.Securities.Title}</u><ol><li>{aRep.Securities.1.Sec}<li>{aRep.Securities.2.Sec}</li></ol>
+aRep.Securities.Sec=<u>{aRep.Securities.Title}</u><ol type="a"><li>{aRep.Securities.1.Sec}<li>{aRep.Securities.2.Sec}</li></ol>
 
 aRep.Securities.1.Sec=Each {Seller} is acquiring its {Promissory_Note} for its own account and not with a view to its distribution within the meaning of Section 2(11) of the {Securities_Act}.  Each {Seller} is an "accredited investor" as such term is defined in Rule 501(a) under the {Securities_Act}.
 
@@ -1067,7 +1068,7 @@ aRep.CustomerAndSupplier.Tx=Part {3.26} lists for each of the {aRep.CustomerAndS
 
 aRep.ProductLiability.Title=PRODUCT LIABILITIES AND WARRANTIES
 
-aRep.ProductLiability.Sec=<u>{aRep.ProductLiability.Title}</u><ol><li>{aRep.ProductLiability.1.Sec}<li>{aRep.ProductLiability.2.Sec}</li></ol>
+aRep.ProductLiability.Sec=<u>{aRep.ProductLiability.Title}</u><ol type="a"><li>{aRep.ProductLiability.1.Sec}<li>{aRep.ProductLiability.2.Sec}</li></ol>
 
 aRep.ProductLiability.1.Sec=Except as set forth in Part 3.27(a), no {Acquired_Company} has incurred any {Loss} as a result of any defect or other deficiency (whether of design, materials, workmanship, labeling, instructions, or otherwise) with respect to any product designed, manufactured, sold, leased, licensed, or delivered, or any service provided by any {Acquired_Company}, whether such {Loss} is incurred by reason of any express or implied warranty (including any warranty of merchantability or fitness), any doctrine of common law (tort, contract, or other), any other {Legal_Requirement}, or otherwise.  No {Governmental_Body} has alleged that any product designed, manufactured, sold, leased, licensed, or delivered by any {Acquired_Company} is defective or unsafe or fails to meet any product warranty or any standards promulgated by any such {Governmental_Body}.  No product designed, manufactured, sold, leased, licensed, or delivered by any {Acquired_Company} has been recalled, and no {Acquired_Company} has received any notice of recall (written or oral) of any such product from any {Governmental_Body}.  No event has occurred or circumstance exists that (with or without notice or lapse of time) could result in any such liability or recall.
 
@@ -1103,11 +1104,11 @@ bRep.1.sec={Buyer} is a corporation duly organized, validly existing, and in goo
 
 bRep.2.Ti=ENFORCEABILITY AND AUTHORITY; NO CONFLICT
 
-bRep.2.Sec=<b>{bRep.2.Ti}</b></br><ol><li>{bRep.2.1.Sec}<li>{bRep.2.2.Sec}<li>{bRep.2.3.Sec}</li></ol>
+bRep.2.Sec=<b>{bRep.2.Ti}</b></br><ol type="a"><li>{bRep.2.1.Sec}<li>{bRep.2.2.Sec}<li>{bRep.2.3.Sec}</li></ol>
 
 bRep.2.1.Sec=The execution, delivery, and performance by {Buyer} of {this_Agreement} and {Buyer's_Closing_Documents} have been duly authorized by all necessary corporate action.  {This_Agreement} has been duly executed and delivered by {Buyer} and constitutes the legal, valid, and binding obligation of {Buyer}, enforceable against {Buyer} in accordance with its terms.  Upon execution and delivery of {Buyer's_Closing_Documents} by {Buyer}, each of {Buyer's_Closing_Documents} will constitute the legal, valid, and binding obligation of {Buyer}, enforceable against {Buyer} in accordance with its terms.  {Buyer} has the absolute and unrestricted right, power, and authority to execute and deliver {this_Agreement} and {Buyer's_Closing_Documents} and to perform its obligations under {this_Agreement} and {Buyer's_Closing_Documents}.
 
-bRep.2.2.Sec={bRep.2.2.Intro}:<br><ol><li>{bRep.2.2.1.Sec};<li>{bRep.2.2.2.Sec}; or<li>{bRep.2.2.3.Sec}.</li></ol>
+bRep.2.2.Sec={bRep.2.2.Intro}:<br><ol type="i"><li>{bRep.2.2.1.Sec};<li>{bRep.2.2.2.Sec}; or<li>{bRep.2.2.3.Sec}.</li></ol>
 
 bRep.2.2.Intro=Except as set forth in Part {4.2.Xnum}, neither the execution and delivery of {this_Agreement} nor the consummation or performance of any {Contemplated_Transaction} will directly or indirectly (with or without notice or lapse of time)
 
@@ -1153,7 +1154,7 @@ aCov.1.Tx=Prior to {the_Closing_Date}, and upon reasonable notice from {Buyer}, 
 
 aCov.2.Title=OPERATION OF THE BUSINESSES OF THE ACQUIRED COMPANIES
 
-aCov.2.Sec=<u>{aCov.2.Title}</u><br/>{aCov.2.Intro}:<ol><li>{aCov.2.1.Sec};<li>{aCov.2.2.Sec};<li>{aCov.2.3.Sec};<li>{aCov.2.4.Sec};<li>{aCov.2.5.Sec};<li>{aCov.2.6.Sec};<li>{aCov.2.7.Sec};<li>{aCov.2.08.Sec};<li>{aCov.2.09.Sec};<li>{aCov.2.10.Sec};<li>{aCov.2.11.Sec}; and<li>{aCov.2.12.Sec}.</li></ol>
+aCov.2.Sec=<u>{aCov.2.Title}</u><br/>{aCov.2.Intro}:<ol type="a"><li>{aCov.2.1.Sec};<li>{aCov.2.2.Sec};<li>{aCov.2.3.Sec};<li>{aCov.2.4.Sec};<li>{aCov.2.5.Sec};<li>{aCov.2.6.Sec};<li>{aCov.2.7.Sec};<li>{aCov.2.08.Sec};<li>{aCov.2.09.Sec};<li>{aCov.2.10.Sec};<li>{aCov.2.11.Sec}; and<li>{aCov.2.12.Sec}.</li></ol>
 
 aCov.2.Intro=Prior to {the_Closing_Date}, each {Seller} shall, and shall cause each {Acquired_Company} to
 
@@ -1189,7 +1190,7 @@ aCov.3.Tx=As promptly as practicable after the date of {this_Agreement}, and in 
 
 aCov.4.Title=NOTICE
 
-aCov.4.Sec=<u>{aCov.4.Title}</u><ol><li>{aCov.4.1.Sec}<li>{aCov.4.2.Sec}</li></ol>
+aCov.4.Sec=<u>{aCov.4.Title}</u><ol type="a"><li>{aCov.4.1.Sec}<li>{aCov.4.2.Sec}</li></ol>
 
 aCov.4.1.Sec=Prior to {the_Closing_Date}, each {Seller} shall promptly provide notice to {Buyer} of any {Breach} of any representation or warranty of {Sellers} or any fact or circumstance that would or would reasonably be likely to cause or constitute a {Breach} of any such representation or warranty had that representation or warranty been made as of the time of the occurrence of such fact or circumstance.  Should any such {Breach} relate to {the_Disclosure_Letter}, each {Seller} shall promptly deliver to {Buyer} a supplement to {the_Disclosure_Letter}.  No such notice or delivery will be deemed to have cured any {Breach} of any representation or warranty or affect any right or remedy of {Buyer} under {this_Agreement}.
 
@@ -1241,7 +1242,7 @@ bCov.1.Tx=As promptly as practicable after the date of {this_Agreement}, and in 
 
 bCov.2.Title=NOTICE
 
-bCov.2.Sec=<u>{bCov.2.Title}</u><ol><li>{bCov.2.1.Sec}<li>{bCov.2.2.Sec}</li></ol>
+bCov.2.Sec=<u>{bCov.2.Title}</u><ol type="a"><li>{bCov.2.1.Sec}<li>{bCov.2.2.Sec}</li></ol>
 
 bCov.2.1.Sec=Prior to {the_Closing_Date}, {Buyer} shall promptly provide notice to {Sellers} of any {Breach} of any representation or warranty of {Buyer} or any fact or circumstance that would or would reasonably be likely to cause or constitute a {Breach} of any such representation or warranty had that representation or warranty been made as of the time of the occurrence of such fact or circumstance.  No such notice will be deemed to have cured any {Breach} of any representation or warranty or affect any right or remedy of {Sellers} under {this_Agreement}.
 
@@ -1264,7 +1265,7 @@ cCov.Title=Post-Closing Covenants
 
 cCov.1.Title=COOPERATION AND PROCEEDINGS; ACCESS TO RECORDS
 
-cCov.1.Sec=<u>{cCov.1.Title}</u><ol><li>{cCov.1.1.Sec}<li>{cCov.1.2.Sec}</li></ol>
+cCov.1.Sec=<u>{cCov.1.Title}</u><ol type="a"><li>{cCov.1.1.Sec}<li>{cCov.1.2.Sec}</li></ol>
 
 cCov.1.1.Sec=After {the_Closing}, each {Seller} shall cooperate with {Buyer} and its counsel and make itself and its {Representatives} available to {Buyer} and {the_Acquired_Companies} in connection with the institution or defense of any {Proceeding}, whether existing, threatened, or anticipated, involving or relating to the {Contemplated_Transactions}, {Buyer}, any {Seller}, or any {Acquired_Company}, including providing testimony, {Records}, and other information.
 
@@ -1280,9 +1281,9 @@ cCov.2.1.1.Regist=or which is registered under Section 12(g) of the {Exchange_Ac
 
 cCov.2.Title=NONCOMPETITION, NONSOLICITATION, AND NONDISPARAGEMENT
 
-cCov.2.Sec=<u>{cCov.2.Title}</u><ol><li>{cCov.2.1.Sec}<li>{cCov.2.2.Sec}<li>{cCov.2.3.Sec}<li>{cCov.2.4.Sec}<li>{cCov.2.5.Sec}<li>{cCov.2.6.Sec}</li></ol>
+cCov.2.Sec=<u>{cCov.2.Title}</u><ol type="a"><li>{cCov.2.1.Sec}<li>{cCov.2.2.Sec}<li>{cCov.2.3.Sec}<li>{cCov.2.4.Sec}<li>{cCov.2.5.Sec}<li>{cCov.2.6.Sec}</li></ol>
 
-cCov.2.1.Sec={cCov.2.1.Intro}<ol><li>{cCov.2.1.1.Sec}<li>{cCov.2.1.2.Sec}<li>{cCov.2.1.3.Sec}</li></ol>
+cCov.2.1.Sec={cCov.2.1.Intro}<ol type="i"><li>{cCov.2.1.1.Sec}<li>{cCov.2.1.2.Sec}<li>{cCov.2.1.3.Sec}</li></ol>
 
 cCov.2.1.Intro=For a period of {cCov.2.1.Years}  years after {the_Closing_Date}:
 
@@ -1304,9 +1305,9 @@ cCov.2.6.Sec=Each {Seller} acknowledges that any {Breach} of this Section {7.2} 
 
 cCov.3.Title=CONFIDENTIALITY
 
-cCov.3.Sec=<u>{cCov.3.Title}</u><ol><li>{cCov.3.1.Sec}<li>{cCov.3.2.Sec}<li>{cCov.3.3.Sec}<li>{cCov.3.4.Sec}<li>{cCov.3.5.Sec}</li></ol>
+cCov.3.Sec=<u>{cCov.3.Title}</u><ol type="a"><li>{cCov.3.1.Sec}<li>{cCov.3.2.Sec}<li>{cCov.3.3.Sec}<li>{cCov.3.4.Sec}<li>{cCov.3.5.Sec}</li></ol>
 
-cCov.3.1.Sec={cCov.3.1.Intro}:<ol><li>{cCov.3.1.1.Sec};<li>{cCov.3.1.2.Sec}; and<li>{cCov.3.1.3.Sec}.</li></ol>
+cCov.3.1.Sec={cCov.3.1.Intro}:<ol type="i"><li>{cCov.3.1.1.Sec};<li>{cCov.3.1.2.Sec}; and<li>{cCov.3.1.3.Sec}.</li></ol>
 
 cCov.3.1.Intro=As used in this Section {7.3}, the term "{Confidential_Information}" includes any of the following information held or used by or relating to any {Acquired_Company}
 
@@ -1326,7 +1327,7 @@ cCov.3.5.Sec=Nothing in this Section {7.3} will diminish the protections and ben
 
 cCov.4.Title=CUSTOMER AND OTHER BUSINESS RELATIONSHIPS
 
-cCov.4.Sec=<u>{cCov.4.Title}</u><ol><li>{cCov.4.1.Sec}<li>{cCov.4.2.Sec}</li></ol>
+cCov.4.Sec=<u>{cCov.4.Title}</u><ol type="a"><li>{cCov.4.1.Sec}<li>{cCov.4.2.Sec}</li></ol>
 
 cCov.4.1.Sec=After {the_Closing}, each {Seller} shall cooperate with {Buyer} and {the_Acquired_Companies} in their efforts to continue and maintain for the benefit of {Buyer} and {the_Acquired_Companies} those business relationships of any {Acquired_Company} and of such {Seller} relating to the business of any {Acquired_Company}, including relationships with any customers, suppliers, licensors, licensees, lessors, employees, regulatory authorities, and others.  Each {Seller} shall refer to {Buyer} and {the_Acquired_Companies} all inquiries and communications received by such {Seller} relating to any {Acquired_Company} after {the_Closing}.
 
@@ -1336,7 +1337,7 @@ _______________________
 
 ABA/MSPA/Sec/ABA-MSPA_bCond.md
 
-bCond.Sec=<u>{bCond.Title}</u><br/>{bCond.Intro}:<ol><li>{bCond.1.Sec}<li>{bCond.2.Sec}<li>{bCond.3.Sec}<li>{bCond.4.Sec}<li>{bCond.5.Sec}<li>{bCond.6.Sec}<li>{bCond.7.Sec}<li>{bCond.08.Sec}<li>{bCond.09.Sec}<li>{bCond.10.Sec}<li>{bCond.11.Sec}<li>{bCond.12.Sec}</li></ol>
+bCond.Sec=<u>{bCond.Title}</u><br/>{bCond.Intro}:<ol type="a"><li>{bCond.1.Sec}<li>{bCond.2.Sec}<li>{bCond.3.Sec}<li>{bCond.4.Sec}<li>{bCond.5.Sec}<li>{bCond.6.Sec}<li>{bCond.7.Sec}<li>{bCond.08.Sec}<li>{bCond.09.Sec}<li>{bCond.10.Sec}<li>{bCond.11.Sec}<li>{bCond.12.Sec}</li></ol>
 
 bCond.Intro={Buyer}'s obligations to purchase {the_Shares} and to take the other actions required pursuant to {this_Agreement} to be taken by {Buyer} at {the_Closing} are subject to the satisfaction, at or prior to {the_Closing}, of each of the following conditions (any of which may be waived in whole or in part by {Buyer})
 
@@ -1360,7 +1361,7 @@ bCond.11.Sec=<u>{bCond.11.Title}</u><br/>{bCond.11.Tx}
 
 bCond.12.Sec=<u>{bCond.12.Title}</u><br/>{bCond.12.Tx}
 
-bCond.1.Sec=<u>{bCond.1.Title}</u><ol><li>{bCond.1.1.Sec}<li>{bCond.1.2.Sec}</ol>
+bCond.1.Sec=<u>{bCond.1.Title}</u><ol type="a"><li>{bCond.1.1.Sec}<li>{bCond.1.2.Sec}</ol>
 
 bCond.1.Title=ACCURACY OF SELLERS' REPRESENTATIONS
 
@@ -1386,7 +1387,7 @@ bCond.5.Tx={Buyer} will have received such {Governmental_Authorizations} as are 
 
 bCond.6.Title=ADDITIONAL DOCUMENTS
 
-bCond.6.Sec=<u>{bCond.6.Title}</u><br/>{bCond.6.Intro}:<ol><li>{bCond.6.1.Sec};<li>{bCond.6.2.Sec};<li>{bCond.6.3.Sec}; and<li>{bCond.6.4.Sec}</li></ol>
+bCond.6.Sec=<u>{bCond.6.Title}</u><br/>{bCond.6.Intro}:<ol type="a"><li>{bCond.6.1.Sec};<li>{bCond.6.2.Sec};<li>{bCond.6.3.Sec}; and<li>{bCond.6.4.Sec}</li></ol>
 
 bCond.6.Intro=Each of the items to be delivered pursuant to Section 2.4(a) and each of the following documents will have been delivered (or tendered subject only to Closing) to {Buyer}
 
@@ -1396,7 +1397,7 @@ bCond.6.2.Sec=estoppel certificates executed on behalf of {bCond.6.2.Estop.Certs
 
 bCond.6.3.Sec=an executed copy of each of the agreements listed on Exhibit {8.6(c)}
 
-bCond.6.4.Sec={bCond.6.4.Intro}:<ol><li>{bCond.6.4.1.Sec};<li>{bCond.6.4.2.Sec};<li>{bCond.6.4.3.Sec}; or<li>{bCond.6.4.4.Sec}.</li></ol>
+bCond.6.4.Sec={bCond.6.4.Intro}:<ol type="i"><li>{bCond.6.4.1.Sec};<li>{bCond.6.4.2.Sec};<li>{bCond.6.4.3.Sec}; or<li>{bCond.6.4.4.Sec}.</li></ol>
 
 bCond.6.4.Intro=such other documents as {Buyer} may reasonably request, each in form and substance satisfactory to {Buyer}, and, if necessary, executed by each {Seller} or the relevant {Acquired_Company}, for the purpose of
 
@@ -1470,13 +1471,13 @@ aCond.4.Tx=Each of the {Consents} identified in Exhibit {9.4} will have been obt
 
 aCond.5.Title=ADDITIONAL DOCUMENTS
 
-aCond.5.Tx={aCond.5.Intro}<ol><li>{aCond.5.1.Sec}; and<li>{aCond.5.2.Sec}</li></ol>
+aCond.5.Tx={aCond.5.Intro}<ol type="a"><li>{aCond.5.1.Sec}; and<li>{aCond.5.2.Sec}</li></ol>
 
 aCond.5.Intro=Each of the items to be delivered pursuant to Section {2.4(b)} and each of the following documents will have been delivered (or tendered subject only to {Closing}) to {Sellers'_Representative}
 
 aCond.5.1.Sec=an opinion of {aCond.5.1.Counsel}, dated {the_Closing_Date}, in the form of Exhibit {9.5(a)}
 
-aCond.5.2.Sec={aCond.5.2.Intro}:<ol><li>{aCond.5.2.1.Sec};<li>{aCond.5.2.2.Sec};<li>{aCond.5.2.3.Sec}; or<li>{aCond.5.2.4.Sec}.</li></ol>
+aCond.5.2.Sec={aCond.5.2.Intro}:<ol type="i"><li>{aCond.5.2.1.Sec};<li>{aCond.5.2.2.Sec};<li>{aCond.5.2.3.Sec}; or<li>{aCond.5.2.4.Sec}.</li></ol>
 
 aCond.5.2.Intro=such other documents as {Sellers'_Representative} may reasonably request, each in form and substance satisfactory to {Sellers'_Representative}, and, if necessary, executed by {Buyer}, for the purpose of
 
@@ -1500,7 +1501,7 @@ Term.Sec=<u>{Term.Title}</u><ol><li>{Term.1.Sec}<li>{Term.2.Sec}</li></ol>
 
 Term.1.Title=TERMINATION EVENTS
 
-Term.1.Sec=<u>{Term.1.Title}</u><br/>{Term.1.Intro}:<ol><li>{Term.1.1.Sec};<li>{Term.1.2.Sec};<li>{Term.1.3.Sec};<li>{Term.1.4.Sec};<li>{Term.1.5.Sec};<li>{Term.1.6.Sec}; or<li>{Term.1.7.Sec}.</li></ol>
+Term.1.Sec=<u>{Term.1.Title}</u><br/>{Term.1.Intro}:<ol type="a"><li>{Term.1.1.Sec};<li>{Term.1.2.Sec};<li>{Term.1.3.Sec};<li>{Term.1.4.Sec};<li>{Term.1.5.Sec};<li>{Term.1.6.Sec}; or<li>{Term.1.7.Sec}.</li></ol>
 
 Term.2.Sec=<u>{Term.2.Title}</u><br/>{Term.2.Tx}
 
@@ -1532,7 +1533,7 @@ IPRR.Sec=<u>{IPRR.Title}</u><ol><li>{IPRR.1.Sec}<li>{IPRR.2.Sec}<li>{IPRR.3.Sec}
 
 IPRR.Title=Indemnification; Payment; Reimbursement; Remedies
 
-IPRR.1.Sec=<u>{IPRR.1.Title}</u><ol><li>{IPRR.1.1.Sec}<li>{IPRR.1.2.Sec}<li>{IPRR.1.3.Sec}</li></ol>
+IPRR.1.Sec=<u>{IPRR.1.Title}</u><ol type="a"><li>{IPRR.1.1.Sec}<li>{IPRR.1.2.Sec}<li>{IPRR.1.3.Sec}</li></ol>
 
 IPRR.1.Title=SURVIVAL; REMEDIES
 
@@ -1544,7 +1545,7 @@ IPRR.1.3.Sec=The waiver of any condition relating to any representation, warrant
 
 IPRR.2.Title=INDEMNIFICATION, PAYMENT, AND REIMBURSEMENT BY SELLERS
 
-IPRR.2.Sec={IPRR.2.Intro}:<ol><li>{IPRR.2.1.Sec};<li>{IPRR.2.2.Sec};<li>{IPRR.2.3.Sec};<li>{IPRR.2.4.Sec};<li>{IPRR.2.5.Sec}; or<li>{IPRR.2.6.Sec}.</li></ol>
+IPRR.2.Sec={IPRR.2.Intro}:<ol type="a"><li>{IPRR.2.1.Sec};<li>{IPRR.2.2.Sec};<li>{IPRR.2.3.Sec};<li>{IPRR.2.4.Sec};<li>{IPRR.2.5.Sec}; or<li>{IPRR.2.6.Sec}.</li></ol>
 
 IPRR.2.Intro={Sellers}, jointly and severally, shall indemnify and hold harmless {Buyer}, {the_Acquired_Companies}, and their respective {Representatives}, shareholders, {Subsidiaries}, and {Related_Persons} (collectively, the "{Buyer_Indemnified_Persons}") from, and shall pay to {Buyer_Indemnified_Persons} the amount of, or reimburse {Buyer_Indemnified_Persons} for, any {Loss} that {Buyer_Indemnified_Persons} or any of them may suffer, sustain, or become subject to, as a result of, in connection with, or relating to
 
@@ -1562,11 +1563,11 @@ IPRR.2.6.Sec=any matter disclosed in Part {11.2(f)}
 
 IPRR.3.Title=INDEMNIFICATION, PAYMENT, AND REIMBURSEMENT BY SELLERSâ€”ENVIRONMENTAL MATTERS
 
-IPRR.3.Sec={IPRR.3.Intro}:<ol><li>{IPRR.3.1.Sec}<li>{IPRR.3.2.Sec}</li></ol>{IPRR.3.Cont}
+IPRR.3.Sec={IPRR.3.Intro}:<ol type="a"><li>{IPRR.3.1.Sec}<li>{IPRR.3.2.Sec}</li></ol>{IPRR.3.Cont}
 
 IPRR.3.Intro=In addition to the provisions of Section 11.2, {Sellers}, jointly and severally, shall indemnify and hold harmless {Buyer_Indemnified_Persons} from, and shall pay to {Buyer_Indemnified_Persons} the amount of, or reimburse {Buyer_Indemnified_Persons} for, any {Loss} (including costs of any {Cleanup}) that {Buyer_Indemnified_Persons} or any of them may suffer, sustain, or become subject to, as a result of, in connection with, or relating to
 
-IPRR.3.1.Sec={IPRR.3.1.Intro}:<ol><li>{IPRR.3.1.1.Sec}; or<li>{IPRR.3.1.2.Sec}</li></ol>
+IPRR.3.1.Sec={IPRR.3.1.Intro}:<ol type="i"><li>{IPRR.3.1.1.Sec}; or<li>{IPRR.3.1.2.Sec}</li></ol>
 
 IPRR.3.1.Intro=any {Environmental,_Health,_and_Safety_Liability} arising out of or relating to
 
@@ -1574,7 +1575,7 @@ IPRR.3.1.1.Sec=(A) the ownership, operation, or condition at any time on or prio
 
 IPRR.3.1.2.Sec=(A) any {Hazardous_Material}, wherever located, that was generated, transported, stored, treated, {Released}, or otherwise handled by any {Acquired_Company} at any time on or prior to {the_Closing_Date}, or (B) any {Hazardous_Activity} that was conducted by any {Acquired_Company} or by any other {Person} for whose conduct they are or may be held responsible; or
 
-IPRR.3.2.Sec={IPRR.3.2.Intro}:<ol><li>{IPRR.3.2.1.Sec}; or<li>{IPRR.3.2.2.Sec}.</li></ol>
+IPRR.3.2.Sec={IPRR.3.2.Intro}:<ol type="i"><li>{IPRR.3.2.1.Sec}; or<li>{IPRR.3.2.2.Sec}.</li></ol>
 
 IPRR.3.2.Intro=any bodily injury (including illness, disability, and death, and regardless of when any such bodily injury occurred or manifested itself), property damage (including trespass, nuisance, wrongful eviction, and deprivation of the use of real property), or other damage of or to any {Person}, including any employee or former employee of any {Acquired_Company}, in any way arising from or allegedly arising from any {Hazardous_Activity} conducted with respect to {the_Facilities} or the operation of {the_Acquired_Companies} on or prior to {the_Closing_Date} or from {Hazardous_Material} that was
 
@@ -1586,7 +1587,7 @@ IPRR.3.Cont=Section {11.8} notwithstanding, {Buyer} shall be entitled (at its el
 
 IPRR.4.Title=INDEMNIFICATION, PAYMENT, AND REIMBURSEMENT BY BUYER
 
-IPRR.4.Sec=<u>{IPRR.4.Title}</u><br/>{IPRR.4.Intro}:<ol><li>{IPRR.4.1.Sec};<li>{IPRR.4.2.Sec}; or<li>{IPRR.4.3.Sec}.</li></ol>
+IPRR.4.Sec=<u>{IPRR.4.Title}</u><br/>{IPRR.4.Intro}:<ol type="a"><li>{IPRR.4.1.Sec};<li>{IPRR.4.2.Sec}; or<li>{IPRR.4.3.Sec}.</li></ol>
 
 IPRR.4.Intro={Buyer} shall indemnify and hold harmless {Sellers} from, and shall pay to {Sellers} the amount of, or reimburse {Sellers} for, any {Loss} that {Sellers} or any of them may suffer, sustain, or become subject to, as a result of, in connection with, or relating to
 
@@ -1598,7 +1599,7 @@ IPRR.4.3.Sec=any claim by any {Person} for brokerage or finder's fees or commiss
 
 IPRR.5.Title=TIME LIMITATIONS
 
-IPRR.5.Sec={IPRR.5.Title}:<ol><li>{IPRR.5.1.Sec}<li>{IPRR.5.2.Sec}</li></ol>
+IPRR.5.Sec={IPRR.5.Title}:<ol type="a"><li>{IPRR.5.1.Sec}<li>{IPRR.5.2.Sec}</li></ol>
 
 IPRR.5.1.Sec=If {the_Closing} occurs, {Sellers} shall have liability under Section {11.2(a)} with respect to any {Breach} of a representation or warranty (other than those in Sections {IPRR.5.1.Claim.Preemption.Except.Xrefs}, as to which a claim may be made at any time), only if on or before the date that is three years after {the_Closing_Date}, {Buyer} notifies {Sellers'_Representative} of a claim, specifying the factual basis of the claim in reasonable detail to the extent known by {Buyer}.
 
@@ -1608,7 +1609,7 @@ IPRR.5.2.Sec=If {the_Closing} occurs, {Buyer} shall have liability under Section
 
 IPRR.6.Title=CERTAIN LIMITATIONS ON AMOUNT
 
-IPRR.6.Sec={IPRR.6.Title}:<ol><li>{IPRR.6.1.Sec}<li>{IPRR.6.2.Sec}</li></ol>
+IPRR.6.Sec={IPRR.6.Title}:<ol type="a"><li>{IPRR.6.1.Sec}<li>{IPRR.6.2.Sec}</li></ol>
 
 IPRR.6.1.Sec=If {the_Closing} occurs, {Sellers} shall have no liability with respect to claims under Section {11.2(a)} until the aggregate of all {Losses} suffered by all {Buyer_Indemnified_Persons} with respect to such claims exceeds ${IPRR.6.1.Loss.Threshold.1}; provided, however, that if the aggregate of all such {Losses} exceeds ${IPRR.6.1.Loss.Threshold.2}, {Sellers} shall be liable for all such Losses.{IPRR.6.1.MaxAggregate.If}  However, this Section 11.6(a) will not apply to any {Breach} of which a {Seller} has {Knowledge} at any time at or prior to the date on which such representation and warranty was made or to any {Breach} of any representation or warranty in Sections 3.1, 3.2, 3.3, 3.11, 3.13, 3.19, 3.24, or 3.28.
 
@@ -1628,17 +1629,17 @@ IPRR.7.Sec=<u>{IPRR.7.Title}</u><br/>{IPRR.7.Tx}
 
 IPRR.7.Tx=Upon notice to {Sellers'_Representative} specifying in reasonable detail the basis therefor, {Buyer} may set off any amount to which it claims to be entitled from any {Seller}, including any amounts that may be owed under this Article 11 or otherwise, against amounts otherwise payable under the {Promissory_Notes} or any provision of {this_Agreement}.  The exercise of such right of setoff by {Buyer} in good faith, whether or not ultimately determined to be justified, will not constitute a default under {this_Agreement}, the {Promissory_Notes}, or any instrument securing any of the {Promissory_Notes}, regardless of whether any {Seller} disputes such setoff claim, or whether such setoff claim is for a contingent or an unliquidated amount.  Neither the exercise of, nor the failure to exercise, such right of setoff or give notice of a claim under {the_Escrow_Agreement} will constitute an election of remedies or limit {Buyer} in any manner in the enforcement of any other remedies that may be available to it.
 
-IPRR.08.Sec={IPRR.08.Title}:<ol><li>{IPRR.08.1.Sec}<li>{IPRR.08.2.Sec}<li>{IPRR.08.3.Sec}<li>{IPRR.08.4.Sec}<li>{IPRR.08.5.Sec}<li>{IPRR.08.6.Sec}<li>{IPRR.08.7.Sec}</li></ol>
+IPRR.08.Sec={IPRR.08.Title}:<ol type="a"><li>{IPRR.08.1.Sec}<li>{IPRR.08.2.Sec}<li>{IPRR.08.3.Sec}<li>{IPRR.08.4.Sec}<li>{IPRR.08.5.Sec}<li>{IPRR.08.6.Sec}<li>{IPRR.08.7.Sec}</li></ol>
 
 IPRR.08.Title=THIRD-PARTY CLAIMS
 
 IPRR.08.1.Sec=A {Person} benefited by Section 11.2, 11.3 (solely to the extent provided in the last sentence of Section 11.3), or 11.4 (an "{Indemnified_Person}") shall give notice of the assertion of a {Third-Party_Claim} to {Sellers'_Representative} or {Buyer} (an "{Indemnifying_Person}"), as the case may be; provided, however, that no failure or delay on the part of an {Indemnified_Person} in notifying an {Indemnifying_Person} will relieve the {Indemnifying_Person} from any obligation under this Article 11 except to the extent that the failure or delay materially prejudices the defense of the {Third-Party_Claim} by the {Indemnifying_Person}.
 
-IPRR.08.2.Sec=<ol><li>{IPRR.08.2.1.Sec}<li>{IPRR.08.2.2.Sec}<li>{IPRR.08.2.3.Sec}</li></ol>
+IPRR.08.2.Sec=<ol type="i"><li>{IPRR.08.2.1.Sec}<li>{IPRR.08.2.2.Sec}<li>{IPRR.08.2.3.Sec}</li></ol>
 
 IPRR.08.2.1.Sec=Except as provided in Section 11.8(c), the {Indemnifying_Person} may elect to assume the defense of the {Third-Party_Claim} with counsel satisfactory to the {Indemnified_Person} by (A) giving notice to the {Indemnified_Person} of its election to assume the defense of the {Third-Party_Claim} and (B) giving the {Indemnified_Person} evidence acceptable to the {Indemnified_Person} that the {Indemnifying_Person} has adequate financial resources to defend against the {Third-Party_Claim} and fulfill its obligations under this Article 11, in each case no later than 10 days after the {Indemnified_Person} gives notice of the assertion of a {Third-Party_Claim} under Section 11.8(a).
 
-IPRR.08.2.2.Sec={IPRR.08.2.2.Intro}:<ol><li>{IPRR.08.2.2.1.Sec};<li>{IPRR.08.2.2.2.Sec};<li>{IPRR.08.2.2.3.Sec}; and <li>{IPRR.08.2.2.4.Sec}.</li></ol>
+IPRR.08.2.2.Sec={IPRR.08.2.2.Intro}:<ol type="A"><li>{IPRR.08.2.2.1.Sec};<li>{IPRR.08.2.2.2.Sec};<li>{IPRR.08.2.2.3.Sec}; and <li>{IPRR.08.2.2.4.Sec}.</li></ol>
 
 IPRR.08.2.2.Intro=If the {Indemnifying_Person} elects to assume the defense of a {Third-Party_Claim}
 
@@ -1656,7 +1657,7 @@ IPRR.08.3.Sec=Notwithstanding the foregoing, if an {Indemnified_Person} determin
 
 IPRR.08.4.Sec=Notwithstanding the provisions of Section 12.13, {Sellers} consent to the nonexclusive jurisdiction of any court in which a {Proceeding} is brought against any {Indemnified_Person} for purposes of determining any claim that an {Indemnified_Person} may have under {this_Agreement} with respect to such {Proceeding} or the matters alleged therein.
 
-IPRR.08.5.Sec={IPRR.08.5.Intro}:<ol><li>{IPRR.08.5.1.Sec}; and<li>{IPRR.08.5.2.Sec}.</li></ol>
+IPRR.08.5.Sec={IPRR.08.5.Intro}:<ol type="i"><li>{IPRR.08.5.1.Sec}; and<li>{IPRR.08.5.2.Sec}.</li></ol>
 
 IPRR.08.5.Intro=With respect to any {Third-Party_Claim} subject to this Article 11
 
@@ -1664,7 +1665,7 @@ IPRR.08.5.1.Sec=any {Indemnified_Person} and any {Indemnifying_Person}, as the c
 
 IPRR.08.5.2.Sec=both the {Indemnified_Person} and the {Indemnifying_Person}, as the case may be, shall render to each other such assistance as they may reasonably require of each other and shall cooperate in good faith with each other in order to ensure the proper and adequate defense of any {Third-Party_Claim}
 
-IPRR.08.6.Sec={IPRR.08.6.Intro}:<ol><li>{IPRR.08.6.1.Sec}; and<li>{IPRR.08.6.2.Sec}.</li></ol>
+IPRR.08.6.Sec={IPRR.08.6.Intro}:<ol type="i"><li>{IPRR.08.6.1.Sec}; and<li>{IPRR.08.6.2.Sec}.</li></ol>
 
 IPRR.08.6.Intro=In addition to Section {7.34}, with respect to any {Third-Party_Claim} subject to this Article 11, the parties shall cooperate in a manner to preserve in full (to the extent possible) the confidentiality of all {Confidential_Information} and the attorney-client and work-product privileges.  In connection therewith, each party agrees that
 
