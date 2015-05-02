@@ -20,7 +20,7 @@ Ti=CONSULTING AGREEMENT
 
 1.3.sec=While on the Client's premises, Consultant agrees to comply with Client's then-current access rules and procedures, including those related to safety, security and confidentiality.  Consultant agrees and acknowledges that Consultant has no expectation of privacy with respect to Client's telecommunications, networking or information processing systems (including stored computer files, email messages and voice messages) and that Consultant's activities, including the sending or receiving of any files or messages, on or using those systems may be monitored, and the contents of such files and messages may be reviewed and disclosed, at any time, without notice.
 
-1.=[01/Agt/Bit/Outline/1-3.Secs]
+1.=[Bit/Sec_03]
 
 2.Ti=Compensation
 
@@ -45,8 +45,7 @@ Ti=CONSULTING AGREEMENT
 /Note=changed "writing to Company" to "writing to Client"
 3.4.sec=In the event that Consultant does not, for any reason, execute such documents within a reasonable time after Client's request, Consultant hereby irrevocably appoints Client as Consultant's attorney-in-fact for the purpose of executing such documents on Consultant's behalf, which appointment is coupled with an interest. Consultant will deliver any Deliverables in accordance with the applicable Project Assignment and disclose promptly in writing to Client all other Work Product. 
 
-
-3.=[01/Agt/Bit/Outline/1-4.Secs]
+3.=[Bit/Sec_04]
 
 4.Ti=Other Rights
 
@@ -69,11 +68,9 @@ Ti=CONSULTING AGREEMENT
 5.4.Ti=Right to License Preexisting IP
 
 5.4.sec=Consultant represents and warrants that Consultant has an unqualified right to license to Client all Preexisting IP as provided in this section.
-
 P2.PreexistingIP.License.Grant.Type=non-exclusive, perpetual, fully-paid and royalty-free, irrevocable and worldwide right, with the right to sublicense through multiple levels of sublicensees
 
-5.=[01/Agt/Bit/Outline/1-4.Secs]
-
+5.=[Bit/Sec_04]
 
 6.Ti=Representations and Warranties
 
@@ -97,8 +94,7 @@ P2.PreexistingIP.License.Grant.Type=non-exclusive, perpetual, fully-paid and roy
 
 6.Sec=<b>{6.Ti}</b><br>{6.1.0-sec} {6.2.Sec}
 
-
-6.1.=[01/Agt/Bit/Outline/1-6.Secs]
+6.1.=[Bit/Sec_06]
   
 7.Ti=Independent Contractor Relationship
 
@@ -110,8 +106,7 @@ P2.PreexistingIP.License.Grant.Type=non-exclusive, perpetual, fully-paid and roy
 
 7.2.sec=Consultant (if Consultant is an individual) and Consultant's employees will not be entitled to any of the benefits that Client may make available to its employees, including, but not limited to, group health or life insurance, profit-sharing or retirement benefits.  Because Consultant is an independent contractor, Client will not withhold or make payments for social security, make unemployment insurance or disability insurance contributions, or obtain workers' compensation insurance on behalf of Consultant. Consultant is solely responsible for, and will file, on a timely basis, all tax returns and payments required to be filed with, or made to, any federal, state or local tax authority with respect to the performance of Services and receipt of fees under this Agreement.  Consultant is solely responsible for, and must maintain adequate records of, expenses incurred in the course of performing Services under this Agreement.  No part of Consultant's compensation will be subject to withholding by Client for the payment of any social security, federal, state or any other employee payroll taxes.  Client will regularly report amounts paid to Consultant by filing Form 1099-MISC with the Internal Revenue Service as required by law.  If, notwithstanding the foregoing, Consultant is reclassified as an employee of Client, or any affiliate of Client, by the U.S. Internal Revenue Service, the U.S. Department of Labor, or any other federal or state or foreign agency as the result of any administrative or judicial proceeding, Consultant agrees that Consultant will not, as the result of such reclassification, be entitled to or eligible for, on either a prospective or retrospective basis, any employee benefits under any plans or programs established or maintained by Client.
 
-7.=[01/Agt/Bit/Outline/1-2.Secs]
-
+7.=[Bit/Sec_02]
 
 8.Ti=Confidential Information
 
@@ -135,8 +130,7 @@ P2.PreexistingIP.License.Grant.Type=non-exclusive, perpetual, fully-paid and roy
 
 8.2.90.Sec=Confidential Information also includes proprietary or confidential information of any third party who may disclose such information to Client or Consultant in the course of Client's business.
 
-8.2.=[01/Agt/Bit/Outline/1-5.Secs]
-
+8.2.=[Bit/Sec_05]
 
 8.3.Ti=Exceptions
 
@@ -154,7 +148,7 @@ P2.PreexistingIP.License.Grant.Type=non-exclusive, perpetual, fully-paid and roy
 
 8.6.sec=Upon request by Client, Consultant agrees to promptly deliver to Client the original and any copies of the Confidential Information.  
 
-8.=[01/Agt/Bit/Outline/1-6.Secs]
+8.=[Bit/Sec_06]
 
 9.Ti=Consultant's Employees
 
@@ -173,6 +167,7 @@ P2.PreexistingIP.License.Grant.Type=non-exclusive, perpetual, fully-paid and roy
 11.1.1.Sen=The initial term of this Agreement is for {Term year/month} from the Effective Date set forth above, unless earlier terminated as provided in this Agreement.
 
 /Note="anniversary date that the Agreement"
+
 11.1.2.Sen=Thereafter, this Agreement will automatically renew on its anniversary date, for {Renew year/month} terms, unless Client provides fifteen (15) days written notice prior to any such anniversary date that this Agreement shall not renew.
 
 11.2.Ti=Termination Without Cause
@@ -189,7 +184,7 @@ P2.PreexistingIP.License.Grant.Type=non-exclusive, perpetual, fully-paid and roy
 
 11.4.sec=The rights and obligations contained in Sections 3 ("Ownership of Work Product"), 4 ("Other Rights"), 5 ("License to Preexisting IP"), 6 ("Representations and Warranties"), 8 ("Confidential Information") and 12 ("Noninterference with Business") will survive any termination or expiration of this Agreement.
 
-11.=[01/Agt/Bit/Outline/1-4.Secs]  
+11.=[Bit/Sec_04]
 
 12.Ti=Noninterference with Business
 
@@ -213,7 +208,7 @@ P2.PreexistingIP.License.Grant.Type=non-exclusive, perpetual, fully-paid and roy
 
 14.90.Sec=Notice shall be sent to the addresses set forth below or such other address as either party may specify in writing.
 
-14.=[01/Agt/Bit/Outline/1-4.Secs]
+14.=[Bit/Sec_04]
 
 
 15.Ti=Governing Law
@@ -246,4 +241,4 @@ Sign.Block=<table><tr><td valign="top">{P1.Sign.Block}</td><td>   <td valign="to
 
 DocBody={Doc}
 
-=[01/Agt/Bit/Outline/1-19.Secs]
+=[Bit/Sec_19]
