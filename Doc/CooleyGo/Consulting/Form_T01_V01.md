@@ -71,7 +71,7 @@ Ti=CONSULTING AGREEMENT
 
 11.4.sec=The rights and obligations contained in Sections 3 ("Ownership of Work Product"), 4 ("Other Rights"), 5 ("License to Preexisting IP"), 6 ("Representations and Warranties"), 8 ("Confidential Information") and 12 ("Noninterference with Business") will survive any termination or expiration of this Agreement.
 
-11.=[01/Agt/Bit/Outline/1-4.Secs]  
+11.=[Bit/Sec_04]
 
 12.Ti=Noninterference with Business
 
@@ -113,4 +113,4 @@ Sign.Block=<table><tr><td valign="top">{P1.Sign.Block}</td><td>   <td valign="to
 
 DocBody={Doc}
 
-=[01/Agt/Bit/Outline/1-19.Secs]
+=[Bit/Sec_19]
