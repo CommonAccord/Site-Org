@@ -7,15 +7,22 @@ include("header.php");
 
 <div class="container">
 <?php
+/* The length of the Missing Fields part of the text.*/
+$minDocLength = 101;
+
+$document = `perl parser.pl $path/$dir`;
 
 //This displays the path, current file name, and provides the edit and show options //
 
-echo "
-<a href=$_SERVER[PHP_SELF]?action=list&file=$rootdir[dirname]/>Org$rootdir[dirname]</a>/<b>$filenameX</b>
-&emsp; &emsp; &emsp; &emsp;  
-<a href=$_SERVER[PHP_SELF]?action=print&file=$rootdir[dirname]/$filenameX>Print</a>
-  &emsp;  &emsp;  &emsp;  
-<a href=https://github.com/$GitHubRepo/blob/master/Doc/$rootdir[dirname]/$filenameX>View at GitHub</a>
+echo " <a href=$_SERVER[PHP_SELF]?action=list&file=$rootdir[dirname]/>Org$rootdir[dirname]</a>/<b>$filenameX</b>
+&emsp; &emsp; &emsp; &emsp; " ;
+
+if (strlen($document) > $minDocLength){  
+ echo " <a href=$_SERVER[PHP_SELF]?action=print&file=$rootdir[dirname]/$filenameX>Print</a>
+  &emsp;  &emsp;  &emsp; " ;
+}
+
+echo "<a href=https://github.com/$GitHubRepo/blob/master/Doc/$rootdir[dirname]/$filenameX>See at GitHub</a>
 
 &emsp;  &emsp;  &emsp;  
 <a href=https://github.com/$GitHubRepo/edit/master/Doc/$rootdir[dirname]/$filenameX>Edit at GitHub</a>
@@ -25,21 +32,15 @@ echo "
 
 ?>
 
-<div id="tabs">
-  <ul>
-    <li><a href="#tab-render">Document</a></li>
-    <li><a href="#tab-source">Source</a></li>
-    <li><a href="#tab-edit">Edit</a></li>
-    </ul>
-
-<div id="tab-render">
 <?php
-	echo `perl parser.pl $path/$dir`;
-	#system("perl parser.pl $path/$dir  > $path/Output999.html");
-	#echo file_get_contents("Output999.html", FILE_USE_INCLUDE_PATH);
 
+if (strlen($document) > $minDocLength){  
+  echo "<div id='tabs'><ul><li><a href='#tab-render'>Document</a></li><li><a href='#tab-source'>Source</a></li><li><a href='#tab-edit'>Edit</a></li></ul><div id='tab-render'>" ;
+  echo $document;}
+else {
+  echo "<div id='tabs'><ul><li><a href='#tab-source'>Source</a></li><li><a href='#tab-edit'>Edit</a></li></ul><div id='tab-render'>" ;
 
-
+}
 ?>
 </div>
 

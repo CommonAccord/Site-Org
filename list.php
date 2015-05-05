@@ -37,7 +37,7 @@ echo '<div class="listings">';
 echo "<div id='content-list'>";
 foreach($files as $f) {
         if(is_dir($path.$dir.$f)) {
-                if( !( ($f == '.') || ($f == '..')) ) {
+                if( !( ($f == '.') || ($f == '..') || ($f == '.git')) ) {
 
                         echo "<br><img height=30 src='assets/folder.png'><a href=$_SERVER[PHP_SELF]?action=list&file=$dir$f/>$f</a>";
                 }
