@@ -6,8 +6,8 @@ Ti=Interested
 
 1.sec=CommonAccord - contact@commonaccord.org
 
-2.sec=Your name here.
+2.sec=Marc Dangeard
 
-Note=Add one here.
+Note=Can you create a "CommonAccord" for Dummies book or equivalent, so that it is easier for somebody to start using the system? Some of the content is already on GitHub (how to install etc...) but some education on the recommended formatting for codification and how to manage documents over time etc... would be very helpful
 
 =[Z/Sec/s2]
