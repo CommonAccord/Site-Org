@@ -38,7 +38,11 @@ Scope.3.Ti=Merchant Interface
 
 Scope.3.sec={Poc} of a P2P "merchant" website.  For instance the interface for a user accessing status and making changes at their bank, merchant, or government agency. 
 
-Scope.=[Z/Sec/3]
+Scope.4.Ti={Poc} IoT
+
+Scope.4.sec=Objects for persons, things and places. Demonstrating the graph of legal transacting.  
+
+Scope.=[Z/Sec/4]
 
 PT.Ti=Participant Types
 
