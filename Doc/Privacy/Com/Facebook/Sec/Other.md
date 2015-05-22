@@ -1,12 +1,8 @@
-=[01/Agt/Type/Web/Bit/Outline.md]
-
-secs={1-16.Secs}
-
 Ti=Some other things you need to know
 
 1.Ti=Safe harbor
 
-0.Sec=Learn about things like social plugins and how information is shared with the games, applications and websites you and your friends use off Facebook.
+0.sec=Learn about things like social plugins and how information is shared with the games, applications and websites you and your friends use off Facebook.
 
 1.sec=Facebook complies with the U.S.-EU and U.S.-Swiss Safe Harbor frameworks as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. To view our certification, visit the U.S. Department of Commerce's <a href="https://www.facebook.com/l.php?u=https%3A%2F%2Fsafeharbor.export.gov%2Flist.aspx&h=WAQGF55X5&s=1" rel="nofollow" target="_blank" onmouseover="LinkshimAsyncLink.swap(this, "https:\/\/safeharbor.export.gov\/list.aspx");" onclick="LinkshimAsyncLink.referrer_log(this, "https:\/\/safeharbor.export.gov\/list.aspx", "\/si\/ajax\/l\/render_linkshim_log\/?u=https\u00253A\u00252F\u00252Fsafeharbor.export.gov\u00252Flist.aspx&h=WAQGF55X5&render_verification=0&enc&d");">Safe Harbor website</a>. <div class="mbl _6q _6t _mf"> As part of our participation in the Safe Harbor program, we agree to resolve disputes you have with us in connection with our policies and practices through TRUSTe. If you would like to contact TRUSTe, click <a href="http://l.facebook.com/l.php?u=http%3A%2F%2Fwatchdog.truste.com%2Fpvr.php%3Fpage%3Dcomplaint&h=8AQHEomVj&s=1" rel="nofollow" target="_blank" onmouseover="LinkshimAsyncLink.swap(this, "http:\/\/watchdog.truste.com\/pvr.php?page=complaint");" onclick="LinkshimAsyncLink.referrer_log(this, "http:\/\/watchdog.truste.com\/pvr.php?page=complaint", "\/si\/ajax\/l\/render_linkshim_log\/?u=http\u00253A\u00252F\u00252Fwatchdog.truste.com\u00252Fpvr.php\u00253Fpage\u00253Dcomplaint&h=8AQHEomVj&render_verification=0&enc&d");">here</a>. </div>
 
@@ -69,3 +65,5 @@ Ti=Some other things you need to know
 16.Ti=Your California privacy rights
 
 16.sec=California law permits residents of California to request certain details about what personal information a company shares with third parties for the third parties' direct marketing purposes. Facebook does not share your information with third parties for the third parties' own and independent direct marketing purposes unless we receive your permission. Learn more about the <a href="/about/privacy/your-info"> information we receive and how it is used </a> and <a href="/about/privacy/your-info-on-other"> other websites and applications</a>. If you have questions about our sharing practices or your rights under California law, please write us at 1601 Willow Road, Menlo Park, CA 94025 or contact us through this <a href="/help/contact/173545232710000">help page</a>.
+
+=[Z/Sec/16]

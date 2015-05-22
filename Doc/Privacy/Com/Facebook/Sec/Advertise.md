@@ -1,11 +1,6 @@
-=[01/Agt/Type/Web/Bit/Outline.md]
-
-secs={1-2.Secs}
-
-
 Ti=Advertising and Facebook content
 
-0.Sec=See how ads are served without sharing your information with advertisers, and understand how we pair ads with social context.
+0.sec=See how ads are served without sharing your information with advertisers, and understand how we pair ads with social context.
 
 1.Ti=Advertising
 
@@ -14,3 +9,5 @@ Ti=Advertising and Facebook content
 2.Ti=Facebook content
 
 2.sec=We like to tell you about some of the features and tools your friends and others use on Facebook, to help you have a better experience. For example, if your friend uses our friend finder tool to find more friends on Facebook, we may tell you about it to encourage you to use it as well. This of course means your friend may similarly see suggestions based on the things you do. But we will try to only show it to friends that could benefit from your experience.
+  
+=[Z/Sec/2]

@@ -1,9 +1,13 @@
-Ti=Interested in Hearing More
+Ti=Interested
+
+0.sec=Send us a pull request or email message. Renumber and add one to the list number (Z/Sec/s_]).
+
+90.sec=Interested in hearing more?  Send a message to {1.sec}.
 
 1.sec=CommonAccord - contact@commonaccord.org
 
-2.sec=your name and email here - send us a pull request or email message.
+2.sec=Your name here.
 
-3.sec=renumber and add one to the list number.
+Note=Add one here.
 
-=[Z/Sec/s4]
+=[Z/Sec/s2]

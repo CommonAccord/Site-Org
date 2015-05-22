@@ -1,4 +1,4 @@
-Ti=CONSUMER PRIVACY BILL OF RIGHTS ACT
+Doc.Title=CONSUMER PRIVACY BILL OF RIGHTS ACT
 
 0.Ti=Bill
 
@@ -32,15 +32,15 @@ Ti=CONSUMER PRIVACY BILL OF RIGHTS ACT
 
 3.8.sec=It is the sense of Congress that each covered entity should provide, when reasonable, a version of the notice required under {this_Act} in a format that is computer-readable, to facilitate the development of information technology tools that will help individuals compare covered entities' personal data practices.
 
-3.=[02/Bit/Ssec_08]
+3.=[Z/Sec/s8]
 
 4.=[Privacy/CPBR/Bill/CPBR_Act_Of_2015_Definitions.01.md]
 
 =[Privacy/CPBR/Bill/CPBR_Format.md]
 
-=[02/Bit/Sec_04]
+=[Z/Sec/4]
 
-90.Sec={Title.1.Doc}<hr>{Title.2.Doc}<hr>{Title.3.Doc}<hr>{Title.4.Doc}
+90.sec={Title.1.Sec}<hr>{Title.2.Sec}<hr>{Title.3.Sec}<hr>{Title.4.Sec}
 
 Title.1.=[Privacy/CPBR/Bill/CPBR_Act_Of_2015_Title_1.md]
 

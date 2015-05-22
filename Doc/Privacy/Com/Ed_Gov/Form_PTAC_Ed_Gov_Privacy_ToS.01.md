@@ -61,7 +61,7 @@ B.8.sec=The {School/District} understands that Provider will rely on one or more
 
 12.sec=Provider will store and process Data in accordance with industry best practices. This includes appropriate administrative, physical, and technical safeguards to secure Data from unauthorized access, disclosure, and use. Provider will conduct periodic risk assessments and remediate any identified security vulnerabilities in a timely manner. Provider will also have a written incident response plan, to include prompt notification of the {School/District} in the event of a security or privacy incident, as well as best practices for responding to a breach of PII. Provider agrees to share its incident response plan upon request.
  
-=[02/Bit/Sec_12]
+=[Z/Sec/12]
 
 s-=<font color="magenta">
 

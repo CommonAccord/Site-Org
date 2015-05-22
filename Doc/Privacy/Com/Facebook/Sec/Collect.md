@@ -1,9 +1,8 @@
 Note/Source=https://www.facebook.com/about/privacy/your-info
-=[01/Agt/Type/Web/Bit/Outline.md]
-secs={1-5.Secs}
+
 Ti=Information we receive and how it is used
 
-0.Sec=Learn about the types of information we receive, and how that information is used.
+0.sec=Learn about the types of information we receive, and how that information is used.
 
 1.Ti=Information we receive about you
 
@@ -24,3 +23,5 @@ Ti=Information we receive and how it is used
 5.Ti=Deleting and deactivating your account
 
 5.sec=If you want to stop using your account, you can either deactivate or delete it.<div class="mbs _6p _6v"> Deactivate </div><div class="mbl _6q _6t _mf"> Deactivating your account puts your account on hold. Other users will no longer see your timeline, but we do not delete any of your information. Deactivating an account is the same as you telling us not to delete any information because you might want to reactivate your account at some point in the future. You can deactivate your account on your <a href="/editaccount.php">account settings page</a>. </div><div class="mbl _6q _6t _mf"> Your friends will still see you listed in their list of friends while your account is deactivated. </div><div class="mbs _6p _6v"> Deletion </div><div class="mbl _6q _6t _mf"> When you delete your account, it is permanently deleted from Facebook. It typically takes about one month to delete an account, but some information may remain in backup copies and logs for up to 90 days. You should only delete your account if you are sure you never want to reactivate it. You can delete your account <a href="/help/contact.php?show_form=delete_account">here</a>. <a href="/help/?faq=356107851084108">Learn more</a>. </div><div class="mbl _6q _6t _mf"> Certain information is needed to provide you with services, so we only delete this information after you delete your account. Some of the things you do on Facebook aren't stored in your account, like posting to a group or sending someone a message (where your friend may still have a message you sent, even after you delete your account). That information remains after you delete your account. </div>
+  
+=[Z/Sec/5]

@@ -1,12 +1,6 @@
-
-=[01/Agt/Type/Web/Bit/Outline.md]
-secs={1-6.Secs}
-
-
 Ti=Does Amazon.com Share the Information It Receives?
 
 0.Sec=Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described below and with subsidiaries Amazon.com, Inc. controls that either are subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice.
- 
 		
 1.Ti=Affiliated Businesses We Do Not Control
 
@@ -31,5 +25,5 @@ Ti=Does Amazon.com Share the Information It Receives?
 6.Ti=With Your Consent
 
 6.sec=Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information. </span>
- 
-	 
+
+=[Z/Sec/6]

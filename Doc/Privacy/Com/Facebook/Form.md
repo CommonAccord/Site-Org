@@ -12,4 +12,4 @@ Ti=Data Use Policy
 
 6.=[Privacy/Com/Facebook/Sec/Other.md]
 
-=[02/Bit/Sec_06]
+=[Z/Sec/6]

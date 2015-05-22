@@ -4,7 +4,7 @@ Ti=TITLE II. Enforcement
 
 1.1.Ti=Unfair or Deceptive Acts or Practices
 
-1.1.sec=A violation of Title I of {this_Act} shall be treated as an unfair or deceptive act or practice in violation of section 5 of the Federal Trade Commission Act (15 U.S.C. § 45).
+1.1.sec=A violation of Title I of {this_Act} shall be treated as an unfair or deceptive act or practice in violation of section 5 of the Federal Trade Commission Act (15 U.S.C. &sect; 45).
 
 Note=Sounds like error of omission. 
 
@@ -16,36 +16,36 @@ Note=Sounds like error of omission.
 
 1.2.2.Ti=Exception
 
-1.2.2.sec={The_Commission} shall not bring an enforcement action for violations of Title I of {this_Act} seeking civil penalties based on {a_covered_entity}’s conduct undertaken within the first eighteen months after the date {the_covered_entity} first created or {processed} {personal_data}.
+1.2.2.sec={The_Commission} shall not bring an enforcement action for violations of Title I of {this_Act} seeking civil penalties based on {a_covered_entity}'s conduct undertaken within the first eighteen months after the date {the_covered_entity} first created or {processed} {personal_data}.
 
-1.2.=[02/Bit/Sec_02]
+1.2.=[Z/Sec/2]
 
 1.3.Ti=General Application
 
-1.3.0.sec=The requirements of {this_Act} apply to—
+1.3.0.sec=The requirements of {this_Act} apply to&emdash;
 
-1.3.1.sec=those “persons, partnerships, or corporations” over which {the_Commission} has authority pursuant to section 5(a)(2) of the Federal Trade Commission Act (15 U.S.C. § 45(a)(2)); and
+1.3.1.sec=those "persons, partnerships, or corporations" over which {the_Commission} has authority pursuant to section 5(a)(2) of the Federal Trade Commission Act (15 U.S.C. &sect; 45(a)(2)); and
 
-1.3.2.sec=notwithstanding section 4 and section 5(a)(2) of that Act (15 U.S.C. §§ 44 and 45(a)(2)), any non-profit organization, including any organization described in section 501(c) of the Internal Revenue Code of 1986 that is exempt from taxation under section 501(a) of such Code.
+1.3.2.sec=notwithstanding section 4 and section 5(a)(2) of that Act (15 U.S.C. &sect;&sect; 44 and 45(a)(2)), any non-profit organization, including any organization described in section 501(c) of the Internal Revenue Code of 1986 that is exempt from taxation under section 501(a) of such Code.
 
-1.3.=[02/Bit/Ssec_02]
+1.3.=[Z/Sec/s2]
 
 1.4.Sec=In enforcing {this_Act}, {the_Commission} shall not require the deployment or use of any specific products or technologies, including any specific device software or hardware.
 
-1.=[02/Bit/Sec_04]
+1.=[Z/Sec/4]
 
 
 2.Ti=Enforcement by {State} Attorneys General
 
 2.1.Ti=Civil Action
 
-2.1.sec=If the attorney general of any {State} has reason to believe that the action of {a_covered_entity} in violation of Title I of {this_Act} has caused or is causing harm to a substantial number of that {State}’s residents, such attorney general may bring a civil action on behalf of those residents exclusively in an appropriate district court of the United States. Unless {the_Commission} brings an action under section 201 of {this_Act} or intervenes and prosecutes an action brought under this section, as described in subsections (b)(2)(A) and (b)(2)(B), the only remedy that may be sought or awarded in any action under {this_Act} is injunctive relief, and nothing in {this_Act} may be construed to provide for any other relief.
+2.1.sec=If the attorney general of any {State} has reason to believe that the action of {a_covered_entity} in violation of Title I of {this_Act} has caused or is causing harm to a substantial number of that {State}'s residents, such attorney general may bring a civil action on behalf of those residents exclusively in an appropriate district court of the United States. Unless {the_Commission} brings an action under section 201 of {this_Act} or intervenes and prosecutes an action brought under this section, as described in subsections (b)(2)(A) and (b)(2)(B), the only remedy that may be sought or awarded in any action under {this_Act} is injunctive relief, and nothing in {this_Act} may be construed to provide for any other relief.
 
-2.2.Ti=Federal Trade Commission.—
+2.2.Ti=Federal Trade Commission
 
-2.2.1.sec=Notice to Federal Trade Commission.—At least 30 days prior to initiating any action under subsection (a), an attorney general shall provide {the_Commission} with a copy of the entire court complaint and written disclosure of substantially all material evidence and information the attorney general possesses.
+2.2.1.sec=Notice to Federal Trade Commission.&emdash;At least 30 days prior to initiating any action under subsection (a), an attorney general shall provide {the_Commission} with a copy of the entire court complaint and written disclosure of substantially all material evidence and information the attorney general possesses.
 
-2.2.2.0.sec=Upon receiving notice from an attorney general of a proposed civil action, {the_Commission} may—
+2.2.2.0.sec=Upon receiving notice from an attorney general of a proposed civil action, {the_Commission} may&emdash;
 
 2.2.2.1.sec=intervene as a matter of right as a party to that civil action;
 
@@ -55,19 +55,19 @@ Note="direct Commission participation" perhaps "direct participation by {the_Com
 
 2.2.2.3.sec=permit the attorney general to proceed with the action without direct {Commission} participation.
 
-2.2.2.=[02/Bit/Ssec_03]
+2.2.2.=[Z/Sec/s3]
 
 2.2.3.sec=In the event that an attorney general believes that immediate action is necessary to protect the residents of the {State} from a substantial harm, the attorney general may request that {the_Commission} expedite its review of the proposed action, and {the_Commission} shall afford such request appropriate consideration as the circumstances may warrant.
 
-2.2.4.sec=In any action brought under Title II of {this_Act}, the district court, and any courts that review the district court’s decision, shall accord substantial weight to {the_Commission}’s interpretations as to the legal requirements of {this_Act}.
+2.2.4.sec=In any action brought under Title II of {this_Act}, the district court, and any courts that review the district court's decision, shall accord substantial weight to {the_Commission}'s interpretations as to the legal requirements of {this_Act}.
 
-2.2.=[02/Bit/Ssec_04]
+2.2.=[Z/Sec/s4]
 
 2.3.Ti=Investigatory Powers
 
 2.3.sec=Nothing in this section may be construed to prevent the attorney general of a {State} from exercising the powers conferred on such attorney general by the laws of such {State} to conduct investigations or to administer oaths or affirmations or to compel the attendance of witnesses or the production of documentary and other evidence.
 
-2.=[02/Bit/Sec_03]
+2.=[Z/Sec/3]
 
 3.Ti=Civil Penalties
 
@@ -79,7 +79,7 @@ Note="direct Commission participation" perhaps "direct participation by {the_Com
 
 3.1.2.0.sec=If {the_Commission} provides notice to {a_covered_entity}, stated with particularity, that identifies a violation of {this_Act}, the civil penalty shall be calculated by multiplying the number of directly affected consumers by an amount not to exceed $5,000, unless, within 45 days of receiving such a notice, {the_covered_entity} files with {the_Commission} an objection that satisfies the requirements of subparagraph (A).
 
-3.1.2.1.0.sec=An objection shall include an affidavit by {the_covered_entity} that to the best of {the_covered_entity}’s knowledge, information, and belief, formed after an inquiry reasonable under the circumstances—
+3.1.2.1.0.sec=An objection shall include an affidavit by {the_covered_entity} that to the best of {the_covered_entity}'s knowledge, information, and belief, formed after an inquiry reasonable under the circumstances&emdash;
 
 3.1.2.1.1.sec=it is not being filed for any improper purpose;
 
@@ -89,24 +89,24 @@ Note="direct Commission participation" perhaps "direct participation by {the_Com
 
 3.1.2.1.4.sec=the denial of factual contentions are warranted on the evidence or, if specifically so identified, are reasonably based on belief or a lack of information.
 
-3.1.2.1.=[02/Bit/Ssec_04]
+3.1.2.1.=[Z/Sec/s4]
 
-3.1.2.=[02/Bit/Ssec_01]
+3.1.2.=[Z/Sec/s1]
 
-3.1.=[02/Bit/Ssec_02]
+3.1.=[Z/Sec/s2]
 
 3.1.3.sec=The total civil penalty determined by the court shall not exceed $25,000,000.
 
-3.1.=[02/Bit/Ssec_03]
+3.1.=[Z/Sec/s3]
 
 3.2.Ti=Adjustment for Inflation
 
 3.2.sec=Beginning on the date that the Consumer Price Index for All Urban Consumers is first published by the Bureau of Labor Statistics that is after 1 year after the date of the enactment of {this_Act}, and each year thereafter, each of the amounts specified in subsection (a) shall be increased by the percentage increase in the Consumer Price Index published on that date from the Consumer Price Index published the previous year.
 
-3.=[02/Bit/Sec_02]
+3.=[Z/Sec/2]
 
 =[Privacy/CPBR/Bill/CPBR_Format.md]
 
-=[02/Bit/Sec_03]
+=[Z/Sec/3]
 
 PageName=Privacy/CPBR/Bill/CPBR_Act_Of_2015_Title_2.md

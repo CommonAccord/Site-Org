@@ -1,10 +1,6 @@
-=[01/Agt/Type/Web/Bit/Outline.md]
-
-secs={1-7.Secs}
-
 Ti=Other websites and applications
 
-0.Sec=Learn about things like social plugins and how information is shared with the games, applications and websites you and your friends use off Facebook.
+0.sec=Learn about things like social plugins and how information is shared with the games, applications and websites you and your friends use off Facebook.
 
 1.Ti=About Facebook Platform
 
@@ -33,3 +29,5 @@ Ti=Other websites and applications
 7.Ti=Public search engines
 
 7.sec=Your public search setting controls whether people who enter your name on a public search engine may see your public timeline (including in sponsored results). You can find your public search setting on the "<a href="/settings?tab=privacy">Privacy Settings and Tools</a>" settings page. <div class="mbl _6q _6t _mf"> This setting does not apply to search engines that access your information as an application using Facebook Platform. </div><div class="mbl _6q _6t _mf"> If you turn your public search setting off and then search for yourself on a public search engine, you may still see a preview of your timeline. This is because some search engines cache information for a period of time. You can learn more about how to <a href="/help/?faq=13323">request</a> a search engine to remove you from cached information. </div>
+  
+=[Z/Sec/7]

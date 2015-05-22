@@ -28,4 +28,4 @@ O.Sec=Amazon.com knows that you care how information about you is used and share
 
 11.=[Privacy/Com/Amazon/Sec/Collect_Example.md]
 	
-=[02/Bit/Sec_11]
+=[Z/Sec/11]

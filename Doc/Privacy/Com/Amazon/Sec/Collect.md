@@ -1,13 +1,11 @@
-=[01/Agt/Type/Web/Bit/Outline.md]
+=[Z/Sec/5]
 
 secs={1-5.Secs}
-
 	 
 Ti=What Personal Information About Customers Does Amazon.com Gather?
 
 0.Sec=The information we learn from customers helps us personalize and continually improve your Amazon experience. Here are the types of information we gather.
- 
-		
+ 	
 1.Ti=Information You Give Us
 
 1.sec=We receive and store any information you enter on our Web site or give us in any other way. <a href="#GUID-A2C397AB-68FE-4592-B4A2-7550D73EEFD2__SECTION_87C837F9CCD84769B4AE2BEB14AF4F01">Click here</a> to see examples of what we collect. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our stores, and communicating with you. </span>
@@ -27,4 +25,3 @@ Ti=What Personal Information About Customers Does Amazon.com Gather?
 5.Ti=Information from Other Sources
 
 5.sec=We might receive information about you from other sources and add it to our account information. <a href="#GUID-A2C397AB-68FE-4592-B4A2-7550D73EEFD2__SECTION_87C837F9CCD84769B4AE2BEB14AF4F01">Click here</a> to see examples of the information we receive. </span>
- 
