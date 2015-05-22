@@ -1,0 +1,148 @@
+Model.Root={DocBody}
+
+DocBody={Sec}
+
+Doc={Head.Sec}<br>{sec}{Foot.Sec} 
+
+Head.Sec=<font color="grey">{MessageToUser}</font><center><h4>{Head.sec}</h4></center>
+
+Head.sec={Doc.Title}
+
+Sec=<b>{Ti}</b><br>{sec}
+
+sec={0.Sec} {xlist} {90.Sec}
+
+0.Sec={0.sec}
+
+0.sec=</i>
+
+90.Sec={90.sec}
+
+90.sec=</i>
+
+xlist={Olist}
+
+Olist=<{ol}><li>{Secs}</li></ol>
+
+olist=<{ol}><li>{secs}</li></ol>
+
+ol=ol
+
+ol-a=ol type="a"
+
+ol-A=ol type="A"
+
+ol-I=ol type="I"
+
+ol-i=ol type="i"
+
+
+Alist=<ol type="a"><li>{Secs}</li></ol>
+
+alist=<ol type="a"><li>{secs}</li></ol>
+
+Ilist=<ol type="i"><li>{Secs}</li></ol>
+
+ilist=<ol type="i"><li>{secs}</li></ol>
+
+Ulist=<ul><li>{Secs}</li></ul>
+
+ulist=<ul><li>{secs}</li></ul>
+
+Nlist=<ul type="none"><li>{Secs}</li></ul>
+
+nlist=<ul type="none"><li>{secs}</li></ul>
+
+/blist = for "break list" e.g. < br>
+ 
+Blist=<ul type="none" style="padding-left: 0"><li>{Secs}</ul>
+
+blist=<ul type="none" style="padding-left: 0"><li>{secs}</ul>
+
+Note=This avoids the need for cluttering a list with a separate Z/Sec/0 for each section that has only a simple sec text. 
+
+1.=[Z/Sec/SubSec]
+
+2.=[Z/Sec/SubSec]
+
+3.=[Z/Sec/SubSec]
+
+4.=[Z/Sec/SubSec]
+
+5.=[Z/Sec/SubSec]
+
+6.=[Z/Sec/SubSec]
+
+7.=[Z/Sec/SubSec]
+
+8.=[Z/Sec/SubSec]
+
+9.=[Z/Sec/SubSec]
+
+10.=[Z/Sec/SubSec]
+
+11.=[Z/Sec/SubSec]
+
+12.=[Z/Sec/SubSec]
+
+13.=[Z/Sec/SubSec]
+
+14.=[Z/Sec/SubSec]
+
+15.=[Z/Sec/SubSec]
+
+16.=[Z/Sec/SubSec]
+
+17.=[Z/Sec/SubSec]
+
+18.=[Z/Sec/SubSec]
+
+19.=[Z/Sec/SubSec]
+
+20.=[Z/Sec/SubSec]
+
+21.=[Z/Sec/SubSec]
+
+22.=[Z/Sec/SubSec]
+
+23.=[Z/Sec/SubSec]
+
+24.=[Z/Sec/SubSec]
+
+25.=[Z/Sec/SubSec]
+
+26.=[Z/Sec/SubSec]
+
+27.=[Z/Sec/SubSec]
+
+28.=[Z/Sec/SubSec]
+
+29.=[Z/Sec/SubSec]
+
+30.=[Z/Sec/SubSec]
+
+31.=[Z/Sec/SubSec]
+
+32.=[Z/Sec/SubSec]
+
+33.=[Z/Sec/SubSec]
+
+34.=[Z/Sec/SubSec]
+
+35.=[Z/Sec/SubSec]
+
+36.=[Z/Sec/SubSec]
+
+37.=[Z/Sec/SubSec]
+
+38.=[Z/Sec/SubSec]
+
+39.=[Z/Sec/SubSec]
+
+40.=[Z/Sec/SubSec]
+
+null=</i>
+
+Foot.Sec={null}
+
+Xref=Section {Xnum}

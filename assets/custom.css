@@ -59,13 +59,19 @@ hr
 font-variant: small-caps;
 }
 
-h1, h2, h3, h4 
+h1, h2, h3 
 
 {
 	font-family: "Times New Roman", Georgia, Serif;
 	text-align: center;
 }
 
+
+h4 
+
+{
+	font-family: "Times New Roman", Georgia, Serif;
+}
 
 
 	.TFtable{

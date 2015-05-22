@@ -2,7 +2,7 @@
 error_reporting(E_ALL);
 $path = './Doc/';
 
-$GitHubRepo="commonaccord/Org";
+$GitHubRepo="commonaccord/Site-Org";
 
 if(!isset($_REQUEST['action'])) { 
 	$_REQUEST['action'] = "landing"; 
