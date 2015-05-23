@@ -1,3 +1,3 @@
 
 
-These folders present a surfeit of examples, including the really good ones linked from <a href="http://commonaccord.org/index.php?action=demo">here</a>.  <br>The more focused work - and the core of a fully-codified approach to legal documents is at /02/, then /03/ and then /04/ below.  We are some distance, but the goal is in sight.<br>So the future is something like what is shown in /04/.  The rest is resource. As with long division, it shows our work.
+These folders present a substantial part of the history of the project and available materials.  More recently, some of the best work is on other sites, such as <a href="http://my.commonaccord.org">my.commonaccord.org</a> and <a href="http://ga4gh.commonaccord.org">ga4gh.commonaccord.org</a>.<br>We're working on how to organize this better. One thought is to rename this site and start over again with only the most codified materials.
