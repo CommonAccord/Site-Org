@@ -19,9 +19,9 @@ include("header.php");
 
 </div></div>
 <table><tr><td valign=top>
-
 <a href="<?=$_SERVER['PHP_SELF']?>?action=demo"><img  src="assets/learn.jpg"></a>
-</td><td valign=top>        <h4 class="subtitle"><a href="https://docs.google.com/presentation/d/1goOc9sv1XXI-uuxRK0W406XCKahVkJP41WmO2pAiu2s/edit?usp=sharing">Center for Decentralized Law</a>.</h4>
+</td><td valign=top>       <h4 class="subtitle"><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=/>The Documents</a>.</h4>
+ <h4 class="subtitle"><a href="https://docs.google.com/presentation/d/1goOc9sv1XXI-uuxRK0W406XCKahVkJP41WmO2pAiu2s/edit?usp=sharing">Center for Decentralized Law</a>.</h4>
 
         <h4 class="subtitle"><a href="https://www.linkedin.com/pulse/law-code-marc-dangeard">Experience at Be-Bound</a>.</h4>
 
