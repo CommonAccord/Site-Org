@@ -1,4 +1,3 @@
-<body style="margin:40;padding:0">
 <?php
 $document = `perl parser-print.pl $path/$dir`;
 
