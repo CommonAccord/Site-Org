@@ -18,9 +18,9 @@ if(! ($dir == './')) {
         $rootdir = pathinfo($dir);
 
  	
-	echo "<div id='updir'><img src='assets/arrowup.png' height=25><h3 class='sc subtitle'><a href=$_SERVER[PHP_SELF]?action=list&file=".$rootdir['dirname']."/>Org".$rootdir['dirname']."</a>/".$rootdir['filename']."</h3>";
+	echo "<div id='updir'><h3 class='sc subtitle'><a href=$_SERVER[PHP_SELF]?action=list&file=".$rootdir['dirname']."/><img src='assets/arrowup.png' height=25>".$rootdir['dirname']."</a>/".$rootdir['filename']."</h3><br>";
 
- 	echo "&emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; <a href=https://github.com/$GitHubRepo/blob/master/Doc/".$dir.">Github</a></div>";
+ 	echo "<center><a href=https://github.com/$GitHubRepo/blob/master/Doc/".$dir.">Github</a></center></div>";
 
 #   echo "<h2 class='sc subtitle2'>". $rootdir['filename']."</h2>";
 } 

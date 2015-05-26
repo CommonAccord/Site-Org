@@ -17,6 +17,3 @@
 
 </head>
 <html><body>
-<div id="header">
-<? include("menubar.php");?>
-</div>
