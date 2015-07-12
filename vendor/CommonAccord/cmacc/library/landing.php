@@ -9,7 +9,7 @@ include("header.php");
   <div class="container" id ="containerHome" style="padding:50px">
     <div class="row">
      <div class = "col-xs-12">
-     <p align="center"><img src="assets/cmacc-trans.png" style="width:65%" /></p>
+     <p align="center"><img src="visual/cmacc-trans.png" style="width:65%" /></p>
 <br/>
 <hr>
 <h1 class="title">Decentralized Law</h1>
@@ -19,7 +19,7 @@ include("header.php");
 
 </div></div>
 <table><tr><td valign=top>
-<a href="<?=$_SERVER['PHP_SELF']?>?action=demo"><img  src="assets/learn.jpg"></a>
+<a href="<?=$_SERVER['PHP_SELF']?>?action=demo"><img  src="visual/learn.jpg"></a>
 </td><td valign=top>       <h4 class="subtitle"><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=/>The Documents</a>.</h4>
  <h4 class="subtitle"><a href="https://docs.google.com/presentation/d/1goOc9sv1XXI-uuxRK0W406XCKahVkJP41WmO2pAiu2s/edit?usp=sharing">Center for Decentralized Law</a>.</h4>
 

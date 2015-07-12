@@ -10,19 +10,16 @@ include("header.php");
 <div class = "col-lg-12"  >
 
 <?php
-// <p align="center">
-// <img src="assets/cmacc-trans.png"  height="50px" />
-// </p>
 
 if(! ($dir == './')) {
         $rootdir = pathinfo($dir);
-
  	
-	echo "<div id='updir'><h3 class='sc subtitle'><a href=$_SERVER[PHP_SELF]?action=list&file=".$rootdir['dirname']."/><img src='assets/arrowup.png' height=25>".$rootdir['dirname']."</a>/".$rootdir['filename']."</h3><br>";
 
- 	echo "<center><a href=https://github.com/$GitHubRepo/blob/master/Doc/".$dir.">Github</a></center></div>";
+	echo "<div id='updir'><h3 class='sc subtitle'><a href=index.php?action=list&file=><img src='" . ASSETS_PATH . "/arrowup.png' height=25></a>
+<a href=$_SERVER[PHP_SELF]?action=list&file=".$rootdir['dirname']."/>" . $rootdir['dirname']."</a>/".$rootdir['filename']."</h3><br>";
 
-#   echo "<h2 class='sc subtitle2'>". $rootdir['filename']."</h2>";
+echo "<center><a href=" . URLFORDOCSINREPO . $dir.">Github</a> &emsp;</div>";
+
 } 
 
 $files = scandir($path.$dir);
@@ -39,12 +36,12 @@ foreach($files as $f) {
         if(is_dir($path.$dir.$f)) {
                 if( !( ($f == '.') || ($f == '..') || ($f == '.git')) ) {
 
-                        echo "<br><a href=$_SERVER[PHP_SELF]?action=list&file=$dir$f/><img height=20 src='assets/folder.png'> $f</a>";
+                        echo "<br><a href=$_SERVER[PHP_SELF]?action=list&file=$dir$f/><img height=20 src='" . ASSETS_PATH . "/folder.png'> $f</a>";
                 }
         }
         else {
                 if( !( ($f == 'include.php') || preg_match('/^\./', $f) ) ) {
-                        echo "<br><a href=$_SERVER[PHP_SELF]?action=source&file=$dir$f><img height=20 src='assets/play.png'> $f</a>";
+                        echo "<br><a href=$_SERVER[PHP_SELF]?action=source&file=$dir$f><img height=20 src='" . ASSETS_PATH . "/play.png'> $f</a>";
                 }
         }
 }

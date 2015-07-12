@@ -1,10 +1,12 @@
 {
-  "require" : {
-    "silex/silex": "~1.1",
-    "monolog/monolog": "~1.7",
-     "symfony/symfony": "2.3.*"
-  },
-  "require-dev": {
-    "heroku/heroku-buildpack-php": "*"
-  }
+    "name": "CommonAccord/CommonAccord",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/zmon/ccmac.git"
+        }
+    ],
+    "require": {
+        "CommonAccord/ccmac": "dev-master"
+    }
 }

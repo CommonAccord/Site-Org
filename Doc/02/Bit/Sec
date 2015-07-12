@@ -1,3 +1,10 @@
+Ti=
+
+Secs=
+
+
+WAS=2015/07/11 : 1436612847
+
 Model.Root={DocBody}
 
 DocBody={Sec}
@@ -16,9 +23,9 @@ sec={0.Sec} {xlist} {90.Sec}
 
 xlist={Olist}
 
-Olist=<{ol}><li>{Secs}</li></ol>
+Olist=<ol><li>{Secs}</li></ol>
 
-olist=<{ol}><li>{secs}</li></ol>
+olist=<ol><li>{secs}</li></ol>
 
 ol=ol
 

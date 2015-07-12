@@ -81,7 +81,14 @@ sub expand_fields  {
 
 
 my $output  = parse($ARGV[0], "Model.Root");
-print $output;
+
+# print $output;
+
+# XXX FIX ME XXX This is horrible - but  I'm just dead tired  :(
+my %seen; my @arr = $output=~/\{([^}]+)\}/g;
+@arr = grep { ! $seen{$_}++ } @arr;
+print "$_=\n" foreach @arr;
+
 
 #clean up the temporary files (remote fetching)
 `rm $_` for values %remote;
