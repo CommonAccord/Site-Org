@@ -1,3 +1,7 @@
+Note=q is the Oxford comma.  Here it is set to null.
+
+q=</i>
+
 Agreement={d-}Agreement{-d}
 
 This_Agreement=This {d-}Agreement{-d}

@@ -1,15 +1,13 @@
-Ti=Escrow Agreement
+Doc.Title=Escrow Agreement
+
 
 0.1.Ti=Parties
 
-0.1.1.sec=This {Ti} (this "{Agreement}") is made and entered into on {Escrow.Effective.YMD} by and among:<ul><li>{Purchaser.N,E,A}, ("{Purchaser}"),</li><li>{Escrow.N,E,A}, ("{Escrow_Agent}"),</li><li>{Seller.N,E,A} ("{Seller}"),</li></ul>as of {Escrow.Sign.YMD}.
+0.1.1.sec=This {Doc.Title} (this "{Agreement}") is made and entered into on {Escrow.Effective.YMD} by and among:<ul><li>{Purchaser.N,E,A}, ("{Purchaser}"),</li><li>{Escrow.N,E,A}, ("{Escrow_Agent}"),</li><li>{Seller.N,E,A} ("{Seller}"),</li></ul>as of {Escrow.Sign.YMD}.
 
 0.1.2.sec=Additional persons referenced in {this_Agreement} are:<ul><li>{Shipper.N,E,A} ("{Shipper}"); and</li><li>{Arbitrator.N,E,A} ("{Arbitrator}").</li></ul>
 
-0.1.=[02/Bit/Sec_02]
-
-0.1.xlist={0.1.nlist}
-
+0.1.=[Z/paras/s2]
 
 0.2.Ti=Recitals
 
@@ -23,15 +21,13 @@ Ti=Escrow Agreement
 
 0.2.5.sec=Whereas, {the_Seller}, {the_Purchaser} and {the_Escrow_Agent} agree to use the {Arbitrator} to resolve any disputes among them regarding the meaning of {this_Escrow_Agreement} or the performance of {this_Escrow_Agreement}, including any "{Claim}" as defined below.
 
-0.2.=[02/Bit/Sec_05]
-
-0.2.xlist={0.2.nlist}
+0.2.=[Z/paras/s5]
 
 0.3.Sec=NOW, THEREFORE, in consideration of the mutual premises and conditions contained herein, {the_Purchaser}, {the_Seller} and {the_Escrow_Agent} do hereby agree as follows:
 
-0.=[02/Bit/Sec_03]
+0.=[Z/paras/3]
 
-0.Sec={0.Blist}
+0.Ti=</i>
 
 1.Ti=Deposit of Funds
 
@@ -95,13 +91,13 @@ Ti=Escrow Agreement
 
 90.Sec={Signature.InWitness}<br> {Agt.Signature.Block}
 
-Signature.InWitness=IN WITNESS WHEREOF, the undersigned being all the {parties} to {this_Escrow_Agreement} have hereunto set their hands.<br> &#8194;
+Signature.InWitness=IN WITNESS WHEREOF, the undersigned being all the {parties} to {this_Escrow_Agreement} have hereunto set their hands.<br>  
 
 Agt.Signature.Block=SELLER:<br> {Seller.Sign.Block}</u><br> PURCHASER:<br> {Purchaser.Sign.Block}</u><br> ESCROW AGENT:<br> {Escrow.Sign.Block}</u><br> ARBITRATOR:<br> {Arbitrator.Sign.Block}
 
-=[02/Bit/Sec_16]
+=[Z/Sec/16]
 
 DocBody={Doc}
 
 =[02/Sec/Escrow_DT.01.md]
- &#8195;
+  

@@ -64,24 +64,16 @@ Root.Xref={x-}Section{-x}
 
 19.Xref={x-}Section 19{-x}
 
-
-
 DT.Base=<b>DT.Base</b><ol><li>Agreement<ol><li><b>Agreement</b>: {Agreement}<li><b>This_Agreement</b>: {This_Agreement}<li><b>this_Agreement</b>: {this_Agreement}</ol><li><b>Effective_Date:</b> {Effective_Date}<li><b>P1 - P1:</b> {P1.The}; {P2.The}<li><b>Party:</b><ol><li>{Party}<li>{party}<li>{Parties}<li>{parties}</ol></ol>
 
-d=[02/Bit/GitHubLink]
+d-=<font color="green">
 
--d=</font></a>
+-d=</font>
 
-dcolor=green
+m-=<font color="magenta">
 
-m-=<a href="https://github.com/CommonAccord/Org/blob/master/Doc/{mPageName}"><font color="{mcolor}">
+-m=</font>
 
--m=</font></a>
+x-=<font color="blue">
 
-mcolor=magenta
-
-x-=<a href="https://github.com/CommonAccord/Org/blob/master/Doc/{xPageName}"><font color="{xcolor}">
-
--x=</font></a>
-
-xcolor=blue
+-x=</font>

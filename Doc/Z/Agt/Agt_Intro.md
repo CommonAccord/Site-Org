@@ -44,7 +44,9 @@ Friends.Sec=<b>{Friends.Ti}</b>{Friends.xlist}
 
 Friends.Ti=Third Parties referenced but not party to this {Agreement}:
 
-Friends.xlist=<ul type="none"><li>{Friends.List}<li>Each a "{Named_Third_Party}" and collectively the "{Named_Third_Parties}."</ul>
+Friends.xlist=<ul type="none"><li>{Friends.List}<li>{Friends.Define.sec}</ul>
+
+Friends.Define.sec=Each a "{Named_Third_Party}" and collectively the "{Named_Third_Parties}."
 
 Friends.List={Friends.List.1,2,3,4,5,6}
 
