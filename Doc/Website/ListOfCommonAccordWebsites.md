@@ -1,0 +1,5 @@
+OtherSites.sec=Other sites: <ul><li><a href="http://source.commonaccord.org">source.commonaccord.org</a> (Master Service Agreement)<li>   <a href="http://ga4gh.commonaccord.org">ga4gh.commonaccord.org</a> (Patient Consents in Genomic Research)<li><a href="http://fr.commonaccord.org">fr.commonaccord.org</a> (French)<li>   <a href="http://commonaccord.org">commonaccord.org</a> (General)</ul>
+
+TwitterBlock.sec=<a class="twitter-timeline" href="https://twitter.com/CommonAccord/with_replies" data-widget-id="574817616360964096" width="600" height="300">Tweets by @CommonAccord</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+PageSource.sec=This page is made using Cmacc ("dog food" in startup parlance): <a href="index.php?action=source&file=Website/landing.md">Page Source</a>
