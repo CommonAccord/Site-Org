@@ -12,7 +12,7 @@ EditCompleteTab.sec=<a href="index.php?action=openedit&file={DemoDocName!!}">Edi
 
 PrintTab.sec=<a href="index.php?action=print&file={DemoDocName!!}">Print</a> is the same as "Document," except it <i>does not</i> have a heading, colored opens or marked text spans. Ready for printing and stripped of metadata.
 
-GitHubTab.sec=<a href="http://github.com/CommonAccord/Site-License/blob/master/Doc/{DemoDocName!!}">GitHub</a> takes you to the source code for the entire site, kept at GitHub, where engineers keep software source code. If you have a GitHub account, feel free to fork.  If you don't - ask an engineer.  A GitHub account is useful and free.
+GitHubTab.sec=<a href="http://github.com/CommonAccord/{Site-Name!!}/blob/master/Doc/{DemoDocName!!}">GitHub</a> takes you to the source code for the entire site, kept at GitHub, where engineers keep software source code. If you have a GitHub account, feel free to fork.  If you don't - ask an engineer.  A GitHub account is useful and free.
 
 
 OtherSites.sec=Other sites: <ul><li><a href="http://compliance.commonaccord.org">compliance.commonaccord.org</a> (Anti-Bribery and other Compliance)<li><a href="http://license.commonaccord.org">license.commonaccord.org</a> (License Agreements generally)<li><a href="http://source.commonaccord.org">source.commonaccord.org</a> (Master Service Agreement)<li>   <a href="http://ga4gh.commonaccord.org">ga4gh.commonaccord.org</a> (Patient Consents in Genomic Research)<li><a href="http://fr.commonaccord.org">fr.commonaccord.org</a> (French)<li>   <a href="http://commonaccord.org">commonaccord.org</a> (General)</ul>
