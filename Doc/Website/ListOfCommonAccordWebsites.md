@@ -13,8 +13,9 @@ PrintTab.sec=<a href="index.php?action=print&file={DemoDocName!!}">Print</a> is 
 
 GitHubTab.sec=<a href="http://github.com/CommonAccord/{Site-Name!!}/blob/master/Doc/{DemoDocName!!}">GitHub</a> takes you to the source code for the entire site, kept at GitHub, where engineers keep software source code. If you have a GitHub account, feel free to fork.  If you don't - ask an engineer.  A GitHub account is useful and free.
 
+DocumentsFolder.sec=<a href="index.php?action=list&file=/">Folder with all the documents.</a>
 
-//Changed the content to make ALL the sites, and so also changed the key name.  
+//Changed the content to make ALL the sites, and so also changed the key name. 
 
 OtherSites.sec={ListOfSites.sec}
 
