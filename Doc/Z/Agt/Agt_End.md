@@ -6,7 +6,7 @@ Model.Root={Sec}
 
 Sec={sec}
 
-sec={PageBreak}<br>{secs}<br><br>{Sign.Sec}
+sec={PageBreak}<br>{secs}<br><br>{Sign.Sec}<br><br>{Attach.Sec}
 
 secs={Witness.sec}
 
@@ -35,3 +35,5 @@ P4.Sign.td=<td valign="top" width="300px">{P4.Sign.Block}</td>
 P5.Sign.td=<td valign="top" width="300px">{P5.Sign.Block}</td>    
 
 P6.Sign.td=<td valign="top" width="300px">{P6.Sign.Block}</td>
+
+Attach.Sec=</i>
