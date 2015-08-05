@@ -8,6 +8,8 @@ Ti=General conditions
 
 2.=[Z/Alt/2]
 
+2.SecName={SecName}.2
+
 3.sec=The Borrower has to bear all costs of this (these) loan(s). He is not entitled to lend the work(s) to third parties.
 
 =[Z/ol/s3]

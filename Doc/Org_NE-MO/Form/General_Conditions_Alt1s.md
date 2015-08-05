@@ -2,6 +2,8 @@ Note=This selects particular clauses from among the alternatives.  All the choic
 
 General.Sec={General.Alt1.Sec}
 
+General.Alt1.2.sec={General.Alt1.2.Alt1.sec}
+
 Liability.Sec={Liability.Alt1.Sec}
 
 Packing.Sec={Packing.Alt1.Sec}
