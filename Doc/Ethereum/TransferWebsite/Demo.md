@@ -14,9 +14,8 @@ DEPOSIT.DENOM=Ether
 
 CONTRACTDATE=1396310000
 
-DOMAINNAME=acme-amalgamations.com. 
+DOMAINNAME=acme-amalgamations.com
 
 CONTRACT.ID=?Format for Ethereum Contract ID?
 
 =[Ethereum/TransferWebsite/Form.md]
-
