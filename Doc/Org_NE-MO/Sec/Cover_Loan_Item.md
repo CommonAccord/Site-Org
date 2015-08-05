@@ -1,0 +1,1 @@
+sec=Artist / Place of origin: {Artist} <br>Title / Description:  {Title}<br>Date: {Date}<br>Material and technique: {Material}<br>Dimensions: {Dimensions} (with/without frame) in cms<br>Inventory Number: {InventoryNumber}<br>Credit Line: {CreditLine} (see attached list of loans)
