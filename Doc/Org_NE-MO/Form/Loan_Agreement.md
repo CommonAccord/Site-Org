@@ -4,15 +4,15 @@ Doc.Title=Loan Agreement
 
 0.1.0.sec=It is made and entered into on the attached Loan Conditions by
 
-0.1.1.sec=Lender’s name: {Borrower.Address}
+0.1.1.sec=Lender’s name: {Lender.Name}
 
-0.1.2.sec=Address: 		
+0.1.2.sec=Address: {Lender.Address}
 
 0.1.90.sec=and
 
 0.1.=[Z/ol-none/s2]
 
-0.2.1.sec=Borrower’s name:		
+0.2.1.sec=Borrower’s name: {Borrower.Name}
 
 0.2.2.sec=Address: {Borrower.Address}
 
@@ -24,32 +24,33 @@ Doc.Title=Loan Agreement
 
 1.Ti=Exhibition
 
-1.1.sec=Title: 		
+1.1.sec=Title: 	{Exhibition.Title}
 
-1.2.sec=Dates: 		
+1.2.sec=Dates: 	{Exhibition.Start.Date} to {Exhibition.Stop.Date}
 
-1.3.sec=Tour venues: 		
-(with dates)
+1.3.sec=Tour venues: {Tour.Venues} (with dates)
 
 1.=[Z/ol/s3]
 
 2.Ti=Duration of Loan(s)
 
-2.sec=Dates: 	{Loan.Start.Date} to {Loan.Stop.Date}	
+2.sec=Dates: {Loan.Start.Date} to {Loan.Stop.Date}
 
-3.Ti=Loan(s) 
+Item.Ti=Loan(s)
 
 Note=One line per loan
 
-3.1.=[Org_NE-MO/Sec/Cover_Loan_Item.md]
+Item.1.=[Org_NE-MO/Sec/Cover_Loan_Item.md]
 
-3.=[Z/ol/s1]
+Item.=[Z/ol/s1]
+
+3.Sec={Item.Sec}
 
 4.Ti=Insurance
 
 4.0.sec=Insurance value
 
-4.1.sec={Insurance.Indemnity.Amount} to be covered by {Insurance.Indemnity.Provider} indemnity<br>(insert name of state/country) 
+4.1.sec={Insurance.Indemnity.Amount} to be covered by {Insurance.Indemnity.Provider} indemnity<br>(insert name of state/country)
 
 4.2.sec={Insurance.Borrower.Amount} insurance to be taken out by Borrower
 
@@ -71,7 +72,7 @@ Note=One line per loan
 
 6.Ti=Special requirements
 
-6.sec=(packing and shipping, couriers, barriers, stanchions, etc.)
+6.sec={Special.Requirements} (packing and shipping, couriers, barriers, stanchions, etc.)
 
 7.Ti=Pick up and return address
 
@@ -85,9 +86,11 @@ Note=One line per loan
 
 8.=[Z/ol/s2]
 
-90.sec=<br>{Borrower.Sign.Block}<br>{Lender.Sign.Block}<br><br>{Attach.Doc}
+90.sec=<br>{Borrower.Sign.Block}<br><br>{Lender.Sign.Block}<br><br>{Attach.Doc}
 
-Attach.=[Org_NE-MO/Form/General_Conditions_Alt1s.md]
+Lender.Sign.Block=<b>Lender: {Lender.Name}</b><br><br>___________________<br>By: {Lender.Sign.Title}<br>Date: {Lender.Sign.Date}
+
+Borrower.Sign.Block=<b>Lender: {Borrower.Name}</b><br><br>___________________<br>By: {Borrower.Sign.Title}<br>Date: {Borrower.Sign.Date}
 
 =[Z/ol-a/8]
 
