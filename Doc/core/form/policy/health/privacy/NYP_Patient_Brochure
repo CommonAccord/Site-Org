@@ -45,7 +45,7 @@ Title=YOUR RIGHTS
 1.7.2=We will make sure the person has this authority and can act for you before we take any action.
 
 1.8.Title=File a complaint if you feel your rights are violated
-1.8.1=You can complain if you feel we have violated your rights by contacting us using {P2.Privacy.Email} or
+1.8.1=You can complain if you feel we have violated your rights by contacting us using {P1.Privacy.Email} or
 by calling {212-746-1644}.
 1.8.2=You can file a complaint with the {P91.Name.Full} by sending a letter to {P91.Addr.1,2}, calling {P91.Phone}, or by visiting the following website
 {P91.Domain.Com/Complaints}
@@ -135,9 +135,9 @@ about your overall health condition.
 4.6.1=We can share health information about you in response to a court or administrative order, or in response to a subpoena.
 
 
-5=In addition we will follow {P2.State} rules regarding health care privacy. We will obtain appropriate authorization before we share information concerning reproductive health, HIV status and certain mental health information.
+5=In addition we will follow {P1.State} rules regarding health care privacy. We will obtain appropriate authorization before we share information concerning reproductive health, HIV status and certain mental health information.
 
-6=In order to access your health information at your convenience, we urge you to access our patient portal at {P2.Domain.Com}. Please ask us for information about how to sign up.
+6=In order to access your health information at your convenience, we urge you to access our patient portal at {P1.Domain.Com}. Please ask us for information about how to sign up.
 
 7.Title=Our Responsibilities
 7.1=We are required by law to maintain the privacy and security of your protected health information.
