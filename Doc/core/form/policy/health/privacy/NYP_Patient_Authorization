@@ -66,7 +66,6 @@ MentalHealth=Mental Health Treatment (except psychotherapy notes)
 
 Genetic=Genetic Testing Information
 
-
 Delivery=<b>Format of Delivery</b><ol><li>{Delivery.Format}</li><li>{Delivery.Account}</li></ol>
 
 Delivery.Format=<b>Format</b>: {Delivery.Format.List}
@@ -104,45 +103,47 @@ Sign.Block=<b>Signature</b> <br>{P2.Name.Full}: {P2.xSignature} {P2.Representati
 
 P2.Representative=<br>Patient/personal representative (e.g., legal guardian) <br>{P2.Rep.Name.Full}: <br>{P2.Rep.xSignature}<br>Relationship to patient:<br> {P2.Rep.Relationship}<br>
 
-H.Heading=<{hx}>{Heading}</{hx}>
+H.Heading=<h5>{Heading}</h5>
 
 P2.Account=myNYP.org
-P1.Handle=NYP
-Heading=AUTHORIZATION TO DISCLOSE PROTECTED HEALTH INFORMATION/MEDICAL RECORDS
-MCU.Table.WithTitle={ttr-}<center><b>{MCU.Title}</b></center>{-tr-}{MCU.Heading.td}{-tr-}{MCU.List}{-ttr}
 
-MCU.Table={ttr-}{MCU.Heading.td}{-tr-}{MCU.List}{-ttr}
+P1.Handle=NYP
+
+Heading=AUTHORIZATION TO DISCLOSE PROTECTED HEALTH INFORMATION/MEDICAL RECORDS
+MCU.Table.WithTitle=<table><tr><td><center><b>{MCU.Title}</b></center></td></tr><tr><td width="25%" valign="top">{MCU.Heading.td}</td></tr><tr><td width="25%" valign="top">{MCU.List}</td></tr></table>
+
+MCU.Table=<table><tr><td>{MCU.Heading.td}</td></tr><tr><td width="25%" valign="top">{MCU.List}</td></tr></table>
 
 MCU.List={MCU.List.All}
 
-MCU.List.All={MCU.168.td}{-tr-}{MCU.68.td}{-tr-}{MCU.WhitePlains.td}{-tr-}{MCU.William.td}
+MCU.List.All={MCU.168.td}</td></tr><tr><td width="25%" valign="top">{MCU.68.td}</td></tr><tr><td width="25%" valign="top">{MCU.WhitePlains.td}</td></tr><tr><td width="25%" valign="top">{MCU.William.td}
 
 MCU.Title=MEDICAL CORRESPONDENCE UNITS
 
-MCU.Heading.td=SITE{-td-}MAILING ADDRESS{-td-}IN PERSON ADDRESS{-td-}TELEPHONE NUMBER
+MCU.Heading.td=SITE</td><td width="25%" valign="top">MAILING ADDRESS</td><td width="25%" valign="top">IN PERSON ADDRESS</td><td width="25%" valign="top">TELEPHONE NUMBER
 
-MCU.168.td={168.Site}{-td-}{168.Mail}{-td-}{168.Foot}{-td-}{168.Phone}
+MCU.168.td={168.Site}</td><td width="25%" valign="top">{168.Mail}</td><td width="25%" valign="top">{168.Foot}</td><td width="25%" valign="top">{168.Phone}
 
 168.Site=NewYork-Presbyterian Hospital / Columbia University Medical Center / Morgan Stanley Children's Hospital of NewYork-Presbyterian Hospital (CHONY) / The Allen Hospital (TAH)
 168.Mail=622 West 168th Street<br>Medical Correspondence Unit<br>New York, NY 10032
 168.Foot=177 Fort Washington Avenue<br>Milstein Lobby<br>New York, NY 10032
 168.Phone=(212) 305-3270
 
-MCU.68.td={68.Site}{-td-}{68.Mail}{-td-}{68.Foot}{-td-}{68.Phone}
+MCU.68.td={68.Site}</td><td width="25%" valign="top">{68.Mail}</td><td width="25%" valign="top">{68.Foot}</td><td width="25%" valign="top">{68.Phone}
 
 68.Site=NewYork-Presbyterian Hospital / Weill Cornell Medical Center
 68.Mail=525 East 68th Street<br>Medical Correspondence Unit<br>Box 126<br>New York, NY 10065-4879
 68.Foot=525 East 68th Street<br>Room P-04<br>New York, NY 10065-4879
 68.Phone=(212) 746-0530
 
-MCU.WhitePlains.td={WhitePlains.Site}{-td-}{WhitePlains.Mail}{-td-}{WhitePlains.Foot}{-td-}{WhitePlains.Phone}
+MCU.WhitePlains.td={WhitePlains.Site}</td><td width="25%" valign="top">{WhitePlains.Mail}</td><td width="25%" valign="top">{WhitePlains.Foot}</td><td width="25%" valign="top">{WhitePlains.Phone}
 
 WhitePlains.Site=NewYork-Presbyterian Hospital / Westchester Division
 WhitePlains.Mail=21 Bloomingdale Road<br>Medical Correspondence Unit<br>Hall H, Room 006<br>White Plains, NY 10605
 WhitePlains.Foot=21 Bloomingdale Road<br>Main Lobby - See Security<br>White Plains, NY 10605
 WhitePlains.Phone=(914) 997-5725
 
-MCU.William.td={William.Site}{-td-}{William.Mail}{-td-}{William.Foot}{-td-}{William.Phone}
+MCU.William.td={William.Site}</td><td width="25%" valign="top">{William.Mail}</td><td width="25%" valign="top">{William.Foot}</td><td width="25%" valign="top">{William.Phone}
 
 William.Site=NewYork-Presbyterian Hospital / Lower Manhattan
 William.Mail=170 William Street<br>Medical Correspondence Unit<br>Room M92<br>New York, NY 10038
@@ -153,14 +154,14 @@ table-=<table>
 
 -table=</table>
 
-ttr-={table-}<tr><td>
-tr-=<tr>{td-}
--tr-=</td></tr><tr>{td-}
+ttr-=<table><tr><td>
+tr-=<tr><td width="25%" valign="top">
+-tr-=</td></tr><tr><td width="25%" valign="top">
 -tr=</td></tr>
 -ttr=</td></tr></table>
--td-=</td>{td-}
+-td-=</td><td width="25%" valign="top">
 td-=<td width="25%" valign="top">
 ol-=<ol><li>
 -li-=</li><li>
 -ol=</li></ol>
-                    
+                      
