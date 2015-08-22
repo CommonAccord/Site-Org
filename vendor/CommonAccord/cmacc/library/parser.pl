@@ -75,7 +75,7 @@ sub expand_fields  {
 		my $ox = $part ? $part . $ex : $ex;
 		my $spanname = parse($orig, $ox);
 		my $spanvalue = "<span title='" . $ox . "' >". $spanname . "</span>";
-		$$field =~ s/\{\Q$ex\E\}/$spanvalue/gg if $value;
+		$$field =~ s/\{\Q$ex\E\}/$spanvalue/gg if $spanname;
 	}
 } 
 
