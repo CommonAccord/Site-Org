@@ -1,24 +1,22 @@
-Cmacc Definition:
+=Cmacc Definition:
 
 "Cmacc" is a name for the object model (data model?) used by CommonAccord.  It's current implementation is in the <a href="https://github.com/CommonAccord/Cmacc-Bare/blob/master/vendor/CommonAccord/cmacc/library/parser.pl">perl parser</a> done by Primavera De Filippi.
 
-Purpose:
+==Purpose:
 
-This definition has the purpose of allowing others to implement it in whatever language or context they wish.  It is also intended to serve as a base for extending Cmacc.  We think that it could very usefully be implemented as client-side parser, and as a part of P2P transacting systems, including on the blockchain.
+This definition has the purpose of allowing others to implement it in whatever language or context they wish.  It is also intended to serve as a base for extending Cmacc.  We think that it could very usefully be implemented as a client-side parser, and as a part of P2P transacting systems, including on the blockchain.
 
 Background:
 
-The object model was independently created by yours truly, in the course of a lot of experimentation.  In 2009 it was lists that could include other lists, implemented as an extension to MediaWiki.  In 2010, in the Xwiki version, it gained the notion of recursive inclusion and of "prefixing" the name space of included lists. Ludovic Dubost also coded a really beautiful rendering "view" that makes the system nearly Wysiwyg.  In 2012, Lun Yuen reimplemented with versioning.  In 2014, Primavera implemented it for use with flat files (and hence nice fit GitHub), and with lazy evaluation, a stricter priority of properties, and recursive de-prefixing.
+The object model was independently created by yours truly, in the course of a lot of experimentation.  In 2009 it was lists that could include other lists, implemented by Andrew Fitzpatrick as an extension to MediaWiki.  In 2010, in the XWiki version, it gained the notion of recursive inclusion and of "prefixing" the name space of included lists. Ludovic Dubost also coded an astonishing, very useful "view" that makes document review and editing very easy, <a href="https://www.youtube.com/watch?v=4ZfsyTPYFIA">nearly Wysiwyg</a>.  In 2012, Lun Yuen reimplemented with <a href="http://lun-sandbox-cma-concept1.appspot.com/document/CMA_Home">integrating some of the aspects of the two prior implementations, and some additional versioning</a>.  In 2014, Primavera implemented it for use with flat files (and hence nice fit GitHub), and with lazy evaluation, a stricter priority of properties, and recursive de-prefixing.
 
-It is now very good, and the two things we most urgently lack are a client side version and the Wysiwyg-ish view where each snippet can be pop-up or collapse for editing and review.
-
-We hadn't identified its place and precedents in computing until very recently.  Such identification is critical for further work.  
+It is now adequate for our core mission - codifying legal documents - but of course lacking things, too.  The two things we most urgently lack are a client side version and the XWiki-like, Wysiwyg-ish view where each snippet can be pop-up or collapse for editing and review.
 
 Cmacc Objects:
 
-Cmacc appears to be "prototype inheritance" - at least as that term is used in JavaScript.  With a few additions.  First the overlap:  the notion of an object as list of properties that inherits from another object, recursively til there are no more objects.  When queried, the object returns the named property by searching itself and if not found by searching the object from which it inherits, recursively.  Like a bunch of Post-its stuck on on top of one another.
+Cmacc appears to be "prototype inheritance" - at least as that term is used in JavaScript - with a few additions.  First the overlap:  the notion of an object as list of properties that inherits from another object, recursively til there are no more objects.  When queried, the object returns the named property by searching itself and if not found by searching the object from which it inherits, recursively.  Like a bunch of Post-its stuck on on top of one another.
 
-Cmacc differs (I think) in that an object can inherit from multiple objects.  The object must expressly name its parents and can name as many as it wants.  The parents are evaluated (recursively, depth-first), in the order in which they appear in the list (top -> down is a design decision, it could have been bottom -> up).  The notation is =[Name_Of_Other_Object]
+Cmacc differs (I think) in that an object can inherit from multiple objects.  The object must expressly name its parents and can name as many parents as it wants.  The parents are evaluated (recursively, depth-first), in the order in which they appear in the list (top -> down is a design decision, it could have been bottom -> up).  The notation for another object is<br> =[Name_Of_Other_Object]
 
 Cmacc also differs (I think) in that the reference to another object can be "prefixed."  So a reference to P1.=[Acme_Incorporated] would be the same as pasting the properties of that other object at the bottom of the current list of properties - but with "P1." preceding each name of a property and each variable in any of the properties.  E.g. If in Acme there is Address={Street}, {City}, {ST}  {Zip}, then it would be evaluated as if we had pasted: P1.Address={P1.Street}, {P1.City}, {P1.ST}  {P1.Zip}.  This is recursive.  E.g., if Acme_Incorporated referenced its CEO as CEO.=[Alice_Alto] and Alice had a similar address entry, it would be evaluated in our object as P1.CEO.Address={P1.CEO.Street}, {P1.CEO.City}, {P1.CEO.ST}  {P1.CEO.Zip}. In this age of liberation, a child object not only can claim as many parents as it wants, it can assign them roles. 
 
