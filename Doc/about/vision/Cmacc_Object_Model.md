@@ -4,13 +4,16 @@
 
 ##Purpose:
 
-This definition has the purpose of allowing others to implement it in whatever language or context they wish.  It is also intended to serve as a base for extending Cmacc.  We think that it could very usefully be implemented as a client-side parser, and as a part of P2P transacting systems, including on the blockchain.
+This page has the purpose of allowing others to implement the Cmacc object model in whatever language or context they wish.  It is also intended to serve as a base for extending Cmacc.  For instance, we think that it could very usefully be implemented as a client-side parser, and as a part of P2P transacting systems, including on the blockchain.
 
 ##Background:
 
-The object model was independently created by yours truly, in the course of a lot of experimentation.  In 2009 it was lists that could include other lists, implemented by Andrew Fitzpatrick as an extension to MediaWiki.  In 2010, in the XWiki version, it gained the notion of recursive inclusion and of "prefixing" the name space of included lists. Ludovic Dubost also coded an astonishing, very useful "view" that makes document review and editing very easy, <a href="https://www.youtube.com/watch?v=4ZfsyTPYFIA">nearly Wysiwyg</a>.  In 2012, Lun Yuen reimplemented with <a href="http://lun-sandbox-cma-concept1.appspot.com/document/CMA_Home">integrating some of the aspects of the two prior implementations, and some additional versioning</a>.  In 2014, Primavera implemented it for use with flat files (and hence nice fit GitHub), and with lazy evaluation, a stricter priority of properties, and recursive de-prefixing.
+The object model was independently created by yours truly, in the course of a lot of experimentation.  In 2009 it was lists that could include other lists, implemented by Andrew Fitzpatrick as an extension to MediaWiki.  In 2010, in the XWiki version, it gained the notion of recursive inclusion and of optional "prefixing" the name space of included lists. Ludovic Dubost also coded an astonishing, useful "view" that makes document review and editing very easy, <a href="https://www.youtube.com/watch?v=4ZfsyTPYFIA">nearly Wysiwyg</a>.  In 2012, Lun Yuen reimplemented with <a href="http://lun-sandbox-cma-concept1.appspot.com/document/CMA_Home">integrating some of the aspects of the two prior implementations, and some additional versioning</a>.  In 2014, Primavera implemented it for use with flat files, and with lazy evaluation, a stricter priority of properties, and recursive de-prefixing.
 
-It is now adequate for our core mission - codifying legal documents - but of course lacking things, too.  The two things we most urgently lack are a client side version and the XWiki-like, Wysiwyg-ish view where each snippet can be pop-up or collapse for editing and review.
+The Cmacc object model is adequate for our core mission - codifying legal documents.  But it could be much more powerful.  The two things we most urgently lack are:
+
+1. the XWiki-like, Wysiwyg-ish view where each snippet can be pop-up or collapse for editing and review, and 
+2. a client side version.
 
 ##Cmacc Objects:
 
