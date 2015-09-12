@@ -26,7 +26,7 @@ include("header.php");
 
 <h4 class="subtitle"> <a href="https://github.com/CommonAccord/Site-Org/blob/master/Doc/about/vision/Cmacc_Object_Model.md">Cmacc Object Model</a></h4>
 
-<h4 class="subtitle"> <a href="https://github.com/CommonAccord/Site-Org/blob/master/Doc/about/vision/Bitcoinference.md">Bitcoinference presentation - 12 Sept 2015</a></h4>
+<h4 class="subtitle"> <a href="http://www.bitcoinference.com/2015/Programming-Law.html">Bitcoinference presentation - 12 Sept 2015</a></h4>
         
 <h4 class="subtitle"><a href="http://news.slashdot.org/story/13/07/25/1814255/attorney-jim-hazard-is-working-to-open-source-law-video">The Slashdot interview</a></h4>
 
