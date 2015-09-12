@@ -24,9 +24,9 @@ Cmacc differs (I think) in that an object can inherit from multiple objects.  Th
 
 ### Prefixed, Multiple Protype Inheritance
 
-Cmacc also differs (I think) in that the reference to another object can be "prefixed."  So a reference to P1.=[Acme_Incorporated] would be the same as pasting the properties of that other object at the bottom of the current list of properties - but with "P1." preceding each name of a property and each variable in any of the properties.  E.g. If in Acme there is Address={Street}, {City}, {ST}  {Zip}, then it would be evaluated as if we had pasted: P1.Address={P1.Street}, {P1.City}, {P1.ST}  {P1.Zip}.  This is recursive.  E.g., if Acme_Incorporated referenced its CEO as CEO.=[Alice_Alto] and Alice had a similar address entry, it would be evaluated in our object as P1.CEO.Address={P1.CEO.Street}, {P1.CEO.City}, {P1.CEO.ST}  {P1.CEO.Zip}. In this age of liberation, a child object not only can claim as many parents as it wants, it can assign them roles. 
+Cmacc also differs (I think) in that the reference to another object can be "prefixed."  So a reference to <code>P1.=[Acme_Incorporated]</code> would be the same as pasting the properties of that other object at the bottom of the current list of properties - but with "P1." preceding each name of a property and each variable in any of the properties.  E.g. If in Acme there is <code>Address={Street}, {City}, {ST}  {Zip}</code>, then it would be evaluated as if we had pasted: <code>P1.Address={P1.Street}, {P1.City}, {P1.ST}  {P1.Zip}</code>.  This is recursive.  E.g., if Acme_Incorporated referenced its CEO as <code>CEO.=[Alice_Alto]</code> and Alice had a similar address entry, it would be evaluated in our object as <code>P1.CEO.Address={P1.CEO.Street}, {P1.CEO.City}, {P1.CEO.ST}  {P1.CEO.Zip}</code>. In this age of liberation, a child object can claim as many parents as it wants, and can assign them roles. 
 
-If a prefixed property is not found, the system will "deprefix," remove the most nested part of the prefix and look again.  In the example, if there is no "City" in Alice, the property will be evaluatated as {P1.City} (which might be "P1.City=Boston" in the top object or might be "City=Boston" in Acme_Incorporated), and if still not found then re-evaluate as {City}.  In each case, it searches the entire name space of the object that is being evaluated (pure prototype inheritance).  Deprefixing happens only with prefixing.  
+If a prefixed property is not found, the system will "deprefix," remove the most nested part of the prefix and look again.  In the example, if there is no "City" in Alice, the property will be evaluatated as {P1.City} (which might be "<code>P1.City=Boston</code>" in the top object or might be "<code>City=Boston</code>" in Acme_Incorporated), and if still not found then re-evaluate as {City}.  In each case, it searches the entire name space of the object that is being evaluated (pure prototype inheritance).  Deprefixing happens only with prefixing.
 
 ##Rendering Documents:
 
@@ -37,7 +37,7 @@ Of course one can use an object for some of its properties, such as in the examp
 
 ##Current flat file format:
 
-The flat file format allows comments and other flexibility.  It is spare and easily worked as text, in the same way that software code is worked.  It is, of course, possible to encode key/value properties on other formats, such as JSON or XML, and we expect that scaling may require this.  Ideally, a new parser would modularize the chopping of an object into properties.
+The flat file format is spare and easily worked as text, is the same way that software code is worked.  It is, of course, possible to encode key/value properties on other formats, such as JSON or XML, and we expect that scaling will require this in many uses.  Ideally, a new parser would modularize this aspect, so that users had their choice.
 
 The current format treats as a property (key/value) any line of text that has an equals sign in it.  It treats the text to the left of the first equals sign as the key and the text to the right as the value (the value can contain equals signs and there is no need to escape them).
 
@@ -45,23 +45,31 @@ If the value begins with "[" and ends with "]" it will treat the value as the na
  
 It ignores everything else. So you can put comments, extra lines, whatever into the file. 
 
-(The one change that I would recommend is to require two carriage returns to end a property, instead of one.  This would permit breaking a long section and should permit tools such as LibreOffice to directly edit long blocks of html.)
+(The one change that I would recommend is to require two carriage returns to end a property, instead of one.  This would permit convenient breaking up of long values and should permit tools such as LibreOffice to directly edit long blocks of html.)
 
 ##HTML Values:
 
-The values of properties are expressed as HTML.  HTML is the lingua franca of web pages, and it natively nests outline components.  Of course, on can use markup - and we have experience with MediaWiki markup and slight variation used by XWiki.  It appears best to transform the markup into HTML before parsing.  In the current version, we use only HTML. 
+The values of properties are expressed as HTML.  HTML is the lingua franca of web pages, and it natively nests outline components correctly.  We have lots of experience with MediaWiki markup and XWiki markup.  For a number of reasons, it appears best to transform the markup into HTML before rendering.  Despite our frequent use of the .md suffix for files, there is no support in the current parser for markup.  We use .md so that files present better on GitHub.
 
+##Using Exogenous Sources:
 
-##Name Space of Objects:
+The current system has only two places that it looks for objects.  The basic is that it looks in a common directory (Doc/) for a file with exactly that name.  Of course there is no reason to limit itself this way and it is imagined that objects could be anywhere
 
-The current system has only two places that it looks for objects.  The basic is that it looks in a common directory for a file with exactly that name.  Of course there is no reason to limit itself this way and it is imagined that objects could be anywhere.  In a rudimentary way, the system will look for an object based on a URL, signalled by a question mark.  So, P1.=[?http://acme.com/alice_alto] would evaluate the file there.  There is no facility so far for relative name spaces for objects.  
+Currently, in a rudimentary way, the system will look for a file based on a URL, signalled by a question mark.  So, P1.=[?http://acme.com/alice_alto] would evaluate the file there.  The file can be hosted at any URL, on any platform, so long as it delivers a relative simple text file with the characteristic <code>key=value</code> wrapped in carriage returns.  
+
+There is no facility so far for relative name spaces for objects, so it will evaluate the name of a parent in the context of the top object. <a href="https://github.com/CommonAccord/Site-DataShare/issues/1#issuecomment-108514277">Some thoughts on relative name spaces.</a>.
+
+##Use in Transacting Systems
+
+We anticipate that most use will be in connection with transacting systems such as blockchain, but also incumbent systems and in a pure CommonAccord model (see the article by Marc Dangeard on use at Be-Bound). 
+
+We expect that each of these systems will copy the text to make it part of their native data model.  This may be necessary or convenient for technical reasons or for ease of proof.  We note that GitHub provides a native, hashed URL, which can serve as one means of proof.  As a practical matter, you can create your own proof by forking the site.
 
 
 ##Extensions:
 
-It is important that the system remain simple.  The job of legal documentation is not technically hard, it is a matter of connecting real legal expertise to the texts.  A feature of the current system is that any change can be made by simply overwriting (overriding) the undesired span, creating a new object that references the existing object.  Any "improvement" should retain this simplicity.
-
-But there are obvious improvements that would actually add intellectual coherence, and enable integration with more powerful computing functions. 
+It is important that the system remain simple.  The job of legal documentation is not technically hard, it is a matter of careful organization of the texts and accumulating legal expertise.  Any technical "improvement" should preserve this simplicity generally, and in particular retain a key feature - any object can be modified by overwriting (overriding) the undesired element, thereby creating a new object that references the existing one.  This, I believe, is called "declarative" in CS-speak.  
+But there are obviously improvements that would add functionality and even a few that would complete (rather than expand) the object model.  The learning around prototype inheritance certainly has lessons and methods for us.  It would be great to  integrate with programming languages. 
 
 ##Further; Contact
 
