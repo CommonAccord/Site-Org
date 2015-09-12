@@ -2,7 +2,7 @@
 
 "Cmacc" is a name for the object model (data model?) used by CommonAccord.  It's current implementation is in the <a href="https://github.com/CommonAccord/Cmacc-Bare/blob/master/vendor/CommonAccord/cmacc/library/parser.pl">perl parser</a> done by Primavera De Filippi.
 
-==Purpose:
+==Purpose:==
 
 This definition has the purpose of allowing others to implement it in whatever language or context they wish.  It is also intended to serve as a base for extending Cmacc.  We think that it could very usefully be implemented as a client-side parser, and as a part of P2P transacting systems, including on the blockchain.
 
