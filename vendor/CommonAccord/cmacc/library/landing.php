@@ -18,15 +18,19 @@ include("header.php");
 <br/><br/>
 
 </div></div>
-<table><tr><td valign=top>
-<a href="<?=$_SERVER['PHP_SELF']?>?action=demo"><img  src="visual/learn.jpg"></a>
-</td><td valign=top>       <h4 class="subtitle"><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=/>The Documents</a>.</h4>
- <h4 class="subtitle"><a href="https://docs.google.com/presentation/d/1goOc9sv1XXI-uuxRK0W406XCKahVkJP41WmO2pAiu2s/edit?usp=sharing">Center for Decentralized Law</a>.</h4>
+<table><tr>
+
+<td valign=top><a href="<?=$_SERVER['PHP_SELF']?>?action=demo"><img  src="visual/learn.jpg"></a></td>
+<td valign=top><h4 class="subtitle"><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=/>The Documents</a>.</h4>
+<h4 class="subtitle"><a href="https://docs.google.com/presentation/d/1goOc9sv1XXI-uuxRK0W406XCKahVkJP41WmO2pAiu2s/edit?usp=sharing">Center for Decentralized Law</a>.</h4>
+<h4 class="subtitle"> <a href="https://github.com/CommonAccord/Site-Org/blob/master/Doc/about/vision/Cmacc_Object_Model.md">Cmacc Object Model</a></h4>
+        <h4 class="subtitle"><a href="http://news.slashdot.org/story/13/07/25/1814255/attorney-jim-hazard-is-working-to-open-source-law-video">The Slashdot interview.</a></h4>
+
+        <h4 class="subtitle"><a href="https://goo.gl/lOs5Fg">Decentralized Interface between Blockchain and Law</a>.</h4>
 
         <h4 class="subtitle"><a href="https://www.linkedin.com/pulse/law-code-marc-dangeard">Experience at Be-Bound</a>.</h4>
 
         <h4 class="subtitle"><a href=<?=$_SERVER['PHP_SELF']?>?action=list&file=/about/Agt/>how it works</a>.</h4>
-        <h4 class="subtitle"><a href="http://news.slashdot.org/story/13/07/25/1814255/attorney-jim-hazard-is-working-to-open-source-law-video">The Slashdot interview.</a></h4>
         
   </td><td valign=top> &emsp; 
 </td><td valign=top align=right width=40%>
