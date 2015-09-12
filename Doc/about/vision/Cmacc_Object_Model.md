@@ -14,9 +14,15 @@ It is now adequate for our core mission - codifying legal documents - but of cou
 
 ##Cmacc Objects:
 
+###Prototype Inheritance
+
 Cmacc appears to be "prototype inheritance" - at least as that term is used in JavaScript - with a few additions.  First the overlap:  the notion of an object as list of properties that inherits from another object, recursively til there are no more objects.  When queried, the object returns the named property by searching itself and if not found by searching the object from which it inherits, recursively.  Like a bunch of Post-its stuck on on top of one another.
 
+### Multiple Prototype Inheritance
+
 Cmacc differs (I think) in that an object can inherit from multiple objects.  The object must expressly name its parents and can name as many parents as it wants.  The parents are evaluated (recursively, depth-first), in the order in which they appear in the list (top -> down is a design decision, it could have been bottom -> up).  The notation for another object is<br> =[Name_Of_Other_Object]
+
+### Prefixed, Multiple Protype Inheritance
 
 Cmacc also differs (I think) in that the reference to another object can be "prefixed."  So a reference to P1.=[Acme_Incorporated] would be the same as pasting the properties of that other object at the bottom of the current list of properties - but with "P1." preceding each name of a property and each variable in any of the properties.  E.g. If in Acme there is Address={Street}, {City}, {ST}  {Zip}, then it would be evaluated as if we had pasted: P1.Address={P1.Street}, {P1.City}, {P1.ST}  {P1.Zip}.  This is recursive.  E.g., if Acme_Incorporated referenced its CEO as CEO.=[Alice_Alto] and Alice had a similar address entry, it would be evaluated in our object as P1.CEO.Address={P1.CEO.Street}, {P1.CEO.City}, {P1.CEO.ST}  {P1.CEO.Zip}. In this age of liberation, a child object not only can claim as many parents as it wants, it can assign them roles. 
 
@@ -24,7 +30,7 @@ If a prefixed property is not found, the system will "deprefix," remove the most
 
 ##Rendering Documents:
 
-These objects can be used in a number of ways.  The most common in CommonAccord is to render a text (our focus is legal documents, but any text is fine).  We render by starting with the name of one property (by ugly default it is called Model.Root).  So a value of Model.Root={A}, {B} and {C} is evaluated by looking for A=, B=, and C=.  If those values contain any variables, those variables are also expanded, until all variables have been substituted or determined to be not available.  (The order of expansion makes no difference.)
+These objects can be used in a number of ways.  The most common in CommonAccord is to render a text (our focus is legal documents, but any text is fine).  We render by starting with the name of one property (by ugly default it is called "Model.Root").  So a value of <code>Model.Root={A}, {B} and {C}</code> is evaluated by looking for A=, B=, and C=.  If those values contain any variables, those variables are also expanded, until all variables have been substituted or determined to be not available.  (The order of expansion makes no difference.)
 
 Of course one can use an object for some of its properties, such as in the example of Acme_Incorporate and Alice_Alto. Objects can be collections of other objects, such as a shareholder list, and intended as a name space rather than for direct rendering. Properties can also be included that serve a computing purpose.
 
