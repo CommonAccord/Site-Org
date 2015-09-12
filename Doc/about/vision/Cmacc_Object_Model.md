@@ -13,13 +13,13 @@ The object model was independently created by yours truly, in the course of a lo
 The Cmacc object model is adequate for our core mission - codifying legal documents.  But it could be much more powerful.  The two things we most urgently lack are:
 
 1. the XWiki-like, Wysiwyg-ish view where each snippet can be pop-up or collapse for editing and review, and 
-2. a client side version.
+2. a client side version, for instance in JavaScript.
 
 ##Cmacc Objects:
 
 ###Prototype Inheritance
 
-Cmacc appears to be "prototype inheritance" - at least as that term is used in JavaScript - with a few additions.  First the overlap:  the notion of an object as list of properties that inherits from another object, recursively til there are no more objects.  When queried, the object returns the named property by searching itself and if not found by searching the object from which it inherits, recursively.  Like a bunch of Post-its stuck on on top of one another.
+Cmacc appears to be "prototype inheritance" - at least as that term is used in JavaScript - with a few additions.  First the overlap:  the notion of an object as list of properties that inherits from another object, recursively til there are no more objects.  When queried, the object returns the named property by searching itself and if not found by searching the object from which it inherits, recursively.  Like reading down a scroll of paper made by sticking Post-its on the top of one another.
 
 ### Multiple Prototype Inheritance
 
@@ -27,7 +27,7 @@ Cmacc differs (I think) in that an object can inherit from multiple objects.  Th
 
 ### Prefixed, Multiple Protype Inheritance
 
-Cmacc also differs (I think) in that the reference to another object can be "prefixed."  So a reference to <code>P1.=[Acme_Incorporated]</code> would be the same as pasting the properties of that other object at the bottom of the current list of properties - but with "P1." preceding each name of a property and each variable in any of the properties.  E.g. If in Acme there is <code>Address={Street}, {City}, {ST}  {Zip}</code>, then it would be evaluated as if we had pasted: <code>P1.Address={P1.Street}, {P1.City}, {P1.ST}  {P1.Zip}</code>.  This is recursive.  E.g., if Acme_Incorporated referenced its CEO as <code>CEO.=[Alice_Alto]</code> and Alice had a similar address entry, it would be evaluated in our object as <code>P1.CEO.Address={P1.CEO.Street}, {P1.CEO.City}, {P1.CEO.ST}  {P1.CEO.Zip}</code>. In this age of liberation, a child object can claim as many parents as it wants, and can assign them roles. 
+Cmacc also differs (I think) in that the reference to another object can be "prefixed."  So a reference to<br> <code>P1.=[Acme_Incorporated]</code><br>would be the same as pasting the properties of that other object at the bottom of the current list of properties - but with "P1." preceding each name of a property and each variable in any of the properties.  E.g. If in Acme there is <br><code>Address={Street}, {City}, {ST}  {Zip}</code><br>then it would be evaluated as if we had pasted: <br><code>P1.Address={P1.Street}, {P1.City}, {P1.ST}  {P1.Zip}</code><br>  This is recursive.  E.g., if Acme_Incorporated referenced its CEO as <br><code>CEO.=[Alice_Alto]</code><br> and Alice had a similar address entry, it would be evaluated in our object as <br><code>P1.CEO.Address={P1.CEO.Street}, {P1.CEO.City}, {P1.CEO.ST}  {P1.CEO.Zip}</code><br> In this age of liberation, a child object can claim as many parents as it wants, and assign them roles. 
 
 If a prefixed property is not found, the system will "deprefix," remove the most nested part of the prefix and look again.  In the example, if there is no "City" in Alice, the property will be evaluatated as {P1.City} (which might be "<code>P1.City=Boston</code>" in the top object or might be "<code>City=Boston</code>" in Acme_Incorporated), and if still not found then re-evaluate as {City}.  In each case, it searches the entire name space of the object that is being evaluated (pure prototype inheritance).  Deprefixing happens only with prefixing.
 
