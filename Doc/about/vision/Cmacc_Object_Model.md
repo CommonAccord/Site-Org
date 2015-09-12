@@ -35,12 +35,12 @@ If a prefixed property is not found, the system will "deprefix," remove the most
 
 These objects can be used in a number of ways.  The most common in CommonAccord is to render a text (our focus is legal documents, but any text is fine).  We render by starting with the name of one property (by ugly default it is called "Model.Root").  So a value of <code>Model.Root={A}, {B} and {C}</code> is evaluated by looking for A=, B=, and C=.  If those values contain any variables, those variables are also expanded, until all variables have been substituted or determined to be not available.  (The order of expansion makes no difference.)
 
-Of course one can use an object for some of its properties, such as in the example of Acme_Incorporate and Alice_Alto. Objects can be collections of other objects, such as a shareholder list, and intended as a name space rather than for direct rendering. Properties can also be included that serve a computing purpose.
+Of course one can use an object for some of its properties, such as in the example of Acme_Incorporate and Alice_Alto.
 
 
 ##Current flat file format:
 
-The flat file format is spare and easily worked as text, is the same way that software code is worked.  It is, of course, possible to encode key/value properties on other formats, such as JSON or XML, and we expect that scaling will require this in many uses.  Ideally, a new parser would modularize this aspect, so that users had their choice.
+The flat file format is spare, easily edited as text (for instance permitting editing in the browser directly on GitHub, as I am doing now), and is the same way that software code is worked.  It is of course possible to encode key/value properties in other formats, such as JSON or XML, and we expect that scaling and logging will require this.  Ideally, a new parser would modularize this aspect, so that users had their choice or could mix.
 
 The current format treats as a property (key/value) any line of text that has an equals sign in it.  It treats the text to the left of the first equals sign as the key and the text to the right as the value (the value can contain equals signs and there is no need to escape them).
 
