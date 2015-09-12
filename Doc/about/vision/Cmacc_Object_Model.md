@@ -1,4 +1,4 @@
-#Defining Cmacc Object Model:
+#Cmacc Object Model:
 
 "Cmacc" is a name for the object model (data model?) used by CommonAccord.  It's current implementation is in the <a href="https://github.com/CommonAccord/Cmacc-Bare/blob/master/vendor/CommonAccord/cmacc/library/parser.pl">perl parser</a> done by Primavera De Filippi.
 
