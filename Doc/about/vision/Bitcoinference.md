@@ -6,7 +6,7 @@ Bitcoin Precipitates a Revolution in Governance and Law
 
 3. Payments are the core of transacting - but there is more. The "more" is often intermediated by legal documents.
 
-4. Legal document sourcing, can also be reduced to its value proposition. Documents are text - software engineers know how to handle text.
+4. Legal document sourcing can also be reduced to its value proposition. Documents are text - software engineers know how to handle text.
 
 5. CommonAccord is source code for legal docs. On GitHub. Forkable.
 
