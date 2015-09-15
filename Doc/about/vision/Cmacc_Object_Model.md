@@ -74,6 +74,10 @@ We expect that each of these systems will copy the text to make it part of their
 It is important that the system remain simple.  The job of legal documentation is not technically hard, it is a matter of careful organization of the texts and accumulating legal expertise.  Any technical "improvement" should preserve this simplicity generally, and in particular retain a key feature - any object can be modified by overwriting (overriding) the undesired element, thereby creating a new object that references the existing one.  This, I believe, is called "declarative" in CS-speak.  
 But there are obviously improvements that would add functionality and even a few that would complete (rather than expand) the object model.  The learning around prototype inheritance certainly has lessons and methods for us.  It would be great to  integrate with programming languages. 
 
+##Tests
+
+At the suggestion of @zmon, <a href="http://www.commonaccord.org/index.php?action=list&file=/about/test/1/">have created some tests</a>.
+
 ##Further; Contact
 
 Please have at us.  Pull requests welcomed, as are email requests.
