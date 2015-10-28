@@ -51,10 +51,12 @@ Def.Outside Counsel of Record="Outside Counsel of Record": attorneys who are not
 Def.Party="Party": any party to this action, including all of its officers, directors, employees, consultants, retained experts, and Outside Counsel of Record (and their support staffs).
 
 Def.Producing Party="Producing Party": a Party or Non-Party that produces Disclosure or Discovery Material in this action.
-"Professional Vendors": persons or entities that provide litigation support services (e.g., photocopying, videotaping, translating, preparing exhibits or demonstrations, and organizing, storing, or retrieving data in any form or medium) and their employees and subcontractors.
+
+Def.Professional Vendors="Professional Vendors": persons or entities that provide litigation support services (e.g., photocopying, videotaping, translating, preparing exhibits or demonstrations, and organizing, storing, or retrieving data in any form or medium) and their employees and subcontractors.
 
 Def.Protected Material="Protected Material": any Disclosure or Discovery Material that is designated as "Confidential", "Highly Confidential - Attorneys' Eyes Only", or "Highly Confidential - Source Code."
-"Receiving Party": a Party that receives Disclosure or Discovery Material from a Producing Party.
+
+Def.Receiving Party="Receiving Party": a Party that receives Disclosure or Discovery Material from a Producing Party.
 
 Scope._Sec=<u>SCOPE</u>.<br>The protections conferred by this Stipulation and Order cover not only {Protected Material} (as defined above), but also (1) any information copied or extracted from {Protected Material}; (2) all copies, excerpts, summaries, or compilations of {Protected Material}; and (3) any testimony, conversations, or presentations by Parties or their {Counsel} that might reveal {Protected Material}. However, the protections conferred by this Stipulation and Order do not cover the following information: (a) any information that is in the public domain at the time of disclosure to a {Receiving Party} or becomes part of the public domain after its disclosure to a {Receiving Party} as a result of publication not involving a violation of this Order, including becoming part of the public record through trial or otherwise; and (b) any information known to the {Receiving Party} prior to the disclosure or obtained by the {Receiving Party} after the disclosure from a source who obtained the information lawfully and under no obligation of confidentiality to the {Designating Party}. Any use of {Protected Material} at trial shall be governed by a separate agreement or order.
 
