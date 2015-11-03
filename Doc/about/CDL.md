@@ -27,19 +27,14 @@ Ti=The Center for Decentralized Law
 
 90.sec=If you are interested in participating in or supporting this effort, please see {Participate}.  For more background, see {Agt}, {Layers} and {EarlierOnCDL}.
 
-Agt={a-}about/Agt/Step1{-a-}about/Agt/Step1{-a}
+Agt=<u><a href="index.php?action=source&file=about/Agt/Step1">about/Agt/Step1</a></u>
 
-Participate={a-}about/Participate.md{-a-}about/Participate.md{-a}
+Participate=<u><a href="index.php?action=source&file=about/Participate.md">about/Agt/Step1</a></u>
 
-EarlierOnCDL={a-}about/Stack/CDL.md{-a-}about/Stack/CDL.md{-a}
+EarlierOnCDL=<u><a href="index.php?action=source&file=about/Stack/CDL.md">about/Stack/CDL.md</a></u>
 
-Layers={a-}about/Stack/Layers.md{-a-}about/Stack/Layers.md{-a}
+Layers=<u><a href="index.php?action=source&file=about/Stack/Layers.md">about/Stack/Layers.md</a></u>
 
-a-=<u><a href="http://old.commonaccord.org/index.php?action=source&file=./
-
--a-=">
-
--a=</a></u>
 
 =[02/Bit/Ssec_06]
 
